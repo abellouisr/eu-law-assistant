@@ -45,7 +45,7 @@ from eu_law_nli.library import Library  # noqa: E402
 from eu_law_nli.llm import AnthropicLLM, LLMError  # noqa: E402
 from eu_law_nli.registry import list_documents, load_document  # noqa: E402
 
-st.set_page_config(page_title="EU law reference assistant", page_icon="⚖️")
+st.set_page_config(page_title="EU LexRef", page_icon="⚖️")
 
 
 def password_gate() -> None:
@@ -58,6 +58,7 @@ def password_gate() -> None:
     # In the browser's language, from the saved translations (no model call here).
     t = Localiser(None).strings((st.context.locale or "en").split("-")[0].lower())
     st.title(t["page_title"])
+    st.markdown(f"**{t['page_subtitle']}**")
     st.write(t["login_intro"])
     with st.form("login", border=True, enter_to_submit=True):
         # "current-password" tells browsers this is an existing password, so phones
@@ -179,7 +180,9 @@ if st.session_state.get("document") != doc_id or "session" not in st.session_sta
         st.session_state["shown"] = []
 session: Session = st.session_state["session"]
 shown: list[tuple[str, object]] = st.session_state.setdefault("shown", [])
-strings = engine.strings(session)
+# English as a fallback: after an update without a restart, a cached engine may
+# not yet know a newly added text.
+strings = {**i18n.STRINGS, **engine.strings(session)}
 notice = st.session_state.pop("act_notice", None)
 if notice:
     shown.append(("notice", strings.get(notice, i18n.STRINGS.get(notice, "{document}")).format(
@@ -254,6 +257,7 @@ with st.sidebar:
         st.rerun()
 
 st.title(strings["page_title"])
+st.markdown(f"**{strings['page_subtitle']}**")
 st.caption(strings["page_intro"])
 if config.USAGE_LOG:
     st.caption(strings["audit_notice"].format(days=config.USAGE_RETENTION_DAYS))

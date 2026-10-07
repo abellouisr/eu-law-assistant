@@ -12,7 +12,7 @@
   "handoff_no": "Fhimt. Ma nirreġistra xejn f'din il-konversazzjoni.",
   "error_busy": "L-assistent qed ikun mimli ħafna bħalissa. Jekk jogħġbok stenna minuta u erġa' staqsi.",
   "error_generic": "Skużani, xi ħaġa marret ħażin waqt it-tħejjija tat-tweġiba. Jekk jogħġbok erġa' pprova, jew sewwi l-mistoqsija tiegħek.",
-  "page_title": "Assistent ta' referenza dwar il-liġi tal-UE",
+  "page_title": "EU LexRef",
   "page_intro": "Agħżel att legali fuq ix-xellug u staqsi mistoqsija fi kwalunkwe lingwa tal-UE. It-tweġibiet jiċċitaw l-att u jipprovdu rabta mat-test uffiċjali. Assistent ta' referenza, mhux konsulent legali: irrevedi kull tweġiba qabel ma toqgħod fuqha jew taqsimha.",
   "audit_notice": "Reġistru ta' awditjar: matul dan il-perjodu ta' prova, il-mistoqsijiet jinżammu għal {days} jum għall-ittestjar u t-titjib, imbagħad jitħassru awtomatikament. Ma jiġi rreġistrat xejn li jidentifikak: l-ebda isem, kont, indirizz IP jew dettalji tal-apparat. Jekk jogħġbok tinkludix dettalji personali jew kunfidenzjali fil-mistoqsijiet tiegħek.",
   "input_placeholder": "Staqsi dwar l-att magħżul, jew iddeskrivi sitwazzjoni",
@@ -57,7 +57,7 @@
     "handoff_no": "Understood. I will not record anything in this conversation.",
     "error_busy": "The assistant is very busy right now. Please wait a minute and ask again.",
     "error_generic": "Sorry, something went wrong while preparing the answer. Please try again, or rephrase your question.",
-    "page_title": "EU law reference assistant",
+    "page_title": "EU LexRef",
     "page_intro": "Choose a legal act on the left and ask a question in any EU language. Answers quote the act and link to the official text. Reference assistant, not a legal advisor: review every response before relying on it or sharing it.",
     "audit_notice": "Audit log: during this trial, the questions are kept for {days} days for testing and improvement, then deleted automatically. Nothing that identifies you is recorded: no name, account, IP address or device details. Please do not include personal or confidential details in your questions.",
     "input_placeholder": "Ask about the selected act, or describe a situation",
@@ -112,7 +112,8 @@
     "login_password": "Password",
     "login_button": "Log in",
     "login_help": "You received the password from the person who invited you to the test.",
-    "login_error": "That password is not correct. Please check it and try again."
+    "login_error": "That password is not correct. Please check it and try again.",
+    "page_subtitle": "EU law reference assistant"
   },
   "out_of_scope_library": "L-att magħżul ({document}) ma jittrattax din il-mistoqsija, iżda att ieħor f'din il-librerija jittratta.",
   "suggest_act": "Probabbilment koperta bi aktar dettall minn att ieħor f'din il-librerija: {document} (pereżempju {provisions}).",
@@ -138,5 +139,6 @@
   "login_password": "Password",
   "login_button": "Idħol",
   "login_help": "Ircevejt il-password mingħand il-persuna li stiednek għat-test.",
-  "login_error": "Din il-password mhijiex korretta. Jekk jogħġbok iċċekkjaha u erġa' pprova."
+  "login_error": "Din il-password mhijiex korretta. Jekk jogħġbok iċċekkjaha u erġa' pprova.",
+  "page_subtitle": "Assistent ta' referenza dwar il-liġi tal-UE"
 }

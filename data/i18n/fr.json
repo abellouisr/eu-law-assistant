@@ -12,7 +12,7 @@
   "handoff_no": "Compris. Je n'enregistrerai rien au cours de cette conversation.",
   "error_busy": "L'assistant est très sollicité en ce moment. Veuillez patienter une minute et poser à nouveau votre question.",
   "error_generic": "Désolé, une erreur s'est produite lors de la préparation de la réponse. Veuillez réessayer ou reformuler votre question.",
-  "page_title": "Assistant de référence en droit de l'UE",
+  "page_title": "EU LexRef",
   "page_intro": "Choisissez un acte juridique à gauche et posez une question dans n'importe quelle langue de l'UE. Les réponses citent l'acte et renvoient vers le texte officiel. Assistant de référence, et non conseiller juridique : vérifiez chaque réponse avant de vous y fier ou de la partager.",
   "audit_notice": "Journal d'audit : pendant cette phase d'essai, les questions sont conservées pendant {days} jours à des fins de test et d'amélioration, puis supprimées automatiquement. Aucune donnée permettant de vous identifier n'est enregistrée : ni nom, ni compte, ni adresse IP, ni informations sur l'appareil. Veuillez ne pas inclure de données personnelles ou confidentielles dans vos questions.",
   "input_placeholder": "Posez une question sur l'acte sélectionné ou décrivez une situation",
@@ -57,7 +57,7 @@
     "handoff_no": "Understood. I will not record anything in this conversation.",
     "error_busy": "The assistant is very busy right now. Please wait a minute and ask again.",
     "error_generic": "Sorry, something went wrong while preparing the answer. Please try again, or rephrase your question.",
-    "page_title": "EU law reference assistant",
+    "page_title": "EU LexRef",
     "page_intro": "Choose a legal act on the left and ask a question in any EU language. Answers quote the act and link to the official text. Reference assistant, not a legal advisor: review every response before relying on it or sharing it.",
     "audit_notice": "Audit log: during this trial, the questions are kept for {days} days for testing and improvement, then deleted automatically. Nothing that identifies you is recorded: no name, account, IP address or device details. Please do not include personal or confidential details in your questions.",
     "input_placeholder": "Ask about the selected act, or describe a situation",
@@ -112,7 +112,8 @@
     "login_password": "Password",
     "login_button": "Log in",
     "login_help": "You received the password from the person who invited you to the test.",
-    "login_error": "That password is not correct. Please check it and try again."
+    "login_error": "That password is not correct. Please check it and try again.",
+    "page_subtitle": "EU law reference assistant"
   },
   "out_of_scope_library": "L'acte sélectionné ({document}) ne traite pas cette question, mais un autre acte de cette bibliothèque la traite.",
   "suggest_act": "Probablement traité de manière plus détaillée par un autre acte de cette bibliothèque : {document} (par exemple {provisions}).",
@@ -138,5 +139,6 @@
   "login_password": "Mot de passe",
   "login_button": "Se connecter",
   "login_help": "Vous avez reçu le mot de passe de la personne qui vous a invité(e) à participer au test.",
-  "login_error": "Ce mot de passe n'est pas correct. Veuillez le vérifier et réessayer."
+  "login_error": "Ce mot de passe n'est pas correct. Veuillez le vérifier et réessayer.",
+  "page_subtitle": "Assistant de référence en droit de l'Union européenne"
 }

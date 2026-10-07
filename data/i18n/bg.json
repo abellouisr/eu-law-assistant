@@ -12,7 +12,7 @@
   "handoff_no": "Разбрано. Няма да записвам нищо в този разговор.",
   "error_busy": "Помощникът е много зает в момента. Моля, изчакайте една минута и попитайте отново.",
   "error_generic": "Съжаляваме, възникна грешка при подготовката на отговора. Моля, опитайте отново или перифразирайте въпроса си.",
-  "page_title": "Помощник за справки в правото на ЕС",
+  "page_title": "EU LexRef",
   "page_intro": "Изберете правен акт отляво и задайте въпрос на който и да е език на ЕС. Отговорите цитират акта и съдържат връзка към официалния текст. Помощник за справки, а не правен консултант: прегледайте всеки отговор, преди да се доверите на него или да го споделите.",
   "audit_notice": "Одитен дневник: по време на този пробен период въпросите се съхраняват {days} дни за тестване и подобряване, след което се изтриват автоматично. Не се записва нищо, което да Ви идентифицира: нито име, нито профил, нито IP адрес, нито данни за устройство. Моля, не включвайте лични или поверителни данни във въпросите си.",
   "input_placeholder": "Задайте въпрос за избрания акт или опишете ситуация",
@@ -57,7 +57,7 @@
     "handoff_no": "Understood. I will not record anything in this conversation.",
     "error_busy": "The assistant is very busy right now. Please wait a minute and ask again.",
     "error_generic": "Sorry, something went wrong while preparing the answer. Please try again, or rephrase your question.",
-    "page_title": "EU law reference assistant",
+    "page_title": "EU LexRef",
     "page_intro": "Choose a legal act on the left and ask a question in any EU language. Answers quote the act and link to the official text. Reference assistant, not a legal advisor: review every response before relying on it or sharing it.",
     "audit_notice": "Audit log: during this trial, the questions are kept for {days} days for testing and improvement, then deleted automatically. Nothing that identifies you is recorded: no name, account, IP address or device details. Please do not include personal or confidential details in your questions.",
     "input_placeholder": "Ask about the selected act, or describe a situation",
@@ -112,7 +112,8 @@
     "login_password": "Password",
     "login_button": "Log in",
     "login_help": "You received the password from the person who invited you to the test.",
-    "login_error": "That password is not correct. Please check it and try again."
+    "login_error": "That password is not correct. Please check it and try again.",
+    "page_subtitle": "EU law reference assistant"
   },
   "out_of_scope_library": "Избраният акт ({document}) не урежда този въпрос, но друг акт в тази библиотека го урежда.",
   "suggest_act": "Вероятно е уредено по-подробно в друг акт в тази библиотека: {document} (например {provisions}).",
@@ -138,5 +139,6 @@
   "login_password": "Парола",
   "login_button": "Вход",
   "login_help": "Паролата сте получили от лицето, което ви е поканило да участвате в теста.",
-  "login_error": "Тази парола не е правилна. Моля, проверете я и опитайте отново."
+  "login_error": "Тази парола не е правилна. Моля, проверете я и опитайте отново.",
+  "page_subtitle": "Помощник за справки по правото на ЕС"
 }

@@ -12,7 +12,7 @@
   "handoff_no": "Suprantu. Šiame pokalbyje nieko neregistruosiu.",
   "error_busy": "Asistentas šiuo metu labai užimtas. Palaukite minutę ir paklauskite dar kartą.",
   "error_generic": "Atsiprašome, ruošiant atsakymą įvyko klaida. Bandykite dar kartą arba performuluokite klausimą.",
-  "page_title": "ES teisės informacinis asistentas",
+  "page_title": "EU LexRef",
   "page_intro": "Kairėje pasirinkite teisės aktą ir užduokite klausimą bet kuria ES kalba. Atsakymuose cituojamas aktas ir pateikiama nuoroda į oficialų tekstą. Tai informacinis asistentas, o ne teisinis patarėjas: prieš remdamiesi kiekvienu atsakymu ar jį perduodami kitiems, jį peržiūrėkite.",
   "audit_notice": "Audito žurnalas: per šį bandomąjį laikotarpį klausimai saugomi {days} d. testavimo ir tobulinimo tikslais, o vėliau automatiškai ištrinami. Nieko, kas leistų jus identifikuoti, neregistruojama: nei vardo, nei paskyros, nei IP adreso, nei įrenginio duomenų. Klausimuose nenurodykite asmeninės ar konfidencialios informacijos.",
   "input_placeholder": "Klauskite apie pasirinktą aktą arba aprašykite situaciją",
@@ -57,7 +57,7 @@
     "handoff_no": "Understood. I will not record anything in this conversation.",
     "error_busy": "The assistant is very busy right now. Please wait a minute and ask again.",
     "error_generic": "Sorry, something went wrong while preparing the answer. Please try again, or rephrase your question.",
-    "page_title": "EU law reference assistant",
+    "page_title": "EU LexRef",
     "page_intro": "Choose a legal act on the left and ask a question in any EU language. Answers quote the act and link to the official text. Reference assistant, not a legal advisor: review every response before relying on it or sharing it.",
     "audit_notice": "Audit log: during this trial, the questions are kept for {days} days for testing and improvement, then deleted automatically. Nothing that identifies you is recorded: no name, account, IP address or device details. Please do not include personal or confidential details in your questions.",
     "input_placeholder": "Ask about the selected act, or describe a situation",
@@ -112,7 +112,8 @@
     "login_password": "Password",
     "login_button": "Log in",
     "login_help": "You received the password from the person who invited you to the test.",
-    "login_error": "That password is not correct. Please check it and try again."
+    "login_error": "That password is not correct. Please check it and try again.",
+    "page_subtitle": "EU law reference assistant"
   },
   "out_of_scope_library": "Pasirinktas aktas ({document}) šio klausimo nereglamentuoja, tačiau jį reglamentuoja kitas šios bibliotekos aktas.",
   "suggest_act": "Tikėtina, kad išsamiau reglamentuojama kitame šios bibliotekos akte: {document} (pavyzdžiui, {provisions}).",
@@ -138,5 +139,6 @@
   "login_password": "Slaptažodis",
   "login_button": "Prisijungti",
   "login_help": "Slaptažodį gavote iš asmens, kuris pakvietė jus dalyvauti bandyme.",
-  "login_error": "Šis slaptažodis yra neteisingas. Patikrinkite jį ir bandykite dar kartą."
+  "login_error": "Šis slaptažodis yra neteisingas. Patikrinkite jį ir bandykite dar kartą.",
+  "page_subtitle": "ES teisės informacinis asistentas"
 }

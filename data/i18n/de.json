@@ -12,7 +12,7 @@
   "handoff_no": "Verstanden. Ich werde in dieser Unterhaltung nichts erfassen.",
   "error_busy": "Der Assistent ist derzeit stark ausgelastet. Bitte warten Sie eine Minute und stellen Sie Ihre Frage erneut.",
   "error_generic": "Entschuldigung, bei der Erstellung der Antwort ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut oder formulieren Sie Ihre Frage um.",
-  "page_title": "Referenzassistent für EU-Recht",
+  "page_title": "EU LexRef",
   "page_intro": "Wählen Sie links einen Rechtsakt aus und stellen Sie Ihre Frage in einer beliebigen EU-Sprache. Die Antworten zitieren den Rechtsakt und verlinken auf den amtlichen Text. Referenzassistent, kein Rechtsberater: Prüfen Sie jede Antwort, bevor Sie sich darauf verlassen oder sie weitergeben.",
   "audit_notice": "Prüfprotokoll: Während dieser Testphase werden die Fragen {days} Tage lang zu Test- und Verbesserungszwecken gespeichert und anschließend automatisch gelöscht. Es wird nichts erfasst, was Sie identifiziert: kein Name, kein Konto, keine IP-Adresse und keine Gerätedaten. Bitte geben Sie in Ihren Fragen keine persönlichen oder vertraulichen Angaben an.",
   "input_placeholder": "Fragen Sie zum ausgewählten Rechtsakt oder beschreiben Sie eine Situation",
@@ -57,7 +57,7 @@
     "handoff_no": "Understood. I will not record anything in this conversation.",
     "error_busy": "The assistant is very busy right now. Please wait a minute and ask again.",
     "error_generic": "Sorry, something went wrong while preparing the answer. Please try again, or rephrase your question.",
-    "page_title": "EU law reference assistant",
+    "page_title": "EU LexRef",
     "page_intro": "Choose a legal act on the left and ask a question in any EU language. Answers quote the act and link to the official text. Reference assistant, not a legal advisor: review every response before relying on it or sharing it.",
     "audit_notice": "Audit log: during this trial, the questions are kept for {days} days for testing and improvement, then deleted automatically. Nothing that identifies you is recorded: no name, account, IP address or device details. Please do not include personal or confidential details in your questions.",
     "input_placeholder": "Ask about the selected act, or describe a situation",
@@ -112,7 +112,8 @@
     "login_password": "Password",
     "login_button": "Log in",
     "login_help": "You received the password from the person who invited you to the test.",
-    "login_error": "That password is not correct. Please check it and try again."
+    "login_error": "That password is not correct. Please check it and try again.",
+    "page_subtitle": "EU law reference assistant"
   },
   "out_of_scope_library": "Der ausgewählte Rechtsakt ({document}) behandelt diese Frage nicht, wohl aber ein anderer Rechtsakt in dieser Bibliothek.",
   "suggest_act": "Wahrscheinlich ausführlicher in einem anderen Gesetz dieser Bibliothek geregelt: {document} (zum Beispiel {provisions}).",
@@ -138,5 +139,6 @@
   "login_password": "Passwort",
   "login_button": "Anmelden",
   "login_help": "Das Passwort haben Sie von der Person erhalten, die Sie zum Test eingeladen hat.",
-  "login_error": "Dieses Passwort ist nicht korrekt. Bitte überprüfen Sie es und versuchen Sie es erneut."
+  "login_error": "Dieses Passwort ist nicht korrekt. Bitte überprüfen Sie es und versuchen Sie es erneut.",
+  "page_subtitle": "Assistent für Referenzen zum EU-Recht"
 }

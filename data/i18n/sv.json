@@ -12,7 +12,7 @@
   "handoff_no": "Uppfattat. Jag kommer inte att registrera något under denna konversation.",
   "error_busy": "Assistenten har mycket att göra just nu. Vänta en minut och ställ frågan igen.",
   "error_generic": "Tyvärr gick något fel när svaret skulle förberedas. Försök igen eller formulera om din fråga.",
-  "page_title": "Referensassistent för EU-rätt",
+  "page_title": "EU LexRef",
   "page_intro": "Välj en rättsakt till vänster och ställ en fråga på valfritt EU-språk. Svaren citerar akten och länkar till den officiella texten. Referensassistent, inte juridisk rådgivare: granska varje svar innan du förlitar dig på det eller delar det.",
   "audit_notice": "Granskningslogg: under denna provperiod sparas frågorna i {days} dagar för testning och förbättring och raderas sedan automatiskt. Inget som identifierar dig registreras: inget namn, konto, ingen IP-adress och inga enhetsuppgifter. Ange inga personliga eller konfidentiella uppgifter i dina frågor.",
   "input_placeholder": "Ställ en fråga om den valda akten eller beskriv en situation",
@@ -57,7 +57,7 @@
     "handoff_no": "Understood. I will not record anything in this conversation.",
     "error_busy": "The assistant is very busy right now. Please wait a minute and ask again.",
     "error_generic": "Sorry, something went wrong while preparing the answer. Please try again, or rephrase your question.",
-    "page_title": "EU law reference assistant",
+    "page_title": "EU LexRef",
     "page_intro": "Choose a legal act on the left and ask a question in any EU language. Answers quote the act and link to the official text. Reference assistant, not a legal advisor: review every response before relying on it or sharing it.",
     "audit_notice": "Audit log: during this trial, the questions are kept for {days} days for testing and improvement, then deleted automatically. Nothing that identifies you is recorded: no name, account, IP address or device details. Please do not include personal or confidential details in your questions.",
     "input_placeholder": "Ask about the selected act, or describe a situation",
@@ -112,7 +112,8 @@
     "login_password": "Password",
     "login_button": "Log in",
     "login_help": "You received the password from the person who invited you to the test.",
-    "login_error": "That password is not correct. Please check it and try again."
+    "login_error": "That password is not correct. Please check it and try again.",
+    "page_subtitle": "EU law reference assistant"
   },
   "out_of_scope_library": "Den valda akten ({document}) behandlar inte denna fråga, men en annan akt i detta bibliotek gör det.",
   "suggest_act": "Behandlas sannolikt mer ingående i en annan lag i detta bibliotek: {document} (till exempel {provisions}).",
@@ -138,5 +139,6 @@
   "login_password": "Lösenord",
   "login_button": "Logga in",
   "login_help": "Du fick lösenordet av den person som bjöd in dig till testet.",
-  "login_error": "Lösenordet är felaktigt. Kontrollera det och försök igen."
+  "login_error": "Lösenordet är felaktigt. Kontrollera det och försök igen.",
+  "page_subtitle": "Referensassistent för EU-rätt"
 }

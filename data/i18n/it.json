@@ -12,7 +12,7 @@
   "handoff_no": "Capito. Non registrerò nulla in questa conversazione.",
   "error_busy": "L'assistente è molto occupato in questo momento. La preghiamo di attendere un minuto e di riformulare la domanda.",
   "error_generic": "Spiacenti, si è verificato un problema durante la preparazione della risposta. La preghiamo di riprovare o di riformulare la domanda.",
-  "page_title": "Assistente di consultazione del diritto dell'UE",
+  "page_title": "EU LexRef",
   "page_intro": "Scelga un atto giuridico a sinistra e ponga una domanda in una qualsiasi lingua dell'UE. Le risposte citano l'atto e rimandano al testo ufficiale. Assistente di consultazione, non consulente legale: verifichi ogni risposta prima di fare affidamento su di essa o di condividerla.",
   "audit_notice": "Registro di controllo: durante questa fase di prova, le domande sono conservate per {days} giorni a fini di verifica e miglioramento, poi eliminate automaticamente. Non viene registrato nulla che La identifichi: né nome, né account, né indirizzo IP, né dati del dispositivo. La preghiamo di non inserire nelle domande dati personali o riservati.",
   "input_placeholder": "Chieda informazioni sull'atto selezionato o descriva una situazione",
@@ -57,7 +57,7 @@
     "handoff_no": "Understood. I will not record anything in this conversation.",
     "error_busy": "The assistant is very busy right now. Please wait a minute and ask again.",
     "error_generic": "Sorry, something went wrong while preparing the answer. Please try again, or rephrase your question.",
-    "page_title": "EU law reference assistant",
+    "page_title": "EU LexRef",
     "page_intro": "Choose a legal act on the left and ask a question in any EU language. Answers quote the act and link to the official text. Reference assistant, not a legal advisor: review every response before relying on it or sharing it.",
     "audit_notice": "Audit log: during this trial, the questions are kept for {days} days for testing and improvement, then deleted automatically. Nothing that identifies you is recorded: no name, account, IP address or device details. Please do not include personal or confidential details in your questions.",
     "input_placeholder": "Ask about the selected act, or describe a situation",
@@ -112,7 +112,8 @@
     "login_password": "Password",
     "login_button": "Log in",
     "login_help": "You received the password from the person who invited you to the test.",
-    "login_error": "That password is not correct. Please check it and try again."
+    "login_error": "That password is not correct. Please check it and try again.",
+    "page_subtitle": "EU law reference assistant"
   },
   "out_of_scope_library": "L'atto selezionato ({document}) non tratta questa domanda, ma un altro atto di questa raccolta la tratta.",
   "suggest_act": "Probabilmente trattato in modo più dettagliato da un altro atto presente in questa biblioteca: {document} (ad esempio {provisions}).",
@@ -138,5 +139,6 @@
   "login_password": "Password",
   "login_button": "Accedi",
   "login_help": "La password le è stata fornita dalla persona che l'ha invitata al test.",
-  "login_error": "La password non è corretta. La controlli e riprovi."
+  "login_error": "La password non è corretta. La controlli e riprovi.",
+  "page_subtitle": "Assistente di consultazione del diritto dell'UE"
 }

@@ -81,6 +81,7 @@ def main() -> int:
 
 def _banner(engine: Engine) -> None:
     langs = ", ".join(sorted(engine.corpora))
+    print("EU LexRef — EU law reference assistant")
     print(f"{engine.doc.short_name} — {engine.version.kind} text of {engine.version.date} "
           f"(languages loaded: {langs})\nAsk in any language. /acts lists the library, "
           "/switch <id> changes act, 'exit' leaves.")

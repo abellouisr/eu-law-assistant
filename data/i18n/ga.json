@@ -12,7 +12,7 @@
   "handoff_no": "Tuigim. Ní thaifeadfaidh mé aon rud sa chomhrá seo.",
   "error_busy": "Tá an cúntóir an-ghnóthach faoi láthair. Fan nóiméad, le do thoil, agus cuir an cheist arís.",
   "error_generic": "Gabh mo leithscéal, tharla earráid agus an freagra á ullmhú. Bain triail eile as, nó athfhoclaigh do cheist.",
-  "page_title": "Cúntóir tagartha do dhlí an AE",
+  "page_title": "EU LexRef",
   "page_intro": "Roghnaigh gníomh dlí ar chlé agus cuir ceist in aon teanga de chuid an AE. Sa fhreagra, luaitear an gníomh agus tugtar nasc chuig an téacs oifigiúil. Cúntóir tagartha é seo, ní comhairleoir dlí: athbhreithnigh gach freagra sula mbraitheann tú air nó sula roinneann tú é.",
   "audit_notice": "Log iniúchta: le linn na tréimhse trialach seo, coinnítear na ceisteanna ar feadh {days} lá le haghaidh tástála agus feabhsúcháin, agus scriostar go huathoibríoch ansin iad. Ní thaifeadtar aon rud a aithníonn thú: gan ainm, cuntas, seoladh IP ná sonraí gléis. Ná cuir sonraí pearsanta ná rúnda isteach i do cheisteanna, le do thoil.",
   "input_placeholder": "Cuir ceist faoin ngníomh roghnaithe, nó déan cur síos ar chás",
@@ -57,7 +57,7 @@
     "handoff_no": "Understood. I will not record anything in this conversation.",
     "error_busy": "The assistant is very busy right now. Please wait a minute and ask again.",
     "error_generic": "Sorry, something went wrong while preparing the answer. Please try again, or rephrase your question.",
-    "page_title": "EU law reference assistant",
+    "page_title": "EU LexRef",
     "page_intro": "Choose a legal act on the left and ask a question in any EU language. Answers quote the act and link to the official text. Reference assistant, not a legal advisor: review every response before relying on it or sharing it.",
     "audit_notice": "Audit log: during this trial, the questions are kept for {days} days for testing and improvement, then deleted automatically. Nothing that identifies you is recorded: no name, account, IP address or device details. Please do not include personal or confidential details in your questions.",
     "input_placeholder": "Ask about the selected act, or describe a situation",
@@ -112,7 +112,8 @@
     "login_password": "Password",
     "login_button": "Log in",
     "login_help": "You received the password from the person who invited you to the test.",
-    "login_error": "That password is not correct. Please check it and try again."
+    "login_error": "That password is not correct. Please check it and try again.",
+    "page_subtitle": "EU law reference assistant"
   },
   "out_of_scope_library": "Ní dhéileálann an gníomh roghnaithe ({document}) leis an gceist seo, ach déileálann gníomh eile sa leabharlann seo léi.",
   "suggest_act": "Is dócha go gcumhdaítear é níos mine in acht eile sa leabharlann seo: {document} (mar shampla {provisions}).",
@@ -138,5 +139,6 @@
   "login_password": "Pasfhocal",
   "login_button": "Logáil isteach",
   "login_help": "Fuair tú an pasfhocal ón duine a thug cuireadh duit chun páirt a ghlacadh sa tástáil.",
-  "login_error": "Níl an pasfhocal sin ceart. Seiceáil é le do thoil agus bain triail eile as."
+  "login_error": "Níl an pasfhocal sin ceart. Seiceáil é le do thoil agus bain triail eile as.",
+  "page_subtitle": "Cúntóir tagartha um dhlí an Aontais Eorpaigh"
 }

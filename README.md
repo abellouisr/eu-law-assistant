@@ -1,4 +1,4 @@
-# EU law reference assistant (prototype)
+# EU LexRef — EU law reference assistant (prototype)
 
 A natural language interface for a library of EU acts and other reference
 material: currently the European Electronic Communications Code (Directive

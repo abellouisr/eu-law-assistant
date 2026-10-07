@@ -82,7 +82,8 @@ STRINGS: dict[str, str] = {
         "Sorry, something went wrong while preparing the answer. Please try again, or "
         "rephrase your question."
     ),
-    "page_title": "EU law reference assistant",
+    "page_title": "EU LexRef",  # the product name: the same in every language
+    "page_subtitle": "EU law reference assistant",
     "login_intro": (
         "Ask questions about EU law in your own language and get answers that quote the "
         "official text. This is a test version: please log in to continue."

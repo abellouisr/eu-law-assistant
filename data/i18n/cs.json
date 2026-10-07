@@ -12,7 +12,7 @@
   "handoff_no": "Rozumím. V této konverzaci nebudu nic zaznamenávat.",
   "error_busy": "Asistent je právě velmi vytížen. Počkejte prosím minutu a zeptejte se znovu.",
   "error_generic": "Omlouváme se, při přípravě odpovědi se něco pokazilo. Zkuste to prosím znovu nebo otázku přeformulujte.",
-  "page_title": "Asistent pro vyhledávání v právu EU",
+  "page_title": "EU LexRef",
   "page_intro": "Vyberte vlevo právní akt a položte otázku v libovolném jazyce EU. Odpovědi citují akt a odkazují na oficiální znění. Jde o referenční asistent, nikoli právního poradce: každou odpověď si před tím, než se na ni spolehnete nebo ji sdílíte, ověřte.",
   "audit_notice": "Auditní záznam: během tohoto zkušebního provozu se otázky uchovávají {days} dní pro účely testování a zlepšování a poté se automaticky odstraní. Nezaznamenává se nic, co by vás identifikovalo: žádné jméno, účet, IP adresa ani údaje o zařízení. Do svých otázek prosím nezahrnujte osobní ani důvěrné údaje.",
   "input_placeholder": "Zeptejte se na vybraný akt nebo popište situaci",
@@ -57,7 +57,7 @@
     "handoff_no": "Understood. I will not record anything in this conversation.",
     "error_busy": "The assistant is very busy right now. Please wait a minute and ask again.",
     "error_generic": "Sorry, something went wrong while preparing the answer. Please try again, or rephrase your question.",
-    "page_title": "EU law reference assistant",
+    "page_title": "EU LexRef",
     "page_intro": "Choose a legal act on the left and ask a question in any EU language. Answers quote the act and link to the official text. Reference assistant, not a legal advisor: review every response before relying on it or sharing it.",
     "audit_notice": "Audit log: during this trial, the questions are kept for {days} days for testing and improvement, then deleted automatically. Nothing that identifies you is recorded: no name, account, IP address or device details. Please do not include personal or confidential details in your questions.",
     "input_placeholder": "Ask about the selected act, or describe a situation",
@@ -112,7 +112,8 @@
     "login_password": "Password",
     "login_button": "Log in",
     "login_help": "You received the password from the person who invited you to the test.",
-    "login_error": "That password is not correct. Please check it and try again."
+    "login_error": "That password is not correct. Please check it and try again.",
+    "page_subtitle": "EU law reference assistant"
   },
   "out_of_scope_library": "Vybraný akt ({document}) se touto otázkou nezabývá, ale jiný akt v této knihovně ano.",
   "suggest_act": "Podrobněji je to pravděpodobně upraveno jiným právním předpisem v této knihovně: {document} (například {provisions}).",
@@ -138,5 +139,6 @@
   "login_password": "Heslo",
   "login_button": "Přihlásit se",
   "login_help": "Heslo jste obdrželi od osoby, která vás přizvala k testování.",
-  "login_error": "Toto heslo není správné. Zkontrolujte jej prosím a zkuste to znovu."
+  "login_error": "Toto heslo není správné. Zkontrolujte jej prosím a zkuste to znovu.",
+  "page_subtitle": "Asistent pro vyhledávání v právu EU"
 }
