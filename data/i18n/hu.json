@@ -107,7 +107,12 @@
     "closest_heading": "Closest provisions",
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
     "returned_home": "Back to {document} for your next question.",
-    "switched_to": "Now answering from: {document}."
+    "switched_to": "Now answering from: {document}.",
+    "login_intro": "Ask questions about EU law in your own language and get answers that quote the official text. This is a test version: please log in to continue.",
+    "login_password": "Password",
+    "login_button": "Log in",
+    "login_help": "You received the password from the person who invited you to the test.",
+    "login_error": "That password is not correct. Please check it and try again."
   },
   "out_of_scope_library": "A kiválasztott jogi aktus ({document}) nem foglalkozik ezzel a kérdéssel, de a könyvtár egy másik jogi aktusa igen.",
   "suggest_act": "Valószínűleg részletesebben szabályozza a könyvtár egy másik jogszabálya: {document} (például {provisions}).",
@@ -128,5 +133,10 @@
   "closest_heading": "Legközelebb álló rendelkezések",
   "error_setup": "Az asszisztens konfigurációs probléma miatt nem éri el az MI-szolgáltatását. Kérjük, értesítse azt a személyt, aki megosztotta Önnel.",
   "returned_home": "Vissza a(z) {document} dokumentumhoz a következő kérdésével kapcsolatban.",
-  "switched_to": "A válasz mostantól a következő forrás alapján készül: {document}."
+  "switched_to": "A válasz mostantól a következő forrás alapján készül: {document}.",
+  "login_intro": "Tegyen fel kérdéseket az uniós jogról a saját nyelvén, és kapjon olyan válaszokat, amelyek a hivatalos szöveget idézik. Ez egy tesztverzió: a folytatáshoz kérjük, jelentkezzen be.",
+  "login_password": "Jelszó",
+  "login_button": "Bejelentkezés",
+  "login_help": "A jelszót attól a személytől kapta, aki meghívta a tesztre.",
+  "login_error": "Ez a jelszó nem helyes. Kérjük, ellenőrizze, és próbálja meg újra."
 }

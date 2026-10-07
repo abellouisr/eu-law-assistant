@@ -107,7 +107,12 @@
     "closest_heading": "Closest provisions",
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
     "returned_home": "Back to {document} for your next question.",
-    "switched_to": "Now answering from: {document}."
+    "switched_to": "Now answering from: {document}.",
+    "login_intro": "Ask questions about EU law in your own language and get answers that quote the official text. This is a test version: please log in to continue.",
+    "login_password": "Password",
+    "login_button": "Log in",
+    "login_help": "You received the password from the person who invited you to the test.",
+    "login_error": "That password is not correct. Please check it and try again."
   },
   "out_of_scope_library": "L-att magħżul ({document}) ma jittrattax din il-mistoqsija, iżda att ieħor f'din il-librerija jittratta.",
   "suggest_act": "Probabbilment koperta bi aktar dettall minn att ieħor f'din il-librerija: {document} (pereżempju {provisions}).",
@@ -128,5 +133,10 @@
   "closest_heading": "L-eqreb dispożizzjonijiet",
   "error_setup": "L-assistent ma jistax jilħaq is-servizz tal-IA tiegħu minħabba problema ta' konfigurazzjoni. Jekk jogħġbok informa lill-persuna li qasmitu miegħek.",
   "returned_home": "Lura għal {document} għall-mistoqsija li jmiss tiegħek.",
-  "switched_to": "Issa qed nirrispondi minn: {document}."
+  "switched_to": "Issa qed nirrispondi minn: {document}.",
+  "login_intro": "Staqsi mistoqsijiet dwar il-liġi tal-UE bil-lingwa tiegħek stess u ksib tweġibiet li jikkwotaw it-test uffiċjali. Din hija verżjoni tat-test: jekk jogħġbok idħol biex tkompli.",
+  "login_password": "Password",
+  "login_button": "Idħol",
+  "login_help": "Ircevejt il-password mingħand il-persuna li stiednek għat-test.",
+  "login_error": "Din il-password mhijiex korretta. Jekk jogħġbok iċċekkjaha u erġa' pprova."
 }

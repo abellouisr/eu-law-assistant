@@ -107,7 +107,12 @@
     "closest_heading": "Closest provisions",
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
     "returned_home": "Back to {document} for your next question.",
-    "switched_to": "Now answering from: {document}."
+    "switched_to": "Now answering from: {document}.",
+    "login_intro": "Ask questions about EU law in your own language and get answers that quote the official text. This is a test version: please log in to continue.",
+    "login_password": "Password",
+    "login_button": "Log in",
+    "login_help": "You received the password from the person who invited you to the test.",
+    "login_error": "That password is not correct. Please check it and try again."
   },
   "suggest_act": "Tõenäoliselt on seda põhjalikumalt käsitletud selles raamatukogus oleva teises õigusaktis: {document} (näiteks {provisions}).",
   "switch_button": "Vaheta aktile {document} ja küsi seal",
@@ -128,5 +133,10 @@
   "closest_heading": "Kõige lähedasemad sätted",
   "error_setup": "Assistent ei saa seadistusprobleemi tõttu ühendust oma tehisintellektiteenusega. Palun andke sellest teada isikule, kes selle teiega jagas.",
   "returned_home": "Tagasi dokumendi {document} juurde teie järgmise küsimuse jaoks.",
-  "switched_to": "Nüüd vastatakse allika põhjal: {document}."
+  "switched_to": "Nüüd vastatakse allika põhjal: {document}.",
+  "login_intro": "Esitage küsimusi ELi õiguse kohta oma emakeeles ja saage vastuseid, mis tsiteerivad ametlikku teksti. See on katseversioon: jätkamiseks logige sisse.",
+  "login_password": "Parool",
+  "login_button": "Logi sisse",
+  "login_help": "Parooli sai teile isik, kes kutsus teid katsetusel osalema.",
+  "login_error": "See parool ei ole õige. Palun kontrollige seda ja proovige uuesti."
 }

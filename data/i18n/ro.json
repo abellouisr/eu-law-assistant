@@ -107,7 +107,12 @@
     "closest_heading": "Closest provisions",
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
     "returned_home": "Back to {document} for your next question.",
-    "switched_to": "Now answering from: {document}."
+    "switched_to": "Now answering from: {document}.",
+    "login_intro": "Ask questions about EU law in your own language and get answers that quote the official text. This is a test version: please log in to continue.",
+    "login_password": "Password",
+    "login_button": "Log in",
+    "login_help": "You received the password from the person who invited you to the test.",
+    "login_error": "That password is not correct. Please check it and try again."
   },
   "out_of_scope_library": "Actul selectat ({document}) nu tratează această întrebare, dar un alt act din această bibliotecă o tratează.",
   "suggest_act": "Probabil reglementat mai detaliat de un alt act din această bibliotecă: {document} (de exemplu {provisions}).",
@@ -128,5 +133,10 @@
   "closest_heading": "Cele mai apropiate dispoziții",
   "error_setup": "Asistentul nu poate accesa serviciul său de inteligență artificială din cauza unei probleme de configurare. Vă rugăm să informați persoana care v-a transmis acest instrument.",
   "returned_home": "Înapoi la {document} pentru următoarea dumneavoastră întrebare.",
-  "switched_to": "Se răspunde acum din: {document}."
+  "switched_to": "Se răspunde acum din: {document}.",
+  "login_intro": "Adresați întrebări despre dreptul UE în propria limbă și primiți răspunsuri care citează textul oficial. Aceasta este o versiune de test: vă rugăm să vă autentificați pentru a continua.",
+  "login_password": "Parolă",
+  "login_button": "Autentificare",
+  "login_help": "Ați primit parola de la persoana care v-a invitat să participați la test.",
+  "login_error": "Parola introdusă nu este corectă. Vă rugăm să o verificați și să încercați din nou."
 }

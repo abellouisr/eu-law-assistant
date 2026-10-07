@@ -83,6 +83,14 @@ STRINGS: dict[str, str] = {
         "rephrase your question."
     ),
     "page_title": "EU law reference assistant",
+    "login_intro": (
+        "Ask questions about EU law in your own language and get answers that quote the "
+        "official text. This is a test version: please log in to continue."
+    ),
+    "login_password": "Password",
+    "login_button": "Log in",
+    "login_help": "You received the password from the person who invited you to the test.",
+    "login_error": "That password is not correct. Please check it and try again.",
     "page_intro": (
         "Choose a legal act on the left and ask a question in any EU language. Answers "
         "quote the act and link to the official text. Reference assistant, not a legal "

@@ -107,7 +107,12 @@
     "closest_heading": "Closest provisions",
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
     "returned_home": "Back to {document} for your next question.",
-    "switched_to": "Now answering from: {document}."
+    "switched_to": "Now answering from: {document}.",
+    "login_intro": "Ask questions about EU law in your own language and get answers that quote the official text. This is a test version: please log in to continue.",
+    "login_password": "Password",
+    "login_button": "Log in",
+    "login_help": "You received the password from the person who invited you to the test.",
+    "login_error": "That password is not correct. Please check it and try again."
   },
   "out_of_scope_library": "Η επιλεγμένη πράξη ({document}) δεν πραγματεύεται το ερώτημα αυτό, αλλά το πραγματεύεται άλλη πράξη της παρούσας βιβλιοθήκης.",
   "suggest_act": "Πιθανώς καλύπτεται με μεγαλύτερη λεπτομέρεια από άλλη πράξη της παρούσας βιβλιοθήκης: {document} (για παράδειγμα {provisions}).",
@@ -128,5 +133,10 @@
   "closest_heading": "Πλησιέστερες διατάξεις",
   "error_setup": "Ο βοηθός δεν μπορεί να συνδεθεί με την υπηρεσία τεχνητής νοημοσύνης του λόγω προβλήματος διαμόρφωσης. Παρακαλούμε ενημερώστε το άτομο που τον κοινοποίησε σε εσάς.",
   "returned_home": "Επιστροφή στο {document} για την επόμενη ερώτησή σας.",
-  "switched_to": "Η απάντηση δίνεται πλέον από: {document}."
+  "switched_to": "Η απάντηση δίνεται πλέον από: {document}.",
+  "login_intro": "Θέστε ερωτήσεις σχετικά με το δίκαιο της ΕΕ στη δική σας γλώσσα και λάβετε απαντήσεις που παραθέτουν το επίσημο κείμενο. Πρόκειται για δοκιμαστική έκδοση: παρακαλούμε συνδεθείτε για να συνεχίσετε.",
+  "login_password": "Κωδικός πρόσβασης",
+  "login_button": "Σύνδεση",
+  "login_help": "Τον κωδικό πρόσβασης τον λάβατε από το πρόσωπο που σας προσκάλεσε στη δοκιμαστική λειτουργία.",
+  "login_error": "Ο κωδικός πρόσβασης δεν είναι σωστός. Παρακαλούμε ελέγξτε τον και δοκιμάστε ξανά."
 }

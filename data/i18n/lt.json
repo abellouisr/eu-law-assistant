@@ -107,7 +107,12 @@
     "closest_heading": "Closest provisions",
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
     "returned_home": "Back to {document} for your next question.",
-    "switched_to": "Now answering from: {document}."
+    "switched_to": "Now answering from: {document}.",
+    "login_intro": "Ask questions about EU law in your own language and get answers that quote the official text. This is a test version: please log in to continue.",
+    "login_password": "Password",
+    "login_button": "Log in",
+    "login_help": "You received the password from the person who invited you to the test.",
+    "login_error": "That password is not correct. Please check it and try again."
   },
   "out_of_scope_library": "Pasirinktas aktas ({document}) šio klausimo nereglamentuoja, tačiau jį reglamentuoja kitas šios bibliotekos aktas.",
   "suggest_act": "Tikėtina, kad išsamiau reglamentuojama kitame šios bibliotekos akte: {document} (pavyzdžiui, {provisions}).",
@@ -128,5 +133,10 @@
   "closest_heading": "Artimiausios nuostatos",
   "error_setup": "Asistentas negali prisijungti prie savo dirbtinio intelekto paslaugos dėl konfigūracijos problemos. Prašome pranešti asmeniui, kuris jums jį pasidalino.",
   "returned_home": "Grįžtama prie {document}, kad galėtumėte užduoti kitą klausimą.",
-  "switched_to": "Dabar atsakoma remiantis: {document}."
+  "switched_to": "Dabar atsakoma remiantis: {document}.",
+  "login_intro": "Užduokite klausimus apie ES teisę savo kalba ir gaukite atsakymus, kuriuose cituojamas oficialus tekstas. Tai bandomoji versija: norėdami tęsti, prisijunkite.",
+  "login_password": "Slaptažodis",
+  "login_button": "Prisijungti",
+  "login_help": "Slaptažodį gavote iš asmens, kuris pakvietė jus dalyvauti bandyme.",
+  "login_error": "Šis slaptažodis yra neteisingas. Patikrinkite jį ir bandykite dar kartą."
 }

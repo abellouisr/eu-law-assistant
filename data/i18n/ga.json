@@ -107,7 +107,12 @@
     "closest_heading": "Closest provisions",
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
     "returned_home": "Back to {document} for your next question.",
-    "switched_to": "Now answering from: {document}."
+    "switched_to": "Now answering from: {document}.",
+    "login_intro": "Ask questions about EU law in your own language and get answers that quote the official text. This is a test version: please log in to continue.",
+    "login_password": "Password",
+    "login_button": "Log in",
+    "login_help": "You received the password from the person who invited you to the test.",
+    "login_error": "That password is not correct. Please check it and try again."
   },
   "out_of_scope_library": "Ní dhéileálann an gníomh roghnaithe ({document}) leis an gceist seo, ach déileálann gníomh eile sa leabharlann seo léi.",
   "suggest_act": "Is dócha go gcumhdaítear é níos mine in acht eile sa leabharlann seo: {document} (mar shampla {provisions}).",
@@ -128,5 +133,10 @@
   "closest_heading": "Na forálacha is gaire",
   "error_setup": "Ní féidir leis an chúntóir teacht ar a sheirbhís AI mar gheall ar fhadhb chumraíochta. Cuir an duine a roinn leat é ar an eolas, le do thoil.",
   "returned_home": "Ar ais go {document} le haghaidh do chéad cheiste eile.",
-  "switched_to": "Ag freagairt anois ó: {document}."
+  "switched_to": "Ag freagairt anois ó: {document}.",
+  "login_intro": "Cuir ceisteanna faoi dhlí an Aontais Eorpaigh i do theanga féin agus faigh freagraí a luann an téacs oifigiúil. Is leagan tástála é seo: logáil isteach le do thoil chun leanúint ar aghaidh.",
+  "login_password": "Pasfhocal",
+  "login_button": "Logáil isteach",
+  "login_help": "Fuair tú an pasfhocal ón duine a thug cuireadh duit chun páirt a ghlacadh sa tástáil.",
+  "login_error": "Níl an pasfhocal sin ceart. Seiceáil é le do thoil agus bain triail eile as."
 }

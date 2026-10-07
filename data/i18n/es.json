@@ -107,7 +107,12 @@
     "closest_heading": "Closest provisions",
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
     "returned_home": "Back to {document} for your next question.",
-    "switched_to": "Now answering from: {document}."
+    "switched_to": "Now answering from: {document}.",
+    "login_intro": "Ask questions about EU law in your own language and get answers that quote the official text. This is a test version: please log in to continue.",
+    "login_password": "Password",
+    "login_button": "Log in",
+    "login_help": "You received the password from the person who invited you to the test.",
+    "login_error": "That password is not correct. Please check it and try again."
   },
   "out_of_scope_library": "El acto seleccionado ({document}) no trata esta cuestión, pero sí lo hace otro acto de esta biblioteca.",
   "suggest_act": "Probablemente se regula con mayor detalle en otra ley de esta biblioteca: {document} (por ejemplo, {provisions}).",
@@ -128,5 +133,10 @@
   "closest_heading": "Disposiciones más próximas",
   "error_setup": "El asistente no puede acceder a su servicio de IA debido a un problema de configuración. Por favor, informe de ello a la persona que se lo ha compartido.",
   "returned_home": "Volvemos a {document} para su siguiente pregunta.",
-  "switched_to": "Ahora respondiendo desde: {document}."
+  "switched_to": "Ahora respondiendo desde: {document}.",
+  "login_intro": "Formule preguntas sobre el Derecho de la UE en su propio idioma y obtenga respuestas que citan el texto oficial. Esta es una versión de prueba: inicie sesión para continuar.",
+  "login_password": "Contraseña",
+  "login_button": "Iniciar sesión",
+  "login_help": "Usted recibió la contraseña de la persona que le invitó a la prueba.",
+  "login_error": "Esa contraseña no es correcta. Compruébela e inténtelo de nuevo."
 }

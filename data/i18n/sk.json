@@ -107,7 +107,12 @@
     "closest_heading": "Closest provisions",
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
     "returned_home": "Back to {document} for your next question.",
-    "switched_to": "Now answering from: {document}."
+    "switched_to": "Now answering from: {document}.",
+    "login_intro": "Ask questions about EU law in your own language and get answers that quote the official text. This is a test version: please log in to continue.",
+    "login_password": "Password",
+    "login_button": "Log in",
+    "login_help": "You received the password from the person who invited you to the test.",
+    "login_error": "That password is not correct. Please check it and try again."
   },
   "out_of_scope_library": "Vybraný akt ({document}) sa touto otázkou nezaoberá, ale iný akt v tejto knižnici sa ňou zaoberá.",
   "suggest_act": "Pravdepodobne podrobnejšie upravuje iný právny predpis v tejto knižnici: {document} (napríklad {provisions}).",
@@ -128,5 +133,10 @@
   "closest_heading": "Najbližšie ustanovenia",
   "error_setup": "Asistent sa nemôže spojiť so svojou službou umelej inteligencie z dôvodu problému s konfiguráciou. Informujte prosím osobu, ktorá vám ho sprístupnila.",
   "returned_home": "Späť na dokument {document} pre vašu ďalšiu otázku.",
-  "switched_to": "Odpovedám na základe dokumentu: {document}."
+  "switched_to": "Odpovedám na základe dokumentu: {document}.",
+  "login_intro": "Kladte otázky o práve EÚ vo vlastnom jazyku a získajte odpovede, ktoré citujú úradné znenie. Ide o testovaciu verziu: ak chcete pokračovať, prihláste sa.",
+  "login_password": "Heslo",
+  "login_button": "Prihlásiť sa",
+  "login_help": "Heslo ste dostali od osoby, ktorá vás pozvala na test.",
+  "login_error": "Toto heslo nie je správne. Skontrolujte ho a skúste to znova."
 }

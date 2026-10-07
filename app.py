@@ -55,18 +55,29 @@ def password_gate() -> None:
     expected = config.APP_PASSWORD
     if not expected or st.session_state.get("authenticated"):
         return
-    st.title("EU law reference assistant")
-    st.caption("This is a test version. Please enter the password you were given.")
-    entered = st.text_input("Password", type="password")
-    if entered:
-        if hmac.compare_digest(entered.encode(), expected.encode()):
+    # In the browser's language, from the saved translations (no model call here).
+    t = Localiser(None).strings((st.context.locale or "en").split("-")[0].lower())
+    st.title(t["page_title"])
+    st.write(t["login_intro"])
+    with st.form("login", border=True, enter_to_submit=True):
+        # "current-password" tells browsers this is an existing password, so phones
+        # do not offer to create (and save) a new one.
+        entered = st.text_input(t["login_password"], type="password",
+                                autocomplete="current-password")
+        submitted = st.form_submit_button(t["login_button"], type="primary",
+                                          use_container_width=True)
+    st.caption(t["login_help"])
+    if submitted:
+        if entered and hmac.compare_digest(entered.encode(), expected.encode()):
             st.session_state["authenticated"] = True
             st.rerun()
-        st.error("That password is not correct.")
+        st.error(t["login_error"])
     st.stop()
 
 
 password_gate()
+
+
 
 
 def text_key(doc_id: str) -> tuple[str, str, float]:

@@ -107,7 +107,12 @@
     "closest_heading": "Closest provisions",
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
     "returned_home": "Back to {document} for your next question.",
-    "switched_to": "Now answering from: {document}."
+    "switched_to": "Now answering from: {document}.",
+    "login_intro": "Ask questions about EU law in your own language and get answers that quote the official text. This is a test version: please log in to continue.",
+    "login_password": "Password",
+    "login_button": "Log in",
+    "login_help": "You received the password from the person who invited you to the test.",
+    "login_error": "That password is not correct. Please check it and try again."
   },
   "out_of_scope_library": "Izvēlētais tiesību akts ({document}) šo jautājumu neregulē, taču cits šīs bibliotēkas tiesību akts to regulē.",
   "suggest_act": "Iespējams, sīkāk reglamentēts citā šīs bibliotēkas tiesību aktā: {document} (piemēram, {provisions}).",
@@ -128,5 +133,10 @@
   "closest_heading": "Tuvākie noteikumi",
   "error_setup": "Asistents nevar sazināties ar savu MI pakalpojumu konfigurācijas problēmas dēļ. Lūdzu, informējiet personu, kas jums šo rīku nosūtīja.",
   "returned_home": "Atpakaļ pie {document} jūsu nākamajam jautājumam.",
-  "switched_to": "Tagad atbildu, izmantojot: {document}."
+  "switched_to": "Tagad atbildu, izmantojot: {document}.",
+  "login_intro": "Uzdodiet jautājumus par ES tiesību aktiem savā valodā un saņemiet atbildes, kurās citēts oficiālais teksts. Šī ir testa versija: lūdzu, piesakieties, lai turpinātu.",
+  "login_password": "Parole",
+  "login_button": "Pieteikties",
+  "login_help": "Paroli saņēmāt no personas, kas jūs uzaicināja piedalīties testā.",
+  "login_error": "Šī parole nav pareiza. Lūdzu, pārbaudiet to un mēģiniet vēlreiz."
 }

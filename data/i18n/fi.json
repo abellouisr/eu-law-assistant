@@ -107,7 +107,12 @@
     "closest_heading": "Closest provisions",
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
     "returned_home": "Back to {document} for your next question.",
-    "switched_to": "Now answering from: {document}."
+    "switched_to": "Now answering from: {document}.",
+    "login_intro": "Ask questions about EU law in your own language and get answers that quote the official text. This is a test version: please log in to continue.",
+    "login_password": "Password",
+    "login_button": "Log in",
+    "login_help": "You received the password from the person who invited you to the test.",
+    "login_error": "That password is not correct. Please check it and try again."
   },
   "out_of_scope_library": "Valittu säädös ({document}) ei käsittele tätä kysymystä, mutta toinen tämän kirjaston säädös käsittelee.",
   "suggest_act": "Asiaa käsitellään todennäköisesti yksityiskohtaisemmin toisessa tämän kirjaston säädöksessä: {document} (esimerkiksi {provisions}).",
@@ -128,5 +133,10 @@
   "closest_heading": "Lähimmät säännökset",
   "error_setup": "Avustaja ei saa yhteyttä tekoälypalveluunsa määrityksiin liittyvän ongelman vuoksi. Ilmoita asiasta henkilölle, joka jakoi sen sinulle.",
   "returned_home": "Takaisin asiakirjaan {document} seuraavaa kysymystäsi varten.",
-  "switched_to": "Vastaus perustuu nyt seuraavaan lähteeseen: {document}."
+  "switched_to": "Vastaus perustuu nyt seuraavaan lähteeseen: {document}.",
+  "login_intro": "Esitä kysymyksiä EU-oikeudesta omalla kielelläsi ja saat vastauksia, jotka lainaavat virallista tekstiä. Tämä on testiversio: kirjaudu sisään jatkaaksesi.",
+  "login_password": "Salasana",
+  "login_button": "Kirjaudu sisään",
+  "login_help": "Sait salasanan henkilöltä, joka kutsui sinut testiin.",
+  "login_error": "Salasana ei ole oikein. Tarkista se ja yritä uudelleen."
 }

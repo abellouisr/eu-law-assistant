@@ -107,7 +107,12 @@
     "closest_heading": "Closest provisions",
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
     "returned_home": "Back to {document} for your next question.",
-    "switched_to": "Now answering from: {document}."
+    "switched_to": "Now answering from: {document}.",
+    "login_intro": "Ask questions about EU law in your own language and get answers that quote the official text. This is a test version: please log in to continue.",
+    "login_password": "Password",
+    "login_button": "Log in",
+    "login_help": "You received the password from the person who invited you to the test.",
+    "login_error": "That password is not correct. Please check it and try again."
   },
   "out_of_scope_library": "Den valgte retsakt ({document}) behandler ikke dette spørgsmål, men en anden retsakt i dette bibliotek gør.",
   "suggest_act": "Behandles sandsynligvis mere detaljeret i en anden retsakt i dette bibliotek: {document} (for eksempel {provisions}).",
@@ -128,5 +133,10 @@
   "closest_heading": "Nærmeste bestemmelser",
   "error_setup": "Assistenten kan ikke få forbindelse til sin AI-tjeneste på grund af et konfigurationsproblem. Giv venligst besked til den person, der har delt den med dig.",
   "returned_home": "Tilbage til {document} til dit næste spørgsmål.",
-  "switched_to": "Svarer nu ud fra: {document}."
+  "switched_to": "Svarer nu ud fra: {document}.",
+  "login_intro": "Stil spørgsmål om EU-retten på dit eget sprog, og få svar, der citerer den officielle tekst. Dette er en testversion: Log ind for at fortsætte.",
+  "login_password": "Adgangskode",
+  "login_button": "Log ind",
+  "login_help": "Du har modtaget adgangskoden fra den person, der inviterede dig til testen.",
+  "login_error": "Adgangskoden er forkert. Kontrollér den, og prøv igen."
 }
