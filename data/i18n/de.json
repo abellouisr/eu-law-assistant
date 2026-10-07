@@ -1,5 +1,5 @@
 {
-  "disclaimer": "Haftungsausschluss: Ich bin ein Referenzassistent und kein Rechtsberater. Sie sind dafür verantwortlich, diese Antwort zu prüfen, bevor Sie sich auf sie verlassen oder sie weitergeben.",
+  "disclaimer": "Haftungsausschluss: Ich bin kein Rechtsberater. Sie sind dafür verantwortlich, den Inhalt zu prüfen, bevor Sie ihn weitergeben.",
   "situation_invite": "Möchten Sie eine Situation schildern, mit der Sie befasst sind? Ich kann sie mit diesem Rechtsakt vergleichen und angeben, welche Vorschriften gelten könnten und wie.",
   "situation_prompt": "Bitte beschreiben Sie die Situation: Wer ist beteiligt, was ist geschehen und was möchten Sie wissen? Lassen Sie Namen und andere personenbezogene Angaben weg.",
   "situation_followup": "Wenn Sie zu den obigen Punkten weitere Einzelheiten ergänzen können, kann ich diesen Abgleich präzisieren.",
@@ -44,7 +44,7 @@
   "version_consolidated": "konsolidierte",
   "recital": "Erwägungsgrund",
   "_source": {
-    "disclaimer": "Disclaimer: I am a reference assistant, not a legal advisor. You are responsible for reviewing this response before relying on it or sharing it.",
+    "disclaimer": "Disclaimer: I am not a legal advisor. You are responsible for reviewing the content before sharing it further.",
     "situation_invite": "Would you like to share a situation you are dealing with? I can compare it with this act and indicate which rules may apply and how.",
     "situation_prompt": "Please describe the situation: who is involved, what has happened, and what you would like to know. Leave out names and other personal details.",
     "situation_followup": "If you can add detail on the points above, I can refine this comparison.",

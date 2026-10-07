@@ -1,5 +1,5 @@
 {
-  "disclaimer": "Disclaimer: Ik ben een naslagassistent, geen juridisch adviseur. U bent zelf verantwoordelijk voor het controleren van dit antwoord voordat u erop vertrouwt of het deelt.",
+  "disclaimer": "Disclaimer: Ik ben geen juridisch adviseur. U bent zelf verantwoordelijk voor het controleren van de inhoud voordat u deze verder deelt.",
   "situation_invite": "Wilt u een situatie delen waarmee u te maken hebt? Ik kan deze naast deze rechtshandeling leggen en aangeven welke regels van toepassing kunnen zijn en hoe.",
   "situation_prompt": "Beschrijf de situatie: wie erbij betrokken is, wat er is gebeurd en wat u wilt weten. Laat namen en andere persoonsgegevens weg.",
   "situation_followup": "Als u meer details kunt geven over de bovenstaande punten, kan ik deze vergelijking verfijnen.",
@@ -44,7 +44,7 @@
   "version_consolidated": "geconsolideerde",
   "recital": "Overweging",
   "_source": {
-    "disclaimer": "Disclaimer: I am a reference assistant, not a legal advisor. You are responsible for reviewing this response before relying on it or sharing it.",
+    "disclaimer": "Disclaimer: I am not a legal advisor. You are responsible for reviewing the content before sharing it further.",
     "situation_invite": "Would you like to share a situation you are dealing with? I can compare it with this act and indicate which rules may apply and how.",
     "situation_prompt": "Please describe the situation: who is involved, what has happened, and what you would like to know. Leave out names and other personal details.",
     "situation_followup": "If you can add detail on the points above, I can refine this comparison.",

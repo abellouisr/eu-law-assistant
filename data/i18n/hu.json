@@ -1,5 +1,5 @@
 {
-  "disclaimer": "Felelősségkizárás: Referencia-asszisztens vagyok, nem jogi tanácsadó. Ön felel azért, hogy ezt a választ felülvizsgálja, mielőtt támaszkodna rá vagy megosztaná.",
+  "disclaimer": "Felelősségkizárás: Nem vagyok jogi tanácsadó. Ön felelős azért, hogy a tartalmat átnézze, mielőtt azt tovább megosztja.",
   "situation_invite": "Szeretne megosztani egy olyan helyzetet, amellyel jelenleg foglalkozik? Összevethetem ezt a jogszabállyal, és jelezhetem, hogy mely szabályok lehetnek alkalmazhatók, és hogyan.",
   "situation_prompt": "Kérjük, írja le a helyzetet: kik érintettek, mi történt, és mit szeretne tudni. Ne adjon meg neveket és egyéb személyes adatokat.",
   "situation_followup": "Ha a fenti pontokkal kapcsolatban további részleteket tud megadni, pontosíthatom ezt az összevetést.",
@@ -44,7 +44,7 @@
   "version_consolidated": "egységes szerkezetbe foglalt",
   "recital": "Preambulumbekezdés",
   "_source": {
-    "disclaimer": "Disclaimer: I am a reference assistant, not a legal advisor. You are responsible for reviewing this response before relying on it or sharing it.",
+    "disclaimer": "Disclaimer: I am not a legal advisor. You are responsible for reviewing the content before sharing it further.",
     "situation_invite": "Would you like to share a situation you are dealing with? I can compare it with this act and indicate which rules may apply and how.",
     "situation_prompt": "Please describe the situation: who is involved, what has happened, and what you would like to know. Leave out names and other personal details.",
     "situation_followup": "If you can add detail on the points above, I can refine this comparison.",

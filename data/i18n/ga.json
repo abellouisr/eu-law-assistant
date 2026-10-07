@@ -1,5 +1,5 @@
 {
-  "disclaimer": "Séanadh: Is cúntóir tagartha mé, ní comhairleoir dlí. Tá sé de fhreagracht ort athbhreithniú a dhéanamh ar an bhfreagra seo sula mbíonn tú ag brath air nó sula roinneann tú é.",
+  "disclaimer": "Séanadh: Ní comhairleoir dlí mé. Tá tú freagrach as athbhreithniú a dhéanamh ar an ábhar sula roinneann tú níos faide é.",
   "situation_invite": "Ar mhaith leat cás atá idir lámha agat a roinnt? Is féidir liom é a chur i gcomparáid leis an ngníomh seo agus a lua cé na rialacha a bhféadfadh feidhm a bheith acu agus conas.",
   "situation_prompt": "Déan cur síos ar an gcás, le do thoil: cé atá ag gabháil leis, cad a tharla, agus cad ba mhaith leat a fháil amach. fág amach ainmneacha agus sonraí pearsanta eile.",
   "situation_followup": "Más féidir leat tuilleadh sonraí a chur leis na pointí thuas, is féidir liom an comparáid seo a mhionchoigeartú.",
@@ -44,7 +44,7 @@
   "version_consolidated": "téacs comhdhlúite",
   "recital": "Aithris",
   "_source": {
-    "disclaimer": "Disclaimer: I am a reference assistant, not a legal advisor. You are responsible for reviewing this response before relying on it or sharing it.",
+    "disclaimer": "Disclaimer: I am not a legal advisor. You are responsible for reviewing the content before sharing it further.",
     "situation_invite": "Would you like to share a situation you are dealing with? I can compare it with this act and indicate which rules may apply and how.",
     "situation_prompt": "Please describe the situation: who is involved, what has happened, and what you would like to know. Leave out names and other personal details.",
     "situation_followup": "If you can add detail on the points above, I can refine this comparison.",

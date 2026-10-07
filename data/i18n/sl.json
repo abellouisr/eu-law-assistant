@@ -1,5 +1,5 @@
 {
-  "disclaimer": "Izjava o omejitvi odgovornosti: Sem pomočnik za pregled virov, ne pravni svetovalec. Odgovorni ste za pregled tega odgovora, preden se nanj zanesete ali ga delite z drugimi.",
+  "disclaimer": "Izjava o omejitvi odgovornosti: Nisem pravni svetovalec. Za pregled vsebine pred njeno nadaljnjo delitvijo ste odgovorni sami.",
   "situation_invite": "Ali želite opisati situacijo, s katero se soočate? Primerjam jo lahko s tem aktom in navedem, katera pravila se lahko uporabljajo in kako.",
   "situation_prompt": "Opišite situacijo: kdo je vpleten, kaj se je zgodilo in kaj bi radi izvedeli. Izpustite imena in druge osebne podatke.",
   "situation_followup": "Če lahko dodate podrobnosti glede zgornjih točk, lahko to primerjavo natančneje opredelim.",
@@ -44,7 +44,7 @@
   "version_consolidated": "prečiščeno",
   "recital": "Uvodna izjava",
   "_source": {
-    "disclaimer": "Disclaimer: I am a reference assistant, not a legal advisor. You are responsible for reviewing this response before relying on it or sharing it.",
+    "disclaimer": "Disclaimer: I am not a legal advisor. You are responsible for reviewing the content before sharing it further.",
     "situation_invite": "Would you like to share a situation you are dealing with? I can compare it with this act and indicate which rules may apply and how.",
     "situation_prompt": "Please describe the situation: who is involved, what has happened, and what you would like to know. Leave out names and other personal details.",
     "situation_followup": "If you can add detail on the points above, I can refine this comparison.",

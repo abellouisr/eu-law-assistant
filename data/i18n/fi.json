@@ -1,5 +1,5 @@
 {
-  "disclaimer": "Vastuuvapauslauseke: Olen viiteavustaja, en oikeudellinen neuvonantaja. Olet itse vastuussa tämän vastauksen tarkistamisesta ennen kuin luotat siihen tai jaat sen eteenpäin.",
+  "disclaimer": "Vastuuvapauslauseke: En ole juridinen neuvonantaja. Olet itse vastuussa sisällön tarkistamisesta ennen sen jakamista eteenpäin.",
   "situation_invite": "Haluaisitko kertoa tilanteesta, jonka kanssa olet tekemisissä? Voin verrata sitä tähän säädökseen ja osoittaa, mitä sääntöjä siihen voi soveltua ja miten.",
   "situation_prompt": "Kuvaile tilanne: ketkä ovat osallisina, mitä on tapahtunut ja mitä haluaisit tietää. Jätä nimet ja muut henkilötiedot pois.",
   "situation_followup": "Jos voit täydentää edellä mainittuja kohtia, voin tarkentaa tätä vertailua.",
@@ -44,7 +44,7 @@
   "version_consolidated": "konsolidoitu",
   "recital": "Johdanto-osan kappale",
   "_source": {
-    "disclaimer": "Disclaimer: I am a reference assistant, not a legal advisor. You are responsible for reviewing this response before relying on it or sharing it.",
+    "disclaimer": "Disclaimer: I am not a legal advisor. You are responsible for reviewing the content before sharing it further.",
     "situation_invite": "Would you like to share a situation you are dealing with? I can compare it with this act and indicate which rules may apply and how.",
     "situation_prompt": "Please describe the situation: who is involved, what has happened, and what you would like to know. Leave out names and other personal details.",
     "situation_followup": "If you can add detail on the points above, I can refine this comparison.",

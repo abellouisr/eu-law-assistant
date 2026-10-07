@@ -19,8 +19,8 @@ from .llm import LLM
 
 STRINGS: dict[str, str] = {
     "disclaimer": (
-        "Disclaimer: I am a reference assistant, not a legal advisor. You are responsible "
-        "for reviewing this response before relying on it or sharing it."
+        "Disclaimer: I am not a legal advisor. You are responsible for reviewing the "
+        "content before sharing it further."
     ),
     "situation_invite": (
         "Would you like to share a situation you are dealing with? I can compare it with "

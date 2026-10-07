@@ -1,5 +1,5 @@
 {
-  "disclaimer": "Отказ от отговорност: Аз съм помощник за справки, а не юридически консултант. Вие носите отговорност да прегледате този отговор, преди да разчитате на него или да го споделяте.",
+  "disclaimer": "Отказ от отговорност: Аз не съм юридически консултант. Вие носите отговорност за преглеждането на съдържанието, преди да го споделите по-нататък.",
   "situation_invite": "Бихте ли искали да споделите ситуация, с която се сблъсквате? Мога да я сравня с този акт и да посоча кои правила може да се прилагат и как.",
   "situation_prompt": "Моля, опишете ситуацията: кои са участващите лица, какво се е случило и какво бихте искали да научите. Не посочвайте имена и други лични данни.",
   "situation_followup": "Ако можете да добавите подробности по горните точки, мога да уточня това съпоставяне.",
@@ -44,7 +44,7 @@
   "version_consolidated": "консолидиран",
   "recital": "Съображение",
   "_source": {
-    "disclaimer": "Disclaimer: I am a reference assistant, not a legal advisor. You are responsible for reviewing this response before relying on it or sharing it.",
+    "disclaimer": "Disclaimer: I am not a legal advisor. You are responsible for reviewing the content before sharing it further.",
     "situation_invite": "Would you like to share a situation you are dealing with? I can compare it with this act and indicate which rules may apply and how.",
     "situation_prompt": "Please describe the situation: who is involved, what has happened, and what you would like to know. Leave out names and other personal details.",
     "situation_followup": "If you can add detail on the points above, I can refine this comparison.",

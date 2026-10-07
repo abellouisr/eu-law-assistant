@@ -1,5 +1,5 @@
 {
-  "disclaimer": "Upozornění: Jsem referenční asistent, nikoli právní poradce. Za posouzení této odpovědi před tím, než se na ni spolehnete nebo ji budete sdílet, odpovídáte vy.",
+  "disclaimer": "Upozornění: Nejsem právní poradce. Za kontrolu obsahu před jeho dalším sdílením odpovídáte vy.",
   "situation_invite": "Chcete se podělit o situaci, kterou řešíte? Mohu ji porovnat s tímto aktem a uvést, jaká pravidla se mohou použít a jak.",
   "situation_prompt": "Popište prosím situaci: kdo je zapojen, co se stalo a co byste chtěli vědět. Vynechte jména a další osobní údaje.",
   "situation_followup": "Pokud můžete doplnit podrobnosti k výše uvedeným bodům, mohu toto srovnání upřesnit.",
@@ -44,7 +44,7 @@
   "version_consolidated": "konsolidované",
   "recital": "Bod odůvodnění",
   "_source": {
-    "disclaimer": "Disclaimer: I am a reference assistant, not a legal advisor. You are responsible for reviewing this response before relying on it or sharing it.",
+    "disclaimer": "Disclaimer: I am not a legal advisor. You are responsible for reviewing the content before sharing it further.",
     "situation_invite": "Would you like to share a situation you are dealing with? I can compare it with this act and indicate which rules may apply and how.",
     "situation_prompt": "Please describe the situation: who is involved, what has happened, and what you would like to know. Leave out names and other personal details.",
     "situation_followup": "If you can add detail on the points above, I can refine this comparison.",

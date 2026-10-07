@@ -1,5 +1,5 @@
 {
-  "disclaimer": "Declinarea responsabilității: Sunt un asistent de referință, nu un consilier juridic. Vă revine responsabilitatea de a verifica acest răspuns înainte de a vă baza pe el sau de a-l transmite mai departe.",
+  "disclaimer": "Declinarea răspunderii: Nu sunt consilier juridic. Sunteți responsabil(ă) pentru revizuirea conținutului înainte de a-l distribui mai departe.",
   "situation_invite": "Doriți să descrieți o situație cu care vă confruntați? O pot compara cu acest act și pot indica ce norme se pot aplica și în ce mod.",
   "situation_prompt": "Vă rog să descrieți situația: cine este implicat, ce s-a întâmplat și ce ați dori să aflați. Nu includeți nume sau alte date personale.",
   "situation_followup": "Dacă puteți adăuga detalii cu privire la punctele de mai sus, pot perfecționa această comparație.",
@@ -44,7 +44,7 @@
   "version_consolidated": "consolidat",
   "recital": "Considerentul",
   "_source": {
-    "disclaimer": "Disclaimer: I am a reference assistant, not a legal advisor. You are responsible for reviewing this response before relying on it or sharing it.",
+    "disclaimer": "Disclaimer: I am not a legal advisor. You are responsible for reviewing the content before sharing it further.",
     "situation_invite": "Would you like to share a situation you are dealing with? I can compare it with this act and indicate which rules may apply and how.",
     "situation_prompt": "Please describe the situation: who is involved, what has happened, and what you would like to know. Leave out names and other personal details.",
     "situation_followup": "If you can add detail on the points above, I can refine this comparison.",

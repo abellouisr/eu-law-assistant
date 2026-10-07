@@ -1,5 +1,5 @@
 {
-  "disclaimer": "Atruna: Es esmu atsauču asistents, nevis juridiskais padomdevējs. Jūs esat atbildīgs par šīs atbildes pārbaudi, pirms uz to paļaujaties vai kopīgojat to.",
+  "disclaimer": "Atruna: Es neesmu juridiskais konsultants. Jūs esat atbildīgs par satura pārbaudi, pirms to kādam tālāk nosūtāt.",
   "situation_invite": "Vai vēlaties aprakstīt situāciju, ar kuru jums nākas saskarties? Es varu to salīdzināt ar šo tiesību aktu un norādīt, kuri noteikumi varētu būt piemērojami un kā.",
   "situation_prompt": "Lūdzu, aprakstiet situāciju: kas ir iesaistīts, kas ir noticis un ko vēlaties uzzināt. Neminiet vārdus, uzvārdus un citus personas datus.",
   "situation_followup": "Ja varat sniegt sīkāku informāciju par iepriekš minētajiem punktiem, es varu precizēt šo salīdzinājumu.",
@@ -44,7 +44,7 @@
   "version_consolidated": "konsolidētais",
   "recital": "Apsvērums",
   "_source": {
-    "disclaimer": "Disclaimer: I am a reference assistant, not a legal advisor. You are responsible for reviewing this response before relying on it or sharing it.",
+    "disclaimer": "Disclaimer: I am not a legal advisor. You are responsible for reviewing the content before sharing it further.",
     "situation_invite": "Would you like to share a situation you are dealing with? I can compare it with this act and indicate which rules may apply and how.",
     "situation_prompt": "Please describe the situation: who is involved, what has happened, and what you would like to know. Leave out names and other personal details.",
     "situation_followup": "If you can add detail on the points above, I can refine this comparison.",

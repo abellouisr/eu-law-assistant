@@ -1,5 +1,5 @@
 {
-  "disclaimer": "Αποποίηση ευθύνης: Είμαι βοηθός αναφοράς, όχι νομικός σύμβουλος. Έχετε την ευθύνη να ελέγξετε αυτή την απάντηση πριν βασιστείτε σε αυτήν ή τη μοιραστείτε.",
+  "disclaimer": "Αποποίηση ευθύνης: Δεν είμαι νομικός σύμβουλος. Είστε υπεύθυνοι για την εξέταση του περιεχομένου πριν το κοινοποιήσετε περαιτέρω.",
   "situation_invite": "Θα θέλατε να μοιραστείτε μια κατάσταση με την οποία έχετε να αντιμετωπίσετε; Μπορώ να την συγκρίνω με την παρούσα πράξη και να υποδείξω ποιοι κανόνες ενδέχεται να ισχύουν και με ποιον τρόπο.",
   "situation_prompt": "Περιγράψτε την περίπτωση: ποιοι εμπλέκονται, τι έχει συμβεί και τι θα θέλατε να μάθετε. Παραλείψτε ονόματα και άλλα προσωπικά στοιχεία.",
   "situation_followup": "Εάν μπορείτε να προσθέσετε λεπτομέρειες για τα παραπάνω σημεία, μπορώ να βελτιώσω αυτή τη σύγκριση.",
@@ -44,7 +44,7 @@
   "version_consolidated": "ενοποιημένο",
   "recital": "Αιτιολογική σκέψη",
   "_source": {
-    "disclaimer": "Disclaimer: I am a reference assistant, not a legal advisor. You are responsible for reviewing this response before relying on it or sharing it.",
+    "disclaimer": "Disclaimer: I am not a legal advisor. You are responsible for reviewing the content before sharing it further.",
     "situation_invite": "Would you like to share a situation you are dealing with? I can compare it with this act and indicate which rules may apply and how.",
     "situation_prompt": "Please describe the situation: who is involved, what has happened, and what you would like to know. Leave out names and other personal details.",
     "situation_followup": "If you can add detail on the points above, I can refine this comparison.",

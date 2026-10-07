@@ -1,5 +1,5 @@
 {
-  "disclaimer": "Zastrzeżenie: Jestem asystentem referencyjnym, a nie doradcą prawnym. Użytkownik odpowiada za zweryfikowanie tej odpowiedzi, zanim na niej polegnie lub ją udostępni.",
+  "disclaimer": "Zastrzeżenie: Nie jestem doradcą prawnym. Odpowiedzialność za zapoznanie się z treścią przed jej dalszym udostępnieniem spoczywa na Państwu.",
   "situation_invite": "Czy chcą Państwo przedstawić sytuację, z którą mają Państwo do czynienia? Mogę porównać ją z tym aktem i wskazać, które przepisy mogą mieć zastosowanie i w jaki sposób.",
   "situation_prompt": "Opisz proszę sytuację: kto jest zaangażowany, co się wydarzyło i czego chcesz się dowiedzieć. Pomiń imiona i nazwiska oraz inne dane osobowe.",
   "situation_followup": "Jeśli możesz uzupełnić szczegóły dotyczące powyższych punktów, mogę doprecyzować to porównanie.",
@@ -44,7 +44,7 @@
   "version_consolidated": "ujednolicony",
   "recital": "Motyw",
   "_source": {
-    "disclaimer": "Disclaimer: I am a reference assistant, not a legal advisor. You are responsible for reviewing this response before relying on it or sharing it.",
+    "disclaimer": "Disclaimer: I am not a legal advisor. You are responsible for reviewing the content before sharing it further.",
     "situation_invite": "Would you like to share a situation you are dealing with? I can compare it with this act and indicate which rules may apply and how.",
     "situation_prompt": "Please describe the situation: who is involved, what has happened, and what you would like to know. Leave out names and other personal details.",
     "situation_followup": "If you can add detail on the points above, I can refine this comparison.",
