@@ -14,3 +14,6 @@ headingFontWeights = [700, 600, 600, 600, 500, 500]
 # at least 3:1 contrast against white, as accessibility guidelines ask.
 showWidgetBorder = true
 borderColor = "#858f9e"
+# A soft warm sand for input fields (the question box, password, dropdown) and the
+# sidebar, so the place to type stands out from the white page.
+secondaryBackgroundColor = "#f5efe3"
