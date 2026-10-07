@@ -105,7 +105,9 @@
     "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
     "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
     "closest_heading": "Closest provisions",
-    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
+    "returned_home": "Back to {document} for your next question.",
+    "switched_to": "Now answering from: {document}."
   },
   "out_of_scope_library": "A kiválasztott jogi aktus ({document}) nem foglalkozik ezzel a kérdéssel, de a könyvtár egy másik jogi aktusa igen.",
   "suggest_act": "Valószínűleg részletesebben szabályozza a könyvtár egy másik jogszabálya: {document} (például {provisions}).",
@@ -124,5 +126,7 @@
   "out_of_scope_plain": "{date} állapot szerint a kiválasztott jogszabály ({document}) nem foglalkozik ezzel a kérdéssel, és nem áll módomban olyan nemzeti jogszabályokat vagy jogi aktusokat vizsgálni, amelyek nem szerepelnek ebben a könyvtárban. Kérjük, mielőtt bármilyen tanácsra támaszkodna, ellenőrizze az adott tárgykört szabályozó nemzeti jogszabályt vagy uniós jogi aktust.",
   "not_covered": "A kiválasztott jogszabály ({document}) foglalkozik ezzel a tárggyal, de szövege nem válaszolja meg ezt a konkrét kérdést. Az alábbiakban a legközelebb álló rendelkezések olvashatók; a kérdést nemzeti jog, a Bizottság valamely jogi aktusa vagy a szerződés is rendezheti.",
   "closest_heading": "Legközelebb álló rendelkezések",
-  "error_setup": "Az asszisztens konfigurációs probléma miatt nem éri el az MI-szolgáltatását. Kérjük, értesítse azt a személyt, aki megosztotta Önnel."
+  "error_setup": "Az asszisztens konfigurációs probléma miatt nem éri el az MI-szolgáltatását. Kérjük, értesítse azt a személyt, aki megosztotta Önnel.",
+  "returned_home": "Vissza a(z) {document} dokumentumhoz a következő kérdésével kapcsolatban.",
+  "switched_to": "A válasz mostantól a következő forrás alapján készül: {document}."
 }

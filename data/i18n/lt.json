@@ -105,7 +105,9 @@
     "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
     "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
     "closest_heading": "Closest provisions",
-    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
+    "returned_home": "Back to {document} for your next question.",
+    "switched_to": "Now answering from: {document}."
   },
   "out_of_scope_library": "Pasirinktas aktas ({document}) šio klausimo nereglamentuoja, tačiau jį reglamentuoja kitas šios bibliotekos aktas.",
   "suggest_act": "Tikėtina, kad išsamiau reglamentuojama kitame šios bibliotekos akte: {document} (pavyzdžiui, {provisions}).",
@@ -124,5 +126,7 @@
   "out_of_scope_plain": "Nuo {date} pasirinktas aktas ({document}) šio klausimo nenagrinėja, o aš negaliu peržiūrėti nacionalinių įstatymų ar aktų, kurių nėra šioje bibliotekoje. Prieš remdamiesi bet kokiu patarimu, prašome patikrinti nacionalinę teisę arba ES aktą, reglamentuojantį šį dalyką.",
   "not_covered": "Pasirinktas aktas ({document}) reglamentuoja šį dalyką, tačiau jo tekste nėra atsakymo į šį konkretų klausimą. Žemiau pateiktos artimiausios nuostatos; šį klausimą gali spręsti nacionalinė teisė, Komisijos aktas arba sutartis.",
   "closest_heading": "Artimiausios nuostatos",
-  "error_setup": "Asistentas negali prisijungti prie savo dirbtinio intelekto paslaugos dėl konfigūracijos problemos. Prašome pranešti asmeniui, kuris jums jį pasidalino."
+  "error_setup": "Asistentas negali prisijungti prie savo dirbtinio intelekto paslaugos dėl konfigūracijos problemos. Prašome pranešti asmeniui, kuris jums jį pasidalino.",
+  "returned_home": "Grįžtama prie {document}, kad galėtumėte užduoti kitą klausimą.",
+  "switched_to": "Dabar atsakoma remiantis: {document}."
 }

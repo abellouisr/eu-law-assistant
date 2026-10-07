@@ -105,7 +105,9 @@
     "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
     "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
     "closest_heading": "Closest provisions",
-    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
+    "returned_home": "Back to {document} for your next question.",
+    "switched_to": "Now answering from: {document}."
   },
   "out_of_scope_library": "Valittu säädös ({document}) ei käsittele tätä kysymystä, mutta toinen tämän kirjaston säädös käsittelee.",
   "suggest_act": "Asiaa käsitellään todennäköisesti yksityiskohtaisemmin toisessa tämän kirjaston säädöksessä: {document} (esimerkiksi {provisions}).",
@@ -124,5 +126,7 @@
   "out_of_scope_plain": "Tilanteessa {date} valittu säädös ({document}) ei käsittele tätä kysymystä, enkä voi tarkastella kansallisia lakeja tai säädöksiä, jotka eivät kuulu tähän kirjastoon. Tarkista asiaa koskeva kansallinen laki tai EU-säädös, ennen kuin luotat mihinkään neuvoon.",
   "not_covered": "Valittu säädös ({document}) käsittelee tätä aihetta, mutta sen teksti ei vastaa tähän nimenomaiseen kysymykseen. Lähimmät säännökset on lueteltu alla; asia voi ratketa kansallisen lain, komission säädöksen tai sopimuksen perusteella.",
   "closest_heading": "Lähimmät säännökset",
-  "error_setup": "Avustaja ei saa yhteyttä tekoälypalveluunsa määrityksiin liittyvän ongelman vuoksi. Ilmoita asiasta henkilölle, joka jakoi sen sinulle."
+  "error_setup": "Avustaja ei saa yhteyttä tekoälypalveluunsa määrityksiin liittyvän ongelman vuoksi. Ilmoita asiasta henkilölle, joka jakoi sen sinulle.",
+  "returned_home": "Takaisin asiakirjaan {document} seuraavaa kysymystäsi varten.",
+  "switched_to": "Vastaus perustuu nyt seuraavaan lähteeseen: {document}."
 }

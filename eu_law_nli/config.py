@@ -61,6 +61,8 @@ MAX_TOKENS = int(os.environ.get("NLI_MAX_TOKENS", "16000"))
 EFFORT = os.environ.get("NLI_EFFORT", "low")
 
 DEFAULT_DOCUMENT = os.environ.get("NLI_DOCUMENT", "eecc")
+# The web app returns to the default ("home") act after answering in another act.
+RETURN_HOME = os.environ.get("NLI_RETURN_HOME", "on").lower() not in {"off", "0", "false", "no"}
 # Shared password for test users of the web app; empty means no password screen.
 APP_PASSWORD = os.environ.get("NLI_APP_PASSWORD", "")
 TOP_K = int(os.environ.get("NLI_TOP_K", "8"))

@@ -105,7 +105,9 @@
     "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
     "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
     "closest_heading": "Closest provisions",
-    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
+    "returned_home": "Back to {document} for your next question.",
+    "switched_to": "Now answering from: {document}."
   },
   "out_of_scope_library": "Izvēlētais tiesību akts ({document}) šo jautājumu neregulē, taču cits šīs bibliotēkas tiesību akts to regulē.",
   "suggest_act": "Iespējams, sīkāk reglamentēts citā šīs bibliotēkas tiesību aktā: {document} (piemēram, {provisions}).",
@@ -124,5 +126,7 @@
   "out_of_scope_plain": "Uz {date} izvēlētais akts ({document}) šo jautājumu neaptver, un es nevaru izskatīt valstu tiesību aktus vai aktus, kas nav iekļauti šajā bibliotēkā. Lūdzu, pirms paļauties uz jebkādiem padomiem, pārbaudiet valsts tiesību aktu vai ES aktu, kas attiecas uz šo jautājumu.",
   "not_covered": "Izvēlētais akts ({document}) attiecas uz šo tematu, taču tā tekstā nav atbildes uz šo konkrēto jautājumu. Zemāk ir uzskaitīti noteikumi, kas ir vistuvāk šim jautājumam; šo jautājumu var regulēt valsts tiesību akti, Komisijas akts vai līgums.",
   "closest_heading": "Tuvākie noteikumi",
-  "error_setup": "Asistents nevar sazināties ar savu MI pakalpojumu konfigurācijas problēmas dēļ. Lūdzu, informējiet personu, kas jums šo rīku nosūtīja."
+  "error_setup": "Asistents nevar sazināties ar savu MI pakalpojumu konfigurācijas problēmas dēļ. Lūdzu, informējiet personu, kas jums šo rīku nosūtīja.",
+  "returned_home": "Atpakaļ pie {document} jūsu nākamajam jautājumam.",
+  "switched_to": "Tagad atbildu, izmantojot: {document}."
 }

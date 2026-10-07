@@ -105,7 +105,9 @@
     "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
     "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
     "closest_heading": "Closest provisions",
-    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
+    "returned_home": "Back to {document} for your next question.",
+    "switched_to": "Now answering from: {document}."
   },
   "out_of_scope_library": "L-att magħżul ({document}) ma jittrattax din il-mistoqsija, iżda att ieħor f'din il-librerija jittratta.",
   "suggest_act": "Probabbilment koperta bi aktar dettall minn att ieħor f'din il-librerija: {document} (pereżempju {provisions}).",
@@ -124,5 +126,7 @@
   "out_of_scope_plain": "Mill-{date}, l-att magħżul ({document}) ma jittrattax din il-kwistjoni, u ma nistax nirrevedi liġijiet nazzjonali jew atti li mhumiex f'din il-librerija. Jekk jogħġbok iċċekkja l-liġi nazzjonali jew l-att tal-UE li jkopri dan is-suġġett qabel ma toqgħod fuq xi parir.",
   "not_covered": "L-att magħżul ({document}) jittratta dan is-suġġett, iżda t-test tiegħu ma jwieġebx din il-mistoqsija speċifika. Id-dispożizzjonijiet li jersqu l-eqreb lejha huma elenkati hawn taħt; il-punt jista' jiġi stabbilit mil-liġi nazzjonali, minn att tal-Kummissjoni jew mill-kuntratt.",
   "closest_heading": "L-eqreb dispożizzjonijiet",
-  "error_setup": "L-assistent ma jistax jilħaq is-servizz tal-IA tiegħu minħabba problema ta' konfigurazzjoni. Jekk jogħġbok informa lill-persuna li qasmitu miegħek."
+  "error_setup": "L-assistent ma jistax jilħaq is-servizz tal-IA tiegħu minħabba problema ta' konfigurazzjoni. Jekk jogħġbok informa lill-persuna li qasmitu miegħek.",
+  "returned_home": "Lura għal {document} għall-mistoqsija li jmiss tiegħek.",
+  "switched_to": "Issa qed nirrispondi minn: {document}."
 }

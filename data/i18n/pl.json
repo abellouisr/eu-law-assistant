@@ -105,7 +105,9 @@
     "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
     "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
     "closest_heading": "Closest provisions",
-    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
+    "returned_home": "Back to {document} for your next question.",
+    "switched_to": "Now answering from: {document}."
   },
   "out_of_scope_library": "Wybrany akt ({document}) nie reguluje tej kwestii, ale reguluje ją inny akt z tej biblioteki.",
   "suggest_act": "Prawdopodobnie jest to szczegółowo uregulowane w innym akcie w tej bibliotece: {document} (na przykład {provisions}).",
@@ -124,5 +126,7 @@
   "out_of_scope_plain": "Według stanu na dzień {date} wybrany akt ({document}) nie dotyczy tej kwestii, a ja nie mogę analizować przepisów krajowych ani aktów, których nie ma w tej bibliotece. Przed skorzystaniem z jakiejkolwiek porady proszę sprawdzić przepisy prawa krajowego lub akt prawa UE, który reguluje ten temat.",
   "not_covered": "Wybrany akt ({document}) dotyczy tego tematu, ale jego treść nie odpowiada na to konkretne pytanie. Poniżej wymieniono przepisy, które są mu najbliższe; kwestia ta może być uregulowana w prawie krajowym, w akcie Komisji lub w umowie.",
   "closest_heading": "Najbliższe przepisy",
-  "error_setup": "Asystent nie może połączyć się ze swoją usługą AI z powodu problemu z konfiguracją. Prosimy poinformować o tym osobę, która udostępniła Państwu to narzędzie."
+  "error_setup": "Asystent nie może połączyć się ze swoją usługą AI z powodu problemu z konfiguracją. Prosimy poinformować o tym osobę, która udostępniła Państwu to narzędzie.",
+  "returned_home": "Powrót do dokumentu {document} w celu zadania kolejnego pytania.",
+  "switched_to": "Odpowiedzi udzielane są teraz na podstawie: {document}."
 }

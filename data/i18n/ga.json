@@ -105,7 +105,9 @@
     "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
     "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
     "closest_heading": "Closest provisions",
-    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
+    "returned_home": "Back to {document} for your next question.",
+    "switched_to": "Now answering from: {document}."
   },
   "out_of_scope_library": "Ní dhéileálann an gníomh roghnaithe ({document}) leis an gceist seo, ach déileálann gníomh eile sa leabharlann seo léi.",
   "suggest_act": "Is dócha go gcumhdaítear é níos mine in acht eile sa leabharlann seo: {document} (mar shampla {provisions}).",
@@ -124,5 +126,7 @@
   "out_of_scope_plain": "Amhail {date}, ní dhéileálann an gníomh roghnaithe ({document}) leis an gceist seo, agus ní féidir liom athbhreithniú a dhéanamh ar dhlíthe náisiúnta ná ar ghníomhartha nach bhfuil sa leabharlann seo. Seiceáil an dlí náisiúnta nó gníomh an Aontais Eorpaigh a chuimsíonn an t-ábhar seo sula gcuireann tú muinín in aon chomhairle.",
   "not_covered": "Déileálann an gníomh roghnaithe ({document}) leis an ábhar seo, ach ní fhreagraíonn a théacs an cheist shonrach seo. Tá na forálacha is gaire liostaithe thíos; d'fhéadfadh an dlí náisiúnta, gníomh ón gCoimisiún nó an conradh an pointe a réiteach.",
   "closest_heading": "Na forálacha is gaire",
-  "error_setup": "Ní féidir leis an chúntóir teacht ar a sheirbhís AI mar gheall ar fhadhb chumraíochta. Cuir an duine a roinn leat é ar an eolas, le do thoil."
+  "error_setup": "Ní féidir leis an chúntóir teacht ar a sheirbhís AI mar gheall ar fhadhb chumraíochta. Cuir an duine a roinn leat é ar an eolas, le do thoil.",
+  "returned_home": "Ar ais go {document} le haghaidh do chéad cheiste eile.",
+  "switched_to": "Ag freagairt anois ó: {document}."
 }

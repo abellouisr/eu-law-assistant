@@ -105,7 +105,9 @@
     "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
     "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
     "closest_heading": "Closest provisions",
-    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
+    "returned_home": "Back to {document} for your next question.",
+    "switched_to": "Now answering from: {document}."
   },
   "out_of_scope_library": "De geselecteerde rechtshandeling ({document}) behandelt deze vraag niet, maar een andere rechtshandeling in deze bibliotheek doet dat wel.",
   "suggest_act": "Wordt waarschijnlijk uitgebreider behandeld in een andere wet in deze bibliotheek: {document} (bijvoorbeeld {provisions}).",
@@ -124,5 +126,7 @@
   "out_of_scope_plain": "Per {date} behandelt de geselecteerde akte ({document}) deze vraag niet, en kan ik geen nationale wetten of akten beoordelen die niet in deze bibliotheek zijn opgenomen. Raadpleeg de nationale wetgeving of de EU-akte die op dit onderwerp van toepassing is, voordat u op enig advies vertrouwt.",
   "not_covered": "De geselecteerde akte ({document}) behandelt dit onderwerp, maar de tekst ervan beantwoordt deze specifieke vraag niet. De bepalingen die er het dichtst bij komen, worden hieronder vermeld; het punt kan worden geregeld door nationaal recht, een handeling van de Commissie of de overeenkomst.",
   "closest_heading": "Meest relevante bepalingen",
-  "error_setup": "De assistent kan zijn AI-dienst niet bereiken vanwege een configuratieprobleem. Laat dit alstublieft weten aan de persoon die de assistent met u heeft gedeeld."
+  "error_setup": "De assistent kan zijn AI-dienst niet bereiken vanwege een configuratieprobleem. Laat dit alstublieft weten aan de persoon die de assistent met u heeft gedeeld.",
+  "returned_home": "Terug naar {document} voor uw volgende vraag.",
+  "switched_to": "Nu wordt geantwoord vanuit: {document}."
 }

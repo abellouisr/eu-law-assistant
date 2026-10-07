@@ -105,7 +105,9 @@
     "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
     "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
     "closest_heading": "Closest provisions",
-    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
+    "returned_home": "Back to {document} for your next question.",
+    "switched_to": "Now answering from: {document}."
   },
   "out_of_scope_library": "L'atto selezionato ({document}) non tratta questa domanda, ma un altro atto di questa raccolta la tratta.",
   "suggest_act": "Probabilmente trattato in modo più dettagliato da un altro atto presente in questa biblioteca: {document} (ad esempio {provisions}).",
@@ -124,5 +126,7 @@
   "out_of_scope_plain": "Alla data del {date}, l'atto selezionato ({document}) non tratta questa questione e non sono in grado di esaminare leggi nazionali o atti che non sono presenti in questa biblioteca. Si prega di verificare la legge nazionale o l'atto dell'UE che disciplina questa materia prima di fare affidamento su qualsiasi consiglio.",
   "not_covered": "L'atto selezionato ({document}) tratta questa materia, ma il suo testo non risponde a questa specifica domanda. Di seguito sono elencate le disposizioni più pertinenti; la questione potrebbe essere disciplinata dalla legge nazionale, da un atto della Commissione o dal contratto.",
   "closest_heading": "Disposizioni più pertinenti",
-  "error_setup": "L'assistente non riesce a raggiungere il proprio servizio di IA a causa di un problema di configurazione. Si prega di informare la persona che lo ha condiviso con Lei."
+  "error_setup": "L'assistente non riesce a raggiungere il proprio servizio di IA a causa di un problema di configurazione. Si prega di informare la persona che lo ha condiviso con Lei.",
+  "returned_home": "Torna a {document} per la sua prossima domanda.",
+  "switched_to": "Ora la risposta si basa su: {document}."
 }

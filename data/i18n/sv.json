@@ -105,7 +105,9 @@
     "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
     "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
     "closest_heading": "Closest provisions",
-    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
+    "returned_home": "Back to {document} for your next question.",
+    "switched_to": "Now answering from: {document}."
   },
   "out_of_scope_library": "Den valda akten ({document}) behandlar inte denna fråga, men en annan akt i detta bibliotek gör det.",
   "suggest_act": "Behandlas sannolikt mer ingående i en annan lag i detta bibliotek: {document} (till exempel {provisions}).",
@@ -124,5 +126,7 @@
   "out_of_scope_plain": "Per {date} behandlar den valda rättsakten ({document}) inte denna fråga, och jag kan inte granska nationella lagar eller rättsakter som inte finns i det här biblioteket. Kontrollera den nationella lagstiftningen eller den EU-rättsakt som reglerar detta ämne innan du förlitar dig på några råd.",
   "not_covered": "Den valda rättsakten ({document}) behandlar detta ämne, men dess text besvarar inte just den här frågan. De bestämmelser som ligger närmast förtecknas nedan; frågan kan avgöras av nationell rätt, en rättsakt från kommissionen eller avtalet.",
   "closest_heading": "Närmaste bestämmelser",
-  "error_setup": "Assistenten kan inte nå sin AI-tjänst på grund av ett konfigurationsproblem. Meddela den person som delade den med dig."
+  "error_setup": "Assistenten kan inte nå sin AI-tjänst på grund av ett konfigurationsproblem. Meddela den person som delade den med dig.",
+  "returned_home": "Tillbaka till {document} för din nästa fråga.",
+  "switched_to": "Svarar nu utifrån: {document}."
 }

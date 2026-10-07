@@ -105,7 +105,9 @@
     "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
     "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
     "closest_heading": "Closest provisions",
-    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
+    "returned_home": "Back to {document} for your next question.",
+    "switched_to": "Now answering from: {document}."
   },
   "out_of_scope_library": "Actul selectat ({document}) nu tratează această întrebare, dar un alt act din această bibliotecă o tratează.",
   "suggest_act": "Probabil reglementat mai detaliat de un alt act din această bibliotecă: {document} (de exemplu {provisions}).",
@@ -124,5 +126,7 @@
   "out_of_scope_plain": "La data de {date}, actul selectat ({document}) nu tratează această întrebare, iar eu nu pot analiza legile naționale sau actele care nu se află în această bibliotecă. Vă rugăm să verificați legea națională sau actul UE care reglementează acest subiect înainte de a vă baza pe orice recomandare.",
   "not_covered": "Actul selectat ({document}) tratează acest subiect, dar textul său nu răspunde la această întrebare specifică. Dispozițiile cele mai apropiate sunt enumerate mai jos; chestiunea poate fi reglementată de legislația națională, de un act al Comisiei sau de contract.",
   "closest_heading": "Cele mai apropiate dispoziții",
-  "error_setup": "Asistentul nu poate accesa serviciul său de inteligență artificială din cauza unei probleme de configurare. Vă rugăm să informați persoana care v-a transmis acest instrument."
+  "error_setup": "Asistentul nu poate accesa serviciul său de inteligență artificială din cauza unei probleme de configurare. Vă rugăm să informați persoana care v-a transmis acest instrument.",
+  "returned_home": "Înapoi la {document} pentru următoarea dumneavoastră întrebare.",
+  "switched_to": "Se răspunde acum din: {document}."
 }

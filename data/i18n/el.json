@@ -105,7 +105,9 @@
     "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
     "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
     "closest_heading": "Closest provisions",
-    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
+    "returned_home": "Back to {document} for your next question.",
+    "switched_to": "Now answering from: {document}."
   },
   "out_of_scope_library": "Η επιλεγμένη πράξη ({document}) δεν πραγματεύεται το ερώτημα αυτό, αλλά το πραγματεύεται άλλη πράξη της παρούσας βιβλιοθήκης.",
   "suggest_act": "Πιθανώς καλύπτεται με μεγαλύτερη λεπτομέρεια από άλλη πράξη της παρούσας βιβλιοθήκης: {document} (για παράδειγμα {provisions}).",
@@ -124,5 +126,7 @@
   "out_of_scope_plain": "Από την {date}, η επιλεγμένη πράξη ({document}) δεν πραγματεύεται αυτό το ερώτημα και δεν μπορώ να εξετάσω εθνικούς νόμους ή πράξεις που δεν περιλαμβάνονται σε αυτή τη βιβλιοθήκη. Παρακαλούμε ελέγξτε τον εθνικό νόμο ή την πράξη της ΕΕ που καλύπτει αυτό το θέμα πριν βασιστείτε σε οποιαδήποτε συμβουλή.",
   "not_covered": "Η επιλεγμένη πράξη ({document}) πραγματεύεται αυτό το θέμα, αλλά το κείμενό της δεν απαντά στο συγκεκριμένο ερώτημα. Οι διατάξεις που πλησιάζουν περισσότερο αναφέρονται παρακάτω· το ζήτημα μπορεί να ρυθμίζεται από το εθνικό δίκαιο, από πράξη της Επιτροπής ή από τη σύμβαση.",
   "closest_heading": "Πλησιέστερες διατάξεις",
-  "error_setup": "Ο βοηθός δεν μπορεί να συνδεθεί με την υπηρεσία τεχνητής νοημοσύνης του λόγω προβλήματος διαμόρφωσης. Παρακαλούμε ενημερώστε το άτομο που τον κοινοποίησε σε εσάς."
+  "error_setup": "Ο βοηθός δεν μπορεί να συνδεθεί με την υπηρεσία τεχνητής νοημοσύνης του λόγω προβλήματος διαμόρφωσης. Παρακαλούμε ενημερώστε το άτομο που τον κοινοποίησε σε εσάς.",
+  "returned_home": "Επιστροφή στο {document} για την επόμενη ερώτησή σας.",
+  "switched_to": "Η απάντηση δίνεται πλέον από: {document}."
 }

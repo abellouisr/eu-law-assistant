@@ -148,6 +148,11 @@ provisions that matched, and offers a "Switch to … and ask there" button that
 changes the act and asks the same question again. In the terminal chat, type
 `/switch` (or `/switch <id>`; `/acts` lists the library).
 
+- The European Electronic Communications Code is the home act
+  (`NLI_DOCUMENT`). After the assistant answers from another act, the web app
+  returns to it for the next question and says so; the conversation stays on
+  screen. If that answer asks the one-time Yes/No question, it returns after
+  the click. `NLI_RETURN_HOME=off` keeps the other act selected instead.
 - If the selected act does not deal with the question, another act is
   suggested when it matches better than the selected one. Nothing is recorded
   for the author then, because the library already covers the subject.

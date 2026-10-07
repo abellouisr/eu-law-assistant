@@ -105,7 +105,9 @@
     "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
     "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
     "closest_heading": "Closest provisions",
-    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
+    "returned_home": "Back to {document} for your next question.",
+    "switched_to": "Now answering from: {document}."
   },
   "out_of_scope_library": "Der ausgewählte Rechtsakt ({document}) behandelt diese Frage nicht, wohl aber ein anderer Rechtsakt in dieser Bibliothek.",
   "suggest_act": "Wahrscheinlich ausführlicher in einem anderen Gesetz dieser Bibliothek geregelt: {document} (zum Beispiel {provisions}).",
@@ -124,5 +126,7 @@
   "out_of_scope_plain": "Stand {date} behandelt der ausgewählte Rechtsakt ({document}) diese Frage nicht, und ich kann weder nationale Gesetze noch Rechtsakte prüfen, die nicht in dieser Bibliothek enthalten sind. Bitte prüfen Sie das nationale Recht oder den EU-Rechtsakt, der dieses Thema regelt, bevor Sie sich auf irgendeinen Rat verlassen.",
   "not_covered": "Der ausgewählte Rechtsakt ({document}) behandelt dieses Thema, aber sein Text beantwortet diese konkrete Frage nicht. Die Bestimmungen, die der Frage am nächsten kommen, sind unten aufgeführt; der Punkt könnte durch nationales Recht, einen Rechtsakt der Kommission oder den Vertrag geregelt sein.",
   "closest_heading": "Am nächsten kommende Bestimmungen",
-  "error_setup": "Der Assistent kann seinen KI-Dienst aufgrund eines Konfigurationsproblems nicht erreichen. Bitte informieren Sie die Person, die ihn mit Ihnen geteilt hat."
+  "error_setup": "Der Assistent kann seinen KI-Dienst aufgrund eines Konfigurationsproblems nicht erreichen. Bitte informieren Sie die Person, die ihn mit Ihnen geteilt hat.",
+  "returned_home": "Zurück zu {document} für Ihre nächste Frage.",
+  "switched_to": "Die Antwort erfolgt nun auf Grundlage von: {document}."
 }

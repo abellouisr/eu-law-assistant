@@ -113,6 +113,13 @@ def select_key(language: str) -> str:
     return f"doc_select_{language}"
 
 
+if st.session_state.pop("go_home", False) and previous is not None:
+    # After an answer from another act, the web app returns to the home act
+    # (config.DEFAULT_DOCUMENT), keeping the conversation on screen.
+    st.session_state[select_key(page_language)] = default_id
+    st.session_state["carry_language"] = (previous.language, previous.language_name)
+    st.session_state["carry_shown"] = "returned_home"
+
 for stale in [k for k in st.session_state if str(k).startswith("doc_select_")
               and k != select_key(page_language)]:
     del st.session_state[stale]  # an earlier language's dropdown may hold an old choice
@@ -149,10 +156,18 @@ if st.session_state.get("document") != doc_id or "session" not in st.session_sta
         if browser.upper() in engine.corpora:
             session.language = browser
     st.session_state["session"] = session
-    st.session_state["shown"] = []
+    carried_notice = st.session_state.pop("carry_shown", None)
+    if carried_notice:  # switching acts keeps the conversation on screen
+        st.session_state["act_notice"] = carried_notice
+    else:
+        st.session_state["shown"] = []
 session: Session = st.session_state["session"]
-shown: list[tuple[str, object]] = st.session_state["shown"]
+shown: list[tuple[str, object]] = st.session_state.setdefault("shown", [])
 strings = engine.strings(session)
+notice = st.session_state.pop("act_notice", None)
+if notice:
+    shown.append(("notice", strings[notice].format(
+        document=strings.get(f"{doc_id}.name", engine.doc.short_name))))
 
 
 def show_reply(reply: Reply, latest: bool) -> None:
@@ -170,7 +185,7 @@ def show_reply(reply: Reply, latest: bool) -> None:
     for note in reply.notes:
         st.caption(note)
     suggestion = getattr(reply, "suggestion", None)
-    if suggestion and latest:
+    if suggestion and latest and suggestion["document"] != doc_id:
         name = strings.get(f"{suggestion['document']}.name", suggestion["name"])
         st.button(strings["switch_button"].format(document=name), key="switch",
                   on_click=_switch, args=(suggestion["document"], suggestion["question"]))
@@ -198,6 +213,7 @@ def _switch(document: str, question: str) -> None:
     st.session_state[select_key(session.language)] = document
     st.session_state["queued"] = question
     st.session_state["carry_language"] = (session.language, session.language_name)
+    st.session_state["carry_shown"] = "switched_to"
 
 
 with st.sidebar:
@@ -227,6 +243,9 @@ if config.USAGE_LOG:
     st.caption(strings["audit_notice"].format(days=config.USAGE_RETENTION_DAYS))
 
 for index, (role, item) in enumerate(shown):
+    if role == "notice":
+        st.info(item)
+        continue
     with st.chat_message(role):
         # Checked by content, not by class: Streamlit reloads edited modules,
         # after which a stored reply is an instance of the previous Reply class.
@@ -246,9 +265,12 @@ choice = st.session_state.pop("consent_choice", None)
 typed = st.chat_input(strings["input_placeholder"])
 prompt = typed or st.session_state.pop("queued", None)
 
+away_from_home = config.RETURN_HOME and doc_id != default_id
+
 if choice is not None:
     shown.append(("user", strings["yes"] if choice else strings["no"]))
     shown.append(("assistant", engine.consent(session, choice)))
+    st.session_state["go_home"] = away_from_home
     st.rerun()
 
 if prompt:
@@ -269,4 +291,6 @@ if prompt:
 
         reply = engine.respond(prompt, session, on_progress=progress)
     shown.append(("assistant", reply))
+    # Return to the home act, unless this act still waits for a Yes/No answer.
+    st.session_state["go_home"] = away_from_home and session.consent != "asked"
     st.rerun()  # redraw with the final layout, translated into the conversation's language

@@ -105,7 +105,9 @@
     "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
     "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
     "closest_heading": "Closest provisions",
-    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
+    "returned_home": "Back to {document} for your next question.",
+    "switched_to": "Now answering from: {document}."
   },
   "out_of_scope_library": "Den valgte retsakt ({document}) behandler ikke dette spørgsmål, men en anden retsakt i dette bibliotek gør.",
   "suggest_act": "Behandles sandsynligvis mere detaljeret i en anden retsakt i dette bibliotek: {document} (for eksempel {provisions}).",
@@ -124,5 +126,7 @@
   "out_of_scope_plain": "Pr. {date} behandler den valgte retsakt ({document}) ikke dette spørgsmål, og jeg kan ikke gennemgå national lovgivning eller retsakter, der ikke findes i dette bibliotek. Kontrollér venligst den nationale lovgivning eller den EU-retsakt, der dækker dette emne, før du støtter dig til nogen rådgivning.",
   "not_covered": "Den valgte retsakt ({document}) behandler dette emne, men dens tekst besvarer ikke netop dette spørgsmål. De bestemmelser, der kommer tættest på, er anført nedenfor; spørgsmålet kan være afgjort af national lovgivning, en retsakt fra Kommissionen eller af kontrakten.",
   "closest_heading": "Nærmeste bestemmelser",
-  "error_setup": "Assistenten kan ikke få forbindelse til sin AI-tjeneste på grund af et konfigurationsproblem. Giv venligst besked til den person, der har delt den med dig."
+  "error_setup": "Assistenten kan ikke få forbindelse til sin AI-tjeneste på grund af et konfigurationsproblem. Giv venligst besked til den person, der har delt den med dig.",
+  "returned_home": "Tilbage til {document} til dit næste spørgsmål.",
+  "switched_to": "Svarer nu ud fra: {document}."
 }

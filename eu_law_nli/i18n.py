@@ -50,6 +50,8 @@ STRINGS: dict[str, str] = {
         "point may be settled by national law, a Commission act or the contract."
     ),
     "closest_heading": "Closest provisions",
+    "returned_home": "Back to {document} for your next question.",
+    "switched_to": "Now answering from: {document}.",
     "out_of_scope_library": (
         "The selected act ({document}) does not deal with this question, but another act "
         "in this library does."

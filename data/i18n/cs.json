@@ -105,7 +105,9 @@
     "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
     "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
     "closest_heading": "Closest provisions",
-    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know.",
+    "returned_home": "Back to {document} for your next question.",
+    "switched_to": "Now answering from: {document}."
   },
   "out_of_scope_library": "Vybraný akt ({document}) se touto otázkou nezabývá, ale jiný akt v této knihovně ano.",
   "suggest_act": "Podrobněji je to pravděpodobně upraveno jiným právním předpisem v této knihovně: {document} (například {provisions}).",
@@ -124,5 +126,7 @@
   "out_of_scope_plain": "K datu {date} se vybraný předpis ({document}) touto otázkou nezabývá a nemohu posuzovat vnitrostátní právní předpisy ani akty, které nejsou v této knihovně. Před tím, než se budete řídit jakoukoli radou, ověřte si prosím vnitrostátní právní předpis nebo akt EU, který se tímto tématem zabývá.",
   "not_covered": "Vybraný předpis ({document}) se tímto tématem zabývá, ale jeho text na tuto konkrétní otázku neodpovídá. Ustanovení, která se jí nejvíce blíží, jsou uvedena níže; tuto otázku může upravovat vnitrostátní právo, akt Komise nebo smlouva.",
   "closest_heading": "Nejbližší ustanovení",
-  "error_setup": "Asistent se nemůže připojit ke své službě umělé inteligence kvůli problému s konfigurací. Informujte prosím osobu, která vám jej zpřístupnila."
+  "error_setup": "Asistent se nemůže připojit ke své službě umělé inteligence kvůli problému s konfigurací. Informujte prosím osobu, která vám jej zpřístupnila.",
+  "returned_home": "Zpět k dokumentu {document} pro Vaši další otázku.",
+  "switched_to": "Nyní odpovídám na základě dokumentu: {document}."
 }
