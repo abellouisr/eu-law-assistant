@@ -258,11 +258,14 @@ if config.USAGE_LOG:
     intro += " " + strings["audit_notice"].format(days=config.USAGE_RETENTION_DAYS)
 st.caption(intro)
 
+# Neutral icons instead of Streamlit's red and orange defaults, which read as alerts.
+AVATARS = {"user": ":material/person:", "assistant": ":material/balance:"}
+
 for index, (role, item) in enumerate(shown):
     if role == "notice":
         st.info(item)
         continue
-    with st.chat_message(role):
+    with st.chat_message(role, avatar=AVATARS[role]):
         # Checked by content, not by class: Streamlit reloads edited modules,
         # after which a stored reply is an instance of the previous Reply class.
         if not isinstance(item, str):
@@ -285,9 +288,9 @@ away_from_home = config.RETURN_HOME and doc_id != default_id
 
 if prompt:
     shown.append(("user", prompt))
-    with st.chat_message("user"):
+    with st.chat_message("user", avatar=AVATARS["user"]):
         st.markdown(prompt)
-    with st.chat_message("assistant"):
+    with st.chat_message("assistant", avatar=AVATARS["assistant"]):
         placeholder = st.empty()
         placeholder.caption(strings["thinking"])
         last_draw = [0.0]

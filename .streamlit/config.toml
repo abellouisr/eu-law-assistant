@@ -4,7 +4,18 @@ headless = true
 [browser]
 gatherUsageStats = false
 
+[client]
+# Hide Streamlit's own menu (Deploy, Rerun, Settings) from visitors.
+toolbarMode = "minimal"
+
 [theme]
+# A deep navy accent (buttons, focus outline, checkbox, links) in place of
+# Streamlit's default red, which reads as an error. White text on it has a
+# contrast of 11:1.
+primaryColor = "#1f3a5f"
+linkColor = "#1f4e8c"
+baseRadius = "small"
+showSidebarBorder = true
 # SF Pro on Apple devices (the system font); Inter, a close match that also
 # covers Greek and Cyrillic, everywhere else.
 font = "-apple-system, BlinkMacSystemFont, Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
