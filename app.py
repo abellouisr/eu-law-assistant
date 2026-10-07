@@ -258,9 +258,10 @@ with st.sidebar:
 
 st.title(strings["page_title"])
 st.markdown(f"**{strings['page_subtitle']}**")
-st.caption(strings["page_intro"])
+intro = strings["page_intro"]
 if config.USAGE_LOG:
-    st.caption(strings["audit_notice"].format(days=config.USAGE_RETENTION_DAYS))
+    intro += " " + strings["audit_notice"].format(days=config.USAGE_RETENTION_DAYS)
+st.caption(intro)
 
 for index, (role, item) in enumerate(shown):
     if role == "notice":

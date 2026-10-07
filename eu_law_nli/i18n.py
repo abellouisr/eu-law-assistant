@@ -93,15 +93,12 @@ STRINGS: dict[str, str] = {
     "login_help": "You received the password from the person who invited you to the test.",
     "login_error": "That password is not correct. Please check it and try again.",
     "page_intro": (
-        "Choose a legal act on the left and ask a question in any EU language. Answers "
-        "quote the act and link to the official text. Reference assistant, not a legal "
-        "advisor: review every response before relying on it or sharing it."
+        "Ask in any EU language. Answers draw only on the European Electronic "
+        "Communications Code, the GDPR and the BEREC Regulation."
     ),
     "audit_notice": (
-        "Audit log: during this trial, the questions are kept for {days} days for testing "
-        "and improvement, then deleted automatically. Nothing that identifies you is "
-        "recorded: no name, account, IP address or device details. Please do not include "
-        "personal or confidential details in your questions."
+        "Questions are kept for {days} days, with nothing that identifies you. Please do "
+        "not include confidential details."
     ),
     "input_placeholder": "Ask about the selected act, or describe a situation",
     "examples_heading": "Try asking:",
