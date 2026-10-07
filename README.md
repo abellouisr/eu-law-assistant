@@ -212,6 +212,32 @@ scope (`NLI_FOUNDRY_TOKEN_SCOPE`) with your Azure administrator. The usage log
 records the provider; its cost estimate uses Anthropic's list prices, which
 cloud billing may differ from.
 
+## Sharing a test version on Streamlit Community Cloud
+
+The repository includes the processed texts (`data/corpus`) and translations
+(`data/i18n`), so the hosted app works without downloading anything. The API
+key, logs and raw downloads are never committed (see `.gitignore`).
+
+1. Push this repository to GitHub (a private repository is fine).
+2. At https://share.streamlit.io, sign in with GitHub and choose **Create app**
+   → this repository, branch `main`, main file `app.py`.
+3. Under **Advanced settings**, choose Python 3.11 and paste the secrets:
+
+   ```
+   ANTHROPIC_API_KEY = "sk-ant-..."
+   NLI_APP_PASSWORD = "a password to give your testers"
+   ```
+
+   Use a separate API key with a monthly spending limit (Anthropic Console →
+   Limits). Each question costs about 2–3 US cents.
+4. Deploy, then send testers the app's address and the password. For a
+   private repository you can also restrict viewers to invited emails under
+   the app's **Share** settings.
+
+On Community Cloud the usage and topics logs live on the app's temporary disk:
+they are lost when the app restarts or goes to sleep, so read them with the
+app's logs or keep tests short. Pushing a new commit redeploys the app.
+
 ## Usage log
 
 Every message is logged to `data/usage/usage.jsonl`, one line per turn: the
