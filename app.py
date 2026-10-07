@@ -96,20 +96,32 @@ documents = list_documents()
 all_docs = [load_document(d) for d in documents]
 default_id = config.DEFAULT_DOCUMENT if config.DEFAULT_DOCUMENT in documents else documents[0]
 previous: Session | None = st.session_state.get("session")
+page_language = previous.language if previous else browser_language()
 # The engine is not loaded yet, so these labels come from the saved translations.
-ui = Localiser(None, extra=document_strings(all_docs)).strings(
-    previous.language if previous else browser_language())
+ui = Localiser(None, extra=document_strings(all_docs)).strings(page_language)
 
 # Compare each act's stored text with the published one, in background
 # threads: at start, then every LIVE_CHECK_HOURS. Nobody waits for it.
 for d in documents:
     live.start_background(d)
 
-if "doc_select" not in st.session_state:
-    st.session_state["doc_select"] = default_id
+
+def select_key(language: str) -> str:
+    # One dropdown per page language: Streamlit keeps showing an option's text
+    # from when the dropdown was first drawn, so a new language needs a new
+    # dropdown for the act names to appear in that language.
+    return f"doc_select_{language}"
+
+
+for stale in [k for k in st.session_state if str(k).startswith("doc_select_")
+              and k != select_key(page_language)]:
+    del st.session_state[stale]  # an earlier language's dropdown may hold an old choice
+
 with st.sidebar:
     # Shown even with one act, so more acts can be added to documents/ later.
-    doc_id = st.selectbox(ui["legal_act_label"], documents, key="doc_select",
+    current = st.session_state.get("document", default_id)
+    doc_id = st.selectbox(ui["legal_act_label"], documents, key=select_key(page_language),
+                          index=documents.index(current),
                           format_func=lambda d: ui.get(f"{d}.name", d))
 
 try:
@@ -183,7 +195,7 @@ def _ask(text: str) -> None:
 
 def _switch(document: str, question: str) -> None:
     """Change the selected act and ask the same question there."""
-    st.session_state["doc_select"] = document
+    st.session_state[select_key(session.language)] = document
     st.session_state["queued"] = question
     st.session_state["carry_language"] = (session.language, session.language_name)
 
