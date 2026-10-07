@@ -98,6 +98,21 @@ class Session:
     interface: str = ""  # "web" or "cli", for the usage log
 
 
+def continue_in(previous: Session, document_name: str, interface: str = "") -> Session:
+    """A new session for another act that keeps the conversation going: the
+    same language, the recent exchanges (so follow-up questions keep their
+    meaning) and a note telling the model that the act has changed. The
+    Yes/No consent state starts afresh, as each act asks at most once."""
+    session = Session(interface=interface or previous.interface)
+    session.language, session.language_name = previous.language, previous.language_name
+    session.document_name = ""  # set again from the new act's analysis
+    session.history = list(previous.history[-2 * config.HISTORY_TURNS:])
+    session.history.append((
+        "note", f"The conversation now continues in another act: {document_name}. Earlier "
+                "answers came from the act named in them; answer from this act only."))
+    return session
+
+
 def locate(haystack: str, needle: str) -> str | None:
     """Find ``needle`` in ``haystack`` ignoring whitespace and quote-mark style.
 

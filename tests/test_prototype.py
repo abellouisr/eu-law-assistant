@@ -751,6 +751,35 @@ class LibraryTests(TempData):
         self.assertFalse(reply.consent_question)  # nothing to record: the library has it
         self.assertEqual(session.consent, "")
 
+    def test_conversation_carries_over_when_the_act_changes(self) -> None:
+        from eu_law_nli.engine import continue_in
+        from eu_law_nli.library import Library
+        answer = {"status": "answered", "summary": "Up to 6 months.", "answer": "Section ...",
+                  "outside_topics": [], "quotes": []}
+        def responder(name, system, user):
+            if name == "classify_message":
+                return analysis(language_code="de", language_name="German",
+                                standalone_question="How long may traffic data be kept?",
+                                search_queries=["traffic data billing retention"])
+            return dict(answer) if name == "write_answer" else {}  # no German wording: English
+
+        guide = Engine(ScriptedLLM(responder=responder), "guide", library=Library())
+        first = Session(language="de", language_name="German")
+        first.consent = "no"
+        guide.respond("How long may traffic data be kept?", first)
+
+        llm = ScriptedLLM(responder=lambda *a: analysis(intent="greeting"))
+        code = Engine(llm, "eecc", library=Library())
+        second = continue_in(first, code.doc.short_name, "web")
+        self.assertEqual((second.language, second.consent), ("de", ""))  # language kept, consent fresh
+        self.assertNotEqual(second.id, first.id)
+        code.respond("And does that also apply to operators?", second)
+        prompt = llm.calls[0]["user"]
+        self.assertIn("USER: How long may traffic data be kept?", prompt)  # the earlier exchange
+        self.assertIn("ASSISTANT: **Up to 6 months.**", prompt)
+        self.assertIn("NOTE: The conversation now continues in another act: European "
+                      "Electronic Communications Code", prompt)
+
     def test_shared_words_alone_do_not_trigger_a_suggestion(self) -> None:
         from eu_law_nli.library import Library
         # Keywords match the guide, but the intake step judged that no act in

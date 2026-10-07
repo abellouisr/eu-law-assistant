@@ -39,7 +39,7 @@ secrets_to_environment()
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
 
 from eu_law_nli import config, i18n, live, sources  # noqa: E402 (after the secrets are loaded)
-from eu_law_nli.engine import Engine, Reply, Session  # noqa: E402,F401 (Reply: type hints)
+from eu_law_nli.engine import Engine, Reply, Session, continue_in  # noqa: E402,F401
 from eu_law_nli.i18n import Localiser, document_strings, format_date  # noqa: E402
 from eu_law_nli.library import Library  # noqa: E402
 from eu_law_nli.llm import AnthropicLLM, LLMError  # noqa: E402
@@ -122,7 +122,7 @@ if st.session_state.pop("go_home", False) and previous is not None:
     # After an answer from another act, the web app returns to the home act
     # (config.DEFAULT_DOCUMENT), keeping the conversation on screen.
     st.session_state[select_key(page_language)] = default_id
-    st.session_state["carry_language"] = (previous.language, previous.language_name)
+    st.session_state["carry_session"] = previous
     st.session_state["carry_shown"] = "returned_home"
 
 for stale in [k for k in st.session_state if str(k).startswith("doc_select_")
@@ -150,11 +150,11 @@ except (LLMError, FileNotFoundError) as exc:
 
 if st.session_state.get("document") != doc_id or "session" not in st.session_state:
     st.session_state["document"] = doc_id
-    session = Session(interface="web")
-    carried = st.session_state.pop("carry_language", None)  # switching acts keeps the language
-    if carried:
-        session.language, session.language_name = carried
+    carried = st.session_state.pop("carry_session", None)
+    if carried:  # switching acts keeps the language and the recent conversation
+        session = continue_in(carried, engine.doc.short_name, "web")
     else:
+        session = Session(interface="web")
         # Until the user writes, show the page in the browser's language when the
         # act is loaded in it (its wording is then translated already).
         browser = browser_language()
@@ -217,7 +217,7 @@ def _switch(document: str, question: str) -> None:
     """Change the selected act and ask the same question there."""
     st.session_state[select_key(session.language)] = document
     st.session_state["queued"] = question
-    st.session_state["carry_language"] = (session.language, session.language_name)
+    st.session_state["carry_session"] = session
     st.session_state["carry_shown"] = "switched_to"
 
 

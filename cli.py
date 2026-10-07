@@ -9,7 +9,7 @@ from __future__ import annotations
 import sys
 
 from eu_law_nli import config, live
-from eu_law_nli.engine import Engine, Session
+from eu_law_nli.engine import Engine, Session, continue_in
 from eu_law_nli.library import Library
 from eu_law_nli.llm import AnthropicLLM, LLMError
 from eu_law_nli.registry import list_documents, load_document
@@ -62,9 +62,7 @@ def main() -> int:
             question = (suggestion or {}).get("question") if not message[7:].strip() else None
             document, suggestion = target, None
             engine, stamp = Engine(llm, document, library=library), _text_stamp(document)
-            language = (session.language, session.language_name)
-            session = Session(interface="cli")
-            session.language, session.language_name = language
+            session = continue_in(session, engine.doc.short_name)
             _banner(engine)
             if not question:
                 continue
