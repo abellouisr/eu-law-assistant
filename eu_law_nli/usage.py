@@ -154,7 +154,6 @@ def main(argv: list[str] | None = None) -> int:
     print(f"  Messages          {s['turns']} in {s['conversations']} conversation(s)")
     print(f"  Answered          {answered}   out of scope {declined}   "
           f"errors {s['kinds']['error']}   other {s['turns'] - answered - declined - s['kinds']['error']}")
-    print(f"  Topics recorded   {s['kinds']['handoff_yes']} (user agreed)")
     print(f"  Languages         {_top(s['languages'])}")
     print(f"  Interface         {_top(s['interfaces'])}")
     print(f"  Articles quoted   {_top(s['articles'], 10)}")

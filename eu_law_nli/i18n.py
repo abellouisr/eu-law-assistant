@@ -60,17 +60,7 @@ STRINGS: dict[str, str] = {
         "This also depends on the following, which I cannot review: {topics}. Please check "
         "the national law or the other EU acts that apply before relying on this answer."
     ),
-    "consent_question": (
-        "Shall I record subjects like this for the author of this assistant, so they can "
-        "be added in a future version? I will ask only once in this conversation."
-    ),
-    "recorded_note": "Recorded for the author: {topics}.",
     "topics_fallback": "a subject outside this act",
-    "handoff_yes": (
-        "Thank you. I have recorded this for the author: {topics}. For the rest of this "
-        "conversation, I will record similar subjects without asking again."
-    ),
-    "handoff_no": "Understood. I will not record anything in this conversation.",
     "error_busy": (
         "The assistant is very busy right now. Please wait a minute and ask again."
     ),
@@ -92,6 +82,12 @@ STRINGS: dict[str, str] = {
     "login_button": "Log in",
     "login_help": "You received the password from the person who invited you to the test.",
     "login_error": "That password is not correct. Please check it and try again.",
+    "login_acknowledge": (
+        "I understand that EU LexRef is a reference assistant, not a legal advisor, and "
+        "that I am responsible for reviewing its answers before relying on them or "
+        "sharing them."
+    ),
+    "login_acknowledge_missing": "Please tick the box above to confirm before logging in.",
     "page_intro": (
         "Ask in any EU language. Answers draw only on the European Electronic "
         "Communications Code, the GDPR and the BEREC Regulation."
@@ -109,8 +105,6 @@ STRINGS: dict[str, str] = {
         "(for example {provisions})."
     ),
     "switch_button": "Switch to {document} and ask there",
-    "yes": "Yes",
-    "no": "No",
     "new_conversation": "New conversation",
     "legal_act_label": "Legal act",
     "version_line_consolidated": "Consolidated version of {date}",

@@ -65,14 +65,19 @@ def password_gate() -> None:
         # do not offer to create (and save) a new one.
         entered = st.text_input(t["login_password"], type="password",
                                 autocomplete="current-password")
+        # Users accept the disclaimer once here; answers then carry it only once.
+        acknowledged = st.checkbox(t["login_acknowledge"])
         submitted = st.form_submit_button(t["login_button"], type="primary",
                                           use_container_width=True)
     st.caption(t["login_help"])
     if submitted:
-        if entered and hmac.compare_digest(entered.encode(), expected.encode()):
+        if not (entered and hmac.compare_digest(entered.encode(), expected.encode())):
+            st.error(t["login_error"])
+        elif not acknowledged:
+            st.error(t["login_acknowledge_missing"])
+        else:
             st.session_state["authenticated"] = True
             st.rerun()
-        st.error(t["login_error"])
     st.stop()
 
 
@@ -191,8 +196,8 @@ if notice:
 
 def show_reply(reply: Reply, latest: bool) -> None:
     """One assistant reply: summary and explanation first, the exact wording
-    collapsed, then notes, a suggested act, the consent question and the
-    small print."""
+    collapsed, then notes, a suggested act and the small print (the
+    disclaimer on the first reply only)."""
     if reply.summary:
         st.markdown(f"**{reply.summary}**")
     if reply.details:
@@ -208,19 +213,9 @@ def show_reply(reply: Reply, latest: bool) -> None:
         name = strings.get(f"{suggestion['document']}.name", suggestion["name"])
         st.button(strings["switch_button"].format(document=name), key="switch",
                   on_click=_switch, args=(suggestion["document"], suggestion["question"]))
-    if reply.consent_question:
-        st.markdown(reply.consent_question)
-        if latest and session.consent == "asked":
-            yes, no, _ = st.columns([1, 1, 4])
-            yes.button(strings["yes"], key="consent_yes", on_click=_choose, args=(True,))
-            no.button(strings["no"], key="consent_no", on_click=_choose, args=(False,))
     if reply.followup:
         st.markdown(reply.followup)
-    st.caption(f"{reply.disclaimer}  \n{reply.source}")
-
-
-def _choose(agree: bool) -> None:
-    st.session_state["consent_choice"] = agree
+    st.caption("  \n".join(x for x in (reply.disclaimer, reply.source) if x))
 
 
 def _ask(text: str) -> None:
@@ -252,7 +247,7 @@ with st.sidebar:
     if official:
         st.link_button(strings["open_eurlex"], official)
     if st.button(strings["new_conversation"]):
-        for key in ("session", "shown", "queued", "consent_choice"):
+        for key in ("session", "shown", "queued"):
             st.session_state.pop(key, None)
         st.rerun()
 
@@ -283,17 +278,10 @@ if not shown and examples:
     for i, example in enumerate(examples):
         st.button(f"*{example}*", key=f"example_{i}", on_click=_ask, args=(example,))
 
-choice = st.session_state.pop("consent_choice", None)
 typed = st.chat_input(strings["input_placeholder"])
 prompt = typed or st.session_state.pop("queued", None)
 
 away_from_home = config.RETURN_HOME and doc_id != default_id
-
-if choice is not None:
-    shown.append(("user", strings["yes"] if choice else strings["no"]))
-    shown.append(("assistant", engine.consent(session, choice)))
-    st.session_state["go_home"] = away_from_home
-    st.rerun()
 
 if prompt:
     shown.append(("user", prompt))
@@ -313,6 +301,5 @@ if prompt:
 
         reply = engine.respond(prompt, session, on_progress=progress)
     shown.append(("assistant", reply))
-    # Return to the home act, unless this act still waits for a Yes/No answer.
-    st.session_state["go_home"] = away_from_home and session.consent != "asked"
+    st.session_state["go_home"] = away_from_home  # back to the home act for the next question
     st.rerun()  # redraw with the final layout, translated into the conversation's language

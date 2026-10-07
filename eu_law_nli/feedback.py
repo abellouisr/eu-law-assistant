@@ -1,5 +1,6 @@
-"""Subjects users agreed to record for the author: national law or other EU
-acts their question needed and the assistant could not review.
+"""Topics log for the author: national law or other EU acts that questions
+needed and the assistant could not review. Recorded automatically; like the
+usage log, entries are deleted after config.USAGE_RETENTION_DAYS (90) days.
 
 Stored one JSON object per line in data/feedback/out_of_scope.jsonl. Each
 entry has the question and a list of topics, each with its source
@@ -13,9 +14,12 @@ question depend on other law).
 from __future__ import annotations
 
 import json
-from datetime import datetime, timezone
+import threading
+from datetime import datetime, timedelta, timezone
 
 from . import config
+
+_lock = threading.Lock()
 
 SOURCE_LABELS = {"national_law": "national law", "other_eu_law": "other EU act", "other": "other"}
 
@@ -33,13 +37,30 @@ def record(document: str, version: str, language: str, question: str,
         "topics": [{"topic_en": t.get("topic_en", ""), "topic": t.get("topic", ""),
                     "source": t.get("source", "other")} for t in topics or []],
     }
-    config.FEEDBACK_FILE.parent.mkdir(parents=True, exist_ok=True)
-    with config.FEEDBACK_FILE.open("a", encoding="utf-8") as fh:
-        fh.write(json.dumps(entry, ensure_ascii=False) + "\n")
+    with _lock:
+        config.FEEDBACK_FILE.parent.mkdir(parents=True, exist_ok=True)
+        with config.FEEDBACK_FILE.open("a", encoding="utf-8") as fh:
+            fh.write(json.dumps(entry, ensure_ascii=False) + "\n")
+        purge()
     return entry
 
 
+def purge(now: datetime | None = None) -> int:
+    """Delete entries older than the retention period. Returns how many went."""
+    path = config.FEEDBACK_FILE
+    if not path.exists():
+        return 0
+    cutoff = (now or datetime.now(timezone.utc)) - timedelta(days=config.USAGE_RETENTION_DAYS)
+    lines = [l for l in path.read_text(encoding="utf-8").splitlines() if l.strip()]
+    kept = [l for l in lines if datetime.fromisoformat(json.loads(l)["received_at"]) >= cutoff]
+    if len(kept) < len(lines):
+        config.write_text_atomic(path, "".join(l + "\n" for l in kept))
+    return len(lines) - len(kept)
+
+
 def read_all() -> list[dict]:
+    with _lock:
+        purge()
     if not config.FEEDBACK_FILE.exists():
         return []
     lines = config.FEEDBACK_FILE.read_text(encoding="utf-8").splitlines()

@@ -9,14 +9,11 @@ One turn:
   4. verify    - keep only quotations found word for word in the act
   5. finish    - add references, notes, the disclaimer and the source
 
-Every reply leaves through ``_finish``, which is where the disclaimer is
-added, so no path can skip it.
+Every reply leaves through ``_finish``, which adds the disclaimer to the
+first reply of a conversation (users also accept it when they log in).
 
-Subjects outside the act (national law, other EU acts): the first time a
-conversation meets one, the user is asked once whether such subjects may be
-recorded for the author. A yes covers the rest of the conversation; a no, or
-moving on without answering, means nothing is recorded and the question is
-not asked again.
+Subjects outside the act (national law, other EU acts) are recorded for the
+author in the topics log (see feedback.py), without asking the user.
 """
 from __future__ import annotations
 
@@ -66,7 +63,7 @@ class Quote:
 @dataclass
 class Reply:
     text: str  # complete markdown: body, then disclaimer and source
-    kind: str  # answer | situation | out_of_scope | handoff_yes | handoff_no | greeting | prompt | error
+    kind: str  # answer | situation | out_of_scope | decline | greeting | prompt | error
     language: str = "en"
     body: str = ""  # the reply without disclaimer and source line
     quotes: list[Quote] = field(default_factory=list)
@@ -76,9 +73,8 @@ class Reply:
     details: str = ""  # the explanation, or the whole message for other replies
     wording: str = ""  # exact quotations and references (shown collapsed on the web)
     notes: list[str] = field(default_factory=list)
-    consent_question: str = ""  # set when the user is asked to allow recording
     followup: str = ""
-    disclaimer: str = ""
+    disclaimer: str = ""  # only on the first reply of a conversation
     source: str = ""
     outside_topics: list[dict] = field(default_factory=list)
     # Another act that probably covers the question better: {"document": id,
@@ -92,8 +88,7 @@ class Session:
     language: str = "en"
     language_name: str = "English"
     document_name: str = ""  # the act's name in the user's language
-    pending_handoff: dict | None = None  # what a yes to the consent question records
-    consent: str = ""  # "" never asked, "asked", "yes", "no" (declined or not answered)
+    disclaimer_shown: bool = False  # the disclaimer comes with the first reply only
     id: str = field(default_factory=lambda: uuid.uuid4().hex[:12])  # random, for the usage log
     interface: str = ""  # "web" or "cli", for the usage log
 
@@ -101,9 +96,9 @@ class Session:
 def continue_in(previous: Session, document_name: str, interface: str = "") -> Session:
     """A new session for another act that keeps the conversation going: the
     same language, the recent exchanges (so follow-up questions keep their
-    meaning) and a note telling the model that the act has changed. The
-    Yes/No consent state starts afresh, as each act asks at most once."""
+    meaning) and a note telling the model that the act has changed."""
     session = Session(interface=interface or previous.interface)
+    session.disclaimer_shown = previous.disclaimer_shown
     session.language, session.language_name = previous.language, previous.language_name
     session.document_name = ""  # set again from the new act's analysis
     session.history = list(previous.history[-2 * config.HISTORY_TURNS:])
@@ -235,18 +230,6 @@ class Engine:
         self._log(message, session, reply, time.monotonic() - started, tokens_before, error)
         return reply
 
-    def consent(self, session: Session, agree: bool) -> Reply:
-        """The user's answer to the consent question, from a Yes/No button."""
-        strings = self.strings(session)
-        label = strings["yes"] if agree else strings["no"]
-        started, tokens_before = time.monotonic(), self._tokens()
-        pending, session.pending_handoff = session.pending_handoff, None
-        reply = self._consent_reply(agree, pending, session, strings)
-        session.history.append(("user", label))
-        session.history.append(("assistant", reply.body))
-        self._log(label, session, reply, time.monotonic() - started, tokens_before, "")
-        return reply
-
     def _tokens(self) -> tuple[int, int]:
         counter = getattr(self.llm, "tokens", None)
         return counter() if callable(counter) else (0, 0)
@@ -289,15 +272,11 @@ class Engine:
                                  or session.document_name or self.doc.short_name)
         doc_name = session.document_name
 
-        pending, session.pending_handoff = session.pending_handoff, None
-        if session.consent == "asked":
-            if intent in ("consent_yes", "consent_no"):
-                return self._consent_reply(intent == "consent_yes", pending, session, strings)
-            session.consent = "no"  # moved on without answering: do not ask again
+        # A yes or no to the invitation to describe a situation.
         if intent == "consent_yes":
             return self._finish(strings, session, "prompt", details=strings["situation_prompt"])
         if intent == "consent_no":
-            return self._finish(strings, session, "handoff_no",
+            return self._finish(strings, session, "decline",
                                 details=strings["anything_else"].format(document=doc_name))
         if intent == "greeting":
             return self._finish(strings, session, "greeting",
@@ -329,55 +308,31 @@ class Engine:
         if topics:
             notes.append(strings["limits_notice"].format(
                 document=doc_name, topics=self._topic_list(topics, strings)))
-        recorded, ask = self._outside(message, question_en, "partly_outside", topics,
-                                      session, strings)
-        notes.extend(recorded)
+        self._record(message, question_en, "partly_outside", topics, session)
         suggestion = self._suggest(analysis, message, question_en, True, session)
         if suggestion:
             notes.append(self._suggestion_note(suggestion, strings))
-        followup = "" if ask else (strings["situation_followup"] if mode == "situation"
-                                   else strings["situation_invite"])
+        followup = (strings["situation_followup"] if mode == "situation"
+                    else strings["situation_invite"])
         reply = self._finish(
             strings, session, mode if mode == "situation" else "answer",
             summary=(answer.get("summary") or "").strip(), details=answer["answer"].strip(),
-            wording=wording, notes=notes, ask=ask, followup=followup, topics=topics,
+            wording=wording, notes=notes, followup=followup, topics=topics,
             suggestion=suggestion)
         reply.quotes, reply.dropped_quotes = quotes, dropped
         return reply
 
     # ------------------------------------------------------------------
-    def _outside(self, message: str, question_en: str, reason: str, topics: list[dict],
-                 session: Session, strings: dict) -> tuple[list[str], bool]:
-        """Handle subjects outside the act according to the conversation's
-        consent: record them (yes), ask once (never asked), or do nothing.
-        Returns notes for the reply and whether to ask the consent question."""
-        if not topics and reason == "partly_outside":
-            return [], False
-        entry = {"question": message, "question_en": question_en, "reason": reason,
-                 "topics": topics}
-        if session.consent == "yes":
-            feedback.record(self.doc.id, self.version.id, session.language, **entry)
-            return [strings["recorded_note"].format(
-                topics=self._topic_list(topics, strings))], False
-        if session.consent == "":
-            session.pending_handoff = entry
-            session.consent = "asked"
-            return [], True
-        return [], False
-
-    def _consent_reply(self, agree: bool, pending: dict | None, session: Session,
-                       strings: dict) -> Reply:
-        doc_name = session.document_name or self.doc.short_name
-        if agree:
-            session.consent = "yes"
-            topics = (pending or {}).get("topics", [])
-            if pending:
-                feedback.record(self.doc.id, self.version.id, session.language, **pending)
-            return self._finish(strings, session, "handoff_yes", details=strings[
-                "handoff_yes"].format(topics=self._topic_list(topics, strings)))
-        session.consent = "no"
-        return self._finish(strings, session, "handoff_no", details=(
-            f"{strings['handoff_no']} {strings['anything_else'].format(document=doc_name)}"))
+    def _record(self, message: str, question_en: str, reason: str,
+                topics: list[dict], session: Session) -> None:
+        """Note subjects outside the act in the topics log for the author."""
+        if not topics:
+            return
+        try:
+            feedback.record(self.doc.id, self.version.id, session.language, message, question_en,
+                            reason, topics)
+        except OSError as exc:  # a logging failure never affects the reply
+            log.warning("Could not record topics: %s", exc)
 
     def _conversation(self, session: Session) -> str:
         turns = session.history[-2 * config.HISTORY_TURNS:]
@@ -386,9 +341,7 @@ class Engine:
         return "\n".join(f"{role.upper()}: {text[:1500]}" for role, text in turns)
 
     def _analyse(self, message: str, session: Session) -> dict:
-        pending = ("permission to record subjects outside this act for the author of the "
-                   "assistant" if session.consent == "asked"
-                   else "an invitation to share a situation, if one was made")
+        pending = "an invitation to share a situation, if one was made"
         system = prompts.ANALYSE_SYSTEM.format(
             title=self.doc.title, scope=self.doc.scope, outline=self._outline,
             previous_language=f"{session.language_name} ({session.language})", pending=pending,
@@ -621,11 +574,11 @@ class Engine:
         else:
             details = strings["out_of_scope_plain"].format(
                 date=format_date(date.today().isoformat()), document=document)
-        if not topics:  # nothing named to record: still offer to record the question
-            topics = [{"topic": message[:200], "topic_en": question_en[:200], "source": "other"}]
-        notes, ask = self._outside(message, question_en, reason, topics, session, strings)
-        return self._finish(strings, session, "out_of_scope", details=details, notes=notes,
-                            ask=ask, topics=topics, wording=wording)
+        # Nothing named: record the question itself as the subject.
+        self._record(message, question_en, reason, topics or [
+            {"topic": message[:200], "topic_en": question_en[:200], "source": "other"}], session)
+        return self._finish(strings, session, "out_of_scope", details=details,
+                            topics=topics, wording=wording)
 
     def _references(self, passages: list[Passage], strings: dict, heading: str) -> str:
         """A linked list of the provisions behind some passages, without quotations."""
@@ -646,9 +599,10 @@ class Engine:
 
     def _finish(self, strings: dict, session: Session, kind: str, *, summary: str = "",
                 details: str = "", wording: str = "", notes: list[str] | None = None,
-                ask: bool = False, followup: str = "", topics: list[dict] | None = None,
+                followup: str = "", topics: list[dict] | None = None,
                 suggestion: dict | None = None) -> Reply:
-        """Single exit point: every reply gets the disclaimer and the source line."""
+        """Single exit point: every reply gets the source line, and the first
+        one of a conversation (an error message aside) the disclaimer."""
         source = strings["source_note"].format(
             citation=self.doc.citation,
             version_kind=strings.get(f"version_{self.version.kind}", self.version.kind),
@@ -657,15 +611,17 @@ class Engine:
         checked = self._live_note(strings)
         source = f"{source} · {checked}." if checked else f"{source}."
         notes = notes or []
-        question = strings["consent_question"] if ask else ""
+        disclaimer = ""
+        if not session.disclaimer_shown and kind != "error":
+            disclaimer, session.disclaimer_shown = strings["disclaimer"], True
         body = "\n\n".join(x for x in (
             f"**{summary}**" if summary else "", details, wording,
-            *[f"_{n}_" for n in notes], question, followup) if x)
-        text = f"{body}\n\n---\n_{strings['disclaimer']}_\n\n_{source}_"
+            *[f"_{n}_" for n in notes], followup) if x)
+        small_print = f"_{disclaimer}_\n\n_{source}_" if disclaimer else f"_{source}_"
+        text = f"{body}\n\n---\n{small_print}"
         return Reply(text=text, kind=kind, language=session.language, body=body,
                      summary=summary, details=details, wording=wording, notes=notes,
-                     consent_question=question, followup=followup,
-                     disclaimer=strings["disclaimer"], source=source,
+                     followup=followup, disclaimer=disclaimer, source=source,
                      outside_topics=topics or [], suggestion=suggestion)
 
     def _live_note(self, strings: dict) -> str:

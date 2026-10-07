@@ -57,28 +57,28 @@ Behaviour to expect:
   ..."), then a short explanation citing the articles (under 120 words, never
   "the passages"). In the web app the explanation appears word by word as it
   is written, and the exact quotations sit under "Show the exact wording from
-  the Code", collapsed. Disclaimer and source follow in small print.
+  the Code", collapsed. The source follows in small print, with the
+  disclaimer on the first reply of a conversation.
 - **Limits and requests for new topics.** When a question, or part of one,
   depends on national law or another EU act, a short note says the assistant
-  cannot review it and asks the user to check that law first. The first time
-  this happens in a conversation, the user is asked once, with Yes/No buttons,
-  whether such subjects may be recorded for the author. A yes covers the rest
-  of the conversation; a no, or carrying on without answering, means nothing
-  is recorded and the question is not asked again. Recorded subjects go to
+  cannot review it and asks the user to check that law first. Such subjects
+  are recorded for the author automatically, without asking the user, in
   `data/feedback/out_of_scope.jsonl`: the question and each topic with its
-  source (national law, other EU act). Read the log in the terminal with
+  source (national law, other EU act). Like the usage log, entries are
+  deleted after 90 days. Read the log in the terminal with
   `python -m eu_law_nli.feedback`; visitors never see it.
 - **The page.** Title, notices, input box, buttons and small print follow the
   language of the conversation (before the first question, the browser's
   language, for the 24 EU languages). The empty page offers two example
   questions. Errors are explained in plain words; the technical detail goes
   to the usage log only.
-- **Situations.** Answers that do not ask the consent question offer to
-  compare a situation. When the user
+- **Situations.** Answers offer to compare a situation. When the user
   describes one, the reply lists the relevant provisions, how they may apply,
   and which facts are missing. It does not give a conclusion.
-- **Disclaimer.** Added by the code to every reply, including errors, so the
-  model cannot omit it. The wording is in `eu_law_nli/i18n.py`.
+- **Disclaimer.** Users accept it with a checkbox when they log in, and the
+  code adds it to the first reply of each conversation (not to an error
+  message), so the model cannot omit it. The wording is in
+  `eu_law_nli/i18n.py`.
 - **Languages.** Fixed wording is translated once per language by the model
   and saved in `data/i18n/<code>.json`. Have the disclaimer translations
   reviewed and correct them in those files. When an English text in `i18n.py`

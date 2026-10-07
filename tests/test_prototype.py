@@ -212,38 +212,27 @@ class EngineTests(TempData):
         self.assertIn(i18n.STRINGS["see_also_heading"], reply.text)
         self.assert_disclaimer(reply)
 
-    def test_out_of_scope_then_permission_is_recorded(self) -> None:
+    def test_out_of_scope_subject_is_recorded_without_asking(self) -> None:
         gdpr = {"topic": "GDPR rules on cookies", "topic_en": "GDPR rules on cookies",
                 "source": "other_eu_law"}
-        turns = iter([
-            analysis(in_scope=False, standalone_question="What does the GDPR say about cookies?",
-                     outside_topics=[gdpr]),
-            analysis(intent="consent_yes"),
-        ])
-        engine, llm = self.engine(lambda name, system, user: next(turns))
-        session = Session()
-        first = engine.respond("What does the GDPR say about cookies?", session)
-        self.assertEqual(first.kind, "out_of_scope")
-        self.assertIn(i18n.format_date(date.today().isoformat()), first.text)
-        self.assertIn("Your question concerns the following subject: GDPR rules on cookies.", first.text)
-        self.assertIn("I cannot review national laws", first.text)
-        self.assertEqual(first.consent_question, i18n.STRINGS["consent_question"])
-        self.assert_disclaimer(first)
-        self.assertEqual(feedback.read_all(), [])  # nothing stored before the user agrees
-
-        second = engine.respond("Yes, please", session)
-        self.assertEqual(second.kind, "handoff_yes")
-        self.assertIn("GDPR rules on cookies", second.text)
-        self.assert_disclaimer(second)
+        engine, llm = self.engine(lambda name, system, user: analysis(
+            in_scope=False, standalone_question="What does the GDPR say about cookies?",
+            outside_topics=[gdpr]))
+        reply = engine.respond("What does the GDPR say about cookies?", Session())
+        self.assertEqual(reply.kind, "out_of_scope")
+        self.assertIn(i18n.format_date(date.today().isoformat()), reply.text)
+        self.assertIn("Your question concerns the following subject: GDPR rules on cookies.", reply.text)
+        self.assertIn("I cannot review national laws", reply.text)
+        self.assertNotIn("record", reply.text.lower())  # recorded silently, for the author
+        self.assert_disclaimer(reply)
         stored = feedback.read_all()
         self.assertEqual(len(stored), 1)
         self.assertEqual(stored[0]["question"], "What does the GDPR say about cookies?")
         self.assertEqual(stored[0]["reason"], "out_of_scope")
         self.assertEqual(stored[0]["topics"], [gdpr])
-        self.assertIsNone(session.pending_handoff)
-        self.assertEqual([c["name"] for c in llm.calls], ["classify_message"] * 2)
+        self.assertEqual([c["name"] for c in llm.calls], ["classify_message"])
 
-    def test_answer_that_needs_other_law_asks_consent_to_record_it(self) -> None:
+    def test_answer_that_needs_other_law_records_it(self) -> None:
         national = {"topic": "Estonian rules on early-termination fees",
                     "topic_en": "Estonian rules on early-termination fees",
                     "source": "national_law"}
@@ -251,20 +240,15 @@ class EngineTests(TempData):
                   "answer": "Under the European Electronic Communications Code, ...",
                   "outside_topics": [national],
                   "quotes": [{"passage_id": "P1", "text": ART1_P1}]}
-        turns = iter([analysis(), answer, analysis(intent="consent_yes")])
+        turns = iter([analysis(), answer])
         engine, llm = self.engine(lambda name, system, user: next(turns))
-        session = Session()
-        first = engine.respond("Can my Estonian provider charge a fee if I leave early?", session)
+        first = engine.respond("Can my Estonian provider charge a fee if I leave early?", Session())
         self.assertEqual(first.kind, "answer")
         self.assertIn("which I cannot review: Estonian rules on early-termination fees",
                       first.text)
-        self.assertIn(i18n.STRINGS["consent_question"], first.text)
-        self.assertNotIn(i18n.STRINGS["situation_invite"], first.text)  # one question only
+        self.assertIn(i18n.STRINGS["situation_invite"], first.text)
         self.assertIn("Under the European Electronic Communications Code",
                       llm.calls[1]["system"])
-        self.assertEqual(feedback.read_all(), [])
-
-        engine.respond("yes", session)
         stored = feedback.read_all()
         self.assertEqual(stored[0]["reason"], "partly_outside")
         self.assertEqual(stored[0]["topics"], [national])
@@ -277,29 +261,25 @@ class EngineTests(TempData):
         session = Session()
         reply = engine.respond("What is this directive about?", session)
         self.assertIn(i18n.STRINGS["situation_invite"], reply.text)
-        self.assertNotIn("Shall I record", reply.text)
-        self.assertIsNone(session.pending_handoff)
+        self.assertEqual(feedback.read_all(), [])  # nothing outside the act to record
 
     def test_saved_translation_is_refreshed_only_where_the_english_changed(self) -> None:
         stale = {k: f"[et] {v}" for k, v in i18n.STRINGS.items()}
-        stale["_source"] = dict(i18n.STRINGS, handoff_no="Old English wording.")
+        stale["_source"] = dict(i18n.STRINGS, closest_heading="Old English wording.")
         stale["disclaimer"] = "[et] reviewed by a lawyer"
         config.I18N_DIR.mkdir(parents=True, exist_ok=True)
         (config.I18N_DIR / "et.json").write_text(json.dumps(stale), encoding="utf-8")
-        llm = ScriptedLLM(responder=lambda name, system, user: {"handoff_no": "[et] new"})
+        llm = ScriptedLLM(responder=lambda name, system, user: {"closest_heading": "[et] new"})
         strings = i18n.Localiser(llm).strings("et", "Estonian")
-        self.assertEqual(strings["handoff_no"], "[et] new")
+        self.assertEqual(strings["closest_heading"], "[et] new")
         self.assertEqual(strings["disclaimer"], "[et] reviewed by a lawyer")
-        self.assertIn('"handoff_no"', llm.calls[0]["user"])
+        self.assertIn('"closest_heading"', llm.calls[0]["user"])
         self.assertNotIn('"disclaimer"', llm.calls[0]["user"])
 
-    def test_declined_permission_stores_nothing(self) -> None:
-        turns = iter([analysis(in_scope=False), analysis(intent="consent_no")])
-        engine, _ = self.engine(lambda name, system, user: next(turns))
-        session = Session()
-        engine.respond("Tell me about VAT rates", session)
-        reply = engine.respond("No thanks", session)
-        self.assertEqual(reply.kind, "handoff_no")
+    def test_no_to_the_invitation_offers_further_help(self) -> None:
+        engine, _ = self.engine(lambda *a: analysis(intent="consent_no"))
+        reply = engine.respond("No thanks", Session())
+        self.assertEqual(reply.kind, "decline")
         self.assertEqual(feedback.read_all(), [])
         self.assert_disclaimer(reply)
 
@@ -313,7 +293,7 @@ class EngineTests(TempData):
         session = Session()
         reply = engine.respond("What fine applies in Estonia?", session)
         self.assertEqual(reply.kind, "out_of_scope")
-        self.assertEqual(session.pending_handoff["reason"], "not_covered")
+        self.assertEqual(feedback.read_all()[0]["reason"], "not_covered")
         self.assert_disclaimer(reply)
 
     def test_situation_uses_the_comparison_instructions(self) -> None:
@@ -414,7 +394,7 @@ class EngineTests(TempData):
         cut_mid_escape = '{"summary": "ends with ' + "\\"
         self.assertEqual(partial_field(cut_mid_escape, "summary"), "ends with ")
 
-    def test_consent_is_asked_once_and_a_yes_covers_the_conversation(self) -> None:
+    def test_disclaimer_comes_with_the_first_reply_only(self) -> None:
         national = {"topic": "national fees", "topic_en": "national fees",
                     "source": "national_law"}
         answer = {"status": "answered", "summary": "S.", "answer": "Under the Code, ...",
@@ -423,28 +403,22 @@ class EngineTests(TempData):
         engine, _ = self.engine(lambda name, system, user: next(turns))
         session = Session()
         first = engine.respond("Question one?", session)
-        self.assertTrue(first.consent_question)
-        reply = engine.consent(session, True)  # the Yes button
-        self.assertEqual(reply.kind, "handoff_yes")
-        self.assertEqual(len(feedback.read_all()), 1)
         second = engine.respond("Question two?", session)
-        self.assertFalse(second.consent_question)  # not asked again
-        self.assertIn("Recorded for the author: national fees.", second.notes)
-        self.assertEqual(len(feedback.read_all()), 2)
+        self.assertEqual(first.disclaimer, i18n.STRINGS["disclaimer"])
+        self.assert_disclaimer(first)
+        self.assertEqual(second.disclaimer, "")
+        self.assertNotIn(i18n.STRINGS["disclaimer"], second.text)
+        self.assertIn("consolidated text of 18.10.2024", second.text)  # the source line stays
+        self.assertIn(i18n.STRINGS["limits_notice"].split(":")[0], second.text)
+        self.assertEqual(len(feedback.read_all()), 2)  # each answer's topics recorded
 
-    def test_unanswered_consent_question_is_not_asked_again(self) -> None:
-        national = {"topic": "national fees", "topic_en": "national fees",
-                    "source": "national_law"}
-        answer = {"status": "answered", "summary": "S.", "answer": "Under the Code, ...",
-                  "outside_topics": [national], "quotes": []}
-        turns = iter([analysis(), dict(answer), analysis(), dict(answer)])
-        engine, _ = self.engine(lambda name, system, user: next(turns))
-        session = Session()
-        engine.respond("Question one?", session)
-        second = engine.respond("Question two?", session)  # moved on without answering
-        self.assertFalse(second.consent_question)
-        self.assertIn(i18n.STRINGS["limits_notice"].split(":")[0], second.text)  # note stays
-        self.assertEqual(feedback.read_all(), [])
+    def test_topics_log_deletes_entries_after_the_retention_period(self) -> None:
+        feedback.record("eecc", "v", "en", "Old question?", topics=[])
+        old = json.loads(config.FEEDBACK_FILE.read_text(encoding="utf-8"))
+        old["received_at"] = "2020-01-01T00:00:00+00:00"
+        config.FEEDBACK_FILE.write_text(json.dumps(old) + "\n", encoding="utf-8")
+        feedback.record("eecc", "v", "en", "New question?", topics=[])
+        self.assertEqual([e["question"] for e in feedback.read_all()], ["New question?"])
 
     def test_busy_service_gets_a_friendly_message(self) -> None:
         from eu_law_nli.llm import LLMBusy
@@ -498,9 +472,11 @@ class EngineTests(TempData):
             raise LLMError("timeout")
 
         engine, _ = self.engine(responder)
-        reply = engine.respond("What is this directive about?", Session())
+        session = Session()
+        reply = engine.respond("What is this directive about?", session)
         self.assertEqual(reply.kind, "error")
-        self.assert_disclaimer(reply)
+        self.assertIn(i18n.STRINGS["error_generic"], reply.text)
+        self.assertFalse(session.disclaimer_shown)  # kept for the first real answer
 
     def test_missing_corpus_explains_how_to_build_it(self) -> None:
         shutil.rmtree(config.CORPUS_DIR)
@@ -748,8 +724,7 @@ class LibraryTests(TempData):
         self.assertEqual(reply.suggestion["question"], "How long may traffic data be kept?")
         self.assertIn("another act in this library: Traffic data guidelines", reply.text)
         self.assertIn("does not deal with this question, but another act", reply.text)
-        self.assertFalse(reply.consent_question)  # nothing to record: the library has it
-        self.assertEqual(session.consent, "")
+        self.assertEqual(feedback.read_all(), [])  # nothing to record: the library has it
 
     def test_conversation_carries_over_when_the_act_changes(self) -> None:
         from eu_law_nli.engine import continue_in
@@ -765,13 +740,13 @@ class LibraryTests(TempData):
 
         guide = Engine(ScriptedLLM(responder=responder), "guide", library=Library())
         first = Session(language="de", language_name="German")
-        first.consent = "no"
         guide.respond("How long may traffic data be kept?", first)
 
         llm = ScriptedLLM(responder=lambda *a: analysis(intent="greeting"))
         code = Engine(llm, "eecc", library=Library())
         second = continue_in(first, code.doc.short_name, "web")
-        self.assertEqual((second.language, second.consent), ("de", ""))  # language kept, consent fresh
+        self.assertEqual(second.language, "de")  # language kept
+        self.assertTrue(second.disclaimer_shown)  # the disclaimer is not repeated
         self.assertNotEqual(second.id, first.id)
         code.respond("And does that also apply to operators?", second)
         prompt = llm.calls[0]["user"]
@@ -790,7 +765,7 @@ class LibraryTests(TempData):
         reply = engine.respond("What VAT applies to billing?", Session())
         self.assertEqual(reply.kind, "out_of_scope")
         self.assertIsNone(reply.suggestion)
-        self.assertTrue(reply.consent_question)  # offered to record it for the author instead
+        self.assertEqual(len(feedback.read_all()), 1)  # recorded for the author instead
 
     def test_intake_step_sees_the_other_acts_in_the_library(self) -> None:
         from eu_law_nli.library import Library
