@@ -20,6 +20,7 @@ not asked again.
 """
 from __future__ import annotations
 
+import logging
 import time
 import uuid
 from dataclasses import dataclass, field
@@ -30,7 +31,7 @@ from typing import TYPE_CHECKING, Callable
 from . import config, feedback, live, prompts, sources, usage
 from .corpus import Chunk, Corpus, reference
 from .i18n import Localiser, document_strings, format_date
-from .llm import LLM, LLMBusy, LLMError
+from .llm import LLM, LLMBusy, LLMError, LLMSetupError
 from .parser import Provision, normalise
 from .registry import Document, load_document
 from .retriever import BM25Retriever
@@ -43,6 +44,7 @@ _LOOSE = str.maketrans({
     "–": "-", "—": "-", "‑": "-",
 })
 MIN_QUOTE_CHARS = 15
+log = logging.getLogger("eu_law_nli")
 
 
 @dataclass
@@ -205,9 +207,13 @@ class Engine:
         try:
             reply = self._respond(message, session, on_progress)
         except LLMError as exc:
-            error = str(exc)  # technical detail goes to the usage log, not the user
+            # The technical detail goes to the usage log and the server log
+            # (on Streamlit Community Cloud: Manage app), not to the user.
+            error = str(exc)
+            log.error("Model call failed: %s", error)
             strings = self.strings(session)
-            key = "error_busy" if isinstance(exc, LLMBusy) else "error_generic"
+            key = ("error_busy" if isinstance(exc, LLMBusy)
+                   else "error_setup" if isinstance(exc, LLMSetupError) else "error_generic")
             reply = self._finish(strings, session, "error", details=strings[key])
         session.history.append(("user", message))
         session.history.append(("assistant", reply.body))

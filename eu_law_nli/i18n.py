@@ -61,6 +61,10 @@ STRINGS: dict[str, str] = {
     "error_busy": (
         "The assistant is very busy right now. Please wait a minute and ask again."
     ),
+    "error_setup": (
+        "The assistant cannot reach its AI service because of a configuration problem. "
+        "Please let the person who shared it with you know."
+    ),
     "error_generic": (
         "Sorry, something went wrong while preparing the answer. Please try again, or "
         "rephrase your question."

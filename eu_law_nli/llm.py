@@ -24,6 +24,11 @@ class LLMBusy(LLMError):
     """The provider is overloaded or rate-limited: worth trying again shortly."""
 
 
+class LLMSetupError(LLMError):
+    """The API key, account credit or model is not accepted: trying again will not
+    help until the person running the assistant fixes the configuration."""
+
+
 class LLM(Protocol):
     def json(self, system: str, user: str, schema: dict, name: str,
              on_text: Callable[[str], None] | None = None) -> dict: ...
@@ -128,9 +133,15 @@ class AnthropicLLM:
                     response = stream.get_final_message()
         except (anthropic.RateLimitError, anthropic.InternalServerError) as exc:
             raise LLMBusy(f"The model service is busy: {exc}") from exc
+        except (anthropic.AuthenticationError, anthropic.PermissionDeniedError,
+                anthropic.NotFoundError) as exc:
+            raise LLMSetupError(f"API key or model not accepted ({self.provider}, "
+                                f"model {self.model}): {exc}") from exc
         except anthropic.APIStatusError as exc:
             if exc.status_code == 529:
                 raise LLMBusy(f"The model service is overloaded: {exc}") from exc
+            if "credit" in str(exc).lower() or "billing" in str(exc).lower():
+                raise LLMSetupError(f"No API credit left on the account: {exc}") from exc
             raise LLMError(f"The model request failed: {exc}") from exc
         except anthropic.APIConnectionError as exc:
             raise LLMBusy(f"Could not reach the model service: {exc}") from exc

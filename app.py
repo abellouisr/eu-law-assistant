@@ -12,6 +12,7 @@ in the terminal:
 from __future__ import annotations
 
 import hmac
+import logging
 import os
 import time
 
@@ -34,6 +35,8 @@ def secrets_to_environment() -> None:
 
 
 secrets_to_environment()
+# Errors from the model call appear in the server log (Community Cloud: Manage app).
+logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
 
 from eu_law_nli import config, live, sources  # noqa: E402 (after the secrets are loaded)
 from eu_law_nli.engine import Engine, Reply, Session  # noqa: E402,F401 (Reply: type hints)
