@@ -101,7 +101,11 @@
     "gdpr.name": "General Data Protection Regulation",
     "gdpr.example_1": "When may a controller rely on legitimate interests as the lawful basis for processing, and how does that interact with the right to object?",
     "gdpr.example_2": "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?",
-    "out_of_scope_library": "The selected act ({document}) does not deal with this question, but another act in this library does."
+    "out_of_scope_library": "The selected act ({document}) does not deal with this question, but another act in this library does.",
+    "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
+    "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
+    "closest_heading": "Closest provisions",
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
   },
   "suggest_act": "Tõenäoliselt käsitleb seda üksikasjalikumalt {document} (näiteks {provisions}).",
   "switch_button": "Vaheta aktile {document} ja küsi seal",
@@ -116,5 +120,9 @@
   "gdpr.name": "Isikuandmete kaitse üldmäärus",
   "gdpr.example_1": "Millal võib vastutav töötleja tugineda õigustatud huvidele kui töötlemise õiguslikule alusele ja kuidas see suhestub vastuväiteõigusega?",
   "gdpr.example_2": "Milliseid kriteeriume peab järelevalveasutus arvesse võtma, kui ta otsustab, kas määrata haldustrahv, ja selle suuruse kindlaksmääramisel?",
-  "out_of_scope_library": "Valitud õigusakt ({document}) seda küsimust ei käsitle, kuid seda käsitleb mõni teine selle raamatukogu õigusakt."
+  "out_of_scope_library": "Valitud õigusakt ({document}) seda küsimust ei käsitle, kuid seda käsitleb mõni teine selle raamatukogu õigusakt.",
+  "out_of_scope_plain": "Seisuga {date} ei käsitle valitud õigusakt ({document}) seda küsimust ning ma ei saa läbi vaadata siseriiklikke õigusakte ega akte, mida ei ole selles raamatukogus. Palun kontrollige enne mis tahes nõuande kasutamist seda teemat reguleerivat siseriiklikku õigusakti või ELi õigusakti.",
+  "not_covered": "Valitud õigusakt ({document}) käsitleb seda teemat, kuid selle tekst ei vasta sellele konkreetsele küsimusele. Allpool on loetletud sätted, mis on küsimusele kõige lähedasemad; asja võib lahendada siseriiklik õigus, komisjoni õigusakt või leping.",
+  "closest_heading": "Kõige lähedasemad sätted",
+  "error_setup": "Assistent ei saa seadistusprobleemi tõttu ühendust oma tehisintellektiteenusega. Palun andke sellest teada isikule, kes selle teiega jagas."
 }

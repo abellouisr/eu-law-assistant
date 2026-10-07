@@ -101,7 +101,11 @@
     "eecc.example_2": "Which end-user rights apply to number-independent interpersonal communications services, and which are excluded?",
     "gdpr.name": "General Data Protection Regulation",
     "gdpr.example_1": "When may a controller rely on legitimate interests as the lawful basis for processing, and how does that interact with the right to object?",
-    "gdpr.example_2": "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?"
+    "gdpr.example_2": "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?",
+    "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
+    "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
+    "closest_heading": "Closest provisions",
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
   },
   "out_of_scope_library": "El acto seleccionado ({document}) no trata esta cuestión, pero sí lo hace otro acto de esta biblioteca.",
   "suggest_act": "Es probable que el {document} regule esto con más detalle (por ejemplo, {provisions}).",
@@ -116,5 +120,9 @@
   "eecc.example_2": "¿Qué derechos de los usuarios finales se aplican a los servicios de comunicaciones interpersonales independientes de la numeración y cuáles quedan excluidos?",
   "gdpr.name": "Reglamento General de Protección de Datos",
   "gdpr.example_1": "¿Cuándo puede un responsable del tratamiento invocar el interés legítimo como base jurídica del tratamiento y cómo interactúa esto con el derecho de oposición?",
-  "gdpr.example_2": "¿Qué criterios debe tener en cuenta una autoridad de control al decidir si impone una multa administrativa y al fijar su cuantía?"
+  "gdpr.example_2": "¿Qué criterios debe tener en cuenta una autoridad de control al decidir si impone una multa administrativa y al fijar su cuantía?",
+  "out_of_scope_plain": "A fecha de {date}, el acto seleccionado ({document}) no trata esta cuestión, y no puedo examinar las normativas nacionales ni los actos que no figuran en esta biblioteca. Consulte la legislación nacional o el acto de la UE que regule esta materia antes de basarse en cualquier consejo.",
+  "not_covered": "El acto seleccionado ({document}) trata esta materia, pero su texto no responde a esta cuestión concreta. A continuación se enumeran las disposiciones que más se aproximan; el punto podría estar regulado por la legislación nacional, por un acto de la Comisión o por el contrato.",
+  "closest_heading": "Disposiciones más próximas",
+  "error_setup": "El asistente no puede acceder a su servicio de IA debido a un problema de configuración. Por favor, informe de ello a la persona que se lo ha compartido."
 }

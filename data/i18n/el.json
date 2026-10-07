@@ -101,7 +101,11 @@
     "eecc.example_2": "Which end-user rights apply to number-independent interpersonal communications services, and which are excluded?",
     "gdpr.name": "General Data Protection Regulation",
     "gdpr.example_1": "When may a controller rely on legitimate interests as the lawful basis for processing, and how does that interact with the right to object?",
-    "gdpr.example_2": "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?"
+    "gdpr.example_2": "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?",
+    "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
+    "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
+    "closest_heading": "Closest provisions",
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
   },
   "out_of_scope_library": "Η επιλεγμένη πράξη ({document}) δεν πραγματεύεται το ερώτημα αυτό, αλλά το πραγματεύεται άλλη πράξη της παρούσας βιβλιοθήκης.",
   "suggest_act": "Η πράξη {document} πιθανότατα καλύπτει το θέμα αυτό αναλυτικότερα (για παράδειγμα {provisions}).",
@@ -116,5 +120,9 @@
   "eecc.example_2": "Ποια δικαιώματα των τελικών χρηστών ισχύουν για τις διαπροσωπικές υπηρεσίες επικοινωνιών που δεν βασίζονται σε αριθμούς και ποια εξαιρούνται;",
   "gdpr.name": "Γενικός Κανονισμός για την Προστασία των Δεδομένων",
   "gdpr.example_1": "Πότε μπορεί ο υπεύθυνος επεξεργασίας να επικαλεστεί τα έννομα συμφέροντα ως νομική βάση της επεξεργασίας και πώς αλληλεπιδρά αυτό με το δικαίωμα εναντίωσης;",
-  "gdpr.example_2": "Ποια κριτήρια πρέπει να λαμβάνει υπόψη μια εποπτική αρχή όταν αποφασίζει αν θα επιβάλει διοικητικό πρόστιμο και όταν καθορίζει το ύψος του;"
+  "gdpr.example_2": "Ποια κριτήρια πρέπει να λαμβάνει υπόψη μια εποπτική αρχή όταν αποφασίζει αν θα επιβάλει διοικητικό πρόστιμο και όταν καθορίζει το ύψος του;",
+  "out_of_scope_plain": "Από την {date}, η επιλεγμένη πράξη ({document}) δεν πραγματεύεται αυτό το ερώτημα και δεν μπορώ να εξετάσω εθνικούς νόμους ή πράξεις που δεν περιλαμβάνονται σε αυτή τη βιβλιοθήκη. Παρακαλούμε ελέγξτε τον εθνικό νόμο ή την πράξη της ΕΕ που καλύπτει αυτό το θέμα πριν βασιστείτε σε οποιαδήποτε συμβουλή.",
+  "not_covered": "Η επιλεγμένη πράξη ({document}) πραγματεύεται αυτό το θέμα, αλλά το κείμενό της δεν απαντά στο συγκεκριμένο ερώτημα. Οι διατάξεις που πλησιάζουν περισσότερο αναφέρονται παρακάτω· το ζήτημα μπορεί να ρυθμίζεται από το εθνικό δίκαιο, από πράξη της Επιτροπής ή από τη σύμβαση.",
+  "closest_heading": "Πλησιέστερες διατάξεις",
+  "error_setup": "Ο βοηθός δεν μπορεί να συνδεθεί με την υπηρεσία τεχνητής νοημοσύνης του λόγω προβλήματος διαμόρφωσης. Παρακαλούμε ενημερώστε το άτομο που τον κοινοποίησε σε εσάς."
 }

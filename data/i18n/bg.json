@@ -101,7 +101,11 @@
     "eecc.example_2": "Which end-user rights apply to number-independent interpersonal communications services, and which are excluded?",
     "gdpr.name": "General Data Protection Regulation",
     "gdpr.example_1": "When may a controller rely on legitimate interests as the lawful basis for processing, and how does that interact with the right to object?",
-    "gdpr.example_2": "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?"
+    "gdpr.example_2": "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?",
+    "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
+    "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
+    "closest_heading": "Closest provisions",
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
   },
   "out_of_scope_library": "Избраният акт ({document}) не урежда този въпрос, но друг акт в тази библиотека го урежда.",
   "suggest_act": "Вероятно {document} разглежда това по-подробно (например {provisions}).",
@@ -116,5 +120,9 @@
   "eecc.example_2": "Кои права на крайните потребители се прилагат за междуличностните съобщителни услуги, които не използват номера, и кои са изключени?",
   "gdpr.name": "Общ регламент относно защитата на данните",
   "gdpr.example_1": "Кога администраторът може да се позове на законните интереси като правно основание за обработване и как това се съотнася с правото на възражение?",
-  "gdpr.example_2": "Кои критерии трябва да вземе предвид надзорният орган, когато решава дали да наложи административна глоба и когато определя нейния размер?"
+  "gdpr.example_2": "Кои критерии трябва да вземе предвид надзорният орган, когато решава дали да наложи административна глоба и когато определя нейния размер?",
+  "out_of_scope_plain": "Към {date} избраният акт ({document}) не обхваща този въпрос, а аз не мога да преглеждам национални закони или актове, които не са включени в тази библиотека. Моля, проверете националното законодателство или акта на ЕС, който урежда тази материя, преди да се позовете на какъвто и да е съвет.",
+  "not_covered": "Избраният акт ({document}) обхваща тази материя, но текстът му не дава отговор на този конкретен въпрос. По-долу са изброени разпоредбите, които са най-близки до него; въпросът може да бъде уреден от националното право, от акт на Комисията или от договора.",
+  "closest_heading": "Най-близки разпоредби",
+  "error_setup": "Асистентът не може да се свърже със своята услуга с изкуствен интелект поради проблем в конфигурацията. Моля, уведомете лицето, което го е споделило с вас."
 }

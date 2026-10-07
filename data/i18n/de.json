@@ -101,7 +101,11 @@
     "eecc.example_2": "Which end-user rights apply to number-independent interpersonal communications services, and which are excluded?",
     "gdpr.name": "General Data Protection Regulation",
     "gdpr.example_1": "When may a controller rely on legitimate interests as the lawful basis for processing, and how does that interact with the right to object?",
-    "gdpr.example_2": "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?"
+    "gdpr.example_2": "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?",
+    "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
+    "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
+    "closest_heading": "Closest provisions",
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
   },
   "out_of_scope_library": "Der ausgewählte Rechtsakt ({document}) behandelt diese Frage nicht, wohl aber ein anderer Rechtsakt in dieser Bibliothek.",
   "suggest_act": "Die {document} behandelt dies wahrscheinlich ausführlicher (zum Beispiel {provisions}).",
@@ -116,5 +120,9 @@
   "eecc.example_2": "Welche Endnutzerrechte gelten für nummernunabhängige interpersonelle Kommunikationsdienste, und welche sind ausgenommen?",
   "gdpr.name": "Datenschutz-Grundverordnung",
   "gdpr.example_1": "Wann darf sich ein Verantwortlicher auf berechtigte Interessen als Rechtsgrundlage für die Verarbeitung stützen, und wie verhält sich das zum Widerspruchsrecht?",
-  "gdpr.example_2": "Welche Kriterien muss eine Aufsichtsbehörde bei der Entscheidung über die Verhängung einer Geldbuße und bei der Festsetzung ihrer Höhe berücksichtigen?"
+  "gdpr.example_2": "Welche Kriterien muss eine Aufsichtsbehörde bei der Entscheidung über die Verhängung einer Geldbuße und bei der Festsetzung ihrer Höhe berücksichtigen?",
+  "out_of_scope_plain": "Stand {date} behandelt der ausgewählte Rechtsakt ({document}) diese Frage nicht, und ich kann weder nationale Gesetze noch Rechtsakte prüfen, die nicht in dieser Bibliothek enthalten sind. Bitte prüfen Sie das nationale Recht oder den EU-Rechtsakt, der dieses Thema regelt, bevor Sie sich auf irgendeinen Rat verlassen.",
+  "not_covered": "Der ausgewählte Rechtsakt ({document}) behandelt dieses Thema, aber sein Text beantwortet diese konkrete Frage nicht. Die Bestimmungen, die der Frage am nächsten kommen, sind unten aufgeführt; der Punkt könnte durch nationales Recht, einen Rechtsakt der Kommission oder den Vertrag geregelt sein.",
+  "closest_heading": "Am nächsten kommende Bestimmungen",
+  "error_setup": "Der Assistent kann seinen KI-Dienst aufgrund eines Konfigurationsproblems nicht erreichen. Bitte informieren Sie die Person, die ihn mit Ihnen geteilt hat."
 }

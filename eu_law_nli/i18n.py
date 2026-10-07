@@ -39,6 +39,17 @@ STRINGS: dict[str, str] = {
         "that are not in this library. Please check the national law or the EU act that "
         "covers this subject before relying on any advice."
     ),
+    "out_of_scope_plain": (
+        "As of {date}, the selected act ({document}) does not deal with this question, and I "
+        "cannot review national laws or acts that are not in this library. Please check the "
+        "national law or the EU act that covers this subject before relying on any advice."
+    ),
+    "not_covered": (
+        "The selected act ({document}) deals with this subject, but its text does not answer "
+        "this specific question. The provisions that come closest are listed below; the "
+        "point may be settled by national law, a Commission act or the contract."
+    ),
+    "closest_heading": "Closest provisions",
     "out_of_scope_library": (
         "The selected act ({document}) does not deal with this question, but another act "
         "in this library does."

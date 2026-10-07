@@ -101,7 +101,11 @@
     "eecc.example_2": "Which end-user rights apply to number-independent interpersonal communications services, and which are excluded?",
     "gdpr.name": "General Data Protection Regulation",
     "gdpr.example_1": "When may a controller rely on legitimate interests as the lawful basis for processing, and how does that interact with the right to object?",
-    "gdpr.example_2": "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?"
+    "gdpr.example_2": "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?",
+    "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
+    "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
+    "closest_heading": "Closest provisions",
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
   },
   "out_of_scope_library": "Odabrani akt ({document}) ne obrađuje ovo pitanje, ali ga obrađuje drugi akt u ovoj biblioteci.",
   "suggest_act": "Ovo vjerojatno detaljnije obuhvaća akt {document} (na primjer {provisions}).",
@@ -116,5 +120,9 @@
   "eecc.example_2": "Koja se prava krajnjih korisnika primjenjuju na interpersonalne komunikacijske usluge neovisne o broju, a koja su isključena?",
   "gdpr.name": "Opća uredba o zaštiti podataka",
   "gdpr.example_1": "Kada se voditelj obrade može osloniti na legitimne interese kao pravnu osnovu za obradu i kako se to odnosi na pravo na prigovor?",
-  "gdpr.example_2": "Koje kriterije nadzorno tijelo mora uzeti u obzir pri odlučivanju o izricanju upravne novčane kazne i određivanju njezina iznosa?"
+  "gdpr.example_2": "Koje kriterije nadzorno tijelo mora uzeti u obzir pri odlučivanju o izricanju upravne novčane kazne i određivanju njezina iznosa?",
+  "out_of_scope_plain": "Na dan {date} odabrani akt ({document}) ne obuhvaća ovo pitanje, a ne mogu pregledavati nacionalne zakone ni akte koji nisu u ovoj knjižnici. Prije nego što se oslonite na bilo kakav savjet, provjerite nacionalni zakon ili akt EU-a koji obuhvaća ovu temu.",
+  "not_covered": "Odabrani akt ({document}) obuhvaća ovu temu, ali njegov tekst ne odgovara na ovo konkretno pitanje. U nastavku su navedene odredbe koje su mu najbliže; to pitanje možda uređuje nacionalno pravo, akt Komisije ili ugovor.",
+  "closest_heading": "Najbliže odredbe",
+  "error_setup": "Asistent ne može doći do svoje usluge umjetne inteligencije zbog problema s konfiguracijom. Obavijestite osobu koja Vam ga je proslijedila."
 }

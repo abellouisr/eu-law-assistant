@@ -304,7 +304,7 @@ class Engine:
             return self._out_of_scope(message, question_en, "not_covered", topics,
                                       session, strings,
                                       self._suggest(analysis, message, question_en, False,
-                                                    session))
+                                                    session), passages)
 
         quotes, dropped = self._verify(answer.get("quotes") or [], passages, strings)
         wording = self._wording(quotes, passages, strings)
@@ -377,7 +377,9 @@ class Engine:
         system = prompts.ANALYSE_SYSTEM.format(
             title=self.doc.title, scope=self.doc.scope, outline=self._outline,
             previous_language=f"{session.language_name} ({session.language})", pending=pending,
-            outside_topics_rule=prompts.OUTSIDE_TOPICS_RULE, short_name=self.doc.short_name,
+            outside_topics_rule=prompts.OUTSIDE_TOPICS_RULE.format(
+                topic_language="the language of the latest message"),
+            short_name=self.doc.short_name,
         )
         user = (f"<conversation>\n{self._conversation(session)}\n</conversation>\n\n"
                 f"<latest_message>\n{message}\n</latest_message>")
@@ -430,7 +432,8 @@ class Engine:
             return {"status": "not_covered", "summary": "", "answer": "", "quotes": []}
         rules = prompts.SITUATION_RULES if mode == "situation" else prompts.QUESTION_RULES
         system = prompts.ANSWER_SYSTEM.format(
-            short_name=self.doc.short_name, outside_topics_rule=prompts.OUTSIDE_TOPICS_RULE,
+            short_name=self.doc.short_name, outside_topics_rule=prompts.OUTSIDE_TOPICS_RULE.format(
+                topic_language=session.language_name),
             title=self.doc.title, citation=self.doc.citation,
             version_kind=self.version.kind, version_date=self.version.date,
             language_name=session.language_name,
@@ -561,7 +564,8 @@ class Engine:
                                              provisions=", ".join(suggestion["provisions"]))
 
     def _out_of_scope(self, message: str, question_en: str, reason: str, topics: list[dict],
-                      session: Session, strings: dict, suggestion: dict | None = None) -> Reply:
+                      session: Session, strings: dict, suggestion: dict | None = None,
+                      passages: list[Passage] | None = None) -> Reply:
         topics = _clean_topics(topics)
         document = session.document_name or self.doc.short_name
         if suggestion:  # another act in the library covers it: point there, record nothing
@@ -569,14 +573,36 @@ class Engine:
             return self._finish(strings, session, "out_of_scope", details=details,
                                 notes=[self._suggestion_note(suggestion, strings)],
                                 topics=topics, suggestion=suggestion)
-        details = strings["out_of_scope"].format(
-            date=format_date(date.today().isoformat()), document=document,
-            topics=self._topic_list(topics, strings))
+        wording = ""
+        if reason == "not_covered" and passages:
+            # The act deals with the subject but not with this exact question:
+            # say so, and point to the provisions that came closest.
+            details = strings["not_covered"].format(document=document)
+            wording = self._references(passages[:5], strings, strings["closest_heading"])
+        elif topics:
+            details = strings["out_of_scope"].format(
+                date=format_date(date.today().isoformat()), document=document,
+                topics=self._topic_list(topics, strings))
+        else:
+            details = strings["out_of_scope_plain"].format(
+                date=format_date(date.today().isoformat()), document=document)
         if not topics:  # nothing named to record: still offer to record the question
             topics = [{"topic": message[:200], "topic_en": question_en[:200], "source": "other"}]
         notes, ask = self._outside(message, question_en, reason, topics, session, strings)
         return self._finish(strings, session, "out_of_scope", details=details, notes=notes,
-                            ask=ask, topics=topics)
+                            ask=ask, topics=topics, wording=wording)
+
+    def _references(self, passages: list[Passage], strings: dict, heading: str) -> str:
+        """A linked list of the provisions behind some passages, without quotations."""
+        items: dict[str, str] = {}
+        for p in passages:
+            if p.provision.id in items:
+                continue
+            url = sources.link(self.doc, self.version, p.lang, p.provision)
+            name = self._reference(p.provision, "", strings)
+            label = f"{name}{' — ' + p.provision.title if p.provision.title else ''}"
+            items[p.provision.id] = f"- [{label}]({url})" if url else f"- {label}"
+        return f"**{heading}**\n" + "\n".join(items.values()) if items else ""
 
     @staticmethod
     def _topic_list(topics: list[dict], strings: dict) -> str:

@@ -101,7 +101,11 @@
     "eecc.example_2": "Which end-user rights apply to number-independent interpersonal communications services, and which are excluded?",
     "gdpr.name": "General Data Protection Regulation",
     "gdpr.example_1": "When may a controller rely on legitimate interests as the lawful basis for processing, and how does that interact with the right to object?",
-    "gdpr.example_2": "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?"
+    "gdpr.example_2": "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?",
+    "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
+    "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
+    "closest_heading": "Closest provisions",
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
   },
   "out_of_scope_library": "Ní dhéileálann an gníomh roghnaithe ({document}) leis an gceist seo, ach déileálann gníomh eile sa leabharlann seo léi.",
   "suggest_act": "Is dócha go ndéileálann {document} leis seo go mion (mar shampla {provisions}).",
@@ -116,5 +120,9 @@
   "eecc.example_2": "Cé na cearta d’úsáideoirí deiridh a bhaineann le seirbhísí cumarsáide idirphearsanta nach bhfuil spleách ar uimhreacha, agus cé na cearta atá eisiata?",
   "gdpr.name": "An Rialachán Ginearálta maidir le Cosaint Sonraí",
   "gdpr.example_1": "Cathain a fhéadfaidh rialaitheoir brath ar leasanna dlisteanacha mar bhunús dlíthiúil leis an bpróiseáil, agus conas a idirghníomhaíonn sin leis an gceart agóide?",
-  "gdpr.example_2": "Cé na critéir a chaithfidh údarás maoirseachta a chur i gcuntas agus é ag cinneadh an gcuirfidh sé fineáil riaracháin ar fáil agus ag socrú a méid?"
+  "gdpr.example_2": "Cé na critéir a chaithfidh údarás maoirseachta a chur i gcuntas agus é ag cinneadh an gcuirfidh sé fineáil riaracháin ar fáil agus ag socrú a méid?",
+  "out_of_scope_plain": "Amhail {date}, ní dhéileálann an gníomh roghnaithe ({document}) leis an gceist seo, agus ní féidir liom athbhreithniú a dhéanamh ar dhlíthe náisiúnta ná ar ghníomhartha nach bhfuil sa leabharlann seo. Seiceáil an dlí náisiúnta nó gníomh an Aontais Eorpaigh a chuimsíonn an t-ábhar seo sula gcuireann tú muinín in aon chomhairle.",
+  "not_covered": "Déileálann an gníomh roghnaithe ({document}) leis an ábhar seo, ach ní fhreagraíonn a théacs an cheist shonrach seo. Tá na forálacha is gaire liostaithe thíos; d'fhéadfadh an dlí náisiúnta, gníomh ón gCoimisiún nó an conradh an pointe a réiteach.",
+  "closest_heading": "Na forálacha is gaire",
+  "error_setup": "Ní féidir leis an chúntóir teacht ar a sheirbhís AI mar gheall ar fhadhb chumraíochta. Cuir an duine a roinn leat é ar an eolas, le do thoil."
 }

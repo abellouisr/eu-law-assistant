@@ -101,7 +101,11 @@
     "eecc.example_2": "Which end-user rights apply to number-independent interpersonal communications services, and which are excluded?",
     "gdpr.name": "General Data Protection Regulation",
     "gdpr.example_1": "When may a controller rely on legitimate interests as the lawful basis for processing, and how does that interact with the right to object?",
-    "gdpr.example_2": "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?"
+    "gdpr.example_2": "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?",
+    "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
+    "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
+    "closest_heading": "Closest provisions",
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
   },
   "out_of_scope_library": "Actul selectat ({document}) nu tratează această întrebare, dar un alt act din această bibliotecă o tratează.",
   "suggest_act": "{document} probabil tratează acest aspect mai detaliat (de exemplu {provisions}).",
@@ -116,5 +120,9 @@
   "eecc.example_2": "Ce drepturi ale utilizatorilor finali se aplică serviciilor de comunicații interpersonale independente de numere și care sunt excluse?",
   "gdpr.name": "Regulamentul general privind protecția datelor",
   "gdpr.example_1": "Când se poate baza un operator pe interesele legitime ca temei legal pentru prelucrare și cum interacționează acest lucru cu dreptul de opoziție?",
-  "gdpr.example_2": "Ce criterii trebuie să ia în considerare o autoritate de supraveghere atunci când decide dacă impune o amendă administrativă și când stabilește cuantumul acesteia?"
+  "gdpr.example_2": "Ce criterii trebuie să ia în considerare o autoritate de supraveghere atunci când decide dacă impune o amendă administrativă și când stabilește cuantumul acesteia?",
+  "out_of_scope_plain": "La data de {date}, actul selectat ({document}) nu tratează această întrebare, iar eu nu pot analiza legile naționale sau actele care nu se află în această bibliotecă. Vă rugăm să verificați legea națională sau actul UE care reglementează acest subiect înainte de a vă baza pe orice recomandare.",
+  "not_covered": "Actul selectat ({document}) tratează acest subiect, dar textul său nu răspunde la această întrebare specifică. Dispozițiile cele mai apropiate sunt enumerate mai jos; chestiunea poate fi reglementată de legislația națională, de un act al Comisiei sau de contract.",
+  "closest_heading": "Cele mai apropiate dispoziții",
+  "error_setup": "Asistentul nu poate accesa serviciul său de inteligență artificială din cauza unei probleme de configurare. Vă rugăm să informați persoana care v-a transmis acest instrument."
 }

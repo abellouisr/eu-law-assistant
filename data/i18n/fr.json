@@ -101,7 +101,11 @@
     "eecc.example_2": "Which end-user rights apply to number-independent interpersonal communications services, and which are excluded?",
     "gdpr.name": "General Data Protection Regulation",
     "gdpr.example_1": "When may a controller rely on legitimate interests as the lawful basis for processing, and how does that interact with the right to object?",
-    "gdpr.example_2": "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?"
+    "gdpr.example_2": "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?",
+    "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
+    "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
+    "closest_heading": "Closest provisions",
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
   },
   "out_of_scope_library": "L'acte sélectionné ({document}) ne traite pas cette question, mais un autre acte de cette bibliothèque la traite.",
   "suggest_act": "Le {document} couvre probablement cette question de manière plus détaillée (par exemple {provisions}).",
@@ -116,5 +120,9 @@
   "eecc.example_2": "Quels droits des utilisateurs finals s'appliquent aux services de communications interpersonnelles non fondés sur la numérotation, et lesquels en sont exclus ?",
   "gdpr.name": "Règlement général sur la protection des données",
   "gdpr.example_1": "Quand un responsable du traitement peut-il invoquer les intérêts légitimes comme base juridique du traitement, et comment cela s'articule-t-il avec le droit d'opposition ?",
-  "gdpr.example_2": "Quels critères une autorité de contrôle doit-elle prendre en considération pour décider d'imposer une amende administrative et en fixer le montant ?"
+  "gdpr.example_2": "Quels critères une autorité de contrôle doit-elle prendre en considération pour décider d'imposer une amende administrative et en fixer le montant ?",
+  "out_of_scope_plain": "À la date du {date}, l'acte sélectionné ({document}) ne traite pas de cette question, et je ne peux pas examiner les législations nationales ni les actes ne figurant pas dans cette bibliothèque. Veuillez consulter la législation nationale ou l'acte de l'UE couvrant ce sujet avant de vous fier à tout conseil.",
+  "not_covered": "L'acte sélectionné ({document}) traite de ce sujet, mais son texte ne répond pas à cette question précise. Les dispositions qui s'en rapprochent le plus sont énumérées ci-dessous ; le point peut être réglé par le droit national, par un acte de la Commission ou par le contrat.",
+  "closest_heading": "Dispositions les plus proches",
+  "error_setup": "L'assistant ne peut pas accéder à son service d'IA en raison d'un problème de configuration. Veuillez en informer la personne qui vous l'a transmis."
 }

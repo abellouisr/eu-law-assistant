@@ -101,7 +101,11 @@
     "eecc.example_2": "Which end-user rights apply to number-independent interpersonal communications services, and which are excluded?",
     "gdpr.name": "General Data Protection Regulation",
     "gdpr.example_1": "When may a controller rely on legitimate interests as the lawful basis for processing, and how does that interact with the right to object?",
-    "gdpr.example_2": "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?"
+    "gdpr.example_2": "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?",
+    "out_of_scope_plain": "As of {date}, the selected act ({document}) does not deal with this question, and I cannot review national laws or acts that are not in this library. Please check the national law or the EU act that covers this subject before relying on any advice.",
+    "not_covered": "The selected act ({document}) deals with this subject, but its text does not answer this specific question. The provisions that come closest are listed below; the point may be settled by national law, a Commission act or the contract.",
+    "closest_heading": "Closest provisions",
+    "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
   },
   "out_of_scope_library": "Vybraný akt ({document}) se touto otázkou nezabývá, ale jiný akt v této knihovně ano.",
   "suggest_act": "Podrobněji se tím pravděpodobně zabývá {document} (například {provisions}).",
@@ -116,5 +120,9 @@
   "eecc.example_2": "Která práva koncových uživatelů se vztahují na interpersonální komunikační služby nezávislé na číslech a která jsou vyloučena?",
   "gdpr.name": "Obecné nařízení o ochraně osobních údajů",
   "gdpr.example_1": "Kdy se může správce opřít o oprávněné zájmy jako o právní základ zpracování a jak to souvisí s právem vznést námitku?",
-  "gdpr.example_2": "Která kritéria musí dozorový úřad zvážit při rozhodování o uložení správní pokuty a při stanovení její výše?"
+  "gdpr.example_2": "Která kritéria musí dozorový úřad zvážit při rozhodování o uložení správní pokuty a při stanovení její výše?",
+  "out_of_scope_plain": "K datu {date} se vybraný předpis ({document}) touto otázkou nezabývá a nemohu posuzovat vnitrostátní právní předpisy ani akty, které nejsou v této knihovně. Před tím, než se budete řídit jakoukoli radou, ověřte si prosím vnitrostátní právní předpis nebo akt EU, který se tímto tématem zabývá.",
+  "not_covered": "Vybraný předpis ({document}) se tímto tématem zabývá, ale jeho text na tuto konkrétní otázku neodpovídá. Ustanovení, která se jí nejvíce blíží, jsou uvedena níže; tuto otázku může upravovat vnitrostátní právo, akt Komise nebo smlouva.",
+  "closest_heading": "Nejbližší ustanovení",
+  "error_setup": "Asistent se nemůže připojit ke své službě umělé inteligence kvůli problému s konfigurací. Informujte prosím osobu, která vám jej zpřístupnila."
 }
