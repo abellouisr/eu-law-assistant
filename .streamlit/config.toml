@@ -3,3 +3,10 @@ headless = true
 
 [browser]
 gatherUsageStats = false
+
+[theme]
+# SF Pro on Apple devices (the system font); Inter, a close match that also
+# covers Greek and Cyrillic, everywhere else.
+font = "-apple-system, BlinkMacSystemFont, Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
+headingFont = "-apple-system, BlinkMacSystemFont, Inter:https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap"
+headingFontWeights = [700, 600, 600, 600, 500, 500]
