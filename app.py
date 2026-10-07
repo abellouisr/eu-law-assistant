@@ -38,7 +38,7 @@ secrets_to_environment()
 # Errors from the model call appear in the server log (Community Cloud: Manage app).
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
 
-from eu_law_nli import config, live, sources  # noqa: E402 (after the secrets are loaded)
+from eu_law_nli import config, i18n, live, sources  # noqa: E402 (after the secrets are loaded)
 from eu_law_nli.engine import Engine, Reply, Session  # noqa: E402,F401 (Reply: type hints)
 from eu_law_nli.i18n import Localiser, document_strings, format_date  # noqa: E402
 from eu_law_nli.library import Library  # noqa: E402
@@ -83,9 +83,14 @@ def get_library(keys: tuple) -> Library:
 
 
 @st.cache_resource(show_spinner="Loading the act…", max_entries=3)
-def get_engine(key: tuple, library_keys: tuple) -> Engine:
+def get_engine(key: tuple, library_keys: tuple, wording: str) -> Engine:
+    # "wording" changes whenever the fixed texts in i18n.py change, so new code
+    # deployed without a restart never meets an engine built with the old texts.
     document, version, _ = key
     return Engine(AnthropicLLM(), document, version, library=get_library(library_keys))
+
+
+WORDING_VERSION = str(hash(tuple(sorted(i18n.STRINGS.items()))))
 
 
 def browser_language() -> str:
@@ -138,7 +143,7 @@ try:
         engine_key = text_key(doc_id)
     st.session_state["engine_key"] = engine_key
     library_keys = tuple(text_key(d) for d in documents)
-    engine = get_engine(engine_key, library_keys)
+    engine = get_engine(engine_key, library_keys, WORDING_VERSION)
 except (LLMError, FileNotFoundError) as exc:
     st.error(str(exc))
     st.stop()
@@ -166,7 +171,7 @@ shown: list[tuple[str, object]] = st.session_state.setdefault("shown", [])
 strings = engine.strings(session)
 notice = st.session_state.pop("act_notice", None)
 if notice:
-    shown.append(("notice", strings[notice].format(
+    shown.append(("notice", strings.get(notice, i18n.STRINGS.get(notice, "{document}")).format(
         document=strings.get(f"{doc_id}.name", engine.doc.short_name))))
 
 
