@@ -52,7 +52,9 @@ def make_client(provider: str | None = None, api_key: str | None = None):
     if provider == "anthropic":
         key = api_key or os.environ.get("ANTHROPIC_API_KEY")
         if not key:
-            raise LLMError("ANTHROPIC_API_KEY is not set. Put it in the .env file.")
+            raise LLMError("ANTHROPIC_API_KEY is not set. Locally, put it in the .env file; on "
+                           "Streamlit Community Cloud, add it under the app's Settings → Secrets "
+                           "as ANTHROPIC_API_KEY = \"sk-ant-...\".")
         return anthropic.Anthropic(api_key=key), config.MODEL
     if provider == "bedrock":
         model = config.BEDROCK_MODEL or (

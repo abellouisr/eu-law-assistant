@@ -12,16 +12,35 @@ in the terminal:
 from __future__ import annotations
 
 import hmac
+import os
 import time
 
 import streamlit as st
 
-from eu_law_nli import config, live, sources
-from eu_law_nli.engine import Engine, Reply, Session  # noqa: F401 (Reply: type hints)
-from eu_law_nli.i18n import Localiser, document_strings, format_date
-from eu_law_nli.library import Library
-from eu_law_nli.llm import AnthropicLLM, LLMError
-from eu_law_nli.registry import list_documents, load_document
+
+def secrets_to_environment() -> None:
+    """On Streamlit Community Cloud, settings such as ANTHROPIC_API_KEY and
+    NLI_APP_PASSWORD are entered as the app's Secrets. Copy the top-level ones
+    into the environment before the settings module reads it. Locally there
+    is usually no secrets file, and .env is used instead."""
+    try:
+        if not st.secrets.load_if_toml_exists():
+            return
+        for key, value in st.secrets.items():
+            if isinstance(value, (str, int, float, bool)):
+                os.environ.setdefault(key, str(value))
+    except Exception:  # a malformed secrets file must not stop the app here
+        pass
+
+
+secrets_to_environment()
+
+from eu_law_nli import config, live, sources  # noqa: E402 (after the secrets are loaded)
+from eu_law_nli.engine import Engine, Reply, Session  # noqa: E402,F401 (Reply: type hints)
+from eu_law_nli.i18n import Localiser, document_strings, format_date  # noqa: E402
+from eu_law_nli.library import Library  # noqa: E402
+from eu_law_nli.llm import AnthropicLLM, LLMError  # noqa: E402
+from eu_law_nli.registry import list_documents, load_document  # noqa: E402
 
 st.set_page_config(page_title="EU law reference assistant", page_icon="⚖️")
 
