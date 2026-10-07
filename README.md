@@ -235,8 +235,9 @@ key, logs and raw downloads are never committed (see `.gitignore`).
    the app's **Share** settings.
 
 On Community Cloud the usage and topics logs live on the app's temporary disk:
-they are lost when the app restarts or goes to sleep, so read them with the
-app's logs or keep tests short. Pushing a new commit redeploys the app.
+they cannot be opened from the Cloud dashboard and are lost when the app
+restarts or goes to sleep. That is fine for a short test; for a longer pilot,
+move the logs to a database. Pushing a new commit redeploys the app.
 
 ## Usage log
 
