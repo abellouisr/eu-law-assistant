@@ -89,7 +89,7 @@
     "version_consolidated": "consolidated",
     "recital": "Recital",
     "out_of_scope_library": "The selected act ({document}) does not deal with this question, but another act in this library does.",
-    "suggest_act": "The {document} probably covers this in more detail (for example {provisions}).",
+    "suggest_act": "Probably covered in more detail by another act in this library: {document} (for example {provisions}).",
     "switch_button": "Switch to {document} and ask there",
     "version_line_document": "Version of {date}",
     "version_document": "published",
@@ -108,7 +108,7 @@
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
   },
   "out_of_scope_library": "Den valgte retsakt ({document}) behandler ikke dette spørgsmål, men en anden retsakt i dette bibliotek gør.",
-  "suggest_act": "{document} dækker sandsynligvis dette mere detaljeret (f.eks. {provisions}).",
+  "suggest_act": "Behandles sandsynligvis mere detaljeret i en anden retsakt i dette bibliotek: {document} (for eksempel {provisions}).",
   "switch_button": "Skift til {document}, og spørg der",
   "version_line_document": "Version af {date}",
   "version_document": "offentliggjort",

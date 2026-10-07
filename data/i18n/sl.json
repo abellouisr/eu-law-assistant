@@ -89,7 +89,7 @@
     "version_consolidated": "consolidated",
     "recital": "Recital",
     "out_of_scope_library": "The selected act ({document}) does not deal with this question, but another act in this library does.",
-    "suggest_act": "The {document} probably covers this in more detail (for example {provisions}).",
+    "suggest_act": "Probably covered in more detail by another act in this library: {document} (for example {provisions}).",
     "switch_button": "Switch to {document} and ask there",
     "version_line_document": "Version of {date}",
     "version_document": "published",
@@ -108,7 +108,7 @@
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
   },
   "out_of_scope_library": "Izbrani akt ({document}) tega vprašanja ne obravnava, obravnava pa ga drug akt v tej knjižnici.",
-  "suggest_act": "Akt {document} to verjetno podrobneje ureja (na primer {provisions}).",
+  "suggest_act": "Podrobneje je to verjetno urejeno v drugem aktu v tej knjižnici: {document} (na primer {provisions}).",
   "switch_button": "Preklopi na {document} in vprašaj tam",
   "version_line_document": "Različica z dne {date}",
   "version_document": "objavljeno",

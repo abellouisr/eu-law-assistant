@@ -738,17 +738,38 @@ class LibraryTests(TempData):
         from eu_law_nli.library import Library
         question = analysis(in_scope=False, standalone_question="How long may traffic data "
                             "be retained for billing?",
-                            search_queries=["traffic data retention billing"])
+                            search_queries=["traffic data retention billing"],
+                            library_act="guide")
         engine = Engine(ScriptedLLM(responder=lambda *a: question), "eecc", library=Library())
         session = Session()
         reply = engine.respond("How long may traffic data be kept?", session)
         self.assertEqual(reply.kind, "out_of_scope")
         self.assertEqual(reply.suggestion["document"], "guide")
         self.assertEqual(reply.suggestion["question"], "How long may traffic data be kept?")
-        self.assertIn("Traffic data guidelines probably covers this", reply.text)
+        self.assertIn("another act in this library: Traffic data guidelines", reply.text)
         self.assertIn("does not deal with this question, but another act", reply.text)
         self.assertFalse(reply.consent_question)  # nothing to record: the library has it
         self.assertEqual(session.consent, "")
+
+    def test_shared_words_alone_do_not_trigger_a_suggestion(self) -> None:
+        from eu_law_nli.library import Library
+        # Keywords match the guide, but the intake step judged that no act in
+        # the library covers the subject (say, a tax question about billing).
+        question = analysis(in_scope=False, standalone_question="What VAT applies to billing?",
+                            search_queries=["traffic data retention billing"], library_act="")
+        engine = Engine(ScriptedLLM(responder=lambda *a: question), "eecc", library=Library())
+        reply = engine.respond("What VAT applies to billing?", Session())
+        self.assertEqual(reply.kind, "out_of_scope")
+        self.assertIsNone(reply.suggestion)
+        self.assertTrue(reply.consent_question)  # offered to record it for the author instead
+
+    def test_intake_step_sees_the_other_acts_in_the_library(self) -> None:
+        from eu_law_nli.library import Library
+        engine, llm = None, ScriptedLLM(responder=lambda *a: analysis(intent="greeting"))
+        engine = Engine(llm, "eecc", library=Library())
+        engine.respond("Hello", Session())
+        self.assertIn("guide: Traffic data guidelines. Traffic and location data.",
+                      llm.calls[0]["system"])
 
     def test_answer_mentions_a_clearly_better_act_only(self) -> None:
         from eu_law_nli.library import Library

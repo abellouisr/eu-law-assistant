@@ -379,11 +379,17 @@ class Engine:
             previous_language=f"{session.language_name} ({session.language})", pending=pending,
             outside_topics_rule=prompts.OUTSIDE_TOPICS_RULE.format(
                 topic_language="the language of the latest message"),
+            library_acts=self._library_acts(),
             short_name=self.doc.short_name,
         )
         user = (f"<conversation>\n{self._conversation(session)}\n</conversation>\n\n"
                 f"<latest_message>\n{message}\n</latest_message>")
         return self.llm.json(system, user, prompts.ANALYSE_SCHEMA, "classify_message")
+
+    def _library_acts(self) -> str:
+        others = [d for d in (self.library.documents.values() if self.library else [])
+                  if d.id != self.doc.id]
+        return "\n".join(f"{d.id}: {d.short_name}. {d.scope}" for d in others) or "(none)"
 
     def _retrieve(self, analysis: dict, question_en: str, language: str) -> list[Passage]:
         queries = [q for q in (analysis.get("search_queries") or []) if q.strip()]
@@ -528,18 +534,26 @@ class Engine:
     def _suggest(self, analysis: dict, message: str, question_en: str,
                  answered: bool, session: Session) -> dict | None:
         """Another act in the library that matches the question clearly better.
-        After an answer the other act must score SUGGEST_RATIO times higher;
-        when this act does not cover the question, scoring higher is enough."""
+        After an answer, the other act must score SUGGEST_RATIO times higher on
+        keywords. When this act does not cover the question, the intake step
+        must also have named that act as covering the subject, so that shared
+        words alone ("contract" in a tax question) never trigger a suggestion."""
         if self.library is None or len(self.library) < 2:
             return None
         queries = [q for q in (analysis.get("search_queries") or []) if q.strip()]
         ranked = self.library.rank(queries + [question_en])
         current = next((m.score for m in ranked if m.document == self.doc.id), 0.0)
-        other = next((m for m in ranked if m.document != self.doc.id), None)
-        if other is None or other.score < config.SUGGEST_MIN_SCORE:
-            return None
-        if other.score < current * (config.SUGGEST_RATIO if answered else 1.0):
-            return None
+        if answered:
+            other = next((m for m in ranked if m.document != self.doc.id), None)
+            if other is None or other.score < max(config.SUGGEST_MIN_SCORE,
+                                                   current * config.SUGGEST_RATIO):
+                return None
+        else:
+            named = str(analysis.get("library_act") or "").strip()
+            other = next((m for m in ranked if m.document == named), None)
+            if not named or named == self.doc.id or other is None \
+                    or other.score < config.SUGGEST_MIN_SCORE:
+                return None
         return {"document": other.document, "name": other.short_name,
                 "provisions": self._labels_in(other, session.language), "question": message}
 
@@ -551,10 +565,16 @@ class Engine:
             corpus = _corpus(doc.id, doc.version("latest").id, language.upper())
         except FileNotFoundError:
             return match.provisions
+        recital = self.localiser.strings(language).get("recital", "Recital")
         labels = []
         for pid, english in zip(match.provision_ids, match.provisions):
             p = corpus.get(pid)
-            labels.append(english if p is None or p.kind == "recital" else p.label)
+            if p is None:
+                labels.append(english)
+            elif p.kind == "recital":
+                labels.append(f"{recital} {p.number}")
+            else:
+                labels.append(p.label)
         return labels
 
     @staticmethod

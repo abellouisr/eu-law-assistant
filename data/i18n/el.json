@@ -89,7 +89,7 @@
     "version_consolidated": "consolidated",
     "recital": "Recital",
     "out_of_scope_library": "The selected act ({document}) does not deal with this question, but another act in this library does.",
-    "suggest_act": "The {document} probably covers this in more detail (for example {provisions}).",
+    "suggest_act": "Probably covered in more detail by another act in this library: {document} (for example {provisions}).",
     "switch_button": "Switch to {document} and ask there",
     "version_line_document": "Version of {date}",
     "version_document": "published",
@@ -108,7 +108,7 @@
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
   },
   "out_of_scope_library": "Η επιλεγμένη πράξη ({document}) δεν πραγματεύεται το ερώτημα αυτό, αλλά το πραγματεύεται άλλη πράξη της παρούσας βιβλιοθήκης.",
-  "suggest_act": "Η πράξη {document} πιθανότατα καλύπτει το θέμα αυτό αναλυτικότερα (για παράδειγμα {provisions}).",
+  "suggest_act": "Πιθανώς καλύπτεται με μεγαλύτερη λεπτομέρεια από άλλη πράξη της παρούσας βιβλιοθήκης: {document} (για παράδειγμα {provisions}).",
   "switch_button": "Μετάβαση στην πράξη {document} και υποβολή του ερωτήματος εκεί",
   "version_line_document": "Έκδοση της {date}",
   "version_document": "δημοσιεύθηκε",

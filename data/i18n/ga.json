@@ -89,7 +89,7 @@
     "version_consolidated": "consolidated",
     "recital": "Recital",
     "out_of_scope_library": "The selected act ({document}) does not deal with this question, but another act in this library does.",
-    "suggest_act": "The {document} probably covers this in more detail (for example {provisions}).",
+    "suggest_act": "Probably covered in more detail by another act in this library: {document} (for example {provisions}).",
     "switch_button": "Switch to {document} and ask there",
     "version_line_document": "Version of {date}",
     "version_document": "published",
@@ -108,7 +108,7 @@
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
   },
   "out_of_scope_library": "Ní dhéileálann an gníomh roghnaithe ({document}) leis an gceist seo, ach déileálann gníomh eile sa leabharlann seo léi.",
-  "suggest_act": "Is dócha go ndéileálann {document} leis seo go mion (mar shampla {provisions}).",
+  "suggest_act": "Is dócha go gcumhdaítear é níos mine in acht eile sa leabharlann seo: {document} (mar shampla {provisions}).",
   "switch_button": "Aistrigh go {document} agus cuir an cheist ansin",
   "version_line_document": "Leagan an {date}",
   "version_document": "foilsithe",

@@ -97,7 +97,8 @@ STRINGS: dict[str, str] = {
     "show_wording": "Show the exact wording",
     "thinking": "Reading the text…",
     "suggest_act": (
-        "The {document} probably covers this in more detail (for example {provisions})."
+        "Probably covered in more detail by another act in this library: {document} "
+        "(for example {provisions})."
     ),
     "switch_button": "Switch to {document} and ask there",
     "yes": "Yes",

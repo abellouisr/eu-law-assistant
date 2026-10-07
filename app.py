@@ -152,7 +152,8 @@ def show_reply(reply: Reply, latest: bool) -> None:
     if reply.details:
         st.markdown(reply.details)
     if reply.wording:
-        with st.expander(strings["show_wording"]):
+        label = strings["show_wording"] if reply.quotes else strings["closest_heading"]
+        with st.expander(label):
             st.markdown(reply.wording)
     for note in reply.notes:
         st.caption(note)

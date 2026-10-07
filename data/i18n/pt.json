@@ -89,7 +89,7 @@
     "version_consolidated": "consolidated",
     "recital": "Recital",
     "out_of_scope_library": "The selected act ({document}) does not deal with this question, but another act in this library does.",
-    "suggest_act": "The {document} probably covers this in more detail (for example {provisions}).",
+    "suggest_act": "Probably covered in more detail by another act in this library: {document} (for example {provisions}).",
     "switch_button": "Switch to {document} and ask there",
     "version_line_document": "Version of {date}",
     "version_document": "published",
@@ -108,7 +108,7 @@
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
   },
   "out_of_scope_library": "O ato selecionado ({document}) não trata esta questão, mas outro ato desta biblioteca trata.",
-  "suggest_act": "O {document} provavelmente aborda este tema com maior pormenor (por exemplo {provisions}).",
+  "suggest_act": "Provavelmente tratado de forma mais pormenorizada por outro ato desta biblioteca: {document} (por exemplo, {provisions}).",
   "switch_button": "Mudar para o {document} e perguntar aí",
   "version_line_document": "Versão de {date}",
   "version_document": "publicada",

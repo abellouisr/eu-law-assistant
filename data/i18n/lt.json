@@ -89,7 +89,7 @@
     "version_consolidated": "consolidated",
     "recital": "Recital",
     "out_of_scope_library": "The selected act ({document}) does not deal with this question, but another act in this library does.",
-    "suggest_act": "The {document} probably covers this in more detail (for example {provisions}).",
+    "suggest_act": "Probably covered in more detail by another act in this library: {document} (for example {provisions}).",
     "switch_button": "Switch to {document} and ask there",
     "version_line_document": "Version of {date}",
     "version_document": "published",
@@ -108,7 +108,7 @@
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
   },
   "out_of_scope_library": "Pasirinktas aktas ({document}) šio klausimo nereglamentuoja, tačiau jį reglamentuoja kitas šios bibliotekos aktas.",
-  "suggest_act": "Tikėtina, kad išsamiau tai reglamentuoja {document} (pavyzdžiui, {provisions}).",
+  "suggest_act": "Tikėtina, kad išsamiau reglamentuojama kitame šios bibliotekos akte: {document} (pavyzdžiui, {provisions}).",
   "switch_button": "Pereiti prie {document} ir klausti ten",
   "version_line_document": "{date} redakcija",
   "version_document": "paskelbta",

@@ -89,7 +89,7 @@
     "version_consolidated": "consolidated",
     "recital": "Recital",
     "out_of_scope_library": "The selected act ({document}) does not deal with this question, but another act in this library does.",
-    "suggest_act": "The {document} probably covers this in more detail (for example {provisions}).",
+    "suggest_act": "Probably covered in more detail by another act in this library: {document} (for example {provisions}).",
     "switch_button": "Switch to {document} and ask there",
     "version_line_document": "Version of {date}",
     "version_document": "published",
@@ -108,7 +108,7 @@
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
   },
   "out_of_scope_library": "De geselecteerde rechtshandeling ({document}) behandelt deze vraag niet, maar een andere rechtshandeling in deze bibliotheek doet dat wel.",
-  "suggest_act": "De {document} behandelt dit waarschijnlijk uitgebreider (bijvoorbeeld {provisions}).",
+  "suggest_act": "Wordt waarschijnlijk uitgebreider behandeld in een andere wet in deze bibliotheek: {document} (bijvoorbeeld {provisions}).",
   "switch_button": "Overschakelen naar {document} en daar de vraag stellen",
   "version_line_document": "Versie van {date}",
   "version_document": "gepubliceerd",

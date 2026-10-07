@@ -88,7 +88,7 @@
     "version_original": "Official Journal",
     "version_consolidated": "consolidated",
     "recital": "Recital",
-    "suggest_act": "The {document} probably covers this in more detail (for example {provisions}).",
+    "suggest_act": "Probably covered in more detail by another act in this library: {document} (for example {provisions}).",
     "switch_button": "Switch to {document} and ask there",
     "version_line_document": "Version of {date}",
     "version_document": "published",
@@ -107,7 +107,7 @@
     "closest_heading": "Closest provisions",
     "error_setup": "The assistant cannot reach its AI service because of a configuration problem. Please let the person who shared it with you know."
   },
-  "suggest_act": "Tõenäoliselt käsitleb seda üksikasjalikumalt {document} (näiteks {provisions}).",
+  "suggest_act": "Tõenäoliselt on seda põhjalikumalt käsitletud selles raamatukogus oleva teises õigusaktis: {document} (näiteks {provisions}).",
   "switch_button": "Vaheta aktile {document} ja küsi seal",
   "version_line_document": "Versioon seisuga {date}",
   "version_document": "avaldatud",
