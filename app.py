@@ -278,9 +278,10 @@ for index, (role, item) in enumerate(shown):
 examples = [strings[key] for key in (f"{doc_id}.example_1", f"{doc_id}.example_2")
             if key in strings]
 if not shown and examples:
-    st.write(strings["examples_heading"])
+    # In italics, to set them apart from the grey introduction above.
+    st.markdown(f"*{strings['examples_heading']}*")
     for i, example in enumerate(examples):
-        st.button(example, key=f"example_{i}", on_click=_ask, args=(example,))
+        st.button(f"*{example}*", key=f"example_{i}", on_click=_ask, args=(example,))
 
 choice = st.session_state.pop("consent_choice", None)
 typed = st.chat_input(strings["input_placeholder"])
