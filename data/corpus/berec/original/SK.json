@@ -1,0 +1,2822 @@
+{
+ "document": "berec",
+ "version": "original",
+ "lang": "SK",
+ "meta": {
+  "source": "eurlex",
+  "celex": "32018R1971",
+  "kind": "original",
+  "date": "2018-12-11",
+  "built_at": "2026-10-07T10:10:25+00:00",
+  "sources_sha256": {
+   "32018R1971": "8085fa29de637bf73b17e7fd81de1d9773344546b5c1c231a6ad115c189966c9"
+  },
+  "counts": {
+   "article": 52,
+   "recital": 53,
+   "annex": 1
+  }
+ },
+ "provisions": [
+  {
+   "id": "rct_1",
+   "kind": "recital",
+   "number": "1",
+   "label": "(1)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Cieľom smernice Európskeho parlamentu a Rady (EÚ) 2018/1972 je vytvoriť vnútorný trh v oblasti elektronických komunikácií v rámci Únie a zároveň zabezpečiť vysokú úroveň investícií, inovácie a ochrany spotrebiteľa prostredníctvom rozvinutej hospodárskej súťaže. Uvedená smernica tiež stanovuje značný počet nových úloh pre Orgán európskych regulátorov pre elektronické komunikácie (ďalej len „orgán BEREC“), ako napríklad vydávanie usmernení o viacerých témach, podávanie správ o technických záležitostiach, správu registrov, zoznamov alebo databáz a vydávanie stanovísk o postupoch vnútorného trhu pre návrhy vnútroštátnych opatrení na reguláciu trhu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_2",
+   "kind": "recital",
+   "number": "2",
+   "label": "(2)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Nariadením Európskeho parlamentu a Rady (EÚ) č. 531/2012 sa dopĺňajú a podporujú, pokiaľ ide o roaming v rámci Únie, pravidlá stanovené v regulačnom rámci pre elektronické komunikácie, a stanovujú sa určité úlohy orgánu BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_3",
+   "kind": "recital",
+   "number": "3",
+   "label": "(3)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Nariadením Európskeho parlamentu a Rady (EÚ) 2015/2120 sa stanovujú ďalšie úlohy orgánu BEREC v súvislosti s prístupom k otvorenému internetu. Usmernenia orgánu BEREC z 30. augusta 2016 o vykonávaní európskych pravidiel sieťovej neutrality národnými regulačnými orgánmi sú vítané, keďže poskytujú cenné objasnenia záruky silného slobodného a otvoreného internetu tým, že sa zaistí jednotné uplatňovanie pravidiel na zabezpečenie rovnakého a nediskriminačného zaobchádzania s prevádzkou v rámci poskytovania služieb prístupu k internetu a súvisiacich práv koncových používateľov.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_4",
+   "kind": "recital",
+   "number": "4",
+   "label": "(4)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Komisia vzhľadom na potrebu zabezpečiť vývoj jednotných regulačných postupov a jednotné uplatňovanie regulačného rámca Únie pre elektronické komunikácie zriadila rozhodnutím Komisie 2002/627/ES Európsku skupinu regulátorov pre elektronické komunikačné siete a služby (ďalej len „skupina ERG“), ktorej úlohou je poskytovať Komisii poradenstvo a pomoc pri konsolidovaní vnútorného trhu v oblasti elektronických komunikačných sietí a služieb a na všeobecnejšej úrovni fungovať ako prepojenie medzi národnými regulačnými orgánmi a Komisiou.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_5",
+   "kind": "recital",
+   "number": "5",
+   "label": "(5)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Orgán BEREC a jeho úrad sa zriadili nariadením Európskeho parlamentu a Rady (ES) č. 1211/2009. Orgán BEREC nahradil skupinu ERG a jeho účelom bolo prispievať k rozvoju, ako aj k lepšiemu fungovaniu vnútorného trhu v oblasti elektronických komunikačných sietí a služieb so zámerom zabezpečiť jednotné vykonávanie regulačného rámca pre elektronické komunikácie. Orgán BEREC koná ako fórum pre spoluprácu medzi jednotlivými národnými regulačnými orgánmi a medzi národnými regulačnými orgánmi a Komisiou pri vykonávaní celého rozsahu ich povinností vyplývajúcich z regulačného rámca Únie. Orgán BEREC bol zriadený na to, aby poskytoval odborné znalosti a konal nezávisle a transparentne.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_6",
+   "kind": "recital",
+   "number": "6",
+   "label": "(6)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Orgán BEREC slúži Európskemu parlamentu, Rade a Komisii aj ako diskusný, rokovací a poradenský orgán v oblasti elektronických komunikácií.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_7",
+   "kind": "recital",
+   "number": "7",
+   "label": "(7)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Úrad bol zriadený ako orgán Spoločenstva s právnou subjektivitou na vykonávanie úloh uvedených v nariadení (ES) č. 1211/2009, najmä pokiaľ ide o poskytovanie odborných a administratívnych podporných služieb pre orgán BEREC. Aby mohol úrad poskytovať orgánu BEREC účinnú podporu, bola mu udelená právna, administratívna a finančná nezávislosť.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_8",
+   "kind": "recital",
+   "number": "8",
+   "label": "(8)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Zástupcovia vlád členských štátov rozhodnutím 2010/349/EÚ rozhodli, že úrad bude mať sídlo v Rige. Dohoda o sídle medzi vládou Lotyšskej republiky a úradom nadobudla platnosť 5. augusta 2011.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_9",
+   "kind": "recital",
+   "number": "9",
+   "label": "(9)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Komisia vo svojom oznámení zo 6. mája 2015 s názvom Stratégia pre jednotný digitálny trh v Európe avizovala, že v roku 2016 predloží návrhy na ambiciózne prepracovanie regulačného rámca pre elektronické komunikácie, ktoré sa okrem iného zamerajú na efektívnejší regulačný inštitucionálny rámec s cieľom prijať vhodné pravidlá v oblasti elektronických komunikácií v rámci vytvorenia priaznivých podmienok pre jednotný digitálny trh. Patrí sem zavádzanie vysokokapacitných sietí, koordinovanejšie riadenie rádiového spektra pre bezdrôtové siete a vytvorenie rovnakých podmienok pre moderné digitálne siete a inovatívne služby. V uvedenom oznámení sa poukázalo na to, že meniaci sa trh a technologické prostredie si vyžadujú posilnenie inštitucionálneho rámca posilnením úlohy orgánu BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_10",
+   "kind": "recital",
+   "number": "10",
+   "label": "(10)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Európsky parlament vo svojom uznesení z 19. januára 2016 s názvom Smerom k aktu o jednotnom digitálnom trhu vyzval Komisiu, aby prehĺbila integráciu jednotného digitálneho trhu zavedením účinnejšieho inštitucionálneho rámca.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_11",
+   "kind": "recital",
+   "number": "11",
+   "label": "(11)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Orgán BEREC a jeho úrad pozitívne prispeli k jednotnému vykonávaniu regulačného rámca pre elektronické komunikácie. Stále však existujú značné rozdiely medzi členskými štátmi, pokiaľ ide o regulačné postupy, čo má vplyv na podniky vykonávajúce cezhraničnú činnosť alebo pôsobiace v značnom počte členských štátov, a to aj tam, kde usmernenia orgánu BEREC existujú, ale mohli by sa ďalej rozvíjať. V záujme ďalšieho prispievania k rozvoju vnútorného trhu v oblasti elektronických komunikácií v celej Únii, ako aj k podpore prístupu k vysokokapacitným sieťam a ich využívania, hospodárskej súťaže v oblasti poskytovania elektronických komunikačných sietí, služieb a pridružených prostriedkov i záujmov občanov Únie je cieľom tohto nariadenia posilnenie úloh orgánu BEREC. Takáto posilnená úloha by doplnila posilnenú úlohu orgánu BEREC v nadväznosti na nariadenia (EÚ) č. 531/2012 a (EÚ) 2015/2120 a smernicu (EÚ) 2018/1972",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_12",
+   "kind": "recital",
+   "number": "12",
+   "label": "(12)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Vzhľadom na vývoj trhu a technológií, ktorý často zahŕňa zvýšený cezhraničný rozmer, ako aj na doterajšie skúsenosti získané pri snahe o zabezpečenie jednotného vykonávania v oblasti elektronických komunikácií je potrebné nadviazať na prácu orgánu BEREC a jeho úradu. Ich riadenie a činnosti by mali byť zefektívnené a mali by sa prispôsobiť úlohám, ktoré majú vykonávať. Berúc do úvahy zavedené postupy a nové súbory úloh orgánu BEREC a jeho úradu a s cieľom posilniť ich efektívnosť by sa mala zabezpečiť dodatočná stabilita ich riadenia a mali by sa zjednodušiť ich postupy rozhodovania.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_13",
+   "kind": "recital",
+   "number": "13",
+   "label": "(13)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Orgán BEREC by mal poskytovať odborné znalosti a budovať dôveryhodnosť svojou nezávislosťou, kvalitou svojho poradenstva a informácií, transparentnosťou svojich postupov a pracovných metód a svojou dôslednosťou pri vykonávaní svojich úloh. Nezávislosť orgánu BEREC by nemala brániť jeho rade regulačných orgánov rokovať na základe návrhov vypracovaných pracovnými skupinami.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_14",
+   "kind": "recital",
+   "number": "14",
+   "label": "(14)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Nový úradný názov úradu by mal byť „Agentúra na podporu orgánu BEREC“ (ďalej len „Úrad BEREC“). Označenie „Úrad BEREC“ by sa malo používať ako skrátený názov agentúry. Úrad BEREC by mal byť právne, administratívne a finančne nezávislý. Na tento účel je potrebné a vhodné, aby bol Úrad BEREC orgánom Únie s právnou subjektivitou a vykonával právomoci, ktoré sa mu zverili. Úrad BEREC by mal ako decentralizovaná agentúra Únie vykonávať činnosť v rámci svojho mandátu a v medziach existujúceho inštitucionálneho rámca. Nemal by byť vnímaný tak, že reprezentuje pozíciu Únie navonok alebo zaväzuje Úniu k právnym záväzkom.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_15",
+   "kind": "recital",
+   "number": "15",
+   "label": "(15)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Pravidlá o riadení a činnosti Úradu BEREC by sa okrem toho mali v príslušných prípadoch zosúladiť so zásadami spoločného vyhlásenia Európskeho parlamentu, Rady a Komisie z 19. júla 2012 o decentralizovaných agentúrach.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_16",
+   "kind": "recital",
+   "number": "16",
+   "label": "(16)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Inštitúcie Únie a národné regulačné orgány by mali ťažiť z pomoci a poradenstva, ktoré poskytuje orgán BEREC, a to aj pokiaľ ide o relevantný regulačný vplyv akejkoľvek záležitosti týkajúcej sa celkovej dynamiky digitálnych trhov alebo v súvislosti s ich vzťahom, diskusiami a výmenami s tretími stranami a šírením najlepších regulačných postupov tretím stranám. Okrem svojho prispievania k verejnej konzultácii Komisie by mal orgán BEREC Komisii na požiadanie poskytovať poradenstvo pri príprave legislatívnych návrhov. Orgán BEREC by mal mať možnosť poskytovať aj poradenstvo Európskemu parlamentu a Rade, či už na ich požiadanie, alebo z vlastného podnetu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_17",
+   "kind": "recital",
+   "number": "17",
+   "label": "(17)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Orgán BEREC ako technický orgán s odbornými znalosťami v oblasti elektronických komunikácií, ktorý je zložený zo zástupcov národných regulačných orgánov a Komisie, má najlepšie predpoklady na to, aby sa mu zverili úlohy, ako napríklad prispievanie k účinným postupom vnútorného trhu pre vypracovanie návrhov vnútroštátnych opatrení, pokiaľ ide o reguláciu trhu, poskytovanie potrebných usmernení národným regulačným orgánom a iným príslušným orgánom s cieľom zabezpečiť spoločné kritériá a jednotný regulačný prístup, ako aj správu určitých registrov, databáz a zoznamov na úrovni Únie. Tým nie sú dotknuté úlohy určené národným regulačným orgánom, ktoré majú najbližšie k trhom v oblasti elektronických komunikácií a ich miestnym podmienkam.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_18",
+   "kind": "recital",
+   "number": "18",
+   "label": "(18)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Orgán BEREC by mal v záujme vykonávania svojich úloh naďalej zhromažďovať odborné znalosti od národných regulačných orgánov. Orgán BEREC by sa mal usilovať o zabezpečenie účasti všetkých národných regulačných orgánov na plnení jeho regulačných úloh a na jeho fungovaní. Na to, aby sa posilnila úloha orgánu BEREC, zlepšila jeho reprezentatívnosť a aby sa zachovali jeho odborné znalosti, skúsenosti a poznatky o konkrétnej situácii celého rozsahu vnútroštátnych trhov, by mal každý členský štát zabezpečiť, aby jeho národný regulačný orgán mal primerané finančné a ľudské zdroje potrebné na to, aby sa v plnej miere mohol zúčastňovať na práci orgánu BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_19",
+   "kind": "recital",
+   "number": "19",
+   "label": "(19)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Vzhľadom na rastúcu konvergenciu medzi sektormi, ktoré poskytujú elektronické komunikačné služby, a horizontálny rozmer regulačných záležitostí týkajúcich sa ich vývoja by mali mať orgán BEREC a Úrad BEREC možnosť spolupracovať s národnými regulačnými orgánmi, inými orgánmi, úradmi, agentúrami a poradnými skupinami Únie, bez toho, aby bola dotknutá ich úloha, a to najmä so skupinou pre politiku rádiového frekvenčného spektra ustanovenou rozhodnutím Komisie 2002/622/ES, s európskym dozorným úradníkom pre ochranu údajov ustanoveným nariadením Európskeho parlamentu a Rady (EÚ) 2018/1725, Európskym výborom pre ochranu údajov zriadeným nariadením Európskeho parlamentu a Rady (EÚ) 2016/679, so skupinou európskych regulačných orgánov pre audiovizuálne mediálne služby ustanovenou smernicou Európskeho parlamentu a Rady 2010/13/EÚ, s Agentúrou Európskej únie pre sieťovú a informačnú bezpečnosť zriadenou nariadením Európskeho parlamentu a Rady (EÚ) č. 526/2013, Agentúrou pre európsky GNSS zriadenou nariadením Európskeho parlamentu a Rady (EÚ) č. 912/2010, so Sieťou spolupráce na ochranu spotrebiteľa ustanovenou podľa nariadenia Európskeho parlamentu a Rady (ES) č. 2006/2004, s Európskou sieťou pre hospodársku súťaž a európskymi normalizačnými organizáciami, ako aj s existujúcimi výbormi (napríklad s Komunikačným výborom a Výborom pre rádiové frekvenčné spektrum). Orgán BEREC a Úrad BEREC by mali mať možnosť spolupracovať aj s relevantnými príslušnými orgánmi členských štátov zodpovednými za hospodársku súťaž, ochranu spotrebiteľa a ochranu údajov a s príslušnými orgánmi tretích krajín, najmä s regulačnými orgánmi v oblasti elektronických komunikácií alebo skupinami týchto orgánov, ako aj s medzinárodnými organizáciami, ak je to potrebné na plnenie ich úloh. Orgán BEREC by takisto mal mať možnosť konzultovať so zainteresovanými stranami prostredníctvom verejnej konzultácie.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_20",
+   "kind": "recital",
+   "number": "20",
+   "label": "(20)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Orgán BEREC by mal byť oprávnený uzavierať pracovné dojednania s príslušnými orgánmi, úradmi, agentúrami a pracovnými skupinami Únie, s príslušnými orgánmi tretích krajín a s medzinárodnými organizáciami, ktoré by nemali vytvárať právne záväzky. Cieľom takýchto pracovných dojednaní by mohlo byť, napríklad, rozvíjať spoluprácu a vymieňať si názory v regulačných záležitostiach. Komisia by mala zabezpečiť, aby boli potrebné pracovné dojednania v súlade s politikou a prioritami Únie, a aby orgán BEREC vykonával činnosti v rámci svojho mandátu a v medziach existujúceho inštitucionálneho rámca a nebol vnímaný tak, že reprezentuje pozíciu Únie navonok alebo že zaväzuje Úniu k medzinárodným záväzkom.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_21",
+   "kind": "recital",
+   "number": "21",
+   "label": "(21)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Orgán BEREC by mala tvoriť rada regulačných orgánov a pracovné skupiny. Kontinuitu práce orgánu BEREC by malo zabezpečovať rotujúce predsedníctvo rady regulačných orgánov. Podporí sa tiež rotovanie podpredsedov, ktorí zastupujú rôzne národné regulačné orgány.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_22",
+   "kind": "recital",
+   "number": "22",
+   "label": "(22)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Orgán BEREC by mal byť schopný konať v záujme Únie nezávisle od akéhokoľvek vonkajšieho zásahu vrátane politického tlaku či obchodného zasahovania. Je preto dôležité zabezpečiť, aby osoby, ktoré sú vymenované do rady regulačných orgánov, preukazovali najvyššie záruky osobnej a profesionálnej nezávislosti. Vedúci národného regulačného orgánu, člen jeho kolektívneho orgánu alebo ich náhradníci majú rovnakú úroveň osobnej a profesionálnej nezávislosti. Mali by konať nezávisle a objektívne, nemali by pri vykonávaní svojej funkcie vyhľadávať alebo prijímať inštrukcie a by mali byť chránení pred svojvoľným odvolaním. Funkciu náhradníka v rade regulačných orgánov by mohol vykonávať vedúci národného regulačného orgánu, člen jeho kolektívneho orgánu, ich náhradníci alebo ďalší zamestnanec národného regulačného orgánu, ktorý koná v mene člena rady regulačných orgánov, ktorého nahrádza, a v rámci jeho mandátu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_23",
+   "kind": "recital",
+   "number": "23",
+   "label": "(23)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Zo skúseností vyplýva, že väčšina úloh orgánu BEREC sa lepšie vykonáva prostredníctvom pracovných skupín, ktoré by mali vždy zabezpečiť rovnocenné zváženie všetkých názorov a príspevkov národných regulačných orgánov. Rada regulačných orgánov by preto mala zriadiť pracovné skupiny a vymenovať ich predsedov. Národné regulačné orgány by mali bezodkladne reagovať na žiadosti o vymenovanie s cieľom zaistiť urýchlené zriadenie pracovných skupín, najmä skupín, ktorých sa týkajú postupy s lehotami. Pracovné skupiny by mali byť otvorené účasti odborníkov z Komisie. Zamestnanci Úradu BEREC by mali činnosť pracovných skupín podporovať a prispievať k nej.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_24",
+   "kind": "recital",
+   "number": "24",
+   "label": "(24)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Rada regulačných orgánov a riadiaca rada by podľa potreby a v závislosti od jednotlivých prípadov mali mať možnosť prizvať akúkoľvek osobu, o ktorej stanovisko majú záujem, aby sa zúčastnila na ich zasadnutiach ako pozorovateľ.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_25",
+   "kind": "recital",
+   "number": "25",
+   "label": "(25)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "V prípade potreby a v závislosti od rozdelenia úloh orgánom v každom členskom štáte by sa názory iných príslušných orgánov mali zohľadniť v príslušnej pracovnej skupine, napríklad prostredníctvom konzultácie na vnútroštátnej úrovni alebo tým, že tieto iné orgány budú prizvané na príslušné zasadnutie, na ktorom sú nevyhnutné ich odborné znalosti. V každom prípade by sa mala zachovať nezávislosť orgánu BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_26",
+   "kind": "recital",
+   "number": "26",
+   "label": "(26)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Rada regulačných orgánov a riadiaca rada by mali fungovať súbežne, pričom rada regulačných orgánov rozhoduje predovšetkým o regulačných záležitostiach a riadiaca rada o administratívnych záležitostiach, ako sú záležitosti týkajúce sa rozpočtu, personálu a auditu. Zástupcovia národných regulačných orgánov, ktorí sú členmi riadiacej rady, by v zásade a okrem zástupcov Komisie mali byť tie isté osoby, ako tie, ktoré boli vymenované do rady regulačných orgánov, pričom národné regulačné orgány by mali mať možnosť vymenovať ďalších zástupcov, ktorí spĺňajú rovnaké požiadavky.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_27",
+   "kind": "recital",
+   "number": "27",
+   "label": "(27)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "V minulosti vykonával právomoci menovacieho orgánu podpredseda riadiaceho výboru úradu. Toto nariadenie stanovuje, že riadiaca rada deleguje príslušné právomoci menovacieho orgánu na riaditeľa, ktorý je oprávnený delegovať tieto právomoci na svojich podriadených. Toto má prispieť k efektívnemu riadeniu zamestnancov Úradu BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_28",
+   "kind": "recital",
+   "number": "28",
+   "label": "(28)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Riadne zasadnutia rady regulačných orgánov a riadiacej rady by sa mali konať aspoň dvakrát ročne. Vzhľadom na predchádzajúce skúsenosti a posilnenú úlohu orgánu BEREC môžu byť potrebné ďalšie zasadnutia rady regulačných orgánov alebo riadiacej rady.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_29",
+   "kind": "recital",
+   "number": "29",
+   "label": "(29)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Riaditeľ by mal naďalej zastupovať Úrad BEREC v právnych a administratívnych záležitostiach. Riadiaca rada by mala vymenovať riaditeľa na základe otvoreného a transparentného výberového konania s cieľom zaručiť prísne hodnotenie kandidátov a vysokú úroveň nezávislosti. V minulosti trvalo funkčné obdobie administratívneho riaditeľa úradu tri roky. Je potrebné, aby mal riaditeľ dostatočne dlhý mandát na zabezpečenie stability a realizáciu dlhodobej stratégie pre Úrad BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_30",
+   "kind": "recital",
+   "number": "30",
+   "label": "(30)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Na Úrad BEREC by sa malo vzťahovať delegované nariadenie Komisie (EÚ) č. 1271/2013.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_31",
+   "kind": "recital",
+   "number": "31",
+   "label": "(31)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Úrad BEREC by mal orgánu BEREC poskytovať všetku potrebnú odbornú a administratívnu podporu pri vykonávaní jeho práce vrátane finančnej, organizačnej a logistickej podpory a mal by prispievať k regulačným činnostiam orgánu BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_32",
+   "kind": "recital",
+   "number": "32",
+   "label": "(32)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "V záujme zaručenia nezávislosti a nestrannosti Úradu BEREC a poskytnutia podpory práce orgánu BEREC mal by mať Úrad BEREC vlastný rozpočet, ktorý by do veľkej miery mal pochádzať z príspevku Únie. Rozpočet by mal byť primeraný a mal by odrážať ďalšie úlohy pridelené orgánu BEREC a Úradu BEREC a ich posilnenú úlohu. Financovanie Úradu BEREC by malo podliehať dohode s rozpočtovým orgánom, ako sa stanovuje v bode 31 Medziinštitucionálnej dohody z 2. decembra 2013 medzi Európskym parlamentom, Radou a Komisiou o rozpočtovej disciplíne, spolupráci v rozpočtových otázkach a riadnom finančnom hospodárení.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_33",
+   "kind": "recital",
+   "number": "33",
+   "label": "(33)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Úrad BEREC by mal byť na účely vykonávania svojich povinností primerane personálne vybavený. Plánovanie zdrojov by malo zahŕňať náležité posúdenie a zohľadnenie všetkých úloh pridelených Úradu BEREC vrátane profesionálnych a administratívnych služieb na podporu orgánu BEREC pri vykonávaní jeho regulačných úloh, ako aj súladu s právnymi predpismi týkajúcimi sa finančných, personálnych a iných príslušných otázok a zvýšeného počtu operačných úloh, ktoré sa budú od Úradu BEREC vyžadovať, v porovnaní s úlohami administratívnymi.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_34",
+   "kind": "recital",
+   "number": "34",
+   "label": "(34)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "V záujme ďalšieho rozšírenia jednotného vykonávania regulačného rámca pre elektronické komunikácie by rada regulačných orgánov, pracovné skupiny a riadiaca Rada mali byť otvorené účasti regulačných orgánov tretích krajín príslušných v oblasti elektronických komunikácií, pokiaľ tieto tretie krajiny na tento účel uzavreli dohody s Úniou, ako napríklad štáty EZVO, ktoré sú členmi EHP, a kandidátske krajiny.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_35",
+   "kind": "recital",
+   "number": "35",
+   "label": "(35)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Orgán BEREC a Úrad BEREC by v súlade so zásadou transparentnosti mali v prípade potreby uverejňovať informácie o svojej činnosti na svojej webovej stránke. Orgán BEREC by mal konkrétne zverejniť všetky konečné dokumenty vydané pri vykonávaní svojich úloh, ako napríklad stanoviská, usmernenia, správy, odporúčania, spoločné pozície a najlepšie postupy, ako aj všetky štúdie, ktoré sú zadané na podporu jeho úloh. Orgán BEREC a Úrad BEREC by tiež mali zverejniť aktualizované zoznamy svojich úloh a aktualizované zoznamy členov, náhradníkov a iných účastníkov na zasadnutiach ich organizačných orgánov a vyhlásenia o konflikte záujmov, ktoré vypracovali členovia rady regulačných orgánov, členovia riadiacej rady a riaditeľ.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_36",
+   "kind": "recital",
+   "number": "36",
+   "label": "(36)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Orgán BEREC by mal mať s podporou Úradu BEREC možnosť zapojiť sa do komunikačných činností v rámci svojich právomocí, avšak nie na úkor základných úloh orgánu BEREC. Obsah a vykonávanie komunikačnej stratégie orgánu BEREC by malo byť konzistentné, objektívne, relevantné a skoordinované so stratégiami a činnosťami Komisie a ostatných inštitúcií s cieľom zohľadniť širší obraz Únie. Komunikačné činnosti Úradu BEREC by sa mali vykonávať v súlade s príslušnými plánmi komunikácie a šírenia informácií, ktoré prijala riadiaca rada.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_37",
+   "kind": "recital",
+   "number": "37",
+   "label": "(37)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "V záujme účinného vykonávania svojich úloh by orgán BEREC a Úrad BEREC mali mať právo požadovať všetky potrebné informácie od Komisie, národných regulačných orgánov a v poslednom rade aj od ostatných orgánov a podnikov. Žiadosti o informácie by mali byť odôvodnené, primerané a nemali by pre adresátov predstavovať neprimerané zaťaženie. Národné regulačné úrady by mali spolupracovať s orgánom BEREC a Úradom BEREC a mali by im poskytovať včasné a presné informácie s cieľom zaistiť schopnosť orgánu BEREC a Úradu BEREC plniť svoje úlohy. Orgán BEREC a Úrad BEREC by si tiež mali na základe zásady lojálnej spolupráce vymieňať s Komisiou, národnými regulačnými orgánmi a ostatnými príslušnými orgánmi všetky potrebné informácie. V prípade potreby by sa mala zabezpečiť dôvernosť informácií. Orgán BEREC by mal pri posudzovaní toho, či je žiadosť riadne odôvodnená, zohľadniť, či sa požadované informácie týkajú plnenia úloh, ktoré boli pridelené výlučne príslušným orgánom.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_38",
+   "kind": "recital",
+   "number": "38",
+   "label": "(38)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Úrad BEREC by mal zriadiť spoločný informačný a komunikačný systém na zamedzenie zdvojeniu žiadostí o informácie a na uľahčenie komunikácie medzi všetkými zúčastnenými orgánmi.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_39",
+   "kind": "recital",
+   "number": "39",
+   "label": "(39)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "S cieľom zabezpečiť vysokú úroveň dôvernosti a vyhnúť sa konfliktom záujmov sa pravidlá týkajúce sa uvedených záležitostí vzťahujúcich sa na členov organizačných orgánov orgánu BEREC a Úradu BEREC uplatňujú na ich náhradníkov.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_40",
+   "kind": "recital",
+   "number": "40",
+   "label": "(40)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Keďže toto nariadenie zverilo orgánu BEREC a Úradu BEREC nové úlohy a inými právnymi aktmi Únie sa im môžu zveriť ďalšie úlohy, Komisia by mala vykonávať pravidelné hodnotenie fungovania orgánu BEREC a Úradu BEREC a účinnosti ich inštitucionálnej štruktúry v stále sa meniacom digitálnom prostredí. Ak Komisia zistí na základe výsledku uvedeného hodnotenia, že inštitucionálna štruktúra nie je vhodná na vykonávanie úloh orgánu BEREC a Úradu BEREC, a najmä na zabezpečovanie konzistentného vykonávania regulačného rámca pre elektronické komunikácie, Komisia by mala preskúmať všetky možné riešenia na zlepšenie uvedenej štruktúry.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_41",
+   "kind": "recital",
+   "number": "41",
+   "label": "(41)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Nástupcom úradu, ktorý sa zriadil ako orgán Spoločenstva s právnou subjektivitou nariadením (ES) č. 1211/2009, je Úrad BEREC zriadený týmto nariadením, pokiaľ ide o akékoľvek vlastníctvo, dohody vrátane dohody o sídle, právne záväzky, pracovné zmluvy, finančné záväzky a povinnosti. Úrad BEREC by mal prevziať zamestnancov úradu, ktorých práva a povinnosti by nemali byť dotknuté. S cieľom zaručiť kontinuitu práce orgánu BEREC a úradu by ich zástupcovia, konkrétne predseda a podpredsedovia rady regulačných orgánov, riadiaci výbor a administratívny riaditeľ mali pokračovať vo vykonávaní svojej funkcie až do konca ich funkčného obdobia.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_42",
+   "kind": "recital",
+   "number": "42",
+   "label": "(42)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Značný počet spotrebiteľov vo väčšine členských štátov sa aj naďalej spolieha na tradičné spôsoby medzinárodnej komunikácie, ako sú telefónne volania a SMS správy, a to aj napriek tomu, že rastie počet spotrebiteľov, ktorí majú pri svojich medzinárodných volaniach prístup k interpersonálnym komunikačným službám nezávislým od číslovania s nižšími poplatkami ako tradičné služby alebo bez peňažnej platby.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_43",
+   "kind": "recital",
+   "number": "43",
+   "label": "(43)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Komisia v roku 2013 navrhla nariadenie s posúdením vplyvu, ktoré zahŕňalo ustanovenie regulačných opatrení uplatniteľných na komunikačné služby v rámci Únie. Orgán BEREC a Komisia v rokoch 2017 a 2018 zozbierali prostredníctvom štúdie Komisie a Eurobarometra ďalšie údaje týkajúce sa trhu v oblasti komunikačných služieb v rámci Únie. Z týchto údajov vyplynulo, že pokiaľ ide o pevné aj mobilné komunikačné služby, naďalej prevládajú značné cenové rozdiely medzi domácimi hlasovými a SMS komunikačnými službami a tými, ktoré končia v inom členskom štáte, v kontexte podstatných rozdielov cien medzi krajinami, poskytovateľmi a tarifnými balíkmi, ako aj medzi mobilnými a pevnými hlasovými komunikačnými službami. Poskytovatelia verejne dostupných interpersonálnych komunikačných služieb založených na číslovaní často účtujú ceny za komunikačné služby v rámci Únie založené na spotrebe, ktoré značne prekračujú ceny za domáce tarify, ako aj dodatočné náklady. Štandardná cena za pevné alebo mobilné volania v rámci Únie je v priemere trikrát vyššia ako štandardná cena za domáce volania a štandardná cena za SMS správu v rámci Únie je viac ako dvakrát vyššia ako cena za domácu SMS správu. V týchto aritmetických priemeroch sa však ukrývajú značné rozdiely medzi jednotlivými členskými štátmi. V niektorých prípadoch môže byť štandardná cena za volanie v rámci Únie aj osemkrát vyššia ako štandardná cena za domáce volania. Spotrebitelia vo viacerých členských štátoch sú v dôsledku toho vystavovaní veľmi vysokým cenám za komunikačné služby v rámci Únie. Tieto vysoké ceny ovplyvňujú hlavne spotrebiteľov, najmä tých, ktorí takéto komunikačné služby využívajú zriedkavo alebo ktorí majú nízky objem spotreby, pričom títo spotrebitelia predstavujú veľkú väčšinu spotrebiteľov využívajúcich komunikačné služby v rámci Únie. Viacero poskytovateľov zároveň poskytuje špeciálne ponuky, ktoré sú mimoriadne atraktívne pre zákazníkov z podnikateľského prostredia a pre spotrebiteľov so značnou spotrebou komunikačných služieb v rámci Únie. Takéto ponuky sa často neúčtujú na základe skutočnej spotreby a môžu pozostávať z určitého počtu prevolaných minút alebo SMS správ v rámci Únie za pevný mesačný poplatok (doplnková ponuka) alebo zo zahrnutia istého počtu minút na volania alebo SMS správ v rámci Únie do mesačného paušálu na prevolané minúty alebo SMS správy, a to buď bez príplatku alebo za malý príplatok. Podmienky takýchto ponúk sú však často neatraktívne pre spotrebiteľov, ktorí využívajú komunikačné služby v rámci Únie len príležitostne, neplánovane alebo len v malom objeme. Takíto spotrebitelia sú v dôsledku toho vystavení riziku, že za komunikačné služby v rámci Únie zaplatia nadmerne vysoké ceny, a mali by byť chránení.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_44",
+   "kind": "recital",
+   "number": "44",
+   "label": "(44)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Vysoké ceny za komunikačné služby v rámci Únie okrem toho predstavujú prekážku fungovania vnútorného trhu, pretože odrádzajú od vyhľadávania tovaru a služieb a ich nákupu od poskytovateľa, ktorý sa nachádza v inom členskom štáte. Je preto potrebné stanoviť konkrétne a primerané obmedzenia cien, ktoré môžu poskytovatelia verejne dostupných interpersonálnych komunikačných služieb založených na číslovaní účtovať spotrebiteľom za komunikačné služby v rámci Únie, s cieľom odstrániť takéto vysoké ceny.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_45",
+   "kind": "recital",
+   "number": "45",
+   "label": "(45)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ak poskytovatelia verejne dostupných interpersonálnych komunikačných služieb založených na číslovaní účtujú spotrebiteľom za komunikačné služby v rámci Únie sadzby, ktoré sa v plnej miere alebo čiastočne zakladajú na spotrebe týchto služieb, vrátane prípadov, keď sa spotreba odpočítava z mesačného alebo predplateného objemu určeného na takéto služby, takéto sadzby by nemali prekročiť sumu 0,19 EUR za minútu volania a 0,06 EUR za SMS správu. Tieto stropy zodpovedajú maximálnym cenám, ktoré sa v súčasnosti uplatňujú na regulované roamingové volania a SMS správy. Na spotrebiteľov sa pri roamingu v Únii vzťahuje ochrana eurotarifou za hlasové volania a za SMS, ktorá sa postupne nahradila roamingom za vnútroštátne ceny. Tieto stropy sa tiež považujú za vhodné referenčné hodnoty na stanovenie maximálnej sadzby za regulované komunikačné služby v rámci Únie na obdobie piatich rokov so začiatkom 15. mája 2019. Súčasná úroveň stropu predstavuje jednoduchú, transparentnú a osvedčenú záchrannú sieť na ochranu pred vysokými cenami a je vhodná ako strop pre maloobchodné ceny všetkých regulovaných komunikačných služieb v rámci Únie. Roamingové volania v rámci Únie a volania v rámci Únie majú podobnú štruktúru nákladov.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_46",
+   "kind": "recital",
+   "number": "46",
+   "label": "(46)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Stropy by mali poskytovateľom verejne dostupných interpersonálnych komunikačných služieb založených na číslovaní umožniť pokryť ich náklady, čím sa zabezpečí primeranosť zásahu na trhu s mobilnými aj pevnými volaniami. Stropy sa budú priamo vzťahovať len na sadzby založené na skutočnej spotrebe. Mali by mať disciplinárny účinok aj pri tých ponukách, v ktorých je zahrnutý istý objem komunikačných služieb v rámci Únie bez osobitného poplatku, pretože spotrebitelia majú možnosť prejsť pri svojich komunikačných službách v rámci Únie na tarifu založenú na spotrebe. Strop by sa mal vzťahovať na objemy komunikačných služieb v rámci Únie, ktoré presahujú objem zahrnutý do balíka a účtujú sa osobitne. Týmto opatrením by sa malo primeraným spôsobom zabezpečiť, aby boli spotrebitelia s nízkou spotrebou komunikačných služieb v rámci Únie chránení pred vysokými cenami, pričom by zároveň malo mať len mierny vplyv na poskytovateľov.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_47",
+   "kind": "recital",
+   "number": "47",
+   "label": "(47)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Poskytovatelia verejne dostupných interpersonálnych komunikačných služieb založených na číslovaní by mali byť schopní navrhnúť svojim spotrebiteľom alternatívne tarifné ponuky na medzinárodné komunikačné služby s rôznymi sadzbami za regulované komunikačné služby v rámci Únie, pričom spotrebitelia by mali mať možnosť výslovne sa pre takúto ponuku rozhodnúť a kedykoľvek bezplatne prejsť späť, a to aj v prípade ponúk, ktoré si spotrebitelia predplatili pred nadobudnutím účinnosti takýchto ustanovení. Poskytovateľ by mal byť od povinnosti neprekračovať stropy za regulované komunikačné služby v rámci Únie oslobodený jedine v prípade alternatívnych ponúk týkajúcich sa medzinárodných komunikačných služieb, ako sú tie, ktoré sa vzťahujú na všetky alebo niektoré tretie krajiny, v prípade, že spotrebiteľ takúto ponuku prijme. Ďalšie výhody, ako napríklad dotované koncové zariadenia alebo zľavy na ostatné elektronické komunikačné služby, ktoré poskytovatelia ponúkajú spotrebiteľom ako bežnú súčasť v konkurenčnom prostredí, by nemali ovplyvniť uplatniteľnosť cenových stropov pre regulované komunikačné služby v rámci Únie.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_48",
+   "kind": "recital",
+   "number": "48",
+   "label": "(48)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Niektorí poskytovatelia verejne dostupných interpersonálnych komunikačných služieb založených na číslovaní môžu byť ovplyvnení cenovými stropmi pre regulované komunikačné služby v rámci Únie oveľa viac ako väčšina ostatných poskytovateľov v Únii. K takejto situácii by mohlo dôjsť konkrétne v prípade poskytovateľov, ktorých obzvlášť vysoký podiel príjmov alebo prevádzkových ziskov pochádza z komunikačných služieb v rámci Únie alebo ktorých domáce marže sú nízke v porovnaní s referenčnými hodnotami odvetvia. Poskytovateľ nemusí byť v dôsledku zníženia marže, pokiaľ ide o regulované komunikačné služby v rámci Únie, schopný udržať svoj domáci model cien. Takéto situácie sú veľmi nepravdepodobné, pretože maximálne ceny sú stanovené jasne nad úrovňou nákladov za poskytovanie komunikačných služieb v rámci Únie. Národné regulačné orgány by však aj napriek tomu mali mať na účely primeraného riešenia takýchto mimoriadne výnimočných situácií možnosť udeliť na žiadosť takéhoto poskytovateľa v odôvodnených a jedinečných prípadoch výnimku.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_49",
+   "kind": "recital",
+   "number": "49",
+   "label": "(49)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Každá výnimka by sa mala udeliť, len ak môže poskytovateľ v porovnaní s príslušnou referenčnou hodnotou stanovenou orgánom BEREC dokázať, že opatrenie má naň výrazne väčší vplyv ako na väčšinu ostatných poskytovateľov v Únii, a že by tento vplyv výrazne oslabil schopnosť poskytovateľa udržať svoj model poplatkov za domáce komunikačné služby. Ak národný regulačný orgán udelí výnimku, mal by určiť maximálnu výšku cien, ktoré by poskytovateľ mohol uplatniť na regulované komunikačné služby v rámci Únie a ktoré by mu umožnili udržať si konkurencieschopné ceny za domáce komunikačné služby. Všetky takéto výnimky by mali mať obmedzené trvanie jedného roka a mali by byť obnoviteľné, ak poskytovateľ dokáže, že podmienky udelenia výnimky sú naďalej splnené.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_50",
+   "kind": "recital",
+   "number": "50",
+   "label": "(50)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "V súlade so zásadou proporcionality by platnosť cenových stropov na regulované komunikačné služby v rámci Únie mala byť časovo obmedzená a mala by sa skončiť päť rokov po ich nadobudnutí účinnosti. Týmto obmedzeným trvaním platnosti by sa malo umožniť riadne posúdenie účinkov týchto opatrení a zhodnotenie, v akom rozsahu je naďalej potrebné chrániť spotrebiteľov.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_51",
+   "kind": "recital",
+   "number": "51",
+   "label": "(51)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "S cieľom zabezpečiť v rámci celej Únie jednotnú, včasnú a najefektívnejšiu ochranu spotrebiteľov, ktorí sú negatívne ovplyvnení výraznými rozdielmi v cenách komunikačných služieb v rámci Únie, by takéto ustanovenia mali byť priamo uplatniteľné a mali by byť upravené v nariadení. Najvhodnejším nariadením na tento účel je nariadenie (EÚ) 2015/2120, ktoré sa prijalo po posúdení vplyvu, v ktorom sa okrem iného navrhovalo ustanovenie týkajúce sa komunikačných služieb v rámci Únie ako potrebného nástroja na dokončenie vnútorného trhu v oblasti elektronických komunikácií. Pravdepodobný vplyv na príjmy poskytovateľov z poskytovania komunikačných služieb v rámci Únie sa ďalej zmierňuje uplatňovaním roamingových eurotaríf za hlasové volania a za SMS ako stropov pre pevné aj mobilné komunikačné služby, ktoré slúžia ako ochranný mechanizmus, a ako ukazuje analýza orgánu BEREC z roku 2018, podstatným poklesom relevantného objemu prevádzky pevných komunikačných služieb, na ktorý má toto opatrenie vplyv v intervenčnom období. Uvedené ustanovenia by sa preto mali zaviesť ako zmena nariadenia (EÚ) 2015/2120, ktoré by sa zároveň upravilo tak, aby sa zabezpečilo, že členské štáty prijmú pravidlá týkajúce sa sankcií za porušenia takýchto ustanovení.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_52",
+   "kind": "recital",
+   "number": "52",
+   "label": "(52)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Keďže ciele tohto nariadenia, a to zabezpečenie jednotného vykonávania regulačného rámca pre elektronické komunikácie, najmä v súvislosti s cezhraničnými aspektmi a prostredníctvom účinných postupov vnútorného trhu na vypracovanie návrhov vnútroštátnych opatrení, a zabezpečenie toho, aby spotrebitelia neplatili nadmerné ceny za interpersonálne komunikačné služby založené na číslovaní vznikajúce v členskom štáte, v ktorom má spotrebiteľ domáceho poskytovateľa, a končiace na ktoromkoľvek čísle pevnej alebo mobilnej siete v inom členskom štáte, nie je možné uspokojivo dosiahnuť na úrovni členských štátov, ale z dôvodov rozsahu a dôsledkov činnosti ich možno lepšie dosiahnuť na úrovni Únie, Únia môže prijať opatrenia v súlade so zásadou subsidiarity podľa článku 5 Zmluvy o Európskej únii. V súlade so zásadou proporcionality podľa uvedeného článku toto nariadenie neprekračuje rámec nevyhnutný na dosiahnutie týchto cieľov.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_53",
+   "kind": "recital",
+   "number": "53",
+   "label": "(53)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Toto nariadenie mení a rozširuje rozsah pôsobnosti nariadenia (ES) č. 1211/2009. Keďže ide o podstatné zmeny, uvedený akt by sa mal v záujme jasnosti zrušiť. Odkazy na zrušené nariadenie by sa mali považovať za odkazy na toto nariadenie,",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_1",
+   "kind": "article",
+   "number": "1",
+   "label": "Článok 1",
+   "title": "Predmet úpravy a rozsah pôsobnosti",
+   "path": [
+    "KAPITOLA I — PREDMET ÚPRAVY A ROZSAH PÔSOBNOSTI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Týmto nariadením sa zriaďuje Orgán európskych regulátorov pre elektronické komunikácie (ďalej len „orgán BEREC“) a Agentúra na podporu orgánu BEREC (ďalej len „Úrad BEREC“).",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Orgán BEREC nahrádza a je právnym nástupcom Orgánu európskych regulátorov pre elektronické komunikácie zriadeným nariadením (ES) č. 1211/2009 a Úrad BEREC nahrádza a je právnym nástupcom úradu zriadeného uvedeným nariadením.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_2",
+   "kind": "article",
+   "number": "2",
+   "label": "Článok 2",
+   "title": "Právna subjektivita Úradu BEREC",
+   "path": [
+    "KAPITOLA I — PREDMET ÚPRAVY A ROZSAH PÔSOBNOSTI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Úrad BEREC je orgánom Únie. Má právnu subjektivitu.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Úrad BEREC má v každom členskom štáte najširšiu spôsobilosť na práva a povinnosti a na právne úkony, akú právnickým osobám priznáva vnútroštátne právo. Predovšetkým môže nadobúdať a scudzovať hnuteľný a nehnuteľný majetok, a byť účastníkom súdnych konaní.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Úrad BEREC zastupuje jeho riaditeľ.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Úrad BEREC má výlučnú zodpovednosť za úlohy, ktoré mu boli pridelené, a právomoci, ktoré mu boli zverené.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Úrad BEREC má sídlo v Rige.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_3",
+   "kind": "article",
+   "number": "3",
+   "label": "Článok 3",
+   "title": "Ciele orgánu BEREC",
+   "path": [
+    "KAPITOLA II — CIELE A ÚLOHY ORGÁNU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Orgán BEREC koná v rámci rozsahu pôsobnosti nariadení (EÚ) č. 531/2012 a (EÚ) 2015/2120 a smernice (EÚ) 2018/1972",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Orgán BEREC plní ciele stanovené v článku 3 smernice (EÚ) 2018/1972 Cieľom orgánu BEREC je predovšetkým zabezpečiť jednotné vykonávanie regulačného rámca pre elektronické komunikácie v rozsahu pôsobnosti, ktorý sa uvádza v odseku 1 tohto článku.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Orgán BEREC plní svoje úlohy nezávisle, nestranne, transparentne a včas.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Orgán BEREC využíva odborné znalosti, ktoré majú k dispozícii národné regulačné orgány.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Každý členský štát zabezpečí v súlade s článkom 9 ods. 3 smernice (EÚ) 2018/1972, aby boli jeho národné regulačné orgány schopné plne sa zúčastňovať na práci organizačných orgánov orgánu BEREC.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. V členských štátoch, kde je zodpovedných podľa smernice (EÚ) 2018/1972 viacero národných regulačných orgánov, koordinujú tieto orgány navzájom svoju činnosť podľa potreby.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_4",
+   "kind": "article",
+   "number": "4",
+   "label": "Článok 4",
+   "title": "Regulačné úlohy orgánu BEREC",
+   "path": [
+    "KAPITOLA II — CIELE A ÚLOHY ORGÁNU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Orgán BEREC plní tieto regulačné úlohy:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) na požiadanie alebo z vlastného podnetu pomáha a poskytuje poradenstvo národným regulačným orgánom, Európskemu parlamentu, Rade a Komisii, a spolupracuje s národnými regulačnými orgánmi a Komisiou v súvislosti s akoukoľvek technickou záležitosťou týkajúcou sa elektronických komunikácií v rámci svojich právomocí;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) na požiadanie pomáha a poskytuje poradenstvo Komisii v súvislosti s prípravou legislatívnych návrhov v oblasti elektronických komunikácií, a to vrátane každej navrhnutej zmeny tohto nariadenia alebo smernice (EÚ) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) vydáva stanoviská uvedené v nariadení (EÚ) č. 531/2012 a smernici (EÚ) 2018/1972, najmä pokiaľ ide o: i) riešenie cezhraničných sporov v súlade s článkom 27 smernice (EÚ) 2018/1972; ii) návrhy vnútroštátnych opatrení týkajúce sa postupov vnútorného trhu pre reguláciu trhu v súlade s článkami 32, 33 a 68 smernice (EÚ) 2018/1972; iii) návrhy rozhodnutí a odporúčaní o harmonizácii v súlade s článkami 38 a 93 smernice (EÚ) 2018/1972; iv) prepojenie koniec-koniec medzi koncovými používateľmi v súlade s článkom 61 ods. 2 smernice (EÚ) 2018/1972; v) určenie jednotnej maximálnej sadzby za ukončenie hlasového volania v mobilnej sieti platnej v celej Únii a jednotnej maximálnej sadzby za ukončenie hlasového volania v pevnej sieti platnej v celej Únii v súlade s článkom 75 smernice (EÚ) 2018/1972; vi) vzor zhrnutia zmluvy v súlade s článkom 102 smernice (EÚ) 2018/1972; vii) vnútroštátnu implementáciu a fungovanie všeobecného povolenia a ich vplyv na fungovanie vnútorného trhu v súlade s článkom 122 ods. 3 smernice (EÚ) 2018/1972; viii) ak je to relevantné, vývoj trhu a technológií s ohľadom na rôzne druhy elektronických komunikačných služieb a ich vplyv na uplatňovanie hlavy III časti III smernice (EÚ) 2018/1972 v súlade s článkom 123 ods. 1 uvedenej smernice;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) vydáva usmernenia o vykonávaní regulačného rámca Únie pre elektronické komunikácie, a to najmä usmernenia uvedené v nariadeniach (EÚ) č. 531/2012 a (EÚ) 2015/2120 a smernici (EÚ) 2018/1972 týkajúce sa: i) vzoru oznámenia v súlade s článkom 12 smernice (EÚ) 2018/1972; ii) jednotného vykonávania povinností, pokiaľ ide o geografické prieskumy a prognózy v súlade s článkom 22 smernice (EÚ) 2018/1972; iii) relevantných kritérií na posilnenie jednotného uplatňovania článku 61 ods. 3 smernice (EÚ) 2018/1972; iv) spoločných prístupov k identifikácii koncového bodu siete v rôznych topológiách sietí v súlade s článkom 61 ods. 7 smernice (EÚ) 2018/1972; v) spoločných prístupov na uspokojenie nadnárodného dopytu koncových používateľov v súlade s článkom 66 smernice (EÚ) 2018/1972; vi) minimálnych kritérií pre referenčnú ponuku v súlade s článkom 69 smernice (EÚ) 2018/1972; vii) posilnenia jednotného uplatňovania podmienok stanovených v článku 76 ods. 1 smernice (EÚ) 2018/1972 a kritérií stanovených v jej prílohe IV zo strany národných regulačných orgánov; viii) kritérií, ktoré majú byť splnené, aby sa sieť mohla považovať za vysokokapacitnú sieť v súlade s článkom 82 smernice (EÚ) 2018/1972; ix) spoločných kritérií na posúdenie schopnosti spravovať zdroje číslovania a rizika vyčerpania zdrojov číslovania v súlade s článkom 93 smernice (EÚ) 2018/1972; x) príslušných parametrov kvality služby, uplatniteľných metód merania, obsahu a formátu uverejňovaných informácií a mechanizmov osvedčovania kvality v súlade s článkom 104 smernice (EÚ) 2018/1972; xi) spôsobu posúdenia, či sú systémy varovania verejnosti podľa článku 110 ods. 2 smernice (EÚ) 2018/1972 rovnako efektívne ako systémy podľa odseku 1 uvedeného článku; xii) veľkoobchodného prístupu k roamingu v súlade s článkom 3 ods. 8 nariadenia (EÚ) č. 531/2012; xiii) vykonávania povinností národných regulačných orgánov, pokiaľ ide o prístup k otvorenému internetu v súlade s článkom 5 ods. 3 nariadenia (EÚ) 2015/2120; xiv) parametrov, ktoré majú národné regulačné orgány zohľadniť pri ich posudzovaní udržateľnosti domáceho modelu poplatkov v súlade s článkom 5a ods. 6 nariadenia (EÚ) 2015/2120;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) z vlastného podnetu alebo na požiadanie národných regulačných orgánov, Európskeho parlamentu, Rady alebo Komisie vydáva ďalšie usmernenia, ktorými sa zabezpečuje jednotné vykonávanie regulačného rámca pre elektronické komunikácie a jednotné regulačné rozhodnutia národných regulačných orgánov, najmä pokiaľ ide o regulačné otázky, ktoré ovplyvňujú značný počet členských štátov alebo ktoré majú cezhraničný prvok;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) v prípade potreby sa zúčastňuje na fóre partnerského preskúmania v súvislosti s návrhmi opatrení týkajúcimi sa výberových konaní v súlade s článkom 35 smernice (EÚ) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) zúčastňuje sa na otázkach, pokiaľ ide o jeho právomoc týkajúcu sa regulácie trhu a hospodárskej súťaže v súvislosti s rádiovým spektrom v súlade s článkom 4 smernice (EÚ) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) vykonáva analýzy prípadných nadnárodných trhov v súlade s článkom 65 smernice (EÚ) 2018/1972 a nadnárodného dopytu koncových používateľov v súlade s článkom 66 uvedenej smernice;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) monitoruje a zhromažďuje informácie a prípadne zverejňuje aktuálne informácie týkajúce sa uplatňovania nariadenia (EÚ) č. 531/2012 v súlade s jeho článkami 16 a 19;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) podáva správy o technických záležitostiach, ktoré patria do jeho právomoci, najmä o: i) praktickom uplatňovaní stanovísk a usmernení uvedených v písmenách c), d) a e); ii) najlepších postupoch členských štátov na podporu vymedzenia služby primeraného širokopásmového prístupu k internetu v súlade s článkom 84 smernice (EÚ) 2018/1972; iii) vývoji cien a modelov správania sa spotrebiteľov v prípade domácich aj roamingových služieb, vývoji skutočných veľkoobchodných roamingových sadzieb za nevyváženú prevádzku, vzťahu medzi maloobchodnými cenami, veľkoobchodnými poplatkami a veľkoobchodnými nákladmi súvisiacimi s roamingovými službami, ako aj o transparentnosti a porovnateľnosti taríf v súlade s článkom 19 nariadenia (EÚ) č. 531/2012; iv) výsledkoch výročných správ, ktoré národné regulačné orgány poskytujú v súlade s článkom 5 nariadenia (EÚ) 2015/2120 prostredníctvom uverejnenia výročnej súhrnnej správy; v) vývoji na trhu v rámci sektora elektronických komunikácií v intervale raz za rok;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) vydáva odporúčania a spoločné pozície a šíri najlepšie regulačné postupy určené národným regulačným orgánom s cieľom podporovať jednotné a lepšie uplatňovanie regulačného rámca pre elektronické komunikácie;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) zriadi a udržiava databázu: i) oznámení, ktoré podniky podliehajúce všeobecnému povoleniu zaslali príslušným orgánom v súlade s článkom 12 smernice (EÚ) 2018/1972; ii) zdrojov číslovania s právom extrateritoriálneho využitia v rámci Únie v súlade s článkom 93 ods. 4 štvrtým pododsekom smernice (EÚ) 2018/1972; iii) ak je to relevantné, čísel záchranných služieb E.164 členských štátov v súlade s článkom 109 ods. 8 tretím pododsekom smernice (EÚ) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) hodnotí potrebu regulačnej inovácie a koordinuje činnosť medzi národnými regulačnými orgánmi s cieľom umožniť rozvoj nových inovačných elektronických komunikácií;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) podporuje modernizáciu, koordináciu a štandardizáciu zberu údajov národnými regulačnými orgánmi, takéto údaje sa sprístupňujú verejnosti v otvorenom, opätovne použiteľnom a strojovo čitateľnom formáte na webovom sídle orgánu BEREC a na Portáli otvorených dát Európskej únie bez toho, aby boli dotknuté práva duševného vlastníctva, pravidlá ochrany osobných údajov a požadovaná úroveň dôvernosti;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "o) plní iné úlohy, ktoré mu boli pridelené prostredníctvom právnych aktov Únie, najmä nariadení (EÚ) č. 531/2012 a (EÚ) 2015/2120 a smernice (EÚ) 2018/1972",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Orgán BEREC zverejní svoje regulačné úlohy a uvedené informácie aktualizuje, keď sú mu pridelené nové úlohy.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Orgán BEREC zverejní všetky svoje konečné stanoviská, usmernenia, správy, odporúčania, spoločné pozície a najlepšie postupy a všetky zadané štúdie, ako aj príslušné návrhy dokumentov na účely verejných konzultácií uvedených v odseku 5.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Bez toho, aby bol dotknutý súlad s príslušným právom Únie, národné regulačné orgány a Komisia v najväčšej možnej miere zohľadňujú každé usmernenie, stanovisko, odporúčanie, spoločnú pozíciu a najlepší postup, ktoré prijal orgán BEREC s cieľom zabezpečiť jednotné vykonávanie regulačného rámca pre elektronické komunikácie v rámci rozsahu pôsobnosti uvedenom v článku 3 ods. 1 Ak sa národný regulačný orgán odchýli od usmernení uvedených v odseku 1 písm. e), svoje konanie zdôvodní.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Orgán BEREC podľa potreby vykonáva konzultácie so zainteresovanými stranami a dáva im možnosť vyjadriť pripomienky v dostatočnej lehote podľa zložitosti záležitosti. S výnimkou mimoriadnych okolností táto lehota nie je kratšia ako 30 dní. Orgán BEREC zverejní výsledky takýchto verejných konzultácií bez toho, aby bol dotknutý článok 38 Takéto konzultácie sa uskutočnia čo najskôr v rámci rozhodovacieho procesu.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Orgán BEREC môže v prípade potreby konzultovať a spolupracovať s relevantnými národnými orgánmi, ako napríklad tými, ktoré sú príslušné v oblastiach hospodárskej súťaže, ochrany spotrebiteľa a ochrany údajov.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Orgán BEREC môže v prípade potreby spolupracovať s príslušnými orgánmi, úradmi, agentúrami a poradnými skupinami Únie, ako aj s príslušnými orgánmi tretích krajín a s medzinárodnými organizáciami v súlade s článkom 35 ods. 1",
+     "para": "7",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_5",
+   "kind": "article",
+   "number": "5",
+   "label": "Článok 5",
+   "title": "Úlohy Úradu BEREC",
+   "path": [
+    "KAPITOLA III — ÚLOHY ÚRADU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Úrad BEREC plní tieto úlohy:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) poskytuje orgánu BEREC odborné a administratívne podporné služby, najmä pri plnení jeho regulačných úloh podľa článku 4;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) zhromažďuje informácie od národných regulačných orgánov a vymieňa a rozširuje informácie, ktoré sa týkajú regulačných úloh pridelených orgánu BEREC podľa článku 4;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) na základe informácií uvedených v písmene b) pravidelne vypracúva návrhy správ o konkrétnych aspektoch rozvoja európskeho trhu v oblasti elektronických komunikácií, napríklad správy o roamingu a porovnávacie správy, ktoré sa predkladajú orgánu BEREC;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) rozširuje medzi národné regulačné orgány najlepšie regulačné postupy v súlade s článkom 4 ods. 1 písm. k);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) pomáha orgánu BEREC vytvárať a spravovať registre a databázy v súlade s článkom 4 ods. 1 písm. l);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) pomáha orgánu BEREC vytvoriť a spravovať informačný a komunikačný systém v súlade s článkom 41;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) pomáha orgánu BEREC pri vykonávaní verejných konzultácií v súlade s článkom 4 ods. 5;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) pomáha pri príprave práce a poskytuje inú administratívnu a obsahovú podporu na zabezpečenie hladkého fungovania rady regulačných orgánov;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) na žiadosť rady regulačných orgánov pomáha pri zriaďovaní pracovných skupín, prispieva k regulačnej činnosti a poskytuje administratívnu podporu na zabezpečenie hladkého fungovania týchto skupín;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) plní ďalšie úlohy, ktoré mu boli pridelené týmto nariadením alebo inými právnymi aktmi Únie.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_6",
+   "kind": "article",
+   "number": "6",
+   "label": "Článok 6",
+   "title": "Organizačná štruktúra orgánu BEREC",
+   "path": [
+    "KAPITOLA IV — ORGANIZÁCIA ORGÁNU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Orgán BEREC pozostáva z:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) rady regulačných orgánov,",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) pracovných skupín.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_7",
+   "kind": "article",
+   "number": "7",
+   "label": "Článok 7",
+   "title": "Zloženie rady regulačných orgánov",
+   "path": [
+    "KAPITOLA IV — ORGANIZÁCIA ORGÁNU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Rada regulačných orgánov sa skladá z jedného člena z každého členského štátu. Každý člen má hlasovacie právo. Každého člena vymenúva národný regulačný orgán, ktorého hlavnou úlohou je dohliadať na každodenné fungovanie trhov v oblasti elektronických komunikačných sietí a služieb podľa smernice (EÚ) 2018/1972 Člen je vymenovaný spomedzi vedúceho národného regulačného úradu, člena jeho kolektívneho orgánu alebo náhradníkov ktoréhokoľvek z nich.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Každý člen rady regulačných orgánov má náhradníka, ktorého vymenúva národný regulačný orgán. Náhradník zastupuje člena v prípade jeho neprítomnosti. Náhradník sa vymenúva spomedzi vedúceho národného regulačného orgánu, člena jeho kolektívneho orgánu, náhradníkov ktoréhokoľvek z nich alebo zamestnancov národného regulačného orgánu.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Členovia rady regulačných orgánov a ich náhradníci sa vymenúvajú s ohľadom na ich znalosti v oblasti elektronických komunikácií s prihliadnutím na príslušné schopnosti v oblasti riadenia, správy a rozpočtu. S cieľom zabezpečiť kontinuitu práce rady regulačných orgánov všetky národné regulačné orgány, ktoré vymenúvajú členov, sa usilujú o obmedzenie fluktuácie svojich členov, a ak je to možné aj ich náhradníkov, a snažia sa docieliť vyvážené zastúpenie mužov a žien.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Komisia sa zúčastňuje na každom rokovaní rady regulačných orgánov bez hlasovacieho práva a je zastúpená na primerane vysokej úrovni.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Aktuálny zoznam členov rady regulačných orgánov a ich náhradníkov sa zverejní spoločne s ich vyhláseniami o konflikte záujmov.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_8",
+   "kind": "article",
+   "number": "8",
+   "label": "Článok 8",
+   "title": "Nezávislosť rady regulačných orgánov",
+   "path": [
+    "KAPITOLA IV — ORGANIZÁCIA ORGÁNU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Rada regulačných orgánov pri plnení úloh, ktoré jej boli zverené, a bez toho, aby bolo dotknuté konanie jej členov v mene ich príslušných národných regulačných orgánov, koná nezávisle a objektívne v záujme Únie, bez ohľadu na akékoľvek konkrétne národné alebo osobné záujmy.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Bez toho, aby bola dotknutá koordinácia uvedená v článku 3 ods. 6, členovia rady regulačných orgánov a ich náhradníci nežiadajú ani neprijímajú pokyny od žiadnej vlády, inštitúcie, osoby ani orgánu.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_9",
+   "kind": "article",
+   "number": "9",
+   "label": "Článok 9",
+   "title": "Funkcie rady regulačných orgánov",
+   "path": [
+    "KAPITOLA IV — ORGANIZÁCIA ORGÁNU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Rada regulačných orgánov plní tieto funkcie:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) plní regulačné úlohy orgánu BEREC uvedené v článku 4, konkrétne prijíma stanoviská, usmernenia, správy, odporúčania a spoločné pozície a šíri najlepšie postupy uvedené v uvedenom článku, pričom sa opiera o prípravnú prácu pracovných skupín;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) prijíma administratívne rozhodnutia súvisiace s organizáciou práce orgánu BEREC;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) prijíma ročný pracovný program orgánu BEREC uvedený v článku 21;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) prijíma ročnú správu o činnosti orgánu BEREC uvedenú v článku 22;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) prijíma pravidlá prevencie a riadenia konfliktov záujmov uvedené v článku 42, a to aj so zreteľom na členov pracovných skupín;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) prijíma podrobné pravidlá, pokiaľ ide o právo na prístup k dokumentom, ktoré má v držbe orgán BEREC, v súlade s článkom 36;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) prijíma a pravidelne aktualizuje plány v oblasti komunikácie a šírenia informácií, ako sa uvádza v článku 37 ods. 2, a to na základe analýzy potrieb;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) dvojtretinovou väčšinou svojich členov prijíma a zverejňuje svoj rokovací poriadok;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) schvaľuje spolu s riaditeľom uzavretie pracovných dojednaní s príslušnými orgánmi, úradmi, agentúrami a poradnými skupinami Únie a s príslušnými orgánmi tretích krajín a s medzinárodnými organizáciami v súlade s článkom 35;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) zriaďuje pracovné skupiny a vymenúva ich predsedov;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "k) poskytuje riaditeľovi Úradu BEREC usmernenie v súvislosti s vykonávaním úloh Úradu BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_10",
+   "kind": "article",
+   "number": "10",
+   "label": "Článok 10",
+   "title": "Predseda a podpredsedovia rady regulačných orgánov",
+   "path": [
+    "KAPITOLA IV — ORGANIZÁCIA ORGÁNU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Rada regulačných orgánov dvojtretinovou väčšinou svojich členov vymenúva predsedu a aspoň dvoch podpredsedov spomedzi svojich členov.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Jeden z podpredsedov automaticky prevezme povinnosti predsedu, ak ich predseda nemôže vykonávať.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Funkčné obdobie predsedu je jeden rok a môže sa raz obnoviť. V záujme zabezpečenia kontinuity činnosti orgánu BEREC vykonáva nový predseda podľa možnosti aspoň jeden rok pred svojím funkčným obdobím predsedu funkciu podpredsedu. V rokovacom poriadku sa stanoví kratšie obdobie v prípade, že nový predseda nemôže vykonávať funkciu podpredsedu jeden rok pred svojím funkčným obdobím predsedu.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Bez toho, aby bolo dotknuté postavenie rady regulačných orgánov, pokiaľ ide o úlohy predsedu, predseda nežiada ani neprijíma pokyny od žiadnej vlády, inštitúcie, osoby ani orgánu.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Predseda podáva Európskemu parlamentu a Rade na vyzvanie správu o plnení úloh orgánu BEREC.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_11",
+   "kind": "article",
+   "number": "11",
+   "label": "Článok 11",
+   "title": "Zasadnutia rady regulačných orgánov",
+   "path": [
+    "KAPITOLA IV — ORGANIZÁCIA ORGÁNU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Predseda zvoláva zasadnutia rady regulačných orgánov a stanovuje program týchto zasadnutí, ktorý sa zverejňuje.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Riadne zasadnutia rady regulačných orgánov sa konajú aspoň dvakrát ročne. Mimoriadne zasadnutia sa zvolávajú na podnet predsedu, na žiadosť aspoň troch jej členov alebo na žiadosť Komisie.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Riaditeľ Úradu BEREC sa zúčastňuje na každom rokovaní bez hlasovacieho práva.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Rada regulačných orgánov môže prizvať akúkoľvek osobu, o ktorej stanovisko má záujem, aby sa zúčastnila na jej zasadnutí vo funkcii pozorovateľa.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Členom rady regulačných orgánov a ich náhradníkom môžu v súlade s jej rokovacím poriadkom pomáhať na zasadnutiach ich poradcovia alebo iní odborníci.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Úrad BEREC plní funkcie sekretariátu pre radu regulačných orgánov.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_12",
+   "kind": "article",
+   "number": "12",
+   "label": "Článok 12",
+   "title": "Pravidlá hlasovania rady regulačných orgánov",
+   "path": [
+    "KAPITOLA IV — ORGANIZÁCIA ORGÁNU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Rada regulačných orgánov prijíma rozhodnutia jednoduchou väčšinou svojich členov, pokiaľ sa nestanovuje inak v tomto nariadení alebo v inom právnom akte Únie. Dvojtretinová väčšina členov rady regulačných orgánov sa vyžaduje pre stanoviská uvedené v článku 4 ods. 1 písm. c) bodoch ii) a v) a usmernenia uvedené v článku 4 ods. 1 písm. d) bodoch i) až iv), vi), vii) a xi). Bez toho, aby bol dotknutý druhý pododsek tohto odseku, môže Rada regulačných orgánov pri prijímaní stanovísk uvedených v článku 4 ods. 1 písm. c) bode ii) tohto nariadenia v jednotlivých prípadoch rozhodnúť jednoduchou väčšinou, a to v súvislosti s navrhovanými opatreniami, na ktoré sa vzťahuje článok 76 ods. 2 smernice (EÚ) 2018/1972, ktoré vedú k začatiu postupu podľa článku 33 ods. 5 uvedenej smernice. Rozhodnutia rady regulačných orgánov sa zverejnia a na žiadosť ktoréhokoľvek člena sa v nich uvedú jeho výhrady.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Každý člen má jeden hlas. V prípade neprítomnosti člena je oprávnený uplatňovať hlasovacie právo tohto člena jeho náhradník. V prípade neprítomnosti člena a jeho náhradníka sa hlasovacie právo môže delegovať na iného člena. Predseda môže v každom prípade delegovať hlasovacie právo. Predseda sa zúčastňuje na hlasovaní, pokiaľ hlasovacie právo nedelegoval.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. V rokovacom poriadku rady regulačných orgánov sa stanovia podrobné pravidlá hlasovania vrátane podmienok, na základe ktorých môže jeden člen konať v mene iného člena, pravidlá upravujúce kvórum a lehoty platné pre oznamovanie konania zasadnutí. V rokovacom poriadku sa okrem toho zaručí, že členom rady regulačných orgánov sa pred každým zasadnutím poskytne úplný program a predbežné návrhy, aby mali možnosť pred hlasovaním predložiť pozmeňujúce návrhy. V rokovacom poriadku sa môže okrem iného stanoviť postup hlasovania v naliehavých prípadoch a iné praktické opatrenia pre fungovanie rady regulačných orgánov.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_13",
+   "kind": "article",
+   "number": "13",
+   "label": "Článok 13",
+   "title": "Pracovné skupiny",
+   "path": [
+    "KAPITOLA IV — ORGANIZÁCIA ORGÁNU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. V odôvodnených prípadoch, a najmä na vykonávanie ročného pracovného programu orgánu BEREC môže rada regulačných orgánov zriadiť pracovné skupiny.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Rada regulačných orgánov vymenuje predsedov pracovných skupín, ktorí podľa možností zastupujú rôzne národné regulačné orgány.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Účasť na práci pracovných skupín je otvorená odborníkom zo všetkých národných regulačných orgánov, ktoré sa zúčastňujú na práci orgánu BEREC, a z Komisie. Účasť na práci pracovných skupín je otvorená aj zamestnancom Úradu BEREC, ktorí prispievajú k regulačnej činnosti pracovných skupín a poskytujú pracovným skupinám administratívnu podporu. Odborníci z Komisie sa nezúčastňujú na pracovných skupinách, ktoré sú zriadené na plnenie úloh uvedených v článku 4 ods. 1 písm. c) bode ii). V pracovných skupinách, ktoré sú zriadené na plnenie úloh uvedených v článku 4 ods. 1 písm. c) bodoch iv), vi), vii) a viii), článku 4 ods. 1 písm. d) bodoch i), ii), ix), x) a xi), článku 4 ods. 1 písm. j) bode ii) a článku 4 ods. 1 písm. l) tohto nariadenia a prípadne článku 4 ods. 1 písm. c) bode iii) a článku 4 ods. 1 písm. j) bode i) tohto nariadenia, sa zohľadnia názory odborníkov z iných príslušných orgánov oznámených podľa článku 5 ods. 4 smernice (EÚ) 2018/1972 Rada regulačných orgánov alebo predsedovia pracovných skupín môžu prizvať jednotlivých odborníkov uznaných za kompetentných v príslušnej oblasti, aby sa zúčastnili zasadnutí pracovnej skupiny, ak je to potrebné v závislosti od konkrétneho prípadu.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Rada regulačných orgánov prijme rokovací poriadok, v ktorom sa stanovia praktické opatrenia týkajúce sa fungovania pracovných skupín.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_14",
+   "kind": "article",
+   "number": "14",
+   "label": "Článok 14",
+   "title": "Organizačná štruktúra Úradu BEREC",
+   "path": [
+    "KAPITOLA V — ORGANIZÁCIA ÚRADU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Úrad BEREC pozostáva z:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) riadiacej rady,",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) riaditeľa.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_15",
+   "kind": "article",
+   "number": "15",
+   "label": "Článok 15",
+   "title": "Zloženie riadiacej rady",
+   "path": [
+    "KAPITOLA V — ORGANIZÁCIA ÚRADU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Riadiaca rada sa skladá z osôb, ktoré sú vymenované za členov rady regulačných orgánov, a jedného zástupcu Komisie na vysokej úrovni. Každý člen riadiacej rady má hlasovacie právo. Každý menujúci národný regulačný orgán uvedený v článku 7 ods. 1 druhom pododseku môže vymenovať za člena riadiacej rady osobu, ktorá nie je členom rady regulačných orgánov. Táto osoba je vedúcim daného národného regulačného úradu, členom jeho kolektívneho orgánu alebo náhradníkom ktoréhokoľvek z nich.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Každý člen riadiacej rady má náhradníka, ktorý zastupuje člena v jeho neprítomnosti. Náhradníci každého člena sú osoby vymenované za náhradníkov členov rady regulačných orgánov. Aj zástupca Komisie má náhradníka. Každý menujúci národný regulačný orgán uvedený v článku 7 ods. 1 druhom pododseku môže vymenovať za náhradníka člena riadiacej rady osobu, ktorá nie je náhradníkom člena rady regulačných orgánov. Táto osoba je vedúcim daného národného regulačného úradu, členom jeho kolektívneho orgánu, náhradníkom ktoréhokoľvek z nich alebo zamestnancom národného regulačného orgánu.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Členovia riadiacej rady a ich náhradníci nežiadajú ani neprijímajú pokyny od žiadnej vlády, inštitúcie, osoby ani orgánu.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Aktuálny zoznam členov riadiacej rady a ich náhradníkov sa zverejní spoločne s ich vyhláseniami o konflikte záujmov.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_16",
+   "kind": "article",
+   "number": "16",
+   "label": "Článok 16",
+   "title": "Administratívne funkcie riadiacej rady",
+   "path": [
+    "KAPITOLA V — ORGANIZÁCIA ÚRADU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Riadiaca rada plní tieto administratívne funkcie:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) určuje všeobecné smerovanie činností Úradu BEREC a každý rok dvojtretinovou väčšinou hlasov svojich členov prijíma jednotný programový dokument Úradu BEREC s ohľadom na stanovisko Komisie a v súlade s článkom 23;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) prijíma, dvojtretinovou väčšinou hlasov svojich členov, ročný rozpočet Úradu BEREC a vykonáva ďalšie funkcie týkajúce sa rozpočtu Úradu BEREC podľa kapitoly VII;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) prijíma, zverejňuje a vyhodnocuje konsolidovanú výročnú správu o činnosti Úradu BEREC uvedenú v článku 27 a do 1. júla každého roka predkladá správu i jej vyhodnotenie Európskemu parlamentu, Rade, Komisii a Dvoru audítorov;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) prijíma rozpočtové pravidlá, ktoré sa vzťahujú na Úrad BEREC, v súlade s článkom 29;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) prijíma stratégiu boja proti podvodom, ktorá je primeraná rizikám podvodov, pričom zohľadňuje náklady a prínosy opatrení, ktoré sa majú vykonať;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) zabezpečuje primerané opatrenia, ktoré nadväzujú na zistenia a odporúčania vyplývajúce zo správ o vnútornom alebo vonkajšom audite a z hodnotení, ako aj z vyšetrovaní Európskeho úradu pre boj proti podvodom (OLAF);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) prijíma pravidlá prevencie a riadenia konfliktov záujmov, ako sa uvádza v článku 42 ods. 3;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) prijíma a pravidelne aktualizuje plány v oblasti komunikácie a šírenia informácií uvedené v článku 37 ods. 2, a to na základe analýzy potrieb;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) prijíma svoj rokovací poriadok;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) prijíma vykonávacie predpisy na účely uplatňovania služobného poriadku úradníkov Európskej únie a podmienok zamestnávania ostatných zamestnancov Európskej únie v súlade s článkom 110 služobného poriadku;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) bez toho, aby bolo dotknuté rozhodnutie uvedené v odseku 2 prvom pododseku, vykonáva vo vzťahu k zamestnancom Úradu BEREC právomoci, ktoré sú na základe služobného poriadku zverené menovaciemu orgánu, a právomoci, ktoré sú na základe podmienok zamestnávania ostatných zamestnancov zverené orgánu splnomocnenému uzatvárať pracovné zmluvy („právomoci menovacieho orgánu“);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) vymenúva riaditeľa a v prípade potreby predlžuje jeho funkčné obdobie alebo ho odvoláva z funkcie v súlade s článkom 32;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) vymenúva účtovníka podliehajúceho služobnému poriadku a podmienkam zamestnávania ostatných zamestnancov, ktorý je pri vykonávaní svojich povinností úplne nezávislý;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) prijíma všetky rozhodnutia týkajúce sa zriadenia vnútorných štruktúr Úradu BEREC a v prípade potreby ich úprav, a to s prihliadnutím na potreby činnosti Úradu BEREC, ako aj na riadne finančné hospodárenie. S ohľadom na písmeno m) prvého pododseku Úrad BEREC môže vymenovať rovnakého účtovníka ako iný orgán alebo inštitúcia Únie. Úrad BEREC a Komisia sa konkrétne môžu dohodnúť, že účtovník Komisie zastáva aj funkciu účtovníka Úradu BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Riadiaca rada v súlade s článkom 110 služobného poriadku prijíma rozhodnutie na základe článku 2 ods. 1 služobného poriadku a článku 6 podmienok zamestnávania ostatných zamestnancov, ktorým deleguje príslušné právomoci menovacieho orgánu na riaditeľa a ktorým upresní podmienky, za ktorých možno toto delegovanie právomoci pozastaviť. Riaditeľ je oprávnený tieto právomoci delegovať ďalej. Ak si to vyžadujú mimoriadne okolnosti, riadiaca rada môže prostredníctvom rozhodnutia dočasne pozastaviť delegovanie právomocí menovacieho orgánu na riaditeľa a na subjekty, ktorým ďalej delegoval právomoc, a tieto právomoci vykonávať sama alebo ich delegovať na jedného zo svojich členov alebo na zamestnanca, ktorý nie je riaditeľom.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_17",
+   "kind": "article",
+   "number": "17",
+   "label": "Článok 17",
+   "title": "Predseda a podpredsedovia riadiacej rady",
+   "path": [
+    "KAPITOLA V — ORGANIZÁCIA ÚRADU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Predseda a podpredsedovia riadiacej rady sú osoby vymenované za predsedu a podpredsedov rady regulačných orgánov. Uplatňuje sa rovnaké funkčné obdobie. Riadiaca rada môže odchylne od prvého pododseku dvojtretinovou väčšinou hlasov svojich členov zvoliť za predsedu alebo podpredsedu či podpredsedov iných členov riadiacej rady spomedzi svojich členov, ktorí zastupujú členské štáty. Ich funkčné obdobie je rovnaké ako funkčné obdobie predsedu a podpredsedov rady regulačných orgánov.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Jeden z podpredsedov automaticky prevezme povinnosti predsedu, ak predseda nemôže vykonávať svoje povinnosti.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Predseda riadiacej rady podáva Európskemu parlamentu a Rade na vyzvanie správu o plnení úloh Úradu BEREC.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_18",
+   "kind": "article",
+   "number": "18",
+   "label": "Článok 18",
+   "title": "Zasadnutia riadiacej rady",
+   "path": [
+    "KAPITOLA V — ORGANIZÁCIA ÚRADU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Zasadnutia riadiacej rady zvoláva predseda.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Riaditeľ Úradu BEREC sa na rokovaniach s výnimkou tých, ktoré sa týkajú článku 32, zúčastňuje bez hlasovacieho práva.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Riadne zasadnutia riadiacej rady sa konajú aspoň dvakrát ročne. Predseda okrem toho zvoláva mimoriadne zasadnutia z vlastného podnetu, na žiadosť Komisie alebo aspoň troch členov riadiacej rady.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Riadiaca rada môže prizvať akúkoľvek osobu, o ktorej stanovisko má záujem, aby sa zúčastnila na jej zasadnutí vo funkcii pozorovateľa.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Členom riadiacej rady a ich náhradníkom môžu v súlade s jej rokovacím poriadkom pomáhať na zasadnutiach poradcovia alebo odborníci.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Úrad BEREC plní funkcie sekretariátu riadiacej rady.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_19",
+   "kind": "article",
+   "number": "19",
+   "label": "Článok 19",
+   "title": "Pravidlá hlasovania riadiacej rady",
+   "path": [
+    "KAPITOLA V — ORGANIZÁCIA ÚRADU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Riadiaca rada prijíma rozhodnutia jednoduchou väčšinou hlasov svojich členov, pokiaľ nie je v tomto nariadení stanovené inak.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Každý člen má jeden hlas. V prípade neprítomnosti člena je oprávnený uplatňovať jeho hlasovacie právo náhradník. V prípade neprítomnosti člena a náhradníka sa hlasovacie právo môže delegovať na iného člena.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Predseda môže v každom prípade delegovať hlasovacie právo. Predseda sa zúčastňuje na hlasovaní, pokiaľ hlasovacie právo nedelegoval.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. V rokovacom poriadku riadiacej rady sa stanovujú podrobnejšie mechanizmy hlasovania, najmä postup hlasovania v naliehavých prípadoch a okolnosti, za ktorých môže člen konať v mene iného člena.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_20",
+   "kind": "article",
+   "number": "20",
+   "label": "Článok 20",
+   "title": "Povinnosti riaditeľa",
+   "path": [
+    "KAPITOLA V — ORGANIZÁCIA ÚRADU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Riaditeľ je zodpovedný za administratívne riadenie Úradu BEREC. Riaditeľ sa zodpovedá riadiacej rade.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Riaditeľ pomáha predsedovi rady regulačných orgánov a predsedovi riadiacej rady pri príprave zasadnutí ich orgánov.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Bez toho, aby boli dotknuté právomoci rady regulačných orgánov, riadiacej rady a Komisie, je riaditeľ pri plnení svojich povinností nezávislý a nežiada ani neprijíma pokyny od žiadnej vlády, inštitúcie, osoby ani orgánu.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Riaditeľ podáva Európskemu parlamentu a Rade na vyzvanie správu o plnení svojich povinností.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Riaditeľ je právnym zástupcom Úradu BEREC.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Riaditeľ zodpovedá za plnenie úloh Úradu BEREC podľa usmernení rady regulačných orgánov a riadiacej rady. Riaditeľ je predovšetkým zodpovedný za:",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "a) každodennú správu Úradu BEREC;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "b) vykonávanie administratívnych rozhodnutí, ktoré prijala rada regulačných orgánov a riadiaca rada;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "c) prípravu a predkladanie jednotného programového dokumentu uvedeného v článku 23 riadiacej rade;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "d) poskytovanie pomoci rade regulačných orgánov pri príprave výročnej správy o činnosti orgánu BEREC uvedenej v článku 22;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "e) poskytovanie pomoci rade regulačných orgánov pri príprave ročného pracovného programu orgánu BEREC uvedeného v článku 21;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "f) vykonávanie jednotného programového dokumentu a podávanie správ riadiacej rade o jeho vykonávaní;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "g) prípravu návrhu konsolidovanej výročnej správy o činnosti Úradu BEREC uvedenej v článku 27 a jej predloženie riadiacej rade na posúdenie a prijatie;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "h) prípravu akčného plánu nadväzujúceho na závery správ o vnútornom alebo vonkajšom audite a hodnotení, ako aj v nadväznosti na vyšetrovania úradu OLAF, a aspoň raz ročne predkladanie správ o pokroku riadiacej rade;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "i) ochranu finančných záujmov Únie prostredníctvom uplatňovania preventívnych opatrení na zamedzenie podvodov, korupcie a iných nezákonných činností prostredníctvom účinných kontrol a v prípade, že sa zistia nezrovnalosti, prostredníctvom vymáhania neoprávnene vyplatených súm a prípadne prostredníctvom účinných, primeraných a odrádzajúcich administratívnych opatrení vrátane finančných sankcií;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "j) prípravu stratégie Úradu BEREC na boj proti podvodom a jej predloženie riadiacej rade na schválenie;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "k) prípravu návrhu rozpočtových pravidiel uplatniteľných na Úrad BEREC;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "l) prípravu návrhu výkazu odhadovaných príjmov a výdavkov Úradu BEREC a za plnenie jeho rozpočtu.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "m) schválenie spolu s radou regulačných orgánov uzavretia pracovných dojednaní s príslušnými orgánmi, úradmi, agentúrami a poradnými skupinami Únie a s príslušnými orgánmi tretích krajín a s medzinárodnými organizáciami v súlade s článkom 35.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Riaditeľ pod dohľadom riadiacej rady prijíma potrebné opatrenia, predovšetkým pokiaľ ide o prijímanie interných administratívnych pokynov a uverejňovanie oznámení s cieľom zabezpečiť fungovanie Úradu BEREC v súlade s týmto nariadením.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Riaditeľ s predchádzajúcim súhlasom Komisie, riadiacej rady a dotknutých členských štátov rozhodne o tom, či je potrebné na účely účinného a efektívneho plnenia úloh Úradu BEREC umiestniť jedného alebo viacerých zamestnancov v jednom alebo viacerých členských štátoch. V rozhodnutí sa špecifikuje rozsah činností, ktoré sa majú vykonávať tak, aby nedochádzalo k zbytočným nákladom a duplicite administratívnych funkcií Úradu BEREC. Pred tým, ako sa takéto rozhodnutie prijme, sa vo viacročnom programovom dokumente uvedenom v článku 23 ods. 4 stanoví vplyv takéhoto rozhodnutia z hľadiska prideleného počtu pracovníkov a rozpočtu.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_21",
+   "kind": "article",
+   "number": "21",
+   "label": "Článok 21",
+   "title": "Ročný pracovný program orgánu BEREC",
+   "path": [
+    "KAPITOLA VI — PLÁNOVANIE ORGÁNU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Rada regulačných orgánov prijme do 31. januára roka predchádzajúceho rok, na ktorý sa ročný pracovný program vzťahuje, osnovu tohto programu. Po konzultácii s Európskym parlamentom, Radou a Komisiou týkajúcej sa ich priorít, ako aj s ostatnými zainteresovanými stranami v súlade s článkom 4 ods. 5 prijme Rada regulačných orgánov do 31. decembra daného roku konečnú verziu ročného pracovného programu.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Rada regulačných orgánov postúpi ročný pracovný program Európskemu parlamentu, Rade a Komisii hneď, ako ho prijme.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_22",
+   "kind": "article",
+   "number": "22",
+   "label": "Článok 22",
+   "title": "Výročná správa o činnosti orgánu BEREC",
+   "path": [
+    "KAPITOLA VI — PLÁNOVANIE ORGÁNU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Rada regulačných orgánov prijíma výročnú správu o činnosti orgánu BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Rada regulačných orgánov postúpi výročnú správu o činnosti Európskemu parlamentu, Rade, Komisii a Európskemu hospodárskemu a sociálnemu výboru každý rok do 15. júna.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_23",
+   "kind": "article",
+   "number": "23",
+   "label": "Článok 23",
+   "title": "Ročné a viacročné plánovanie",
+   "path": [
+    "KAPITOLA VII — ROZPOČET A PLÁNOVANIE ÚRADU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Riaditeľ každý rok vypracuje návrh programového dokumentu, ktorý obsahuje ročné a viacročné plánovanie (ďalej len „jednotný programový dokument“), v súlade s článkom 32 delegovaného nariadenia (EÚ) č. 1271/2013, pričom zohľadní usmernenia stanovené Komisiou. Riadiaca rada prijme každý rok do 31. januára návrh jednotného programového dokumentu a postúpi ho Komisii, aby poskytla svoje stanovisko. Návrh jednotného programového dokumentu sa predloží aj Európskemu parlamentu a Rade. Riadiaca rada následne prijme jednotný programový dokument s prihliadnutím na stanovisko Komisie. Predloží jednotný programový dokument, ako aj akékoľvek následné aktualizácie Európskemu parlamentu, Rade a Komisii. Jednotný programový dokument sa stáva konečným po prijatí všeobecného rozpočtu Únie, pričom sa v prípade potreby zodpovedajúcim spôsobom upraví.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Ročný programový dokument zahŕňa podrobné ciele a očakávané výsledky vrátane ukazovateľov výkonnosti. Obsahuje aj opis opatrení, ktoré sa majú financovať, a odhad finančných a ľudských zdrojov vyčlenených na každé opatrenie v súlade so zásadami zostavovania a riadenia rozpočtu na základe činností, ako sa uvádza v článku 31. Ročný programový dokument musí byť konzistentný s osnovou ročného pracovného programu a konečnou verziou ročného pracovného programu orgánu BEREC, ktoré sa uvádzajú v článku 21, a s viacročným programovým dokumentom Úradu BEREC uvedeným v odseku 4 tohto článku. Jasne sa v ňom stanovia úlohy, ktoré boli doplnené, zmenené alebo vypustené v porovnaní s predchádzajúcim rozpočtovým rokom.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Riadiaca rada v prípade potreby zmení ročný programový dokument po prijatí konečnej verzie ročného pracovného programu orgánu BEREC uvedenej v článku 21, ako aj vtedy, keď sa orgánu BEREC alebo Úradu BEREC pridelí nová úloha. Každá podstatná zmena v ročnom programovom dokumente sa prijíma rovnakým postupom, aký sa použil na prijatie pôvodného ročného programového dokumentu. Riadiaca rada môže delegovať právomoc vykonávať nepodstatné zmeny v ročnom programovom dokumente na riaditeľa.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Vo viacročnom programovom dokumente sa stanoví všeobecné strategické plánovanie vrátane cieľov, očakávaných výsledkov a ukazovateľov výkonnosti. Tiež sa v ňom stanoví plánovanie zdrojov vrátane viacročného rozpočtu a personálu. Plánovanie zdrojov sa každoročne aktualizuje. Strategické plánovanie sa v prípade potreby aktualizuje, najmä s cieľom zamerať sa na výsledky hodnotenia uvedeného v článku 48.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Jednotný programový dokument Úradu BEREC zahŕňa aj implementáciu stratégie orgánu BEREC týkajúcej sa vzťahov s príslušnými orgánmi, úradmi, agentúrami a poradnými skupinami Únie, s príslušnými orgánmi tretích krajín a s medzinárodnými organizáciami, ako sa uvádza v článku 35 ods. 3, ako aj opatrenia spojené s touto stratégiou a špecifikáciu súvisiacich zdrojov.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_24",
+   "kind": "article",
+   "number": "24",
+   "label": "Článok 24",
+   "title": "Zostavovanie rozpočtu",
+   "path": [
+    "KAPITOLA VII — ROZPOČET A PLÁNOVANIE ÚRADU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Riaditeľ každý rok vypracúva predbežný návrh odhadov príjmov a výdavkov Úradu BEREC (ďalej len „návrh odhadu príjmov a výdavkov“) na nasledujúci rozpočtový rok vrátane plánu pracovných miest a predkladá ho riadiacej rade. Informácie obsiahnuté v návrhu odhadu príjmov a výdavkov musia byť konzistentné s návrhom jednotného programového dokumentu, ako sa uvádza v článku 23 ods. 1",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Riaditeľ predkladá návrh odhadu príjmov a výdavkov Komisii každý rok do 31. januára.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Komisia predloží návrh odhadu rozpočtovému orgánu spolu s návrhom všeobecného rozpočtu Únie.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Na základe návrhu odhadu príjmov a výdavkov Komisia do návrhu všeobecného rozpočtu Únie, ktorý predkladá rozpočtovému orgánu v súlade s článkami 313 a 314 Zmluvy o fungovaní Európskej únie (ďalej len „ZFEÚ“), zahrnie odhady, ktoré považuje za potrebné, pokiaľ ide o plán pracovných miest a výšku príspevku, ktorá sa má hradiť zo všeobecného rozpočtu.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Rozpočtový orgán schvaľuje rozpočtové prostriedky na príspevok pre Úrad BEREC.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Rozpočtový orgán prijíma plán pracovných miest Úradu BEREC.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Riadiaca rada prijíma rozpočet Úradu BEREC. Rozpočet sa stáva konečným po prijatí všeobecného rozpočtu Únie s konečnou platnosťou. V prípade potreby sa zodpovedajúcim spôsobom upraví.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Na akékoľvek stavebné projekty, ktoré by mohli mať významný vplyv na rozpočet Úradu BEREC, sa vzťahuje delegované nariadenie (EÚ) č. 1271/2013.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_25",
+   "kind": "article",
+   "number": "25",
+   "label": "Článok 25",
+   "title": "Štruktúra rozpočtu",
+   "path": [
+    "KAPITOLA VII — ROZPOČET A PLÁNOVANIE ÚRADU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Na každý rozpočtový rok zodpovedajúci kalendárnemu roku sa vypracujú odhady všetkých príjmov a výdavkov Úradu BEREC, ktoré sa zahrnú do rozpočtu Úradu BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Rozpočet Úradu BEREC musí byť z hľadiska príjmov a výdavkov vyrovnaný.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Bez toho, aby boli dotknuté iné zdroje, príjmy Úradu BEREC zahŕňajú: a) príspevok Únie; b) všetky dobrovoľné finančné príspevky členských štátov alebo národných regulačných orgánov; c) poplatky za publikačnú činnosť a akúkoľvek inú službu, ktorú poskytol Úrad BEREC; d) všetky príspevky tretích krajín alebo regulačných orgánov tretích krajín príslušných v oblasti elektronických komunikácií, ktoré sa zúčastňujú na práci Úradu BEREC, ako sa stanovuje v článku 35.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Výdavky Úradu BEREC zahŕňajú odmeny zamestnancov, administratívne náklady a náklady na infraštruktúru a prevádzkové náklady.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_26",
+   "kind": "article",
+   "number": "26",
+   "label": "Článok 26",
+   "title": "Plnenie rozpočtu",
+   "path": [
+    "KAPITOLA VII — ROZPOČET A PLÁNOVANIE ÚRADU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Za plnenie rozpočtu Úradu BEREC zodpovedá riaditeľ.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Riaditeľ každý rok predkladá Európskemu parlamentu a Rade všetky relevantné informácie o zisteniach, ktoré vyplynuli z postupov hodnotenia.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_27",
+   "kind": "article",
+   "number": "27",
+   "label": "Článok 27",
+   "title": "Konsolidovaná výročná správa o činnosti",
+   "path": [
+    "KAPITOLA VII — ROZPOČET A PLÁNOVANIE ÚRADU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Riadiaca rada prijíma konsolidované výročné správy o činnosti v súlade s článkom 47 delegovaného nariadenia (EÚ) č. 1271/2013, pričom zohľadní usmernenia stanovené Komisiou.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_28",
+   "kind": "article",
+   "number": "28",
+   "label": "Článok 28",
+   "title": "Predkladanie účtovnej závierky a absolutórium",
+   "path": [
+    "KAPITOLA VII — ROZPOČET A PLÁNOVANIE ÚRADU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Účtovník Úradu BEREC predloží účtovníkovi Komisie a Dvoru audítorov predbežnú účtovnú závierku za rozpočtový rok do 1. marca nasledujúceho rozpočtového roka.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Úrad BEREC predloží správu o rozpočtovom a finančnom hospodárení Európskemu parlamentu, Rade a Dvoru audítorov do 31. marca nasledujúceho rozpočtového roka.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Účtovník Úradu BEREC po doručení pripomienok Dvora audítorov k predbežnej účtovnej závierke Úradu BEREC vypracuje na vlastnú zodpovednosť konečnú účtovnú závierku Úradu BEREC. Riaditeľ predloží konečnú účtovnú závierku na riadiacej rade, aby vydala stanovisko.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Riadiaca rada vydá ku konečnej účtovnej závierke Úradu BEREC stanovisko.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Riaditeľ predloží konečnú účtovnú závierku spoločne so stanoviskom riadiacej rady Európskemu parlamentu, Rade, Komisii a Dvoru audítorov vždy do 1. júla nasledujúceho po rozpočtovom roku.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Úrad BEREC zverejní konečnú účtovnú závierku v Úradnom vestníku Európskej únie do 15. novembra nasledujúceho roka.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Riaditeľ predloží Dvoru audítorov odpoveď na jeho pripomienky do 30. septembra nasledujúceho rozpočtového roku. Riaditeľ predloží túto odpoveď aj riadiacej rade.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Riaditeľ predloží Európskemu parlamentu na jeho žiadosť všetky informácie potrebné na bezproblémové uplatnenie postupu udelenia absolutória za daný rozpočtový rok, ako sa stanovuje v článku 165 ods. 3 nariadenia Európskeho parlamentu a Rady (EÚ, Euratom) 2018/1046.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Európsky parlament na odporúčanie Rady uznášajúcej sa kvalifikovanou väčšinou udelí do 15. mája roku N+2 riaditeľovi absolutórium za plnenie rozpočtu za rok N.",
+     "para": "9",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_29",
+   "kind": "article",
+   "number": "29",
+   "label": "Článok 29",
+   "title": "Rozpočtové pravidlá",
+   "path": [
+    "KAPITOLA VII — ROZPOČET A PLÁNOVANIE ÚRADU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Rozpočtové pravidlá, ktoré sa vzťahujú na Úrad BEREC, prijíma riadiaca rada po porade s Komisiou. Nesmú sa odchýliť od delegovaného nariadenia (EÚ) č. 1271/2013, okrem prípadov, keď je takáto odchýlka nevyhnutná z dôvodu fungovania Úradu BEREC a Komisia s ňou vopred súhlasila.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_30",
+   "kind": "article",
+   "number": "30",
+   "label": "Článok 30",
+   "title": "Všeobecné ustanovenie",
+   "path": [
+    "KAPITOLA VIII — ZAMESTNANCI ÚRADU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Na zamestnancov Úradu BEREC sa vzťahuje služobný poriadok a podmienky zamestnávania ostatných zamestnancov, ako aj pravidlá prijaté na základe dohody medzi inštitúciami Únie na účely uplatňovania tohto služobného poriadku a podmienok zamestnávania ostatných zamestnancov.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_31",
+   "kind": "article",
+   "number": "31",
+   "label": "Článok 31",
+   "title": "Počet zamestnancov Úradu BEREC",
+   "path": [
+    "KAPITOLA VIII — ZAMESTNANCI ÚRADU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. V súlade so zásadou riadenia ľudských zdrojov na základe činnosti musí mať Úrad BEREC toľko zamestnancov, koľko si vyžaduje plnenie jeho úloh.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Počet zamestnancov a príslušné finančné zdroje sa navrhnú v súlade s článkom 23 ods. 2 a 4 a článkom 24 ods. 1, pričom sa zohľadní článok 5 písm. a) a všetky ďalšie úlohy pridelené Úradu BEREC týmto nariadením alebo inými právnymi aktmi Únie, ako aj potreba dodržiavania súladu s nariadeniami, ktoré sa vzťahujú na všetky decentralizované agentúry Únie.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_32",
+   "kind": "article",
+   "number": "32",
+   "label": "Článok 32",
+   "title": "Vymenovanie riaditeľa",
+   "path": [
+    "KAPITOLA VIII — ZAMESTNANCI ÚRADU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Riaditeľ pôsobí ako dočasný zamestnanec Úradu BEREC v súlade s článkom 2 písm. a) podmienok zamestnávania ostatných zamestnancov.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Riaditeľa vymenúva riadiaca rada v otvorenom a transparentnom výberovom konaní na základe zásluh, riadiacich, administratívnych a rozpočtových zručností a zručností a skúseností súvisiacich s elektronickými komunikačnými sieťami a službami. Zoznam kandidátov nemôže navrhnúť len samotný predseda alebo samotný podpredseda. V rokovacom poriadku riadiacej rady sa uvedú podrobné ustanovenia, ktorými sa upravuje postup zostavenia užšieho zoznamu oprávnených kandidátov a postup hlasovania.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Na účely uzavretia zmluvy s riaditeľom zastupuje Úrad BEREC predseda riadiacej rady.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Kandidát, ktorého vybrala riadiaca rada, sa pred vymenovaním vyzve, aby sa vyjadril pred príslušným výborom Európskeho parlamentu a odpovedal na otázky jeho členov.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Funkčné obdobie riaditeľa trvá päť rokov. Na konci tohto obdobia predseda riadiacej rady vykoná posúdenie, v ktorom zohľadní hodnotenie výsledkov riaditeľa a úlohy Úradu BEREC a výzvy, ktorým čelí. Toto posúdenie sa predloží Európskemu parlamentu a Rade.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Riadiaca rada môže po zohľadnení posúdenia uvedeného v odseku 5 predĺžiť funkčné obdobie riaditeľa jedenkrát, a to najviac o päť rokov.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Riadiaca rada informuje Európsky parlament o svojom úmysle predĺžiť funkčné obdobie riaditeľa. Riaditeľ môže byť do jedného mesiaca pred takýmto predĺžením funkčného obdobia vyzvaný, aby sa vyjadril pred príslušným výborom Európskeho parlamentu a odpovedal na otázky jeho členov.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Riaditeľ, ktorého funkčné obdobie bolo predĺžené, sa nesmie po skončení kumulatívneho funkčného obdobia zúčastniť na ďalšom výberovom konaní na to isté pracovné miesto.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Ak funkčné obdobie nebolo predĺžené, riaditeľ zostáva na základe rozhodnutia riadiacej rady vo funkcii po uplynutí pôvodného funkčného obdobia až do vymenovania nástupcu.",
+     "para": "9",
+     "point": ""
+    },
+    {
+     "text": "10. Riaditeľ môže byť odvolaný z funkcie iba na základe rozhodnutia riadiacej rady konajúcej na základe návrhu svojho člena.",
+     "para": "10",
+     "point": ""
+    },
+    {
+     "text": "11. Riadiaca rada prijíma rozhodnutia o vymenovaní riaditeľa, predĺžení jeho funkčného obdobia alebo jeho odvolaní z funkcie na základe hlasov dvojtretinovej väčšiny svojich členov.",
+     "para": "11",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_33",
+   "kind": "article",
+   "number": "33",
+   "label": "Článok 33",
+   "title": "Vyslaní národní experti a ostatní zamestnanci",
+   "path": [
+    "KAPITOLA VIII — ZAMESTNANCI ÚRADU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Úrad BEREC môže využívať vyslaných národných expertov alebo ostatných zamestnancov, ktorých nezamestnáva. Na týchto zamestnancov sa nevzťahuje služobný poriadok ani podmienky zamestnávania ostatných zamestnancov.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Riadiaca rada prijme rozhodnutie stanovujúce pravidlá vysielania národných expertov do Úradu BEREC.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_34",
+   "kind": "article",
+   "number": "34",
+   "label": "Článok 34",
+   "title": "Výsady a imunity",
+   "path": [
+    "KAPITOLA IX — VŠEOBECNÉ USTANOVENIA"
+   ],
+   "blocks": [
+    {
+     "text": "Na Úrad BEREC a jeho zamestnancov sa vzťahuje Protokol o výsadách a imunitách Európskej únie.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_35",
+   "kind": "article",
+   "number": "35",
+   "label": "Článok 35",
+   "title": "Spolupráca s orgánmi Únie, tretími krajinami a medzinárodnými organizáciami",
+   "path": [
+    "KAPITOLA IX — VŠEOBECNÉ USTANOVENIA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Pokiaľ je to potrebné na dosiahnutie cieľov stanovených v tomto nariadení a plnenie jeho úloh, orgán BEREC a Úrad BEREC môžu spolupracovať s príslušnými orgánmi, úradmi, agentúrami a poradnými skupinami Únie, s príslušnými orgánmi tretích krajín a s medzinárodnými organizáciami bez toho, aby boli dotknuté právomoci členských štátov a inštitúcií Únie. Orgán BEREC a Úrad BEREC môžu na tento účel a s predchádzajúcim schválením Komisiou stanoviť pracovné dojednania. Uvedené dojednania nezakladajú žiadne právne záväzky.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Rada regulačných orgánov, pracovné skupiny a riadiaca rada sú otvorené účasti regulačných orgánov tretích krajín, ktoré zohrávajú hlavnú úlohu v oblasti elektronických komunikácií, ak uvedené tretie krajiny na tento účel uzavreli dohody s Úniou. Podľa príslušných ustanovení uvedených dohôd sa pripravia pracovné dojednania, v ktorých sa stanoví najmä povaha, rozsah a spôsob, akým sa regulačné orgány dotknutých tretích krajín zúčastňujú bez hlasovacieho práva na práci orgánu BEREC a Úradu BEREC, vrátane ustanovení o účasti na iniciatívach uskutočňovaných orgánom BEREC, finančných príspevkoch a zamestnancoch Úradu BEREC. Pokiaľ ide o otázky týkajúce sa zamestnancov, uvedené dojednania musia byť za každých okolností v súlade so služobným poriadkom.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Rada regulačných orgánov prijme ako súčasť ročného pracovného programu uvedeného v článku 21 stratégiu orgánu BEREC pre vzťahy s príslušnými orgánmi, úradmi, agentúrami a poradnými skupinami Únie, s príslušnými orgánmi tretích krajín a s medzinárodnými organizáciami v súvislosti so záležitosťami, za ktoré je orgán BEREC zodpovedný. Komisia, orgán BEREC a Úrad BEREC uzavrú primerané pracovné dojednania s cieľom zabezpečiť, aby orgán BEREC a Úrad BEREC vykonávali činnosti v medziach svojho mandátu a existujúceho inštitucionálneho rámca.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_36",
+   "kind": "article",
+   "number": "36",
+   "label": "Článok 36",
+   "title": "Prístup k dokumentom a ochrana údajov",
+   "path": [
+    "KAPITOLA IX — VŠEOBECNÉ USTANOVENIA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Na dokumenty, ktoré má v držbe orgán BEREC a Úrad BEREC, sa vzťahuje nariadenie Európskeho parlamentu a Rady (ES) č. 1049/2001.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Rada regulačných orgánov a riadiaca rada do 21. júna 2019 prijme podrobné pravidlá uplatňovania nariadenia (ES) č. 1049/2001.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Na spracúvanie osobných údajov orgánom BEREC a Úradom BEREC sa vzťahuje nariadenie (EÚ) 2018/1725.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Rada regulačných orgánov a riadiaca rada do 21. júna 2019 stanovia opatrenia na uplatňovanie nariadenia (EÚ) 2018/1725 orgánom BEREC a Úradom BEREC vrátane opatrení týkajúcich sa vymenovania úradníka Úradu BEREC pre ochranu údajov. Uvedené opatrenia sa stanovia po konzultácii s európskym dozorným úradníkom pre ochranu údajov.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_37",
+   "kind": "article",
+   "number": "37",
+   "label": "Článok 37",
+   "title": "Transparentnosť a komunikácia",
+   "path": [
+    "KAPITOLA IX — VŠEOBECNÉ USTANOVENIA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Orgán BEREC a Úrad BEREC vykonávajú svoju činnosť na vysokej úrovni transparentnosti. Orgán BEREC a Úrad BEREC zabezpečia, aby sa verejnosti a všetkým zainteresovaným stranám poskytovali primerané, objektívne, spoľahlivé a ľahko dostupné informácie, predovšetkým pokiaľ ide o ich úlohy a výsledky ich práce.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Orgán BEREC môže s podporou Úradu BEREC vykonávať komunikačné činnosti z vlastného podnetu v rámci svojej právomoci v súlade s príslušnými plánmi v oblasti komunikácie a šírenia informácií prijatými radou regulačných orgánov. Prideľovanie zdrojov na takúto podporu komunikačných činností v rámci rozpočtu Úradu BEREC nie je na úkor účinného plnenia úloh orgánu BEREC uvedených v článku 4 alebo úloh Úradu BEREC uvedených v článku 5. Komunikačné činnosti Úradu BEREC sa vykonávajú v súlade s príslušnými plánmi v oblasti komunikácie a šírenia informácií, ktoré prijala riadiaca rada.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_38",
+   "kind": "article",
+   "number": "38",
+   "label": "Článok 38",
+   "title": "Dôvernosť informácií",
+   "path": [
+    "KAPITOLA IX — VŠEOBECNÉ USTANOVENIA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Bez toho, aby bol dotknutý článok 36 ods. 1 a článok 40 ods. 2, orgán BEREC ani Úrad BEREC neposkytuje tretím stranám informácie, ktoré spracúva alebo získava a v súvislosti s ktorými bola podaná odôvodnená žiadosť o úplné alebo čiastočné dôverné zaobchádzanie.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Členovia a ďalší účastníci zasadnutí rady regulačných orgánov, riadiacej rady a pracovných skupín, riaditeľ, vyslaní národní experti a ostatní zamestnanci, ktorí nie sú zamestnancami Úradu BEREC, musia dodržiavať požiadavky mlčanlivosti podľa článku 339 ZFEÚ, a to aj po skončení svojich funkcií.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Rada regulačných orgánov a riadiaca rada stanovia praktické opatrenia na uplatňovanie pravidiel dôvernosti a mlčanlivosti uvedených v odsekoch 1 a 2.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_39",
+   "kind": "article",
+   "number": "39",
+   "label": "Článok 39",
+   "title": "Bezpečnostné pravidlá týkajúce sa ochrany utajovaných skutočností a citlivých neutajovaných skutočností",
+   "path": [
+    "KAPITOLA IX — VŠEOBECNÉ USTANOVENIA"
+   ],
+   "blocks": [
+    {
+     "text": "Orgán BEREC a Úrad BEREC prijmú svoje vlastné bezpečnostné pravidlá rovnocenné s bezpečnostnými pravidlami Komisie na ochranu utajovaných skutočností Európskej únie a citlivých neutajovaných skutočností, okrem iného ustanovenia týkajúce sa výmeny, spracovania a uchovávania takýchto informácií, ako sa stanovuje v rozhodnutiach Komisie (EÚ, Euratom) 2015/443 a (EÚ, Euratom) 2015/444. Orgán BEREC alebo Úrad BEREC môže prípadne prijať rozhodnutie o analogickom uplatňovaní pravidiel Komisie.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_40",
+   "kind": "article",
+   "number": "40",
+   "label": "Článok 40",
+   "title": "Výmena informácií",
+   "path": [
+    "KAPITOLA IX — VŠEOBECNÉ USTANOVENIA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Komisia a národné regulačné orgány zastúpené v rade regulačných orgánov a iné príslušné orgány na základe odôvodnenej žiadosti orgánu BEREC alebo Úradu BEREC poskytujú orgánu BEREC alebo Úradu BEREC všetky potrebné informácie včas a presne, aby orgán BEREC a Úrad BEREC mohli plniť svoje úlohy, za predpokladu, že majú zákonný prístup k príslušným informáciám a že žiadosť o informácie je potrebná vzhľadom na povahu príslušnej úlohy. Orgán BEREC alebo Úrad BEREC môžu požiadať o poskytnutie takýchto informácií aj v pravidelných intervaloch a v stanovených formátoch. Pokiaľ je to možné, tieto žiadosti sa vypracujú na základe jednotných formátov predkladania správ.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Orgán BEREC alebo Úrad BEREC na základe odôvodnenej žiadosti Komisie alebo národného regulačného orgánu poskytne včas a presne všetky informácie, ktoré sú potrebné na to, aby Komisia, národný regulačný orgán alebo iný príslušný orgán mohli plniť svoje úlohy podľa zásady lojálnej spolupráce. Ak orgán BEREC alebo Úrad BEREC považuje informácie za dôverné, Komisia, národný regulačný orgán alebo iný príslušný orgán zabezpečia dôvernosť týchto informácií v súlade s právom Únie a vnútroštátnym právom vrátane nariadenia (ES) č. 1049/2001. Zachovanie obchodného tajomstva nebráni včasnej výmene informácií.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Pred vyžiadaním informácií v súlade s týmto článkom a s cieľom zamedziť zdvojeniu povinnosti podávať správy orgán BEREC alebo Úrad BEREC zohľadňujú všetky príslušné existujúce informácie, ktoré sú verejne dostupné.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Ak národný regulačný orgán nesprístupní informácie včas, orgán BEREC alebo Úrad BEREC môže odôvodnenú žiadosť zaslať buď iným národným regulačným orgánom a ďalším príslušným orgánom dotknutého členského štátu alebo priamo relevantným podnikom poskytujúcim elektronické komunikačné siete, služby a pridružené prostriedky. Orgán BEREC alebo Úrad BEREC informuje národné regulačné orgány, ktoré neposkytli informácie, o žiadostiach v súlade s prvým pododsekom. Národné regulačné orgány na žiadosť orgánu BEREC alebo Úradu BEREC pomáhajú orgánu BEREC pri zbere informácií.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Členské štáty zabezpečia, aby národné regulačné orgány a ďalšie príslušné orgány mali právomoc požiadať iné zodpovedné vnútroštátne orgány alebo podniky poskytujúce elektronické komunikačné siete a služby, pridružené prostriedky alebo pridružené služby, aby predložili všetky informácie potrebné na plnenie ich úloh uvedených v tomto článku. Iné zodpovedné vnútroštátne orgány alebo podniky uvedené v prvom pododseku poskytnú takéto informácie ihneď na požiadanie a v súlade s požadovaným časovým harmonogramom a s požadovanou úrovňou podrobností. Členské štáty zabezpečia, aby národné regulačné orgány a ďalšie príslušné orgány mali právomoc presadiť splnenie žiadostí o poskytnutie informácií uložením vhodných, účinných, primeraných a odradzujúcich sankcií.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_41",
+   "kind": "article",
+   "number": "41",
+   "label": "Článok 41",
+   "title": "Informačný a komunikačný systém",
+   "path": [
+    "KAPITOLA IX — VŠEOBECNÉ USTANOVENIA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Úrad BEREC vytvorí a spravuje informačný a komunikačný systém, ktorý má aspoň tieto funkcie: a) spoločná platforma na výmenu informácií, ktorá orgánu BEREC, Komisii a národným regulačným orgánom poskytuje informácie potrebné na konzistentné vykonávanie regulačného rámca Únie pre elektronické komunikácie; b) vyhradené rozhranie na podávanie žiadostí o poskytnutie informácií a oznamovanie ich podania podľa článku 40, pre prístup orgánu BEREC, Úradu BEREC, Komisie a národných regulačných orgánov; c) platforma na včasné určenie potreby koordinácie medzi národnými regulačnými orgánmi.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Riadiaca rada prijme technické a funkčné špecifikácie na účely zriadenia informačného a komunikačného systému uvedeného v odseku 1. Na uvedený systém sa uplatňujú práva duševného vlastníctva a požadovaná úroveň dôvernosti informácií.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Tento informačný a komunikačný systém sa uvedie do prevádzky do 21. júna 2020.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_42",
+   "kind": "article",
+   "number": "42",
+   "label": "Článok 42",
+   "title": "Vyhlásenia o konflikte záujmov",
+   "path": [
+    "KAPITOLA IX — VŠEOBECNÉ USTANOVENIA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Každý z členov rady regulačných orgánov a riadiacej rady, riaditeľ, vyslaní národní experti a ostatní zamestnanci, ktorí nie sú zamestnancami Úradu BEREC, urobia písomné vyhlásenie, v ktorom oznámi svoj záväzok a absenciu alebo existenciu akýchkoľvek priamych alebo nepriamych záujmov, ktoré by sa mohli považovať za záujmy ovplyvňujúce ich nezávislosť. Takéto vyhlásenia sa musia urobiť pri prevzatí úloh, musia byť presné a úplné, a musia sa aktualizovať, keď hrozí, že existujú akékoľvek priame alebo nepriame záujmy, ktoré by sa mohli považovať za záujmy ovplyvňujúce nezávislosť osoby, ktorá urobila vyhlásenie. Vyhlásenia, ktoré urobili členovia rady regulačných orgánov, členovia riadiacej rady a riaditeľ, sa zverejňujú.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Členovia rady regulačných orgánov, riadiacej rady a pracovných skupín a ďalší účastníci ich zasadnutí, riaditeľ, vyslaní národní experti a ostatní zamestnanci, ktorí nie sú zamestnancami Úradu BEREC, najneskôr na začiatku každého zasadnutia presne a úplne oznámia akékoľvek záujmy, ktoré by sa mohli považovať za záujmy ovplyvňujúce ich nezávislosť v súvislosti s bodmi programu, a zdržia sa účasti na diskusii a hlasovaní o týchto bodoch.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Rada regulačných orgánov a riadiaca rada stanovia pravidlá prevencie a riadenia konfliktov záujmov, a to predovšetkým v súvislosti s praktickými opatreniami pre uplatňovanie odsekov 1 a 2.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_43",
+   "kind": "article",
+   "number": "43",
+   "label": "Článok 43",
+   "title": "Boj proti podvodom",
+   "path": [
+    "KAPITOLA IX — VŠEOBECNÉ USTANOVENIA"
+   ],
+   "blocks": [
+    {
+     "text": "1. V záujme uľahčenia boja proti podvodom, korupcii a inému protiprávnemu konaniu podľa nariadenia Európskeho parlamentu a Rady (EÚ, Euratom) č. 883/2013 Úrad BEREC do 21. júna 2019 pristúpi k Medziinštitucionálnej dohode z 25. mája 1999 medzi Európskym parlamentom, Radou Európskej únie a Komisiou Európskych spoločenstiev, ktorá sa týka vnútorných vyšetrovaní Európskym úradom pre boj proti podvodom (OLAF), a prijme primerané ustanovenia uplatniteľné na všetkých zamestnancov Úradu BEREC s použitím vzoru stanoveného v prílohe k uvedenej dohode.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Dvor audítorov má právomoc vykonávať audit na základe dokumentov a inšpekcií na mieste všetkých beneficientov grantov, dodávateľov a subdodávateľov, ktorým sa zo strany Úradu BEREC poskytli finančné prostriedky Únie.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. OLAF môže viesť vyšetrovania vrátane kontrol a inšpekcií na mieste v súlade s ustanoveniami a postupmi stanovenými v nariadení (EÚ, Euratom) č. 883/2013 a v nariadení Rady (Euratom, ES) č. 2185/96 s cieľom zistiť, či v súvislosti s dohodou o grante alebo rozhodnutím o grante alebo zmluvou o financovaní Úradom BEREC nedošlo k podvodu, korupcii alebo akémukoľvek inému protiprávnemu konaniu poškodzujúcemu finančné záujmy Únie.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Bez toho, aby boli dotknuté odseky 1, 2 a 3, obsahujú dohody o spolupráci s tretími krajinami a medzinárodnými organizáciami, zmluvy, dohody o grante a rozhodnutia o grante ustanovenia, ktorými sa Dvor audítorov a úrad OLAF výslovne splnomocňujú na vykonávanie takýchto auditov a vyšetrovaní v súlade so svojimi príslušnými právomocami.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_44",
+   "kind": "article",
+   "number": "44",
+   "label": "Článok 44",
+   "title": "Zodpovednosť",
+   "path": [
+    "KAPITOLA IX — VŠEOBECNÉ USTANOVENIA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Zmluvná zodpovednosť Úradu BEREC sa riadi právom rozhodným pre danú zmluvu.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Súdny dvor Európskej únie (ďalej len „Súdny dvor“) má právomoc vynášať rozsudky na základe akejkoľvek rozhodcovskej doložky v zmluve, ktorú uzavrie Úrad BEREC.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Pokiaľ ide o mimozmluvnú zodpovednosť, Úrad BEREC je povinný v súlade so všeobecnými zásadami, ktoré sú spoločné pre právne poriadky členských štátov, nahradiť všetky škody, ktoré spôsobia jeho útvary alebo jeho zamestnanci pri plnení svojich úloh.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. V sporoch o náhradu škody v zmysle odseku 3 má právomoc rozhodovať Súdny dvor.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Osobná zodpovednosť zamestnancov voči Úradu BEREC sa riadi ustanoveniami služobného poriadku alebo podmienkami zamestnávania ostatných zamestnancov, ktoré sa na nich vzťahujú.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_45",
+   "kind": "article",
+   "number": "45",
+   "label": "Článok 45",
+   "title": "Administratívne vyšetrovania",
+   "path": [
+    "KAPITOLA IX — VŠEOBECNÉ USTANOVENIA"
+   ],
+   "blocks": [
+    {
+     "text": "Činnosti orgánu BEREC a Úradu BEREC podliehajú vyšetrovaniam európskeho ombudsmana v súlade s článkom 228 ZFEÚ.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_46",
+   "kind": "article",
+   "number": "46",
+   "label": "Článok 46",
+   "title": "Jazykový režim",
+   "path": [
+    "KAPITOLA IX — VŠEOBECNÉ USTANOVENIA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Na Úrad BEREC sa vzťahuje nariadenie č. 1.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Prekladateľské služby potrebné na fungovanie Úradu BEREC zabezpečuje Prekladateľské stredisko pre orgány Európskej únie.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_47",
+   "kind": "article",
+   "number": "47",
+   "label": "Článok 47",
+   "title": "Dohoda o sídle a prevádzkové podmienky",
+   "path": [
+    "KAPITOLA X — ZÁVEREČNÉ USTANOVENIA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ustanovenia o poskytnutí sídla Úradu BEREC v hostiteľskom členskom štáte a o zariadeniach, ktoré má tento členský štát sprístupniť, ako aj osobitné pravidlá, ktoré sa v hostiteľskom členskom štáte vzťahujú na riaditeľa, členov riadiacej rady, zamestnancov Úradu BEREC a členov ich rodín, sa vymedzia v dohode o sídle medzi Úradom BEREC a hostiteľským členským štátom, ktorá sa uzavrie po schválení riadiacou radou najneskôr 21. decembra 2020.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Hostiteľský členský štát zabezpečí Úradu BEREC podmienky potrebné na zaistenie jeho plynulého a efektívneho fungovania vrátane viacjazyčného a európsky orientovaného vzdelávania a primeraných dopravných spojení.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_48",
+   "kind": "article",
+   "number": "48",
+   "label": "Článok 48",
+   "title": "Hodnotenie",
+   "path": [
+    "KAPITOLA X — ZÁVEREČNÉ USTANOVENIA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Komisia do 21. decembra 2023 a potom každých päť rokov vykonáva hodnotenie v súlade s usmerneniami Komisie, ktoré sa týkajú posudzovania výsledkov orgánu BEREC a Úradu BEREC vzhľadom na ich ciele, mandát, úlohy a sídlo. Hodnotenie sa zameriava najmä na prípadnú potrebu upraviť štruktúru alebo mandát orgánu BEREC a Úradu BEREC a na finančné dôsledky takejto úpravy.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Ak Komisia dospeje k záveru, že existencia orgánu BEREC alebo Úradu BEREC už nie je vzhľadom na jeho stanovené ciele, mandát a úlohy odôvodnená, môže navrhnúť príslušnú zmenu alebo zrušenie tohto nariadenia.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Komisia podáva správu o výsledkoch svojho hodnotenia Európskemu parlamentu, Rade a riadiacej rade a tieto výsledky zverejní.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_49",
+   "kind": "article",
+   "number": "49",
+   "label": "Článok 49",
+   "title": "Prechodné ustanovenia",
+   "path": [
+    "KAPITOLA X — ZÁVEREČNÉ USTANOVENIA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Úrad BEREC je nástupcom úradu, ktorý sa zriadil nariadením (ES) č. 1211/2009, pokiaľ ide o vlastníctvo, dohody, právne záväzky, pracovné zmluvy, finančné záväzky a zodpovednosť. Týmto nariadením najmä nie sú dotknuté práva a povinnosti zamestnancov úradu. Ich zmluvy sa môžu obnoviť podľa tohto nariadenia v súlade so služobným poriadkom a podmienkami zamestnávania ostatných zamestnancov a v súlade s rozpočtovými obmedzeniami Úradu BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Administratívny riaditeľ vymenovaný na základe nariadenia (ES) č. 1211/2009 koná s účinnosťou od 20. decembra 2018 ako riaditeľ a vykonáva funkcie stanovené v tomto nariadení. Ostatné podmienky zmluvy administratívneho riaditeľa zostávajú nezmenené.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Riadiaca rada môže rozhodnúť o predĺžení funkčného obdobia riaditeľa uvedeného v odseku 2 tohto článku na ďalšie funkčné obdobie. Primerane sa uplatní článok 32 ods. 5 a 6. Kumulatívne funkčné obdobie riaditeľa nepresiahne 10 rokov.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Rada regulačných orgánov a riadiaca rada uvedené v článkoch 7 a 15 tohto nariadenia pozostávajú z členov rady regulačných orgánov a riadiaceho výboru uvedených v článkoch 4 a 7 nariadenia (ES) č. 1211/2009, kým sa nevymenujú noví zástupcovia.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Predsedovia a podpredsedovia rady regulačných orgánov a riadiaceho výboru, ktorí boli vymenovaní na základe nariadenia (ES) č. 1211/2009, zostanú vo funkcii ako predseda a podpredsedovia rady regulačných orgánov uvedení v článku 10 tohto nariadenia a predseda a podpredsedovia riadiacej rady uvedení v článku 17 tohto nariadenia na zvyšok svojho jednoročného funkčného obdobia. Vymenovania predsedov a podpredsedov rady regulačných orgánov a riadiaceho výboru na základe nariadenia (ES) č. 1211/2009, ktoré sa uskutočnili pred 20. decembrom 2018, ale trvajú aj po uvedenom dátume, sa musia rešpektovať.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Postup udelenia absolutória, pokiaľ ide o rozpočet schválený na základe článku 11 nariadenia (ES) č. 1211/2009, sa vykonáva v súlade s pravidlami stanovenými v uvedenom nariadení.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_50",
+   "kind": "article",
+   "number": "50",
+   "label": "Článok 50",
+   "title": "Zmeny nariadenia (EÚ) 2015/2120",
+   "path": [
+    "KAPITOLA X — ZÁVEREČNÉ USTANOVENIA"
+   ],
+   "blocks": [
+    {
+     "text": "Nariadenie (EÚ) 2015/2120 sa mení takto:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "1. Názov sa nahrádza takto: „Nariadenie Európskeho parlamentu a Rady (EÚ) 2015/2120 z 25. novembra 2015, ktorým sa stanovujú opatrenia týkajúce sa prístupu k otvorenému internetu a maloobchodné poplatky za regulované komunikačné služby v rámci Únie a ktorým sa mení smernica 2002/22/ES a nariadenie (EÚ) č. 531/2012“",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. V článku 1 sa dopĺňa tento odsek: „3. Týmto nariadením sa zároveň stanovujú spoločné pravidlá na zabezpečenie toho, aby spotrebitelia neplatili nadmerné ceny za interpersonálne komunikačné služby založené na číslovaní vznikajúce v členskom štáte, v ktorom má spotrebiteľ domáceho poskytovateľa, a končiace na ktoromkoľvek čísle pevnej alebo mobilnej siete v inom členskom štáte.“",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. V článku 2 sa v druhom odseku dopĺňajú tieto body: „3. ‚regulovaná komunikačná služba v rámci Únie‘ je akákoľvek interpersonálna komunikačná služba založená na číslovaní vznikajúca v členskom štáte, v ktorom má spotrebiteľ domáceho poskytovateľa, a končiaca na ktoromkoľvek pevnom alebo mobilnom čísle národného číslovacieho plánu iného členského štátu, ktorá je v plnej miere alebo čiastočne spoplatnená na základe skutočnej spotreby; 4. ‚interpersonálna komunikačná služba založená na číslovaní‘ je interpersonálna komunikačná služba založená na číslovaní vymedzená v článku 2 bode 6 smernice Európskeho parlamentu a Rady (EÚ) 2018/1972. (*1) Smernica Európskeho parlamentu a Rady (EÚ) 2018/1972 z 11. decembra 2018, ktorou sa stanovuje európsky kódex elektronických komunikácií (Ú. v. EÚ L 321, 17.12.2018, s. 36).“ \"",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Vkladá sa tento článok: „Článok 5a Maloobchodné poplatky za regulované komunikačné služby v rámci Únie 1. Od 15. mája 2019 neprekročí žiadna maloobchodná cena (bez DPH) účtovaná spotrebiteľom za regulované komunikačné služby v rámci Únie sumu 0,19 EUR za minútu volania a 0,06 EUR za SMS správu. 2. Bez ohľadu na povinnosti stanovené v odseku 1, poskytovatelia regulovaných komunikačných služieb v rámci Únie môžu okrem toho ponúknuť a spotrebitelia si môžu výslovne vybrať inú tarifu za medzinárodné komunikačné služby vrátane regulovaných komunikačných služieb v rámci Únie ako tarifu stanovenú v súlade s odsekom 1, na základe ktorej môžu spotrebitelia využívať inú tarifu za regulované komunikačné služby v rámci Únie, ako tú, ktorá by sa im pridelila v prípade absencie takejto voľby. Predtým ako si spotrebitelia vyberú takúto inú tarifu, poskytovatelia regulovaných komunikačných služieb v rámci Únie ich musia informovať o povahe výhod, o ktoré by takto prišli. 3. Ak tarifa za regulované komunikačné služby v rámci Únie uvedená v odseku 2 prevyšujú stropy stanovené v odseku 1, spotrebiteľom, ktorí nepotvrdili voľbu tarify uvedenej v odseku 2 alebo sa výslovne nevyjadrili za jej výber do dvoch mesiacov od 15. mája 2019, sa automaticky poskytnú tarify stanovené v odseku 1. 4. Spotrebitelia môžu prejsť z taríf alebo späť na tarify stanovené v odseku 1 v rámci jedného pracovného dňa od doručenia žiadosti poskytovateľovi a bezplatne, pričom poskytovatelia zabezpečia, aby tento prechod nebol spojený s podmienkami alebo obmedzeniami, ktoré sa týkajú iných prvkov účastníckeho vzťahu než regulovaných komunikačných služieb v rámci Únie. 5. Ak sú maximálne ceny uvedené v odseku 1 vyjadrené v mene inej ako euro, pôvodné limity sa v týchto menách určujú na základe priemeru referenčných výmenných kurzov uverejnených 15. januára, 15. februára a 15. marca 2019 Európskou centrálnou bankou v Úradnom vestníku Európskej únie. Limity v menách iných ako euro sa od roku 2020 každoročne revidujú. Ročne revidované limity v týchto menách sa uplatňujú od 15. mája s použitím priemeru referenčných výmenných kurzov uverejnených 15. januára, 15. februára a 15. marca toho istého roku. 6. Národné regulačné orgány monitorujú vývoj trhu a cien, pokiaľ ide o regulované komunikačné služby v rámci Únie, a podávajú správu Komisii. Ak poskytovateľ regulovanej komunikačnej služby v rámci Únie preukáže, že z dôvodu osobitných a výnimočných okolností, na základe ktorých sa odlišuje od väčšiny ostatných poskytovateľov v Únii, by uplatňovanie stropu uvedeného v odseku 1 malo výrazný vplyv na schopnosť uvedeného poskytovateľa udržať svoje existujúce ceny za domáce komunikačné služby, národný regulačný orgán môže na žiadosť uvedeného poskytovateľa udeliť výnimku z uplatňovania odseku 1, a to výlučne v potrebnom rozsahu a na obdobie jedného roka s možnosťou predĺženia. Posúdenie udržateľnosti domáceho modelu poplatkov sa zakladá na relevantných objektívnych faktoroch špecifických pre poskytovateľa regulovaných komunikačných služieb v rámci Únie, ako aj na úrovni domácich cien a príjmov. Ak žiadajúci poskytovateľ splní príslušné dôkazné bremeno, národný regulačný orgán určí maximálnu výšku cien prevyšujúcu jeden alebo oba stropy stanovené v odseku 1, ktorá by bola nevyhnutná na zabezpečenie udržateľnosti domáceho modelu poplatkov poskytovateľa. Orgán BEREC uverejní usmernenia týkajúce sa parametrov, ktoré majú národné regulačné orgány zohľadniť vo svojich posúdeniach.“",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. V článku 6 sa dopĺňa tento odsek: „Členské štáty ustanovia pravidlá o sankciách za porušenie článku 5a a prijmú všetky potrebné opatrenia na zabezpečenie ich vykonávania. Stanovené sankcie musia byť účinné, primerané a odrádzajúce. Členské štáty oznámia Komisii pravidlá a opatrenia ustanovené na zabezpečenie vykonávania článku 5a do 15. mája 2019 a bezodkladne jej oznámia každú následnú zmenu, ktorá má na ne vplyv.“",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. V článku 10 sa dopĺňa tento odsek: „5. Článok 5a sa prestane uplatňovať 14. mája 2024.“",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_51",
+   "kind": "article",
+   "number": "51",
+   "label": "Článok 51",
+   "title": "Zrušenie",
+   "path": [
+    "KAPITOLA X — ZÁVEREČNÉ USTANOVENIA"
+   ],
+   "blocks": [
+    {
+     "text": "Nariadenie (ES) č. 1211/2009 sa zrušuje.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Odkazy na zrušené nariadenie sa považujú za odkazy na toto nariadenie a znejú v súlade s tabuľkou zhody uvedenou v prílohe.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_52",
+   "kind": "article",
+   "number": "52",
+   "label": "Článok 52",
+   "title": "Nadobudnutie účinnosti",
+   "path": [
+    "KAPITOLA X — ZÁVEREČNÉ USTANOVENIA"
+   ],
+   "blocks": [
+    {
+     "text": "Toto nariadenie nadobúda účinnosť tretím dňom po jeho uverejnení v Úradnom vestníku Európskej únie.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "anx_1",
+   "kind": "annex",
+   "number": "1",
+   "label": "PRÍLOHA",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Tabuľka zhody",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Nariadenie (ES) č. 1211/2009 Toto nariadenie článok 1 ods. 1 Článok 1 článok 1 ods. 2 článok 3 ods. 1 článok 1 ods. 3 článok 3 ods. 2 a 3 článok 1 ods. 4 článok 3 ods. 4 a článok 4 ods. 1 písm. a) a b) Článok 2 Článok 4 Článok 3 Článok 4 článok 4 ods. 1 Článok 6 článok 4 ods. 2 článok 7 ods. 1, 2 a 4, článok 8 ods. 1 a 2 článok 4 ods. 3 článok 11 ods. 4 a 5, článok 36 článok 4 ods. 4 článok 10 ods. 1, 2 a 3 článok 4 ods. 5 článok 10 ods. 4 článok 4 ods. 6 Článok 11 článok 4 ods. 7 Článok 13 článok 4 ods. 8 článok 7 ods. 4 článok 4 ods. 9 článok 12 ods. 1 a 2 článok 4 ods. 10 článok 12 ods. 3 článok 4 ods. 11 Článok 5 Článok 5 Článok 4 článok 6 ods. 1 článok 2 ods. 1 článok 6 ods. 2 Článok 5 článok 6 ods. 3 článok 14 ods. 1 článok 6 ods. 4 článok 2 ods. 2 článok 6 ods. 5 články 20 a 31 článok 7 ods. 1 článok 15 ods. 1 článok 7 ods. 2 Článok 32 článok 7 ods. 3 článok 20 ods. 6 článok 7 ods. 4 článok 16 ods. 1 písm. k) článok 7 ods. 5 Článok 13 Článok 8 Článok 32 Článok 9 Článok 20 článok 10 ods. 1 články 30 a 34 článok 10 ods. 2 článok 16 ods. 1 písm. j) článok 10 ods. 3 článok 16 ods. 2 článok 10 ods. 4 Článok 33 Článok 11 Článok 25 Článok 12 Článok 24 Článok 13 Článok 26 Článok 14 — Článok 15 Článok 29 Článok 16 Článok 43 Článok 17 článok 4 ods. 5 Článok 18 Článok 37 Článok 19 články 39 a 40 Článok 20 Článok 38 Článok 21 Článok 42 Článok 22 Článok 36 Článok 23 Článok 34 Článok 24 Článok 44 Článok 25 Článok 48 Článok 26 Článok 52",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  }
+ ]
+}

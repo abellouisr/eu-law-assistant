@@ -1,0 +1,2822 @@
+{
+ "document": "berec",
+ "version": "original",
+ "lang": "RO",
+ "meta": {
+  "source": "eurlex",
+  "celex": "32018R1971",
+  "kind": "original",
+  "date": "2018-12-11",
+  "built_at": "2026-10-07T10:10:24+00:00",
+  "sources_sha256": {
+   "32018R1971": "1487d13d3ca6b8151834dabeb0741c4ac905a6cd1d155f31ab0d3f16d9042c2a"
+  },
+  "counts": {
+   "article": 52,
+   "recital": 53,
+   "annex": 1
+  }
+ },
+ "provisions": [
+  {
+   "id": "rct_1",
+   "kind": "recital",
+   "number": "1",
+   "label": "(1)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Directiva (UE) 2018/1972 a Parlamentului European și a Consiliului vizează crearea unei piețe interne a comunicațiilor electronice la nivelul Uniunii și, totodată, asigurarea unui nivel ridicat de investiții, de inovare și de protecție a consumatorilor prin sporirea concurenței. De asemenea, directiva menționată stabilește un număr semnificativ de noi atribuții Organismului Autorităților Europene de Reglementare în Domeniul Comunicațiilor Electronice (OAREC), cum ar fi elaborarea de orientări pe diferite teme, raportarea cu privire la chestiuni tehnice, menținerea unor registre, liste sau baze de date și emiterea de avize cu privire la proceduri legate de piața internă pentru proiectele de măsuri naționale privind reglementarea pieței.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_2",
+   "kind": "recital",
+   "number": "2",
+   "label": "(2)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Regulamentul (UE) nr. 531/2012 al Parlamentului European și al Consiliului completează și consolidează, în ceea ce privește roamingul în Uniune, normele prevăzute de cadrul de reglementare pentru comunicațiile electronice și stabilește anumite atribuții pentru OAREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_3",
+   "kind": "recital",
+   "number": "3",
+   "label": "(3)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "În plus, Regulamentul (UE) 2015/2120 al Parlamentului European și al Consiliului stabilește pentru OAREC atribuții suplimentare în ceea ce privește accesul la un internet deschis. De asemenea, orientările OAREC din 30 august 2016 privind punerea în aplicare de către autoritățile naționale de reglementare a normelor europene de neutralitate a rețelei au fost salutate ca furnizând clarificări valoroase pentru garantarea unui internet puternic, liber și deschis, prin asigurarea unei aplicări uniforme a normelor menite să garanteze un tratament egal și nediscriminatoriu al traficului în cadrul furnizării serviciilor de acces la internet, precum și drepturile conexe ale utilizatorilor finali.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_4",
+   "kind": "recital",
+   "number": "4",
+   "label": "(4)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Având în vedere necesitatea de a asigura elaborarea unor practici de reglementare uniforme și aplicarea uniformă a cadrului de reglementare al Uniunii pentru comunicații electronice, Comisia a înființat, prin Decizia 2002/627/CE a Comisiei, Grupul entităților europene de reglementare în domeniul rețelelor și serviciilor de comunicații electronice (ERG), care să acorde consiliere și asistență Comisiei la consolidarea pieței interne a rețelelor și serviciilor de comunicații electronice și, la un nivel mai general, să asigure o interfață între autoritățile naționale de reglementare (ANR) și Comisie.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_5",
+   "kind": "recital",
+   "number": "5",
+   "label": "(5)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "OAREC și Oficiul au fost înființate prin Regulamentul (CE) nr. 1211/2009 al Parlamentului European și al Consiliului. OAREC a înlocuit ERG și a urmărit să contribuie, pe de o parte, la dezvoltarea pieței interne a rețelelor și serviciilor de comunicații electronice și, pe de altă parte, la îmbunătățirea funcționării acesteia, urmărind să asigure punerea în aplicare uniformă a cadrului de reglementare pentru comunicații electronice. OAREC joacă rolul unui forum de cooperare între ANR-uri, precum și între ANR-uri și Comisie în exercitarea tuturor responsabilităților care revin acestora în temeiul cadrului de reglementare al Uniunii. OAREC a fost înființat pentru a furniza expertiză și pentru a acționa în mod independent și transparent.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_6",
+   "kind": "recital",
+   "number": "6",
+   "label": "(6)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "OAREC reprezintă, de asemenea, un organism de reflecție, de dezbatere și de consultanță pentru Parlamentul European, Consiliu și Comisie în domeniul comunicațiilor electronice.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_7",
+   "kind": "recital",
+   "number": "7",
+   "label": "(7)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Oficiul a fost înființat ca organ comunitar cu personalitate juridică în vederea îndeplinirii atribuțiilor stabilite prin Regulamentul (CE) nr. 1211/2009, în special în ceea ce privește furnizarea de servicii de sprijin profesional și administrativ către OAREC. Pentru a sprijini OAREC în mod eficient, Oficiul a beneficiat de autonomie juridică, administrativă și financiară.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_8",
+   "kind": "recital",
+   "number": "8",
+   "label": "(8)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Prin Decizia 2010/349/UE, reprezentanții guvernelor statelor membre au decis ca Oficiul să aibă sediul la Riga. Acordul privind sediul, încheiat între Guvernul Republicii Letonia și Oficiu, a intrat în vigoare la 5 august 2011.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_9",
+   "kind": "recital",
+   "number": "9",
+   "label": "(9)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "În comunicarea sa din 6 mai 2015 intitulată „O strategie privind piața unică digitală pentru Europa”, Comisia preconiza că prezentarea în 2016 a unei propuneri pentru o revizuire ambițioasă a cadrului de reglementare pentru comunicațiile electronice, care să se concentreze, printre altele, pe asigurarea unui cadru instituțional de reglementare mai concret, astfel încât să asigure conformitatea normelor în materie de comunicații electronice cu scopul în care au fost concepute, ca parte a proiectului de creare a unor condiții adecvate pentru piața unică digitală. Printre respectivele condiții se numără instalarea unor rețele de foarte mare capacitate, o gestionare mai coordonată a spectrului de frecvențe radio pentru rețelele pe suport radio și crearea unor condiții de concurență echitabile pentru rețele digitale avansate și servicii inovatoare. Comunicarea menționată a subliniat faptul că schimbările de pe piață și din mediul tehnologic impun îmbunătățirea cadrului instituțional prin consolidarea rolului OAREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_10",
+   "kind": "recital",
+   "number": "10",
+   "label": "(10)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "În rezoluția sa din 19 ianuarie 2016 intitulată „Pregătirea unui act legislativ privind piața unică digitală”, Parlamentul European a invitat Comisia să continue procesul de integrare a pieței unice digitale prin eficientizarea cadrului instituțional.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_11",
+   "kind": "recital",
+   "number": "11",
+   "label": "(11)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "OAREC și Oficiul au contribuit în mod pozitiv la asigurarea punerii în aplicare uniforme a cadrului de reglementare pentru comunicațiile electronice. Cu toate acestea, persistă încă diferențe semnificative între statele membre în ceea ce privește practicile în materie de reglementare, ceea ce afectează societățile angajate în activități economice transfrontaliere sau care își desfășoară activitatea într-un număr semnificativ de state membre, inclusiv atunci când există orientări ale OAREC, care însă ar mai putea fi dezvoltate. Pentru a contribui în continuare la dezvoltarea pieței interne a comunicațiilor electronice în întreaga Uniune, precum și la promovarea accesului la rețelele de foarte mare capacitate și a utilizării acestora, la promovarea concurenței în furnizarea rețelelor, a serviciilor și a infrastructurilor asociate de comunicații electronice și la promovarea intereselor cetățenilor Uniunii, prezentul regulament își propune să consolideze rolul OAREC. Acest rol consolidat completează rolul sporit îndeplinit de OAREC în temeiul Regulamentelor (UE) 531/2012 și (UE) 2015/2120 și al Directivei (UE) 2018/1972.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_12",
+   "kind": "recital",
+   "number": "12",
+   "label": "(12)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Din perspectiva evoluției pieței și a progreselor tehnologice, care implică adesea o dimensiune transfrontalieră sporită, precum și a experienței acumulate până în prezent în vederea asigurării punerii în aplicare uniforme în domeniul comunicațiilor electronice, este necesară continuarea activităților desfășurate de OAREC și de Oficiu. Guvernanța și activitățile acestora ar trebui să fie raționalizate și adaptate la atribuțiile pe care acestea urmează să le îndeplinească. Ținând seama de procedurile existente și de atribuții care revin OAREC și Oficiului și pentru a consolida eficacitatea acestora, ar trebui să se prevadă o mai mare stabilitate a managementului acestora și să fie simplificat procesul decizional.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_13",
+   "kind": "recital",
+   "number": "13",
+   "label": "(13)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "OAREC ar trebui să furnizeze expertiză și să câștige încrederea prin independența sa, prin calitatea serviciilor sale de consiliere și informare, prin transparența procedurilor și a metodelor sale de funcționare și prin eforturile depuse în îndeplinirea atribuțiilor sale. Independența OAREC nu ar trebui să împiedice Consiliul autorităților de reglementare să delibereze pe baza unor proiecte elaborate de grupurile de lucru.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_14",
+   "kind": "recital",
+   "number": "14",
+   "label": "(14)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Noua denumire oficială a Oficiului ar trebui să fie „Agenția de sprijin pentru OAREC” („Oficiul OAREC”). Denumirea „Oficiul OAREC” ar trebui să fie utilizată ca denumire prescurtată a agenției. Oficiul OAREC ar trebui să dispună de autonomie juridică, administrativă și financiară. În acest scop, este necesar și oportun ca Oficiul OAREC să reprezinte un organ al Uniunii care are personalitate juridică și care exercită competențele care îi sunt conferite. În calitate de agenție descentralizată a Uniunii, Oficiul OAREC ar trebui să funcționeze în limitele mandatului său și ale cadrului instituțional existent. Acesta nu ar trebui să fie perceput ca reprezentând poziția Uniunii în exterior sau ca angajând Uniunea prin obligații juridice.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_15",
+   "kind": "recital",
+   "number": "15",
+   "label": "(15)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "De asemenea, normele aplicabile guvernanței și funcționării Oficiului OAREC ar trebui, dacă este necesar, să fie aliniate cu principiile din Declarația comună a Parlamentului European, a Consiliului și a Comisiei din 19 iulie 2012 privind agențiile descentralizate.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_16",
+   "kind": "recital",
+   "number": "16",
+   "label": "(16)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Instituțiile Uniunii și ANR-urile ar trebui să beneficieze de asistență și consiliere din partea OAREC, inclusiv în ceea ce privește impactul relevant pe care îl are, din punct de vedere al reglementării, orice chestiune referitoare la dinamica generală a piețelor digitale sau în ceea ce privește relațiile, discuțiile și schimburile lor cu terți sau diseminarea de bune practici de reglementare către acestea. Pe lângă contribuțiile sale la consultările publice ale Comisiei, OAREC ar trebui, la cerere, să ofere consultanță Comisiei la pregătirea propunerilor legislative. OAREC ar trebui totodată să fie autorizat să furnizeze consiliere Parlamentului European și Consiliului, la cererea acestora sau din proprie inițiativă.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_17",
+   "kind": "recital",
+   "number": "17",
+   "label": "(17)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "În calitate de organism tehnic cu cunoștințe de specialitate în domeniul comunicațiilor electronice și alcătuit din reprezentanți ai ANR-urilor și ai Comisiei, OAREC este cel mai bine poziționat pentru a i se încredința atribuții cum sunt cele de a contribui la proceduri eficiente legate de piața internă pentru proiectele de măsuri naționale de reglementare a pieței, de a transmite către ANR-uri și către alte autorități competente orientările necesare pentru asigurarea unor criterii comune și a unei abordări coerente în materie de reglementare, precum și de a păstra anumite registre, baze de date și liste la nivelul Uniunii. Acest lucru nu aduce atingere atribuțiilor care revin ANR-urilor, acestea fiind cele mai apropiate de piețele comunicațiilor electronice, precum și de condițiile locale.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_18",
+   "kind": "recital",
+   "number": "18",
+   "label": "(18)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Pentru exercitarea atribuțiilor sale, OAREC ar trebui să continue să pună în comun cunoștințele de specialitate ale ANR-urilor. OAREC ar trebui să urmărească să garanteze participarea tuturor ANR-urilor la îndeplinirea atribuțiilor sale de reglementare și la funcționarea sa. Pentru a consolida OAREC, pentru a spori reprezentativitatea acestuia și pentru a-i prezerva cunoștințele de specialitate, experiența și cunoștințele privind situația specifică de pe toate piețele naționale, fiecare stat membru ar trebui să se asigure că ANR-ul său dispune de resursele financiare și umane adecvate pentru a participa pe deplin la activitatea OAREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_19",
+   "kind": "recital",
+   "number": "19",
+   "label": "(19)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Din perspectiva convergenței tot mai accentuate între sectoarele care furnizează servicii de comunicații electronice și dimensiunea orizontală a aspectelor de reglementare referitoare la dezvoltarea acestora, OAREC și Oficiul OAREC ar trebui să poată coopera, fără a aduce atingere rolului acestora, cu ANR-urile, cu alte organe, oficii, agenții și grupuri consultative ale Uniunii, în special cu Grupul pentru politica în domeniul spectrului de frecvențe radio, instituit prin Decizia 2002/622/CE a Comisiei, cu Autoritatea Europeană pentru Protecția Datelor, instituită prin Regulamentul (UE) 2018/1725 al Parlamentului European și al Consiliului, cu Comitetul european pentru protecția datelor, instituit prin Regulamentul (UE) 2016/679 al Parlamentului European și al Consiliului, cu Grupul autorităților europene de reglementare în domeniul serviciilor mass-media audiovizuale, instituit prin Directiva 2010/13/UE a Parlamentului European și a Consiliului, cu Agenția Uniunii Europene pentru Securitatea Rețelelor și a Informațiilor, instituită prin Regulamentul (UE) nr. 526/2013 al Parlamentului European și al Consiliului, cu Agenția GNSS European, instituită prin Regulamentul (UE) nr. 912/2010 al Parlamentului European și al Consiliului, cu Rețeaua de cooperare pentru protecția consumatorilor, instituită în temeiul Regulamentului (CE) nr. 2006/2004 al Parlamentului European și al Consiliului, cu Rețeaua europeană în domeniul concurenței și organizațiile de standardizare europene, precum și cu comitetele existente (precum Comitetul pentru comunicații și Comitetul pentru spectrul de frecvențe radio). De asemenea, OAREC și Oficiul OAREC ar trebui să poată coopera cu autoritățile competente relevante din statele membre responsabile în materie de concurență, de protecția consumatorului și de protecția datelor și cu autoritățile competente din țările terțe, în special cu autoritățile de reglementare competente în domeniul comunicațiilor electronice sau cu grupuri formate din astfel de autorități, precum și cu organizații internaționale, atunci când acest lucru este necesar pentru a-și îndeplini atribuțiile. OAREC ar trebui, de asemenea, să poată consulta părțile interesate prin consultare publică.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_20",
+   "kind": "recital",
+   "number": "20",
+   "label": "(20)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "OAREC ar trebui să aibă dreptul să stabilească acorduri de lucru cu organele, oficiile, agențiile și grupurile consultative ale Uniunii competente, cu autoritățile competente din țări terțe și cu organizații internaționale, care să nu creeze obligații juridice. Scopul unor astfel de acorduri de lucru ar putea să îl constituie, de exemplu, dezvoltarea unor relații de cooperare și schimbul de opinii în materie de reglementare. Comisia ar trebui să se asigure că acordurile de lucru necesare sunt în concordanță cu politica și prioritățile Uniunii și că OAREC își desfășoară activitatea în limitele mandatului său și ale cadrului instituțional existent și nu este privit ca reprezentând poziția Uniunii în exterior sau ca angajând Uniunea în obligații internaționale.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_21",
+   "kind": "recital",
+   "number": "21",
+   "label": "(21)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "OAREC ar trebui să fie format din Consiliul autorităților de reglementare și grupurile de lucru. Președinția prin rotație a Consiliului autorităților de reglementare ar trebui să asigure continuitatea activității OAREC. În plus, ar trebui să fie promovată o rotație a vicepreședinților care reprezintă diferitele ANR-uri.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_22",
+   "kind": "recital",
+   "number": "22",
+   "label": "(22)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "OAREC ar trebui să poată acționa în interesul Uniunii, independent de orice intervenție externă, inclusiv de presiuni politice sau ingerințe comerciale. Este, prin urmare, important să se asigure că persoanele numite în cadrul Consiliului autorităților de reglementare beneficiază de cele mai înalte garanții de independență personală și funcțională. Șeful unei ANR, un membru al organismului său colectiv ori înlocuitorul oricăruia dintre aceștia beneficiază de un astfel de nivel de independență personală și funcțională. Mai concret, aceștia ar trebui să acționeze independent și obiectiv și nu ar trebui să solicite sau să accepte instrucțiuni în exercitarea funcțiilor lor și ar trebui să fie protejați împotriva concedierii arbitrare. Funcția de supleant în cadrul Consiliului autorităților de reglementare poate fi îndeplinită, de asemenea, de șeful ANR-ului, de un membru al organismului său colectiv, de înlocuitorul oricăruia dintre aceștia sau de un alt membru al personalului ANR-ului, care acționează în numele și în cadrul mandatului membrului din cadrul Consiliului autorităților de reglementare pe care îl înlocuiește.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_23",
+   "kind": "recital",
+   "number": "23",
+   "label": "(23)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Din experiență reiese că majoritatea atribuțiilor OAREC sunt mai bine îndeplinite prin intermediul grupurilor de lucru, care ar trebui să țină seama întotdeauna în egală măsură de toate opiniile și contribuțiile ANR-urilor. Prin urmare, Consiliul autorităților de reglementare ar trebui să constituie grupuri de lucru și să numească președinții acestora. ANR-urile ar trebui să răspundă prompt la solicitările de nominalizare pentru a asigura constituirea rapidă a grupurilor de lucru, în special a celor legate de proceduri care au termene. Grupurile de lucru ar trebui să fie deschise participării unor experți din partea Comisiei. Personalul Oficiului OAREC ar trebui să sprijine activitățile grupurilor de lucru și să contribuie la acestea.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_24",
+   "kind": "recital",
+   "number": "24",
+   "label": "(24)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Dacă este necesar și pe baza unei analize individualizate, Consiliul autorităților de reglementare și Consiliul de administrație ar trebui să poată invita să ia parte la reuniunile lor, în calitate de observator, orice persoană a cărei opinie poate fi de interes.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_25",
+   "kind": "recital",
+   "number": "25",
+   "label": "(25)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "După caz și în funcție de repartizarea sarcinilor autorităților din fiecare stat membru, punctele de vedere ale altor autorități competente ar trebui luate în considerare în grupul de lucru relevant, de exemplu prin consultare la nivel național sau prin invitarea respectivelor autorități competente la reuniunile relevante în situațiile în care este nevoie de expertiză din partea acestora. În orice caz, ar trebui menținută independența OAREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_26",
+   "kind": "recital",
+   "number": "26",
+   "label": "(26)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Consiliul autorităților de reglementare și Consiliul de administrație ar trebui să funcționeze în paralel, cel dintâi luând, în principal, decizii cu privire la chestiuni de reglementare, iar cel de al doilea cu privire la chestiuni administrative, precum cele legate de buget, personal și audit. În principiu, și în plus față de reprezentanții Comisiei, reprezentanții ANR-urilor în cadrul Consiliului de administrație și membrii Consiliului autorităților de reglementare ar trebui să fie aceleași persoane, dar ANR-urile ar trebui să poată să numească alți reprezentanți care să îndeplinească aceleași cerințe.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_27",
+   "kind": "recital",
+   "number": "27",
+   "label": "(27)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Competențele de autoritate împuternicită să facă numiri au fost exercitate anterior de vicepreședintele Comitetului de gestionare al Oficiului. Prezentul regulament prevede delegarea de către Consiliul de administrație a competențelor relevante de autoritate împuternicită să facă numiri către director, care este autorizat să subdelege aceste competențe. Prin aceasta se urmărește să se contribuie la o gestionare eficientă a personalului Oficiului OAREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_28",
+   "kind": "recital",
+   "number": "28",
+   "label": "(28)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Consiliul autorităților de reglementare și Consiliul de administrație ar trebui să se reunească în ședință ordinară de cel puțin două ori pe an. Din perspectiva experienței anterioare și a rolului consolidat al OAREC, este posibil să existe necesitatea organizării unor ședințe suplimentare ale Consiliului autorităților de reglementare sau ale Consiliului de administrație.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_29",
+   "kind": "recital",
+   "number": "29",
+   "label": "(29)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Directorul ar trebui să rămână reprezentantul Oficiului OAREC în ceea ce privește chestiunile juridice și administrative. Consiliul de administrație ar trebui să numească directorul în urma unei proceduri de selecție deschise și transparente, pentru a garanta o evaluare riguroasă a candidaților și un nivel ridicat de independență. Durata mandatului directorului administrativ al Oficiului a fost anterior de trei ani. Este necesar ca directorul să aibă un mandat suficient de lung pentru a asigura stabilitatea și punerea în aplicare a unei strategii pe termen lung pentru Oficiul OAREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_30",
+   "kind": "recital",
+   "number": "30",
+   "label": "(30)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Regulamentul delegat (UE) nr. 1271/2013 al Comisiei ar trebui să se aplice Oficiului OAREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_31",
+   "kind": "recital",
+   "number": "31",
+   "label": "(31)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Oficiul OAREC ar trebui să furnizeze tot sprijinul profesional și administrativ necesar activităților OAREC, inclusiv sprijin financiar, organizatoric și logistic, și ar trebui să contribuie la activitatea de reglementare a OAREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_32",
+   "kind": "recital",
+   "number": "32",
+   "label": "(32)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Pentru a se garanta autonomia și independența Oficiului OAREC și pentru a oferi sprijin activităților OAREC, Oficiul OAREC ar trebui să aibă un buget propriu, care ar trebui să provină în principal dintr-o contribuție din partea Uniunii. Bugetul ar trebui să fie adecvat și să reflecte atribuțiile suplimentare încredințate și rolul consolidat al OAREC și al Oficiului OAREC. Finanțarea Oficiului OAREC ar trebui să facă obiectul unui acord din partea autorității bugetare, astfel cum se prevede la punctul 31 din Acordul interinstituțional din 2 decembrie 2013 dintre Parlamentul European, Consiliu și Comisie privind disciplina bugetară, cooperarea în chestiuni bugetare și buna gestiune financiară.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_33",
+   "kind": "recital",
+   "number": "33",
+   "label": "(33)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Oficiul OAREC ar trebui să dispună de un nivel corespunzător de personal pentru a-și îndeplini atribuțiile. Toate atribuțiile care revin Oficiului OAREC, inclusiv serviciile profesionale și administrative care sprijină OAREC în îndeplinirea sarcinilor sale de reglementare, alături de respectarea regulamentului financiar, a statutului personalului și a altor reglementări aplicabile, precum și ponderea sporită a sarcinilor operaționale solicitate Oficiului OAREC în raport cu cele administrative ar trebui evaluate în mod corespunzător și ar trebui să se reflecte în programarea resurselor.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_34",
+   "kind": "recital",
+   "number": "34",
+   "label": "(34)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Pentru a extinde în continuare punerea în aplicare uniformă a dispozițiilor cadrului de reglementare pentru comunicațiile electronice, Consiliul autorităților de reglementare, grupurile de lucru și Consiliul de administrație ar trebui să fie deschise participării autorităților de reglementare competente în domeniul comunicațiilor electronice din țările terțe, atunci când acestea au încheiat acorduri cu Uniunea în acest sens, cum ar fi statele SEE-AELS și țările candidate.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_35",
+   "kind": "recital",
+   "number": "35",
+   "label": "(35)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "În conformitate cu principiul transparenței, OAREC și Oficiul OAREC ar trebui să publice pe site-ul lor web atunci când este relevant, informații cu privire la activitatea lor. În special, OAREC ar trebui să publice toate documentele finale emise pentru îndeplinirea atribuțiilor sale, de exemplu avize, orientări, rapoarte, recomandări, poziții comune și bune practici, precum și toate studiile comandate în sprijinul atribuțiilor sale. OAREC și Oficiul OAREC ar trebui, de asemenea, să publice liste actualizate ale atribuțiilor lor și liste actualizate ale membrilor, supleanților și ale altor participanți la reuniunile organelor lor structurale, împreună cu declarațiile de interese ale membrilor Consiliului autorităților de reglementare, ale membrilor Consiliului de administrație și directorului.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_36",
+   "kind": "recital",
+   "number": "36",
+   "label": "(36)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "OAREC, sprijinit de Oficiul OAREC, ar trebui să poată participa la activități de comunicare în domeniul său de competență, fără ca aceasta să fie în detrimentul atribuțiilor principale ale OAREC. Conținutul și punerea în aplicare a strategiei de comunicare a OAREC ar trebui să fie coerente, obiective, relevante și coordonate cu strategiile și activitățile Comisiei și ale celorlalte instituții, astfel încât să se țină cont de imaginea globală a Uniunii. Activitățile de comunicare ale Oficiului OAREC ar trebui să se desfășoare în conformitate cu planurile de comunicare și diseminare relevante adoptate de Consiliul de administrație.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_37",
+   "kind": "recital",
+   "number": "37",
+   "label": "(37)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Pentru a-și îndeplini sarcinile în mod eficace, OAREC și Oficiul OAREC ar trebui să aibă dreptul să solicite toate informațiile necesare de la Comisie, ANR-uri și, în ultimă instanță, de la alte autorități și de la întreprinderi. Solicitările de informații ar trebui să fie motivate, moderate și să nu impună costuri exagerate destinatarilor. ANR-urile ar trebui să coopereze cu OAREC și cu Oficiul OAREC și să le furnizeze informații corecte în timp util pentru a se asigura că OAREC și Oficiul OAREC sunt în măsură să își îndeplinească atribuțiile. La rândul lor, OAREC și Oficiul OAREC ar trebui să comunice toate informațiile necesare Comisiei, ANR-urilor și altor autorități competente, pe baza principiului cooperării loiale. În cazurile relevante, confidențialitatea informațiilor ar trebui să fie asigurată. Atunci când evaluează pertinența motivării unei cereri, OAREC ar trebui să ia în considerare dacă informațiile solicitate se referă la îndeplinirea unor atribuții exclusive ale autorităților relevante.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_38",
+   "kind": "recital",
+   "number": "38",
+   "label": "(38)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Oficiul OAREC ar trebui să instituie un sistem comun de informare și comunicare pentru a evita suprapunerea cererilor de informații și pentru a facilita comunicarea între toate autoritățile implicate.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_39",
+   "kind": "recital",
+   "number": "39",
+   "label": "(39)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Pentru a asigura un grad ridicat de confidențialitate și pentru a evita conflictele de interese, normele în această materie care li se aplică membrilor organelor structurale ale OAREC și ale Oficiului OAREC ar trebui să se aplice și supleanților acestora.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_40",
+   "kind": "recital",
+   "number": "40",
+   "label": "(40)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Deoarece OAREC și Oficiului OAREC le revin noi atribuții în temeiul prezentului regulament, iar în temeiul actelor juridice ale Uniunii le-ar putea reveni atribuții suplimentare, Comisia ar trebui să evalueze periodic funcționarea OAREC și a Oficiului OAREC și eficacitatea structurilor lor organizaționale într-un mediu digital în schimbare. Dacă, în urma evaluării respective, constată că structura organizatorică nu este potrivită pentru îndeplinirea atribuțiilor care revin OAREC și Oficiului OAREC, în special în ceea ce privește asigurarea punerii uniforme în aplicare a cadrului de reglementare pentru comunicațiile electronice, Comisia ar trebui să analizeze toate opțiunile posibile de îmbunătățire a structurii respective.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_41",
+   "kind": "recital",
+   "number": "41",
+   "label": "(41)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Oficiului înființat ca organ comunitar cu personalitate juridică în temeiul Regulamentului (CE) nr. 1211/2009 îi succedă Oficiul OAREC înființat în temeiul prezentului regulament în ceea ce privește toate aspectele legate de proprietate, acorduri, inclusiv acordul de găzduire, obligații juridice, contracte de muncă, angajamente și răspunderi financiare. Oficiul OAREC ar trebui să preia personalul Oficiului, ale cărui drepturi și obligații ar trebui să rămână neschimbate. Pentru a asigura continuitatea activității desfășurate de OAREC și de Oficiu, ar trebui ca reprezentanții lor, și anume președintele și vicepreședinții Consiliului autorităților de reglementare, Comitetul de gestionare și directorul executiv să își ducă la îndeplinire mandatul curent până la încheierea perioadei.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_42",
+   "kind": "recital",
+   "number": "42",
+   "label": "(42)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Un număr semnificativ de consumatori din majoritatea statelor membre continuă să se bazeze pe comunicațiile internaționale tradiționale, cum ar fi apeluri telefonice și SMS-uri, în ciuda faptului că un număr tot mai mare dintre consumatori au acces, pentru a-și satisface necesitățile de apeluri internaționale, la servicii de comunicații interpersonale care nu se bazează pe numere, la tarife mai mici decât serviciile tradiționale sau fără plată monetară.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_43",
+   "kind": "recital",
+   "number": "43",
+   "label": "(43)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "În 2013, Comisia a propus un regulament, bazat pe o evaluare a impactului, care a inclus o dispoziție privind măsuri de reglementare aplicabile comunicațiilor în interiorul UE. Din 2017 până în 2018, OAREC și Comisia au cules date suplimentare privind piața de comunicații în interiorul UE, cu ajutorul unui studiu al Comisiei și al Eurobarometrului. Potrivit datelor respective, continuă să predomine diferențe semnificative de preț, atât în ceea ce privește comunicațiile fixe, cât și cele mobile, între comunicațiile de voce și prin SMS naționale și comunicațiile efectuate către un alt stat membru, în contextul unor variații de preț considerabile între țări, între furnizori și între pachetele tarifare, precum și între comunicațiile de voce mobile și cele fixe. Furnizorii de servicii de comunicații interpersonale accesibile publicului bazate pe numere stabilesc deseori, pentru comunicațiile în interiorul UE, prețuri bazate pe consum care depășesc cu mult tarifele naționale, plus costuri suplimentare. În medie, prețul standard al unui apel în interiorul UE într-o rețea fixă sau mobilă tinde să fie de trei ori mai mare decât prețul standard al unui apel național, iar prețul standard al unui SMS în interiorul UE de peste două ori mai mare decât al unui SMS național. Însă aceste medii aritmetice ascund diferențe semnificative între statele membre. În unele cazuri, prețul standard al unui apel în interiorul UE poate fi de până la opt ori mai mare decât prețul standard al apelurilor naționale. În consecință, în mai multe state membre, clienților li se oferă prețuri foarte ridicate pentru comunicațiile în interiorul UE. Aceste prețuri ridicate afectează în principal consumatorii și în special pe cei care realizează rar astfel de comunicații sau care au un volum redus de consum, care reprezintă marea majoritate a consumatorilor de comunicații în interiorul UE. În același timp, mai mulți furnizori propun oferte speciale deosebit de atractive pentru clienți persoane juridice și pentru consumatorii care au un consum semnificativ de comunicații în interiorul UE. Deseori, astfel de oferte nu au prețuri bazate pe consumul real și pot consta într-un anumit număr de minute de convorbire sau SMS-uri în interiorul UE pentru un tarif lunar fix (oferte cu extraopțiuni) sau în includerea unui anumit număr de minute de convorbire sau SMS-uri în interiorul UE în cadrul pachetului lunar de minute sau SMS-uri, fie fără nicio suprataxă, fie cu o suprataxă mică. Cu toate acestea, de multe ori, condițiile acestor oferte nu sunt atractive pentru consumatorii care au doar un volum ocazional, imprevizibil sau relativ redus de comunicații în interiorul UE. În consecință, consumatorii respectivi riscă să plătească prețuri excesive pentru comunicațiile lor în interiorul UE și ar trebui să fie protejați.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_44",
+   "kind": "recital",
+   "number": "44",
+   "label": "(44)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Mai mult, prețurile ridicate pentru comunicațiile în interiorul UE constituie un obstacol în calea funcționării pieței interne, deoarece aceste prețuri descurajează căutarea și achiziționarea de bunuri și servicii de la un furnizor situat într-un alt stat membru. Prin urmare, este necesar să se stabilească limite specifice și proporționale la prețul pe care furnizorii de servicii de comunicații interpersonale accesibile publicului bazate pe numere îl pot percepe consumatorilor pentru comunicații în interiorul UE pentru a elimina astfel de prețuri ridicate.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_45",
+   "kind": "recital",
+   "number": "45",
+   "label": "(45)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "În cazul în care furnizorii de servicii de comunicații interpersonale accesibile publicului bazate pe numere percep consumatorilor lor pentru comunicațiile în interiorul UE tarife bazate integral sau parțial pe consumul de astfel de servicii, inclusiv în cazurile de deducere bazată pe consum dintr-o sumă fixă plătită în avans sau lunară pentru astfel de servicii, aceste tarife nu ar trebui să depășească 0,19 EUR/minut pentru apeluri și 0,06 EUR/SMS. Aceste plafoane corespund prețurilor maxime care se aplică în prezent pentru apelurile și, respectiv, SMS-urile în roaming reglementate. Atunci când utilizează servicii de roaming în Uniune, consumatorii beneficiază de protecția eurotarifului pentru comunicații de voce și a eurotarifului pentru SMS, care au fost înlocuite treptat de roaming la tarife naționale. Aceste plafoane sunt considerate, de asemenea, referințe adecvate pentru stabilirea tarifului maxim pentru comunicațiile în interiorul UE reglementate pentru o perioadă de cinci ani începând cu 15 mai 2019. Nivelul actual al plafonului reprezintă o plasă de siguranță simplă, transparentă și dovedită care protejează împotriva prețurilor ridicate și este adecvat ca plafon pentru prețurile cu amănuntul ale tuturor comunicațiilor în interiorul UE reglementate. Atât apelurile în roaming pe teritoriul Uniunii, cât și apelurile în interiorul UE au o structură a costurilor asemănătoare.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_46",
+   "kind": "recital",
+   "number": "46",
+   "label": "(46)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Plafoanele ar trebui să permită furnizorilor de servicii de comunicații interpersonale accesibile publicului bazate pe numere să-și recupereze costurile, asigurând astfel o intervenție proporțională pe piața apelurilor atât în rețele mobile, cât și fixe. Plafoanele se vor aplica direct numai în cazul tarifelor bazate pe consumul real. Acestea ar trebui să aibă un efect de disciplinare și asupra ofertelor în cazul cărora este inclus un anumit volum de comunicații în interiorul UE, fără a fi facturat separat, deoarece consumatorii au posibilitatea de a trece la un tarif bazat pe consum pentru comunicațiile în interiorul UE. Volumele de comunicații în interiorul UE care depășesc ceea ce este inclus într-un pachet și care sunt facturate separat ar trebui să fie plafonate. Măsura ar trebui să asigure în mod proporțional protecția împotriva prețurilor ridicate a consumatorilor cu un nivel scăzut de consum de comunicații în interiorul UE și, în același timp, ar trebui să aibă doar un impact moderat asupra furnizorilor.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_47",
+   "kind": "recital",
+   "number": "47",
+   "label": "(47)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Furnizorii de servicii de comunicații interpersonale accesibile publicului bazate pe numere ar trebui să fie în măsură să le propună consumatorilor oferte tarifare alternative pentru comunicațiile internaționale cu tarife diferite pentru comunicațiile în interiorul UE reglementate, iar consumatorii ar trebui să aibă libertatea de a opta în mod expres pentru astfel de oferte și de a renunța la ele în orice moment și gratuit, chiar și în cazul ofertelor la care consumatorii s-au abonat înainte de intrarea în vigoare a dispozițiilor respective. Numai ofertele alternative pentru comunicații internaționale, de exemplu cele care includ toate sau anumite țări terțe, în cazul în care sunt acceptate de către un consumator, ar trebui să prevadă posibilitatea de a-l exonera pe furnizor de obligația de a nu depăși plafoanele aplicabile pentru comunicațiile în interiorul UE reglementate. Alte avantaje, cum ar fi echipamentele terminale subvenționate sau reduceri la alte servicii de comunicații electronice oferite de către furnizori consumatorilor, sunt caracteristice unei interacțiuni concurențiale obișnuite și nu ar trebui să aducă atingere aplicabilității plafoanelor tarifare pentru comunicațiile în interiorul UE reglementate.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_48",
+   "kind": "recital",
+   "number": "48",
+   "label": "(48)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Anumiți furnizori de servicii de comunicații interpersonale accesibile publicului bazate pe numere pot fi afectați într-o măsură semnificativ mai mare comparativ cu majoritatea celorlalți furnizori din Uniune de un plafon tarifar pentru comunicațiile în interiorul UE reglementate. Aceasta ar putea fi situația în special în cazul furnizorilor care obțin o proporție deosebit de mare din veniturile sau profiturile lor din exploatare de pe urma comunicațiilor în interiorul UE sau ale căror marje naționale sunt scăzute în raport cu criteriile de referință ale sectorului. Ca urmare a comprimării marjei în ceea ce privește comunicațiile în interiorul UE reglementate, furnizorul ar putea să nu fie în măsură să-și mențină modelul intern de prețuri. Asemenea scenarii sunt foarte puțin posibil să intervină întrucât prețurile maxime se situează în mod clar deasupra costurilor pentru furnizarea de comunicații în interiorul UE. Cu toate acestea, pentru a aborda astfel de scenarii excepționale în mod proporțional, ANR-urile ar trebui să poată acorda, la cerere, o derogare unui furnizor în cazuri justificate și excepționale.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_49",
+   "kind": "recital",
+   "number": "49",
+   "label": "(49)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Orice derogare ar trebui acordată numai în cazul în care un furnizor poate demonstra, în raport cu un criteriu de referință relevant stabilit de OAREC, că este afectat într-o măsură mult mai mare decât majoritatea celorlalți furnizori din Uniune și în cazul în care acest impact ar slăbi în mod semnificativ capacitatea furnizorului de a-și menține modelul tarifar pentru comunicațiile naționale. Atunci când o ANR acordă o derogare, aceasta ar trebui să determine nivelul prețului maxim pe care furnizorul l-ar putea aplica pentru comunicațiile în interiorul UE reglementate și care i-ar permite să mențină un nivel competitiv al prețurilor pentru comunicațiile naționale. Orice astfel de derogare ar trebui să fie limitată la un an și să poată fi reînnoită în cazul în care furnizorul demonstrează că sunt îndeplinite în continuare condițiile pentru acordarea derogării.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_50",
+   "kind": "recital",
+   "number": "50",
+   "label": "(50)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Având în vedere principiul proporționalității, aplicabilitatea plafonului tarifar pentru comunicațiile în interiorul UE reglementate ar trebui să fie limitată în timp și ar trebui să expire la cinci ani după intrarea sa în vigoare. O astfel de durată limitată ar trebui să permită o evaluare adecvată a efectelor măsurilor și să aprecieze în ce măsură există o nevoie continuă de a proteja consumatorii.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_51",
+   "kind": "recital",
+   "number": "51",
+   "label": "(51)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Pentru a asigura o protecție uniformă, în timp util și cât mai eficace la nivelul Uniunii a consumatorilor afectați negativ de diferențele semnificative de preț ale comunicațiilor în interiorul UE, dispozițiile respective ar trebui să fie direct aplicabile și să fie incluse într-un regulament. Cel mai potrivit act în acest scop este Regulamentul (UE) 2015/2120, care a fost adoptat în urma unei evaluări de impact, care a propus, printre altele, o dispoziție privind comunicațiile în interiorul UE ca modalitate necesară de finalizare a pieței interne a comunicațiilor electronice. Impactul posibil asupra veniturilor furnizorilor generate din furnizarea de servicii de comunicații în interiorul UE este atenuat și mai mult de aplicarea eurotarifului de roaming pentru comunicațiile de voce și a eurotarifului de roaming pentru SMS ca plafoane atât pentru comunicațiile fixe, cât și pentru cele mobile, reprezentând un instrument de siguranță; precum și prin intermediul dovezilor prezentate în analiza din 2018 a OAREC referitoare la o reducere considerabilă a volumelor relevante de trafic în rețea fixă, afectate de măsura în cauză în perioada de intervenție. Dispozițiile respective ar trebui, prin urmare, să fie introduse prin modificarea Regulamentului (UE) 2015/2120, care ar trebui, de asemenea, să fie adaptat pentru a garanta că statele membre adoptă regimul sancțiunilor aplicabile pentru încălcarea dispozițiilor respective.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_52",
+   "kind": "recital",
+   "number": "52",
+   "label": "(52)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Întrucât obiectivele prezentului regulament, și anume asigurarea punerii în aplicare uniformă a cadrului de reglementare pentru comunicațiile electronice, în special în ceea ce privește aspectele transfrontaliere și prin proceduri eficiente legate de piața internă pentru proiectele de măsuri naționale, precum și garantarea faptului că nu sunt impuse consumatorilor prețuri excesive pentru comunicațiile interpersonale bazate pe numere efectuate din statul membru al furnizorului național al consumatorului către orice număr fix sau mobil din alt stat membru, nu pot fi realizate în mod satisfăcător de către statele membre, dar, având în vedere amploarea și efectele acțiunii, acestea pot fi realizate mai bine la nivelul Uniunii, Uniunea poate adopta măsuri în conformitate cu principiul subsidiarității, astfel cum este prevăzut la articolul 5 din Tratatul privind Uniunea Europeană. În conformitate cu principiul proporționalității, astfel cum este enunțat la articolul respectiv, prezentul regulament nu depășește ceea ce este necesar pentru atingerea acestor obiective.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_53",
+   "kind": "recital",
+   "number": "53",
+   "label": "(53)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Prezentul regulament modifică și extinde domeniul de aplicare a Regulamentului (CE) nr. 1211/2009. Deoarece modificările care urmează a fi aduse sunt substanțiale, din motive de claritate, actul respectiv ar trebui abrogat. Trimiterile la regulamentul abrogat ar trebui interpretate ca trimiteri la prezentul regulament,",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_1",
+   "kind": "article",
+   "number": "1",
+   "label": "Articolul 1",
+   "title": "Obiect și domeniu de aplicare",
+   "path": [
+    "CAPITOLUL I — OBIECT ȘI DOMENIU DE APLICARE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Prezentul regulament instituie Organismul Autorităților Europene de Reglementare în Domeniul Comunicațiilor Electronice (OAREC) și Agenția de sprijin pentru OAREC („Oficiul OAREC”).",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) OAREC și, respectiv, Oficiul OAREC înlocuiesc și succed Organismului Autorităților Europene de Reglementare în Domeniul Comunicațiilor Electronice și, respectiv, Oficiului, înființate prin Regulamentul (CE) nr. 1211/2009.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_2",
+   "kind": "article",
+   "number": "2",
+   "label": "Articolul 2",
+   "title": "Personalitatea juridică a Oficiului OAREC",
+   "path": [
+    "CAPITOLUL I — OBIECT ȘI DOMENIU DE APLICARE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Oficiul OAREC reprezintă un organ al Uniunii. Acesta are personalitate juridică.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) În fiecare stat membru, Oficiul OAREC beneficiază de cea mai extinsă capacitate juridică recunoscută persoanelor juridice în temeiul dreptului intern. Acesta are, în special, posibilitatea să achiziționeze sau să înstrăineze bunuri mobile și imobile și să se constituie parte în instanță.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Oficiul OAREC este reprezentat de directorul său.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Oficiul OAREC are responsabilitate exclusivă pentru sarcinile și competențele care i-au fost atribuite.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Oficiul OAREC are sediul la Riga.",
+     "para": "",
+     "point": "5"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_3",
+   "kind": "article",
+   "number": "3",
+   "label": "Articolul 3",
+   "title": "Obiectivele OAREC",
+   "path": [
+    "CAPITOLUL II — OBIECTIVELE ȘI ATRIBUȚIILE OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Activitatea OAREC se înscrie în domeniul de aplicare al Regulamentelor (UE) nr. 531/2012 și (UE) nr. 2015/2120 și al Directivei (UE) 2018/1972.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) OAREC urmărește obiectivele prevăzute la articolul 3 din Directiva (UE) 2018/1972. În special, OAREC asigură punerea în aplicare uniformă a cadrului de reglementare pentru comunicațiile electronice care intră în domeniul de aplicare menționat la alineatul (1) din prezentul articol.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) OAREC își îndeplinește sarcinile în mod independent, imparțial, transparent și în timp util.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) OAREC recurge la cunoștințele de specialitate disponibile la nivelul autorităților naționale de reglementare („ANR-uri”).",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) În conformitate cu articolul 9 alineatul (3) din Directiva (UE) 2018/1972, fiecare stat membru se asigură că ANR-urile sale au posibilitatea de a participa pe deplin la activitatea organelor structurale ale OAREC.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) În statele membre în care există mai mult de o ANR responsabilă în temeiul Directivei (UE) 2018/1972, respectivele ANR-uri se coordonează în funcție de necesități.",
+     "para": "",
+     "point": "6"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_4",
+   "kind": "article",
+   "number": "4",
+   "label": "Articolul 4",
+   "title": "Atribuțiile de reglementare ale OAREC",
+   "path": [
+    "CAPITOLUL II — OBIECTIVELE ȘI ATRIBUȚIILE OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "(1) OAREC îi revin următoarele atribuții de reglementare:",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(a) să acorde asistență și consiliere ANR-urilor, Parlamentului European, Consiliului și Comisiei și să coopereze cu ANR-urile și cu Comisia, la cerere sau din proprie inițiativă, cu privire la orice problemă de natură tehnică privind comunicațiile electronice, în limitele sferei sale de competență;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(b) să acorde asistență și consiliere Comisiei, la cerere, în legătură cu pregătirea propunerilor legislative în domeniul comunicațiilor electronice, inclusiv în privința oricărei propuneri de modificare a prezentului regulament sau a Directivei (UE) 2018/1972;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(c) să emită avize, astfel cum este prevăzut în Regulamentul (UE) nr. 531/2012 și în Directiva (UE) 2018/1972, în special privind: (i) soluționarea litigiilor transfrontaliere, în conformitate cu articolul 27 din Directiva (UE) 2018/1972; (ii) proiectele de măsuri naționale referitoare la procedurile de reglementare a pieței privind piața internă, în conformitate cu articolele 32, 33 și 68 din Directiva (UE) 2018/1972; (iii) proiectele de decizii și recomandări referitoare la armonizare, în conformitate cu articolele 38 și 93 din Directiva (UE) 2018/1972; (iv) conectivitatea cap la cap eficace între utilizatorii finali, în conformitate cu articolul 61 alineatul (2) din Directiva (UE) 2018/1972; (v) stabilirea unui tarif maxim unic la nivelul Uniunii de terminare a apelurilor de voce în rețelele mobile și a unui tarif maxim unic la nivelul Uniunii de terminare a apelurilor de voce în rețelele fixe, în conformitate cu articolul 75 din Directiva (UE) 2018/1972; (vi) modelul de fișă de sinteză a contractului, în conformitate cu articolul 102 din Directiva (UE) 2018/1972; (vii) punerea în aplicare la nivel național și funcționarea autorizației generale, precum și impactul acestora asupra funcționării pieței interne în conformitate cu articolul 122 alineatul (3) din Directiva (UE) 2018/1972; (viii) după caz, evoluțiile pieței și evoluțiile tehnologice cu privire la diferitele tipuri de servicii de comunicații electronice și impactul acestora asupra punerii în aplicare a titlului III partea III din Directiva (UE) 2018/1972, în conformitate cu articolul 123 alineatul (1) din respectiva directivă;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(d) să emită orientări cu privire la punerea în aplicare a cadrului de reglementare al Uniunii pentru comunicațiile electronice, în special, astfel cum este prevăzut în Regulamentele (UE) nr. 531/2012 și (UE) 2015/2120 și în Directiva (UE) 2018/1972, în ceea ce privește: (i) modelul de notificare, în conformitate cu articolul 12 din Directiva (UE) 2018/1972; (ii) punerea în aplicare uniformă a obligațiilor în ceea ce privește anchetele geografice și previziunile, în conformitate cu articolul 22 din Directiva (UE) 2018/1972; (iii) criteriile relevante pentru promovarea aplicării uniforme a articolului 61 alineatul (3) din Directiva (UE) 2018/1972; (iv) abordări comune în ceea ce privește identificarea punctului terminus al rețelei în diferite topologii de rețea, în conformitate cu articolul 61 alineatul (7) din Directiva (UE) 2018/1972; (v) abordări comune pentru a răspunde cererii transnaționale a utilizatorilor finali, în conformitate cu articolul 66 din Directiva (UE) 2018/1972; (vi) criteriile minime pentru o ofertă de referință, în conformitate cu articolul 69 din Directiva (UE) 2018/1972; (vii) promovarea aplicării uniforme de către ANR-uri a condițiilor stabilite la articolul 76 alineatul (1) din Directiva (UE) 2018/1972 și a criteriilor stabilite în anexa IV la directiva menționată; (viii) criteriile pentru ca o rețea să fie considerată o rețea de foarte mare capacitate, în conformitate cu articolul 82 din Directiva (UE) 2018/1972; (ix) criteriile comune pentru evaluarea capacității de gestionare a resurselor de numerotație și a riscului de epuizare a resurselor de numerotație, în conformitate cu articolul 93 din Directiva (UE) 2018/1972; (x) parametrii relevanți privind calitatea serviciului, metodele de măsurare aplicabile, conținutul și forma de publicare a informațiilor și mecanismele de certificare a calității, în conformitate cu articolul 104 din Directiva (UE) 2018/1972; (xi) modalitatea prin care se evaluează dacă eficacitatea sistemelor de avertizare publică în temeiul articolului 110 alineatul (2) din Directiva (UE) 2018/1972 este echivalentă cu eficacitatea celor prevăzute la alineatul (1) de la articolul menționat; (xii) accesul cu ridicata pentru serviciile de roaming, în conformitate cu articolul 3 alineatul (8) din Regulamentul (UE) nr. 531/2012; (xiii) punerea în aplicare a obligațiilor ANR-urilor în ceea ce privește accesul la internetul deschis, în conformitate cu articolul 5 alineatul (3) din Regulamentul (UE) 2015/2120; (xiv) parametrii pe care ANR-urile trebuie să îi ia în considerare la evaluarea sustenabilității modelului național de tarifare, în conformitate cu articolul 5a alineatul (6) din Regulamentul (UE) 2015/2120;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(e) să emită alte orientări care să asigure punerea în aplicare uniformă a cadrului de reglementare pentru comunicațiile electronice și coerența deciziilor de reglementare adoptate de ANR-uri, din proprie inițiativă sau la cererea unei ANR, a Parlamentului European, a Consiliului sau a Comisiei, în special în cazul chestiunilor de reglementare care afectează un număr semnificativ de state membre sau care prezintă un aspect transfrontalier;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(f) acolo unde este cazul, să participe la Forumul de evaluare inter pares cu privire la proiectele de măsuri referitoare la procedurile de selecție, în conformitate cu articolul 35 din Directiva (UE) 2018/1972;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(g) să participe la aspectele care sunt de competența sa în materie de reglementare a pieței și de concurență în materie de spectru radio, în conformitate cu articolul 4 din Directiva (UE) 2018/1972;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(h) să efectueze analize ale piețelor transnaționale potențiale în conformitate cu articolul 65 din Directiva (UE) 2018/1972 și ale cererii transnaționale a utilizatorilor finali, în conformitate cu articolul 66 din directiva menționată;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(i) să monitorizeze și să colecteze informații și, dacă este cazul, să facă publice informații actualizate cu privire la aplicarea Regulamentului (UE) nr. 531/2012, în conformitate cu articolele 16 și 19 din respectivul regulament;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(j) să prezinte rapoarte privind aspectele tehnice care intră în sfera sa de competență, în special privind: (i) aplicarea practică a avizelor și a orientărilor menționate la literele (c), (d) și (e); (ii) cele mai bune practici ale statelor membre în ceea ce privește definirea serviciului de acces adecvat la internet în bandă largă în conformitate cu articolul 84 din Directiva (UE) 2018/1972; (iii) evoluția tiparelor de stabilire a prețurilor și de consum, atât pentru servicii naționale, cât și pentru servicii de roaming, evoluția tarifelor efective de roaming cu ridicata pentru traficul dezechilibrat, relația dintre tarifele cu amănuntul, tarifele cu ridicata și costurile de gros pentru serviciile de roaming, precum și transparența și comparabilitatea tarifelor, în conformitate cu articolul 19 din Regulamentul (UE) nr. 531/2012; (iv) rezultatele rapoartelor anuale pe care ANR-urile le furnizează în conformitate cu articolul 5 din Regulamentul (UE) 2015/2120, prin publicarea unui raport anual de sinteză; (v) evoluțiile pieței în sectorul comunicațiilor electronice, în mod anual;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(k) să emită recomandări și poziții comune și să disemineze bunele practici în materie de reglementare adresate ANR-urilor, pentru a încuraja punerea în aplicare uniformă și mai bună a cadrului de reglementare pentru comunicațiile electronice;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(l) crearea și menținerea unei baze de date a: (i) notificărilor transmise autorităților competente de către întreprinderile care fac obiectul unei autorizații generale în conformitate cu articolul 12 din Directiva (UE) 2018/1972; (ii) resurselor de numerotație cu drept de utilizare extrateritorială în interiorul Uniunii, în conformitate cu articolul 93 alineatul (4) al patrulea paragraf din Directiva (UE) 2018/1972; (iii) după caz, a numerelor E.164 ale serviciilor de urgență ale statelor membre, în conformitate cu articolul 109 alineatul (8) al treilea paragraf din Directiva (UE) 2018/1972;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(m) să evalueze necesitatea de inovare în materie de reglementare și să coordoneze acțiunile între ANR-uri pentru a permite dezvoltarea unor servicii de comunicații electronice noi și inovatoare;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(n) să promoveze modernizarea, coordonarea și armonizarea colectării de date de către ANR-uri, astfel de date fiind puse la dispoziția publicului într-un format deschis, reutilizabil și care poate fi citit de calculator pe site-ul internet al OAREC și pe Portalul european de date, fără a se aduce atingere drepturilor de proprietate intelectuală, normelor privind protecția datelor cu caracter personal și nivelului necesar de confidențialitate;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(o) să îndeplinească alte sarcini care îi sunt atribuite prin acte juridice ale Uniunii, în special prin Regulamentele (UE) nr. 531/2012 și (UE) 2015/2120 și prin Directiva (UE) 2018/1972.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(2) OAREC face publice atribuțiile sale de reglementare și actualizează informațiile ori de câte ori îi sunt încredințate noi atribuții.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) OAREC face publice toate versiunile finale ale avizelor, orientărilor, rapoartelor, recomandărilor, pozițiilor comune și bunelor practici, și orice studiu comandat, precum și proiectele de documente relevante în scopul consultărilor publice menționate la alineatul (5).",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Fără a aduce atingere respectării dreptului Uniunii aplicabil, ANR-urile și Comisia țin seama în cea mai mare măsură de orice orientare, aviz, recomandare, poziție comună și bună practică adoptată de OAREC, cu scopul de a asigura o punere în aplicare uniformă a cadrului de reglementare pentru comunicațiile electronice, care intră în domeniul de aplicare menționat la articolul 3 alineatul (1). În cazul în care o ANR deviază de la orientările menționate la alineatul (1) litera (e), aceasta își motivează decizia.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Dacă este necesar, OAREC se consultă cu părțile interesate și le oferă ocazia de a prezenta observații într-o perioadă rezonabilă de timp, adecvată complexității chestiunii. Exceptând circumstanțele excepționale, această perioadă nu este mai scurtă de 30 de zile. OAREC face publice rezultatele unor astfel de consultări, fără a aduce atingere articolului 38. Aceste consultări au loc cât mai devreme posibil în procesul decizional.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) După caz, OAREC poate consulta autorități naționale relevante cum ar fi cele competente în domeniul concurenței, al protecției consumatorilor și al protecției datelor, și poate coopera cu acestea.",
+     "para": "",
+     "point": "6"
+    },
+    {
+     "text": "(7) După caz, OAREC poate coopera cu organe, oficii, agenții și grupuri consultative competente ale Uniunii, precum și cu autoritățile competente din țări terțe și cu organizații internaționale, în conformitate cu articolul 35 alineatul (1).",
+     "para": "",
+     "point": "7"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_5",
+   "kind": "article",
+   "number": "5",
+   "label": "Articolul 5",
+   "title": "Atribuțiile Oficiului OAREC",
+   "path": [
+    "CAPITOLUL III — ATRIBUȚIILE OFICIULUI OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "Oficiului OAREC îi revin următoarele atribuții:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(a) de a furniza servicii de asistență profesională și administrativă către OAREC, în special în vederea îndeplinirii atribuțiilor sale de reglementare în temeiul articolului 4;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(b) de a colecta informații de la ANR-uri, de a face schimb de informații în legătură cu atribuțiile de reglementare ale OAREC menționate la articolul 4 și de a transmite aceste informații;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(c) de a redacta, pe baza informațiilor menționate la litera (b), proiecte de rapoarte periodice privind anumite aspecte ale evoluțiilor pieței europene a comunicațiilor electronice, ca, de exemplu, rapoarte privind roamingul și de evaluare comparativă, care urmează a fi transmise către OAREC;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(d) de a disemina bune practici în materie de reglementare în rândul ANR-urilor în conformitate cu articolul 4 alineatul (1) litera (k);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(e) de a sprijini OAREC să creeze și să mențină registre și baze de date în conformitate cu articolul 4 alineatul (2) litera (l);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(f) de a sprijini OAREC să creeze și să gestioneze un sistem de informare și comunicare în conformitate cu articolul 41;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(g) de a sprijini OAREC la desfășurarea consultărilor publice, în conformitate cu articolul 4 alineatul (5);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(h) de a contribui la pregătirea lucrărilor Consiliului autorităților de reglementare și de a oferi alt sprijin administrativ și cu privire la conținut pentru a asigura buna funcționare a acestuia;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(i) de a acorda asistență pentru înființarea grupurilor de lucru, la cererea Consiliului autorităților de reglementare, de a contribui la activitatea de reglementare și de a oferi sprijinul administrativ necesar în vederea asigurării bunei funcționări a acestor grupuri;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(j) de a executa alte atribuții care îi revin prin prezentul regulament sau prin alte acte juridice ale Uniunii.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_6",
+   "kind": "article",
+   "number": "6",
+   "label": "Articolul 6",
+   "title": "Structura organizatorică a OAREC",
+   "path": [
+    "CAPITOLUL IV — ORGANIZAREA OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "OAREC este alcătuit din:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(a) un Consiliu al autorităților de reglementare;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(b) grupuri de lucru.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_7",
+   "kind": "article",
+   "number": "7",
+   "label": "Articolul 7",
+   "title": "Componența Consiliului autorităților de reglementare",
+   "path": [
+    "CAPITOLUL IV — ORGANIZAREA OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Consiliul autorităților de reglementare este compus din câte un membru din fiecare stat membru. Fiecare membru are drept de vot. Fiecare membru este desemnat de către ANR-ul care poartă responsabilitatea primară pentru supravegherea funcționării cotidiene a piețelor rețelelor și serviciilor de comunicații electronice în temeiul Directivei (UE) 2018/1972. Membrul respectiv este nominalizat dintre șeful ANR-ului, un membru al organismului său colectiv sau înlocuitorul oricăruia dintre aceștia.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Fiecare membru al Consiliului autorităților de reglementare are un supleant desemnat de către ANR. Supleantul reprezintă membrul atunci când acesta este absent. Supleantul respectiv este nominalizat dintre șeful ANR-ului, un membru al organismului său colectiv, înlocuitorul acestora sau personalul ANR-ului.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Membrii Consiliului autorităților de reglementare și supleanții acestora sunt nominalizați luând în considerare cunoștințele lor în domeniul comunicațiilor electronice, precum și competențele lor manageriale, administrative și bugetare relevante. Pentru a asigura continuitatea activității Consiliului autorităților de reglementare, toate ANR-urile care efectuează nominalizări depun eforturi pentru a limita rata de înlocuire a membrilor lor și, în măsura posibilităților, și a supleanților lor, și vizează obținerea unei reprezentări echilibrate a bărbaților și a femeilor în Consiliul autorităților de reglementare.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Comisia participă, fără drept de vot, la toate deliberările Consiliului autorităților de reglementare și este reprezentată la un nivel adecvat de înalt.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) O listă actualizată a membrilor Consiliului autorităților de reglementare și a supleanților acestora, însoțită de declarațiile lor de interese, este pusă la dispoziția publicului.",
+     "para": "",
+     "point": "5"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_8",
+   "kind": "article",
+   "number": "8",
+   "label": "Articolul 8",
+   "title": "Independența Consiliului autorităților de reglementare",
+   "path": [
+    "CAPITOLUL IV — ORGANIZAREA OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "(1) La executarea sarcinilor care i-au fost atribuite și fără a aduce atingere faptului că membrii săi acționează în numele propriului ANR, Consiliul autorităților de reglementare acționează independent și obiectiv în interesul Uniunii, indiferent de orice interes național sau personal specific.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Fără a aduce atingere coordonării, astfel cum se prevede la articolul 3 alineatul (6), membrii Consiliului autorităților de reglementare și supleanții acestora nu solicită și nici nu acceptă instrucțiuni de la niciun guvern, instituție, persoană sau organism.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_9",
+   "kind": "article",
+   "number": "9",
+   "label": "Articolul 9",
+   "title": "Funcțiile Consiliului autorităților de reglementare",
+   "path": [
+    "CAPITOLUL IV — ORGANIZAREA OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "Consiliul autorităților de reglementare are următoarele funcții:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(a) îndeplinește atribuțiile de reglementare ale OAREC prevăzute la articolul 4, mai precis adoptă avizele, orientările, rapoartele, recomandările și pozițiile comune și diseminează bunele practici menționate la respectivul articol; bazându-se, în acest sens, pe activitatea de pregătire desfășurată de grupurile de lucru;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(b) ia decizii administrative legate de organizarea activității OAREC;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(c) adoptă programul anual de activitate al OAREC, menționat la articolul 21;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(d) adoptă raportul anual de activitate al OAREC, menționat la articolul 22;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(e) adoptă norme de prevenire și de gestionare a conflictelor de interese, astfel cum se prevede la articolul 42, precum și în ceea ce privește membrii grupurilor de lucru;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(f) adoptă normele detaliate privind dreptul de acces la documentele deținute de OAREC în conformitate cu articolul 36;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(g) adoptă și actualizează periodic planurile de comunicare și diseminare astfel cum se menționează la articolul 37 alineatul (2), pe baza unei analize a nevoilor;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(h) adoptă, hotărând cu o majoritate de două treimi din totalul membrilor săi, și face public regulamentul său de procedură;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(i) autorizează, împreună cu directorul, încheierea unor acorduri de lucru cu organele, oficiile, agențiile și grupurile consultative competente ale Uniunii, precum și cu autoritățile competente din țări terțe și cu organizații internaționale, în conformitate cu articolul 35;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(j) înființează grupuri de lucru și numește președinții acestora;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(k) oferă directorului Oficiului OAREC orientări în ceea ce privește îndeplinirea atribuțiilor Oficiului OAREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_10",
+   "kind": "article",
+   "number": "10",
+   "label": "Articolul 10",
+   "title": "Președintele și vicepreședinții Consiliului autorităților de reglementare",
+   "path": [
+    "CAPITOLUL IV — ORGANIZAREA OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Consiliul autorităților de reglementare numește, hotărând cu o majoritate de două treimi din totalul membrilor săi, un președinte și cel puțin doi vicepreședinți din rândul membrilor săi.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Unul dintre vicepreședinți preia automat atribuțiile președintelui dacă acesta din urmă se află în imposibilitatea de a-și exercita atribuțiile.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Mandatul președintelui este de un an, reînnoibil o singură dată. Pentru a asigura continuitatea activității OAREC, următorul președinte deține, dacă este posibil, funcția de vicepreședinte timp de un an înainte de începerea mandatului său de președinte. În situațiile în care nu este posibil ca următorul președinte să dețină funcția de vicepreședinte timp de un an înainte de începerea mandatului său, se prevede un termen mai scurt prin regulamentul de procedură.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Fără a aduce atingere rolului Consiliului autorităților de reglementare în raport cu sarcinile președintelui, președintele nu solicită și nu acceptă instrucțiuni din partea niciunui guvern, instituții, persoane sau organism.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Președintele prezintă Parlamentului European și Consiliului un raport privind modul în care au fost îndeplinite sarcinile OAREC, atunci când este invitat să facă acest lucru.",
+     "para": "",
+     "point": "5"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_11",
+   "kind": "article",
+   "number": "11",
+   "label": "Articolul 11",
+   "title": "Reuniunile Consiliului autorităților de reglementare",
+   "path": [
+    "CAPITOLUL IV — ORGANIZAREA OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Președintele convoacă reuniunile Consiliului autorităților de reglementare și stabilește și publică ordinea de zi a respectivelor reuniuni.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Consiliul autorităților de reglementare se reunește în ședință ordinară de cel puțin două ori pe an. Reuniunile extraordinare sunt convocate la inițiativa președintelui, la solicitarea a cel puțin trei membri sau la solicitarea Comisiei.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Directorul Oficiului OAREC participă la toate deliberările, fără a avea drept de vot.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Consiliul autorităților de reglementare poate invita să participe la reuniunile sale, în calitate de observator, orice persoană a cărei opinie poate fi de interes pentru acesta.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Membrii și supleanții Consiliului autorităților de reglementare pot, sub rezerva regulamentului propriu de procedură, să fie asistați, la reuniuni, de consilierii lor sau de alți experți.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) Oficiul OAREC asigură secretariatul Consiliului autorităților de reglementare.",
+     "para": "",
+     "point": "6"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_12",
+   "kind": "article",
+   "number": "12",
+   "label": "Articolul 12",
+   "title": "Regulile de vot ale Consiliului autorităților de reglementare",
+   "path": [
+    "CAPITOLUL IV — ORGANIZAREA OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Consiliul autorităților de reglementare adoptă decizii cu majoritatea simplă a membrilor săi, cu excepția cazului în care se prevede altfel în prezentul regulament sau în alt act juridic al Uniunii. O majoritate de două treimi din membrii Consiliului autorităților de reglementare este necesară pentru avizele menționate la articolul 4 alineatul (1) litera (c) punctele (ii) și (v) și orientările menționate la articolul 4 alineatul (1) litera (d) punctele (i)-(iv), (vi), (vii) și (x). În pofida celui de al doilea paragraf de la prezentul alineat, Consiliul autorităților de reglementare poate decide, cu majoritate simplă și în fiecare caz în parte, să adopte cu majoritate simplă avizele menționate la articolul 4 alineatul (1) litera (c) punctul (ii) din prezentul regulament, referitoare la proiectele de măsuri care intră sub incidența articolului 76 alineatul (2) din Directiva (UE) 2018/1972, care conduc la lansarea procedurii prevăzute la articolul 33 alineatul (5) din directiva menționată. Deciziile Consiliului autorităților de reglementare se publică și, la solicitarea oricărui membru, conțin rezervele formulate de acesta.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Fiecare membru dispune de un singur vot. Dacă un membru este absent, supleantul său poate exercita dreptul de vot al acestuia. În absența unui membru și a supleantului său, drepturile de vot pot fi delegate unui alt membru. Președintele poate delega dreptul de vot în orice situație. Președintele ia parte la vot, cu excepția cazului în care și-a delegat drepturile de vot.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Regulamentul de procedură al Consiliului autorităților de reglementare stabilește în detaliu dispozițiile care reglementează votarea, inclusiv condițiile în care un membru poate acționa în numele altui membru, cvorumul și termenele de notificare a reuniunilor. În plus, regulamentul de procedură asigură faptul că membrii Consiliului autorităților de reglementare primesc ordinea de zi și proiectele de propuneri complete înaintea fiecărei reuniuni, astfel încât să aibă posibilitatea de a propune amendamente înaintea votării. Regulamentul de procedură poate stabili, printre altele, o procedură privind votul în regim de urgență și alte măsuri practice pentru funcționarea Consiliului autorităților de reglementare.",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_13",
+   "kind": "article",
+   "number": "13",
+   "label": "Articolul 13",
+   "title": "Grupurile de lucru",
+   "path": [
+    "CAPITOLUL IV — ORGANIZAREA OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Atunci când acest lucru se justifică, în special pentru punerea în aplicare a programului anual de activitate al OAREC, Consiliul autorităților de reglementare poate înființa grupuri de lucru.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Consiliul autorităților de reglementare numește președinții grupurilor de lucru care reprezintă, acolo unde este posibil, diferite ANR-uri.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Grupurile de lucru sunt deschise participării experților din toate ANR-urile care iau parte la activitatea OAREC și a Comisiei. Grupurile de lucru sunt, de asemenea, deschise participării personalului Oficiului OAREC, care contribuie la lucrările în materie de reglementare ale grupurilor de lucru și le oferă acestora sprijin administrativ. Experții din partea Comisiei nu participă în cazul grupurilor de lucru care sunt înființate pentru a îndeplini sarcinile menționate la articolul 4 alineatul (1) litera (c) punctul (ii). În cadrul grupurilor de lucru care sunt înființate pentru a îndeplini atribuțiile prevăzute la articolul 4 alineatul (1) litera (c) punctele (iv), (vi), (vii) și (viii), litera (d) punctele (i), (ii), (ix), (x) și (xi), litera (j) punctul (ii) și, respectiv, la litera (l) din prezentul regulament, precum și, dacă este cazul, la articolul 4 alineatul (1) litera (c) punctul (iii) și la litera (j) punctul (i) din prezentul regulament, sunt luate în considerare punctele de vedere ale experților din cadrul altor autorități competente notificate în temeiul articolului 5 alineatul (4) din Directiva (UE) 2018/1972. De la caz la caz, dacă este necesar, Consiliul autorităților de reglementare sau președinții grupurilor de lucru pot invita să participe la reuniunile grupurilor de lucru anumiți experți a căror competență în domeniul relevant este recunoscută.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Consiliul autorităților de reglementare adoptă regulamentul de procedură care stabilește modalitățile practice de funcționare a grupurilor de lucru.",
+     "para": "",
+     "point": "4"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_14",
+   "kind": "article",
+   "number": "14",
+   "label": "Articolul 14",
+   "title": "Structura organizatorică a Oficiului OAREC",
+   "path": [
+    "CAPITOLUL V — ORGANIZAREA OFICIULUI OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "Oficiul OAREC este alcătuit dintr-un:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(a) Consiliu de administrație;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(b) director.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_15",
+   "kind": "article",
+   "number": "15",
+   "label": "Articolul 15",
+   "title": "Componența Consiliului de administrație",
+   "path": [
+    "CAPITOLUL V — ORGANIZAREA OFICIULUI OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Consiliul de administrație este format din persoane numite în calitatea de membri ai Consiliului autorităților de reglementare și dintr-un reprezentant la nivel înalt al Comisiei. Fiecare membru al Consiliului de administrație are drept de vot. Fiecare ANR împuternicită să facă numiri, astfel cum este menționată la articolul 7 alineatul (1) al doilea paragraf, poate numi o altă persoană decât membrul Consiliului autorităților de reglementare în calitatea de membru al Consiliului de administrație. Persoana respectivă este șeful ANR, un membru al organismului său colectiv sau înlocuitorul oricăruia dintre aceștia.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Fiecare membru al Consiliului de administrație are un supleant care îl reprezintă în caz de absență. Supleanții fiecărui membru sunt persoanele numite în calitatea de supleanți ai membrilor Consiliului autorităților de reglementare. Reprezentantul Comisiei are de asemenea un supleant. Fiecare ANR împuternicită să facă numiri, astfel cum este menționată la articolul 7 alineatul (1) al doilea paragraf, poate numi o altă persoană decât supleantul membrului Consiliului autorităților de reglementare în calitatea de supleant al membrului Consiliului de administrație. Persoana respectivă este șeful ANR-ului, un membru al organismului său colectiv, înlocuitorul oricăruia dintre aceștia sau un membru al personalului ANR-ului.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Membrii și supleanții din cadrul Consiliului de administrație nu solicită și nici nu acceptă instrucțiuni de la niciun guvern, instituție, persoană sau organism.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Lista actualizată a membrilor Consiliului de administrație, inclusiv a supleanților acestora, însoțită de declarațiile lor de interese, se publică.",
+     "para": "",
+     "point": "4"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_16",
+   "kind": "article",
+   "number": "16",
+   "label": "Articolul 16",
+   "title": "Funcțiile administrative ale Consiliului de administrație",
+   "path": [
+    "CAPITOLUL V — ORGANIZAREA OFICIULUI OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Consiliului de administrație îi revin următoarele funcții administrative:",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(a) oferă orientările generale pentru activitățile Oficiului OAREC și adoptă anual documentul unic de programare al Oficiului OAREC, cu o majoritate de două treimi dintre membrii săi, ținând cont de avizul Comisiei și în conformitate cu articolul 23;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(b) adoptă, cu o majoritate de două treimi dintre membrii săi, bugetul anual al Oficiului OAREC și exercită alte funcții în ceea ce privește bugetul Oficiului OAREC, în temeiul dispozițiilor capitolului VII;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(c) adoptă, publică și dă curs evaluării raportului anual de activitate consolidat privind activitățile Oficiului OAREC, menționat la articolul 27, și transmite atât raportul, cât și evaluarea acestuia, până la data de 1 iulie a fiecărui an, Parlamentului European, Consiliului, Comisiei și Curții de Conturi;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(d) adoptă normele financiare aplicabile Oficiului OAREC în conformitate cu articolul 29;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(e) adoptă o strategie antifraudă proporțională cu riscurile de fraudă, ținând seama de costurile și de beneficiile măsurilor care urmează să fie puse în aplicare;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(f) se asigură că se dă curs în mod adecvat concluziilor și recomandărilor care decurg din rapoartele de audit și evaluările interne sau externe, precum și din investigațiile efectuate de Oficiul European de Luptă Antifraudă (OLAF);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(g) adoptă norme de prevenire și de gestionare a conflictelor de interese, astfel cum se prevede la articolul 42 alineatul (3);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(h) adoptă și actualizează periodic planurile de comunicare și diseminare menționate la articolul 37 alineatul (2), pe baza unei analize a nevoilor;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(i) adoptă regulamentul său de procedură;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(j) adoptă normele de punere în aplicare pentru punerea în practică a Statutului funcționarilor Uniunii Europene și a Regimului aplicabil celorlalți agenți ai Uniunii Europene, în conformitate cu articolul 110 din Statutul funcționarilor;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(k) fără a aduce atingere deciziei menționate la alineatul (2) primul paragraf, exercită, în ceea ce privește personalul Oficiului OAREC, competențele de autoritate împuternicită să facă numiri conferite prin Statutul funcționarilor și competențele de autoritate abilitată să încheie contracte de muncă conferite prin Regimul aplicabil celorlalți agenți („competențe de autoritate împuternicită să facă numiri”);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(l) numește directorul și, după caz, îi prelungește mandatul sau îl demite din funcție, în conformitate cu articolul 32;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(m) numește un contabil, căruia i se aplică Statutul funcționarilor și Regimul aplicabil celorlalți agenți și care este complet independent în îndeplinirea atribuțiilor sale;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(n) ia toate deciziile privind instituirea structurilor interne ale Oficiului OAREC și, dacă este necesar, privind modificarea acestora, luând în considerare nevoile de activitate ale Oficiului OAREC și având în vedere buna gestiune bugetară. În ceea ce privește litera (m) de la primul paragraf, Oficiul OAREC poate numi același contabil ca cel al unui alt organ sau unei alte instituții a Uniunii. În special, Oficiul OAREC și Comisia pot conveni ca contabilul Comisiei să acționeze și în calitatea de contabil al Oficiului OAREC.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(2) Consiliul de administrație adoptă, în conformitate cu articolul 110 din Statutul funcționarilor, o decizie în baza articolului 2 alineatul (1) din Statutul funcționarilor și a articolului 6 din Regimul aplicabil celorlalți agenți, prin care competențele relevante de autoritate împuternicită să facă numiri sunt delegate directorului și în care sunt precizate condițiile în care această delegare de competențe poate fi suspendată. Directorul este autorizat să subdelege aceste competențe. În cazul în care împrejurări excepționale impun acest lucru, Consiliul de administrație poate, printr-o decizie, să suspende temporar delegarea competențelor de autoritate împuternicită să facă numiri către director și a competențelor subdelegate de către acesta și să le exercite el însuși sau să le delege unuia dintre membrii săi ori unui alt membru al personalului decât directorul.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_17",
+   "kind": "article",
+   "number": "17",
+   "label": "Articolul 17",
+   "title": "Președintele și vicepreședinții Consiliului de administrație",
+   "path": [
+    "CAPITOLUL V — ORGANIZAREA OFICIULUI OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Președintele și vicepreședinții Consiliului de administrație sunt persoanele numite în calitate de președinte și vicepreședinți ai Consiliului autorităților de reglementare. Se aplică aceeași durată a mandatului. Prin derogare de la primul paragraf, Consiliul de administrație poate, cu o majoritate de două treimi din membrii săi, să aleagă alți membri ai Consiliului de administrație în calitatea de președinte sau de vicepreședinte/vicepreședinți, din rândul membrilor acestuia care reprezintă statele membre. Mandatele acestora sunt aceleași ca cel al președintelui și cele ale vicepreședinților Consiliului autorităților de reglementare.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Unul dintre vicepreședinți preia automat atribuțiile președintelui dacă acesta din urmă se află în imposibilitatea de a și le exercita.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Președintele Consiliului de administrație prezintă Parlamentului European și Consiliului un raport privind modul în care Oficiul OAREC și-a îndeplinit sarcinile, atunci când este invitat să facă acest lucru.",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_18",
+   "kind": "article",
+   "number": "18",
+   "label": "Articolul 18",
+   "title": "Ședințele Consiliului de administrație",
+   "path": [
+    "CAPITOLUL V — ORGANIZAREA OFICIULUI OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Președintele convoacă ședințele Consiliului de administrație.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Directorul Oficiului OAREC participă la toate deliberările, cu excepția celor legate de articolul 32, fără a avea drept de vot.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Consiliul de administrație se reunește în ședință ordinară de cel puțin două ori pe an. În plus, președintele convoacă ședințe extraordinare din proprie inițiativă, la solicitarea Comisiei sau la solicitarea a cel puțin trei dintre membrii săi.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Consiliul de administrație poate invita să participe la ședințele sale, în calitate de observator, orice persoană a cărei opinie poate fi de interes.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Membrii Consiliului de administrație și supleanții acestora pot, sub rezerva regulamentului propriu de procedură, să fie asistați, la ședințe, de consultanți sau de experți.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) Oficiul OAREC asigură secretariatul Consiliului de administrație.",
+     "para": "",
+     "point": "6"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_19",
+   "kind": "article",
+   "number": "19",
+   "label": "Articolul 19",
+   "title": "Regulile de vot ale Consiliului de administrație",
+   "path": [
+    "CAPITOLUL V — ORGANIZAREA OFICIULUI OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Consiliul de administrație adoptă decizii cu o majoritate simplă a membrilor săi, cu excepția cazului când se prevede altfel în prezentul regulament.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Fiecare membru dispune de un singur vot. În absența unui membru, supleantul său poate exercita dreptul de vot al acestuia. În absența unui membru și a supleantului său, drepturile de vot pot fi delegate unui alt membru.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Președintele poate delega dreptul de vot în orice situație. Președintele ia parte la vot, cu excepția cazului în care și-a delegat drepturile de vot.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Regulamentul de procedură al Consiliului de administrație stabilește modalități de vot mai detaliate, în special procedura de vot în regim de urgență și condițiile în care un membru poate acționa în numele unui alt membru.",
+     "para": "",
+     "point": "4"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_20",
+   "kind": "article",
+   "number": "20",
+   "label": "Articolul 20",
+   "title": "Responsabilitățile directorului",
+   "path": [
+    "CAPITOLUL V — ORGANIZAREA OFICIULUI OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Directorul este însărcinat cu gestionarea administrativă a Oficiului OAREC. Directorul răspunde în fața Consiliului de administrație.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Directorul îi asistă pe președintele Consiliului autorităților de reglementare și pe președintele Consiliului de administrație la pregătirea ședințelor organismelor lor respective.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Fără a aduce atingere competențelor Consiliului autorităților de reglementare, ale Consiliului de administrație și ale Comisiei, directorul își îndeplinește atribuțiile în mod independent și nu solicită și nici nu acceptă instrucțiuni de la niciun guvern, instituție, persoană sau organism.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Directorul prezintă Parlamentului European și Consiliului un raport privind modul în care și-a îndeplinit atribuțiile, atunci când este invitat să facă acest lucru.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Directorul este reprezentantul legal al Oficiului OAREC.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) Directorul este responsabil de îndeplinirea atribuțiilor Oficiului OAREC și de respectarea orientărilor furnizate de Consiliul autorităților de reglementare și de Consiliul de administrație. În special, directorul este responsabil de:",
+     "para": "",
+     "point": "6"
+    },
+    {
+     "text": "(a) administrarea curentă a Oficiului OAREC;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(b) punerea în aplicare a deciziilor administrative adoptate de Consiliul autorităților de reglementare și de Consiliul de administrație;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(c) elaborarea și prezentarea către Consiliul de administrație a documentului unic de programare menționat la articolul 23;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(d) furnizarea de asistență Consiliului autorităților de reglementare la pregătirea raportului anual de activitate al OAREC, menționat la articolul 22;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(e) furnizarea de asistență Consiliului autorităților de reglementare la pregătirea programului anual de activitate al OAREC, menționat la articolul 21;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(f) punerea în aplicare a documentului unic de programare și prezentarea către Consiliul de administrație a unui raport cu privire la aceasta;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(g) elaborarea proiectului de raport anual consolidat privind activitățile Oficiului OAREC, astfel cum se menționează la articolul 27, și prezentarea acestuia Consiliului de administrație spre evaluare și adoptare;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(h) elaborarea unui plan de acțiune în urma concluziilor rapoartelor de audit, a evaluărilor interne sau externe și a investigațiilor desfășurate de OLAF, precum și prezentarea, cel puțin anuală, a unui raport privind progresele înregistrate către Consiliul de administrație;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(i) protejarea intereselor financiare ale Uniunii prin aplicarea de măsuri preventive de combatere a fraudei, a corupției și a oricăror alte activități ilegale, prin realizarea de controale eficace și, în cazul în care se constată nereguli, prin recuperarea sumelor plătite necuvenit și, după caz, prin măsuri concrete, proporționale și disuasive de natură administrativă, inclusiv prin sancțiuni financiare;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(j) elaborarea unei strategii antifraudă a Oficiului OAREC și prezentarea acesteia Consiliului de administrație spre aprobare;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(k) elaborarea proiectului de norme financiare aplicabile Oficiului OAREC;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(l) elaborarea proiectului de situație a estimărilor de venituri și cheltuieli ale Oficiului OAREC și execuția bugetului său;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(m) autorizarea, împreună cu Consiliul autorităților de reglementare, a încheierii unor acorduri de lucru cu organele, oficiile, agențiile și grupurile consultative competente ale Uniunii, precum și cu autoritățile competente din țări terțe și cu organizații internaționale, în conformitate cu articolul 35.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(7) Directorul, sub supravegherea Consiliului de administrație, ia toate măsurile necesare, în special în ceea ce privește adoptarea instrucțiunilor administrative interne și publicarea comunicărilor, pentru a garanta funcționarea Oficiului OAREC în conformitate cu prezentul regulament.",
+     "para": "",
+     "point": "7"
+    },
+    {
+     "text": "(8) Cu acordul prealabil al Comisiei, al Consiliului de administrație și al statului membru/statelor membre interesat(e), directorul decide cu privire la necesitatea detașării, în scopul îndeplinirii sarcinilor Oficiului OAREC într-un mod eficient și concret, a unuia sau mai multor membri ai personalului în unul sau mai multe state membre. Decizia respectivă precizează sfera activităților care urmează să fie efectuate, astfel încât să se evite costurile inutile și suprapunerea funcțiilor administrative ale Oficiului OAREC. Înaintea adoptării unei astfel de decizii, se stabilește impactul său în ceea ce privește alocarea de personal și bugetul în documentul de programare multianuală menționat la articolul 23 alineatul (4).",
+     "para": "",
+     "point": "8"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_21",
+   "kind": "article",
+   "number": "21",
+   "label": "Articolul 21",
+   "title": "Programul anual de activitate al OAREC",
+   "path": [
+    "CAPITOLUL VI — PROGRAMAREA ACTIVITĂȚII OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Consiliul autorităților de reglementare adoptă versiunea preliminară a programului anual de activitate până la data de 31 ianuarie a anului precedent perioadei acoperite de programul anual de activitate. După consultarea Parlamentului European, a Consiliului și a Comisiei cu privire la prioritățile lor, precum și a altor părți interesate în conformitate cu articolul 4 alineatul (5), Consiliul autorităților de reglementare adoptă varianta finală a programului anual de activitate până la 31 decembrie a anului respectiv.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Consiliul autorităților de reglementare transmite programul anual de activitate Parlamentului European, Consiliului și Comisiei, de îndată ce acesta este adoptat.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_22",
+   "kind": "article",
+   "number": "22",
+   "label": "Articolul 22",
+   "title": "Raportul anual de activitate al OAREC",
+   "path": [
+    "CAPITOLUL VI — PROGRAMAREA ACTIVITĂȚII OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Consiliul autorităților de reglementare adoptă raportul anual privind activitățile OAREC.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Consiliul autorităților de reglementare transmite raportul anual de activitate Parlamentului European, Consiliului, Comisiei și Comitetului Economic și Social European până la data de 15 iunie a fiecărui an.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_23",
+   "kind": "article",
+   "number": "23",
+   "label": "Articolul 23",
+   "title": "Programarea anuală și multianuală",
+   "path": [
+    "CAPITOLUL VII — BUGETUL OFICIULUI OAREC ȘI PROGRAMARE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) În fiecare an, directorul elaborează un proiect de document de programare care conține programarea anuală și multianuală („documentul unic de programare”), în conformitate cu articolul 32 din Regulamentul delegat (UE) nr. 1271/2013, ținând seama de orientările stabilite de Comisie. În fiecare an, până la data de 31 ianuarie, Consiliul de administrație adoptă proiectul de document unic de programare și îl transmite Comisiei pentru ca aceasta să își prezinte avizul. Proiectul de document unic de programare se transmite, de asemenea, Parlamentului European și Consiliului. Consiliul de administrație adoptă ulterior documentul unic de programare, ținând seama de avizul Comisiei. Consiliul de administrație transmite documentul unic de programare, precum și orice versiune ulterioară actualizată a acestuia, Parlamentului European, Consiliului și Comisiei. Documentul unic de programare devine definitiv după adoptarea bugetului general al Uniunii și, dacă este necesar, se ajustează în mod corespunzător.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Documentul de programare anuală include obiectivele detaliate și rezultatele preconizate, inclusiv indicatorii de performanță. Acesta include, de asemenea, o descriere a acțiunilor care urmează să fie finanțate și informații care indică resursele financiare și umane alocate fiecărei acțiuni, în conformitate cu principiile întocmirii bugetului și ale gestionării pe activități, astfel cum sunt menționate la articolul 31. Documentul de programare anuală este în concordanță cu versiunea preliminară și cu versiunea finală a programului anual de activitate al OAREC menționate la articolul 21 și cu documentul de programare multianuală al Oficiului OAREC menționat la alineatul (4) de la prezentul articol. Acesta indică în mod clar sarcinile care au fost adăugate, modificate sau eliminate în comparație cu exercițiul financiar precedent.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Consiliul de administrație modifică, atunci când este necesar, documentul de programare anuală după adoptarea versiunii finale a programului anual de activitate al OAREC menționat la articolul 21 și ori de câte ori se încredințează o nouă atribuție OAREC sau Oficiului OAREC. Orice modificare substanțială a documentului de programare anuală se adoptă prin aceeași procedură ca cea utilizată pentru adoptarea documentului inițial de programare anuală. Consiliul de administrație poate delega directorului competența de a aduce modificări neesențiale documentului de programare anuală.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Documentul de programare multianuală stabilește programarea strategică globală, inclusiv obiectivele, rezultatele preconizate și indicatorii de performanță. De asemenea, acesta stabilește programarea resurselor, inclusiv bugetul multianual și personalul. Programarea resurselor se actualizează anual. Programarea strategică se actualizează după caz, în special pentru a ține seama de rezultatul evaluării menționate la articolul 48.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Documentul unic de programare pentru Oficiul OAREC include punerea în aplicare a strategiei OAREC privind relațiile cu organele, oficiile, agențiile și grupurile consultative competente ale Uniunii, precum și cu autoritățile competente din țări terțe și cu organizații internaționale, astfel cum se menționează la articolul 35 alineatul (3), precum și acțiunile legate de strategia menționată și precizarea resurselor aferente.",
+     "para": "",
+     "point": "5"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_24",
+   "kind": "article",
+   "number": "24",
+   "label": "Articolul 24",
+   "title": "Întocmirea bugetului",
+   "path": [
+    "CAPITOLUL VII — BUGETUL OFICIULUI OAREC ȘI PROGRAMARE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) În fiecare an, directorul elaborează un proiect provizoriu de estimare a veniturilor și cheltuielilor Oficiului OAREC pentru exercițiul financiar următor („proiectul de estimare”), care conține planul de personal, și îl transmite Consiliului de administrație. Informațiile conținute în proiectul de estimare sunt în concordanță cu proiectul de document unic de programare menționat la articolul 23 alineatul (1).",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Directorul transmite Comisiei, până la data de 31 ianuarie a fiecărui an, proiectul de estimare.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Comisia transmite proiectul de estimare autorității bugetare împreună cu proiectul de buget general al Uniunii.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Pe baza proiectului de estimare, Comisia înscrie în proiectul de buget general al Uniunii estimările pe care le consideră necesare pentru planul de personal și valoarea contribuției care urmează să fie suportată din bugetul general și prezintă acest proiect autorității bugetare în conformitate cu articolele 313 și 314 din Tratatul privind funcționarea Uniunii Europene (TFUE).",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Autoritatea bugetară autorizează creditele pentru contribuția acordată Oficiului OAREC.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) Autoritatea bugetară adoptă planul de personal a Oficiului OAREC.",
+     "para": "",
+     "point": "6"
+    },
+    {
+     "text": "(7) Consiliul de administrație adoptă bugetul Oficiului OAREC. Bugetul devine definitiv după adoptarea finală a bugetului general al Uniunii. Dacă este necesar, se ajustează în mod corespunzător.",
+     "para": "",
+     "point": "7"
+    },
+    {
+     "text": "(8) Pentru orice proiect imobiliar care poate avea un impact semnificativ asupra bugetului Oficiului OAREC, se aplică Regulamentul delegat (UE) nr. 1271/2013.",
+     "para": "",
+     "point": "8"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_25",
+   "kind": "article",
+   "number": "25",
+   "label": "Articolul 25",
+   "title": "Structura bugetului",
+   "path": [
+    "CAPITOLUL VII — BUGETUL OFICIULUI OAREC ȘI PROGRAMARE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Se întocmesc și se înscriu în bugetul Oficiului OAREC estimări ale tuturor veniturilor și cheltuielilor acestuia, pentru fiecare exercițiu financiar, care corespunde anului calendaristic.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Bugetul Oficiului OAREC este echilibrat în ceea ce privește veniturile și cheltuielile.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Fără a aduce atingere altor resurse, veniturile Oficiului OAREC cuprind: (a) o contribuție din partea Uniunii; (b) orice contribuție financiară voluntară din partea statelor membre sau a ANR-urilor; (c) taxe pentru publicații și orice alt serviciu furnizat de Oficiul OAREC; (d) eventuale contribuții din partea țărilor terțe sau a autorităților de reglementare competente în domeniul comunicațiilor electronice din țările terțe care participă la activitatea Oficiului OAREC, astfel cum se prevede la articolul 35.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Cheltuielile Oficiului OAREC includ cheltuielile cu remunerarea personalului, cheltuielile administrative și de infrastructură, precum și cheltuielile de funcționare.",
+     "para": "",
+     "point": "4"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_26",
+   "kind": "article",
+   "number": "26",
+   "label": "Articolul 26",
+   "title": "Execuția bugetului",
+   "path": [
+    "CAPITOLUL VII — BUGETUL OFICIULUI OAREC ȘI PROGRAMARE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Directorul asigură execuția bugetului Oficiului OAREC.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) În fiecare an, directorul transmite Parlamentului European și Consiliului toate informațiile relevante pentru concluziile procedurilor de evaluare.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_27",
+   "kind": "article",
+   "number": "27",
+   "label": "Articolul 27",
+   "title": "Raportul anual de activitate consolidat",
+   "path": [
+    "CAPITOLUL VII — BUGETUL OFICIULUI OAREC ȘI PROGRAMARE"
+   ],
+   "blocks": [
+    {
+     "text": "Consiliul de administrație adoptă rapoarte anuale de activitate consolidate, în conformitate cu articolul 47 din Regulamentul delegat (UE) nr. 1271/2013, ținând seama de orientările stabilite de Comisie.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_28",
+   "kind": "article",
+   "number": "28",
+   "label": "Articolul 28",
+   "title": "Prezentarea conturilor și descărcarea de gestiune",
+   "path": [
+    "CAPITOLUL VII — BUGETUL OFICIULUI OAREC ȘI PROGRAMARE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Contabilul Oficiului OAREC transmite conturile provizorii pentru exercițiul financiar respectiv contabilului Comisiei și Curții de Conturi până la data de 1 martie a exercițiului financiar următor.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Oficiul OAREC transmite raportul privind gestiunea bugetară și financiară Parlamentului European, Consiliului și Curții de Conturi până la data de 31 martie a exercițiului financiar următor.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) La primirea observațiilor Curții de Conturi privind conturile provizorii ale Oficiului OAREC, contabilul Oficiului OAREC întocmește conturile finale ale Oficiului OAREC pe propria sa răspundere. Directorul prezintă conturile finale Consiliului de administrație în vederea obținerii unui aviz.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Consiliul de administrație emite un aviz cu privire la conturile finale ale Oficiului OAREC.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Până la data de 1 iulie următoare încheierii fiecărui exercițiu financiar, directorul transmite Parlamentului European, Consiliului, Comisiei și Curții de Conturi conturile finale împreună cu avizul Consiliului de administrație.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) Oficiul OAREC publică conturile finale în Jurnalul Oficial al Uniunii Europene până la data de 15 noiembrie a anului următor.",
+     "para": "",
+     "point": "6"
+    },
+    {
+     "text": "(7) Directorul transmite Curții de Conturi un răspuns la observațiile acesteia până la data de 30 septembrie a următorului exercițiu financiar. Directorul transmite acest răspuns și Consiliului de administrație.",
+     "para": "",
+     "point": "7"
+    },
+    {
+     "text": "(8) Directorul prezintă Parlamentului European, la solicitarea acestuia, toate informațiile necesare pentru a facilita aplicarea procedurii de descărcare de gestiune pentru exercițiul financiar în cauză, în conformitate cu articolul 165 alineatul (3) din Regulamentul (UE, Euratom) 2018/1046 al Parlamentului European și al Consiliului.",
+     "para": "",
+     "point": "8"
+    },
+    {
+     "text": "(9) La recomandarea Consiliului, care hotărăște cu majoritate calificată, Parlamentul European acordă directorului, înainte de data de 15 mai a anului N + 2, descărcarea de gestiune în ceea ce privește execuția bugetului pentru anul N.",
+     "para": "",
+     "point": "9"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_29",
+   "kind": "article",
+   "number": "29",
+   "label": "Articolul 29",
+   "title": "Normele financiare",
+   "path": [
+    "CAPITOLUL VII — BUGETUL OFICIULUI OAREC ȘI PROGRAMARE"
+   ],
+   "blocks": [
+    {
+     "text": "Normele financiare aplicabile Oficiului OAREC se adoptă de către Consiliul de administrație, după consultarea Comisiei. Acestea nu trebuie să se abată de la Regulamentul delegat (UE) nr. 1271/2013, cu excepția cazului în care o astfel de abatere este în mod specific necesară pentru funcționarea Oficiului OAREC și Comisia și-a dat acordul prealabil.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_30",
+   "kind": "article",
+   "number": "30",
+   "label": "Articolul 30",
+   "title": "Dispoziție generală",
+   "path": [
+    "CAPITOLUL VIII — PERSONALUL OFICIULUI OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "Personalului Oficiului OAREC i se aplică Statutul funcționarilor și Regimul aplicabil celorlalți agenți și normele adoptate de comun acord de instituțiile Uniunii pentru punerea în aplicare a Statutului funcționarilor și a Regimului aplicabil celorlalți agenți.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_31",
+   "kind": "article",
+   "number": "31",
+   "label": "Articolul 31",
+   "title": "Numărul de angajați ai Oficiului OAREC",
+   "path": [
+    "CAPITOLUL VIII — PERSONALUL OFICIULUI OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "(1) În conformitate cu principiul gestionării resurselor umane pe baza activităților sale, Oficiul OAREC dispune de personalul necesar pentru a-și îndeplini atribuțiile.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Numărul de angajați și resursele financiare corespunzătoare se propun în conformitate cu articolul 23 alineatele (2) și (4) și articolul 24 alineatul (1), ținând seama de articolul 5 litera (a) și de toate celelalte sarcini alocate Oficiului OAREC prin prezentul regulament sau prin alte acte juridice ale Uniunii, precum și de nevoia de a respecta regulamentele aplicabile tuturor agențiilor descentralizate ale Uniunii.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_32",
+   "kind": "article",
+   "number": "32",
+   "label": "Articolul 32",
+   "title": "Numirea directorului",
+   "path": [
+    "CAPITOLUL VIII — PERSONALUL OFICIULUI OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Directorul este angajat ca agent temporar al Oficiului OAREC în conformitate cu articolul 2 litera (a) din Regimul aplicabil celorlalți agenți.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Directorul este numit de Consiliul de administrație în urma unei proceduri de selecție deschise și transparente, pe baza meritelor, a competențelor manageriale, administrative și bugetare și a competențelor și experienței relevante în domeniul rețelelor și serviciilor de comunicații electronice. Lista candidaților nu este propusă doar de către președinte sau de un vicepreședinte. Regulamentul de procedură al Consiliului de administrație prevede în detaliu mecanismele care guvernează o procedură de întocmire a unei liste restrânse de candidați eligibili și o procedură de votare.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Pentru încheierea contractului cu directorul, Oficiul OAREC este reprezentat de președintele Consiliului de administrație.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Înainte de a fi numit în funcție, candidatul selecționat de către Consiliul de administrație este invitat să facă o declarație în fața comisiei competente a Parlamentului European și să răspundă întrebărilor adresate de membrii acesteia.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Durata mandatului directorului este de cinci ani. Până la sfârșitul acestei perioade, președintele Consiliului de administrație realizează o evaluare care ia în considerare evaluarea activității directorului și a atribuțiilor și provocărilor Oficiului OAREC. Această evaluare se transmite Parlamentului European și Consiliului.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) Consiliul de administrație, ținând seama de evaluarea menționată la alineatul (5), poate prelungi o singură dată mandatul directorului, pentru o perioadă de cel mult cinci ani.",
+     "para": "",
+     "point": "6"
+    },
+    {
+     "text": "(7) Consiliul de administrație informează Parlamentul European dacă intenționează să prelungească mandatul directorului. Cu o lună înainte de o astfel de prelungire, directorul poate fi invitat să facă o declarație în fața comisiei competente a Parlamentului European și să răspundă întrebărilor adresate de membrii acesteia.",
+     "para": "",
+     "point": "7"
+    },
+    {
+     "text": "(8) Un director al cărui mandat a fost prelungit nu mai poate participa la o altă procedură de selecție pentru același post după încheierea perioadei cumulate a mandatului său.",
+     "para": "",
+     "point": "8"
+    },
+    {
+     "text": "(9) În cazul în care mandatul nu-i este prelungit, directorul rămâne în funcție după expirarea mandatului său inițial, pe baza deciziei Consiliului de administrație, până la numirea unui succesor.",
+     "para": "",
+     "point": "9"
+    },
+    {
+     "text": "(10) Directorul poate fi demis din funcție numai printr-o decizie a Consiliului de administrație, la propunerea unuia dintre membrii săi.",
+     "para": "",
+     "point": "10"
+    },
+    {
+     "text": "(11) Consiliul de administrație adoptă deciziile privind numirea, prelungirea mandatului sau demiterea din funcție a directorului cu o majoritate de două treimi dintre membrii săi.",
+     "para": "",
+     "point": "11"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_33",
+   "kind": "article",
+   "number": "33",
+   "label": "Articolul 33",
+   "title": "Experții naționali detașați și alte categorii de personal",
+   "path": [
+    "CAPITOLUL VIII — PERSONALUL OFICIULUI OAREC"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Oficiul OAREC poate folosi experți naționali detașați sau alte categorii de personal care nu sunt angajații săi. Acestor categorii de personal nu li se aplică Statutul funcționarilor și Regimul aplicabil celorlalți agenți.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Consiliul de administrație adoptă o decizie care prevede norme privind detașarea experților naționali la Oficiul OAREC.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_34",
+   "kind": "article",
+   "number": "34",
+   "label": "Articolul 34",
+   "title": "Privilegii și imunități",
+   "path": [
+    "CAPITOLUL IX — DISPOZIȚII GENERALE"
+   ],
+   "blocks": [
+    {
+     "text": "Protocolul privind privilegiile și imunitățile Uniunii Europene se aplică Oficiului OAREC și personalului său.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_35",
+   "kind": "article",
+   "number": "35",
+   "label": "Articolul 35",
+   "title": "Cooperarea cu organisme ale Uniunii, cu țări terțe și cu organizații internaționale",
+   "path": [
+    "CAPITOLUL IX — DISPOZIȚII GENERALE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) În măsura în care este necesar pentru atingerea obiectivelor stabilite în prezentul regulament și îndeplinirea sarcinilor care le revin, fără a aduce atingere competențelor respective ale statelor membre și ale instituțiilor Uniunii, OAREC și Oficiul OAREC pot coopera cu organe, oficii, agenții și grupuri consultative competente ale Uniunii, precum și cu autoritățile competente din țări terțe și cu organizații internaționale. În acest scop, OAREC și Oficiul OAREC pot stabili, sub rezerva aprobării prealabile de către Comisie, acorduri de lucru. Aceste acorduri nu creează obligații juridice.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Consiliul autorităților de reglementare, grupurile de lucru și Consiliul de administrație sunt deschise participării autorităților de reglementare cu responsabilitate principală în domeniul comunicațiilor electronice din țări terțe, atunci când respectivele țări terțe au încheiat acorduri cu Uniunea în acest sens. În temeiul dispozițiilor relevante ale acestor acorduri, se elaborează acorduri de lucru care să precizeze, în special, caracterul, amploarea și modalitatea participării, fără drept de vot, a acestor autorități de reglementare ale țărilor terțe în cauză la activitatea OAREC și a Oficiului OAREC, inclusiv dispoziții referitoare la participarea la inițiativele desfășurate de OAREC, la contribuțiile financiare și la personalul Oficiului OAREC. În ceea ce privește chestiunile legate de personal, astfel de acorduri respectă, în orice caz, Statutul funcționarilor.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Ca parte a programului anual de activitate menționat la articolul 21, Consiliul autorităților de reglementare adoptă strategia OAREC privind relațiile cu organele, oficiile, agențiile și grupurile consultative competente ale Uniunii, cu autoritățile competente din țări terțe și cu organizații internaționale în privința chestiunilor care intră în domeniul de competență al OAREC. Comisia, OAREC și Oficiul OAREC încheie un acord de lucru adecvat care să garanteze faptul că OAREC și Oficiul OAREC își desfășoară activitatea în limitele mandatelor lor și ale cadrului instituțional existent.",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_36",
+   "kind": "article",
+   "number": "36",
+   "label": "Articolul 36",
+   "title": "Accesul la documente și protecția datelor",
+   "path": [
+    "CAPITOLUL IX — DISPOZIȚII GENERALE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Regulamentul (CE) nr. 1049/2001 al Parlamentului European și al Consiliului se aplică documentelor deținute de OAREC și de Oficiul OAREC.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Până la 21 iunie 2019, Consiliul autorităților de reglementare și Consiliul de administrație adoptă normele detaliate pentru aplicarea Regulamentului (CE) nr. 1049/2001.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Prelucrarea datelor cu caracter personal de către OAREC și Oficiul OAREC este reglementată de Regulamentul (UE) 2018/1725.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Până la 21 iunie 2019, Consiliul autorităților de reglementare și Consiliul de administrație stabilesc măsuri pentru aplicarea Regulamentului (UE) 2018/1725 de către OAREC și Oficiul OAREC, inclusiv măsuri referitoare la numirea unui responsabil cu protecția datelor în cadrul Oficiului OAREC. Măsurile respective se stabilesc după consultarea Autorității Europene pentru Protecția Datelor.",
+     "para": "",
+     "point": "4"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_37",
+   "kind": "article",
+   "number": "37",
+   "label": "Articolul 37",
+   "title": "Transparența și comunicarea",
+   "path": [
+    "CAPITOLUL IX — DISPOZIȚII GENERALE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) OAREC și Oficiul OAREC își desfășoară activitățile cu un înalt nivel de transparență. OAREC și Oficiul OAREC se asigură că publicul și orice parte interesată primesc informații adecvate, obiective, fiabile și ușor accesibile, în special cu privire la atribuțiile lor și la rezultatele activității lor.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) OAREC, sprijinit de Oficiul OAREC, poate desfășura activități de comunicare din proprie inițiativă, în limitele domeniului său de competență, în conformitate cu planurile de comunicare și de diseminare relevante adoptate de Consiliul autorităților de reglementare. Alocarea resurselor pentru un astfel de sprijin pentru activități de comunicare în cadrul bugetului Oficiului OAREC nu se face în detrimentul îndeplinirii cu eficacitate a atribuțiilor OAREC astfel cum se menționează la articolul 4 și nici a atribuțiilor Oficiului OAREC astfel cum se menționează la articolul 5. Activitățile de comunicare ale Oficiului OAREC se efectuează în conformitate cu planurile de comunicare și diseminare relevante adoptate de Consiliul de administrație.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_38",
+   "kind": "article",
+   "number": "38",
+   "label": "Articolul 38",
+   "title": "Confidențialitate",
+   "path": [
+    "CAPITOLUL IX — DISPOZIȚII GENERALE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Fără a aduce atingere articolului 36 alineatul (1) și articolului 40 alineatul (2), OAREC și Oficiul OAREC nu divulgă terților informațiile pe care le prelucrează sau pe care le primesc și pentru care s-a cerut, printr-o solicitare motivată, un tratament confidențial, integral sau parțial.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Membrii Consiliului autorităților de reglementare, ai Consiliului de administrație și ai grupurilor de lucru, și alți participanți la reuniunile acestora, directorul, experții naționali detașați și alte categorii de personal care nu sunt angajate de Oficiul OAREC respectă cerințele de confidențialitate conform articolului 339 din TFUE, chiar și după încetarea atribuțiilor lor.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Consiliul autorităților de reglementare și Consiliul de administrație stabilesc modalitățile practice de punere în aplicare a normelor referitoare la confidențialitate menționate la alineatele (1) și (2).",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_39",
+   "kind": "article",
+   "number": "39",
+   "label": "Articolul 39",
+   "title": "Norme de securitate privind protecția informațiilor clasificate și a informațiilor sensibile neclasificate",
+   "path": [
+    "CAPITOLUL IX — DISPOZIȚII GENERALE"
+   ],
+   "blocks": [
+    {
+     "text": "OAREC și Oficiul OAREC își adoptă propriile norme de securitate care sunt echivalente cu normele de securitate ale Comisiei pentru protecția informațiilor clasificate ale Uniunii Europene și a informațiilor sensibile neclasificate, printre altele, dispoziții privind schimbul, prelucrarea și stocarea unor astfel de informații conform dispozițiilor Deciziilor (UE, Euratom) 2015/443 și (UE, Euratom) 2015/444 ale Comisiei. Alternativ, OAREC sau Oficiul OAREC poate adopta o decizie de aplicare, mutatis mutandis, a normelor Comisiei.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_40",
+   "kind": "article",
+   "number": "40",
+   "label": "Articolul 40",
+   "title": "Schimbul de informații",
+   "path": [
+    "CAPITOLUL IX — DISPOZIȚII GENERALE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) La solicitarea motivată a OAREC sau a Oficiului OAREC, Comisia, ANR-urile reprezentate în cadrul Consiliului autorităților de reglementare și alte autorități competente furnizează OAREC sau Oficiului OAREC toate informațiile necesare, în timp util și cu exactitate, pentru îndeplinirea atribuțiilor lor, cu condiția ca acestea să aibă în mod legal acces la informațiile relevante și ca solicitarea de informații să fie necesară în legătură cu natura respectivei atribuții. OAREC sau Oficiul OAREC poate solicita, de asemenea, să îi fie transmise astfel de informații la intervale regulate și în formate specificate. Astfel de solicitări se formulează, în cazul în care este posibil, utilizându-se formate comune de raportare.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) La solicitarea motivată a Comisiei sau a ANR, OAREC sau Oficiul OAREC furnizează, în timp util și cu exactitate, toate informațiile necesare care să îi permită Comisiei, ANR sau altei autorități competente îndeplinirea atribuțiilor lor, pe baza principiului cooperării loiale. În cazul în care OAREC sau Oficiul OAREC consideră informațiile confidențiale, Comisia, ANR sau cealaltă autoritate competentă asigură această confidențialitate în conformitate cu dreptul Uniunii și cu dreptul intern, inclusiv cu Regulamentul (CE) nr. 1049/2001. Secretul profesional nu împiedică realizarea în timp util a schimbului de informații.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Înainte de a solicita informații în conformitate cu prezentul articol și pentru a evita duplicarea obligațiilor de raportare, OAREC sau Oficiul OAREC ține seama de orice informație relevantă existentă aflată la dispoziția publicului.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) În cazul în care informațiile nu sunt puse la dispoziție în timp util de ANR-uri, OAREC sau Oficiul OAREC poate adresa o solicitare motivată fie altor ANR-uri și altor autorități competente ale statului membru în cauză, fie direct întreprinderilor relevante care furnizează rețele și servicii de comunicații electronice, precum și infrastructura asociată. OAREC sau Oficiul OAREC notifică ANR-urile care nu au furnizat informațiile cu privire la solicitări, în conformitate cu primul paragraf. La solicitarea OAREC sau a Oficiului OAREC, ANR-urile acordă asistență OAREC în procesul de colectare a acestor informații.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Statele membre garantează ANR-urilor și altor autorități competente competența de a solicita altor autorități naționale responsabile sau întreprinderilor care furnizează rețele și servicii de comunicații electronice, infrastructuri asociate sau servicii asociate, să transmită toate informațiile necesare pentru a-și îndeplini sarcinile menționate la prezentul articol. Alte autorități naționale responsabile sau întreprinderi astfel cum sunt menționate la primul paragraf furnizează astfel de informații în mod prompt la cerere și în conformitate cu calendarele și nivelul de detaliu cerut. Statele membre se asigură că ANR-urile și alte autorități competente sunt împuternicite să asigure respectarea acestor cereri de informații prin impunerea unor sancțiuni corespunzătoare, concrete, proporționale și disuasive.",
+     "para": "",
+     "point": "5"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_41",
+   "kind": "article",
+   "number": "41",
+   "label": "Articolul 41",
+   "title": "Sistemul de informare și comunicare",
+   "path": [
+    "CAPITOLUL IX — DISPOZIȚII GENERALE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Oficiul OAREC creează și gestionează un sistem de informare și comunicare având cel puțin următoarele funcții: (a) o platformă comună pentru schimbul de informații, care oferă OAREC, Comisiei și ANR-urilor informațiile necesare pentru punerea în aplicare uniformă a cadrului de reglementare al Uniunii pentru comunicațiile electronice; (b) o interfață specifică pentru solicitările de informații și notificarea solicitărilor menționate la articolul 40, care să fie accesată de către OAREC, Oficiul OAREC, Comisie și ANR-uri; (c) o platformă pentru o identificare timpurie a necesităților de coordonare dintre ANR-uri.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Consiliul de administrație adoptă specificațiile tehnice și funcționale pentru crearea sistemului de informare și comunicare menționat la alineatul (1). Sistemului respectiv i se aplică dispozițiile referitoare la drepturile de proprietate intelectuală și nivelul de confidențialitate necesar.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Sistemul de informare și comunicare devine funcțional până la 21 iunie 2020.",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_42",
+   "kind": "article",
+   "number": "42",
+   "label": "Articolul 42",
+   "title": "Declarația de interese",
+   "path": [
+    "CAPITOLUL IX — DISPOZIȚII GENERALE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Membrii Consiliului autorităților de reglementare și cei ai Consiliului de administrație, directorul, experții naționali detașați și alte categorii de personal care nu sunt angajate de Oficiul OAREC întocmesc, fiecare în parte, o declarație scrisă în care precizează angajamentele lor și absența sau prezența oricăror interese directe sau indirecte care ar putea aduce atingere independenței lor. Aceste declarații sunt întocmite la preluarea responsabilităților, sunt corecte și complete și sunt actualizate ori de câte ori există riscul prezenței oricăror interese directe sau indirecte care ar putea fi considerate că aduc atingere independenței persoanelor care întocmesc declarațiile. Declarațiile membrilor Consiliului autorităților de reglementare, ale membrilor Consiliului de administrație și ale directorului sunt făcute publice.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Membrii Consiliului autorităților de reglementare, ai Consiliului de administrație și ai grupurilor de lucru și alți participanți la reuniunile acestora, directorul, experții naționali detașați și alte categorii de personal care nu sunt angajate de Oficiul OAREC declară, fiecare în parte, corect și complet, cel târziu la începutul fiecărei ședințe, toate interesele care ar putea aduce atingere independenței lor în ceea ce privește punctele înscrise pe ordinea de zi și se abțin de la participarea la dezbaterile referitoare la punctele respective și de la votul în legătură cu acestea.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Consiliul autorităților de reglementare și Consiliul de administrație adoptă norme de prevenire și gestionare a conflictelor de interese și, în special, modalitățile practice pentru aplicarea alineatelor (1) și (2).",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_43",
+   "kind": "article",
+   "number": "43",
+   "label": "Articolul 43",
+   "title": "Combaterea fraudei",
+   "path": [
+    "CAPITOLUL IX — DISPOZIȚII GENERALE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Pentru a facilita combaterea fraudei, a corupției și a altor activități ilegale în temeiul Regulamentului (UE, Euratom) nr. 883/2013 al Parlamentului European și al Consiliului, până la 21 iunie 2019, Oficiul OAREC aderă la Acordul interinstituțional din 25 mai 1999 între Parlamentul European, Consiliul Uniunii Europene și Comisia Comunităților Europene privind investigațiile interne desfășurate de Oficiul European de Luptă Antifraudă (OLAF) și adoptă dispoziții corespunzătoare, care se aplică întregului personal al Oficiului OAREC, utilizând modelul prevăzut în anexa la acordul respectiv.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Curtea de Conturi are competența de a efectua audituri, pe baza documentelor și a inspecțiilor la fața locului, cu privire la toți beneficiarii de granturi, contractanții și subcontractanții care au primit fonduri ale Uniunii de la Oficiul OAREC.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) OLAF poate efectua investigații, inclusiv controale și inspecții la fața locului, în conformitate cu dispozițiile și procedurile prevăzute în Regulamentul (UE, Euratom) nr. 883/2013 și în Regulamentul (Euratom, CE) nr. 2185/96 al Consiliului, cu scopul de a identifica cazurile de fraudă, corupție sau orice altă activitate ilegală care afectează interesele financiare ale Uniunii în legătură cu un acord de grant sau o decizie de acordare a unui grant sau în legătură cu un contract de finanțare de către Oficiul OAREC.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Fără a aduce atingere dispozițiilor alineatelor (1), (2) și (3), acordurile de cooperare cu țări terțe și cu organizații internaționale, contractele, acordurile de grant și deciziile privind granturile conțin dispoziții care împuternicesc în mod expres Curtea de Conturi și OLAF să efectueze astfel de audituri și investigații, în conformitate cu competențele care le revin.",
+     "para": "",
+     "point": "4"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_44",
+   "kind": "article",
+   "number": "44",
+   "label": "Articolul 44",
+   "title": "Răspunderea",
+   "path": [
+    "CAPITOLUL IX — DISPOZIȚII GENERALE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Răspunderea contractuală a Oficiului OAREC este reglementată de legislația aplicabilă contractului în cauză.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Curtea de Justiție a Uniunii Europene („Curtea de Justiție”) este competentă să se pronunțe în temeiul oricărei clauze de arbitraj cuprinse în contractele încheiate de către Oficiul OAREC.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) În cazul răspunderii extracontractuale, în conformitate cu principiile generale comune legislațiilor statelor membre, Oficiul OAREC repară orice prejudiciu provocat de departamentele sau membrii personalului său în executarea atribuțiilor lor.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Curtea de Justiție este competentă în litigiile privind acordarea de despăgubiri pentru prejudiciile menționate la alineatul (3).",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Răspunderea personală a membrilor personalului față de Oficiul OAREC este reglementată de dispozițiile aplicabile acestora prevăzute în Statutul funcționarilor sau în Regimul aplicabil celorlalți agenți.",
+     "para": "",
+     "point": "5"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_45",
+   "kind": "article",
+   "number": "45",
+   "label": "Articolul 45",
+   "title": "Investigații administrative",
+   "path": [
+    "CAPITOLUL IX — DISPOZIȚII GENERALE"
+   ],
+   "blocks": [
+    {
+     "text": "Activitățile OAREC și ale Oficiului OAREC fac obiectul investigațiilor efectuate de Ombudsmanul European în conformitate cu articolul 228 din TFUE.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_46",
+   "kind": "article",
+   "number": "46",
+   "label": "Articolul 46",
+   "title": "Regimul lingvistic",
+   "path": [
+    "CAPITOLUL IX — DISPOZIȚII GENERALE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Regulamentul nr. 1 se aplică Oficiului OAREC.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Serviciile de traducere necesare pentru funcționarea Oficiului OAREC sunt asigurate de Centrul de Traduceri pentru Organismele Uniunii Europene.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_47",
+   "kind": "article",
+   "number": "47",
+   "label": "Articolul 47",
+   "title": "Acordul privind sediul și condițiile de funcționare",
+   "path": [
+    "CAPITOLUL X — DISPOZIȚII FINALE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Dispozițiile referitoare la găzduirea Oficiului OAREC în statul membru gazdă și infrastructurile care trebuie puse la dispoziție de către statul respectiv, precum și normele specifice aplicabile în statul membru gazdă cu privire la director, la membrii Consiliului de administrație, la personalul Oficiului OAREC și la membrii familiilor acestora sunt prevăzute într-un acord privind sediul încheiat între Oficiul OAREC și statul membru gazdă, după ce s-a obținut aprobarea Consiliului de administrație și cel târziu până la 21 decembrie 2020.]",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Statul membru gazdă oferă condițiile necesare pentru a asigura o funcționare corespunzătoare și eficientă a Oficiului OAREC, inclusiv școlarizare în mai multe limbi și de orientare europeană și conexiuni de transport corespunzătoare.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_48",
+   "kind": "article",
+   "number": "48",
+   "label": "Articolul 48",
+   "title": "Evaluare",
+   "path": [
+    "CAPITOLUL X — DISPOZIȚII FINALE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Până la 21 decembrie 2023 și, ulterior, la fiecare cinci ani, Comisia realizează, în conformitate cu orientările sale, o evaluare a activității OAREC și a Oficiului OAREC în raport cu obiectivele, mandatul, atribuțiile și locația. Evaluarea analizează, în special, eventuala necesitate de a modifica structura sau mandatul OAREC și ale Oficiului OAREC, precum și implicațiile financiare ale unei astfel de modificări.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) În cazul în care consideră că funcționarea în continuare a OAREC sau a Oficiului OAREC nu se mai justifică în raport cu obiectivele, mandatul și atribuțiile care le revin, Comisia poate propune modificarea sau abrogarea prezentului regulament în mod corespunzător.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Comisia prezintă Parlamentului European, Consiliului și Consiliului de administrație un raport privind rezultatele evaluării și le publică.",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_49",
+   "kind": "article",
+   "number": "49",
+   "label": "Articolul 49",
+   "title": "Dispoziții tranzitorii",
+   "path": [
+    "CAPITOLUL X — DISPOZIȚII FINALE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Oficiul OAREC succedă Oficiului care a fost înființat prin Regulamentul (CE) nr. 1211/2009 în ceea ce privește toate aspectele legate de proprietate, acorduri, obligații juridice, contracte de muncă, angajamente financiare și răspunderi. În special, prezentul regulament nu aduce atingere drepturilor și obligațiilor personalului Oficiului. Contractele membrilor personalului pot fi reînnoite în temeiul prezentului regulament în conformitate cu Statutul funcționarilor și cu Regimul aplicabil celorlalți agenți și în conformitate cu constrângerile bugetare ale Oficiului OAREC.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Începând de la 20 decembrie 2018, directorul administrativ numit în temeiul Regulamentului (CE) nr. 1211/2009 acționează în calitate de director, având funcțiile prevăzute în prezentul regulament. Celelalte condiții ale contractului directorului administrativ rămân neschimbate.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Consiliul de administrație poate decide să reînnoiască mandatul directorului menționat la alineatul (2) din prezentul articol. Articolul 32 alineatele (5) și (6) se aplică mutatis mutandis. Mandatul cumulat al directorului nu depășește zece ani.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Consiliul autorităților de reglementare și Consiliul de administrație menționate la articolele 7 și 15 din prezentul regulament sunt formate din membrii Consiliului autorităților de reglementare și din cei ai Comitetului de gestionare menționate la articolele 4 și 7 din Regulamentul (CE) nr. 1211/2009, până la numirea unor noi reprezentanți.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Președintele și vicepreședinții Consiliului autorităților de reglementare și cei ai Consiliului de administrație, care au fost numiți în conformitate cu Regulamentul (CE) nr. 1211/2009, rămân în funcție ca Președinte și vicepreședinți ai Consiliului autorităților de reglementare, astfel cum sunt menționați la articolul 10 din prezentul regulament, respectiv ca președinte și vicepreședinți ai Consiliului de administrație, astfel cum sunt menționați la articolul 17 din prezentul regulament, pe durata rămasă a mandatului lor de un an. Numirile președintelui și vicepreședinților Consiliului autorităților de reglementare și, respectiv, ai Consiliului de administrație în baza Regulamentului (CE) nr. 1211/2009, care au avut loc înainte de 20 decembrie 2018 dar care se prelungesc dincolo de această dată, sunt respectate.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) Procedura de descărcare de gestiune în ceea ce privește bugetul aprobat în temeiul articolului 11 din Regulamentul (CE) nr. 1211/2009 se desfășoară în conformitate cu normele stabilite de regulamentul respectiv.",
+     "para": "",
+     "point": "6"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_50",
+   "kind": "article",
+   "number": "50",
+   "label": "Articolul 50",
+   "title": "Modificarea Regulamentului (UE) 2015/2120",
+   "path": [
+    "CAPITOLUL X — DISPOZIȚII FINALE"
+   ],
+   "blocks": [
+    {
+     "text": "Regulamentul (UE) 2015/2120 se modifică după cum urmează:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "1. Titlul se înlocuiește cu următorul text: „Regulamentul (UE) 2015/2120 al Parlamentului European și al Consiliului din 25 noiembrie 2015 de stabilire a unor măsuri privind accesul la internetul deschis și tarifele cu amănuntul pentru comunicațiile în interiorul UE reglementate și de modificare a Directivei 2002/22/CE și a Regulamentului (UE) nr. 531/2012”.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. La articolul 1, se adaugă următorul alineat: „(3) Prezentul regulament stabilește, de asemenea, norme comune care să asigure că prețurile percepute consumatorilor nu sunt excesive pentru comunicațiile interpersonale bazate pe numere efectuate din statul membru al furnizorului național al consumatorului către orice număr fix sau mobil din alt stat membru.”",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. La articolul 2 al doilea paragraf, se adaugă următoarele puncte: „3. «comunicații în interiorul UE reglementate» înseamnă orice serviciu de comunicații interpersonale bazate pe numere inițiat în statul membru al furnizorului național al consumatorului și având ca punct terminus orice număr fix sau mobil din planul național de numerotație din alt stat membru, și care este taxat în întregime sau parțial pe baza consumului real; 4. «serviciu de comunicații interpersonale bazat pe numere» înseamnă serviciu de comunicații interpersonale bazat pe numere astfel cum este definit la articolul 2 punctul 6 din Directiva (UE) 2018/1972 a Parlamentului European și a Consiliului. (*1) Directiva (UE) 2018/1972 a Parlamentului European și a Consiliului din 11 decembrie 2018 de instituire a Codului european al comunicațiilor electronice (JO L 321, 17.12.2018, p. 36).” \"",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Se introduce următorul articol: „Articolul 5a Tarife cu amănuntul pentru comunicațiile în interiorul UE reglementate (1) Începând cu 15 mai 2019, orice preț cu amănuntul (fără TVA) facturat consumatorilor pentru comunicațiile în interiorul UE reglementate nu depășește 0,19 EUR pe minut pentru apeluri și 0,06 EUR pentru un SMS. (2) Fără a aduce atingere obligațiilor prevăzute la alineatul (1), furnizorii de comunicații în interiorul UE reglementate pot oferi în plus, iar consumatorii pot alege în mod expres un tarif pentru comunicațiile internaționale care includ comunicații în interiorul UE reglementate, diferit de cel stabilit în conformitate cu alineatul (1), în temeiul căruia consumatorii beneficiază de un tarif diferit pentru comunicațiile în interiorul UE reglementate decât cel de care ar fi beneficiat dacă nu ar fi existat o astfel de alegere. Anterior alegerii tarifului diferit de către consumatori, furnizorul de comunicații în interiorul UE reglementate îi informează în legătură cu natura avantajelor pe care le-ar pierde astfel. (3) În cazul în care tariful pentru comunicațiile în interiorul UE reglementate, menționat la alineatul (2), depășește plafonul stabilit la alineatul (1), consumatorii care nu au confirmat sau nu și-au exprimat, în termen de două luni de la 15 mai 2019, opțiunea pentru orice tarif menționat alineatul (2), beneficiază automat de tarifele prevăzute la alineatul (1). (4) Consumatorii pot trece gratuit la, sau de la, un tarif stabilit la alineatul (1) în termen de o zi lucrătoare de la primirea cererii de către furnizor, iar furnizorii garantează că o astfel de trecere nu implică condiții sau restricții legate de elemente ale abonamentelor în afara comunicațiilor în interiorul UE reglementate. (5) În cazul în care prețurile maxime menționate la alineatul (1) sunt exprimate în alte monede decât moneda euro, plafoanele inițiale sunt stabilite în acele monede prin aplicarea mediei cursurilor de schimb de referință publicate la 15 ianuarie, 15 februarie și 15 martie de Banca Centrală Europeană în Jurnalul Oficial al Uniunii Europene. Plafoanele exprimate în alte monede decât moneda euro se revizuiesc anual din 2020. Plafoanele revizuite anual în acele monede se aplică de la 15 mai, utilizându-se media cursurilor de schimb de referință publicate la 15 ianuarie, 15 februarie și 15 martie ale aceluiași an. (6) ANR monitorizează evoluțiile pieței și ale prețurilor pentru comunicațiile în interiorul UE reglementate și prezintă rapoarte Comisiei. În cazul în care un furnizorul de comunicații în interiorul UE reglementate constată că, datorită unor circumstanțe specifice și excepționale care îl deosebesc de majoritatea celorlalți furnizori din Uniune, aplicarea plafonului menționat la alineatul (1) ar avea un impact semnificativ asupra capacității sale de a-și menține prețurile existente pentru comunicațiile naționale, la solicitarea acestuia, o autoritate națională îi poate acorda, numai în măsura necesară și pentru o perioadă de un an, reînnoibilă, o derogare de la alineatul (1). Evaluarea durabilității modelului național de tarifare se bazează pe factori obiectivi relevanți specifici pentru furnizorul de servicii de comunicații în interiorul UE reglementate, precum și pe nivelul prețurilor și veniturilor naționale. În cazul în care furnizorul solicitant a furnizat dovezile necesare, autoritatea națională de reglementare stabilește nivelul maxim al prețului care depășește unul sau ambele plafoane stabilite la alineatul (1) și care ar fi indispensabil pentru a asigura durabilitatea modelului național de tarifare al furnizorului. OAREC publică orientări privind parametrii care trebuie să fie luați în considerare de către autoritățile naționale de reglementare în cadrul evaluărilor lor.”",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. La articolul 6, se adaugă următorul paragraf: „Statele membre adoptă regimul sancțiunilor care se aplică în cazul nerespectării articolului 5a și iau toate măsurile necesare pentru a asigura aplicarea acestora. Sancțiunile prevăzute trebuie să fie concrete, proporționale și disuasive. Statele membre notifică Comisiei, până la 15 mai 2019, dispozițiile și măsurile prevăzute pentru asigurarea punerii în aplicare a articolului 5a și notifică acesteia, fără întârziere, orice modificare ulterioară referitoare la acestea.”",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. La articolul 10, se adaugă următorul alineat: „(5) Articolul 5a expiră la 14 mai 2024.”",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_51",
+   "kind": "article",
+   "number": "51",
+   "label": "Articolul 51",
+   "title": "Abrogare",
+   "path": [
+    "CAPITOLUL X — DISPOZIȚII FINALE"
+   ],
+   "blocks": [
+    {
+     "text": "Regulamentul (CE) nr. 1211/2009 se abrogă.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Trimiterile la regulamentul abrogat se interpretează ca trimiteri la prezentul regulament și se citesc în conformitate cu tabelul de corespondență din anexă.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_52",
+   "kind": "article",
+   "number": "52",
+   "label": "Articolul 52",
+   "title": "Intrarea în vigoare",
+   "path": [
+    "CAPITOLUL X — DISPOZIȚII FINALE"
+   ],
+   "blocks": [
+    {
+     "text": "Prezentul regulament intră în vigoare în a treia zi de la data publicării în Jurnalul Oficial al Uniunii Europene.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "anx_1",
+   "kind": "annex",
+   "number": "1",
+   "label": "ANEXĂ",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Tabel de corespondență",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Regulamentul (CE) nr. 1211/2009 Prezentul regulament Articolul 1 alineatul (1) Articolul 1 Articolul 1 alineatul (2) Articolul 3 alineatul (1) Articolul 1 alineatul (3) Articolul 3 alineatele (2) și (3) Articolul 1 alineatul (4) Articolul 3 alineatul (4) și articolul 4 alineatul (1) literele (a) și (b) Articolul 2 Articolul 4 Articolul 3 Articolul 4 Articolul 4 alineatul (1) Articolul 6 Articolul 4 alineatul (2) Articolul 7 alineatele (1), (2) și (4), articolul 8 alineatele (1) și (2) Articolul 4 alineatul (3) Articolul 11 alineatele (4) și (5) și articolul 36 Articolul 4 alineatul (4) Articolul 10 alineatele (1), (2) și (3) Articolul 4 alineatul (5) Articolul 10 alineatul (4) Articolul 4 alineatul (6) Articolul 11 Articolul 4 alineatul (7) Articolul 13 Articolul 4 alineatul (8) Articolul 7 alineatul (4) Articolul 4 alineatul (9) Articolul 12 alineatele (1) și (2) Articolul 4 alineatul (10) Articolul 12 alineatul (3) Articolul 4 alineatul (11) Articolul 5 Articolul 5 Articolul 4 Articolul 6 alineatul (1) Articolul 2 alineatul (1) Articolul 6 alineatul (2) Articolul 5 Articolul 6 alineatul (3) Articolul 14 alineatul (1) Articolul 6 alineatul (4) Articolul 2 alineatul (2) Articolul 6 alineatul (5) Articolele 20 și 31 Articolul 7 alineatul (1) Articolul 15 alineatul (1) Articolul 7 alineatul (2) Articolul 32 Articolul 7 alineatul (3) Articolul 20 alineatul (6) Articolul 7 alineatul (4) Articolul 16 alineatul (1) litera (k) Articolul 7 alineatul (5) Articolul 13 Articolul 8 Articolul 32 Articolul 9 Articolul 20 Articolul 10 alineatul (1) Articolele 30 și 34 Articolul 10 alineatul (2) Articolul 16 alineatul (1) litera (j) Articolul 10 alineatul (3) Articolul 16 alineatul (2) Articolul 10 alineatul (4) Articolul 33 Articolul 11 Articolul 25 Articolul 12 Articolul 24 Articolul 13 Articolul 26 Articolul 14 — Articolul 15 Articolul 29 Articolul 16 Articolul 43 Articolul 17 Articolul 4 alineatul (5) Articolul 18 Articolul 37 Articolul 19 Articolele 39 și 40 Articolul 20 Articolul 38 Articolul 21 Articolul 42 Articolul 22 Articolul 36 Articolul 23 Articolul 34 Articolul 24 Articolul 44 Articolul 25 Articolul 48 Articolul 26 Articolul 52",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  }
+ ]
+}

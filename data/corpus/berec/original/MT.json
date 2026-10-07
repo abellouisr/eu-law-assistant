@@ -1,0 +1,2822 @@
+{
+ "document": "berec",
+ "version": "original",
+ "lang": "MT",
+ "meta": {
+  "source": "eurlex",
+  "celex": "32018R1971",
+  "kind": "original",
+  "date": "2018-12-11",
+  "built_at": "2026-10-07T10:10:21+00:00",
+  "sources_sha256": {
+   "32018R1971": "64f459ad8dc7674ce3bded7c0f0d74a927554a9186cf0736fcd5c4e9785b6ae3"
+  },
+  "counts": {
+   "article": 52,
+   "recital": 53,
+   "annex": 1
+  }
+ },
+ "provisions": [
+  {
+   "id": "rct_1",
+   "kind": "recital",
+   "number": "1",
+   "label": "(1)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Id-Direttiva (UE) 2018/1972 tal-Parlament Ewropew u tal-Kunsill għandha l-għan li toħloq suq intern għall-komunikazzjonijiet elettroniċi fl-Unjoni filwaqt li tiżgura livell għoli ta’ investiment, ta’ innovazzjoni u ta’ protezzjoni tal-konsumaturi permezz ta’ tisħiħ fil-kompetizzjoni. Dik id-Direttiva tistabbilixxi għadd sinifikanti ta’ kompiti ġodda għall-Korp ta’ Regolaturi Ewropej tal-Komunikazzjonijiet Elettroniċi (BEREC) bħall-ħruġ ta’ linji gwida dwar diversi suġġetti, rapportar dwar kwistjonijiet tekniċi, iż-żamma ta’ reġistri, listi u bażijiet tad-data u l-għoti ta’ opinjonijiet dwar il-proċeduri tas-suq intern għall-abbozzi tal-miżuri nazzjonali dwar ir-regolamentazzjoni tas-swieq.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_2",
+   "kind": "recital",
+   "number": "2",
+   "label": "(2)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Fir-rigward tar-roaming fl-Unjoni kollha, ir-Regolament (UE) Nru 531/2012 tal-Parlament Ewropew u tal-Kunsill jikkomplementa u jappoġġa r-regoli previsti mill-qafas regolatorju għall-komunikazzjonijiet elettroniċi u jistabbilixxi ċerti kompiti għall-BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_3",
+   "kind": "recital",
+   "number": "3",
+   "label": "(3)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ir-Regolament (UE) 2015/2120 tal-Parlament Ewropew u tal-Kunsill jistabbilixxi kompiti addizzjonali għall-BEREC b’rabta mal-aċċess għall-Internet miftuħ. Barra minn hekk, il-Linji Gwida tal-BEREC tat-30 ta’ Awwissu 2016 dwar l-Implimentazzjoni tar-Regoli dwar in-Newtralità tal-Internet mill-Awtoritajiet Regolatorji Nazzjonali ntlaqgħu bħala li jipprovdu kjarifika siewja għall-garanzija ta’ Internet b’saħħtu, liberu u miftuħ, billi tiġi żgurata l-applikazzjoni konsistenti tar-regoli biex jiġi ssalvagwardjat it-trattament indaqs u nondiskriminatorju tat-traffiku fil-forniment tas-servizzi tal-aċċess għall-Internet u tad-drittijiet relatati tal-utenti finali.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_4",
+   "kind": "recital",
+   "number": "4",
+   "label": "(4)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Fid-dawl tal-ħtieġa li jiġi żgurat l-iżvilupp ta’ prattika regolatorja konsistenti u l-applikazzjoni konsistenti tal-qafas regolatorju tal-Unjoni għall-komunikazzjonijiet elettroniċi, il-Kummissjoni stabbilixxiet, permezz tad-Deċiżjoni tal-Kummissjoni 2002/627/KE, il-Grupp ta’ Regolaturi Ewropej għan-Netwerks u Servizzi ta’ Komunikazzjonijiet Elettroniċi (GRE) biex jagħti pariri u jassisti lill-Kummissjoni fil-konsolidament tas-suq intern għan-netwerks u servizzi ta’ komunikazzjonijiet elettroniċi u, b’mod aktar ġenerali, biex jipprovdi interfaċċa bejn l-awtoritajiet regolatorji nazzjonali (NRAs, national regulatory authorities) u l-Kummissjoni.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_5",
+   "kind": "recital",
+   "number": "5",
+   "label": "(5)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il-BEREC u l-Uffiċċju ġew stabbiliti bir-Regolament (KE) Nru 1211/2009 tal-Parlament Ewropew u tal-Kunsill. Il-BEREC ħa post il-GRE u kien maħsub biex jikkontribwixxi, minn naħa, għall-iżvilupp u, min-naħa l-oħra, għall-funzjonament aħjar tas-suq intern għan-netwerks u għas-servizzi tal-komunikazzjoni elettronika billi jimmira li jiżgura l-implimentazzjoni konsistenti tal-qafas regolatorju għall-komunikazzjonijiet elettroniċi. Il-BEREC jaġixxi bħala forum għall-kooperazzjoni fost l-NRAs, u bejn l-NRAs u l-Kummissjoni, fl-eżerċizzju tal-firxa sħiħa tar-responsabbiltajiet tagħhom fil-qafas regolatorju tal-Unjoni. Il-BEREC twaqqaf biex jipprovdi għarfien espert u jaġixxi b’mod indipendenti u trasparenti.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_6",
+   "kind": "recital",
+   "number": "6",
+   "label": "(6)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il-BEREC iservi wkoll bħala korp ta’ riflessjoni, dibattitu u ta’ parir għall-Parlament Ewropew, il-Kunsill u l-Kummissjoni fil-qasam tal-komunikazzjoni elettronika.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_7",
+   "kind": "recital",
+   "number": "7",
+   "label": "(7)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "L-Uffiċċju tal-BEREC ġie stabbilit bħala korp Komunitarju b’personalità ġuridika biex iwettaq il-kompiti msemmija fir-Regolament (KE) Nru 1211/2009, b’mod partikolari l-għoti ta’ servizzi ta’ appoġġ professjonali u amministrattiv lill-BEREC. Sabiex jappoġġa b’mod effiċjenti lill-BEREC, l-Uffiċċju ingħata awtonomija legali, amministrattiva u finanzjarja.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_8",
+   "kind": "recital",
+   "number": "8",
+   "label": "(8)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Bid-Deċiżjoni 2010/349/UE, ir-Rappreżentanti tal-Gvernijiet tal-Istati Membri ddeċidew li l-Uffiċċju jkollu s-sede tiegħu f’Riga. Il-Ftehim dwar is-Sede bejn il-Gvern tar-Repubblika tal-Latvja u l-Uffiċċju daħal fis-seħħ fil-5 ta’ Awwissu 2011.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_9",
+   "kind": "recital",
+   "number": "9",
+   "label": "(9)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Fil-komunikazzjoni tagħha tas-6 ta’ Mejju 2015 imsejħa “Strateġija għal Suq Uniku Diġitali għall-Ewropa”, il-Kummissjoni pprevediet li fl-2016 kienet ser tippreżenta proposti għal riforma ambizzjuża tal-qafas regolatorju għall-komunikazzjonijiet elettroniċi li, fost l-oħrajn, tkun tiffoka fuq qafas istituzzjonali regolatorju aktar effettiv ħalli r-regoli dwar it-telekomunikazzjonijiet elettroniċi jkunu jaqdu l-iskop tagħhom bħala parti mill-ħidma biex jinħolqu l-kondizzjonijiet it-tajba għas-suq uniku diġitali. Dawk jinkludu l-introduzzjoni ta’ netwerks b’kapaċità kbira ħafna, ġestjoni aktar koordinata tal-ispektrum tar-radju għan-netwerks bla fili u t-tiswir ta’ kondizzjonijiet ekwi għan-netwerks diġitali avvanzati u s-servizzi innovattivi. Dik il-komunikazzjoni għarrfet li billi l-ambjent tas-suq u l-ambjent teknoloġiku qed kulma jmur jinbidlu, hemm bżonn li jissaħħaħ il-qafas istituzzjonali billi jissaħħaħ ir-rwol tal-BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_10",
+   "kind": "recital",
+   "number": "10",
+   "label": "(10)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Fir-riżoluzzjoni tiegħu tad-19 ta’ Jannar 2016 imsejħa “Lejn Att dwar is-Suq Uniku Diġitali”, il-Parlament Ewropew stieden lill-Kummissjoni biex tintegra aktar is-suq uniku diġitali billi tiżgura li jkun hemm fis-seħħ qafas istituzzjonali aktar effiċjenti.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_11",
+   "kind": "recital",
+   "number": "11",
+   "label": "(11)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il-BEREC u l-Uffiċċju taw kontribut pożittiv għall-implimentazzjoni konsistenti tal-qafas regolatorju għall-komunikazzjonijiet elettroniċi. Madankollu għad hemm differenzi sinifikanti bejn l-Istati Membri fir-rigward tal-prassi regolatorja, li taffettwa lill-kumpaniji involuti fin-negozju transfruntier jew li huma attivi f’għadd sinifikanti ta’ Stati Membri, inkluż fejn jeżistu linji gwida tal-BEREC, iżda li tista’ tiġi żviluppata aktar. Sabiex jingħata kontribut addizzjonali għall-iżvilupp tas-suq intern tal-komunikazzjoni elettronika fl-Unjoni kollha kif ukoll għall-promozzjoni tal-aċċess għal netwerks b’kapaċità kbira ħafna u tal-adozzjoni tagħhom, għall-promozzjoni tal-kompetizzjoni fil-forniment ta’ netwerks, servizzi u faċilitajiet assoċjati tal-komunikazzjoni elettronika u għall-promozzjoni tal-interessi taċ-ċittadini tal-Unjoni, dan ir-Regolament għandu l-għan li jsaħħaħ ir-rwol tal-BEREC. Tali rwol imsaħħaħ ikun jikkomplementa ir-rwol imsaħħaħ li jaqdi l-BEREC wara r-Regolamenti (UE) Nru 531/2012 u (UE) 2015/2120 u d-Direttiva (UE) 2018/1972",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_12",
+   "kind": "recital",
+   "number": "12",
+   "label": "(12)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Fid-dawl tal-iżviluppi teknoloġiċi u tas-suq, li ħafna drabi jinvolvu dimensjoni transfruntiera akbar, u l-esperjenza li nkisbet sa issa fl-isforz biex tkun żgurata l-implimentazzjoni konsistenti fil-qasam tal-komunikazzjoni elettronika, jenħtieġ li wieħed jibni fuq il-ħidma tal-BEREC u tal-Uffiċċju. Jenħtieġ li l-governanza u l-attivitajiet tagħhom ikunu ssimplifikati u adattati għall-kompiti li għandhom iwettqu. Filwaqt li jitqiesu l-proċeduri stabbiliti u s-sett il-ġdid ta’ kompiti assenjat lill-BEREC u lill-Uffiċċju, bil-ħsieb li tissaħħaħ l-effikaċja tagħhom, jenħtieġ li tiġi prevista stabbiltà addizzjonali għall-amministrazzjoni tagħhom u jenħtieġ li l-proċess tat-teħid ta’ deċiżjonijiet jkun issimplifikat.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_13",
+   "kind": "recital",
+   "number": "13",
+   "label": "(13)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Jenħtieġ li l-BEREC jipprovdi għarfien espert u jistabbilixxi kunfidenza bis-saħħa tal-indipendenza tiegħu, il-kwalità tal-parir u l-informazzjoni tiegħu, it-trasparenza tal-proċeduri u tal-metodi ta’ operat tiegħu, u d-diliġenza tiegħu fit-twettiq tal-kompiti tiegħu. Jenħtieġ li l-indipendenza tal-BEREC ma timpedixxix lill-Bord tar-Regolaturi tiegħu milli jiddelibera abbażi ta’ abbozzi mħejjija minn gruppi ta’ ħidma.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_14",
+   "kind": "recital",
+   "number": "14",
+   "label": "(14)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Jenħtieġ li l-isem uffiċjali ġdid tal-Uffiċċju jkun “Aġenzija għall-Appoġġ tal-BEREC” (l-“Uffiċċju tal-BEREC”). Jenħtieġ li d-deżinjazzjoni “Uffiċċju tal-BEREC” tintuża bħala l-isem imqassar tal-Aġenzija. L-Uffiċċju tal-BEREC jenħtieġ li jkollu awtonomija legali, amministrattiva u finanzjarja. Għal dak il-għan, jeħtieġ u jixraq li l-Uffiċċju tal-BEREC ikun korp tal-Unjoni b’personalità ġuridika li jeżerċita s-setgħat mogħtija lilu. Bħala aġenzija deċentralizzata tal-Unjoni, jenħtieġ li l-Uffiċċju tal-BEREC jopera skont il-mandat tiegħu u skont il-qafas istituzzjonali eżistenti. Jenħtieġ li ma jitqiesx bħala li jirrappreżenta xi pożizzjoni tal-Unjoni quddiem udjenza barranija jew li jorbot lill-Unjoni b’obbligi legali.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_15",
+   "kind": "recital",
+   "number": "15",
+   "label": "(15)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Barra minn hekk, jenħtieġ li r-regoli għat-tmexxija u t-tħaddim tal-Uffiċċju tal-BEREC, fejn xieraq, ikunu allinjati mal-prinċipji tad-Dikjarazzjoni Konġunta tal-Parlament Ewropew, tal-Kunsill u tal-Kummissjoni Ewropea tad-19 ta’ Lulju 2012 dwar l-aġenziji deċentralizzati.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_16",
+   "kind": "recital",
+   "number": "16",
+   "label": "(16)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "L-istituzzjonijiet tal-Unjoni u l-NRAs jenħtieġ li jibbenefikaw mill-assistenza u l-konsulenza tal-BEREC, inkluż dwar l-impatt regolatorju rilevanti ta’ kwalunkwe kwistjoni li tirrigwarda d-dinamika globali tas-swieq diġitali jew fir-rigward tar-relazzjoni, id-diskussjonijiet u l-iskambji tagħhom ma’, u d-disseminazzjoni tal-aħjar prattiki regolatorji lil, partijiet terzi. Minbarra l-kontribut tiegħu għall-konsultazzjoni pubblika tal-Kummissjoni, jenħtieġ li l-BEREC, meta mitlub, jagħti pariri lill-Kummissjoni fil-preparazzjoni tal-proposti leġislattivi. Jenħtieġ li l-BEREC ikun jista’ wkoll jipprovdi pariri lill-Parlament Ewropew u lill-Kunsill, fuq talba tagħhom jew fuq inizjattiva tiegħu stess.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_17",
+   "kind": "recital",
+   "number": "17",
+   "label": "(17)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il-BEREC, bħala korp tekniku b’għarfien espert dwar il-komunikazzjoni elettronika u magħmul minn rappreżentanti tal-NRAs u tal-Kummissjoni, hu fl-aħjar pożizzjoni biex jiġi fdat b’kompiti bħal pereżempju, li jikkontribwixxi għal proċeduri effiċjenti tas-suq intern għall-abbozzi tal-miżuri nazzjonali rigward ir-regolamentazzjoni tas-swieq, li jipprovdi l-linji gwida meħtieġa għall-NRAs u awtoritajiet oħra kompetenti biex ikunu żgurati kriterji komuni u approċċ regolatorju konsistenti, u li jżomm ċerti reġistri, bażijiet ta’ data u listi fil-livell tal-Unjoni. Dan hu mingħajr preġudizzju għall-kompiti stabbiliti għall-NRAs, li huma l-eqreb tas-swieq tal-komunikazzjoni elettronika u tal-kondizzjonijiet lokali tagħhom.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_18",
+   "kind": "recital",
+   "number": "18",
+   "label": "(18)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Sabiex iwettaq il-kompiti tiegħu, jenħtieġ li l-BEREC ikompli jakkumula għarfien espert mingħand l-NRAs. Jenħtieġ li l-BEREC ikollu l-għan li jiżgura l-parteċipazzjoni tal-NRAs kollha biex iwettaq il-kompiti regolatorji tiegħu u l-funzjonament tiegħu. Sabiex il-BEREC isir aktar b’saħħtu, biex isir aktar rappreżentattiv u biex jiġu ssalvagwardjati l-għarfien espert, l-esperjenza u l-għarfien tas-sitwazzjoni speċifika tiegħu fil-firxa sħiħa tas-swieq nazzjonali, jenħtieġ li kull Stat Membru jiżgura li l-NRA tiegħu jkollha r-riżorsi finanzjarji u umani adegwati meħtieġa biex tieħu sehem b’mod sħiħ fil-ħidma tal-BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_19",
+   "kind": "recital",
+   "number": "19",
+   "label": "(19)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Fid-dawl tal-konverġenza dejjem akbar bejn is-setturi li jipprovdu servizzi ta’ komunikazzjonijiet elettroniċi, u d-dimensjoni orizzontali tal-kwistjonijiet regolatorji relatati mal-iżvilupp tagħhom, il-BEREC u l-Uffiċċju tal-BEREC jenħtieġ li jkunu jistgħu jikkooperaw ma’, u mingħajr preġudizzju għar-rwol ta’, NRAs, korpi, uffiċċji, aġenziji u gruppi konsultattivi oħra tal-Unjoni, b’mod partikolari l-Grupp għall-Politika dwar l-Ispektrum tar-Radju stabbilit bid-Deċiżjoni tal-Kummissjoni Nru 2002/622/KE, il-Kontrollur Ewropew għall-Protezzjoni tad-Data stabbilit bir-Regolament (UE) 2018/1725 tal-Parlament Ewropew u tal-Kunsill, il-Bord Ewropew tal-Protezzjoni tad-Data stabbilit permezz tar-Regolament (UE) 2016/679 tal-Parlament Ewropew u tal-Kunsill, il-Grupp tar-Regolaturi Ewropej għas-Servizzi tal-Media Awdjoviżiva stabbilit bid-Direttiva 2010/13/UE tal-Parlament Ewropew u tal-Kunsill, u l-Aġenzija tal-Unjoni Ewropea dwar is-Sigurtà tan-Netwerks u l-Informazzjoni stabbilita bir-Regolament (UE) Nru 526/2013 tal-Parlament Ewropew u tal-Kunsill, l-Aġenzija tal-GNSS Ewropea stabbilita bir-Regolament (UE) Nru 912/2010 tal-Parlament Ewropew u tal-Kunsill, in-Netwerk għall-Kooperazzjoni fil-Protezzjoni tal-Konsumaturi stabbilit bir-Regolament (KE) Nru 2006/2004 tal-Parlament Ewropew u tal-Kunsill, in-Netwerk Ewropew għall-Kompetizzjoni u l-organizzazzjonijiet Ewropej tal-istandardizzazzjoni, kif ukoll ma’ kumitati eżistenti (bħall-Kumitat tal-Komunikazzjoni u l-Kumitat tal-Ispektrum tar-Radju). Jenħtieġ li l-BEREC u l-Uffiċċju tal-BEREC jkunu jistgħu jikkooperaw mal-awtoritajiet kompetenti rilevanti tal-Istati Membri responsabbli għall-kompetizzjoni, il-protezzjoni tal-konsumatur u l-protezzjoni tad-data, u mal-awtoritajiet kompetenti tal-pajjiżi terzi, b’mod partikolari, mal-awtoritajiet regolatorji kompetenti fil-qasam tal-komunikazzjoni elettronika u/jew ma’ gruppi ta’ dawk l-awtoritajiet, kif ukoll mal-organizzazzjonijiet internazzjonali, meta dan ikun meħtieġ għat-twettiq tal-kompiti tagħhom. Jenħtieġ li l-BEREC ikun jista’ wkoll jikkonsulta lill-partijiet ikkonċernati permezz ta’ konsultazzjoni pubblika.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_20",
+   "kind": "recital",
+   "number": "20",
+   "label": "(20)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il-BEREC jenħtieġ li jkollu d-dritt jistabbilixxi arranġamenti ta’ ħidma ma’ korpi, uffiċċji, aġenziji u gruppi konsultattivi kompetenti tal-Unjoni, ma’ awtoritajiet kompetenti ta’ pajjiżi terzi u ma’ organizzazzjonijiet internazzjonali, li jenħtieġ li ma joħolqux obbligi legali. L-għan ta’ tali arranġamenti ta’ ħidma jistgħu jkunu, pereżempju, biex jiġu żviluppati relazzjonijiet ta’ kooperazzjoni u skambju ta’ fehmiet dwar kwistjonijiet regolatorji. Jenħtieġ li l-Kummissjoni tiżgura li l-arranġamenti ta’ ħidma neċessarji huma konsistenti mal-politika u l-prijoritajiet tal-Unjoni, u li l-BEREC jopera fil-limiti tal-mandat tiegħu u tal-qafas istituzzjonali eżistenti u ma jitqiesx bħala li jirrappreżenta l-pożizzjoni tal-Unjoni quddiem xi udjenza barranija jew li jorbot lill-Unjoni b’obbligi internazzjonali.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_21",
+   "kind": "recital",
+   "number": "21",
+   "label": "(21)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Jenħtieġ li l-BEREC ikun magħmul mill-Bord tar-Regolaturi u gruppi ta’ ħidma. Ir-rotazzjoni tal-presidenza tal-Bord tar-Regolaturi hija maħsuba biex tiżgura l-kontinwità tal-ħidma tal-BEREC. Hija wkoll promossa rotazzjoni tar-rwoli tal-Viċi Presidenti li jirrappreżentaw diversi NRAs.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_22",
+   "kind": "recital",
+   "number": "22",
+   "label": "(22)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il-BEREC jenħtieġ li jkun jista’ jaġixxi fl-interessi tal-Unjoni, indipendentement minn kwalunkwe intervent estern, inkluż pressjoni politika jew interferenza kummerċjali. Għalhekk huwa importanti li jiġi żgurat li persuni maħturin fil-Bord tar-Regolaturi jgawdu mill-ogħla garanziji ta’ indipendenza personali u funzjonali. Il-kap ta’ NRA, jew membru tal-korp kolleġġjali tagħha, jew is-sostituti ta’ kwalunkwe minnhom, igawdu minn tali livell ta’ indipendenza personali u funzjonali. B’mod aktar speċifiku, jenħtieġ li jaġixxu b’mod indipendenti u oġġettiv, u jenħtieġ li ma ifittxux jew ma jieħdux struzzjonijiet fl-eżerċizzju tal-funzjonijiet tagħhom, u jenħtieġ li jkunu protetti kontra t-tkeċċija arbitrarja. Il-funzjoni tal-membru rappreżentant supplenti fil-Bord tar-Regolaturi tista’ titwettaq ukoll mill-kap tal-NRA, minn membru tal-korp kolleġġjali tagħha, mis-sostitut ta’ kwalunkwe minnhom minn jew membru ieħor tal-persunal tal-NRA, li jaġixxi f’isem, u skont l-ambitu tal-mandat ta’, il-membru sostitwit tal-Bord tar-Regolaturi.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_23",
+   "kind": "recital",
+   "number": "23",
+   "label": "(23)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "L-esperjenza wriet li l-parti l-kbira tal-kompiti tal-BEREC jitwettqu aħjar permezz ta’ gruppi ta’ ħidma, li jenħtieġ li dejjem jiżguraw kunsiderazzjoni ugwali tal-fehmiet u l-kontributi tal-NRAs kollha. Għaldaqstant, jenħtieġ li l-Bord tar-Regolaturi jistabbilixxi gruppi ta’ ħidma u jaħtar il-Presidenti tagħhom. Jenħtieġ li l-NRAs jirrispondu mingħajr dewmien għal talba ta’ ħatra biex jiġi żgurat l-istabbiliment rapidu ta’ ta’ ħidma, b’mod partikolari dawk relatati ma’ proċeduri b’limiti ta’ żmien. Jenħtieġ li l-gruppi ta’ ħidma jkunu miftuħa għall-parteċipazzjoni ta’ esperti mill-Kummissjoni. Jenħtieġ li l-persunal tal-Uffiċċju tal-BEREC jipprovdi appoġġ u jikkontribwixxi għall-attivitajiet tal-gruppi ta’ ħidma.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_24",
+   "kind": "recital",
+   "number": "24",
+   "label": "(24)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Jekk ikun meħtieġ, u fuq bażi ta’ każ b’każ, jenħtieġ li l-Bord tar-Regolaturi u l-Bord Maniġerjali jkunu jistgħu jistiednu lil kwalunkwe persuna li l-opinjoni tagħha tista’ tkun ta’ interess biex tipparteċipa fil-laqgħat tagħhom bħala osservatur.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_25",
+   "kind": "recital",
+   "number": "25",
+   "label": "(25)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Fejn xieraq u skont l-allokazzjoni tal-kompiti lill-awtoritajiet f’kull Stat Membru, il-fehmiet ta’ awtoritajiet kompetenti oħrajn jenħtieġ li jiġu kkunsidrati fil-grupp ta’ ħidma rilevanti, pereżempju permezz tal-konsultazzjoni fil-livell nazzjonali jew billi jkunu mistednin dawk l-awtoritajiet oħrajn għal laqgħat rilevanti fejn ikun meħtieġ l-għarfien espert tagħhom. Fi kwalunkwe każ, jenħtieġ li l-indipendenza tal-BEREC tinżamm.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_26",
+   "kind": "recital",
+   "number": "26",
+   "label": "(26)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Jenħtieġ li l-Bord tar-Regolaturi u l-Bord Maniġerjali joperaw b’mod parallel, bl-ewwel wieħed jiddeċiedi l-aktar fuq kwistjonijiet regolatorji u bit-tieni wieħed jiddeċiedi fuq kwistjonijiet amministrattivi bħall-kwistjonijiet marbuta mal-baġit, il-persunal u l-awditi. Fil-prinċipju u minbarra r-rappreżentanti tal-Kummissjoni, ir-rappreżentanti tal-NRAs fil-Bord Maniġerjali jenħtieġ li jkunu l-istess persuni maħtura għall-Bord tar-Regolaturi, iżda jenħtieġ li l-NRAs jkunu jistgħu jaħtru rappreżentanti oħrajn li jissodisfaw l-istess rekwiżiti.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_27",
+   "kind": "recital",
+   "number": "27",
+   "label": "(27)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Is-setgħat tal-awtorità tal-ħatra kienu qabel eżerċitati mill-Viċi President tal- Kumitat Maniġerjali tal-Uffiċċju. Dan ir-Regolament jipprevedi li l-Bord Maniġerjali jiddelega s-setgħat rilevanti tal-awtorità tal-ħatra lid-Direttur, li huwa awtorizzat jissottodelega dawn is-setgħat. Dan għandu l-għan li jikkontribwixxi għall-ġestjoni effiċjenti tal-persunal tal-Uffiċċju tal-BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_28",
+   "kind": "recital",
+   "number": "28",
+   "label": "(28)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il-Bord tar-Regolaturi u l-Bord Maniġerjali jenħtieġ li jiltaqgħu għal sessjoni ordinarja mill-anqas darbtejn fis-sena. Fid-dawl tal-esperjenza fil-passat u r-rwol imsaħħaħ tal-BEREC, il-Bord tar-Regolaturi jew il-Bord Maniġerjali jista’ jkollhom bżonn jorganizzaw laqgħat addizzjonali.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_29",
+   "kind": "recital",
+   "number": "29",
+   "label": "(29)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Jenħtieġ li d-Direttur jibqa’ r-rappreżentant tal-Uffiċċju tal-BEREC fir-rigward ta’ kwistjonijiet legali u amministrattivi. Jenħtieġ li l-Bord Maniġerjali jaħtar id-Direttur, wara proċedura tal-għażla miftuħa u trasparenti sabiex tkun żgurata evalwazzjoni bir-reqqa tal-kandidati u livell għoli ta’ indipendenza.Il-mandat tal-Maniġer Amministrattiv tal-Uffiċċju qabel kien ta’ tliet snin. Jeħtieġ li d-Direttur ikollu mandat twil biżżejjed biex ikunu żgurati l-istabbiltà u t-twassil ta’ strateġija fit-tul għall-Uffiċċju tal-BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_30",
+   "kind": "recital",
+   "number": "30",
+   "label": "(30)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Jenħtieġ li għall-Uffiċċju tal-BEREC japplika r-Regolament ta’ Delega tal-Kummissjoni (UE) Nru 1271/2013.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_31",
+   "kind": "recital",
+   "number": "31",
+   "label": "(31)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Jenħtieġ li l-Uffiċċju tal-BEREC jipprovdi l-appoġġ professjonali u amministrattiv neċessarju kollu għall-ħidma tal-BEREC, inkluż appoġġ finanzjarju, organizzattiv u loġistiku, u jenħtieġ li jikkontribwixxi għall-ħidma regolatorja tal-BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_32",
+   "kind": "recital",
+   "number": "32",
+   "label": "(32)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Sabiex jiġu żgurati l-awtonomija u l-indipendenza tal-Uffiċċju tal-BEREC, u sabiex jingħata appoġġ lill-ħidma tal-BEREC, jenħtieġ li l-Uffiċċju tal-BEREC ikollu l-baġit proprju tiegħu, li l-parti l-kbira tiegħu jenħtieġ li tkun ġejja minn kontribuzzjoni tal-Unjoni. Jenħtieġ li l-baġit ikun adegwat u li jirrifletti l-kompiti addizzjonali assenjati u r-rwol imsaħħaħ tal-BEREC u tal-Uffiċċju tal-BEREC. Il-finanzjament tal-Uffiċċju tal-BEREC jenħtieġ li jkun soġġett għal ftehim mill-awtorità baġitarja kif stabbilit fil-punt 31 tal-Ftehim Interistituzzjonali tat-2 ta’ Diċembru 2013 bejn il-Parlament Ewropew, il-Kunsill u l-Kummissjoni dwar dixxiplina baġitarja, dwar kooperazzjoni f’materji ta’ baġit u dwar ġestjoni finanzjarja tajba.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_33",
+   "kind": "recital",
+   "number": "33",
+   "label": "(33)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Jenħtieġ li l-Uffiċċju tal-BEREC ikollu persunal adegwat biex iwettaq id-dmirijietu. Jenħtieġ li l-kompiti kollha assenjati lill-Uffiċċju tal-BEREC, inkluż servizzi professjonali u amministrattivi li jappoġġaw lill-BEREC fit-twettiq tal-kompiti regolatorji tiegħu, flimkien mal-konformità mar-regolamenti dwar il-finanzjament, il-persunal u regolamenti applikabbli oħra, u l-piż akbar tal-kompiti operazzjonali meħtieġa tal-Uffiċċju tal-BEREC vis-à-vis dawk amministrattivi, jiġu debitament ivvalutati u riflessi fil- programmazzjoni tar-riżorsi.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_34",
+   "kind": "recital",
+   "number": "34",
+   "label": "(34)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Sabiex tkompli tiġi estiża l-implimentazzjoni konsistenti tal-qafas regolatorju għall-komunikazzjonijiet elettroniċi, jenħtieġ li l-Bord tar-Regolaturi, il-gruppi ta’ ħidma u l-Bord Maniġerjali ikunu miftuħa għall-parteċipazzjoni tal-awtoritajiet regolatorji tal-pajjiżi terzi li huma kompetenti fil-qasam tal-komunikazzjoni elettronika fejn dawk il-pajjiżi terzi daħlu fi ftehimiet mal-Unjoni għal dak l-iskop, bħal Stati tal-EFTA taż-ŻEE u pajjiżi kandidati.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_35",
+   "kind": "recital",
+   "number": "35",
+   "label": "(35)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "F’konformità mal-prinċipju ta’ trasparenza, jenħtieġ li l-BEREC u l-Uffiċċju tal-BEREC, fejn rilevanti, jippubblikaw informazzjoni dwar il-ħidma tagħhom fuq is-sit web tagħhom. B’mod partikolari, jenħtieġ li l-BEREC jagħmel pubbliku kwalunkwe dokument finali maħruġa fit-twettiq tal-kompiti tiegħu, bħal opinjonijiet, linji gwida, rapporti, rakkomandazzjonijiet, pożizzjonijiet komuni u l-aħjar prattiki, kif ukoll kwalunkwe studju li jiġi kkummissjonat biex jappoġġa l-kompiti tiegħu. Jenħtieġ li l-BEREC u l-Uffiċċju tal-BEREC jagħmlu pubbliċi wkoll listi aġġornati tal-kompiti tagħhom u listi aġġornati tal-membri, is-sostituti u l-parteċipanti oħra tal-laqgħat ta’ korpi organizzattivi tagħhom, u d-dikjarazzjonijiet tal-interessi magħmulin mill-membri tal-Bord tar-Regolaturi, mill-membri tal-Bord Maniġerjali u mid-Direttur.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_36",
+   "kind": "recital",
+   "number": "36",
+   "label": "(36)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Jenħtieġ li l-BEREC, bl-appoġġ tal-Uffiċċju tal-BEREC, ikun jista’ jinvolvi ruħu f’attivitajiet ta’ komunikazzjoni fil-qasam ta’ kompetenza tiegħu, li ma jkunux ta’ detriment għall-kompiti ewlenin tal-BEREC. Jenħtieġ li l-kontenut u l-implimentazzjoni tal-istrateġija tal-komunikazzjoni tal-BEREC ikunu konsistenti, oġġettivi, rilevanti u kkoordinati mal-istrateġiji u l-attivitajiet tal-Kummissjoni u tal-istituzzjonijiet l-oħra sabiex jittieħed kont tal-identità viżiva usa’ tal-Unjoni. Jenħtieġ li l-attivitajiet ta’ komunikazzjoni tal-Uffiċċju tal-BEREC jitwettqu f’konformità mal-pjanijiet rilevanti tal-komunikazzjoni u tad-disseminazzjoni adottati mill-Bord Maniġerjali.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_37",
+   "kind": "recital",
+   "number": "37",
+   "label": "(37)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Sabiex iwettqu l-kompiti tagħhom b’mod effettiv, il-BEREC u l-Uffiċċju tal-BEREC jeħtieġ li jkollhom d-dritt jitolbu l-informazzjoni kollha meħtieġa mingħand il-Kummissjoni, l-NRAs, u, bħala l-aħħar rimedju, mingħand awtoritajiet u impriżi oħrajn. It-talbiet għall-informazzjoni jenħtieġ li jagħtu raġunijiet, li jkunu proporzjonati u li ma jitfgħux piż żejjed fuq id-destinatarji. L-NRAs jenħtieġ li jikkooperaw mal-BEREC u l-Uffiċċju tal-BEREC u li jipprovdulhom informazzjoni preċiża u fil-ħin biex jiżguraw li l-BEREC u l-Uffiċċju tal-BEREC ikunu jistgħu jwettqu l-kompiti tagħhom. Jenħtieġ ukoll li l-BEREC u l-Uffiċċju tal-BEREC, skont il-prinċipju ta’ kooperazzjoni leali, jikkondividu l-informazzjoni kollha neċessarja mal-Kummissjoni, l-NRAs u awtoritajiet kompetenti oħrajn. Fejn rilevanti, jenħtieġ li tiġi żgurata l-kunfidenzjalità tal-informazzjoni. Meta jivvaluta jekk talba tkunx ġustifikata kif xieraq, il-BEREC jeħtieġ li jqis jekk l-informazzjoni mitluba hijiex relatata mat-twettiq tal-kompiti li huma attribwiti esklużivament lill-awtoritajiet relevanti.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_38",
+   "kind": "recital",
+   "number": "38",
+   "label": "(38)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Jenħtieġ li l-Uffiċċju tal-BEREC jistabbilixxi sistema komuni ta’ informazzjoni u komunikazzjoni sabiex jevita d-duplikazzjoni ta’ talbiet għal informazzjoni u jiffaċilita l-komunikazzjoni fost l-awtoritajiet kollha involuti.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_39",
+   "kind": "recital",
+   "number": "39",
+   "label": "(39)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Sabiex jiġi żgurat livell għoli ta’ kunfidenzjalità u jiġu evitati kunflitti ta’ interessi, ir-regoli dwar dawk il-kwistjonijiet li japplikaw għall-membri tal-korpi organizzattivi tal-BEREC u tal-Uffiċċju tal-BEREC japplikaw għas-sostituti tagħhom.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_40",
+   "kind": "recital",
+   "number": "40",
+   "label": "(40)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Peress li dan ir-Regolament jassenja kompiti ġodda lill-BEREC u lill-Uffiċċju tal-BEREC u atti legali oħrajn tal-Unjoni jistgħu jassenjaw kompiti addizzjonali permezz, jenħtieġ li l-Kummissjoni twettaq evalwazzjoni regolari tal-operat tal-BEREC u tal-Uffiċċju tal-BEREC u tal-effikaċja tal-istruttura istituzzjonali tagħhom f’ambjent diġitali li qed jinbidel. Jekk, bħala eżitu ta’ dik il-valutazzjoni, il-Kummissjoni ssib li l-istruttura istituzzjonali mhijiex adatta għat-twettiq tal-kompiti tal-BEREC u tal-Uffiċċju tal-BEREC, u, b’mod partikolari, biex tiġi żgurata l-implimentazzjoni konsistenti tal-qafas regolatorju għall-komunikazzjonijiet elettroniċi, ikun jenħtieġ li tesplora l-għażliet kollha possibbli biex titjieb dik l-istruttura.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_41",
+   "kind": "recital",
+   "number": "41",
+   "label": "(41)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "L-Uffiċċju, li ġie stabbilit bħala korp Komunitarju b’personalità ġuridika bir-Regolament (KE) Nru 1211/2009, qed jinbidel bl-Uffiċċju tal-BEREC stabbilit f’dan ir-Regolament fir-rigward tas-sjieda, il-ftehimiet, inkluż il-Ftehim dwar is-Sede, l-obbligi legali, il-kuntratti tal-impjiegi, u l-impenji u r-responsabbiltajiet finanzjarji kollha. L-Uffiċċju tal-BEREC jenħtieġ li jimpjega l-persunal tal-Uffiċċju li d-drittijiet u l-obbligi tiegħu jenħtieġ li ma jintlaqtux. Sabiex tiġi żgurata l-kontinwità fil-ħidma tal-BEREC u tal-Uffiċċju, jeħtieġ li r-rappreżentanti tagħhom, jiġifieri l-President u l-Viċi Presidenti tal-Bord tar-Regolaturi, il-Kumitat Maniġerjali u l-Maniġer Amministrattiv, jibqgħu iservu sat-tmiem tal-mandat tagħhom.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_42",
+   "kind": "recital",
+   "number": "42",
+   "label": "(42)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Għadd sinifikanti ta’ konsumaturi f’ħafna mill-Istati Membri għadhom jiddependu fuq komunikazzjonijiet internazzjonali tat-telefonija tradizzjonali bħal telefonati u messaġġi SMS, minkejja li għadd dejjem akbar ta’ konsumaturi għandhom aċċess għal servizzi ta’ komunikazzjonijiet interpersonali indipendenti min-numri għat-telefonati internazzjonali tagħhom b’tariffi aktar baxxi minn servizzi tradizzjonali jew mingħajr ħlas monetarju.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_43",
+   "kind": "recital",
+   "number": "43",
+   "label": "(43)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Fl-2013 il-Kummissjoni pproponiet Regolament b’impatt ivvalutat li inkluda dispożizzjoni b’miżuri regolatorji applikabbli għal komunikazzjonijiet intra-UE. Mill-2017 sal-2018 inġabret data addizzjonali dwar is-suq tal-komunikazzjonijiet intra-UE mill-BEREC u mill-Kummissjoni permezz ta’ studju tal-Kummissjoni u l-Eurobarometer. Kif muri minn dik id-data, jibqgħu jiddominaw differenzi sinifikanti fil-prezzijiet, kemm għall-komunikazzjoni fissa kif ukoll għal dik mobbli, bejn il-komunikazzjonijiet domestiċi bil-vuċi u bl-SMS u dawk li jispiċċaw fi Stat Membru ieħor f’kuntest ta’ varjazzjonijiet sostanzjali fil-prezzijiet bejn il-pajjiżi, il-fornituri u l-pakketti tat-tariffi, u bejn komunikazzjonijiet mobbli u fissi bil-vuċi. Il-fornituri ta’ servizzi disponibbli pubblikament ta’ komunikazzjonijiet interpersonali bbażati fuq in-numri spiss jimponu prezzijiet tal-komunikazzjonijiet intra-UE bbażati fuq il-konsum li jaqbżu bil-kbir il-prezzijiet għal tariffi domestiċi flimkien ma’ spejjeż addizzjonali. Bħala medja, il-prezz standard ta’ telefonata intra-UE mobbli jew fissa għandha t-tendenza li tkun tliet darbiet ogħla mill-prezz standard ta’ telefonata nazzjonali u l-prezz standard ta’ messaġġ SMS intra-UE iktar minn darbtejn ogħla minn waħda domestika. Madankollu, dawn il-medji aritmetiċi jaħbu differenzi sinifikanti fost l-Istati Membri. F’xi każijiet il-prezz standard ta’ telefonati intra-UE jista’ jkun sa tmien darbiet ogħla mill-prezz standard għal telefonati domestiċi. Konsegwenza ta’ dan, il-konsumaturi f’diversi Stati Membri huma esposti għal prezzijiet għoljin ħafna għall-komunikazzjonijiet intra-UE. Dawk il-prezzijiet għoljin jaffettwaw prinċipalment il-konsumaturi, b’mod partikolari dawk li ma jagħmlux it-tali komunikazzjonijiet b’mod frekwenti jew li jkollhom volum baxx ta’ konsum, li jirrappreżentaw il-maġġoranza vasta tal-konsumaturi li jużaw komunikazzjonijiet intra-UE. Fl-istess ħin, diversi fornituri jipproponu offerti speċjali partikolarment attraenti għall-klijenti tan-negozju u l-konsumaturi b’konsum sinifikanti ta’ komunikazzjonijiet intra-UE. Tali offerti spiss ma jibbażawx l-imposti tagħhom fuq il-konsum attwali u jistgħu jikkonsistu f’ċertu numru ta’ minuti ta’ telefonati jew messaġġi SMS intra-UE għal tariffa fissa ta’ kull xahar (offerti suppliment) jew fl-inklużjoni ta’ ċertu numru ta’ minuti ta’ telefonati jew messaġġi SMS intra-UE fl-allowance fix-xahar tal-minuti ta’ telefonati jew messaġġi SMS, jew mingħajr ebda ħlas addizzjonali jew bi ħlas addizzjonali żgħir. Madankollu, it-termini ta’ dawn l-offerti spiss ma jkunux attraenti għal konsumaturi b’volumi okkażjonali, imprevedibbli jew relattivament baxxi ta’ komunikazzjonijiet intra-UE. Konsegwentement, dawk il-konsumaturi jirriskjaw li jħallsu prezzijiet eċċessivi għall-komunikazzjonijiet intra-UE tagħhom u jenħtieġ li jkunu protetti.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_44",
+   "kind": "recital",
+   "number": "44",
+   "label": "(44)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Barra minn hekk, il-prezzijiet għoljin għal komunikazzjonijiet intra-UE jirrappreżentaw ostaklu għall-funzjonament tas-suq intern peress li dawn jiskoraġġixxu t-tfittxija u x-xiri ta’ oġġetti u servizzi minn fornitur li jinsab fi Stat Membru ieħor. Huwa għalhekk meħtieġ li jiġu stabbiliti limiti speċifiċi u proporzjonati għall-prezz li l-fornituri ta’ servizzi disponibbli pubblikament ta’ komunikazzjonijiet interpersonali bbażati fuq in-numri jistgħu jimponu l-konsumaturi għal komunikazzjonijiet intra-UE sabiex jiġu eliminati tali prezzijiet għoljin.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_45",
+   "kind": "recital",
+   "number": "45",
+   "label": "(45)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Meta l-fornituri ta’ servizzi disponibbli pubblikament ta’ komunikazzjonijiet interpersonali bbażati fuq in-numri jimponu ħlas lill-konsumaturi tagħhom għal komunikazzjonijiet intra-UE b’rati kompletament jew parzjalment ibbażati fuq il-konsum ta’ tali servizzi, inkluż f’każijiet ta’ tnaqqis minn fuq il-konsum ta’ kull xahar jew allowance mħallsa minn qabel għal servizzi bħal dawn, jenħtieġ li dawk ir-rati ma jaqbżux EUR 0,19 kull minuta għal telefonati u EUR 0,06 għal kull messaġġ SMS. Dawk il-limiti massimi jikkorrispondu għall-prezzijiet massimi li japplikaw bħalissa, rispettivament, għal telefonati u messaġġi SMS fuq roaming regolati. Waqt ir-roaming fl-Unjoni, il-konsumaturi jibbenefikaw mill-protezzjoni tat-tariffa euro għall-komunikazzjonijiet bil-vuċi u mill-protezzjoni tat-tariffa euro għall-komunikazzjonijiet bl-SMS li ġew progressivament sostitwiti mir-roaming “daqslikieku f’pajjiżek”. Dawk il-limiti massimi huma meqjusa wkoll bħala punt ta’ riferiment xieraq biex tiġi ffissata r-rata massima għal komunikazzjonijiet intra-UE regolati għal ħames snin li jibdew mill-15 ta’ Mejju 2019. Il-livell tal-limitu attwali jirrappreżenta xibka ta’ sikurezza sempliċi, trasparenti u ppruvata għal protezzjoni kontra prezzijiet għoljin u huwa adattat bħala limitu massimu għall-prezzijiet bl-imnut tal-komunikazzjonijiet intra-UE regolati kollha. Kemm it-telefonati bir-roaming fl-Unjoni kif ukoll it-telefonati intra-UE għandhom struttura simili tal-ispejjeż.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_46",
+   "kind": "recital",
+   "number": "46",
+   "label": "(46)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Jenħtieġ li l-limiti massimi jippermettu lill-fornituri ta’ servizzi disponibbli pubblikament ta’ komunikazzjonijiet interpersonali bbażati fuq in-numri jirkupraw l-ispejjeż tagħhom, u b’hekk jiġi żgurat intervent proporzjonat kemm fis-suq tat-telefonati mobbli kif ukoll fissi. Il-limiti massimi ser japplikaw direttament biss għal rati bbażati fuq il-konsum attwali. Jenħtieġ li jkollhom ukoll effett ta’ dixxiplina fuq dawk l-offerti fejn ċertu volum ta’ komunikazzjonijiet intra-UE jkun inkluż mingħajr ma jkunu imposti separatament peress li l-konsumaturi jkollhom l-għażla li jaqilbu għal tariffi għall-komunikazzjonijiet intra-UE tagħhom ibbażati fuq il-konsum. Il-volumi ta’ komunikazzjoni intra-UE li jmorru lil hinn minn dawk inklużi f’pakkett u li jiġu imposti separatament jenħtieġ li jkunu suġġetti għal-limitu massimu. Jenħtieġ li l-miżura tiżgura, b’mod proporzjonat, li l-konsumaturi b’livell baxx ta’ konsum ta’ komunikazzjonijiet intra-UE jkunu protetti kontra prezzijiet għoljin u fl-istess ħin jenħtieġ li jkollha biss impatt moderat fuq il-fornituri.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_47",
+   "kind": "recital",
+   "number": "47",
+   "label": "(47)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il-fornituri ta’ servizzi disponibbli pubblikament ta’ komunikazzjonijiet interpersonali bbażati fuq in-numri jenħtieġ li jkunu jistgħu jipproponu lill-konsumaturi tagħhom offerti ta’ tariffi alternattivi għal komunikazzjonijiet internazzjonali b’rati differenti għal komunikazzjonijiet intra-UE regolati u l-konsumaturi jenħtieġ li jkunu liberi li jagħżlu dawn l-offerti espliċitament, u jaqilbu lura fi kwalunkwe ħin u mingħajr ħlas, anke għal offerti li l-konsumaturi kienu sottoskritti għalihom qabel id-dħul fis-seħħ ta’ tali dispożizzjonijiet. Jenħtieġ li offerti alternattivi għal komunikazzjonijiet internazzjonali biss, bħal dawk li jkopru kull jew xi pajjiżi terzi, fejn aċċettati minn konsumatur, jippermettu li fornitur joħroġ mill-obbligu tiegħu li ma jaqbiżx il-limiti massimi għal komunikazzjonijiet intra-UE regolati. Vantaġġi oħra, bħal tagħmir terminali sussidjat jew skontijiet fuq servizzi ta’ komunikazzjoni elettroniċi oħra, offruti minn fornituri lill-konsumaturi huma parti normali mill-interazzjoni kompetittiva u jenħtieġ li ma jaffettwawx l-applikabbiltà tal-limiti massimi tal-prezzijiet għall-komunikazzjonijiet intra-UE regolati.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_48",
+   "kind": "recital",
+   "number": "48",
+   "label": "(48)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Xi fornituri ta’ servizzi disponibbli pubblikament ta’ komunikazzjonijiet interpersonali bbażati fuq in-numri jistgħu jintlaqtu ferm aktar mill-maġġoranza ta’ fornituri oħra fl-Unjoni minn limitu massimu tal-prezz għal komunikazzjonijiet intra-UE regolati. Dan jista’ jkun il-każ, b’mod partikolari, għal dawk il-fornituri li jiġġeneraw sehem partikolarment kbir ta’ dħul jew profitti operattivi tagħhom mill-komunikazzjonijiet intra-UE u/jew li l-marġnijiet domestiċi tagħhom huma baxxi meta mqabbla mal-parametri referenzjarji tal-industrija. Bħala konsegwenza tal-kompressjoni tal-marġni rigward il-komunikazzjonijiet intra-UE regolati, jista’ jkun li fornitur ma jkunx kapaċi jsostni mudell tal-ipprezzar domestiku tiegħu. Tali xenarji ftit li xejn jistgħu jiġrugħaliex il-prezzijiet massimi huma b’mod ċar aktar mill-ispejjeż biex jiġu pprovduti komunikazzjonijiet intra-UE. Madankollu, sabiex jindirizzaw tali xenarji ferm eċċezzjonali b’mod proporzjonat, jenħtieġ li l-NRAs jkollhom is-setgħa li jagħtu deroga fuq talba ta’ tali fornitur f’każijiet ġustifikati u eċċezzjonali.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_49",
+   "kind": "recital",
+   "number": "49",
+   "label": "(49)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Jenħtieġ li kull deroga tingħata biss fejn fornitur jista’ juri, kontra parametru referenzjarju rilevanti stabbilit mill-BEREC, li huwa milqut sinifikantement aktar mill-maġġoranza tal-fornituri l-oħra fl-Unjoni u li dak l-impatt ikun idgħajjef b’mod sinifikanti l-kapaċità tal-fornitur li jżomm il-mudell tat-tariffi tiegħu għall-komunikazzjonijiet. Fejn NRA tagħti deroga, jenħtieġ li din tiddetermina l-livell tal-prezz massimu li fornitur jista’ japplika għal komunikazzjonijiet intra-UE regolati u li jagħmluha possibbli li jinżamm livell ta’ prezz kompetittiv għal komunikazzjonijiet domestiċi. Kwalunkwe deroga bħal din jenħtieġ li tkun limitata għal sena u tkun tiġġedded jekk il-fornitur juri li l-kondizzjonijiet għal deroga għadhom jiġu ssodisfati.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_50",
+   "kind": "recital",
+   "number": "50",
+   "label": "(50)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Fid-dawl tal-prinċipju ta’ proporzjonalità, jenħtieġ li l-applikabbiltà tal-limiti massimi tal-prezzijiet għal komunikazzjonijiet intra-UE regolati tkun limitata fiż-żmien u jenħtieġ li tiskadi ħames snin wara d-dħul fis-seħħ tagħha. Jenħtieġ li tali tul ta’ żmien limitat jippermetti valutazzjoni xierqa tal-effetti tal-miżuri u evalwazzjoni sa liema punt hemm ħtieġa kontinwa biex jiġu protetti l-konsumaturi.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_51",
+   "kind": "recital",
+   "number": "51",
+   "label": "(51)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Sabiex tiġi żgurata protezzjoni l-aktar effettiva, f’waqtha, konsistenti, u madwar l-Unjoni kollha tal-konsumaturi affettwati b’mod negattiv mid-differenzi sinifikanti fil-prezzijiet ta’ komunikazzjonijiet intra-UE, tali dispożizzjonijiet jenħtieġ li jkunu applikabbli direttament u stabbiliti f’regolament. L-aktar Regolament adattat għal dak il-għan huwa r-Regolament (UE) 2015/2120, li ġie adottat wara valutazzjoni tal-impatt li ppropona, fost l-oħrajn, dispożizzjoni dwar komunikazzjonijiet intra-UE bħala mezz neċessarju biex jitlesta s-suq intern għall-komunikazzjonijiet elettroniċi. L-impatti probabbli fuq id-dħul tal-fornituri derivat mill-forniment ta’ komunikazzjonijiet intra-UE huma mitigati aktar bl-applikazzjoni tat-tariffa Euro tar-roaming għall-komunikazzjonijiet bil-vuċi u tat-tariffa Euro tar-roaming għall-komunikazzjonijiet bl-SMS bħala limiti massimi kemm għall-komunikazzjonijiet fissi kif ukoll għal dawk mobbli, li jservu bħala mekkaniżmu ta’ sigurtà; u mill-provi, ipprovduti minn analiżi tal-BEREC għall-2018, ta’ tnaqqis konsiderevoli fil-volumi rilevanti tat-traffiku fissi affettwati mill-miżura fil-frattemp. Jenħtieġ għalhekk li dawk id-dispożizzjonijiet jiġu introdotti bħala emenda fir-Regolament (UE) 2015/2120, li jenħtieġ ukoll li jiġi adattat biex jiġi żgurat li l-Istati Membri jadottaw regoli dwar pieni għall-ksur ta’ tali dispożizzjonijiet.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_52",
+   "kind": "recital",
+   "number": "52",
+   "label": "(52)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Billi l-għanijiet ta’ dan ir-Regolament, jiġifieri sabiex tkun żgurata implimentazzjoni konsistenti tal-qafas regolatorju għall-komunikazzjonijiet elettroniċi, b’mod partikolari b’rabta mal-aspetti transfruntiera u permezz ta’ proċeduri effiċjenti tas-suq intern għall-abbozzi tal-miżuri nazzjonali, u l-għan li jkun żgurat li l-konsumaturi ma jintalbux prezzijiet eċċessivi biex jagħmlu komunikazzjonijiet interpersonali bbażati fuq in-numri li joriġinaw fl-Istat Membru tal-fornitur domestiku tal-konsumatur u jintemmu f’kwalunkwe numru fiss jew mobbli fi Stat Membru ieħor, ma jistgħux jinkisbu suffiċjentement mill-Istati Membri iżda jistgħu pjuttost, minħabba l-iskala u l-effetti tal-azzjoni, jinkisbu aħjar fil-livell tal-Unjoni, l-Unjoni tista’ tadotta miżuri, f’konformità mal-prinċipju tas-sussidjarjetà kif stabbilit fl-Artikolu 5 tat-Trattat dwar l-Unjoni Ewropea. F’konformità mal-prinċipju ta’ proporzjonalità kif stabbilit f’dak l-Artikolu, dan ir-Regolament ma jmurx lil hinn minn dak li huwa meħtieġ sabiex jinkisbu dawk l-għanijiet.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_53",
+   "kind": "recital",
+   "number": "53",
+   "label": "(53)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Dan ir-Regolament jemenda u jestendi l-kamp ta’ applikazzjoni tar-Regolament (KE) Nru 1211/2009. Billi l-emendi li jeħtieġu jsiru huma ta’ natura sostanzjali, jenħtieġ li dak l-att, fl-interessi taċ-ċarezza, jitħassar. Jenħtieġ li r-referenzi għar-Regolament imħassar jitqiesu bħala referenzi għal dan ir-Regolament,",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_1",
+   "kind": "article",
+   "number": "1",
+   "label": "Artikolu 1",
+   "title": "Is-suġġett u l-kamp ta’ applikazzjoni",
+   "path": [
+    "KAPITOLU I — SUĠĠETT U KAMP TA’ APPLIKAZZJONI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Dan ir-Regolament jistabbilixxi l-Korp ta’ Regolaturi Ewropej tal-Komunikazzjonijiet Elettroniċi (“BEREC”) u l-Aġenzija għall-Appoġġ tal-BEREC (l-“Uffiċċju tal-BEREC”).",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il-BEREC u l-Uffiċċju tal-BEREC, rispettivament, jissostitwixxu, u jieħdu l-funzjonijiet ta’, il-Korp ta’ Regolaturi Ewropej tal-Komunikazzjonijiet Elettroniċi u l-Uffiċċju, li kienu stabbiliti mir-Regolament (KE) Nru 1211/2009.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_2",
+   "kind": "article",
+   "number": "2",
+   "label": "Artikolu 2",
+   "title": "Il-personalità ġuridika tal-Uffiċċju tal-BEREC",
+   "path": [
+    "KAPITOLU I — SUĠĠETT U KAMP TA’ APPLIKAZZJONI"
+   ],
+   "blocks": [
+    {
+     "text": "1. L-Uffiċċju tal-BEREC għandu jkun korp tal-Unjoni. Huwa għandu jkollu personalità ġuridika.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. F’kull Stat Membru, l-Uffiċċju tal-BEREC għandu jkollu l-kapaċità ġuridika l-aktar estensiva li tingħata lill-persuni ġuridiċi taħt il-liġi nazzjonali. B’mod partikolari, huwa għandu jkun jista’ jikseb u jiddisponi minn proprjetà mobbli u immobbli u jkun parti fi proċedimenti legali.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. L-Uffiċċju tal-BEREC għandu jkun rappreżentat mid-Direttur tiegħu.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. L-Uffiċċju tal-BEREC għandu jkollu r-responsabbiltà unika għall-kompiti assenjati u s-setgħat mogħtija lilu.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. L-Uffiċċju tal-BEREC għandu jkollu s-sede tiegħu f’Riga.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_3",
+   "kind": "article",
+   "number": "3",
+   "label": "Artikolu 3",
+   "title": "Objettivi tal-BEREC",
+   "path": [
+    "KAPITOLU II — OBJETTIVI U KOMPITI TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il-BEREC għandu jaġixxi fil-kamp ta’ applikazzjoni tar-Regolamenti (UE) Nru 531/2012 u (UE) 2015/2120 u tad-Direttiva (UE) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il-BEREC għandu jsegwi l-objettivi stabbiliti fl-Artikolu 3 tad-Direttiva (UE) 2018/1972. B’mod partikolari, il-BEREC għandu jkollu l-għan li jiżgura implimentazzjoni konsistenti tal-qafas regolatorju għall-komunikazzjonijiet elettroniċi fil-kamp ta’ applikazzjoni msemmi fil-paragrafu 1 ta’ dan l-Artikolu.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il-BEREC għandu jwettaq il-kompiti tiegħu b’mod indipendenti, imparzjali, trasparenti u f’waqtu.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Il-BEREC għandu jagħmel użu mill-għarfien espert disponibbli fl-awtoritajiet regolatorji nazzjonali (NRAs).",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. F’konformità mal-Artikolu 9(3) tad-Direttiva (UE) 2018/1972, kull Stat Membru għandu jiżgura li l-NRAs tiegħu jistgħu jipparteċipaw b’mod sħiħ fil-ħidma tal-korpi organizzattivi tal-BEREC.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Fl-Istati Membri fejn ikun hemm aktar minn NRA waħda responsabbli taħt id-Direttiva (UE) 2018/1972, dawk l-NRAs għandhom jikkoordinaw ma’ xulxin kif meħtieġ.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_4",
+   "kind": "article",
+   "number": "4",
+   "label": "Artikolu 4",
+   "title": "Kompiti regolatorji tal-BEREC",
+   "path": [
+    "KAPITOLU II — OBJETTIVI U KOMPITI TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il-BEREC għandu jkollu l-kompiti regolatorji li ġejjin:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(a) jassisti u jipprovdi pariri lill-NRAs, lill-Parlament Ewropew u lill-Kunsill u lill-Kummissjoni, u jikkoopera mal-NRAs u l-Kummissjoni, fuq talba jew fuq l-inizjattiva tiegħu stess, dwar kwalunkwe kwistjoni teknika fir-rigward tal-komunikazzjoni elettronika fi ħdan il-kompetenza tiegħu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(b) jassisti u jipprovdi pariri lill-Kummissjoni, fuq talba, b’rabta mat-tħejjija tal-proposti għal atti leġislattivi fil-qasam tal-komunikazzjoni elettronika, inkluż dwar kwalunkwe emenda proposta għal dan ir-Regolament jew għad-Direttiva (UE) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(c) joħroġ opinjonijiet kif imsemmi fir-Regolament (UE) Nru 531/2012 u fid-Direttiva (UE) 2018/1972, b’mod partikolari dwar: (i) ir-riżoluzzjoni tat-tilwim transfruntier f’konformità mal-Artikolu 27 tad-Direttiva (UE) 2018/1972; (ii) l-abbozzi tal-miżuri nazzjonali relatati mal-proċeduri tas-suq intern għar-regolamentazzjoni tas-swieq f’konformità mal-Artikoli 32, 33 u 66 tad-Direttiva (UE) 2018/1972; (iii) abbozzi ta’ deċiżjonijiet u rakkomandazzjonijiet dwar l-armonizzazzjoni f’konformità mal-Artikoli 38 u 93 tad-Direttiva (UE) 2018/1972; (iv) il-konnettività minn tarf sa tarf bejn l-utenti finali f’konformità mal-Artikolu 61(2) tad-Direttiva (UE) 2018/1972; (v) id-determinazzjoni ta’ rata massima unika ta’ terminazzjoni tat-telefonija mobbli bil-vuċi madwar l-Unjoni kollha u ta’ rata massima unika ta’ terminazzjoni tat-telefonija fissa bil-vuċi madwar l-Unjoni kollha skont l-Artikolu 75 tad-Direttiva (UE) 2018/1972; (vi) il-mudell fil-qosor tal-kuntratt f’konformità mal-Artikolu 102 tad-Direttiva (UE) 2018/1972; (vii) l-implimentazzjoni nazzjonali u l-funzjonament tal-awtorizzazzjoni ġenerali, u l-impatt tagħhom fuq il-funzjonament tas-suq intern f’konformità mal-Artikolu 122(3) tad-Direttiva (UE) 2018/1972; (viii) fejn rilevanti, l-iżviluppi fis-suq u żviluppi teknoloġiċi fir-rigward tat-tipi differenti ta’ servizzi ta’ komunikazzjoni elettronika u l-impatt tagħhom fuq l-applikazzjoni tat-Titolu III tal-Parti III tad-Direttiva (UE) 2018/1972, f’konformità mal-Artikolu 123(1) ta’ dik id-Direttiva;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(d) joħroġ linji gwida dwar l-implimentazzjoni tal-qafas regolatorju tal-Unjonigħall-komunikazzjonijiet elettroniċi, b’mod partikolari kif imsemmi fir-Regolamenti (UE) Nru 531/2012 u (UE) 2015/2120 u fid-Direttiva (UE) 2018/1972, dwar: (i) il-mudell ta’ notifika f’konformità mal-Artikolu 12 tad-Direttiva (UE) 2018/1972; (ii) l-implimentazzjoni konsistenti ta’ obbligi fir-rigward tal-istħarriġ ġeografiku u previżjonijiet f’konformità mal-Artikolu 22 tad-Direttiva (UE) 2018/1972; (iii) kriterji rilevanti sabiex tkun promossa l-applikazzjoni konsistenti tal-Artikolu 61(3) tad-Direttiva (UE) 2018/1972; (iv) approċċi komuni biex jiġi identifikat il-punt tat-terminazzjoni tan-netwerk f’topoloġiji differenti tan-netwerk f’konformità mal-Artikolu 61(7) tad-Direttiva (UE) 2018/1972; (v) approċċi komuni biex tintlaqa’ d-domanda tal-utenti finali transnazzjonali f’konformità mal-Artikolu 66 tad-Direttiva (UE) 2018/1972; (vi) kriterji minimi għal offerta ta’ referenza f’konformità mal-Artikolu 69 tad-Direttiva (UE) 2018/1972; (vii) il-promozzjoni tal-applikazzjoni konsistenti mill-NRAs tal-kriterji stabbiliti fl-Artikolu 76(1), u l-kriterji stabbiliti fl-Anness IV, tad-Direttiva (UE) 2018/1972; (viii) kriterji biex netwerk ikun ikkunsidrat netwerk ta’ kapaċità għolja ħafna f’konformità mal-Artikolu 82 tad-Direttiva (UE) 2018/1972; (ix) il-kriterji komuni għall-valutazzjoni tal-kapaċità tal-amministrazzjoni tar-riżorsi tan-numerazzjoni u tar-riskju ta’ eżawriment tar-riżorsi tan-numerazzjoni f’konformità mal-Artikolu 93 tad-Direttiva (UE) 2018/1972; (x) il-parametri rilevanti tal-kwalità tas-servizz, il-metodi ta’ kejl applikabbli, il-kontenut u l-format tal-pubblikazzjoni tal-informazzjoni, u l-mekkaniżmi ta’ ċertifikazzjoni tal-kwalità f’konformità mal-Artikolu 104 tad-Direttiva (UE) 2018/1972; (xi) kif tivvaluta jekk l-effikaċja ta’ sistemi ta’ twissija pubblika taħt l-Artikolu 110(2) tad-Direttiva (UE) 2018/1972 hijiex ekwivalenti għall-effikaċja ta’ dawk taħt il-paragrafu 1 ta’ dak l-Artikolu; (xii) l-aċċess għar-roaming bl-ingrossa, f’konformità mal-Artikolu 3 tar-Regolament (UE) Nru 531/2012; (xiii) l-implimentazzjoni tal-obbligi tal-NRAs fir-rigward tal-aċċess għall-Internet miftuħ, f’konformità mal-Artikolu 5(3) tar-Regolament (UE) 2015/2120; (xiv) il-parametri li tagħhom għandu jittieħed kont mill-NRAs fil-valutazzjoni tagħhom tas-sostenibbiltà tal-mudell domestiku tat-tariffi, f’konformità mal-Artikolu 5a(6) tar-Regolament (UE) 2015/2120.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(e) joħroġ linji gwida oħrajn li jiżguraw l-implimentazzjoni konsistenti tal-qafas regolatorju għall-komunikazzjonijiet elettroniċi u deċiżjonijiet regolatorji konsistenti mill-NRAs, fuq l-inizjattiva tiegħu stess jew fuq talba ta’ NRA, il-Parlament Ewropew, il-Kunsill jew il-Kummissjoni, b’mod partikolari għal kwistjonijiet regolatorji li jaffettwaw għadd sinifikanti ta’ Stati Membri jew li jkollhom element transfruntier;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(f) fejn rilevanti, jipparteċipa fil-Forum ta’ Reviżjoni bejn il-Pari rigward abbozz ta’ miżuri dwar il-proċeduri tal-għażla, skont l-Artikolu 35 tad-Direttiva (UE) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(g) jipparteċipa fi kwistjonijiet li jikkonċernaw il-kompetenzi tiegħu relattivament għar-regolamentazzjoni tas-suq u l-kompetizzjoni marbuta mal-ispektrum tar-radju, skont l-Artikolu 4 tad-Direttiva (UE) 2018/1972;.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(h) iwettaq analiżi tas-swieq transnazzjonali potenzjali f’konformità mal-Artikolu 65 tad-Direttiva (UE) 2018/1972+ u tad-domanda tal-utenti finali transnazzjonali, f’konformità mal-Artikolu 66 ta’ dik id-Direttiva;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(i) jimmonitorja u jiġbor informazzjoni u, fejn rilevanti, jagħmel pubblikament disponibbli informazzjoni aġġornata dwar l-applikazzjoni tar-Regolament (UE) Nru 531/2012, skont l-Artikoli 16 u 19 tiegħu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(j) jirrapporta dwar kwistjonijiet tekniċi fil-kompetenza tiegħu, b’mod partikolari dwar: (i) l-applikazzjoni prattika tal-opinjonijiet u l-linji gwida msemmija fil-punti (c), (d) u (e); (ii) l-aħjar prattiki tal-Istati Membri għall-appoġġ tad-definizzjoni tas-servizz ta’ aċċess adegwat għall-Internet tal-broadband, skont l-Artikolu 84 tad-Direttiva (UE) 2018/1972; (iii) l-evoluzzjoni tax-xejriet tal-ipprezzar u tal-konsum kemm għas-servizzi domestiċi kif ukoll għar-roaming, l-evoluzzjoni tar-rati attwali tar-roaming bl-ingrossa għal traffiku żbilanċjat, ir-relazzjoni bejn prezzijiet bl-ingrossa tariffi bl-ingrossau spejjeż bl-ingrossa għal servizzi tar-roaming kif ukoll rigward it-trasparenza u l-komparabbiltà tat-tariffi, skont l-Artikolu 19 tar-Regolament (UE) Nru 531/2012; (iv) l-eżiti tar-rapporti annwali li l-NRAs għandhom jipprovdu f’konformità mal-Artikolu 5 tar-Regolament (UE) 2015/2120, bil-pubblikazzjoni ta’ rapport annwali ta’ sinteżi; (v) l-iżviluppi tas-suq fis-settur tal-komunikazzjonijiet elettroniċi, fuq bażi annwali;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(k) joħroġ rakkomandazzjonijiet u pożizzjonijiet komuni u jiddissemina l-aħjar prattiki regolatorji indirizzati lill-NRAs sabiex jinkoraġġixxi implimentazzjoni konsistenti u aħjar tal-qafas regolatorju għall-komunikazzjonijiet elettroniċi;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(l) jistabbilixxi u jżomm bażi ta’ data ta’; (i) in-notifiki trażmessi lill-awtoritajiet kompetenti minn impriżi soġġetti għall-awtorizzazzjoni ġenerali, f’konformità mal-Artikolu 12 tad-Direttiva (UE) 2018/1972; (ii) ir-riżorsi ta’ numerazzjoni bi dritt ta’ użu extraterritorjali fi ħdan l-Unjoni, f’konformità mar-raba subparagrafu tal-Artikolu 93(4) tad-Direttiva (UE) 2018/1972; (iii) fejn rilevanti, in-numri E.164 tas-servizzi tal-emerġenza tal-Istati Membri’, skont it-tielet subparagrafu tal-Artikolu 109(8) tad-Direttiva (UE) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(m) jevalwa l-ħtiġijiet ta’ innovazzjoni regolatorja u jikkoordina azzjonijiet bejn l-NRAs sabiex ikunu jistgħu jiġu żviluppati komunikazzjonijiet elettroniċi innovattivi ġodda;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(n) jippromwovi l-modernizzazzjoni, il-koordinazzjoni u l-istandardizzazzjoni tal-ġbir ta’ data mill-NRAs, filwaqt li tali data għandha ssir disponibbli għall-pubbliku f’format miftuħ, li jista’ jintuża mill-ġdid u li jinqara mill-magni fuq is-sit web tal-BEREC u l-portal Ewropew tad-data, mingħajr preġudizzju għad-drittijiet ta’ proprjetà intellettwali, ir-regoli dwar il-protezzjoni tad-data personali u l-livell ta’ kunfidenzjalità meħtieġ;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(o) iwettaq kompiti oħrajn assenjati lilu minn atti legali tal-Unjoni, b’mod partikolari mir-Regolamenti (UE) Nru 531/2012 u (UE) 2015/2120 u mid-Direttiva (UE) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il-BEREC għandu jagħmel il-kompiti regolatorji tiegħu pubbliċi u għandu jaġġorna dik l-informazzjoni meta jiġu assenjati lilu kompiti ġodda.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il-BEREC għandu jagħmel pubbliċi l-opinjonijiet, il-linji gwida, rapporti, rakkomandazzjonijiet, pożizzjonijiet komuni u l-aħjar prattiki finali kollha tiegħu u kwalunkwe studji kkummissjonati, kif ukoll id-dokumenti abbozzati rilevanti għall-fini tal-konsultazzjonijiet pubbliċi msemmijin fil-paragrafu 5.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Mingħajr preġudizzju għall-konformità mal-liġi rilevanti tal-Unjoni, l-NRAs u l-Kummissjoni għandhom iqisu kompletament kwalunkwe linja gwida, opinjoni, rakkomandazzjoni, pożizzjoni komuni u l-aħjar prattika adottata mill-BEREC bil-għan li tiġi żgurata l-implimentazzjoni konsistenti tal-qafas regolatorju għall-komunikazzjonijiet elettroniċi fil-kamp ta’ applikazzjoni msemmi fl-Artikolu 3(1). Fejn xi NRA tiddevja mil-linji gwida msemmija fil-punt (e) tal-paragrafu 1, hija għandha tipprovdi r-raġunijiet għal dan.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Il-BEREC għandu, fejn xieraq, jikkonsulta lill-partijiet interessati u jagħtihom l-opportunità jikkummentaw fi żmien raġonevoli b’kont meħud tal-kumplessità tal-kwistjoni. Ħlief f’ċirkostanzi eċċezzjonali, dak il-perjodu ma għandux ikun inqas minn 30 jum, għajr f’ċirkostanzi eċċezzjonali. Il-BEREC għandu, mingħajr preġudizzju għall-Artikolu 38, jagħmel ir-riżultati ta’ tali konsultazzjonijiet disponibbli pubblikament. Tali konsultazzjonijiet għandhom isiru kmieni kemm jista’ jkun fil-proċess tat-teħid tad-deċiżjonijiet.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Il-BEREC jista’, fejn xieraq, jikkonsulta u jikkoopera ma’ awtoritajiet nazzjonali rilevanti, bħal dawk kompetenti fl-oqsma tal-kompetizzjoni, il-protezzjoni tal-konsumatur u l-protezzjoni tad-data.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Il-BEREC jista’, fejn xieraq, jikkoopera ma’ korpi, uffiċċji, aġenziji u gruppi ta’ konsulenza kompetenti tal-Unjoni, kif ukoll mal-awtoritajiet kompetenti ta’ pajjiżi terzi u ma’ organizzazzjonijiet internazzjonali f’konformità mal-Artikolu 36(1).",
+     "para": "7",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_5",
+   "kind": "article",
+   "number": "5",
+   "label": "Artikolu 5",
+   "title": "Kompiti tal-Uffiċċju tal-BEREC",
+   "path": [
+    "KAPITOLU III — KOMPITI TAL-UFFIĊĊJU TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "L-Uffiċċju għandu jkollu l-kompiti li ġejjin:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(a) li jipprovdi servizzi ta’ appoġġ professjonali u amministrattivi lill-BEREC, b’mod partikolari fit-twettiq tal-kompiti regolatorji tiegħu f’konformità mal-Artikolu 4;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(b) li jiġbor informazzjoni mill-NRAs u li jiskambja u jittrasmetti informazzjoni relatata mal-kompiti regolatorji assenjati lill-BEREC f’konformità mal-Artikolu 4;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(c) li jipproduċi, abbażi tal-informazzjoni msemmija fil-punt (b), abbozzi ta’ rapporti regolari dwar aspetti speċifiċi tal-iżviluppi tas-suq Ewropew tal-komunikazzjonijiet elettroniċi, bħal rapporti dwar ir-roaming u l-valutazzjoni komparattiva, li għandhom jiġu ppreżentati lill-BEREC;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(d) li jxerred l-aħjar prattiki regolatorji fost l-NRAs, skont il-punt (k) tal-Artikolu 4(1);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(e) li jassisti lill-BEREC fl-istabbiliment u ż-żamma ta’ reġistri u bażijiet tad-data, f’konformità mal-punt (l) tal-Artikolu 4(1);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(f) li jassisti lill-BEREC fl-istabbiliment u l-ġestjoni ta’ sistema ta’ informazzjoni u komunikazzjoni, f’konformità mal-Artikolu 41;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(g) li jassisti lill-BEREC fit-twettiq ta’ konsultazzjonijiet pubbliċi, f’konformità mal-Artikolu 4(5);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(h) li jassisti fit-tħejjija tal-ħidma u jipprovdi appoġġ amministrattiv u appoġġ ieħor relatat mal-kontenut biex jiġi żgurat il-funzjonament bla xkiel tal-Bord tar-Regolaturi;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(i) li jassisti fl-istabbiliment ta’ gruppi ta’ ħidma, fuq it-talba tal-Bord tar-Regolaturi, jikkontribwixxi għall-ħidma regolatorja u jipprovdi appoġġ amministrattiv biex jiġi żgurat il-funzjonament bla xkiel ta’ dawk il-gruppi;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(j) li jwettaq kompiti oħra assenjati lilu b’dan ir-Regolament jew minn atti legali oħra tal-Unjoni.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_6",
+   "kind": "article",
+   "number": "6",
+   "label": "Artikolu 6",
+   "title": "L-istruttura organizzattiva tal-BEREC",
+   "path": [
+    "KAPITOLU IV — L-ORGANIZZAZZJONI TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Il-BEREC għandu jkun magħmul minn:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(a) Bord tar-Regolaturi;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(b) gruppi ta’ ħidma.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_7",
+   "kind": "article",
+   "number": "7",
+   "label": "Artikolu 7",
+   "title": "Il-kompożizzjoni tal-Bord tar-Regolaturi",
+   "path": [
+    "KAPITOLU IV — L-ORGANIZZAZZJONI TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il-Bord tar-Regolaturi għandu jkun magħmul minn membru wieħed minn kull Stat Membru. Kull membru jkollu d-dritt tal-vot. Kull membru għandu jinħatar mill-NRA li jkollha r-responsabbiltà primarja li tissorvelja l-operat ta’ kuljum tas-swieq għal netwerks u servizzi tal-komunikazzjonijiet elettroniċi taħt id-Direttiva (UE) 2018/1972. Il-membru għandu jinħatar minn fost il-Kap tal-NRA, membru tal-korp kolleġġjali tagħha, jew is-sostitut ta’ kwalunkwe wieħed minnhom.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Kull membru tal-Bord tar-Regolaturi għandu jkollu supplenti, maħtur mill-NRA. Is-sostitut għandu jirrappreżenta lill-membru fl-assenza tiegħu. Is-sostitut għandu jinħatar minn fost il-kap tal-NRA, membru tal-korp kolleġġjali tagħha, is-sostitut ta’ kwalunkwe wieħed minnhom, jew il-persunal tal-NRA.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il-membri tal-Bord tar-Regolaturi u s-sostituti tagħhom għandhom jinħatru fid-dawl tal-għarfien tagħhom fil-qasam tal-komunikazzjoni elettronika, b’kont meħud tal-ħiliet maniġerjali, amministrattivi u baġitarji rilevanti. Sabiex tkun żgurata l-kontinwità tal-ħidma tal-Bord tar-Regolaturi, l-NRAs li jaħtru kollha għandhom jagħmlu sforz biex jillimitaw it-tibdil tal-membri u, fejn possibbli, ukoll tas-sostituti tagħhom, u għandu jkollhom l-għan li jiksbu rappreżentazzjoni bilanċjata bejn l-irġiel u n-nisa.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Il-Kummissjoni għandha tipparteċipa fid-deliberazzjonijiet kollha tal-Bord tar-Regolaturi mingħajr id-dritt tal-vot u għandha tkun rappreżentata f’livell adegwatament għoli.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Għandha ssir pubblika lista aġġornata tal-membri tal-Bord tar-Regolaturi u s-sostituti tagħhom, flimkien mad-dikjarazzjonijiet tal-interessi tagħhom.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_8",
+   "kind": "article",
+   "number": "8",
+   "label": "Artikolu 8",
+   "title": "L-indipendenza tal-Bord tar-Regolaturi",
+   "path": [
+    "KAPITOLU IV — L-ORGANIZZAZZJONI TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Meta jwettaq il-kompiti kkonferiti lilu u mingħajr preġudizzju għall-membri li jaġixxu f’isem l-NRA rispettiva tagħhom, il-Bord tar-Regolaturi għandu jaġixxi b’mod indipendenti u oġġettiv fl-interessi tal-Unjoni, minkejja kwalunkwe interess nazzjonali jew personali partikolari.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Mingħajr preġudizzju għall-koordinazzjoni kif imsemmija fl-Artikolu 3(6), il-membri tal-Bord tar-Regolaturi u s-sostituti tagħhom la għandhom ifittxu, u lanqas jieħdu, struzzjonijiet mingħand ebda gvern, istituzzjoni, persuna jew korp.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_9",
+   "kind": "article",
+   "number": "9",
+   "label": "Artikolu 9",
+   "title": "Il-funzjonijiet tal-Bord tar-Regolaturi",
+   "path": [
+    "KAPITOLU IV — L-ORGANIZZAZZJONI TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il-Bord tar-Regolaturi għandu jkollu l-funzjonijiet li ġejjin:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(a) li jissodisfa l-kompiti regolatorji tal-BEREC stabbiliti fl-Artikolu 4, jiġifieri li jadotta l-opinjonijiet, il-linji gwida, ir-rapporti, ir-rakkomandazzjonijiet u l-pożizzjonijiet komuni, u taqsam l-aħjar prattiki msemmijin f’dak l-Artikolu, u meta jagħmel dan, għandu jibbaża ruħu fuq il-ħidma preparatorja mwettqa mill-gruppi ta’ ħidma.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(b) li jieħu deċiżjonijiet amministrattivi relatati mal-organizzazzjoni tal-ħidma tal-BEREC;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(c) li jadotta l-programm ta’ ħidma annwali tal-BEREC kif imsemmi fl-Artikolu 21;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(d) li jadotta r-rapport annwali tal-BEREC dwar l-attivitajiet tiegħu, kif imsemmi fl-Artikolu 22;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(e) li jadotta regoli għall-prevenzjoni u għall-ġestjoni tal-kunflitti ta’ interessi kif imsemmija fl-Artikolu 42, kif ukoll fir-rigward tal-membri tal-gruppi ta’ ħidma;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(f) li jadotta regoli dettaljati dwar id-dritt ta’ aċċess għal dokumenti miżmuma mill-BEREC f’konformità mal-Artikolu 36;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(g) li abbażi ta’ analiżi tal-ħtiġijiet, jadotta l-pjanijiet tal-komunikazzjoni u tat-tixrid kif imsemmija fl-Artikolu 37(2) u jaġġornahom regolarment;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(h) li jadotta, filwaqt li jaġixxi b’maġġoranza ta’ żewġ terzi tal-membri tiegħu, u jagħmel pubbliċi r-regoli tal-proċedura tiegħu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(i) li jawtorizza, flimkien mad-Direttur, il-konklużjoni ta’ arranġamenti ta’ ħidma ma’ korpi, uffiċċji, aġenziji u gruppi konsultattivi kompetenti tal-Unjoni u ma’ awtoritajiet kompetenti ta’ pajjiżi terzi u ma’ organizzazzjonijiet internazzjonali f’konformità mal-Artikolu 35;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(j) li jistabbilixxi gruppi ta’ ħidma u jaħtar il-Presidenti tagħhom;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(k) li jipprovdi gwida lid-Direttur tal-Uffiċċju tal-BEREC fir-rigward tat-twettiq tal-kompiti tal-Uffiċċju tal-BEREC.",
+     "para": "1",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_10",
+   "kind": "article",
+   "number": "10",
+   "label": "Artikolu 10",
+   "title": "President u Viċi Presidenti tal-Bord tar-Regolaturi",
+   "path": [
+    "KAPITOLU IV — L-ORGANIZZAZZJONI TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il-Bord tar-Regolaturi, filwaqt li jaġixxi b’maġġoranza ta’ żewġ terzi tal-membri tiegħu, għandu jaħtar President u mill-inqas żewġ Viċi Presidenti minn fost il-membri tiegħu.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Wieħed mill-Viċi Presidenti għandu awtomatikament jassumi d-dmirijiet tal-President jekk dan tal-aħħar ma jkunx f’pożizzjoni li jwettaq dawk id-dmirijiet.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il-mandat tal-President għandu jkun ta’ sena, u jista’ jiġġedded darba. Sabiex tkun żgurata l-kontinwità tal-ħidma tal-BEREC, il-President li jmiss, fejn possibbli, għandu jservi bħala Viċi President għal sena qabel il-mandat tiegħu bħala President. Ir-regoli ta’ proċedura għandhom jipprevedu perijodu iqsar fejn ma jkunx possibbli li l-President li jmiss iservi bħala Viċi President għal sena qabel il-mandat tiegħu bħala President.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Mingħajr preġudizzju għar-rwol tal-Bord tar-Regolaturi fir-rigward tal-kompiti tal-President, il-President la għandu jfittex u lanqas jaċċetta struzzjonijiet mingħand ebda gvern, istituzzjoni, persuna jew korp.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Id-Direttur għandu jirrapporta lill-Parlament Ewropew u lill-Kunsill dwar it-twettiq tal-kompiti tal-BEREC meta jintalab jagħmel dan.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_11",
+   "kind": "article",
+   "number": "11",
+   "label": "Artikolu 11",
+   "title": "Laqgħat tal-Bord tar-Regolaturi",
+   "path": [
+    "KAPITOLU IV — L-ORGANIZZAZZJONI TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il-President għandu jsejjaħ il-laqgħat tal-Bord tar-Regolaturi u għandu jistabbilixxi l-aġendi għal dawk il-laqgħat, li għandhom isiru pubbliċi.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il-Bord tar-Regolaturi għandu jorganizza tal-anqas żewġ laqgħat ordinarji fis-sena. Il-laqgħat straordinarji għandhom jissejħu fuq inizjattiva tal-President, fuq talba ta’ mill-inqas tliet membri tiegħu jew fuq talba tal-Kummissjoni.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Id-Direttur tal-Uffiċċju tal-BEREC għandu jieħu sehem fid-deliberazzjonijiet kollha mingħajr id-dritt tal-vot.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Il-Bord tar-Regolaturi jista’ jistieden lil kwalunkwe persuna li jkollha opinjoni li tista’ tkun ta’ interess għalih biex tipparteċipa fil-laqgħat tiegħu bħala osservatur.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Il-membri u s-sostituti tal-Bord tar-Regolaturi jistgħu, skont ir-regoli ta’ proċedura tiegħu, jiġu assistiti waqt il-laqgħat mill-konsulenti tagħhom jew esperti oħrajn.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. L-Uffiċċju tal-BEREC għandu jipprovdi s-segretarjat għall-Bord tar-Regolaturi.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_12",
+   "kind": "article",
+   "number": "12",
+   "label": "Artikolu 12",
+   "title": "Regoli tal-votazzjoni tal-Bord tar-Regolaturi",
+   "path": [
+    "KAPITOLU IV — L-ORGANIZZAZZJONI TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il-Bord tar-Regolaturi għandu jieħu deċiżjonijiet permezz ta’ maġġoranza sempliċi tal-membri tiegħu sakemm ma jkunx previst mod ieħor f’dan ir-Regolament jew f’att legali ieħor tal-Unjoni. Maġġoranza ta’ żewġ terzi tal-membri tal-Bord tar-Regolaturi għandha tkun meħtieġa għall-opinjonijiet imsemmija fil-punti (c)(ii) u (v) tal-Artikolu 4(1) u l-linji gwida msemmija fil-punti (d)(i) sa (iv), (vi), (vii) u (x) tal-Artikolu 4(1). Minkejja t-tieni subparagrafu ta’ dan il-paragrafu, il-Bord tar-Regolaturi jista’ jiddeċiedi, b’maġġoranza sempliċi, u fuq bażi ta’ każ b’każ, li jadotta opinjonijiet imsemmija fil-punt (c)(ii) tal-Artikolu 4(1) ta’ dan ir-Regolament b’maġġoranza sempliċi, relatati ma’ abbozzi ta’ miżuri li jaqgħu taħt l-Artikolu 76(2) tad-Direttiva (UE) 2018/1972, li jwasslu biex titnieda l-proċedura skont l-Artikolu 33(5) ta’ dik id-Direttiva. Id-deċiżjonijiet tal-Bord tar-Regolaturi għandhom isiru pubbliċi, u għandhom jindikaw kwalunkwe riżerva ta’ kwalunkwe membru fuq talba tiegħu.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Kull membru għandu jkollu vot wieħed. Fin-nuqqas ta’ membru, is-sostitut għandu jkun intitolat jeżerċita d-dritt tal-vot ta’ dak il-membru. Fin-nuqqas ta’ membru u tas-sostitut, id-dritt tal-vot jista’ jiġi ddelegat lil membru ieħor. Il-President jista’ jiddelega d-dritt tal-vot fi kwalunkwe każ. Il-President għandu jieħu sehem fil-votazzjoni dment li ma jkunx iddelega d-dritt tal-vot.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Ir-regoli ta’ proċedura tal-Bord tar-Regolaturi għandhom jistabbilixxu fid-dettall l-arranġamenti li jirregolaw il-votazzjoni, inklużi l-kondizzjonijiet li taħthom membru wieħed jista’ jaġixxi f’isem membru ieħor, il-quorum, u l-iskadenzi tan-notifika għal-laqgħat. Barra minn hekk, ir-regoli ta’ proċedura għandhom jiżguraw li l-membri tal-Bord tar-Regolaturi jingħataw l-aġendi sħaħ u abbozzi ta’ proposti qabel kull laqgħa sabiex ikollhom l-opportunità jipproponu emendi qabel il-votazzjoni. Ir-regoli ta’ proċedura jistgħu, fost l-oħrajn, jistabbilixxu proċedura għal votazzjoni dwar kwistjonijiet urġenti u arranġamenti prattiċi oħrajn għall-operat tal-Bord tar-Regolaturi.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_13",
+   "kind": "article",
+   "number": "13",
+   "label": "Artikolu 13",
+   "title": "Gruppi ta’ ħidma",
+   "path": [
+    "KAPITOLU IV — L-ORGANIZZAZZJONI TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Fejn ikun ġustifikat u, b’mod partikolari, biex jiġi implimentat il-programm ta’ ħidma annwali tal-BEREC, il-Bord tar-Regolaturi jista’ jistabbilixxi l-gruppi ta’ ħidma neċessarji.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il-Bord tar-Regolaturi għandu jaħtar il-Presidenti tal-gruppi ta’ ħidma, b’mod li jirrappreżenta, fejn possibbli, NRAs differenti.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il-gruppi ta’ ħidma għandhom ikunu miftuħa għall-parteċipazzjoni ta’ esperti mill-NRAs kollha li jieħdu sehem fil-ħidma tal-BEREC u l-Kummissjoni. Il-gruppi ta’ ħidma għandhom ukoll ikunu miftuħa għall-parteċipazzjoni tal-persunal tal-Uffiċċju tal-BEREC, li għandu jikkontribwixxi għall-ħidma regolatorja, u jipprovdu appoġġ amministrattiv lill-gruppi ta’ ħidma. Fil-każ tal-gruppi ta’ ħidma stabbiliti biex iwettqu l-kompiti msemmijin fil-punt (c)(ii) tal-Artikolu 4(1), l-esperti mill-Kummissjoni ma għandhomx jipparteċipaw. Fil-gruppi ta’ ħidma li jiġu stabbiliti biex iwettqu l-kompiti msemmijin fil-punti (c)(iv), (vi), (vii) u (viii), fil-punti (d)(i), (ii), (ix), (x) u (xi), fil-punt (j)(ii) u fil-punt (l) tal-Artikolu 4(1) ta’ dan ir-Regolament kif ukoll, fejn rilevanti, fil-punt (c)(iii) u fil-punt (j)(i) tal-Artikolu 4(1) tiegħu, l-opinjonijiet ta’ esperti minn awtoritajiet kompetenti oħra notifikati skont l-Artikolu 5(4) tad-Direttiva (UE) 2018/1972 għandhom jiġu kkunsidrati. Il-Bord tar-Regolaturi jew il-Presidenti tal-gruppi ta’ ħidma jistgħu jistiednu esperti individwali magħrufa bħala kompetenti fil-qasam rilevanti biex jieħdu sehem fil-laqgħat tal-gruppi ta’ ħidma, jekk ikun neċessarju abbażi ta’ każ b’każ.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Il-Bord tar-Regolaturi għandu jadotta r-regoli ta’ proċedura li jistabbilixxu l-arranġamenti prattiċi għall-funzjonament tal-gruppi ta’ ħidma.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_14",
+   "kind": "article",
+   "number": "14",
+   "label": "Artikolu 14",
+   "title": "Struttura organizzattiva tal-Uffiċċju tal-BEREC",
+   "path": [
+    "KAPITOLU V — ORGANIZZAZZJONI TAL-UFFIĊĊJU TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "L-Uffiċċju tal-BEREC għandu jkun magħmul minn:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(a) Bord Maniġerjali;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(b) Direttur.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_15",
+   "kind": "article",
+   "number": "15",
+   "label": "Artikolu 15",
+   "title": "Kompożizzjoni tal-Bord Maniġerjali",
+   "path": [
+    "KAPITOLU V — ORGANIZZAZZJONI TAL-UFFIĊĊJU TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il-Bord Maniġerjali għandu jkun magħmul mill- persuni maħtura bħala membri tal-Bord tar-Regolaturi u minn rappreżentant wieħed ta’ livell għoli tal-Kummissjoni. Kull membru tal-Bord Maniġerjali għandu d-dritt tal-vot. Kull NRA tal-ħatra, kif imsemmi fit-tieni subparagrafu tal-Artikolu 7(1), tista’ taħtar persuna oħra għajr il-membru tal-Bord tar-Regolaturi bħala membru tal-Bord Maniġerjali. Dik il-persuna għandha tkun il-kap tal-NRA, membru tal-korp kolleġġjali tagħha, jew is-sostitut ta’ kwalunkwe wieħed minnhom.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Kull membru tal-Bord Maniġerjali għandu jkollu sostitut li jirrappreżenta lill-membru fl-assenza tiegħu. Is-sostituti ta’ kull membru għandhom ikunu l-persuni maħtura bħala sostituti tal-membri tal-Bord Maniġerjali. Ir-rappreżentant tal-Kummissjoni għandu jkollu wkoll sostitut. Kull NRA tal-ħatra, kif imsemmi fit-tieni subparagrafu tal-Artikolu 7(1), tista’ taħtar persuna oħra għajr is-sostitut tal-membru tal-Bord tar-Regolaturi bħala s-sostitut tal-membru tal-Bord Maniġerjali. Dik il-persuna għandha tkun il-kap tal-NRA, membru tal-korp kolleġġjali tagħha, is-sostitut ta’ kwalunkwe wieħed minnhom, jew il-persunal tal-NRA.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il-membri tal-Bord Maniġerjali u s-sostituti tagħhom la għandhom ifittxu struzzjonijiet mingħand xi gvern, istituzzjoni, persuna jew korp u lanqas ma għandhom jieħdu struzzjonijiet mingħandhom.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Għandha ssir pubblika lista aġġornata tal-membri tal-Bord Maniġerjali u s-sostituti tagħhom, flimkien mad-dikjarazzjonijiet tal-interessi tagħhom.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_16",
+   "kind": "article",
+   "number": "16",
+   "label": "Artikolu 16",
+   "title": "Funzjonijiet amministrattivi tal-Bord Maniġerjali",
+   "path": [
+    "KAPITOLU V — ORGANIZZAZZJONI TAL-UFFIĊĊJU TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il-Bord Maniġerjali għandu jkollu l-funzjonijiet amministrattivi li ġejjin:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(a) li jipprovdi orjentazzjonijiet ġenerali għall-attivitajiet tal-Uffiċċju tal-BEREC u jadotta, fuq bażi annwali, id-dokument uniku tal-programmazzjoni tal-Uffiċċju tal-BEREC b’maġġoranza ta’ żewġ terzi tal-membri tiegħu filwaqt li jqis l-opinjoni tal-Kummissjoni u f’konformità mal-Artikolu 23;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(b) li jadotta l-baġit annwali tal-uffiċċju tal-BEREC b’maġġoranza ta’ żewġ terzi tal-membri tiegħu, u jeżerċita funzjonijiet oħrajn fir-rigward tal-baġit tal-Uffiċċju tal-BEREC f’konformità mal-Kapitolu VII;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(c) li jadotta, jagħmel pubbliku, u jipproċedi b’valutazzjoni ta’, ir-rapport annwali ta’ attività kkonsolidat dwar l-attivitajiet tal-Uffiċċju tal-BEREC msemmija fl-Artikolu 27 u jagħmel valutazzjoni tiegħu, u sal-1 ta’ Lulju ta’ kull sena jippreżentahom it-tnejn lill-Parlament Ewropew, lill-Kunsill, lill-Kummissjoni u lill-Qorti tal-Awdituri;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(d) li jadotta r-regoli finanzjarji applikabbli għall-Uffiċċju tal-BEREC f’konformità mal-Artikolu 29;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(e) li jadotta strateġija kontra l-frodi li tkun proporzjonata mar-riskji tal-frodi, filwaqt li jqis l-ispejjeż u l-benefiċċji tal-miżuri li jridu jiġu implimentati;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(f) li jiżgura segwitu xieraq għall-konklużjonijiet u għar-rakkomandazzjonijiet li joħorġu mir-rapporti interni u esterni tal-awditjar u mill-evalwazzjonijiet, kif ukoll mill-investigazzjonijiet tal-Uffiċċju Ewropew Kontra l-Frodi (OLAF);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(g) li jadotta regoli għall-prevenzjoni u għall-ġestjoni tal-kunflitti ta’ interessi kif imsemmi fl-Artikolu 42(3);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(h) li, abbażi ta’ analiżi tal-ħtiġijiet, jadotta l-pjanijiet tal-komunikazzjoni u tat-tixrid imsemmija fl-Artikolu 37(2),u jaġġornahom regolarment;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(i) li jadotta r-regoli ta’ proċedura tiegħu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(j) li jadotta regoli ta’ implimentazzjoni biex isiru effettivi r-Regolamenti tal-Persunal tal-Uffiċjali tal-Unjoni Ewropea u l-Kondizzjonijiet tal-Impjieg ta’ Aġenti Oħra tal-Unjoni Ewropea, f’konformità mal-Artikolu 110 tar-Regolamenti tal-Persunal;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(k) mingħajr preġudizzju għad-deċiżjoni msemmija fl-ewwel subparagrafu tal-paragrafu 2, li jeżerċita, fir-rigward tal-persunal tal-Uffiċċju tal-BEREC, is-setgħat mogħtija lilu mir-Regolamenti tal-Persunal dwar l-Awtorità tal-Ħatra u mill-Kondizzjonijiet tal-Impjieg ta’ Aġenti Oħra fuq l-Awtorità bis-Setgħa biex Tikkonkludi Kuntratti tal-Impjieg (is-“setgħat tal-awtorità tal-ħatra”);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(l) li jaħtar lid-Direttur u, fejn rilevanti, jestendi jew iwaqqaf il-mandat tiegħu f’konformità mal-Artikolu 32;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(m) li jaħtar Uffiċjal tal-Kontabbiltà, soġġett għar-Regolamenti tal-Persunal u għall-Kondizzjonijiet tal-Impjieg ta’ Aġenti Oħra, li għandu jkun indipendenti għalkollox fil-qadi ta’ dmirijietu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(n) li jieħu kull deċiżjoni dwar l-istabbiliment tal-istrutturi interni tal-Uffiċċju tal-BEREC, u meta jkun meħtieġ, dwar il-modifika tagħhom, filwaqt li jqis il-ħtiġijiet tal-attività tal-Uffiċċju tal-BEREC kif ukoll il-ġestjoni baġitarja soda. Fir-rigward tal-punt (m) tal-ewwel subparagrafu, l-Uffiċċju tal-BEREC jista’ jaħtar l-istess Uffiċjal tal-Kontabbiltà ta’ korp jew istituzzjoni oħra tal-Unjoni. B’mod partikolari, l-Uffiċċju tal-BEREC u l-Kummissjoni jistgħu jaqblu li l-uffiċjal tal-kontabilità tal-Kummissjoni għandu jaġixxi wkoll bħala l-Uffiċjal tal-Kontabilità tal-Uffiċċju tal-BEREC;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. B’konformità mal-Artikolu 110 tar-Regolamenti tal-Persunal, il-Bord Maniġerjali għandu jadotta deċiżjoni bbażata fuq l-Artikolu 2(1) tar-Regolamenti tal-Persunal u fuq l-Artikolu 6 tal-Kondizzjonijiet tal-Impjieg ta’ Aġenti Oħra, li biha jiddelega s-setgħat rilevanti tal-awtorità tal-ħatra lid-Direttur u li fiha jispeċifika l-kondizzjonijiet li bihom tkun tista’ tiġi sospiża din id-delega tas-setgħat. Id-Direttur għandu jkun awtorizzat jissottodelega dawk is-setgħat. Fejn iċ-ċirkostanzi eċċezzjonali jeħtieġu dan, il-Bord Maniġerjali b’deċiżjoni jista’ jissospendi temporanjament id-delega tas-setgħat tal-awtorità tal-ħatra lid-Direttur u dawk is-setgħat sottodelegati minnu u jeżerċitahom hu stess jew jiddelegahom lil wieħed mill-membri tiegħu jew lil membru tal-persunal ieħor li mhux id- Direttur.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_17",
+   "kind": "article",
+   "number": "17",
+   "label": "Artikolu 17",
+   "title": "Il-President u l-Viċi Presidenti tal-Bord Maniġerjali",
+   "path": [
+    "KAPITOLU V — ORGANIZZAZZJONI TAL-UFFIĊĊJU TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il-President u l-Viċi Presidenti tal-Bord Maniġerjali għandhom ikunu l-persuni maħtura bħala l-President u l-Viċi Presidenti tal-Bord tar-Regolaturi. Għandu japplika l-istess mandat. Permezz ta’ deroga mill-ewwel subparagrafu, il-Bord Maniġerjali jista’, b’maġġoranza ta’ żewġ terzi tal-membri tiegħu, jeleġġi membri oħra tal-Bord Maniġerjali bħala President jewViċi President(i)„ minn fost il-membri tiegħu li jirrappreżentaw l-Istati Membri. Il-mandat tagħhom għandu jkun l-istess bħal dak tal-President u l-Viċi Presidenti tal-Bord tar-Regolaturi.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Wieħed mill-Viċi Presidenti għandu awtomatikament jassumi d-dmirijiet tal-President jekk dan tal-aħħar ma jkunx f’pożizzjoni li jaqdi dawk id-dmirijiet.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il-President tal-Bord Maniġerjali għandu jirrapporta lill-Parlament Ewropew u lill-Kunsill dwar it-twettiq tal-kompiti tal-Uffiċċju tal-BEREC meta jintalab jagħmel dan.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_18",
+   "kind": "article",
+   "number": "18",
+   "label": "Artikolu 18",
+   "title": "Laqgħat tal-Bord Maniġerjali",
+   "path": [
+    "KAPITOLU V — ORGANIZZAZZJONI TAL-UFFIĊĊJU TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il-laqgħat tal-Bord Maniġerjali għandu jsejjaħhom il-President.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Id-Direttur ta l-Uffiċċju għandu jieħu sehem fid-deliberazzjonijiet, ħlief dawk marbuta mal-Artikolu 32, mingħajr id-dritt tal-vot.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il-Bord Maniġerjali għandu jkollu mill-anqas żewġ laqgħat ordinarji fis-sena. Barra minn hekk, il-President għandu jsejjaħ laqgħat straordinarji fuq l-inizjattiva tiegħu stess, fuq talba tal-Kummissjoni, jew fuq talba ta’ mill-inqas tliet membri.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Il-Bord Maniġerjali jista’ jistieden lil kull persuna b’opinjoni li tista’ tkun ta’ interess biex tattendi l-laqgħat tiegħu bħala osservatur.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Waqt il-laqgħat, il-membri tal-Bord Maniġerjali u s-sostituti tagħhom jistgħu, soġġett għar-regoli ta’ proċedura tiegħu, jiġu assistiti minn konsulenti jew esperti.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. L-Uffiċċju tal-BEREC għandu jipprovdi s-segretarjat għall-Bord Maniġerjali.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_19",
+   "kind": "article",
+   "number": "19",
+   "label": "Artikolu 19",
+   "title": "Regoli tal-votazzjoni tal-Bord Maniġerjali",
+   "path": [
+    "KAPITOLU V — ORGANIZZAZZJONI TAL-UFFIĊĊJU TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il-Bord Maniġerjali għandu jieħu deċiżjonijiet permezz ta’ maġġoranza sempliċi tal-membri tiegħu, sakemm mhux previst mod ieħor f’dan ir-Regolament.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Kull membrugħandu jkollu vot wieħed. Fin-nuqqas ta’ membru, is-sostitut tiegħu għandu jkun intitolat jeżerċita d-dritt tal-vot tiegħu. Fin-nuqqas ta’ membru u s-sostitut, id-dritt tal-vot jista’ jiġi ddelegat lil membru ieħor.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il-President jista’ jiddelega d-dritt tal-vot fi kwalunkwe każ. Huwa għandu jieħu sehem fil-votazzjoni dment li ma jkunx iddelega d-dritt tal-vot.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Ir-regoli ta’ proċedura tal-Bord Maniġerjali għandhom jistabbilixxu l-arranġamenti tal-votazzjoni aktar fid-dettall, b’mod partikolari għall-votazzjoni dwar kwistjonijiet urġenti u ċ-ċirkostanzi meta membru jkun jista’ jaġixxi f’isem membru ieħor.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_20",
+   "kind": "article",
+   "number": "20",
+   "label": "Artikolu 20",
+   "title": "Responsabbiltajiet tad-Direttur",
+   "path": [
+    "KAPITOLU V — ORGANIZZAZZJONI TAL-UFFIĊĊJU TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Id-Direttur għandu jkun responsabbli għall-ġestjoni amministrattiva tal-Uffiċċju tal-BEREC. Id-Direttur għandu jagħti rendikont lill-Bord Maniġerjali.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Id-Direttur għandu jassisti lill-President tal-Bord tar-Regolaturi u lill-President tal-Bord Maniġerjali fit-tħejjija tal-laqgħat tal-korpi rispettivi tagħhom.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Mingħajr preġudizzju għas-setgħat tal-Bord tar-Regolaturi, l-Bord Maniġerjali u l-Kummissjoni„ id-Direttur għandu jkun indipendenti fil-qadi ta’ dmirijietu u la għandu jfittex u lanqas jieħu struzzjonijiet mingħand xi gvern, istituzzjoni, persuna jew korp ieħor.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Id-Direttur għandu jirrapporta lill-Parlament Ewropew u lill-Kunsill dwar il-qadi ta’ dmirijietu meta jintalab jagħmel dan.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Id-Direttur Eżekuttiv għandu jkun ir-rappreżentant legali tal-Uffiċċju tal-BEREC.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Id-Direttur għandu jkun responsabbli għall-implimentazzjoni tal-kompiti tal-Uffiċċju tal-BEREC u skont il-gwida pprovduta mill-Bord tar-Regolaturi u mill-Bord Maniġerjali. B’mod partikolari, id-Direttur għandu jkun responsabbli biex:",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(a) iwettaq l-amministrazzjoni ta’ kuljum tal-Uffiċċju tal-BEREC;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(b) jimplimenta d-deċiżjonijiet amministrattivi adottati mill-Bord tar-Regolaturi u l-Bord Maniġerjali;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(c) iħejji, u jippreżenta lill-Bord Maniġerjali, id-dokument uniku tal-programmazzjoni msemmi fl-Artikolu 23;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(d) jassisti lill-Bord tar-Regolaturi fit-tħejjija tar-rapport annwali ta’ attività kif imsemmi fl-Artikolu 22;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(e) jassisti lill-Bord tar-Regolaturi fit-tħejjija tal-programm ta’ ħidma annwali tal-BEREC kif imsemmi fl-Artikolu 21;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(f) jimplimenta d-dokument uniku tal-programmazzjoni, u jirrapporta lill-Bord Maniġerjali fuq l-implimentazzjoni tiegħu;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(g) iħejji l-abbozz tar-rapport annwali kkonsolidat dwar l-attivitajiet tal-Uffiċċju tal-BEREC kif imsemmi fl-Artikolu 27 u jippreżentah lill-Bord Maniġerjali għall-valutazzjoni u l-adozzjoni;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(h) iħejji pjan ta’ azzjoni li jsegwi l-konklużjonijiet tar-rapporti interni jew esterni tal-awditjar u tal-evalwazzjonijiet, kif ukoll tal-investigazzjonijiet tal-OLAF, u jirrapporta dwar il-progress mill-inqas darba fis-sena lill-Bord Maniġerjali;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(i) iħares l-interessi finanzjarji tal-Unjoni billi japplika miżuri preventivi kontra l-frodi, il-korruzzjoni u kull attività illegali oħra, billi jwettaq kontrolli effettivi u, jekk jinstabu xi irregolaritajiet, billi jirkupra l-ammonti li jkunu tħallsu bi żball u, meta jkun xieraq, billi jimponi miżuri amministrattivi li jkunu effettivi, proporzjonati u dissważivi, inkluż penali finanzjarji;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(j) iħejji strateġija għal kontra l-frodi għall-Uffiċċju tal-BEREC u jippreżentaha lill-Bord Maniġerjali għall-approvazzjoni;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(k) iħejji l-abbozzi tar-regoli finanzjarji applikabbli għall-Uffiċċju tal-BEREC;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(l) iħejji l-abbozz tad-dikjarazzjoni tal-istimi tad-dħul u tan-nefqa tal-Uffiċċju tal-BEREC u jimplimenta l-baġit tiegħu;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(m) jawtorizza, b’mod konġunt flimkien mal-Bord tar-Regolaturi, il-konklużjoni ta’ arranġamenti ta’ ħidma ma’ korpi, uffiċċji, aġenziji u gruppi konsultattivi kompetenti tal-Unjoni u ma’ awtoritajiet kompetenti ta’ pajjiżi terzi u ma’ organizzazzjonijiet internazzjonali f’konformità mal-Artikolu 35.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Id-Direttur għandu, taħt is-superviżjoni tal-Bord Maniġerjali, jieħu l-miżuri meħtieġa, b’mod partikolari fir-rigward tal-adozzjoni ta’ istruzzjonijiet amministrattivi interni u tal-pubblikazzjoni tal-avviżi, sabiex jiżgura l-funzjonament tal-Uffiċċju tal-BEREC skont dan ir-Regolament.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Id-Direttur għandu, soġġett għall-kunsens bil-quddiem tal-Kummissjoni, tal-Bord Maniġerjali u tal-Istati Membri kkonċernati, jiddeċiedi jekk ikunx meħtieġ, għall-fini li jitwettqu l-kompiti tal-Uffiċċju tal-BEREC b’mod effiċjenti u effettiv, li wieħed jew aktar mill-persunal tiegħu jintbagħat f’xi Stat Membru wieħed jew aktar. Id-deċiżjoni għandha tispeċifika l-ambitu tal-attivitajiet li jridu jitwettqu b’mod li jkunu evitati spejjeż mhux meħtieġa u d-duplikazzjoni ta’ funzjonijiet amministrattivi tal-Uffiċċju tal-BEREC. Qabel ma tittieħed tali deċiżjoni, għandu jiġi indikat, fid-dokument tal-programmazzjoni pluriennali msemmi fl-Artikolu 23(4), l-impatt tagħha f’termini ta’ allokazzjoni ta’ persunal u baġit.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_21",
+   "kind": "article",
+   "number": "21",
+   "label": "Artikolu 21",
+   "title": "Programm Annwali tal-Ħidma tal-BEREC",
+   "path": [
+    "KAPITOLU VI — PROGRAMMAZZJONI TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il-Bord tar-Regolaturi għandu jadotta abbozz fil-qosor tal-programm ta’ ħidma annwali sal-31 ta’ Jannar tas-sena li tiġi qabel dik li għaliha jirreferi l-programm ta’ ħidma annwali. Wara li jikkonsulta lill-Parlament Ewropew, il-Kunsill u l-Kummissjoni dwar il-prijoritajiet tagħhom, kif ukoll lil partijiet interessati oħra skont l-Artikolu 4(5), il-Bord tar-Regolaturi għandu jadotta l-programm ta’ ħidma annwali finali sal-31 ta’ Diċembru ta’ dik is-sena.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il-Bord tar-Regolaturi għandu jittrasmetti l-programm ta’ ħidma annwali lill-Parlament Ewropew, lill-Kunsill u lill-Kummissjoni malli jiġi adottat.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_22",
+   "kind": "article",
+   "number": "22",
+   "label": "Artikolu 22",
+   "title": "Rapport Annwali ta’ Attività tal-BEREC",
+   "path": [
+    "KAPITOLU VI — PROGRAMMAZZJONI TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il-Bord tar-Regolaturi għandu jadotta r-rapport annwali dwar l-attivitajiet tal-BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il-Bord tar-Regolaturi għandu jibgħat ir-rapport annwali ta’ attività lill-Parlament Ewropew, lill-Kunsill, lill-Kummissjoni u lill-Kumitat Ekonomiku u Soċjali Ewropew sal-15 ta’ Ġunju ta’ kull sena.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_23",
+   "kind": "article",
+   "number": "23",
+   "label": "Artikolu 23",
+   "title": "Programmazzjoni annwali u pluriennali",
+   "path": [
+    "KAPITOLU VII — IL-BAĠIT U L-PROGRAMMAZZJONI TAL-UFFIĊĊJU TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Kull sena, id-Direttur għandu jħejji abbozz tad-dokument tal-programmazzjoni li jkun fih il-programmazzjoni annwali u pluriennali (id-“dokument uniku tal-programmazzjoni”) b’konformità mal-Artikolu 32 tar-Regolament ta’ Delega (UE) Nru 1271/2013, filwaqt li jqis il-linji gwida stabbiliti mill-Kummissjoni. Sal-31 ta’ Jannar ta’ kull sena, il-Bord Maniġerjali għandu jadotta l-abbozz tad-dokument uniku tal-programmazzjoni u jibagħtu lill-Kummissjoni biex din tagħti l-opinjoni tagħha dwaru. Barra minn hekk, l-abbozz tad-dokument uniku tal-programmazzjoni għandu jiġi preżentat lill-Parlament Ewropew u lill-Kunsill. Sussegwentement, il-Bord Maniġerjali għandu jadotta d-dokument uniku tal-programmazzjoni, filwaqt li jqis l-opinjoni tal-Kummissjoni dwaru. Huwa għandu jippreżenta d-dokument uniku tal-programmazzjoni, kif ukoll kwalunkwe aġġornament sussegwenti, lill-Parlament Ewropew, lill-Kunsill u lill-Kummissjoni. Id-dokument uniku tal-programmazzjoni għandu jsir definittiv wara l-adozzjoni tal-baġit ġenerali tal-Unjoni u, jekk ikun meħtieġ, għandu jiġi aġġustat skont dan.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Id-dokument tal-programmazzjoni annwali għandu jinkludi l-għanijiet fid-dettall u r-riżultati mistennija, inkluż l-indikaturi tal-prestazzjoni. Dan għandu jinkludi wkoll deskrizzjoni tal-azzjonijiet li għandhom jiġu ffinanzjati u indikazzjoni tar-riżorsi finanzjarji u umani allokati għal kull azzjoni, b’konformità mal-prinċipji tal-ibbaġitjar u tal-ġestjoni bbażati fuq l-attività, kif imsemmi wkoll fl-Artikolu 31. Id-dokument tal-programmazzjoni annwali għandu jkun konsistenti mad-deskrizzjoni tal-BEREC tal-programm ta’ ħidma annwali u l-programm ta’ ħidma annwali finali kif imsemmi fl-Artikolu 21 u mad-dokument tal-programmazzjoni pluriennali tal-Uffiċċju tal-BEREC imsemmi fil-paragrafu 4 ta’ dan l-Artikolu. Dan għandu jindika b’mod ċar il-kompiti li jkunu żdiedu, inbidlu jew tħassru meta mqabbel mas-sena finanzjarja ta’ qabel.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il-Bord Maniġerjali għandu, fejn meħtieġ, jemenda d-dokument tal-programmazzjoni annwali wara l-adozzjoni tal-programm ta’ ħidma annwali finali msemmi fl-Artikolu 21 u fejn jiġi assenjat kompitu ġdid lill-BEREC jew lill-Uffiċċju tal-BEREC. Kull emenda sostanzjali fid-dokument tal-programmazzjoni annwali għandha tiġi adottata bl-istess proċedura bħal dik użata biex jiġi adottat l-ewwel dokument tal-programmazzjoni annwali. Il-Bord Maniġerjali jista’ jiddelega s-setgħa lid-Direttur biex jagħmel emendi mhux sostanzjali fid-dokument tal-programmazzjoni annwali.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Id-dokument tal-programmazzjoni pluriennali pluriennali għandu jistabbilixxi l-programmazzjoni strateġika ġenerali, inkluż l-għanijiet, ir-riżultati mistennija u l-indikaturi tal-prestazzjoni. Dan għandu jistabbilixxi wkoll il-programmazzjoni tar-riżorsi, inkluż il-baġit pluriennali u l-persunal. Il-programmazzjoni tar-riżorsi għandha tiġi aġġornata kull sena. Il-programmazzjoni strateġika għandha tiġi aġġornata meta jkun xieraq, u b’mod partikolari biex jiġi indirizzat l-eżitu tal-evalwazzjoni msemmija fl-Artikolu 48.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Id-dokument uniku tal-programmazzjoni tal-Uffiċċju tal-BEREC għandu jinkludi l-implimentazzjoni tal-BEREC tal-istrateġija għar-relazzjonijiet ma’ korpi, uffiċċji, aġenziji u gruppi konsultattivi kompetenti tal-Unjoni, ma’ awtoritajiet kompetenti ta’ pajjiżi terzi b’organizzazzjonijiet internazzjonali msemmija fl-Artikolu 35(3), l-azzjonijiet marbuta ma’ dik l-istrateġija u l-ispeċifikazzjoni ta’ riżorsi assoċjati.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_24",
+   "kind": "article",
+   "number": "24",
+   "label": "Artikolu 24",
+   "title": "Stabbiliment tal-baġit",
+   "path": [
+    "KAPITOLU VII — IL-BAĠIT U L-PROGRAMMAZZJONI TAL-UFFIĊĊJU TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Kull sena, id-Direttur għandu jfassal abbozz proviżorju tal-istimi tad-dħul u tan-nefqa tal-Uffiċċju tal-BEREC (“l-abbozz tal-istimi”) għas-sena finanzjarja ta’ wara, inkluż il-pjan tal-istabbiliment, u jippreżentah lill-Bord Maniġerjali. L-informazzjoni li tkun tinsab fl-abbozz tal-istimi għandha tkun konsistenti mal-abbozz tad-dokument uniku tal-programmazzjoni msemmi fl-Artikolu 23(1).",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Id-Direttur għandu jippreżenta l-abbozz tal-istimi lill-Kummissjoni sal-31 ta’ Jannar ta’ kull sena.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il-Kummissjoni għandha tippreżenta l-abbozz tal-istimi lill-awtorità baġitarja flimkien mal-abbozz tal-baġit ġenerali tal-Unjoni.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Abbażi tal-abbozz tal-istimi, il-Kummissjoni għandha ddaħħal fl-abbozz tal-baġit ġenerali tal-Unjoni l-istimi li hija tqis li huma meħtieġa għall-pjan tal-istabbiliment u l-ammont tal-kontribuzzjoni li għandha tiġi addebitata lill-baġit ġenerali, u li għandha tressaq quddiem l-awtorità baġitarja f’konformità mal-Artikoli 313 u 314 tat-Trattat dwar il-Funzjonament tal-Unjoni Ewropea (TFUE).",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. L-awtorità baġitarja għandha tawtorizza l-approprjazzjonijiet għall-kontribuzzjoni lill-Uffiċċju tal-BEREC.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. L-awtorità baġitarja għandha tadotta l-pjan tal-istabbiliment tal-Uffiċċju tal-BEREC.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Il-Bord Maniġerjali għandu jadotta l-baġit tal-Uffiċċju tal-BEREC. Il-baġit għandu jsir finali wara l-adozzjoni finali tal-baġit ġenerali tal-Unjoni. Fejn ikun meħtieġ, dan għandu jiġi aġġustat kif xieraq.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Għal kwalunkwe proġett tal-bini li x’aktarx ikollu implikazzjonijiet sinifikanti għall-baġit tal-Uffiċċju tal-BEREC, għandu japplika r-Regolament ta’ Delega (UE) Nru 1271/2013.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_25",
+   "kind": "article",
+   "number": "25",
+   "label": "Artikolu 25",
+   "title": "Struttura tal-baġit",
+   "path": [
+    "KAPITOLU VII — IL-BAĠIT U L-PROGRAMMAZZJONI TAL-UFFIĊĊJU TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. L-istimi tad-dħul u tal-infiq kollu tal-Uffiċċju tal-BEREC għandhom jitħejjew għal kull sena finanzjarja, li tikkorrispondi għas-sena kalendarja, u għandhom jidhru fil-baġit tal-Uffiċċju tal-BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il-baġit tal-Uffiċċju tal-BEREC għandu jkun bilanċjat f’termini ta’ dħul u ta’ nfiq.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Mingħajr preġudizzju għal riżorsi oħrajn, id-dħul tal-Uffiċċju tal-BEREC għandu jinkludi: (a) kontribuzzjoni mill-Unjoni; (b) kull kontribuzzjoni finanzjarja volontarja mingħand l-Istati Membri jew l-NRAs; (c) il-ħlas għal pubblikazzjonijiet u għal servizzi oħra pprovduti mill-Uffiċċju tal-BEREC; (d) kull kontribuzzjoni mingħand il-pajjiżi terzi jew l-awtoritajiet regolatorji kompetenti fil-qasam tal-komunikazzjoni elettronika tal-pajjiżi terzi li jkunu qed jieħdu sehem fil-ħidma tal-Uffiċċju tal-BEREC, kif previst fl-Artikolu 35.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. L-infiq tal-Uffiċċju tal-BEREC għandu jinkludi r-remunerazzjoni tal-persunal, l-ispejjeż amministrattivi u tal-infrastruttura u n-nefqa operazzjonali.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_26",
+   "kind": "article",
+   "number": "26",
+   "label": "Artikolu 26",
+   "title": "Implimentazzjoni tal-baġit",
+   "path": [
+    "KAPITOLU VII — IL-BAĠIT U L-PROGRAMMAZZJONI TAL-UFFIĊĊJU TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Id-Direttur għandu jimplimenta l-baġit tal-Uffiċċju tal-BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Kull sena, id-Direttur għandu jippreżenta lill-Parlament Ewropew u lill-Kunsill l-informazzjoni kollha li tkun rilevanti għall-konklużjonijiet tal-proċeduri tal-evalwazzjoni.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_27",
+   "kind": "article",
+   "number": "27",
+   "label": "Artikolu 27",
+   "title": "Rapport Annwali ta’ Attività Kkonsolidat",
+   "path": [
+    "KAPITOLU VII — IL-BAĠIT U L-PROGRAMMAZZJONI TAL-UFFIĊĊJU TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Il-Bord Maniġerjali għandu jadotta ir-rapporti annwali ta’ attività kkonsolidati f’konformità mal-Artikolu 47 tar-Regolament Delegat (UE) Nru 1271/2013, b’kont meħud tal-linji gwida stabbiliti mill-Kummissjoni.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_28",
+   "kind": "article",
+   "number": "28",
+   "label": "Artikolu 28",
+   "title": "Preżentazzjoni ta’ kontijiet u kwittanza",
+   "path": [
+    "KAPITOLU VII — IL-BAĠIT U L-PROGRAMMAZZJONI TAL-UFFIĊĊJU TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. L-uffiċjal tal-kontabbiltà tal-Uffiċċju tal-BEREC għandu jippreżenta l-kontijiet proviżorji għas-sena finanzjarja lill-Uffiċjal tal-Kontabbiltà tal-Kummissjoni u lill-Qorti tal-Awdituri sal-1 ta’ Marzu tas-sena finanzjarja ta’ wara.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. L-Uffiċċju tal-BEREC għandu jippreżenta r-rapport dwar il-ġestjoni baġitarja u finanzjarja lill-Parlament Ewropew, lill-Kunsill u lill-Qorti tal-Awdituri sal-31 ta’ Marzu tas-sena finanzjarja li jkun imiss.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Malli jirċievi l-osservazzjonijiet tal-Qorti tal-Awdituri dwar il-kontijiet proviżorji tal-Uffiċċju tal-BEREC, l-uffiċjal tal-kontabbiltà tal-Uffiċċju tal-BEREC għandu jfassal il-kontijiet finali tal-Uffiċċju tal-BEREC fir-responsabbiltà tiegħu. Id-Direttur għandu jippreżenta l-kontijiet finali lill-Bord Maniġerjali għall-opinjoni tiegħu.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Il-Bord Maniġerjali għandu jagħti l-opinjoni tiegħu dwar il-kontijiet finali tal-Uffiċċju tal-BEREC.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Id-Direttur għandu jippreżenta l-kontijiet finali lill-Parlament Ewropew, lill-Kunsill, lill-Kummissjoni u lill-Qorti tal-Awdituri, flimkien mal-opinjoni tal-Bord Maniġerjali sal-1 ta’ Lulju tas-sena finanzjarja ta’ wara.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. L-Uffiċċju tal-BEREC għandu jippubblika l-kontijiet finali f’Il-Ġurnal Uffiċjali tal-Unjoni Ewropea sal-15 ta’ Novembru tas-sena ta’ wara.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Id-Direttur għandu jippreżenta lill-Qorti tal-Awdituri tweġiba għall-osservazzjonijiet tagħha sat-30 ta’ Settembru tas-sena finanzjarja ta’ wara. Id-Direttur għandu jippreżenta wkoll dik it-tweġiba lill-Bord Maniġerjali.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Id-Direttur għandu jippreżenta lill-Parlament Ewropew, fuq it-talba ta’ dan tal-aħħar, kwalunkwe informazzjoni meħtieġa għall-applikazzjoni mingħajr xkiel tal-proċedura ta’ kwittanza għas-sena finanzjarja inkwistjoni, b’konformità mal-Artikolu 165(3) tar-Regolament (UE, Euratom) 2018/1046 tal-Parlament Ewropew u tal-Kunsill.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Fuq rakkomandazzjoni mill-Kunsill, li jaġixxi b’maġġoranza kwalifikata, il-Parlament Ewropew għandu, qabel il-15 ta’ Mejju tas-sena N+2, jagħti kwittanza lid-Direttur fir-rigward tal-implimentazzjoni tal-baġit għas-sena N.",
+     "para": "9",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_29",
+   "kind": "article",
+   "number": "29",
+   "label": "Artikolu 29",
+   "title": "Regoli finanzjarji",
+   "path": [
+    "KAPITOLU VII — IL-BAĠIT U L-PROGRAMMAZZJONI TAL-UFFIĊĊJU TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Ir-regoli finanzjarji applikabbli għall-Uffiċċju tal-BEREC għandhom jiġu adottati mill-Bord Maniġerjali wara li jikkonsulta lill-Kummissjoni. Dawn ma għandhomx jitbiegħdu mir-Regolament ta’ Delega (UE) Nru 1271/2013, ħlief meta tali diverġenza tkun meħtieġa għat-tħaddim tal-Uffiċċju tal-BEREC u meta l-Kummissjoni tkun tat il-kunsens tagħha bil-quddiem għal dan.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_30",
+   "kind": "article",
+   "number": "30",
+   "label": "Artikolu 30",
+   "title": "Dispożizzjoni ġenerali",
+   "path": [
+    "KAPITOLU VIII — PERSUNAL TAL-UFFIĊĊJU TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Ir-Regolamenti tal-Persunal u l-Kondizzjonijiet tal-Impjieg ta’ Aġenti Oħra u r-regoli adottati bi ftehim bejn l-istituzzjonijiet tal-Unjoni biex isiru effettivi dawk ir-Regolamenti tal-Persunal u l-Kondizzjonijiet tal-Impjieg ta’ Aġenti Oħra għandhom japplikaw għall-persunal tal-Uffiċċju tal-BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_31",
+   "kind": "article",
+   "number": "31",
+   "label": "Artikolu 31",
+   "title": "L-għadd ta’ persunal tal-Uffiċċju tal-BEREC",
+   "path": [
+    "KAPITOLU VIII — PERSUNAL TAL-UFFIĊĊJU TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. F’konformità mal-prinċipju tal-ġestjoni bbażata fuq l-attività tar-riżorsi umani, l-Uffiċċju tal-BEREC għandu jkollu l-persunal meħtieġ biex jaqdi dmirijietu.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. L-għadd ta’ persunal u riżorsi finanzjarji korrispondenti għandhom jiġu proposti f’konformità mal-Artikoli 23(2) u (4) u l-Artikolu 24(1), b’kont meħud tal-punt (a) tal-Artikolu 5 u kull kompitu ieħor assenjat lill-Uffiċċju tal-BEREC b’dan ir-Regolament jew b’atti legali oħra tal-Unjoni, kif ukoll tal-ħtieġa ta’ konformità mar-regolamenti applikabbli għall-aġenziji deċentralizzati kollha tal-Unjoni.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_32",
+   "kind": "article",
+   "number": "32",
+   "label": "Artikolu 32",
+   "title": "Ħatra tad-Direttur",
+   "path": [
+    "KAPITOLU VIII — PERSUNAL TAL-UFFIĊĊJU TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Id-Direttur għandu jiġi ingaġġat bħala aġent temporanju tal-Uffiċċju tal-BEREC f’konformità mal-punt (a) tal-Artikolu 2 tal-Kondizzjonijiet tal-Impjieg ta’ Aġenti Oħra.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Id-Direttur għandu jinħatar mill-Bord Maniġerjali, wara proċedura ta’ għażla miftuħa u trasparenti, abbażi tal-mertu, ħiliet ġestjonali, amministrattivi u baġitarji u l-ħiliet u esperjenza rilevanti għan-networks u servizzi ta’ komunikazzjoni elettronika. Il-lista tal-kandidati ma għandhiex tiġi proposta biss mill-President jew minn Viċi President. Ir-regoli ta’ proċedura tal-Bord Maniġerjali għandhom jistabbilixxu fid-dettall l-arranġamenti li jirregolaw proċedura li twassal għal lista mqassra tal-għadd ta’ kandidati eliġibbli u għal proċedura ta’ votazzjoni.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Għall-fini tal-konklużjoni tal-kuntratt mad-Direttur, l-Uffiċċju tal-BEREC għandu jirrappreżentah il-President tal-Bord Maniġerjali.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Qabel il-ħatra, il-kandidat magħżul mill-Bord Maniġerjali għandu jiġi mistieden jagħmel dikjarazzjoni quddiem il-kumitat kompetenti tal-Parlament Ewropew u jwieġeb mistoqsijiet mill-membri tiegħu.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Il-mandat tad- Direttur għandu jkun ta’ ħames snin. Sa tmiem dak il-perijodu, il-President tal-Bord Maniġerjali għandu jwettaq valutazzjoni li tqis l-evalwazzjoni tal-prestazzjoni tad-Direttur u l-kompiti u l-isfidi tal-Uffiċċju tal-BEREC. Dik il-valutazzjoni għandha tiġi ppreżentata lill-Parlament Ewropew u lill-Kunsill.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Il-Bord Maniġerjali, filwaqt li jqis il-valutazzjoni msemmija fil-paragrafu 5, jista’ jestendi l-mandat tad-Direttur darba, għal mhux aktar minn ħames snin.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Il-Bord Maniġerjali għandu jinforma lill-Parlament Ewropew jekk għandux il-ħsieb li jestendi l-mandat tad-Direttur. Fi żmien xahar qabel kwalunkwe tali estensjoni, id-Direttur jista’ jiġi mistieden jagħmel dikjarazzjoni quddiem il-kumitat kompetenti tal-Parlament Ewropew u jwieġeb mistoqsijiet mill-membri tiegħu.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Direttur li l-mandat tiegħu jkun ġie estiż ma għandux jieħu sehem fi proċedura oħra ta’ għażla għall-istess kariga wara tmiem il-perijodu kumulattiv.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Fejn il-mandat ma jiġix estiż, id-Direttur għandu, fuq deċiżjoni tal-Bord Maniġerjali, jibqa’ fil-kariga lil hinn mill-iskadenza tal-ewwel terminu tal-mandat sa meta jinħatar suċċessur.",
+     "para": "9",
+     "point": ""
+    },
+    {
+     "text": "10. Id- Direttur jista’ jitneħħa mill-kariga biss fuq deċiżjoni tal-Bord Maniġerjali li jaġixxi fuq proposta minn membru.",
+     "para": "10",
+     "point": ""
+    },
+    {
+     "text": "11. Il-Bord Maniġerjali għandu jieħu d-deċiżjonijiet dwar il-ħatra, l-estensjoni tal-mandat jew it-tneħħija mill-kariga tad-Direttur fuq il-bażi ta’ vot ta’ maġġoranza ta’ żewġ terzi tal-membri tiegħu.",
+     "para": "11",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_33",
+   "kind": "article",
+   "number": "33",
+   "label": "Artikolu 33",
+   "title": "Esperti nazzjonali sekondati u persunal ieħor",
+   "path": [
+    "KAPITOLU VIII — PERSUNAL TAL-UFFIĊĊJU TAL-BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. L-Uffiċċju tal-BEREC jista’ juża s-servizzi ta’ esperti nazzjonali sekondati jew ta’ persunal ieħor li ma jkunx impjegat minnu. Ir-Regolamenti tal-Persunal u l-Kondizzjonijiet tal-Impjieg ta’ Aġenti Oħra ma għandhomx japplikaw għal tali persunal.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il-Bord Maniġerjali għandu jadotta deċiżjoni li tistabbilixxi r-regoli dwar is-sekondar ta’ esperti nazzjonali fl-Uffiċċju tal-BEREC.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_34",
+   "kind": "article",
+   "number": "34",
+   "label": "Artikolu 34",
+   "title": "Privileġġi u immunitajiet",
+   "path": [
+    "KAPITOLU IX — DISPOŻIZZJONIJIET ĠENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "Il-Protokoll dwar il-Privileġġi u l-Immunitajiet tal-Unjoni Ewropea għandu japplika għall-Uffiċċju tal-BEREC u għall-persunal tiegħu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_35",
+   "kind": "article",
+   "number": "35",
+   "label": "Artikolu 35",
+   "title": "Kooperazzjoni mal-korpi tal-Unjoni, mal-pajjiżi terzi u mal-organizzazzjonijiet internazzjonali",
+   "path": [
+    "KAPITOLU IX — DISPOŻIZZJONIJIET ĠENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Sa fejn ikun meħtieġ biex il-BEREC u l-Uffiċċju tal-BEREC jilħqu l-għanijiet stabbiliti f’dan ir-Regolament u jwettqu l-kompiti tagħhom, u mingħajr preġudizzju għall-kompetenzi tal-Istati Membri u tal-istituzzjonijiet tal-Unjoni, dawn jistgħu jikkooperaw ma’ korpi, uffiċċji, aġenziji u gruppi konsultattivi kompetenti tal-Unjoni, ma’ awtoritajiet kompetenti tal-pajjiżi terzi u ma’ organizzazzjonijiet internazzjonali. Għal dak il-għan u soġġett għall-approvazzjoni minn qabel tal-Kummissjoni, il-BEREC u l-Uffiċċju tal-BEREC jistgħu jistabbilixxu arranġamenti ta’ ħidma. Dawk l-arranġamenti ma għandhomx joħolqu obbligi ġuridiċi.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il-Bord tar-Regolaturi, il-gruppi ta’ ħidma u l-Bord Maniġerjali għandhom ikunu miftuħin għall-parteċipazzjoni tal-awtoritajiet regolatorji ta’ pajjiżi terzi li jkollhom responsabbiltà primarja fil-qasam tal-komunikazzjoni elettronika fejn dawk il-pajjiżi terzi jkunu daħlu fi ftehimiet mal-Unjoni għal dak l-iskop. Taħt id-dispożizzjonijiet rilevanti ta’ dawk il-ftehimiet, għandhom jiġu żviluppati arranġamenti ta’ ħidma li jispeċifikaw, b’mod partikolari, in-natura, sa fejn u l-mod kif dawn l-awtoritajiet regolatorji tal-pajjiżi terzi kkonċernati ser jieħdu sehem mingħajr id-dritt tal-vot fil-ħidma tal-BEREC u tal-Uffiċċju tal-BEREC, inkluż id-dispożizzjonijiet dwar il-parteċipazzjoni fl-inizjattivi meħuda mill-BEREC, il-kontribuzzjonijiet finanzjarji u l-persunal għall-Uffiċċju tal-BEREC. Fi kwalunkwe każ, fejn jidħlu l-materji marbutin mal-persunal, dawk l-arranġamenti għandhom ikunu konformi mar-Regolamenti tal-Persunal.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Bħala parti mill-programm ta’ ħidma annwali msemmi fl-Artikolu 21, il-Bord tar-Regolaturi għandu jadotta l-istrateġija tal-BEREC għar-relazzjonijiet ma’ korpi, uffiċċji, aġenziji u gruppi konsultattivi kompetenti tal-Unjoni u mal-awtoritajiet kompetenti tal-pajjiżi terzi u mal-organizzazzjonijiet internazzjonali fejn jidħlu kwistjonijiet ta’ kompetenza tal-BEREC. Il-Kummissjoni, il-BEREC u l-Uffiċċju tal-BEREC għandhom jikkonkludu arranġament xieraq ta’ ħidma bil-għan li jiżgura li l-BEREC u l-Uffiċċju tal-BEREC joperaw fi ħdan il-mandat tagħhom u l-qafas istituzzjonali eżistenti.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_36",
+   "kind": "article",
+   "number": "36",
+   "label": "Artikolu 36",
+   "title": "Aċċess għal dokumenti u protezzjoni tad-data",
+   "path": [
+    "KAPITOLU IX — DISPOŻIZZJONIJIET ĠENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ir-Regolament (KE) Nru 1049/2001 tal-Parlament Ewropew u tal-Kunsill għandu japplika għad-dokumenti miżmuma mill-BEREC u l-Uffiċċju tal-BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il-Bord tar-Regolaturi u l-Bord Maniġerjali għandhom, sal-21 ta’ Ġunju 2019, jadottaw regoli dettaljati għall-applikazzjoni tar-Regolament (KE) Nru 1049/2001.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. L-ipproċessar tad-data personali mill-BEREC u l-Uffiċċju tal-BEREC għandu jkun soġġett għar-Regolament (UE) 2018/1725.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Il-Bord tar-Regolaturi u l-Bord Maniġerjali għandhom, sal-21 ta’ Ġunju 2019, jistabbilixxu miżuri għall-applikazzjoni tar-Regolament (UE) 2018/1725 mill-BEREC u mill-Uffiċċju tal-BEREC, inklużi dawk li jkollhom x’jaqsmu mal-ħatra ta’ Uffiċjal tal-Protezzjoni tad-Data tal-Uffiċċju tal-BEREC. Dawk il-miżuri għandhom jiġu stabbiliti wara konsultazzjoni mal-Kontrollur Ewropew għall-Protezzjoni tad-Data.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_37",
+   "kind": "article",
+   "number": "37",
+   "label": "Artikolu 37",
+   "title": "Trasparenza u komunikazzjoni",
+   "path": [
+    "KAPITOLU IX — DISPOŻIZZJONIJIET ĠENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il-BEREC u l-Uffiċċju tal-BEREC għandhom iwettqu l-attivitajiet tagħhom b’livell għoli ta’ trasparenza. Il-BEREC u l-Uffiċċju tal-BEREC għandhom jiżguraw li l-pubbliku u kwalunkwe parti interessata jingħataw informazzjoni xierqa, oġġettiva, affidabbli u aċċessibbli b’mod faċli, b’mod partikolari fir-rigward tal-kompiti tagħhom u tar-riżultati tal-ħidma tagħhom.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il-BEREC, bl-appoġġ tal-Uffiċċju tal-BEREC, jista’ jkun involut f’attivitajiet ta’ komunikazzjoni fuq l-inizjattiva tiegħu stess fl-oqsma ta’ kompetenza f’konformità mal-pjanijiet rilevanti ta’ komunikazzjoni u disseminazzjoni adottati mill-Bord tar-Regolaturi. L-allokazzjoni ta’ riżorsi għal tali appoġġ għal attivitajiet ta’ komunikazzjoni fi ħdan il-baġit tal-Uffiċċju tal-BEREC m’għandhiex tkun ta’ detriment għall-eżerċizzju effettiv tal-kompiti tal-BEREC kif imsemmija fl-Artikolu 5 jew il-kompiti tal-Uffiċċju tal-BEREC kif imsemmija fl-Artikolu 5. L-attivitajiet ta’ komunikazzjoni tal-Uffiċċju tal-BEREC għandhom jitwettqu f’konformità mal-pjanijiet rilevanti ta’ komunikazzjoni u disseminazzjoni adottati mill-Bord Maniġerjali.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_38",
+   "kind": "article",
+   "number": "38",
+   "label": "Artikolu 38",
+   "title": "Kunfidenzjalità",
+   "path": [
+    "KAPITOLU IX — DISPOŻIZZJONIJIET ĠENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Mingħajr preġudizzju għall-Artikolu 36(1) u l-Artikolu 40(2), il-BEREC u l-Uffiċċju tal-BEREC ma għandhomx jiżvelaw l-informazzjoni li jipproċessaw jew li jirċievu lil partijiet terzi meta tkun saret talba motivata għal trattament kunfidenzjali ta’ dik l-informazzjoni kollha jew ta’ xi parti minnha.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Membri u parteċipanti oħrajn fil-laqgħat tal-Bord tar-Regolaturi, l-Bord Maniġerjali u l-gruppi ta’ ħidma, id- Direttur, esperti nazzjonali sekondati u persunal ieħor mhux impjegat mill-Uffiċċju tal-BEREC għandhom jikkonformaw mar-rekwiżiti ta’ kunfidenzjalità skont l-Artikolu 339 tat-TFUE, anke wara li d-dmirijiet tagħhom ikunu ntemmu.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il-Bord tar-Regolaturi u l-Bord Maniġerjali għandhom jistabbilixxu l-arranġamenti prattiċi għall-implimentazzjoni tar-regoli tal-kunfidenzjalità msemmija fil-paragrafi 1 u 2.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_39",
+   "kind": "article",
+   "number": "39",
+   "label": "Artikolu 39",
+   "title": "Ir-regoli ta’ sigurtà dwar il-protezzjoni ta’ informazzjoni klassifikata u ta’ informazzjoni sensittiva mhux klassifikata",
+   "path": [
+    "KAPITOLU IX — DISPOŻIZZJONIJIET ĠENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "Il-BEREC u l-Uffiċċju tal-BEREC għandhom jadottaw ir-regoli tas-sigurtà tagħhom stess li jkunu ekwivalenti għar-regoli tas-sigurtà tal-Kummissjoni biex titħares l-Informazzjoni Klassifikata tal-Unjoni Ewropea u l-informazzjoni sensittiva mhux klassifikata, fost l-oħrajn id-dispożizzjonijiet għall-iskambju, għall-ipproċessar u għall-ħżin ta’ tali informazzjoni kif stabbilit fid-Deċiżjonijiet tal-Kummissjoni (UE, Euratom) 2015/443 u (UE, Euratom) 2015/444. Alternattivament, il-BEREC jew l-Uffiċċju tal-BEREC jista’ jadotta deċiżjoni li japplika r-regoli tal-Kummissjoni fuq bażi mutatis mutandis.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_40",
+   "kind": "article",
+   "number": "40",
+   "label": "Artikolu 40",
+   "title": "Skambju ta’ informazzjoni",
+   "path": [
+    "KAPITOLU IX — DISPOŻIZZJONIJIET ĠENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Fuq talba motivata mill-BEREC jew mill-Uffiċċju tal-BEREC, il-Kummissjoni u l-NRAs irrappreżentati fil-Bord tar-Regolaturi u awtoritajiet kompetenti oħrajn għandhom jipprovdu lill-BEREC jew lill-Uffiċċju tal-BEREC l-informazzjoni kollha neċessarja, fil-ħin u b’mod preċiż, għat-twettiq tal-kompiti tagħhom, dment li dawn ikollhom aċċess legali għall-informazzjoni rilevanti u li t-talba għall-informazzjoni tkun neċessarja b’rabta man-natura tal-kompitu inkwistjoni. Il-BEREC jew l-Uffiċċju tal-BEREC jista’ jitlob ukoll li tali informazzjoni tingħata f’intervalli regolari u f’formati speċifikati. Tali talbiet, fejn possibbli, għandhom isiru bl-użu ta’ formati komuni tar-rappurtar.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Fuq talba motivata mill-Kummissjoni jew minn NRA, il-BEREC jew l-Uffiċċju tal-BEREC għandu jipprovdi, fil-ħin u b’mod preċiż, kull informazzjoni neċessarja biex il-Kummissjoni, l-NRA, jew awtorità kompetenti oħra, ikunu jistgħu jaqdu dmirijiethom, skont il-prinċipju tal-kooperazzjoni sinċiera. Fejn il-BEREC jew l-Uffiċċju tal-BEREC iqis xi informazzjoni bħala kunfidenzjali, il-Kummissjoni, l-NRA jew l-awtorità kompetenti l-oħra għandhom jiżguraw tali kunfidenzjalità f’konformità mal-liġi tal-Unjoni u mal-liġi nazzjonali, inkluż ir-Regolament (KE) Nru 1049/2001. Il-kunfidenzjalità kummerċjali ma għandhiex tipprevjeni l-kondiviżjoni f’waqtha tal-informazzjoni.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Qabel ma ssir it-talba għall-informazzjoni f’konformità ma’ dan l-Artikolu u biex tkun evitata d-duplikazzjoni tal-obbligi tar-rappurtar, il-BEREC jew l-Uffiċċju tal-BEREC għandu jieħu kont ta’ kwalunkwe informazzjoni eżistenti rilevanti li tkun disponibbli pubblikament.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Fejn xi informazzjoni ma tkunx saret disponibbli b’mod f’waqtu mill-NRAs, il-BEREC jew l-Uffiċċju tal-BEREC jista’ jindirizza talba motivata jew lil NRAs oħrajn u awtoritajiet kompetenti oħra tal-Istat Membru kkonċernat, jew direttament lill-impriżi rilevanti li jipprovdu netwerks u servizzi ta’ komunikazzjoni elettronika, u faċilitajiet assoċjati. Il-BEREC jew l-Uffiċċju tal-BEREC għandu jinnotifika lill-NRAs li jkunu naqsu milli jipprovdu l-informazzjoni bit-talbiet f’konformità mal-ewwel paragrafu. Fuq it-talba tal-BEREC jew l-Uffiċċju tal-BEREC, l-NRAs għandhom jgħinu lill-BEREC jiġbor l-informazzjoni.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. L-Istati Membri għandhom jiżguraw li l-NRAs u awtoritajiet kompetenti oħra jkollhom is-setgħa li jeżiġu li awtoritajiet nazzjonali responsabbli oħrajn jew impriżi li jipprovdu networks u servizzi ta’ komunikazzjoni elettronika, faċilitajiet assoċjati jew servizzi assoċjati jissottomettu l-informazzjoni kollha neċessarja biex iwettqu l-kompiti tagħhom imsemmijin f’dan l-Artikolu. Awtoritajiet nazzjonali jew impriżi oħra responsabbli kif imsemmija fl-ewwel subparagrafu għandhom jipprovdu tali informazzjoni minnufih malli tintalab u f’konformità mal-limiti ta’ żmien u fil-livell ta’ dettall meħtieġ. L-Istati Membri għandhom jiżguraw li l-NRAs u awtoritajiet kompetenti oħrajn jingħataw is-setgħa li jinforzaw tali talbiet għal informazzjoni billi jimponu penali li jkunu xierqa, effikaċi, proporzjonati u dissważivi.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_41",
+   "kind": "article",
+   "number": "41",
+   "label": "Artikolu 41",
+   "title": "Sistema ta’ informazzjoni u komunikazzjoni",
+   "path": [
+    "KAPITOLU IX — DISPOŻIZZJONIJIET ĠENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. L-Uffiċċju tal-BEREC għandu jistabbilixxi u jamministra sistema ta’ informazzjoni u komunikazzjoni li jkollha tal-inqas il-funzjonijiet li ġejjin: (a) pjattaforma komuni għall-iskambju ta’ informazzjoni li tagħti lill-BEREC, lill-Kummissjoni u lill-NRAs l-informazzjoni meħtieġa għall-implimentazzjoni konsistenti tal-qafas regolatorju tal-Unjoni għall-komunikazzjoni elettronika; (b) interfaċċja dedikat għal talbiet għal informazzjoni u notifika ta’ dawk it-talbiet kif imsemmija fl-Artikolu 40, għal aċċess mill-BEREC, l-Uffiċċju tal-BEREC, il-Kummissjoni u l-NRAs; (c) pjattaforma għall-identifikazzjoni bikrija tal-ħtieġa ta’ koordinazzjoni bejn NRAs.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il-Bord Maniġerjali għandu jadotta l-ispeċifikazzjonijiet tekniċi u funzjonali u pjan sabiex tiġi stabbilita s-sistema ta’ informazzjoni u komunikazzjoni msemmija fil-paragrafu 1. Dik is-sistema għandha tkun soġġettatgħal drittijiet ta’ propjetà intellettwali u għal-livell ta’ kunfidenzjalità meħtieġ.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Dik is-sistema ta’ informazzjoni u komunikazzjoni għandha tkun operattiva sal-21 ta’ Ġunju 2020.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_42",
+   "kind": "article",
+   "number": "42",
+   "label": "Artikolu 42",
+   "title": "Dikjarazzjonijiet ta’ interessi",
+   "path": [
+    "KAPITOLU IX — DISPOŻIZZJONIJIET ĠENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il-membri u l-Bord tar-Regolaturi u tal-Bord Maniġerjali, id-Direttur, l-esperti nazzjonali sekondati u l-persunal l-ieħor li ma jkunx impjegat mill-Uffiċċju tal-BEREC ilkoll għandhom jagħmlu dikjarazzjoni bil-miktub fejn jistqarru l-impenn tagħhom u l-assenza jew il-preżenza ta’ kull interess dirett jew indirett li jista’ jitqies li jippreġudika l-indipendenza tagħhom. Tali dikjarazzjonijiet għandhom isiru meta jiġu assunti r-responsabbiltajiet, għandhom ikunu preċiżi u kompluti, u għandhom jiġu aġġornati fejn ikun hemm riskju ta’ preżenza ta’ kwalunkwe interess dirett jew indirett li jista’ jitqies li jippreġudika l-indipendenza tal-persuna li tagħmel id-dikjarazzjoni. Id-dikjarazzjonijiet li jagħmlu l-membri tal-Bord tar-Regolaturi, il-membri tal-Bord Maniġerjali u d-Direttur għandhom isiru pubbliċi.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il-membri tal-Bord tar-Regolaturi, tal-Bord Maniġerjali u l-gruppi ta’ ħidma, u parteċipanti oħra fil-laqgħat tagħhom, id-Direttur, l-esperti nazzjonali sekondati u persunal ieħor li ma jkunx impjegat mal-Uffiċċju tal-BEREC għandhom jiddikjaraw ilkoll b’mod preċiż u komplut, sa mhux aktar tard minn meta tibda kull laqgħa, kwalunkwe interess li jista’ jitqies li jippreġudika l-indipendenza tagħhom fejn jidħlu l-punti li jkun hemm fl-aġenda, u għandhom jastjenu milli jieħdu sehem fid-diskussjoni u l-votazzjoni dwar tali punti.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il-Bord tar-Regolaturi u l-Bord Maniġerjali għandhom jistabbilixxu r-regoli għall-prevenzjoni u l-ġestjoni tal-kunflitti ta’ interessi u, b’mod partikolari, għall-arranġamenti prattiċi għall-applikazzjoni tal-paragrafi 1 u 2.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_43",
+   "kind": "article",
+   "number": "43",
+   "label": "Artikolu 43",
+   "title": "Ġlieda kontra l-frodi",
+   "path": [
+    "KAPITOLU IX — DISPOŻIZZJONIJIET ĠENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Biex jiffaċilita l-ġlieda kontra l-frodi, il-korruzzjoni u attivitajiet illegali oħra taħt ir-Regolament (UE, Euratom) Nru 883/2013 tal-Parlament Ewropew u tal-Kunsill, sal-21 ta’ Ġunju 2019, l-Uffiċċju tal-BEREC għandu jaderixxi mal-Ftehim Interistituzzjonali tal-25 ta’ Mejju 1999 bejn il-Parlament Ewropew, il-Kunsill tal-Unjoni Ewropea u l-Kummissjoni tal-Komunitajiet Ewropej dwar investigazzjonijiet interni mill-Uffiċċju Ewropew Kontra l-Frodi (OLAF) u jadotta d-dispożizzjonijiet adegwati applikabbli għall-persunal kollu tal-Uffiċċju tal-BEREC bl-użu tal-mudell stabbilit fl-Anness ta’ dak il-Ftehim.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il-Qorti tal-Awdituri jkollha s-setgħa tagħmel awditi, abbażi ta’ dokumenti u ta’ spezzjonijiet fuq il-post, ta’ kull benefiċjarju ta’ għotja, kuntrattur u sottokuntrattur li jkunu rċevew fondi tal-Unjoni mingħand l-Uffiċċju tal-BEREC.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. L-OLAF jista’ jwettaq investigazzjonijiet, inklużi verifiki u spezzjonijiet fuq il-post, skont id-dispożizzjonijiet u l-proċeduri stabbiliti fir-Regolament (UE, Euratom) Nru 883/2013 u r-Regolament tal-Kunsill (Euratom, KE) Nru 2185/96 bil-ħsieb li jiġi stabbilit jekk kienx hemm frodi, korruzzjoni jew kwalunkwe attività illegali oħra li taffettwa l-interessi finanzjarji tal-Unjoni b’konnessjoni ma’ ftehim ta’ għotja jew deċiżjoni ta’ għotja jew kuntratt iffinanzjat mill-Uffiċċju tal-BEREC.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Mingħajr preġudizzju għall-paragrafi 1, 2 u 3, il-ftehimiet ta’ kooperazzjoni mal-pajjiżi terzi u mal-organizzazzjonijiet internazzjonali, il-kuntratti, il-ftehimiet ta’ għotja u d-deċiżjonijiet ta’ għotja għandhom jinkludu dispożizzjonijiet li espliċitament jagħtu s-setgħa lill-Qorti tal-Awdituri u lill-OLAF biex iwettqu tali awditi u investigazzjonijiet, skont il-kompetenzi rispettivi tagħhom.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_44",
+   "kind": "article",
+   "number": "44",
+   "label": "Artikolu 44",
+   "title": "Responsabbiltà",
+   "path": [
+    "KAPITOLU IX — DISPOŻIZZJONIJIET ĠENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ir-responsabbiltà kuntrattwali tal-Uffiċċju tal-BEREC tirregolaha l-liġi applikabbli għall-kuntratt inkwistjoni.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il-Qorti tal-Ġustizzja tal-Unjoni Ewropea (‘il-Qorti tal-Ġustizzja’) għandu jkollha l-ġurisdizzjoni biex tagħti sentenza skont kwalunkwe klawżola ta’ arbitraġġ li jkun hemm f’kuntratt konkluż mill-Uffiċċju tal-BEREC.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Fil-każ ta’ responsabbiltà mhux kuntrattwali, skont il-prinċipji ġenerali komuni għal-liġijiet tal-Istati Membri, l-Uffiċċju tal-BEREC għandu jagħmel tajjeb għal kull dannu li jikkaġunaw id-dipartimenti tiegħu jew il-persunal tiegħu waqt il-qadi ta’ dmirijiethom.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Il-Qorti tal-Ġustizzja għandu jkollha l-ġurisdizzjoni fit-tilwim fuq il-kumpens għad-danni kif imsemmi fil-paragrafu 3.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Ir-responsabbiltà personali tal-persunal tiegħu lejn l-Uffiċċju tal-BEREC għandhom jirregolawha d-dispożizzjonijiet stabbiliti fir-Regolamenti tal-Persunal jew fil-Kondizzjonijiet tal-Impjieg ta’ Aġenti Oħra li japplikaw għalihom.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_45",
+   "kind": "article",
+   "number": "45",
+   "label": "Artikolu 45",
+   "title": "Investigazzjonijiet amministrattivi",
+   "path": [
+    "KAPITOLU IX — DISPOŻIZZJONIJIET ĠENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "L-attivitajiet tal-BEREC u tal-Uffiċċju tal-BEREC għandhom ikunu soġġetti għall-istħarriġ mill-Ombudsman Ewropew f’konformità mal-Artikolu 228 tat-TFUE.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_46",
+   "kind": "article",
+   "number": "46",
+   "label": "Artikolu 46",
+   "title": "Arranġamenti lingwistiċi",
+   "path": [
+    "KAPITOLU IX — DISPOŻIZZJONIJIET ĠENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ir-Regolament Nru 1 għandu japplika għall-Uffiċċju tal-BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Is-servizzi tat-traduzzjoni meħtieġa għall-funzjonament tal-Uffiċċju tal-BEREC għandu jipprovdihom iċ-Ċentru tat-Traduzzjoni għall-Korpi tal-Unjoni Ewropea.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_47",
+   "kind": "article",
+   "number": "47",
+   "label": "Artikolu 47",
+   "title": "Ftehim dwar il-Kwartieri Ġenerali u l-kondizzjonijiet tal-operat",
+   "path": [
+    "KAPITOLU X — DISPOŻIZZJONIJIET FINALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. L-arranġamenti rigward l-akkomodazzjoni li trid tiġi pprovduta għall-Uffiċċju tal-BEREC fl-Istat Membru ospitanti u l-faċilitajiet li dak l-Istat Membru jrid jagħmillu disponibbli, flimkien mar-regoli speċifiċi applikabbli fl-Istat Membru ospitanti għad-Direttur, għall-membri tal-Bord Maniġerjali, għall-persunal tal-Uffiċċju tal-BEREC u għall-membri tal-familji tagħhom għandhom jiġu stabbiliti fi Ftehim dwar il-Kwartieri Ġenerali bejn l-Uffiċċju tal-BEREC u l-Istat Membru ospitanti, li jiġi konkluż wara li tinkiseb l-approvazzjoni tal-Bord Maniġerjali u mhux aktar tard mill-21 ta’ Diċembru 2020.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. L-Istat Membru ospitanti għandu jipprovdi l-kondizzjonijiet meħtieġa biex jiżgura li l-Uffiċċju tal-BEREC jaħdem mingħajr xkiel u b’mod effiċjenti, inklużi s-servizzi ta’ skola multilingwi u orjentata lejn l-Ewropa u l-konnessjonijiet adegwati tat-trasport.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_48",
+   "kind": "article",
+   "number": "48",
+   "label": "Artikolu 48",
+   "title": "Evalwazzjoni",
+   "path": [
+    "KAPITOLU X — DISPOŻIZZJONIJIET FINALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Sal-21 ta’ Diċembru 2023, u kull ħames snin wara dan, il-Kummissjoni għandha twettaq evalwazzjoni f’konformità mal-linji gwida tal-Kummissjoni biex tivvaluta l-prestazzjoni tal-BEREC u tal-Uffiċċju tal-BEREC fejn jidħlu l-għanijiet, il-mandat, il-kompiti u s-sedi tagħhom. B’mod partikolari, l-evalwazzjoni għandha tindirizza l-ħtieġa possibbli li tinbidel l-istruttura jew il-mandat tal-BEREC u tal-Uffiċċju tal-BEREC, u l-implikazzjonijiet finanzjarji ta’ tali bidla.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Fejn il-Kummissjoni tqis li l-kontinwazzjoni tal-BEREC jew tal-Uffiċċju tal-BEREC ma tkunx għadha ġustifikata fir-rigward tal-għanijiet, mandat u kompiti assenjati lilhom, hija tista’ tipproponi li dan ir-Regolament jiġi emendat jew jitħassar kif meħtieġ.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il-Kummissjoni għandha tirrapporta lill-Parlament Ewropew, lill-Kunsill u lill-Bord Maniġerjali dwar il-konklużjonijiet tal-evalwazzjoni u għandha tagħmel pubbliċi dawk il-konklużjonijiet.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_49",
+   "kind": "article",
+   "number": "49",
+   "label": "Artikolu 49",
+   "title": "Dispożizzjonijiet transizzjonali",
+   "path": [
+    "KAPITOLU X — DISPOŻIZZJONIJIET FINALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. L-Uffiċċju tal-BEREC għandu jieħu post l-Uffiċċju li kien ġie stabbilit bir-Regolament (KE) Nru 1211/2009 fir-rigward tas-sjieda, ftehimiet, obbligi legali, kuntratti tal-impjiegi, impenji finanzjarji u responsabbiltajiet kollha. B’mod partikolari, dan ir-Regolament ma għandux jaffettwa d-drittijiet u l-obbligi tal-persunal tal-Uffiċċju. Il-kuntratti tagħhom jistgħu jiġġeddu taħt dan ir-Regolament f’konformità mar-Regolamenti tal-Persunal u l-Kondizzjonijiet tal-Impjieg ta’ Aġenti Oħra u f’konformità mal-limitazzjonijiet baġitarji tal-Uffiċċju tal-BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. B’effett mill-20 ta’ Diċembru 2018, il-Maniġer Amministrattiv maħtur abbażi tar-Regolament (KE) Nru 1211/2009 għandu jaġixxi bħala Direttur bil-funzjonijiet previsti f’dan ir-Regolament. Il-kondizzjonijiet l-oħra tal-kuntratt tal-Maniġer Amministrattiv għandhom jibqgħu l-istess.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il-Bord Maniġerjali jista’ jiddeċiedi li jġedded il-mandat tad-Direttur imsemmi fil-paragrafu 2 ta’ dan l-Artikolu għal terminu ieħor. L-Artikolu 32(5) u (6) għandu japplika mutatis mutandis. It-terminu kumulattiv tal-mandat tad-Direttur ma għandux jeċċedi għaxar snin.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Il-Bord tar-Regolaturi u l-Bord Maniġerjali msemmija fl-Artikoli 7 u 15 ta’ dan ir-Regolament għandu jkun magħmul mill-membri tal-Bord tar-Regolaturi u l-Kumitat Maniġerjali msemmija fl-Artikoli 4 u 7 tar-Regolament (KE) Nru 1211/2009, sa meta jinħatru rappreżentanti ġodda.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Il-Presidenti u l-Viċi Presidenti tal-Bord ta’ Regolaturi u tal-Kumitat Maniġerjali, li jkunu nħatru abbażi tar-Regolament (KE) Nru 1211/2009, għandhom jibqgħu fil-kariga bħala l-President u l-Viċi Presidenti tal-Bord tar-Regolaturi kif msemmi fl-Artikolu 10 ta’ dan ir-Regolament, u bħala l-President u l-Viċi Presidenti tal-Bord Maniġerjali kif msemmi fl-Artikolu 17 ta’ dan ir-Regolament għall-kumplament tal-mandat ta’ sena tagħhom. Il-ħatriet tal-Presidenti u l-Viċi Presidenti tal-Bord ta’ Regolaturi u tal-Kumitat Maniġerjali abbażi tar-Regolament (KE) Nru 1211/2009, li jsiru qabel l-20 ta’ Diċembru 2018 iżda jestendu lil hinn minn dik id-data, għandhom jiġu rrispettati.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Il-proċedura ta’ kwittanza fir-rigward tal-baġit approvat abbażi tal-Artikolu 11 tar-Regolament (KE) Nru 1211/2009 għandha ssir skont ir-regoli stabbiliti minn dak ir-Regolament.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_50",
+   "kind": "article",
+   "number": "50",
+   "label": "Artikolu 50",
+   "title": "Emendi għar-Regolament (UE) 2015/2120",
+   "path": [
+    "KAPITOLU X — DISPOŻIZZJONIJIET FINALI"
+   ],
+   "blocks": [
+    {
+     "text": "Ir-Regolament (UE) 2015/2120 huwa emendat kif ġej:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(1) it-titolu huwa sostitwit b’dan li ġej: “Regolament (UE) 2015/2120 tal-Parlament Ewropew u tal-Kunsill tal-25 ta’ Novembru 2015 li jistabbilixxi miżuri dwar aċċess għal Internet miftuħ u tariffi bl-imnut għal komunikazzjonijiet intra-UE regolati u li jemenda d-Direttiva 2002/22/KE u r-Regolament (UE) Nru 531/2012”;",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) fl-Artikolu 1, jiżdied il-paragrafu li ġej: “3. Dan ir-Regolament jistabbilixxi wkoll regoli komuni li għandhom l-għan li jiżguraw li l-konsumaturi ma jintalbux prezzijiet eċċessivi biex jagħmlu komunikazzjonijiet interpersonali bbażati fuq in-numri li joriġinaw fl-Istat Membru tal-fornitur domestiku tal-konsumatur u jitterminaw f’kwalunkwe numru fiss jew mobbli fi Stat Membru ieħor.”;",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) fit-tieni paragrafu tal-Artikolu 2, jiżdiedu l-punt li ġejjin: “(3) ‘komunikazzjonijiet intra-UE regolati’ tfisser kwalunkwe servizz tal-komunikazzjonijiet interpersonali bbażati fuq in-numri li joriġinaw fl-Istat Membru tal-fornitur domestiku tal-konsumatur u jitterminaw f’kwalunkwe numru fiss jew mobbli tal-pjan ta’ numerazzjoni tat-telefon nazzjonali ta’ Stat Membru ieħor, u li l-ħlas li jintalab ikun ibbażat b’mod intier jew parzjali fuq il-konsum attwali; (4) ‘servizzi tal-komunikazzjonijiet interpersonali bbażati fuq in-numri’ tfisser servizzi tal-komunikazzjonijiet interpersonali bbażati fuq in-numri kif definiti fil-punt (6) tal-Artikolu 2 tad-Direttiva (UE) 2018/1972 tal-Parlament Ewropew u tal-Kunsill. (*1) Direttiva (UE) 2018/1972 tal-Parlament Ewropew u tal-Kunsill tal-11 ta’ Diċembru 2018 li tistabbilixxi l-Kodiċi Ewropew għall-Komunikazzjonijiet Elettroniċi (ĠU L 321, 17.12.2018, p. 36).”;\"",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) jiddaħħal l-Artikolu li ġej: “Artikolu 5a Tariffi bl-imnut għal komunikazzjonijiet intra-UE regolati 1. Mill-15 ta’ Mejju 2019, kwalunkwe prezz bl-imnut (eskluż il-VAT) impost fuq il-konsumaturi għal komunikazzjonijiet intra-UE regolati ma għandux jaqbeż EUR 0,19 kull minuta għal telefonati u EUR 0,06 għal kull messaġġ SMS. 2. Minkejja l-obbligi stabbiliti fil-paragrafu 1, il-fornituri ta’ komunikazzjonijiet intra-UE regolati jistgħu apparti minn hekk joffru, u l-konsumaturi jistgħu espressament jagħżlu, tariffa għal komunikazzjonijiet internazzjonali inklużi komunikazzjonijiet intra-UE regolati li tkun differenti minn dik stabbilita skont il-paragrafu 1, li permezz tagħha l-konsumaturi jibbenefikaw minn tariffa differenti għal komunikazzjonijiet intra-UE regolati minn dik li kienu jingħataw fin-nuqqas tat-tali għażla. Qabel li l-konsumaturi jagħżlu tali tariffa differenti, il-fornitur ta’ komunikazzjonijiet intra-UE regolati għandu jinformahom dwar in-natura tal- vantaġġi li jintilfu minħabba hekk. 3. Fejn tariffa għal komunikazzjonijiet intra-UE regolati kif imsemmija fil-paragrafu 2 taqbeż il-limiti massimi stabbiliti fil-paragrafu 1, il-konsumaturi li ma jkunux ikkonfermaw jew esprimew, fi żmien xahrejn mill-15 ta’ Mejju 2019, għażla għal kwalunkwe tariffa kif imsemmija fil-paragrafu 2, għandhom jiġu awtomatikament provduti bit-tariffi stabbiliti fil-paragrafu 1. 4. Il-konsumaturi jistgħu jaqilbu għat-tariffi u lura stabbiliti fil-paragrafu 1 fi żmien jum ta’ xogħol wieħed minn meta l-fornitur jirċievi t-talba, mingħajr ħlas u l-fornituri għandhom jiżguraw li tali bidla ma tinvolvix kondizzjonijiet jew restrizzjonijiet fir-rigward ta’ elementi tal-abbonamenti għajr komunikazzjonijiet intra-UE regolati. 5. Fejn it-tariffi massimi msemmija fil-paragrafu 1 ikunu denominati f’munita li ma tkunx l-euro, il-limiti inizjali għandhom jiġu determinati f’dik il-munita billi tiġi applikata l-medja tar-rati referenzjarji tal-kambju ppubblikati fil-15 ta’ Jannar, il-15 ta’ Frar u l-15 ta’ Marzu 2019 mill-Bank Ċentrali Ewropew f’Il-Ġurnal Uffiċjali tal-Unjoni Ewropea. Il-limiti f’muniti li mhumiex l-euro għandhom jiġu riveduti annwalment mill-2020. Il-limiti riveduti annwalment f’dawk il-muniti għandhom japplikaw mill-15 ta’ Mejju bl-użu tal-medja tar-rati referenzjarji medji tal-kambju ppubblikati fil-15 ta’ Jannar, il-15 ta’ Frar u l-15 ta’ Marzu tal-istess sena. 6. L-awtoritajiet regolatorji għandhom jissorveljaw is-suq u l-iżviluppi tal-prezzijiet għal komunikazzjonijiet intra-UE regolati u għandhom jirrapportaw lill-Kummissjoni. Fejn fornitur ta’ komunikazzjonijiet intra-UE regolati jistabbilixxi li, minħabba ċirkostanzi speċifiċi u eċċezzjonali li jiddistingwuh minn bosta fornituri oħra tal-Unjoni, l-applikazzjoni tal-limitu msemmi fil-paragrafu 1 ikollha impatt sinifikanti fuq il-kapaċità tal-fornitur li jżomm il-prezzijiet eżistenti tiegħu għal komunikazzjonijiet domestiċi, awtorità regolatorja nazzjonali tista’, fuq it-talba ta’ dak il-fornitur, tagħti deroga mill-paragrafu 1 biss sa fejn meħtieġ u għal perijodu ta’ sena li jiġġedded. Il-valutazzjoni tas-sostenibbiltà tal-mudell domestiku tat-tariffi għandha tissejjes fuq fatturi oġġettivi rilevanti li jkunu speċifiċi għall-fornitur ta’ komunikazzjonijiet intra-UE regolati, kif ukoll il-livell ta’ prezzijiet u dħul domestiku. Fejn il-fornitur applikant ikun ipprovda l-evidenza meħtieġa, l-awtorità regolatorja nazzjonali għandha tiddetermina l-livell tal-prezz massimu f’eċċess ta’ kwalunkwe wieħed jew taż-żewġ limiti massimi stabbiliti fil-paragrafu 1 li jkunu indispensabbli sabiex tiġi żgurata s-sostenibbiltà tal-mudell domestiku tat-tariffi tal-fornitur. Il-BEREC għandu jippubblika linji gwida dwar il-parametri li għandhom jitqiesu mill-awtoritajiet regolatorji nazzjonali fil-valutazzjonijiet tagħhom.”;",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) fl-Artikolu 6, jiżdied il-paragrafu li ġej: “L-Istati Membri għandhom jistabbilixxu r-regoli dwar il-penali applikabbli għall-ksur tal-Artikolu 5a u għandhom jieħdu l-miżuri kollha meħtieġa biex jiżguraw li dawn jiġu implimentati. Il-penali previsti għandhom ikunu effettivi, proporzjonati u dissważivi. L-Istati Membri għandhom jinnotifikaw lill-Kummissjoni dwar ir-regoli u l-miżuri stabbiliti biex tiġi żgurata l-implimentazzjoni tal-Artikolu 5a sal-15 ta’ Mejju 2019 u għandhom jinnotifikaw lill-Kummissjoni bla dewmien dwar kwalunkwe emenda sussegwenti li taffettwahom.”;",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) fl-Artikolu 10, jiżdied il-paragrafu li ġej: “5. L-Artikolu 5a għandu jiskadi fl-14 ta’ Mejju 2024”.",
+     "para": "",
+     "point": "6"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_51",
+   "kind": "article",
+   "number": "51",
+   "label": "Artikolu 51",
+   "title": "Tħassir",
+   "path": [
+    "KAPITOLU X — DISPOŻIZZJONIJIET FINALI"
+   ],
+   "blocks": [
+    {
+     "text": "Ir-Regolament (KE) Nru 1211/2009 jitħassar.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Ir-referenzi għar-Regolament imħassar għandhom jinftiehmu bħala referenzi għal dan ir-Regolament u għandhom jinqraw skont it-tabella ta’ korrelazzjoni fl-Anness.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_52",
+   "kind": "article",
+   "number": "52",
+   "label": "Artikolu 52",
+   "title": "Dħul fis-seħħ",
+   "path": [
+    "KAPITOLU X — DISPOŻIZZJONIJIET FINALI"
+   ],
+   "blocks": [
+    {
+     "text": "Dan ir-Regolament għandu jidħol fis-seħħ fit-tielet jum wara dak tal-pubblikazzjoni tiegħu f’Il-Ġurnal Uffiċjali tal-Unjoni Ewropea.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "anx_1",
+   "kind": "annex",
+   "number": "1",
+   "label": "ANNESS",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Tabella ta’ korrelazzjoni",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Regolament (KE) Nru 1211/2009 Dan ir-Regolament Artikolu 1(1) Artikolu 1 Artikolu 1(2) Artikolu 3(1) Artikolu 1(3) Artikolu 3(2) u (3) Artikolu 1(4) Artikolu 3(4) u l-punti (a) u (b) tal-Artikolu 4(1) Artikolu 2 Artikolu 4 Artikolu 3 Artikolu 4 Artikolu 4(1) Artikolu 6 Artikolu 4(2) Artikolu 7(1), (2) u (4), Artikolu 8(1) u (2) Artikolu 4(3) Artikolu 10(4) u (5) u Artikolu 36 Artikolu 4 (4) Artikolu 10(1), (2) u (3) Artikolu 4(5) Artikolu 10(4) Artikolu 4(6) Artikolu 10 Artikolu 4(7) Artikolu 13 Artikolu 4(8) Artikolu 7(4) Artikolu 4 (9) Artikolu 12(1) u (2) Artikolu 4 (10) Artikolu 12(3) Artikolu 4 (11) Artikolu 5 Artikolu 5 Artikolu 4 Artikolu 6(1) Artikolu 2(1) Artikolu 6(2) Artikolu 5 Artikolu 6(3) Artikolu 14(1) Artikolu 6(4) Artikolu 2(2) Artikolu 6(5) Artikoli 20 u 31 Artikolu 7(1) Artikolu 15(1) Artikolu 7(2) Artikolu 32 Artikolu 7(3) Artikolu 20(6) Artikolu 7(4) Il-punt (k) tal-Artikolu 16(1) Artikolu 7(5) Artikolu 13 Artikolu 8 Artikolu 32 Artikolu 9 Artikolu 20 Artikolu 10(1) Artikoli 30 u 34 Artikolu 10(2) Il-punt (j) tal-Artikolu 16(1) Artikolu 10(3) Artikolu 16(2) Artikolu 10(4) Artikolu 33 Artikolu 11 Artikolu 25 Artikolu 12 Artikolu 24 Artikolu 13 Artikolu 26 Artikolu 14 — Artikolu 15 Artikolu 29 Artikolu 16 Artikolu 43 Artikolu 17 Artikolu 4(5) Artikolu 18 Artikolu 37 Artikolu 19 Artikoli 39 u 40 Artikolu 20 Artikolu 38 Artikolu 21 Artikolu 42 Artikolu 22 Artikolu 36 Artikolu 23 Artikolu 34 Artikolu 24 Artikolu 44 Artikolu 25 Artikolu 48 Artikolu 26 Artikolu 52",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  }
+ ]
+}

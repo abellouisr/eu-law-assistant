@@ -1,0 +1,24 @@
+{
+  "id": "berec-oi-guidelines",
+  "short_name": "BEREC Open Internet Guidelines",
+  "title": "BEREC Guidelines on the Implementation of the Open Internet Regulation",
+  "citation": "BoR (22) 81",
+  "scope": "How national regulators should apply the open internet (net neutrality) rules: traffic management, zero-rating, specialised services, transparency and supervision.",
+  "source": "web",
+  "reference_language": "EN",
+  "languages": ["EN"],
+  "examples": [
+    "When is a zero-rating offer compatible with the open internet rules?",
+    "What conditions must specialised services meet?"
+  ],
+  "versions": [
+    {
+      "id": "current",
+      "kind": "document",
+      "date": "2022-06-09",
+      "url": "https://www.berec.europa.eu/... (the page to read)",
+      "format": "html",
+      "note": "Or, for a local file, replace \"url\" with \"path\": \"sources/guidelines.md\" and set \"format\" to markdown, html or text."
+    }
+  ]
+}

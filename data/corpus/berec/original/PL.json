@@ -1,0 +1,2822 @@
+{
+ "document": "berec",
+ "version": "original",
+ "lang": "PL",
+ "meta": {
+  "source": "eurlex",
+  "celex": "32018R1971",
+  "kind": "original",
+  "date": "2018-12-11",
+  "built_at": "2026-10-07T10:10:23+00:00",
+  "sources_sha256": {
+   "32018R1971": "2b307a1bcd15c00c5857e480ebd6537c82bc8a055852589ad263f79c2061fcb7"
+  },
+  "counts": {
+   "article": 52,
+   "recital": 53,
+   "annex": 1
+  }
+ },
+ "provisions": [
+  {
+   "id": "rct_1",
+   "kind": "recital",
+   "number": "1",
+   "label": "(1)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Dyrektywa Parlamentu Europejskiego i Rady (UE) 2018/1972 ma na celu utworzenie wewnętrznego rynku łączności elektronicznej w Unii przy jednoczesnym zapewnieniu wysokiego poziomu inwestycji, innowacyjności i ochrony konsumentów dzięki zwiększonej konkurencji. Dyrektywa ta ustanawia również znaczną liczbę nowych zadań Organu Europejskich Regulatorów Łączności Elektronicznej (zwanego dalej „BEREC”), jak np. wydawanie wytycznych dotyczących różnych zagadnień, składanie sprawozdań w kwestiach technicznych, prowadzenie rejestrów, wykazów lub baz danych i wydawanie opinii na temat procedur rynku wewnętrznego dotyczących projektów środków krajowych dotyczących regulacji rynku.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_2",
+   "kind": "recital",
+   "number": "2",
+   "label": "(2)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 531/2012, uzupełnia i wspiera – w zakresie, w jakim dotyczy to ogólnounijnego roamingu – zasady przewidziane w ramach regulacyjnych łączności elektronicznej oraz ustanawia niektóre zadania BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_3",
+   "kind": "recital",
+   "number": "3",
+   "label": "(3)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "W rozporządzeniu Parlamentu Europejskiego i Rady (UE) 2015/2120 ustanowiono dodatkowe zadania BEREC w odniesieniu do dostępu do otwartego internetu. Ponadto, wytyczne BEREC z dnia 30 sierpnia 2016 r. w sprawie wdrożenia przez krajowe organy regulacyjne europejskich przepisów dotyczących neutralności sieci zostały przyjęte z zadowoleniem jako wartościowe wyjaśnienie gwarancji silnego, wolnego i otwartego internetu dzięki zapewnieniu spójnego stosowania zasad służących ochronie równego i niedyskryminacyjnego traktowania transmisji danych w ramach świadczenia usług dostępu do internetu oraz związanych z tym praw użytkowników końcowych.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_4",
+   "kind": "recital",
+   "number": "4",
+   "label": "(4)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Mając na uwadze potrzebę zapewnienia rozwoju spójnych praktyk regulacyjnych oraz spójnego stosowania unijnych ram regulacyjnych łączności elektronicznej, Komisja na mocy decyzji Komisji 2002/627/WE ustanowiła Europejski Organ Nadzoru Sieci i Usług Łączności Elektronicznej, który miał jej doradzać i pomagać w konsolidacji rynku wewnętrznego sieci i usług łączności elektronicznej, a ogólniej – stanowić ogniwo pośrednie w stosunkach między krajowymi organami regulacyjnymi a Komisją.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_5",
+   "kind": "recital",
+   "number": "5",
+   "label": "(5)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC i Urząd zostały ustanowione rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 1211/2009. BEREC zastąpił Europejski Organ Nadzoru Sieci i Usług Łączności Elektronicznej i miał przyczyniać się, z jednej strony, do rozwoju, a, z drugiej strony, do lepszego funkcjonowania wewnętrznego rynku sieci i usług łączności elektronicznej, dążąc do zapewnienia spójnego wdrażania ram regulacyjnych łączności elektronicznej. BEREC stanowi forum współpracy krajowych organów regulacyjnych między sobą i z Komisją w ramach wykonywania pełnego zakresu swoich zadań na mocy ram regulacyjnych Unii. BEREC został ustanowiony po to, by zapewniać wiedzę fachową i działać w sposób niezależny i przejrzysty.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_6",
+   "kind": "recital",
+   "number": "6",
+   "label": "(6)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC służy również jako podmiot dostarczający przemyśleń, dyskusji i rad dla Parlamentu Europejskiego, Rady i Komisji w dziedzinie łączności elektronicznej.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_7",
+   "kind": "recital",
+   "number": "7",
+   "label": "(7)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Urząd został ustanowiony jako organ wspólnotowy posiadający osobowość prawną do celów realizacji zadań, o których mowa w rozporządzeniu (WE) nr 1211/2009, w szczególności zapewniania BEREC wsparcia w zakresie wiedzy fachowej i administracji. Aby skutecznie wspierać BEREC, Urząd otrzymał autonomię prawną, administracyjną i finansową.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_8",
+   "kind": "recital",
+   "number": "8",
+   "label": "(8)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "W decyzji 2010/349/UE przedstawiciele rządów państw członkowskich postanowili, że siedzibą Urzędu będzie Ryga. Umowa między rządem Republiki Łotewskiej a Urzędem w sprawie siedziby weszła w życie w dniu 5 sierpnia 2011 r.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_9",
+   "kind": "recital",
+   "number": "9",
+   "label": "(9)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "W komunikacie z dnia 6 maja 2015 r. pt. „Strategia jednolitego rynku cyfrowego dla Europy” Komisja planowała przedstawienie w 2016 r. wniosków w sprawie ambitnej, gruntownej nowelizacji ram regulacyjnych łączności elektronicznej, koncentrując się m.in. na zapewnieniu skuteczniejszych instytucjonalnych ram regulacyjnych w celu dostosowania przepisów dotyczących łączności elektronicznej do potrzeb, co stanowi element tworzenia odpowiednich warunków dla jednolitego rynku cyfrowego. Obejmują one budowę sieci o bardzo dużej przepustowości, bardziej skoordynowane zarządzanie widmem radiowym dla sieci bezprzewodowych oraz stworzenie równych warunków funkcjonowania dla zaawansowanych sieci cyfrowych i usług innowacyjnych. W komunikacie tym podkreślono, że zmiany na rynku i w otoczeniu technologicznym sprawiają, że konieczne jest wzmocnienie ram instytucjonalnych poprzez zwiększenie roli BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_10",
+   "kind": "recital",
+   "number": "10",
+   "label": "(10)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "W rezolucji z dnia 19 stycznia 2016 r. pt. „W kierunku aktu o jednolitym rynku cyfrowym” Parlament Europejski wezwał Komisję do dalszej integracji jednolitego rynku cyfrowego poprzez zapewnienie wprowadzenia sprawniejszych ram instytucjonalnych.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_11",
+   "kind": "recital",
+   "number": "11",
+   "label": "(11)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC i Urząd wniosły pozytywny wkład na rzecz spójnego wdrażania ram regulacyjnych łączności elektronicznej. Jednakże nadal istnieją znaczne rozbieżności między państwami członkowskimi w zakresie praktyki regulacyjnej, co ma wpływ na przedsiębiorstwa prowadzące transgraniczną działalność gospodarczą lub działające w znacznej liczbie państw członkowskich, w tym w przypadku gdy wytyczne BEREC istnieją, ale mogłyby być dalej rozwijane. Niniejsze rozporządzenie ma na celu wzmocnienie roli BEREC, aby dodatkowo przyczynić się do rozwoju wewnętrznego rynku łączności elektronicznej w całej Unii, jak również do wspierania dostępu do sieci o bardzo dużej przepustowości i ich upowszechniania, wspierania konkurencji w udostępnianiu sieci i świadczeniu usług łączności elektronicznej oraz udostępnianiu urządzeń towarzyszących w łączności elektronicznej, a także działania w interesie obywateli Unii. Taka wzmocniona rola uzupełniałaby zwiększoną rolę odgrywaną przez BEREC po wejściu w życie rozporządzeń (UE) nr 531/2012 i (UE) 2015/2120 oraz dyrektywy (UE) 2018/1972.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_12",
+   "kind": "recital",
+   "number": "12",
+   "label": "(12)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ze względu na zmiany na rynku i rozwój technologiczny, które często powodują zwiększenie wymiaru transgranicznego, i z uwagi na doświadczenie zdobyte dotychczas w zakresie dążenia do zapewnienia spójnego wdrażania w dziedzinie łączności elektronicznej, konieczne jest wykorzystanie dotychczasowych prac BEREC i Urzędu. Zarządzanie nimi, a także ich działalność, należy usprawnić i dostosować do zadań, które mają one wykonywać. Biorąc pod uwagę ustalone procedury oraz nowy zestaw zadań przydzielonych BEREC i Urzędowi oraz z myślą o wzmocnieniu ich skuteczności, należy zapewnić dodatkową stabilność w zakresie zarządzania nimi oraz uprościć proces decyzyjny.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_13",
+   "kind": "recital",
+   "number": "13",
+   "label": "(13)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC powinien służyć wiedzą fachową oraz wzbudzać zaufanie z racji swojej niezależności, jakości swojego doradztwa i informacji, przejrzystości swoich procedur i metod działania, a także dbałości w wykonywaniu swoich zadań. Niezależność BEREC nie powinna uniemożliwiać jego Radzie Organów Regulacyjnych prowadzenia dyskusji na podstawie projektów przygotowywanych przez grupy robocze.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_14",
+   "kind": "recital",
+   "number": "14",
+   "label": "(14)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Nowa oficjalna nazwa Urzędu powinna brzmieć „Agencja Wsparcia BEREC” (zwana dalej „Urzędem BEREC”). Nazwa „Urząd BEREC” powinna być używana jako skrócona nazwa Agencji. Urząd BEREC powinien posiadać autonomię prawną, administracyjną i finansową. W tym celu konieczne i właściwe jest, aby Urząd BEREC był organem Unii posiadającym osobowość prawną i wykonującym powierzone mu uprawnienia. Jako zdecentralizowana agencja Unii Urząd BEREC powinien działać w granicach swojego mandatu i istniejących ram instytucjonalnych. Nie powinien być on postrzegany przez zewnętrznych odbiorców jako wyraziciel stanowiska Unii ani jako podmiot zaciągający w imieniu Unii zobowiązania prawne.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_15",
+   "kind": "recital",
+   "number": "15",
+   "label": "(15)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ponadto przepisy dotyczące zarządzania Urzędem BEREC i jego działania powinny, w stosownych przypadkach, zostać dostosowane do zasad określonych we wspólnym oświadczeniu Parlamentu Europejskiego, Rady i Komisji Europejskiej z dnia 19 lipca 2012 r. w sprawie zdecentralizowanych agencji.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_16",
+   "kind": "recital",
+   "number": "16",
+   "label": "(16)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Instytucje unijne i krajowe organy regulacyjne powinny korzystać z pomocy i doradztwa BEREC, w tym w zakresie istotnych skutków regulacyjnych wszelkich kwestii dotyczących ogólnej dynamiki rynków cyfrowych lub w odniesieniu do ich stosunków, dyskusji i wymian ze stronami trzecimi oraz przekazywania stronom trzecim najlepszych praktyk regulacyjnych. Oprócz udziału w publicznych konsultacjach Komisji BEREC powinien, na wniosek, doradzać Komisji w przygotowywaniu wniosków ustawodawczych. BEREC powinien mieć również możliwość udzielania porad Parlamentowi Europejskiemu i Radzie na ich wniosek lub z własnej inicjatywy.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_17",
+   "kind": "recital",
+   "number": "17",
+   "label": "(17)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC, jako organ techniczny dysponujący wiedzą fachową z dziedziny łączności elektronicznej oraz składający się z przedstawicieli krajowych organów regulacyjnych i Komisji, jest najodpowiedniejszym podmiotem, któremu można powierzyć zadania, takie jak wspieranie skutecznych procedur rynku wewnętrznego dotyczących projektów środków krajowych w zakresie regulacji rynku, dostarczanie krajowym organom regulacyjnym i innym właściwym organom niezbędnych wytycznych w celu zapewnienia wspólnych kryteriów i spójnego podejścia regulacyjnego oraz prowadzenie niektórych rejestrów, baz danych i wykazów na poziomie Unii. Nie narusza to zadań ustanowionych dla krajowych organów regulacyjnych, które są najbliżej rynków łączności elektronicznej i ich lokalnych uwarunkowań.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_18",
+   "kind": "recital",
+   "number": "18",
+   "label": "(18)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Aby realizować swoje zadania, BEREC powinien nadal gromadzić wiedzę fachową, którą dysponują krajowe organy regulacyjne. BEREC powinien dążyć do zapewnienia udziału wszystkich krajowych organów regulacyjnych w realizacji swoich zadań regulacyjnych i w swoim funkcjonowaniu. Aby wzmocnić BEREC, uczynić go bardziej reprezentatywnym oraz zabezpieczyć jego wiedzę fachową, doświadczenie i wiedzę na temat konkretnej sytuacji na każdym z rynków krajowych, każde państwo członkowskie powinno zapewnić, aby jego krajowy organ regulacyjny dysponował odpowiednimi zasobami finansowymi i ludzkimi, wymaganymi do pełnego uczestnictwa w pracach BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_19",
+   "kind": "recital",
+   "number": "19",
+   "label": "(19)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "W świetle nasilającej się konwergencji między sektorami świadczącymi usługi łączności elektronicznej oraz w świetle horyzontalnego wymiaru kwestii regulacyjnych związanych z ich rozwojem należy umożliwić BEREC i Urzędowi BEREC współpracę z – bez uszczerbku dla roli tych podmiotów – krajowymi organami regulacyjnymi, innymi organami i jednostkami organizacyjnymi Unii, oraz unijnymi grupami doradczymi, w szczególności z Zespołem ds. Polityki Spektrum Radiowego, ustanowionym decyzją Komisji 2002/622/WE, Europejskim Inspektorem Ochrony Danych ustanowionym rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2018/1725, Europejską Radą Ochrony Danych, ustanowioną rozporządzeniem Parlamentu Europejskiego i Rady (UE) 2016/679, europejską grupą regulatorów audiowizualnych usług medialnych, ustanowioną dyrektywą Parlamentu Europejskiego i Rady 2010/13/UE, Agencją Unii Europejskiej ds. Bezpieczeństwa Sieci i Informacji, ustanowioną rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 526/2013, Agencją Europejskiego GNSS, ustanowioną rozporządzeniem Parlamentu Europejskiego i Rady (UE) nr 912/2010, siecią współpracy w zakresie ochrony konsumenta ustanowioną na podstawie rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 2006/2004, europejską siecią konkurencji oraz europejskimi organizacjami normalizacyjnymi, jak również z istniejącymi komitetami (takimi jak Komitet ds. Łączności i Komitet ds. Spektrum Radiowego). Gdy jest to niezbędne do wykonywania ich zadań, BEREC i Urząd BEREC powinny mieć również możliwość współpracy z odpowiednimi właściwymi organami państw członkowskich odpowiedzialnymi za kwestie konkurencji, ochrony konsumentów i ochrony danych oraz z właściwymi organami państw trzecich, w szczególności z właściwymi organami regulacyjnymi w dziedzinie łączności elektronicznej lub grupami takich organów, jak również z organizacjami międzynarodowymi. BEREC powinien również mieć możliwość zasięgania opinii zainteresowanych stron w drodze konsultacji publicznych.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_20",
+   "kind": "recital",
+   "number": "20",
+   "label": "(20)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC powinien być uprawniony do zawierania z właściwymi organami i jednostkami organizacyjnymi Unii, z unijnymi grupami doradczymi, z właściwymi organami państw trzecich i z organizacjami międzynarodowymi porozumień roboczych, które nie powinny tworzyć zobowiązań prawnych. Celem takich porozumień roboczych mogłoby być na przykład rozwijanie współpracy i wymiana poglądów w kwestiach regulacyjnych. Komisja powinna zapewnić, aby niezbędne porozumienia robocze były spójne z politykami i priorytetami unijnymi oraz aby BEREC działał w granicach swojego mandatu i istniejących ram instytucjonalnych oraz nie był postrzegany przez zewnętrznych odbiorców jako wyraziciel stanowiska Unii ani jako podmiot zaciągający w imieniu Unii zobowiązania międzynarodowe.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_21",
+   "kind": "recital",
+   "number": "21",
+   "label": "(21)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC powinien składać się z Rady Organów Regulacyjnych i z grup roboczych. Rotacyjne przewodnictwo Rady Organów Regulacyjnych ma zapewniać ciągłość prac BEREC. Propaguje się również rotację wiceprzewodniczących reprezentujących różne krajowe organy regulacyjne.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_22",
+   "kind": "recital",
+   "number": "22",
+   "label": "(22)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC powinien mieć możliwość działania w interesie Unii, niezależnie od wszelkich zewnętrznych interwencji, w tym od presji politycznej lub ingerencji o charakterze komercyjnym. Ważne jest zatem, aby zapewnić, by osoby powołane do Rady Organów Regulacyjnych miały gwarancję najwyższej niezależności osobistej i funkcjonalnej. Szef krajowego organu regulacyjnego, członek jego organu kolegialnego lub ich zastępcy mają taki poziom niezależności osobistej i funkcjonalnej. W szczególności, powinni oni działać niezależnie i obiektywnie, nie powinni zwracać się o instrukcje ani ich przyjmować w związku z wykonywaniem swoich funkcji oraz powinni być chronieni przed niesłusznym zwolnieniem. Funkcja zastępcy w Radzie Organów Regulacyjnych może być również pełniona przez szefa krajowego organu regulacyjnego, członka jego organu kolegialnego, jednego z ich zastępców lub innego członka personelu krajowego organu regulacyjnego, który, działa w imieniu zastępowanego członka Rady Organów Regulacyjnych i zgodnie z zakresem jego mandatu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_23",
+   "kind": "recital",
+   "number": "23",
+   "label": "(23)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Z doświadczenia wynika, że większość zadań BEREC realizowana jest lepiej w ramach grup roboczych, które powinny zawsze zapewniać równe traktowanie wszystkich opinii i uwag krajowych organów regulacyjnych. Rada Organów Regulacyjnych powinna w związku z tym utworzyć grupy robocze i powołać ich przewodniczących. Krajowe organy regulacyjne powinny niezwłocznie reagować na wnioski w sprawie mianowania, aby zapewnić szybkie utworzenie grup roboczych, w szczególności tych tworzonych w związku z procedurami o wyznaczonych terminach. Grupy robocze powinny być otwarte na udział ekspertów Komisji. Personel Urzędu BEREC powinien wspierać działania grup roboczych i wnosić w nie wkład.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_24",
+   "kind": "recital",
+   "number": "24",
+   "label": "(24)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "W razie potrzeby i w indywidualnych przypadkach Rada Organów Regulacyjnych i Zarząd powinny mieć możliwość zapraszania każdej osoby, której opinia może mieć znaczenie, do udziału w ich posiedzeniach i w grupach roboczych w charakterze obserwatora.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_25",
+   "kind": "recital",
+   "number": "25",
+   "label": "(25)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "W stosownych przypadkach i w zależności od podziału zadań pomiędzy organami w każdym państwie członkowskim, w ramach odpowiednich grup roboczych należy uwzględniać opinie innych właściwych organów, np. poprzez prowadzenie na poziomie krajowym konsultacji lub zapraszanie tych innych organów do udziału w odpowiednich posiedzeniach, w przypadku gdy potrzebna jest ich wiedza fachowa. W każdym przypadku należy zachować niezależność BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_26",
+   "kind": "recital",
+   "number": "26",
+   "label": "(26)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Rada Organów Regulacyjnych i Zarząd powinny działać równolegle, przy czym Rada Organów Regulacyjnych powinna podejmować decyzje głównie w sprawach regulacyjnych, natomiast Zarząd – w kwestiach administracyjnych, takich jak budżet, personel i audyty. Co do zasady i oprócz przedstawicieli Komisji przedstawicielami krajowych organów regulacyjnych w Zarządzie powinny być te same osoby co powołane do Rady Organów Regulacyjnych ale krajowe organy regulacyjne powinny mieć możliwość powołania innych przedstawicieli spełniających te same wymogi.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_27",
+   "kind": "recital",
+   "number": "27",
+   "label": "(27)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Uprawnienia organu powołującego były wcześniej wykonywane przez wiceprzewodniczącego komitetu zarządzającego Urzędu. Niniejsze rozporządzenie stanowi że Zarząd przekazuje stosowne uprawnienia organu powołującego dyrektorowi, który jest uprawniony do dalszego przekazania tych uprawnień. Ma się to przyczyniać do skutecznego zarządzania personelem Urzędu BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_28",
+   "kind": "recital",
+   "number": "28",
+   "label": "(28)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Rada Organów Regulacyjnych i Zarząd powinny zbierać się co najmniej dwa razy w roku na posiedzeniach zwyczajnych. W świetle doświadczeń nabytych w przeszłości i zwiększonej roli BEREC konieczne może być zwoływanie dodatkowych posiedzeń Rady Organów Regulacyjnych lub Zarządu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_29",
+   "kind": "recital",
+   "number": "29",
+   "label": "(29)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Dyrektor powinien pozostać przedstawicielem Urzędu BEREC w zakresie kwestii prawnych i administracyjnych. Zarząd powinien powołać dyrektora po przeprowadzeniu otwartej i przejrzystej procedury selekcji w celu zagwarantowania wnikliwej oceny kandydatów i wysokiego poziomu niezależności. Kadencja dyrektora zarządzającego Urzędu trwała poprzednio trzy lata. Konieczne jest, aby dyrektor dysponował wystarczająco długim mandatem w celu zapewnienia stabilności i realizacji długoterminowej strategii Urzędu BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_30",
+   "kind": "recital",
+   "number": "30",
+   "label": "(30)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Rozporządzenie delegowane Komisji (UE) nr 1271/2013 powinno mieć zastosowanie do Urzędu BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_31",
+   "kind": "recital",
+   "number": "31",
+   "label": "(31)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Urząd BEREC powinien udzielać wszelkiego niezbędnego wsparcia profesjonalnego i administracyjnego dla prac BEREC, w tym wsparcia finansowego, organizacyjnego i logistycznego, oraz powinien brać udział w pracach regulacyjnych BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_32",
+   "kind": "recital",
+   "number": "32",
+   "label": "(32)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Aby zagwarantować Urzędowi BEREC autonomię i niezależność oraz zapewnić wsparcie dla prac BEREC, Urząd BEREC powinien posiadać swój własny budżet, przy czym jego większa część powinna pochodzić z wkładu Unii. Budżet powinien być adekwatny i powinien uwzględniać dodatkowe zadania przydzielone BEREC i Urzędowi BEREC oraz ich większą rolę. Finansowanie Urzędu BEREC powinno podlegać porozumieniu osiągniętemu przez władzę budżetową, zgodnie z pkt 31 Porozumienia międzyinstytucjonalnego z dnia 2 grudnia 2013 r. pomiędzy Parlamentem Europejskim, Radą i Komisją w sprawie dyscypliny budżetowej, współpracy w kwestiach budżetowych i należytego zarządzania finansami.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_33",
+   "kind": "recital",
+   "number": "33",
+   "label": "(33)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Urząd BEREC powinien dysponować odpowiednim personelem, aby mógł wykonywać swoje obowiązki. W planowaniu zasobów należy właściwie ocenić i uwzględnić wszystkie zadania przydzielone Urzędowi BEREC, w tym wsparcie profesjonalne i administracyjne wspomagające BEREC w wykonywaniu jego zadań regulacyjnych, wraz ze zgodnością z finansowymi, pracowniczymi i innymi obowiązującymi przepisami, oraz zwiększoną wagę powierzonych Urzędowi BEREC zadań operacyjnych względem zadań administracyjnych.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_34",
+   "kind": "recital",
+   "number": "34",
+   "label": "(34)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "W celu dalszego rozszerzenia spójnego wdrażania ram regulacyjnych łączności elektronicznej Rada Organów Regulacyjnych, grupy robocze i Zarząd powinny być otwarte na udział organów regulacyjnych właściwych w dziedzinie łączności elektronicznej z państw trzecich, jeżeli te państwa trzecie zawarły umowy z Unią w tym przedmiocie, takich jak państw EOG i EFTA oraz krajów kandydujących.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_35",
+   "kind": "recital",
+   "number": "35",
+   "label": "(35)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Zgodnie z zasadą przejrzystości BEREC i Urząd BEREC powinny, w stosownych przypadkach, na swoich stronach internetowych publikować informacje dotyczące swoich prac. W szczególności BEREC powinien podawać do wiadomości publicznej wszelkie ostateczne dokumenty wydane w ramach wykonywania swoich zadań, takie jak opinie, wytyczne, sprawozdania, zalecenia, wspólne stanowiska i najlepsze praktyki, a także wszelkie opracowania zamówione w celu wsparcia jego zadań. BEREC i Urząd BEREC powinny także podawać do wiadomości publicznej aktualne wykazy swoich zadań i aktualne wykazy swoich członków, zastępców i innych uczestników posiedzeń swoich jednostek organizacyjnych, oraz deklaracje interesów sporządzone przez członków Rady Organów Regulacyjnych, członków Zarządu i dyrektora.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_36",
+   "kind": "recital",
+   "number": "36",
+   "label": "(36)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC, przy wsparciu ze strony Urzędu BEREC, powinien mieć możliwość angażowania się w ramach swoich kompetencji w działania komunikacyjne, które nie wpływają ujemnie na podstawowe zadania BEREC. Treść i realizacja strategii komunikacyjnej BEREC powinny być spójne, obiektywne, odpowiednie i skoordynowane ze strategiami i działaniami Komisji i innych instytucji w celu uwzględnienia szerszego wizerunku Unii. Działania komunikacyjne Urzędu BEREC powinny być prowadzone zgodnie z odpowiednimi planami komunikacji i rozpowszechniania informacji przyjętymi przez Zarząd.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_37",
+   "kind": "recital",
+   "number": "37",
+   "label": "(37)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Aby skutecznie realizować swoje zadania, BEREC oraz Urząd BEREC powinny mieć prawo zwracać się o wszelkie niezbędne informacje do Komisji, krajowych organów regulacyjnych oraz – w ostateczności – do innych organów i przedsiębiorstw. Wnioski o udzielenie informacji powinny zawierać uzasadnienie, być proporcjonalne i nie powinny powodować nałożenia na adresatów nieuzasadnionych obciążeń. Krajowe organy regulacyjne powinny współpracować z BEREC i Urzędem BEREC oraz powinny terminowo i rzetelnie udzielać im informacji, w celu zapewnienia aby BEREC i Urząd BEREC mogły wypełniać swoje zadania. BEREC i Urząd BEREC powinny również, zgodnie z zasadą lojalnej współpracy, dzielić się wszelkimi niezbędnymi informacjami z Komisją, krajowymi organami regulacyjnymi i innymi właściwymi organami. W stosownych przypadkach należy zapewnić poufność informacji. Oceniając, czy wniosek jest należycie uzasadniony, BEREC powinien rozważyć, czy informacje, których dotyczy wniosek, są związane z wykonywaniem zadań przydzielonych wyłącznie odpowiednim organom.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_38",
+   "kind": "recital",
+   "number": "38",
+   "label": "(38)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Urząd BEREC powinien stworzyć wspólny system informacyjno-komunikacyjny, aby uniknąć dublowania wniosków o udzielenie informacji oraz ułatwić komunikację między wszystkimi zaangażowanymi organami.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_39",
+   "kind": "recital",
+   "number": "39",
+   "label": "(39)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Aby zapewnić wysoki poziom poufności i uniknąć konfliktów interesów, przepisy dotyczące tych kwestii mające zastosowanie do członków jednostek organizacyjnych BEREC i Urzędu BEREC powinny mieć zastosowanie do ich zastępców.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_40",
+   "kind": "recital",
+   "number": "40",
+   "label": "(40)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Zważywszy, że niniejsze rozporządzenie powierza BEREC i Urzędowi BEREC nowe zadania, a inne akty prawne Unii mogą powierzyć im dodatkowe zadania, Komisja powinna dokonywać regularnej oceny funkcjonowania BEREC i Urzędu BEREC oraz skuteczności ich struktury instytucjonalnej w zmieniającym się środowisku cyfrowym. Jeżeli w wyniku tej oceny Komisja stwierdzi, że struktura instytucjonalna nie jest odpowiednia do wykonywania zadań BEREC i Urzędu BEREC, a w szczególności do zapewnienia spójnego wdrażania ram regulacyjnych łączności elektronicznej, powinna ona zbadać wszystkie dostępne możliwości poprawy tej struktury.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_41",
+   "kind": "recital",
+   "number": "41",
+   "label": "(41)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "W odniesieniu do wszystkich praw własności, umów, w tym umowy w sprawie siedziby, obowiązków prawnych, umów o pracę, zobowiązań finansowych i odpowiedzialności, następcą prawnym Urzędu, ustanowionego rozporządzeniem (WE) nr 1211/2009 jako organ wspólnotowy posiadający osobowość prawną, jest Urząd BEREC ustanowiony niniejszym rozporządzeniem. Urząd BEREC powinien przejąć personel Urzędu, co nie powinno mieć wpływu na prawa i obowiązki tego personelu. W celu zapewnienia ciągłości prac BEREC i Urzędu, ich przedstawiciele, tj. przewodniczący i wiceprzewodniczący Rady Organów Regulacyjnych i komitetu zarządzającego oraz dyrektor administracyjny, powinni pełnić funkcje do końca swojej kadencji.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_42",
+   "kind": "recital",
+   "number": "42",
+   "label": "(42)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Znaczna liczba konsumentów w większości państw członkowskich nadal korzysta z tradycyjnych usług łączności międzynarodowej, takich jak połączenia telefoniczne i wiadomości SMS, mimo że coraz większa ich liczba ma dostęp do usług łączności interpersonalnej niewykorzystujących numerów do celów nawiązywania połączeń międzynarodowych przy opłatach niższych niż w przypadku tradycyjnych usług lub bez płatności pieniężnych.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_43",
+   "kind": "recital",
+   "number": "43",
+   "label": "(43)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "W 2013 r. Komisja przedstawiła poparty oceną skutków wniosek dotyczący rozporządzenia, które zawierało przepis obejmujący środki regulacyjne mające zastosowanie do usług łączności wewnątrzunijnej. Dodatkowe dane na temat rynku usług łączności wewnątrzunijnej zostały zebrane w latach 2017-2018 przez BEREC i Komisję za pomocą analizy Komisji i przy użyciu Eurobarometru. Jak wynika z tych danych, nadal występują znaczne różnice cenowe – w przypadku łączności zarówno stacjonarnej, jak i ruchomej – między krajowymi usługami łączności głosowej i usługami łączności SMS a takimi usługami łączności zakańczanymi w innym państwie członkowskim w kontekście znacznego zróżnicowania cen między krajami, dostawcami i pakietami taryfowymi oraz między ruchomymi i stacjonarnymi usługami łączności głosowej. Dostawcy publicznie dostępnych usług łączności interpersonalnej wykorzystujących numery często pobierają opłaty za usługi łączności wewnątrzunijnej na podstawie wykorzystania i opłaty te znacznie przekraczają ceny krajowych taryf powiększone o dodatkowe koszty. Średnio standardowa cena wewnątrzunijnego połączenia w łączności stacjonarnej lub ruchomej jest trzy razy wyższa niż standardowa cena krajowego połączenia, a standardowa cena wewnątrzunijnej wiadomości SMS – ponad dwa razy wyższa niż wiadomości krajowej. Jednak te średnie arytmetyczne maskują znaczne różnice między poszczególnymi państwami członkowskimi. W niektórych przypadkach standardowa cena połączenia wewnątrzunijnego może być do ośmiu razy wyższa od standardowej ceny połączeń krajowych. W konsekwencji klienci w kilku państwach członkowskich są narażeni na bardzo wysokie ceny usług łączności wewnątrzunijnej. Te wysokie ceny głównie dotykają konsumentów, w szczególności konsumentów korzystających z takiej łączności niezbyt często lub korzystających z niej w niewielkim stopniu, stanowiących zdecydowaną większość konsumentów korzystających z usług łączności wewnątrzunijnej. Jednocześnie szereg dostawców przedstawia specjalne oferty szczególnie atrakcyjne dla klientów biznesowych i konsumentów w znacznym stopniu korzystających z usług łączności wewnątrzunijnej. Opłaty w ramach takich ofert często nie są naliczane w oparciu o rzeczywiste wykorzystanie i mogą składać się z pewnej liczby minut połączeń lub wiadomości SMS wewnątrzunijnych za stałą miesięczną opłatą (oferty dodatkowe) lub z włączenia pewnej liczby minut połączeń lub wiadomości SMS wewnątrzunijnych do miesięcznego limitu minut połączeń lub wiadomości SMS albo bez dodatkowej opłaty, albo za niewielką dodatkową opłatą. Jednak warunki tych ofert często nie są atrakcyjne dla konsumentów korzystających z usług łączności wewnątrzunijnej jedynie okazjonalnie, w sposób nieprzewidziany lub we względnie niewielkim stopniu. W związku z tym, ci konsumenci są narażeni na ryzyko płacenia wygórowanych cen za usługi łączności wewnątrzunijnej, z których korzystają, i powinni być chronieni.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_44",
+   "kind": "recital",
+   "number": "44",
+   "label": "(44)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ponadto wysokie ceny usług łączności wewnątrzunijnej stanowią barierę dla funkcjonowania rynku wewnętrznego, ponieważ zniechęcają do poszukiwania i zakupu towarów i usług od dostawców mających siedzibę w innym państwie członkowskim. Należy zatem ustalić konkretne i proporcjonalne limity cen, jakie dostawcy publicznie dostępnych usług łączności interpersonalnej wykorzystujących numery mogą naliczać konsumentom za usługi łączności wewnątrzunijnej, tak aby wyeliminować takie wysokie ceny.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_45",
+   "kind": "recital",
+   "number": "45",
+   "label": "(45)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Gdy dostawcy publicznie dostępnych usług łączności interpersonalnej wykorzystujących numery pobierają od konsumentów opłaty za usługi łączności wewnątrzunijnej według stawek w całości lub w części opartych na wykorzystaniu tych usług, w tym w przypadkach opartego na wykorzystaniu odliczenia od miesięcznego lub przedpłaconego limitu korzystania z tych usług, stawki te nie powinny przekraczać 0,19 EUR za minutę połączenia i 0,06 EUR za wiadomość SMS. Limity te odpowiadają maksymalnym cenom obowiązującym obecnie w odniesieniu do, odpowiednio, regulowanych połączeń i wiadomości SMS w ramach roamingu. Używając roamingu w Unii, konsumenci korzystają z ochrony, jaką zapewniają eurotaryfa usług głosowych oraz eurotaryfa SMS, stopniowo zastępowane przez roaming „like at home” (roaming na warunkach krajowych). Limity te uznaje się również za odpowiedni punkt odniesienia dla ustalenia maksymalnej stawki za regulowane usługi łączności wewnątrzunijnej na pięć lat, począwszy od dnia 15 maja 2019 r. Obecny poziom limitu stanowi proste, przejrzyste i sprawdzone zabezpieczenie przed wysokimi cenami i jest odpowiedni jako limit cen detalicznych wszystkich regulowanych usług łączności wewnątrzunijnej. Połączenia w ramach roamingu w Unii i połączenia wewnątrzunijne mają podobną strukturę kosztów.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_46",
+   "kind": "recital",
+   "number": "46",
+   "label": "(46)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Limity powinny umożliwiać dostawcom publicznie dostępnych usług łączności interpersonalnej wykorzystujących numery odzyskanie ich kosztów, zapewniając w ten sposób proporcjonalną interwencję na rynku połączeń zarówno w łączności ruchomej, jak i stacjonarnej. Limity będą miały bezpośrednie zastosowanie tylko do stawek opartych na rzeczywistym wykorzystaniu. Powinny mieć one skutek dyscyplinujący również w odniesieniu do tych ofert, które obejmują pewien wolumen usług łączności wewnątrzunijnej bez oddzielnych opłat, ponieważ konsumenci mogą wybrać, czy w przypadku usług łączności wewnątrzunijnej przełączyć się na taryfę opartą na wykorzystaniu. Ta część usług łączności wewnątrzunijnej, która nie jest objęta pakietem i podlega osobnym opłatom powinna być objęta limitami. Środek ten powinien w proporcjonalny sposób zapewniać, aby konsumenci, którzy w niewielkim stopniu korzystają z usług łączności wewnątrzunijnej, byli chronieni przed wysokimi cenami, a jednocześnie powinien mieć jedynie umiarkowany wpływ na dostawców.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_47",
+   "kind": "recital",
+   "number": "47",
+   "label": "(47)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Dostawcy publicznie dostępnych usług łączności interpersonalnej wykorzystujących numery powinni móc przedstawić swoim konsumentom alternatywne oferty taryfowe usług łączności międzynarodowej z różnymi stawkami za regulowane usługi łączności wewnątrzunijnej, a konsumenci powinni mieć swobodę dokonania w sposób jednoznaczny wyboru takich ofert oraz powrotu do poprzednich warunków w każdym momencie i bezpłatnie, nawet w przypadku ofert, które wybrali przed wejściem w życie takich przepisów. Jedynie alternatywne oferty usług łączności międzynarodowej, takie jak oferty obejmujące wszystkie lub niektóre państwa trzecie, powinny, w przypadku akceptacji danej oferty przez konsumenta, dawać możliwość zwolnienia dostawcy z jego obowiązku nieprzekraczania limitów dla regulowanych usług łączności wewnątrzunijnej. Inne korzyści, takie jak subsydiowane urządzenia końcowe lub zniżki na inne usługi łączności elektronicznej, oferowane przez dostawców konsumentom są zwykłym elementem interakcji konkurencyjnych i nie powinny wpływać na możliwość stosowania limitów cenowych dla regulowanych usług łączności wewnątrzunijnej.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_48",
+   "kind": "recital",
+   "number": "48",
+   "label": "(48)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Limit cenowy dla regulowanych usług łączności wewnątrzunijnej może dotknąć niektórych dostawców publicznie dostępnych usług łączności interpersonalnej wykorzystujących numery znacznie bardziej niż większość innych dostawców w Unii. Może stać się tak w szczególności w przypadku tych dostawców, którzy szczególnie wysoką część swoich dochodów lub zysków operacyjnych generują z usług łączności wewnątrzunijnej lub których marże krajowe są niskie w porównaniu do branżowych poziomów odniesienia. W konsekwencji zmniejszenia marży w odniesieniu do regulowanych usług łączności wewnątrzunijnej dostawca może nie być w stanie utrzymać swojego krajowego modelu cenowego. Takie scenariusze są bardzo mało prawdopodobne, ponieważ maksymalne ceny wyraźnie przewyższają koszty świadczenia usług łączności wewnątrzunijnej. Jednak aby zająć się takimi szczególnie wyjątkowymi scenariuszami w sposób proporcjonalny, krajowe organy regulacyjne powinny mieć możliwość przyznawania odstępstwa na wniosek takiego dostawcy w uzasadnionych i wyjątkowych przypadkach.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_49",
+   "kind": "recital",
+   "number": "49",
+   "label": "(49)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Wszelkie odstępstwa należy przyznawać tylko w przypadku, gdy dostawca może wykazać, względem odpowiedniego poziomu odniesienia ustanowionego przez BEREC, że jest dotknięty znacznie bardziej niż większość innych dostawców w Unii i że wpływ ten znacząco osłabiłby zdolność tego dostawcy do utrzymania jego modelu opłat za krajowe usługi łączności. W przypadku gdy krajowy organ regulacyjny przyznaje odstępstwo, powinien określić maksymalny poziom cen, jaki dostawca będzie mógł stosować w odniesieniu do regulowanych usług łączności wewnątrzunijnej i który powinien pozwolić mu na utrzymanie konkurencyjnego poziomu cen usług łączności krajowej. Każde takie odstępstwo powinno być ograniczone do jednego roku z możliwością odnowienia, jeżeli dostawca wykaże, że warunki przyznania odstępstwa są nadal spełniane.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_50",
+   "kind": "recital",
+   "number": "50",
+   "label": "(50)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "W świetle zasady proporcjonalności możliwość zastosowania limitu cenowego dla regulowanych usług łączności wewnątrzunijnej powinna być ograniczona w czasie i powinna wygasnąć po pięciu latach od jej wejścia w życie. Taki ograniczony czas trwania powinien umożliwić właściwą ocenę skutków środków i ocenę, w jakim stopniu utrzymuje się potrzeba ochrony konsumentów.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_51",
+   "kind": "recital",
+   "number": "51",
+   "label": "(51)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Aby zapewnić ogólnounijną, spójną, terminową i najskuteczniejszą ochronę konsumentów odczuwających negatywne skutki znacznych różnic cen usług łączności wewnątrzunijnej, takie przepisy powinny mieć bezpośrednie zastosowanie i powinny być zawarte w rozporządzeniu. Najodpowiedniejszym rozporządzeniem do tego celu jest rozporządzenie (UE) 2015/2120, które zostało przyjęte po przeprowadzeniu oceny skutków, w której zaproponowano między innymi przepis dotyczący usług łączności wewnątrzunijnej jako środek niezbędny do zakończenia procesu tworzenia wewnętrznego rynku łączności elektronicznej. Prawdopodobny wpływ na dochody dostawców generowane dzięki świadczeniu usług łączności wewnątrzunijnej został jeszcze bardziej ograniczony poprzez zastosowanie eurotaryfy usług głosowych oraz eurotaryfy SMS jako limitów w odniesieniu do łączności zarówno stacjonarnej, jak i ruchomej, które to eurotaryfy pełnią funkcję mechanizmu bezpieczeństwa, oraz poprzez zawarte w analizie BEREC z 2018 r. dowody na znaczny spadek stosownych wielkości ruchu w ramach łączności stacjonarnej objętego środkiem w okresie interwencyjnym. Te przepisy powinny zostać zatem wprowadzone jako zmiana rozporządzenia (UE) 2015/2120, które powinno także zostać dostosowane w celu zapewnienia, aby państwa członkowskie przyjęły przepisy dotyczące sankcji za naruszenie takich przepisów.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_52",
+   "kind": "recital",
+   "number": "52",
+   "label": "(52)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ponieważ cele niniejszego rozporządzenia, a mianowicie zapewnienie spójnego wdrażania ram regulacyjnych łączności elektronicznej, w szczególności w odniesieniu do aspektów transgranicznych i poprzez skuteczne procedury rynku wewnętrznego dotyczące projektów środków krajowych, oraz zapewnienie, aby konsumenci nie byli obciążani wygórowanymi opłatami za korzystanie z usług łączności interpersonalnej wykorzystujących numery inicjowanych w państwie członkowskim krajowego dostawcy konsumenta i zakańczanych w jakimkolwiek stacjonarnym lub ruchomym numerze w innym państwie członkowskim, nie mogą zostać osiągnięte w sposób wystarczający przez państwa członkowskie, natomiast ze względu na rozmiary i skutki działania możliwe jest ich lepsze osiągnięcie na poziomie Unii, może ona podjąć działania zgodnie z zasadą pomocniczości określoną w art. 5 Traktatu o Unii Europejskiej. Zgodnie z zasadą proporcjonalności określoną w tym artykule, niniejsze rozporządzenie nie wykracza poza to, co jest konieczne do osiągnięcia tych celów.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_53",
+   "kind": "recital",
+   "number": "53",
+   "label": "(53)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Niniejsze rozporządzenie zmienia i rozszerza zakres stosowania rozporządzenia (WE) nr 1211/2009. Biorąc pod uwagę istotny charakter zmian, które mają zostać dokonane, dla celów jasności akt ten powinien zostać uchylony. Odesłania do uchylonego rozporządzenia traktuje się jako odesłania do niniejszego rozporządzenia,",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_1",
+   "kind": "article",
+   "number": "1",
+   "label": "Artykuł 1",
+   "title": "Przedmiot i zakres stosowania",
+   "path": [
+    "ROZDZIAŁ I — PRZEDMIOT ORAZ ZAKRES STOSOWANIA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Niniejsze rozporządzenie ustanawia Organ Europejskich Regulatorów Łączności Elektronicznej (zwany dalej „BEREC”) oraz Agencję Wsparcia BEREC (zwaną dalej „Urzędem BEREC”).",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC i Urząd BEREC zastępują odpowiednio Organ Europejskich Regulatorów Łączności Elektronicznej oraz Urząd, ustanowione rozporządzeniem (WE) nr 1211/2009, oraz są odpowiednio ich następcami prawnymi.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_2",
+   "kind": "article",
+   "number": "2",
+   "label": "Artykuł 2",
+   "title": "Osobowość prawna Urzędu BEREC",
+   "path": [
+    "ROZDZIAŁ I — PRZEDMIOT ORAZ ZAKRES STOSOWANIA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Urząd BEREC jest organem Unii. Posiada on osobowość prawną.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. W każdym państwie członkowskim Urząd BEREC ma najszerszy zakres zdolności prawnej, jaki można nadać osobie prawnej na mocy prawa krajowego. W szczególności ma zdolność nabywania i zbywania majątku ruchomego i nieruchomości oraz bycia stroną w postępowaniach sądowych.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Urząd BEREC jest reprezentowany przez dyrektora.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Urząd BEREC ponosi wyłączną odpowiedzialność z tytułu powierzonych mu zadań i przyznanych mu uprawnień.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Urząd BEREC ma siedzibę w Rydze.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_3",
+   "kind": "article",
+   "number": "3",
+   "label": "Artykuł 3",
+   "title": "Cele BEREC",
+   "path": [
+    "ROZDZIAŁ II — CELE i zadania BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC działa w zakresie stosowania rozporządzeń (UE) nr 531/2012 i (UE) 2015/2120 oraz dyrektywy (UE) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC realizuje cele określone w art. 3 dyrektywy (UE) 2018/1972. W szczególności BEREC dąży do zapewnienia spójnego wdrażania ram regulacyjnych łączności elektronicznej w ramach zakresu stosowania, o którym mowa w ust. 1 niniejszego artykułu.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC wykonuje swoje zadania niezależnie, bezstronnie, w sposób przejrzysty i terminowy.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. BEREC korzysta z wiedzy fachowej dostępnej krajowym organom regulacyjnym.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Zgodnie z art. 9 ust. 3 dyrektywy (UE) 2018/1972 każde państwo członkowskie zapewnia, aby jego krajowe organy regulacyjne były w stanie w pełni uczestniczyć w pracach jednostek organizacyjnych BEREC.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. W państwach członkowskich, w których istnieje więcej niż jeden krajowy organ regulacyjny odpowiedzialny na mocy dyrektywy (UE) 2018/1972, organy te koordynują swoje działania, w razie potrzeby.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_4",
+   "kind": "article",
+   "number": "4",
+   "label": "Artykuł 4",
+   "title": "Zadania regulacyjne BEREC",
+   "path": [
+    "ROZDZIAŁ II — CELE i zadania BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC ma następujące zadania regulacyjne:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) wspomaganie krajowych organów regulacyjnych” Parlamentu Europejskiego, Rady i Komisji i doradzanie im oraz współpraca z krajowymi organami regulacyjnymi i Komisją, na wniosek lub z własnej inicjatywy, we wszelkich kwestiach technicznych dotyczących łączności elektronicznej należących do jego kompetencji;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) wspomaganie Komisji i doradzanie jej, na wniosek, w zakresie przygotowywania wniosków ustawodawczych w dziedzinie łączności elektronicznej, w tym w sprawie wszelkich wniosków dotyczących zmian niniejszego rozporządzenia lub dyrektywy (UE) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) wydawanie opinii, o których mowa w rozporządzeniu (UE) nr 531/2012 oraz dyrektywie (UE) 2018/1972, w szczególności w sprawie: (i) rozstrzygania sporów transgranicznych zgodnie z art. 27 dyrektywy (UE) 2018/1972; (ii) projektów środków krajowych związanych z procedurami rynku wewnętrznego dotyczących regulacji rynku zgodnie z art. 32, 33 i 68 dyrektywy (UE) 2018/1972; (iii) projektów decyzji i zaleceń dotyczących harmonizacji zgodnie z art. 38 i 93 dyrektywy (UE) 2018/1972; (iv) łączności typu koniec-koniec między użytkownikami końcowymi, zgodnie z art. 61 ust. 2 dyrektywy (UE) 2018/1972; (v) ustalania jednolitej maksymalnej stawki ogólnounijnej za zakończenie połączenia głosowego w sieci ruchomej i jednolitej maksymalnej stawki ogólnounijnej za zakończenie połączenia głosowego w sieci stacjonarnej zgodnie z art. 75 dyrektywy (UE) 2018/1972; (vi) formularza zawierającego podsumowanie warunków umowy zgodnie z art. 102 dyrektywy (UE) 2018/1972; (vii) krajowego wdrażania i funkcjonowania ogólnego zezwolenia oraz ich wpływu na funkcjonowanie rynku wewnętrznego zgodnie z art. 122 ust. 3 dyrektywy (UE) 2018/1972; (viii) w stosownych przypadkach, rozwoju rynku i rozwoju technologicznego w odniesieniu do różnych rodzajów usług łączności elektronicznej i ich wpływu na stosowanie części III tytuł III dyrektywy (UE) 2018/1972 zgodnie z art. 123 ust. 1 tej dyrektywy;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) wydawanie wytycznych w sprawie wdrażania unijnych ram regulacyjnych łączności elektronicznej, w szczególności tych, o których mowa w rozporządzeniach (UE) nr 531/2012 i (UE) 2015/2120 oraz w dyrektywie (UE) 2018/1972, dotyczących: (i) formularza zgłoszenia zgodnie z art. 12 dyrektywy (UE) 2018/1972; (ii) spójnego wykonywania obowiązków w zakresie analiz geograficznych i prognoz zgodnie z art. 22 dyrektywy (UE) 2018/1972; (iii) odpowiednich kryteriów służących wspieraniu spójnego stosowania art. 61 ust. 3 dyrektywy (UE) 2018/1972; (iv) wspólnego podejścia do określania punktu zakończenia sieci w różnych topologiach sieci zgodnie z art. 61 ust. 7 dyrektywy (UE) 2018/1972; (v) wspólnego podejścia do zaspokajania ponadnarodowego popytu wśród użytkowników końcowych zgodnie z art. 66 dyrektywy (UE) 2018/1972; (vi) minimalnych kryteriów dotyczących oferty ramowej zgodnie z art. 69 dyrektywy (UE) 2018/1972; (vii) wspierania spójnego stosowania przez krajowe organy regulacyjne warunków określonych w art. 76 ust. 1 dyrektywy (UE) 2018/1972 i kryteriów określonych w załączniku IV do tej dyrektywy; (viii) kryteriów uznawania danej sieci za sieć o bardzo dużej przepustowości zgodnie z art. 82 dyrektywy (UE) 2018/1972; (ix) wspólnych kryteriów oceny zdolności zarządzania zasobami numeracyjnymi i oceny ryzyka wyczerpania zasobów numeracyjnych zgodnie z art. 93 dyrektywy (UE) 2018/1972; (x) odpowiednich parametrów jakości usług, mających zastosowanie metod pomiarowych, treści i formy publikacji informacji oraz mechanizmów certyfikacji jakości zgodnie z art. 104 dyrektywy (UE) 2018/1972; (xi) sposobu oceny tego, czy publiczne systemy ostrzegawcze na mocy art. 110 ust. 2 dyrektywy (UE) 2018/1972 są równie skuteczne co ostrzeżenia na mocy ust. 1 tego artykułu; (xii) hurtowego dostępu do usług roamingu zgodnie z art. 3 ust. 8 rozporządzenia (UE) nr 531/2012; (xiii) wykonywania obowiązków krajowych organów regulacyjnych w zakresie dostępu do otwartego internetu zgodnie z art. 5 ust. 3 rozporządzenia (UE) 2015/2120; (xiv) parametrów, które powinny być uwzględniane przez krajowe organy regulacyjne przy dokonywaniu przez nie oceny zrównoważonego charakteru modelu opłat krajowych zgodnie z art. 5a ust. 6 rozporządzenia (UE) 2015/2120;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) wydawanie innych wytycznych zapewniających spójne wdrażanie ram regulacyjnych łączności elektronicznej i spójne decyzje regulacyjne krajowych organów regulacyjnych, z własnej inicjatywy lub na wniosek krajowego organu regulacyjnego, Parlamentu Europejskiego, Rady lub Komisji, w szczególności w odniesieniu do kwestii regulacyjnych wpływających na znaczną liczbę państw członkowskich lub zawierających element o charakterze transgranicznym;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) w stosownych przypadkach, udział w forum wzajemnej oceny dotyczącym projektów środków w zakresie procedur selekcji zgodnie z art. 35 dyrektywy (UE) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) udział w zakresie kwestii dotyczących jego kompetencji związanych z regulacjami rynku i konkurencją w związku z widmem radiowym zgodnie z art. 4 dyrektywy (UE) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) prowadzenie analiz potencjalnych rynków ponadnarodowych zgodnie z art. 65 dyrektywy (UE) 2018/1972 oraz ponadnarodowego popytu wśród użytkowników końcowych zgodnie z art. 66 tej dyrektywy;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) monitorowanie i gromadzenie informacji i, w stosownych przypadkach, udostępnianie publicznie aktualnych informacji dotyczących stosowania rozporządzenia (UE) nr 531/2012, zgodnie z art. 16 i 19 tego rozporządzenia;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) składanie sprawozdań w sprawach technicznych wchodzących w zakres jego kompetencji, w szczególności w sprawie: (i) stosowania w praktyce opinii i wytycznych, o których mowa w lit. c), d) i e); (ii) najlepszych praktyk państw członkowskich wspierających określanie usługi odpowiedniego szerokopasmowego dostępu do internetu zgodnie z art. 84 dyrektywy (UE) 2018/1972; (iii) zmian cen i wzorców konsumpcyjnych w zakresie usług zarówno krajowych, jak i roamingu, zmian rzeczywistych hurtowych stawek za roaming w niezbilansowanym ruchu, relacji między cenami detalicznymi, opłatami hurtowymi i kosztami hurtowymi za usługi roamingu, a także w sprawie przejrzystości i porównywalności taryf zgodnie z art. 19 rozporządzenia (UE) nr 531/2012; (iv) wyników sprawozdań rocznych składanych przez krajowe organy regulacyjne zgodnie z art. 5 rozporządzenia (UE) 2015/2120, poprzez publikację rocznego sprawozdania podsumowującego; (v) rozwoju sytuacji rynkowej w sektorze łączności elektronicznej – corocznie;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) wydawanie zaleceń i wspólnych stanowisk oraz upowszechnianie najlepszych praktyk regulacyjnych skierowanych do krajowych organów regulacyjnych w celu zachęcenia do spójnego i lepszego wdrażania ram regulacyjnych łączności elektronicznej;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) ustanowienie i utrzymywanie bazy danych: (i) zgłoszeń przekazywanych właściwym organom przez przedsiębiorstwa podlegające ogólnemu zezwoleniu zgodnie z art. 12 dyrektywy (UE) 2018/1972; (ii) zasobów numeracyjnych z prawem ekstraterytorialnego użytkowania w obrębie Unii zgodnie z art. 93 ust. 4 akapit czwarty dyrektywy (UE) 2018/1972; (iii) w stosownych przypadkach, numerów służb ratunkowych państw członkowskich zgodnie z zaleceniem E.164 zgodnie z art. 109 ust. 8 akapit trzeci dyrektywy (UE) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) ocena potrzeb w zakresie innowacji regulacyjnych i koordynowanie działań krajowych organów regulacyjnych, aby umożliwić rozwój nowych innowacyjnych rodzajów łączności elektronicznej;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) wspieranie modernizacji, koordynacji i normalizacji gromadzenia danych przez krajowe organy regulacyjne, które to dane udostępnia się publicznie w otwartym formacie wielokrotnego użytku umożliwiającym odczyt maszynowy na stronie internetowej BEREC oraz na europejskim portalu danych, bez uszczerbku dla praw własności intelektualnej, zasad ochrony danych osobowych i wymaganego poziomu poufności;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "o) wykonywanie innych zadań przydzielonych mu na mocy aktów prawnych Unii, w szczególności rozporządzeń (UE) nr 531/2012 i (UE) 2015/2120 oraz dyrektywy (UE) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC podaje swoje zadania regulacyjne do wiadomości publicznej i aktualizuje informacje na ten temat w przypadku przydzielenia mu nowych zadań.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC podaje do wiadomości publicznej wszystkie swoje ostateczne opinie, wytyczne, sprawozdania, zalecenia, wspólne stanowiska i najlepsze praktyki oraz wszelkie zamówione opracowania, a także odpowiednie projekty dokumentów do celów konsultacji publicznych, o których mowa w ust. 5.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Bez uszczerbku dla zgodności z właściwymi przepisami prawa Unii krajowe organy regulacyjne i Komisja w najwyższym stopniu uwzględniają wszelkie wytyczne, opinie, zalecenia, wspólne stanowiska i najlepsze praktyki przyjęte przez BEREC w celu zapewnienia spójnego wdrażania ram regulacyjnych łączności elektronicznej w ramach zakresu stosowania, o którym mowa w art. 3 ust. 1. W przypadku gdy krajowy organ regulacyjny dokonuje odstępstwa od wytycznych, o których mowa w ust. 1 lit. e), podaje powody tego postępowania.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. W stosownych przypadkach BEREC konsultuje się z zainteresowanymi stronami i daje im możliwość wypowiedzenia się w rozsądnym terminie uwzględniającym stopień złożoności sprawy. Z wyjątkiem szczególnych okoliczności, termin ten –nie może być krótszy niż 30 dni. Bez uszczerbku dla art. 38 BEREC udostępnia publicznie wyniki takich konsultacji publicznych. Takie konsultacje odbywają się na jak najwcześniejszym etapie procesu podejmowania decyzji.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. BEREC może, w stosownych przypadkach, konsultować się z odpowiednimi krajowymi organami, takimi jak organy właściwe w dziedzinach konkurencji, ochrony konsumentów i ochrony danych, oraz współpracować z tymi organami.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. BEREC może, w stosownych przypadkach, współpracować z właściwymi organami jednostkami organizacyjnymi Unii i z unijnymi grupami doradczymi, jak również z właściwymi organami państw trzecich i z organizacjami międzynarodowymi zgodnie z art. 35 ust. 1.",
+     "para": "7",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_5",
+   "kind": "article",
+   "number": "5",
+   "label": "Artykuł 5",
+   "title": "Zadania Urzędu BEREC",
+   "path": [
+    "ROZDZIAŁ III — ZADANIA URZĘDU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Urząd BEREC ma następujące zadania:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) zapewnianie BEREC wsparcia profesjonalnego i administracyjnego w, w szczególności w wykonywaniu jego zadań regulacyjnych na podstawie art. 4;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) gromadzenie informacji od krajowych organów regulacyjnych oraz wymiana i przekazywanie informacji związanych z zadaniami regulacyjnymi przydzielonymi BEREC na podstawie art. 4;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) regularne przygotowywanie – w oparciu o informacje, o których mowa w lit. b) – projektów sprawozdań na temat konkretnych aspektów zmian na europejskim rynku łączności elektronicznej, takich jak sprawozdania dotyczące roamingu lub analizy porównawczej, i przekazywanie tych projektów sprawozdań BEREC;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) upowszechnianie najlepszych praktyk regulacyjnych wśród krajowych organów regulacyjnych, zgodnie z art. 4 ust. 1 lit. k);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) wspomaganie BEREC w ustanawianiu i utrzymywaniu rejestrów i baz danych i zarządzaniu nimi, zgodnie z art. 4 ust. 1 lit. l);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) wspomaganie BEREC w ustanawianiu systemu informacyjno-komunikacyjnego i zarządzaniu nim, zgodnie z art. 41;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) wspomaganie BEREC w prowadzeniu konsultacji publicznych, zgodnie z art. 4 ust. 5;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) udzielanie pomocy w przygotowaniu prac oraz udzielanie innego rodzaju wsparcia administracyjnego i merytorycznego w celu zapewnienia sprawnego funkcjonowania Rady Organów Regulacyjnych;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) wspomaganie tworzenia grup roboczych, na wniosek Rady Organów Regulacyjnych, wnoszenie wkładu w prace regulacyjne oraz udzielanie wsparcia administracyjnego w celu zapewnienia sprawnego funkcjonowania tych grup;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) wykonywanie innych zadań przydzielonych mu na mocy niniejszego rozporządzenia lub innych aktów prawnych Unii.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_6",
+   "kind": "article",
+   "number": "6",
+   "label": "Artykuł 6",
+   "title": "Struktura organizacyjna BEREC",
+   "path": [
+    "ROZDZIAŁ IV — ORGANIZACJA BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "W skład BEREC wchodzą:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) Rada Organów Regulacyjnych;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) grupy robocze.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_7",
+   "kind": "article",
+   "number": "7",
+   "label": "Artykuł 7",
+   "title": "Skład Rady Organów Regulacyjnych",
+   "path": [
+    "ROZDZIAŁ IV — ORGANIZACJA BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. W skład Rady Organów Regulacyjnych wchodzi jeden członek z każdego państwa członkowskiego. Każdy członek ma prawo głosu. Każdy członek jest powoływany przez krajowy organ regulacyjny, który ponosi główną odpowiedzialność za nadzór nad bieżącym funkcjonowaniem rynków sieci i usług łączności elektronicznej na mocy dyrektywy(UE) 2018/1972. Członek ten jest powoływany spośród grona obejmującego szefa krajowego organu regulacyjnego, członków jego organu kolegialnego lub zastępców tych osób.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Każdy członek Rady Organów Regulacyjnych ma zastępcę powołanego przez krajowy organ regulacyjny. Zastępca reprezentuje członka pod jego nieobecność. Zastępca jest powoływany spośród grona obejmującego szefa krajowego organu regulacyjnego, członków jego organu kolegialnego, zastępców tych osób lub członków personelu krajowego organu regulacyjnego.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Członków Rady Organów Regulacyjnych i ich zastępców powołuje się przez wzgląd na ich wiedzę w dziedzinie łączności elektronicznej, biorąc pod uwagę odpowiednie umiejętności menedżerskie, administracyjne i budżetowe. W celu zapewnienia ciągłości pracy Rady Organów Regulacyjnych wszystkie powołujące krajowe organy regulacyjne dokładają starań, by ograniczyć rotację powoływanych przez siebie członków i, w miarę możliwości, także ich zastępców, i dążą do osiągnięcia równowagi pod względem liczby mężczyzn i kobiet w składzie.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Komisja uczestniczy we wszystkich obradach Rady Organów Regulacyjnych bez prawa głosu i jest reprezentowana na odpowiednio wysokim szczeblu.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Aktualny wykaz członków Rady Organów Regulacyjnych oraz ich zastępców, a także ich deklaracje interesów podaje się do wiadomości publicznej.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_8",
+   "kind": "article",
+   "number": "8",
+   "label": "Artykuł 8",
+   "title": "Niezależność Rady Organów Regulacyjnych",
+   "path": [
+    "ROZDZIAŁ IV — ORGANIZACJA BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Wykonując przydzielone jej zadania i bez uszczerbku dla działania jej członków w imieniu odpowiednich krajowych organów regulacyjnych, Rada Organów Regulacyjnych działa niezależnie i obiektywnie w interesie Unii, niezależnie od jakichkolwiek szczególnych interesów krajowych lub osobistych.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Bez uszczerbku dla koordynacji, o której mowa w art. 3 ust. 6, członkowie Rady Organów Regulacyjnych i ich zastępcy nie zwracają się o instrukcje do żadnego rządu, instytucji, osoby ani organu ani nie przyjmują od nich takich instrukcji.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_9",
+   "kind": "article",
+   "number": "9",
+   "label": "Artykuł 9",
+   "title": "Funkcje Rady Organów Regulacyjnych",
+   "path": [
+    "ROZDZIAŁ IV — ORGANIZACJA BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Rada Organów Regulacyjnych pełni następujące funkcje:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) wykonuje zadania regulacyjne BEREC określone w art. 4, tj. przyjmuje opinie, wytyczne, sprawozdania, zalecenia i wspólne stanowiska oraz upowszechnia najlepsze praktyki, o których mowa w tym artykule, opierając się przy tym na pracach przygotowawczych wykonywanych przez grupy robocze;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) podejmuje decyzje administracyjne dotyczące organizacji prac BEREC;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) przyjmuje roczny program prac BEREC, o którym mowa w art. 21;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) przyjmuje roczne sprawozdanie z działalności BEREC, o którym mowa w art. 22;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) przyjmuje zasady dotyczące zapobiegania konfliktom interesów i zarządzania nimi zgodnie z art. 42, jak również dotyczące członków grup roboczych;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) przyjmuje szczegółowe przepisy dotyczące prawa dostępu do dokumentów będących w posiadaniu BEREC zgodnie z art. 36;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) na podstawie analizy potrzeb przyjmuje i regularnie aktualizuje plany komunikacji i rozpowszechniania informacji, o których mowa w art. 37 ust. 2;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) przyjmuje, stanowiąc większością dwóch trzecich głosów swoich członków, swój regulamin wewnętrzny i udostępnia go publicznie;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) wspólnie z dyrektorem zatwierdza zawarcie porozumień roboczych z właściwymi organami i jednostkami organizacyjnymi Unii, z unijnymi grupami doradczymi oraz z właściwymi organami państw trzecich i z organizacjami międzynarodowymi zgodnie z art. 35;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) tworzy grupy robocze i powołuje ich przewodniczących;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "k) udziela wskazówek dyrektorowi Urzędu BEREC w odniesieniu do wykonywania zadań Urzędu BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_10",
+   "kind": "article",
+   "number": "10",
+   "label": "Artykuł 10",
+   "title": "Przewodniczący i wiceprzewodniczący Rady Organów Regulacyjnych",
+   "path": [
+    "ROZDZIAŁ IV — ORGANIZACJA BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Rada Organów Regulacyjnych powołuje, stanowiąc większością dwóch trzecich głosów swoich członków, przewodniczącego i co najmniej dwóch wiceprzewodniczących spośród swoich członków.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Jeżeli przewodniczący nie może pełnić swoich obowiązków, jego obowiązki przejmuje automatycznie jeden z wiceprzewodniczących.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Kadencja przewodniczącego trwa rok z możliwością jednokrotnego odnowienia. W celu zapewnienia ciągłości prac BEREC, przyszły przewodniczący przed rozpoczęciem swojej kadencji, w miarę możliwości, pełni przez rok funkcję wiceprzewodniczącego. Regulamin wewnętrzny przewiduje krótszy okres, w przypadku gdy nie jest możliwe, aby przyszły przewodniczący przed rozpoczęciem swojej kadencji pełnił przez rok funkcję wiceprzewodniczącego.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Bez uszczerbku dla roli Rady Organów Regulacyjnych w odniesieniu do zadań przewodniczącego, przewodniczący nie zwraca się o instrukcje do żadnego rządu, instytucji, osoby ani organu ani nie przyjmuje od nich instrukcji.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Przewodniczący składa Parlamentowi Europejskiemu i Radzie, na ich żądanie, sprawozdanie z wykonywania zadań BEREC.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_11",
+   "kind": "article",
+   "number": "11",
+   "label": "Artykuł 11",
+   "title": "Posiedzenia Rady Organów Regulacyjnych",
+   "path": [
+    "ROZDZIAŁ IV — ORGANIZACJA BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Przewodniczący zwołuje posiedzenia Rady Organów Regulacyjnych i ustala porządek obrad tych posiedzeń, który podawany jest do wiadomości publicznej.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Rada Organów Regulacyjnych zbiera się co najmniej dwa razy do roku na posiedzeniach zwyczajnych. Posiedzenia nadzwyczajne zwołuje się z inicjatywy przewodniczącego, na wniosek co najmniej trzech członków tej Rady lub na wniosek Komisji.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Dyrektor Urzędu BEREC bierze udział w obradach bez prawa głosu.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Rada Organów Regulacyjnych może zapraszać do udziału w swoich posiedzeniach w charakterze obserwatora każdą osobę, której opinia może mieć znaczenie.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Członkowie Rady Organów Regulacyjnych oraz ich zastępcy mogą, z zastrzeżeniem postanowień jej regulaminu wewnętrznego, korzystać podczas posiedzeń ze wsparcia swoich doradców lub innych ekspertów.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Urząd BEREC zapewnia obsługę sekretarską Rady Organów Regulacyjnych.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_12",
+   "kind": "article",
+   "number": "12",
+   "label": "Artykuł 12",
+   "title": "Zasady głosowania w Radzie Organów Regulacyjnych",
+   "path": [
+    "ROZDZIAŁ IV — ORGANIZACJA BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Rada Organów Regulacyjnych podejmuje decyzje zwykłą większością głosów swoich członków, o ile niniejsze rozporządzenie lub inny akt prawny Unii nie stanowią inaczej. W odniesieniu do opinii, o których mowa w art. 4 ust. 1 lit. c) ppkt (ii) i (v), oraz do wytycznych, o których mowa w art. 4 ust. 1 lit. d) ppkt (i)–(iv), (vi), (vii) i (x) wymagana jest większość dwóch trzecich głosów członków Rady Organów Regulacyjnych. Niezależnie od akapitu drugiego niniejszego ustępu Rada Organów Regulacyjnych może zwykłą większością głosów – i w indywidualnych przypadkach – podjąć decyzję, aby opinie, o których mowa w art. 4 ust. 1 lit. c) ppkt (ii) niniejszego rozporządzenia, przyjąć zwykłą większością głosów w odniesieniu do projektów środków wchodzących w zakres art. 76 ust. 2 dyrektywy (UE) 2018/1972, które prowadzą do uruchomienia procedury na mocy art. 33 ust. 5 tej dyrektywy. Decyzje Rady Organów Regulacyjnych podawane są do wiadomości publicznej i zawierają zastrzeżenia jej członków na ich wniosek.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Każdy członek dysponuje jednym głosem. W przypadku nieobecności członka do wykonania jego prawa głosu jest uprawniony zastępca. W przypadku nieobecności członka i zastępcy prawo głosu można przekazać innemu członkowi. Przewodniczący może przekazać prawo głosu w każdym przypadku. Przewodniczący bierze udział w głosowaniu, chyba że przekazał swoje prawo głosu.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Regulamin wewnętrzny Rady Organów Regulacyjnych szczegółowo określa procedurę głosowania, w tym warunki, na jakich jeden członek może działać w imieniu innego członka, kworum oraz terminy powiadamiania o posiedzeniach. Ponadto regulamin wewnętrzny zapewnia, aby członkowie Rady Organów Regulacyjnych przed każdym posiedzeniem otrzymywali pełny porządek obrad i projekty wniosków, aby umożliwić im zaproponowanie zmian przed głosowaniem. Regulamin wewnętrzny może, między innymi, określać procedury głosowania w kwestiach pilnych oraz zawierać inne ustalenia praktyczne dotyczące funkcjonowania Rady Organów Regulacyjnych.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_13",
+   "kind": "article",
+   "number": "13",
+   "label": "Artykuł 13",
+   "title": "Grupy robocze",
+   "path": [
+    "ROZDZIAŁ IV — ORGANIZACJA BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. W uzasadnionych przypadkach, a w szczególności w celu wdrożenia rocznego programu prac BEREC, Rada Organów Regulacyjnych może utworzyć grupy robocze.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Rada Organów Regulacyjnych powołuje przewodniczących grup roboczych reprezentujących, w miarę możliwości, różne krajowe organy regulacyjne.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Grupy robocze są otwarte na udział ekspertów z wszystkich krajowych organów regulacyjnych uczestniczących w pracach BEREC i z Komisji. Grupy robocze są także otwarte na udział członków personelu Urzędu BEREC, którzy wnoszą wkład w prace regulacyjne grup roboczych i udzielają im wsparcia administracyjnego. Eksperci z Komisji nie uczestniczą w pracach grup roboczych tworzonych w celu wykonywania zadań, o których mowa w art. 4 ust. 1 lit. c) ppkt (ii). W grupach roboczych tworzonych w celu wykonywania zadań, o których mowa w art. 4 ust. 1 lit. c) ppkt (iv), (vi), (vii) i (viii), art. 4 ust. 1 lit. d) ppkt (i), (ii), (ix), (x) i (xi), art. 4 ust. 1 lit. j) ppkt (ii) oraz art. 4 ust. 1 lit. l) niniejszego rozporządzenia, a także, w stosownych przypadkach w jego art. 4 ust. 1 lit. c) ppkt (iii) i art. 4 ust. 1 lit. j) ppkt (i) uwzględnia się opinie ekspertów innych właściwych organów zgłoszonych zgodnie z art. 5 ust. 4 dyrektywy (UE) 2018/1972. W razie potrzeby i w indywidualnych przypadkach Rada Organów Regulacyjnych lub przewodniczący grup roboczych mogą zapraszać do udziału w posiedzeniach grup roboczych indywidualnych ekspertów uznawanych za kompetentnych w danej dziedzinie.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Rada Organów Regulacyjnych przyjmuje regulamin wewnętrzny określający praktyczne zasady funkcjonowania grup roboczych.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_14",
+   "kind": "article",
+   "number": "14",
+   "label": "Artykuł 14",
+   "title": "Struktura organizacyjna Urzędu BEREC",
+   "path": [
+    "ROZDZIAŁ V — ORGANIZACJA URZĘDU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "W skład Urzędu BEREC wchodzą:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) Zarząd;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) dyrektor.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_15",
+   "kind": "article",
+   "number": "15",
+   "label": "Artykuł 15",
+   "title": "Skład Zarządu",
+   "path": [
+    "ROZDZIAŁ V — ORGANIZACJA URZĘDU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. W skład Zarządu wchodzą osoby powołane jako członkowie Rady Organów Regulacyjnych oraz jeden przedstawiciel wysokiego szczebla z Komisji. Każdy członek Zarządu ma prawo głosu. Każdy powołujący krajowy organ regulacyjny, o którym mowa w art. 7 ust. 1 akapit drugi, może powołać na stanowisko członka Zarządu osobę niebędącą członkiem Rady Organów Regulacyjnych. Osoba ta musi być szefem krajowego organu regulacyjnego, członkiem jego organu kolegialnego lub zastępcą tych osób.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Każdy członek Zarządu ma zastępcę, który reprezentuje członka pod jego nieobecność. Zastępcą każdego członka jest osoba powołana na stanowisko zastępcy członka Rady Organów Regulacyjnych. Przedstawiciel Komisji również ma zastępcę. Każdy powołujący krajowy organ regulacyjny, o którym mowa w art. 7 ust. 1 akapit drugi, może powołać na stanowisko zastępcy członka Zarządu osobę niebędącą zastępcą członka Rady Organów Regulacyjnych. Osoba ta musi być szefem krajowego organu regulacyjnego, członkiem jego organu kolegialnego, zastępcą tych osób lub członkiem personelu krajowego organu regulacyjnego.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Członkowie Zarządu i ich zastępcy nie zwracają się o instrukcje do żadnego rządu, instytucji, osoby ani organu ani nie przyjmują od nich takich instrukcji.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Aktualny wykaz członków Zarządu oraz ich zastępców, a także ich deklaracje interesów podaje się do wiadomości publicznej.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_16",
+   "kind": "article",
+   "number": "16",
+   "label": "Artykuł 16",
+   "title": "Funkcje administracyjne Zarządu",
+   "path": [
+    "ROZDZIAŁ V — ORGANIZACJA URZĘDU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Zarząd pełni następujące funkcje administracyjne:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) wyznacza ogólne kierunki działań Urzędu BEREC i co roku przyjmuje jednolity dokument programowy Urzędu BEREC większością dwóch trzecich głosów swoich członków, z uwzględnieniem opinii Komisji i zgodnie z art. 23;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) przyjmuje, większością dwóch trzecich głosów swoich członków, roczny budżet Urzędu BEREC oraz pełni inne funkcje związane z budżetem Urzędu BEREC na podstawie rozdziału VII;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) przyjmuje, podaje do wiadomości publicznej i ocenia roczne skonsolidowane sprawozdanie z działalności Urzędu BEREC, o którym mowa w art. 27, i do dnia 1 lipca każdego roku przedkłada to sprawozdanie wraz z oceną Parlamentowi Europejskiemu, Radzie, Komisji i Trybunałowi Obrachunkowemu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) przyjmuje regulamin finansowy mający zastosowanie do Urzędu BEREC zgodnie z art. 29;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) przyjmuje strategię zwalczania nadużyć finansowych proporcjonalną do ryzyka takich nadużyć, uwzględniając koszty i korzyści związane ze środkami, które mają być zastosowane;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) zapewnia odpowiednie działania następcze w odniesieniu do ustaleń i zaleceń wynikających ze sprawozdań z audytu wewnętrznego lub zewnętrznego oraz ocen, jak również z dochodzeń przeprowadzonych przez Europejski Urząd ds. Zwalczania Nadużyć Finansowych (zwany dalej „OLAF”);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) przyjmuje zasady dotyczące zapobiegania konfliktom interesów i zarządzania nimi zgodnie z art. 42 ust. 3;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) na podstawie analizy potrzeb przyjmuje i regularnie aktualizuje plany komunikacji i rozpowszechniania informacji, o których mowa w art. 37 ust. 2;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) przyjmuje swój regulamin wewnętrzny;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) przyjmuje przepisy wykonawcze w celu nadania skuteczności regulaminowi pracowniczemu urzędników Unii Europejskiej i warunkom zatrudnienia innych pracowników Unii Europejskiej na podstawie art. 110 tego regulaminu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) bez uszczerbku dla decyzji, o której mowa w ust. 2 akapit pierwszy, wykonuje – w odniesieniu do personelu Urzędu BEREC – uprawnienia przyznane w regulaminie pracowniczym organowi powołującemu oraz uprawnienia przyznane w warunkach zatrudnienia innych pracowników organowi uprawnionemu do zawierania umów o pracę (zwane dalej „uprawnieniami organu powołującego”);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) powołuje dyrektora oraz, w stosownych przypadkach, podejmuje decyzje o przedłużeniu jego kadencji lub odwołaniu go ze stanowiska zgodnie z art. 32;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) powołuje księgowego, z zastrzeżeniem regulaminu pracowniczego i warunków zatrudnienia innych pracowników, który jest całkowicie niezależny w wykonywaniu swoich obowiązków.;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) podejmuje wszystkie decyzje dotyczące ustanowienia wewnętrznej struktury organizacyjnej Urzędu BEREC oraz w razie potrzeby jej modyfikacji, biorąc pod uwagę potrzeby w zakresie działalności Urzędu BEREC i mając na uwadze należyte zarządzanie budżetem. W odniesieniu do lit. m) akapitu pierwszego Urząd BEREC może powołać tego samego księgowego co inny organ lub instytucja Unii. W szczególności Urząd BEREC i Komisja mogą uzgodnić, że księgowy Komisji pełni również obowiązki księgowego Urzędu BEREC",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Zgodnie z art. 110 regulaminu pracowniczego Zarząd przyjmuje decyzję, na podstawie art. 2 ust. 1 regulaminu pracowniczego i art. 6 warunków zatrudnienia innych pracowników, przekazującą odpowiednie uprawnienia organu powołującego dyrektorowi i określającą warunki, na jakich możliwe jest zawieszenie przekazania tych uprawnień. Dyrektor jest uprawniony do dalszego przekazania tych uprawnień. Jeżeli wymagają tego szczególne okoliczności, Zarząd może w drodze decyzji tymczasowo zawiesić przekazanie uprawnień organu powołującego dyrektorowi i uprawnienia dalej przez niego przekazane oraz wykonywać je samodzielnie lub przekazać je jednemu ze swoich członków lub też członkowi personelu innemu niż dyrektor.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_17",
+   "kind": "article",
+   "number": "17",
+   "label": "Artykuł 17",
+   "title": "Przewodniczący i wiceprzewodniczący Zarządu",
+   "path": [
+    "ROZDZIAŁ V — ORGANIZACJA URZĘDU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Przewodniczącym i wiceprzewodniczącymi Zarządu są osoby powołane na stanowisko przewodniczącego i wiceprzewodniczących Rady Organów Regulacyjnych. Zastosowanie ma ten sam okres kadencji. W drodze odstępstwa od akapitu pierwszego Zarząd może, większością dwóch trzecich głosów swoich członków, wybrać innych członków Zarządu jako przewodniczącego, wiceprzewodniczącego lub wiceprzewodniczących spośród swoich członków reprezentujących państwa członkowskie. Ich kadencja jest taka sama jak przewodniczącego i wiceprzewodniczących Rady Organów Regulacyjnych.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Jeżeli przewodniczący nie może pełnić swoich obowiązków, jego obowiązki przejmuje automatycznie jeden z wiceprzewodniczących.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Przewodniczący Zarządu składa Parlamentowi Europejskiemu i Radzie, na żądanie, sprawozdanie z wykonywania zadań Urzędu BEREC.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_18",
+   "kind": "article",
+   "number": "18",
+   "label": "Artykuł 18",
+   "title": "Posiedzenia Zarządu",
+   "path": [
+    "ROZDZIAŁ V — ORGANIZACJA URZĘDU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Posiedzenia Zarządu zwołuje przewodniczący.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Dyrektor Urzędu BEREC bierze udział we wszystkich obradach, oprócz tych, o których mowa w art. 32, bez prawa głosu.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Zarząd zbiera się co najmniej dwa razy do roku na posiedzeniach zwyczajnych. Ponadto przewodniczący zwołuje posiedzenia nadzwyczajne z własnej inicjatywy, na wniosek Komisji lub co najmniej trzech członków Zarządu.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Zarząd może zapraszać do udziału w swoich posiedzeniach w charakterze obserwatora każdą osobę, której opinia może mieć znaczenie.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Członkowie Zarządu oraz ich zastępcy mogą, z zastrzeżeniem postanowień regulaminu wewnętrznego Zarządu, korzystać podczas posiedzeń ze wsparcia doradców lub ekspertów.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Urząd BEREC zapewnia obsługę sekretarską Zarządu.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_19",
+   "kind": "article",
+   "number": "19",
+   "label": "Artykuł 19",
+   "title": "Zasady głosowania Zarządu",
+   "path": [
+    "ROZDZIAŁ V — ORGANIZACJA URZĘDU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Zarząd podejmuje decyzje zwykłą większością głosów swoich członków, o ile niniejsze rozporządzenie nie przewiduje inaczej.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Każdy członek dysponuje jednym głosem. W przypadku nieobecności członka do wykonania jego prawa głosu jest uprawniony zastępca. W przypadku nieobecności członka i jego zastępcy prawo głosu można przekazać innemu członkowi.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Przewodniczący może przekazać prawo głosu w każdym przypadku. Przewodniczący bierze udział w głosowaniu, chyba że przekazał swoje prawo głosu.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Bardziej szczegółowe zasady głosowania, zwłaszcza procedura głosowania w kwestiach pilnych i okoliczności, w których jeden członek Zarządu może działać w imieniu innego członka, określone są w regulaminie wewnętrznym Zarządu.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_20",
+   "kind": "article",
+   "number": "20",
+   "label": "Artykuł 20",
+   "title": "Obowiązki dyrektora",
+   "path": [
+    "ROZDZIAŁ V — ORGANIZACJA URZĘDU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Dyrektor odpowiada za administracyjne zarządzanie Urzędem BEREC. Dyrektor odpowiada przed Zarządem.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Dyrektor pomaga przewodniczącemu Rady Organów Regulacyjnych oraz przewodniczącemu Zarządu w przygotowywaniu posiedzeń ich odpowiednich organów.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Bez uszczerbku dla uprawnień Rady Organów Regulacyjnych, Zarządu i Komisji, dyrektor jest niezależny przy wykonywaniu swoich obowiązków i nie zwraca się o instrukcje do żadnego rządu, instytucji, osoby ani organu ani nie przyjmuje od nich takich instrukcji.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Dyrektor składa na żądanie Parlamentowi Europejskiemu i Radzie sprawozdanie z wykonywania swoich obowiązków.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Dyrektor jest prawnym przedstawicielem Urzędu BEREC.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Dyrektor jest odpowiedzialny za wykonywanie zadań Urzędu BEREC i za wdrażanie wskazówek przekazanych przez Radę Organów Regulacyjnych i Zarząd. W szczególności dyrektor odpowiada za:",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "a) bieżące administrowanie Urzędem BEREC;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "b) wdrażanie decyzji administracyjnych przyjętych przez Radę Organów Regulacyjnych i Zarząd;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "c) opracowywanie oraz przedkładanie Zarządowi jednolitego dokumentu programowego, o którym mowa w art. 23;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "d) wspomaganie Rady Organów Regulacyjnych w przygotowywaniu rocznego sprawozdania z działalności BEREC, o którym mowa w art. 22;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "e) wspomaganie Rady Organów Regulacyjnych w przygotowywaniu rocznego programu prac BEREC, o którym mowa w art. 21;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "f) wdrażanie jednolitego dokumentu programowego i składanie Zarządowi sprawozdań z jego wdrażania;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "g) opracowywanie projektu rocznego skonsolidowanego sprawozdania z działalności Urzędu BEREC, o którym mowa w art. 27, i przedstawianie go Zarządowi do oceny i przyjęcia;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "h) opracowywanie planu działania w następstwie wniosków ze sprawozdań z audytu wewnętrznego lub zewnętrznego oraz ocen, jak również z dochodzeń przeprowadzanych przez OLAF, a także przygotowywanie co najmniej raz w roku sprawozdań z postępu prac dla Zarządu;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "i) ochronę interesów finansowych Unii przez stosowanie środków zapobiegających nadużyciom finansowym, korupcji i innym nielegalnym działaniom, przez skuteczne kontrole, a w razie wykrycia nieprawidłowości – przez odzyskiwanie kwot nienależnie wypłaconych oraz, w stosownych przypadkach, nakładanie skutecznych, proporcjonalnych i odstraszających środków administracyjnych, w tym sankcji finansowych;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "j) przygotowanie strategii Urzędu BEREC dotyczącej przeciwdziałania nadużyciom i przedstawienie jej Zarządowi do zatwierdzenia;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "k) przygotowanie projektu regulaminu finansowego mającego zastosowanie do Urzędu BEREC;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "l) sporządzanie projektu preliminarza dochodów i wydatków Urzędu BEREC i wykonywanie jego budżetu;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "m) zatwierdzanie, wspólnie z Radą Organów Regulacyjnych, porozumień roboczych zawieranych z właściwymi organami i jednostkami organizacyjnymi Unii, z unijnymi grupami doradczymi oraz z właściwymi organami państw trzecich i z organizacjami międzynarodowymi zgodnie z art. 35.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Dyrektor, pod nadzorem Zarządu, podejmuje niezbędne środki, w szczególności w odniesieniu do przyjmowania wewnętrznych wytycznych administracyjnych oraz publikowania komunikatów, w celu zapewnienia funkcjonowania Urzędu BEREC zgodnie z niniejszym rozporządzeniem.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Dyrektor, pod warunkiem uzyskania uprzedniej zgody Komisji, Zarządu i zainteresowanych państw członkowskich, podejmuje decyzję, czy do celów wykonywania zadań Urzędu BEREC w skuteczny i wydajny sposób konieczne jest umieszczenie jednego lub większej liczby członków personelu w jednym lub w większej liczbie państwach członkowskich. W decyzji określa się zakres działań, które mają być prowadzone w sposób pozwalający uniknąć niepotrzebnych kosztów i powielania administracyjnych funkcji Urzędu BEREC. Przed podjęciem takiej decyzji określa się – w wieloletnim dokumencie programowym, o którym mowa w art. 23 ust. 4 – jej skutki pod kątem alokacji personelu i budżetu.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_21",
+   "kind": "article",
+   "number": "21",
+   "label": "Artykuł 21",
+   "title": "Roczny program prac BEREC",
+   "path": [
+    "ROZDZIAŁ VI — PLANOWANIE PRAC BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Rada Organów Regulacyjnych przyjmuje projekt rocznego programu prac najpóźniej do dnia 31 stycznia roku poprzedzającego rok, którego dotyczy roczny program prac. Po konsultacji z Parlamentem Europejskim, Radą i Komisją w sprawie ich priorytetów, a także z innymi zainteresowanymi stronami zgodnie z art. 4 ust. 5, Rada Organów Regulacyjnych przyjmuje do dnia 31 grudnia tego roku ostateczny roczny program prac.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Rada Organów Regulacyjnych przekazuje roczny program prac Parlamentowi Europejskiemu, Radzie i Komisji niezwłocznie po jego przyjęciu.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_22",
+   "kind": "article",
+   "number": "22",
+   "label": "Artykuł 22",
+   "title": "Roczne sprawozdanie z działalności BEREC",
+   "path": [
+    "ROZDZIAŁ VI — PLANOWANIE PRAC BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Rada Organów Regulacyjnych przyjmuje roczne sprawozdanie z działalności BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Rada Organów Regulacyjnych przekazuje roczne sprawozdanie z działalności Parlamentowi Europejskiemu, Radzie, Komisji i Europejskiemu Komitetowi Ekonomiczno-Społecznemu do dnia 15 czerwca każdego roku.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_23",
+   "kind": "article",
+   "number": "23",
+   "label": "Artykuł 23",
+   "title": "Programowanie roczne i wieloletnie",
+   "path": [
+    "ROZDZIAŁ VII — BUDŻET I PROGRAMOWANIE URZĘDU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Każdego roku dyrektor sporządza projekt dokumentu programowego obejmującego programowanie roczne i wieloletnie (zwanego dalej „jednolitym dokumentem programowym”) zgodnie z art. 32 rozporządzenia delegowanego (UE) nr 1271/2013, z uwzględnieniem wytycznych określonych przez Komisję. Do dnia 31 stycznia każdego roku, Zarząd przyjmuje projekt jednolitego dokumentu programowego oraz przekazuje go Komisji w celu wydania opinii. Projekt jednolitego dokumentu programowego przedkłada się również Parlamentowi Europejskiemu i Radzie. Zarząd przyjmuje następnie jednolity dokument programowy, biorąc pod uwagę opinię Komisji. Zarząd przedkłada jednolity dokument programowy, jak również każdą jego późniejszą zaktualizowaną wersję, Parlamentowi Europejskiemu, Radzie i Komisji. Jednolity dokument programowy staje się ostateczny po przyjęciu budżetu ogólnego Unii i, w razie potrzeby, podlega odpowiednim dostosowaniom.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Roczny dokument programowy zawiera szczegółowe cele i oczekiwane wyniki, w tym wskaźniki skuteczności. Zawiera on również opis działań, które mają być finansowane, oraz określa zasoby finansowe i ludzkie przydzielone na każde działanie zgodnie z zasadami budżetowania zadaniowego i zarządzania zadaniowego, o których mowa w art. 31. Roczny dokument programowy musi być spójny z projektem rocznego programu prac BEREC i z ostatecznym rocznym programem prac, o których mowa w art. 21, oraz z wieloletnim dokumentem programowym Urzędu BEREC, o którym mowa w ust. 4 niniejszego artykułu. Jednoznacznie określa się w nim zadania, które zostały dodane, zmienione lub skreślone w stosunku do poprzedniego roku budżetowego.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Zarząd w razie konieczności zmienia roczny dokument programowy po przyjęciu ostatecznego rocznego programu prac BEREC, o którym mowa w art. 21, i w przypadku przydzielenia BEREC lub Urzędowi BEREC nowego zadania. Wszelkie merytoryczne zmiany w rocznym dokumencie programowym przyjmuje się w drodze tej samej procedury co procedura stosowana do przyjęcia pierwotnego rocznego dokumentu programowego. Zarząd może przekazać dyrektorowi uprawnienia do dokonywania niemerytorycznych zmian w rocznym dokumencie programowym.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Wieloletni dokument programowy określa ogólne programowanie strategiczne, w tym cele, oczekiwane wyniki i wskaźniki skuteczności. Określa on również programowanie zasobów, w tym budżetu wieloletniego i personelu. Programowanie zasobów aktualizuje się co roku. Programowanie strategiczne uaktualniane jest w miarę potrzeb, w szczególności celem uwzględnienia wyników oceny, o której mowa w art. 48.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Jednolity dokument programowy Urzędu BEREC obejmuje wdrażanie strategii BEREC dotyczącej stosunków z właściwymi organami i jednostkami organizacyjnymi Unii, z unijnymi grupami doradczymi, z właściwymi organami państw trzecich i z organizacjami międzynarodowymi, o których mowa w art. 35 ust. 3, działania związane z tą strategią oraz wyszczególnienie przeznaczonych na to zasobów.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_24",
+   "kind": "article",
+   "number": "24",
+   "label": "Artykuł 24",
+   "title": "Ustanowienie budżetu",
+   "path": [
+    "ROZDZIAŁ VII — BUDŻET I PROGRAMOWANIE URZĘDU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Co roku dyrektor sporządza wstępny projekt preliminarza dochodów i wydatków Urzędu BEREC (zwany dalej „projektem preliminarza”) na następny rok budżetowy, w tym plan zatrudnienia, i przedkłada go Zarządowi. Informacje zawarte w projekcie preliminarza muszą być spójne z projektem jednolitego dokumentu programowego, o którym mowa w art. 23 ust. 1, muszą być spójne.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Dyrektor przedkłada Komisji projekt preliminarza do dnia 31 stycznia każdego roku.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Komisja przedkłada projekt preliminarza władzy budżetowej wraz z projektem budżetu ogólnego Unii.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Na podstawie projektu preliminarza, Komisja wprowadza do projektu budżetu ogólnego Unii szacunki, które uważa za niezbędne do celów planu zatrudnienia, oraz kwotę wkładu, która ma obciążyć budżet ogólny, i przedstawia je władzy budżetowej zgodnie z art. 313 i 314 Traktatu o funkcjonowaniu Unii Europejskiej (zwanego dalej „TFUE”).",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Władza budżetowa zatwierdza środki przewidziane na wkład dla Urzędu BEREC.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Władza budżetowa przyjmuje plan zatrudnienia Urzędu BEREC.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Zarząd przyjmuje budżet Urzędu BEREC. Budżet staje się ostateczny po ostatecznym przyjęciu budżetu ogólnego Unii. W razie potrzeby budżet jest odpowiednio dostosowywany.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. W przypadku przedsięwzięcia z zakresu nieruchomości, które może mieć znaczny wpływ na budżet Urzędu BEREC, stosuje się rozporządzenie delegowane (UE) nr 1271/2013.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_25",
+   "kind": "article",
+   "number": "25",
+   "label": "Artykuł 25",
+   "title": "Struktura budżetu",
+   "path": [
+    "ROZDZIAŁ VII — BUDŻET I PROGRAMOWANIE URZĘDU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Preliminarz wszystkich dochodów i wydatków Urzędu BEREC jest przygotowywany na każdy rok budżetowy, który odpowiada rokowi kalendarzowemu, i jest wykazywany w budżecie Urzędu BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Budżet Urzędu BEREC musi być zrównoważony pod względem dochodów i wydatków.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Bez uszczerbku dla innych zasobów dochody Urzędu BEREC obejmują: a) wkład Unii; b) wszelkie dobrowolne wkłady finansowe państw członkowskich lub krajowych organów regulacyjnych; c) opłaty za publikacje i wszelkie inne usługi świadczone przez Urząd BEREC; d) wszelkie wkłady państw trzecich lub organów regulacyjnych właściwych w dziedzinie łączności elektronicznej z państw trzecich uczestniczących w pracach Urzędu BEREC, zgodnie z art. 35.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Wydatki Urzędu BEREC obejmują wynagrodzenia personelu, koszty administracyjne, koszty infrastruktury oraz koszty operacyjne.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_26",
+   "kind": "article",
+   "number": "26",
+   "label": "Artykuł 26",
+   "title": "Wykonanie budżetu",
+   "path": [
+    "ROZDZIAŁ VII — BUDŻET I PROGRAMOWANIE URZĘDU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Za wykonanie budżetu Urzędu BEREC odpowiada dyrektor.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Co roku dyrektor przedkłada Parlamentowi Europejskiemu i Radzie wszystkie informacje istotne z punktu widzenia wyników procedur oceny.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_27",
+   "kind": "article",
+   "number": "27",
+   "label": "Artykuł 27",
+   "title": "Roczne skonsolidowane sprawozdanie z działalności",
+   "path": [
+    "ROZDZIAŁ VII — BUDŻET I PROGRAMOWANIE URZĘDU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Zarząd przyjmuje roczne skonsolidowane sprawozdania z działalności zgodnie z art. 47 rozporządzenia delegowanego (UE) nr 1271/2013, z uwzględnieniem wytycznych określonych przez Komisję.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_28",
+   "kind": "article",
+   "number": "28",
+   "label": "Artykuł 28",
+   "title": "Prezentacja sprawozdania finansowego i absolutorium",
+   "path": [
+    "ROZDZIAŁ VII — BUDŻET I PROGRAMOWANIE URZĘDU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Księgowy Urzędu BEREC przedkłada wstępne sprawozdanie finansowe za dany rok budżetowy księgowemu Komisji oraz Trybunałowi Obrachunkowemu do dnia 1 marca następnego roku budżetowego.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Urząd BEREC przedkłada sprawozdanie dotyczące zarządzania budżetem i finansami Parlamentowi Europejskiemu, Radzie i Trybunałowi Obrachunkowemu do dnia 31 marca następnego roku budżetowego.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Po otrzymaniu uwag Trybunału Obrachunkowego na temat wstępnego sprawozdania finansowego Urzędu BEREC księgowy Urzędu BEREC sporządza na własną odpowiedzialność ostateczne sprawozdanie finansowe Urzędu BEREC. Dyrektor przedkłada ostateczne sprawozdanie finansowe Zarządowi do zaopiniowania.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Zarząd wydaje opinię w sprawie ostatecznego sprawozdania finansowego Urzędu BEREC.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Dyrektor przedkłada ostateczne sprawozdanie finansowe wraz z opinią Zarządu Parlamentowi Europejskiemu, Radzie, Komisji i Trybunałowi Obrachunkowemu do dnia 1 lipca następującego po zakończeniu każdego roku budżetowego.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Urząd BEREC publikuje ostateczne sprawozdanie finansowe w Dzienniku Urzędowym Unii Europejskiej do dnia 15 listopada następnego roku.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Dyrektor przedkłada Trybunałowi Obrachunkowemu odpowiedź na jego uwagi do dnia 30 września następującego roku budżetowego. Dyrektor przedkłada tę odpowiedź także Zarządowi.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Na wniosek Parlamentu Europejskiego dyrektor przedkłada mu wszelkie informacje niezbędne do sprawnego zastosowania procedury udzielania absolutorium za dany rok budżetowy, zgodnie z art. 165 ust. 3 rozporządzenia Parlamentu Europejskiego i Rady (UE, Euratom) 2018/1046.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Przed dniem 15 maja roku N + 2 Parlament Europejski, na zalecenie Rady stanowiącej większością kwalifikowaną, udziela dyrektorowi absolutorium z wykonania budżetu za rok N.",
+     "para": "9",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_29",
+   "kind": "article",
+   "number": "29",
+   "label": "Artykuł 29",
+   "title": "Regulamin finansowy",
+   "path": [
+    "ROZDZIAŁ VII — BUDŻET I PROGRAMOWANIE URZĘDU BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Po zasięgnięciu opinii Komisji Zarząd przyjmuje regulamin finansowy mający zastosowanie do Urzędu BEREC. Regulamin finansowy nie może odbiegać od rozporządzenia delegowanego (UE) nr 1271/2013, chyba że takie odstępstwo jest konieczne do celów działalności Urzędu BEREC i uzyskano uprzednią zgodę Komisji.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_30",
+   "kind": "article",
+   "number": "30",
+   "label": "Artykuł 30",
+   "title": "Przepisy ogólne",
+   "path": [
+    "ROZDZIAŁ VIII — PERSONEL Urzędu BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Do personelu Urzędu BEREC stosuje się regulamin pracowniczy i warunki zatrudnienia innych pracowników oraz przepisy uzgodnione przez instytucje Unii w celu nadania skuteczności regulaminowi pracowniczemu i warunkom zatrudnienia innych pracowników.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_31",
+   "kind": "article",
+   "number": "31",
+   "label": "Artykuł 31",
+   "title": "Liczba członków personelu Urzędu BEREC",
+   "path": [
+    "ROZDZIAŁ VIII — PERSONEL Urzędu BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Zgodnie z zasadą zadaniowego zarządzania zasobami ludzkimi Urząd BEREC, dysponuje personelem niezbędnym do wykonywania swoich obowiązków.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Liczbę członków personelu i odpowiednie zasoby finansowe proponuje się zgodnie z art. 23 ust. 2 i 4 oraz art. 24 ust. 1, przy uwzględnieniu art. 5 lit. a) i wszystkich innych zadań przydzielonych Urzędowi BEREC na mocy niniejszego rozporządzenia lub innych aktów prawnych Unii, a także uwzględniając potrzebę przestrzegania przepisów mających zastosowanie do wszystkich zdecentralizowanych agencji Unii.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_32",
+   "kind": "article",
+   "number": "32",
+   "label": "Artykuł 32",
+   "title": "Powołanie dyrektora",
+   "path": [
+    "ROZDZIAŁ VIII — PERSONEL Urzędu BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Dyrektora zatrudnia się jako członka personelu Urzędu BEREC zatrudnionego na czas określony zgodnie z art. 2 lit. a) warunków zatrudnienia innych pracowników.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Dyrektor jest powoływany przez Zarząd w drodze otwartej i przejrzystej procedury selekcji na podstawie kompetencji, umiejętności menedżerskich, administracyjnych i budżetowych oraz umiejętności i doświadczenia związanych z sieciami i usługami łączności elektronicznej. Lista kandydatów nie może być proponowana wyłącznie przez przewodniczącego lub wiceprzewodniczącego. W regulaminie wewnętrznym Zarządu określa się szczegółowo ustalenia dotyczące procedury wyboru listy kwalifikujących się kandydatów i procedury głosowania.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Do celów zawarcia umowy z dyrektorem Urząd BEREC jest reprezentowany przez przewodniczącego Zarządu.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Przed powołaniem kandydat wybrany przez Zarząd jest wzywany przed właściwą komisję Parlamentu Europejskiego, aby udzielić odpowiedzi na pytania członków tej komisji.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Kadencja dyrektora trwa pięć lat. Przed upływem tego okresu przewodniczący Zarządu przeprowadza ocenę, w której uwzględnia się wyniki ewaluacji pracy dyrektora oraz zadania i wyzwania stojące przed Urzędem BEREC. Ocenę tę przedkłada się Parlamentowi Europejskiemu i Radzie.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Zarząd, uwzględniając ocenę, o której mowa w ust. 5, może przedłużyć kadencję dyrektora jeden raz, na okres nie dłuższy niż pięć lat.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Zarząd powiadamia Parlament Europejski, jeżeli zamierza przedłużyć kadencję dyrektora. W terminie jednego miesiąca przed takim przedłużeniem dyrektor może zostać wezwany do złożenia oświadczenia przed właściwą komisją Parlamentu Europejskiego i do udzielenia odpowiedzi na pytania członków tej komisji.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Dyrektor, którego kadencja została przedłużona, nie może uczestniczyć w kolejnej procedurze selekcji na to samo stanowisko po zakończeniu łącznego okresu jego kadencji.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. W przypadku nieprzedłużenia kadencji, dyrektor, na mocy decyzji Zarządu, pełni dalej swoją funkcję po upływie kadencji do czasu powołania następcy.",
+     "para": "9",
+     "point": ""
+    },
+    {
+     "text": "10. Dyrektor może zostać odwołany ze stanowiska jedynie na mocy decyzji Zarządu działającego na wniosek jednego z jego członków.",
+     "para": "10",
+     "point": ""
+    },
+    {
+     "text": "11. Zarząd podejmuje decyzje w sprawie powołania, przedłużenia kadencji lub odwołania ze stanowiska dyrektora większością dwóch trzecich głosów swoich członków.",
+     "para": "11",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_33",
+   "kind": "article",
+   "number": "33",
+   "label": "Artykuł 33",
+   "title": "Oddelegowani eksperci krajowi i inni członkowie personelu",
+   "path": [
+    "ROZDZIAŁ VIII — PERSONEL Urzędu BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Urząd BEREC może korzystać z pomocy oddelegowanych ekspertów krajowych lub innych członków personelu niezatrudnionych przez Urząd BEREC. Regulamin pracowniczy i warunki zatrudnienia innych pracowników nie mają zastosowania do takich pracowników.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Zarząd przyjmuje decyzję określającą zasady oddelegowania ekspertów krajowych do Urzędu BEREC.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_34",
+   "kind": "article",
+   "number": "34",
+   "label": "Artykuł 34",
+   "title": "Przywileje i immunitety",
+   "path": [
+    "ROZDZIAŁ IX — PRZEPISY OGÓLNE"
+   ],
+   "blocks": [
+    {
+     "text": "Do Urzędu BEREC i jego personelu stosuje się Protokół w sprawie przywilejów i immunitetów Unii Europejskiej.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_35",
+   "kind": "article",
+   "number": "35",
+   "label": "Artykuł 35",
+   "title": "Współpraca z organami Unii, państwami trzecimi i organizacjami międzynarodowymi",
+   "path": [
+    "ROZDZIAŁ IX — PRZEPISY OGÓLNE"
+   ],
+   "blocks": [
+    {
+     "text": "1. W zakresie, w jakim jest to konieczne do osiągnięcia celów określonych w niniejszym rozporządzeniu i do wykonywania swoich zadań, oraz bez uszczerbku dla kompetencji państw członkowskich i instytucji Unii, BEREC i Urząd BEREC mogą współpracować z właściwymi organami i jednostkami organizacyjnymi Unii, z unijnymi grupami doradczymi, z właściwymi organami państw trzecich i z organizacjami międzynarodowymi. Za uprzednią zgodą Komisji BEREC i Urząd BEREC mogą w tym celu przyjmować porozumienia robocze. Porozumienia te nie nakładają żadnych zobowiązań prawnych.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Rada Organów Regulacyjnych, grupy robocze i Zarząd są otwarte na udział organów regulacyjnych państw trzecich, które ponoszą główną odpowiedzialność za kwestie łączności elektronicznej, o ile te państwa trzecie zawarły w tym celu odpowiednie umowy z Unią. Na podstawie odpowiednich postanowień tych umów opracowuje się porozumienia robocze dotyczące w szczególności charakteru, zakresu i sposobu, w jaki te organy regulacyjne państw trzecich będą uczestniczyć – bez prawa głosu – w pracach BEREC i Urzędu BEREC, zawierające postanowienia dotyczące udziału w inicjatywach BEREC, oraz wkładów finansowych i personelu Urzędu BEREC. W odniesieniu do spraw pracowniczych porozumienia te muszą być w każdym przypadku zgodne z regulaminem pracowniczym.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. W ramach rocznego programu prac, o którym mowa w art. 21, Rada Organów Regulacyjnych przyjmuje strategię BEREC dotyczącą stosunków z właściwymi organami i jednostkami organizacyjnymi Unii, z unijnymi grupami doradczymi, z właściwymi organami państw trzecich i z organizacjami międzynarodowymi w sprawach należących do kompetencji BEREC. Komisja, BEREC i Urząd BEREC zawierają odpowiednie porozumienia robocze mające na celu zapewnienie, by BEREC i Urząd BEREC działały w granicach swojego mandatu i istniejących ram instytucjonalnych.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_36",
+   "kind": "article",
+   "number": "36",
+   "label": "Artykuł 36",
+   "title": "Dostęp do dokumentów i ochrona danych",
+   "path": [
+    "ROZDZIAŁ IX — PRZEPISY OGÓLNE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Do dokumentów będących w posiadaniu BEREC i Urzędu BEREC stosuje się rozporządzenie Parlamentu Europejskiego i Rady (WE) nr 1049/2001.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Rada Organów Regulacyjnych i Zarząd przyjmują do dnia 21 czerwca 2019 r. szczegółowe zasady stosowania rozporządzenia (WE) nr 1049/2001.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Przetwarzanie danych osobowych przez BEREC i Urząd BEREC podlega rozporządzeniu (UE) 2018/1725.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Rada Organów Regulacyjnych i Zarząd wprowadzają do dnia 21 czerwca 2019 r. środki dotyczące stosowania przez BEREC i Urząd BEREC rozporządzenia (UE) 2018/1725, w tym środki dotyczące powołania inspektora ochrony danych Urzędu BEREC. Środki te ustanawia się po konsultacji z Europejskim Inspektorem Ochrony Danych.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_37",
+   "kind": "article",
+   "number": "37",
+   "label": "Artykuł 37",
+   "title": "Przejrzystość i przekazywanie informacji",
+   "path": [
+    "ROZDZIAŁ IX — PRZEPISY OGÓLNE"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC i Urząd BEREC wykonują swoje działania z zachowaniem wysokiego stopnia przejrzystości. BEREC i Urząd BEREC zapewniają, aby społeczeństwo i wszelkie zainteresowane strony otrzymywały odpowiednie, obiektywne, rzetelne i łatwo dostępne informacje, w szczególności w odniesieniu do zadań BEREC i Urzędu BEREC oraz wyników ich prac.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC, wspierany przez Urząd BEREC, może uczestniczyć z własnej inicjatywy w działaniach komunikacyjnych w obszarze swoich kompetencji, zgodnie z odpowiednimi planami komunikacji i rozpowszechniania informacji przyjętymi przez Radę Organów Regulacyjnych. Przydział zasobów na takie wsparcie na rzecz działań komunikacyjnych w ramach budżetu Urzędu BEREC nie może niekorzystnie wpływać na skuteczne wykonywanie zadań BEREC, o których mowa w art. 4 lub zadań Urzędu BEREC, o których mowa w art. 5. Działania komunikacyjne Urzędu BEREC prowadzone są zgodnie z odpowiednimi planami komunikacji i rozpowszechniania informacji przyjętymi przez Zarząd.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_38",
+   "kind": "article",
+   "number": "38",
+   "label": "Artykuł 38",
+   "title": "Poufność",
+   "path": [
+    "ROZDZIAŁ IX — PRZEPISY OGÓLNE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Bez uszczerbku dla art. 36 ust. 1 i art. 40 ust. 2, BEREC i Urząd BEREC nie ujawniają osobom trzecim przetwarzanych lub otrzymywanych informacji, w odniesieniu do których zgłoszono uzasadniony wniosek o zachowanie poufności części lub całości tych informacji.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Członkowie i inni uczestnicy posiedzeń Rady Organów Regulacyjnych, Zarządu i grup roboczych, dyrektor, oddelegowani eksperci krajowi oraz inni członkowie personelu niezatrudnieni przez Urząd BEREC muszą przestrzegać, również po zakończeniu pełnienia obowiązków, wymogów poufności określonych w art. 339 TFUE.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Rada Organów Regulacyjnych i Zarząd określają praktyczne rozwiązania w zakresie wdrożenia zasad poufności, o których mowa w ust. 1 i 2.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_39",
+   "kind": "article",
+   "number": "39",
+   "label": "Artykuł 39",
+   "title": "Przepisy bezpieczeństwa dotyczące ochrony informacji niejawnych oraz szczególnie chronionych informacji jawnych",
+   "path": [
+    "ROZDZIAŁ IX — PRZEPISY OGÓLNE"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC i Urząd BEREC przyjmują własne przepisy bezpieczeństwa równoważne z przepisami bezpieczeństwa Komisji dotyczącymi ochrony informacji niejawnych Unii Europejskiej oraz szczególnie chronionych informacji jawnych, w tym przepisy dotyczące wymiany, przetwarzania i przechowywania takich informacji zgodnie z decyzjami Komisji (UE, Euratom) nr 2015/443 i (UE, Euratom) nr 2015/444. Zamiast takich przepisów BEREC lub Urząd BEREC mogą przyjąć decyzję o odpowiednim stosowaniu przepisów Komisji.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_40",
+   "kind": "article",
+   "number": "40",
+   "label": "Artykuł 40",
+   "title": "Wymiana informacji",
+   "path": [
+    "ROZDZIAŁ IX — PRZEPISY OGÓLNE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Na uzasadniony wniosek BEREC lub Urzędu BEREC Komisja i krajowe organy regulacyjne reprezentowane w Radzie Organów Regulacyjnych, i inne właściwe organy terminowo i rzetelnie przekazują BEREC lub Urzędowi BEREC wszelkie informacje niezbędne do wykonywania ich zadań, pod warunkiem że posiadają one na mocy prawa dostęp do odpowiednich informacji oraz że wniosek o przekazanie informacji jest niezbędny, biorąc pod uwagę charakter danego zadania. BEREC lub Urząd BEREC mogą także żądać udzielania takich informacji w regularnych odstępach czasu i w określonych formatach. W miarę możliwości takie wnioski o przekazanie informacji składa się z wykorzystaniem wspólnych formatów sprawozdawczych.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Na uzasadniony wniosek Komisji lub krajowego organu regulacyjnego BEREC lub Urząd BEREC terminowo i rzetelnie przekazują wszelkie informacje niezbędne do umożliwienia Komisji, krajowemu organowi regulacyjnemu lub innemu właściwemu organowi wykonywania ich zadań, zgodnie z zasadą lojalnej współpracy. Jeżeli BEREC lub Urząd BEREC uznają określone informacje za poufne, Komisja, krajowy organ regulacyjny lub inny właściwy organ zapewniają taką poufność zgodnie z prawem Unii i prawem krajowym, w tym rozporządzeniem (WE) nr 1049/2001. Tajemnica przedsiębiorstwa nie może uniemożliwiać terminowej wymiany informacji.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Przed zwróceniem się z wnioskiem o przekazanie informacji zgodnie z niniejszym artykułem oraz w celu uniknięcia powielania obowiązków sprawozdawczych BEREC lub Urząd BEREC uwzględniają wszelkie odpowiednie istniejące informacje, które są dostępne publicznie.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Jeżeli informacje nie są terminowo udostępniane przez krajowe organy regulacyjne, BEREC lub Urząd BEREC mogą wystąpić z uzasadnionym wnioskiem do innych krajowych organów regulacyjnych i innych właściwych organów zainteresowanego państwa członkowskiego albo bezpośrednio do odpowiednich przedsiębiorstw udostępniających sieci i świadczących usługi łączności elektronicznej oraz udostępniających urządzenia towarzyszące w łączności elektronicznej. BEREC lub Urząd BEREC powiadamiają krajowe organy regulacyjne, które nie przekazały informacji, o wnioskach złożonych na podstawie akapitu pierwszego. Na wniosek BEREC lub Urzędu BEREC krajowe organy regulacyjne wspomagają BEREC w pozyskiwaniu informacji.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Państwa członkowskie zapewniają, aby krajowe organy regulacyjne i inne właściwe organy były uprawnione do wymagania od innych odpowiedzialnych organów krajowych lub przedsiębiorstw udostępniających sieci i świadczących usługi łączności elektronicznej, udostępniających urządzenia towarzyszące w łączności elektronicznej lub świadczących usługi powiązane przekazywania wszystkich informacji niezbędnych do wykonywania ich zadań, o których mowa w niniejszym artykule. Inne odpowiedzialne organy krajowe lub przedsiębiorstwa, o których mowa w akapicie pierwszym, przekazują takie informacje niezwłocznie na wniosek i zgodnie z wymaganymi terminami i poziomem szczegółowości. Państwa członkowskie zapewniają, aby krajowe organy regulacyjne i inne właściwe organy były uprawnione do egzekwowania takich wniosków o informacje poprzez nakładanie odpowiednich, skutecznych, proporcjonalnych i odstraszających sankcji.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_41",
+   "kind": "article",
+   "number": "41",
+   "label": "Artykuł 41",
+   "title": "System informacyjno-komunikacyjny",
+   "path": [
+    "ROZDZIAŁ IX — PRZEPISY OGÓLNE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Urząd BEREC tworzy system informacyjno-komunikacyjny i zarządza nim; system ten ma co najmniej następujące funkcje: a) wspólna platforma wymiany informacji, dostarczająca BEREC, Komisji i krajowym organom regulacyjnym niezbędnych informacji do celów spójnego wdrażania unijnych ram regulacyjnych łączności elektronicznej; b) specjalny interfejs dla wniosków o informacje i powiadomień o tych wnioskach, o czym mowa w art. 40, dostępny dla BEREC, Urzędu BEREC, Komisji oraz krajowych organów regulacyjnych; c) platforma służąca wczesnemu identyfikowaniu potrzeb w zakresie koordynacji między krajowymi organami regulacyjnymi.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Zarząd przyjmuje specyfikacje techniczne i funkcjonalne w celu utworzenia systemu informacyjno-komunikacyjnego, o którym mowa w ust. 1. Ten system podlega prawom własności intelektualnej i musi zapewniać wymagany poziomi poufności.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. System informacyjno-komunikacyjny rozpocznie funkcjonowanie do dnia 21 czerwca 2020 r.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_42",
+   "kind": "article",
+   "number": "42",
+   "label": "Artykuł 42",
+   "title": "Deklaracja interesów",
+   "path": [
+    "ROZDZIAŁ IX — PRZEPISY OGÓLNE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Członkowie Rady Organów Regulacyjnych i Zarządu, dyrektor, oddelegowani eksperci krajowi i inni członkowie personelu niezatrudnieni przez Urząd BEREC składają swoją pisemną deklarację o ich zobowiązaniach oraz o braku lub istnieniu bezpośrednich lub pośrednich interesów, które mogłyby zostać uznane za wpływające na ich niezależność. Takie deklaracje składane są z chwilą podjęcia obowiązków, muszą być dokładne i kompletne oraz muszą być aktualizowane w przypadku ryzyka zaistnienia jakichkolwiek bezpośrednich lub pośrednich interesów, które mogłyby zostać uznane za wpływające na niezależność osoby składającej deklarację. Deklaracje złożone przez członków Rady Organów Regulacyjnych, członków Zarządu i dyrektora podaje się do wiadomości publicznej.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Członkowie Rady Organów Regulacyjnych, Zarządu i grup roboczych oraz inni uczestnicy ich posiedzeń, dyrektor, oddelegowani eksperci krajowi i inni członkowie personelu niezatrudnieni przez Urząd BEREC w sposób dokładny i kompletny, najpóźniej na początku każdego posiedzenia, składają deklarację o wszelkich interesach związanych z punktami porządku obrad, które to interesy mogłyby zostać uznane za wpływające na ich niezależność, oraz wstrzymują się od udziału w dyskusji i głosowaniu nad takimi punktami.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Rada Organów Regulacyjnych i Zarząd ustanawiają zasady dotyczące zapobiegania konfliktom interesów i zarządzania nimi oraz określające w szczególności praktyczne rozwiązania dotyczące stosowania ust. 1 i 2.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_43",
+   "kind": "article",
+   "number": "43",
+   "label": "Artykuł 43",
+   "title": "Zwalczanie nadużyć finansowych",
+   "path": [
+    "ROZDZIAŁ IX — PRZEPISY OGÓLNE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Aby ułatwić zwalczanie nadużyć finansowych, korupcji i innych nielegalnych działań na podstawie rozporządzenia Parlamentu Europejskiego i Rady (UE, Euratom) nr 883/2013, do dnia 21 czerwca 2019 r. Urząd BEREC przystępuje do Porozumienia międzyinstytucjonalnego z dnia 25 maja 1999 r. między Parlamentem Europejskim, Radą Unii Europejskiej i Komisją Wspólnot Europejskich dotyczącego dochodzeń wewnętrznych prowadzonych przez Europejski Urząd ds. Zwalczania Nadużyć Finansowych (OLAF) i przyjmuje odpowiednie przepisy obowiązujące wszystkich członków personelu Urzędu BEREC, wykorzystując model zawarty w załączniku do tego porozumienia.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Trybunał Obrachunkowy jest uprawniony do przeprowadzania audytów, na podstawie dokumentacji i inspekcji na miejscu, wobec wszystkich beneficjentów dotacji, wykonawców i podwykonawców, którzy otrzymali od Urzędu BEREC unijne środki finansowe.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. OLAF może przeprowadzać dochodzenia, w tym kontrole i inspekcje na miejscu, zgodnie z przepisami i procedurami określonymi w rozporządzeniu (UE, Euratom) nr 883/2013 oraz rozporządzeniu Rady (Euratom, WE) nr 2185/96 w celu ustalenia, czy miały miejsce nadużycie finansowe, korupcja lub jakiekolwiek inne nielegalne działanie naruszające interesy finansowe Unii, w związku z umową o udzielenie dotacji lub decyzją w sprawie udzielenia dotacji lub zamówieniem finansowanym przez Urząd BEREC.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Nie naruszając przepisów ust. 1, 2 i 3, umowy o współpracy z państwami trzecimi i organizacjami międzynarodowymi, zamówienia, umowy o udzielenie dotacji i decyzje w sprawie udzielenia dotacji muszą zawierać przepisy wyraźnie uprawniające Trybunał Obrachunkowy i OLAF do przeprowadzania tego rodzaju audytów i dochodzeń zgodnie z ich odpowiednimi kompetencjami.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_44",
+   "kind": "article",
+   "number": "44",
+   "label": "Artykuł 44",
+   "title": "Odpowiedzialność",
+   "path": [
+    "ROZDZIAŁ IX — PRZEPISY OGÓLNE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Odpowiedzialność umowna Urzędu BEREC podlega prawu właściwemu dla danej umowy.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Trybunał Sprawiedliwości Unii Europejskiej (zwany dalej „Trybunałem Sprawiedliwości”) jest właściwy do wydawania wyroków na podstawie wszelkich klauzul arbitrażowych zamieszczonych w umowach zawartych przez Urząd BEREC.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. W przypadku odpowiedzialności pozaumownej Urząd BEREC, zgodnie z ogólnymi zasadami wspólnymi dla porządków prawnych państw członkowskich, naprawia wszelkie szkody spowodowane przez swoje jednostki organizacyjne lub przez członków swojego personelu w trakcie pełnienia przez nich obowiązków.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Trybunał Sprawiedliwości jest właściwy do orzekania w sporach dotyczących odszkodowania za szkody, o których mowa w ust. 3.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Odpowiedzialność osobistą członków personelu Urzędu BEREC wobec Urzędu BEREC regulują mające do nich zastosowanie przepisy regulaminu pracowniczego lub warunków zatrudnienia innych pracowników.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_45",
+   "kind": "article",
+   "number": "45",
+   "label": "Artykuł 45",
+   "title": "Dochodzenia administracyjne",
+   "path": [
+    "ROZDZIAŁ IX — PRZEPISY OGÓLNE"
+   ],
+   "blocks": [
+    {
+     "text": "Działania BEREC i Urzędu BEREC podlegają dochodzeniom prowadzonym przez Europejskiego Rzecznika Praw Obywatelskich zgodnie z art. 228 TFUE.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_46",
+   "kind": "article",
+   "number": "46",
+   "label": "Artykuł 46",
+   "title": "Ustalenia językowe",
+   "path": [
+    "ROZDZIAŁ IX — PRZEPISY OGÓLNE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Do Urzędu BEREC stosuje się rozporządzenie nr 1.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Usługi tłumaczeniowe niezbędne do funkcjonowania Urzędu BEREC świadczy Centrum Tłumaczeń dla Organów Unii Europejskiej.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_47",
+   "kind": "article",
+   "number": "47",
+   "label": "Artykuł 47",
+   "title": "Umowa w sprawie siedziby i warunki funkcjonowania",
+   "path": [
+    "ROZDZIAŁ X — PRZEPISY KOŃCOWE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Uzgodnienia dotyczące obiektów, które mają zostać przekazane Urzędowi BEREC w państwie przyjmującym, oraz infrastruktury, która ma być udostępniona Urzędowi BEREC przez to państwo członkowskie, jak również przepisy szczegółowe mające zastosowanie w przyjmującym państwie członkowskim do dyrektora, członków Zarządu, członków personelu Urzędu BEREC i członków ich rodzin określa się w umowie w sprawie siedziby między Urzędem BEREC a przyjmującym państwem członkowskim, zawartej po uzyskaniu zgody Zarządu, nie później niż do dnia 21 grudnia 2020 r.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Przyjmujące państwo członkowskie zapewnia warunki niezbędne do umożliwienia sprawnego i wydajnego funkcjonowania Urzędu BEREC, w tym wielojęzyczne placówki szkolne o orientacji europejskiej oraz odpowiednie połączenia transportowe.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_48",
+   "kind": "article",
+   "number": "48",
+   "label": "Artykuł 48",
+   "title": "Ocena",
+   "path": [
+    "ROZDZIAŁ X — PRZEPISY KOŃCOWE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Do dnia 21 grudnia 2023 r., a następnie co pięć lat, Komisja przeprowadza zgodnie ze swoimi wytycznymi ocenę wyników działalności BEREC i Urzędu BEREC w odniesieniu do ich celów, mandatu, zadań i siedziby. W ocenie tej uwzględnia się w szczególności ewentualne potrzeby dokonania zmian struktury lub mandatu BEREC i Urzędu BEREC oraz skutki finansowe takich zmian.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Jeżeli Komisja uzna, że kontynuacja działalności BEREC lub Urzędu BEREC nie jest już uzasadniona w świetle przypisanych im celów, mandatu i zadań, może zaproponować, w zależności od przypadku, zmianę lub uchylenie niniejszego rozporządzenia.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Komisja składa Parlamentowi Europejskiemu, Radzie i Zarządowi sprawozdanie z wyników swojej oceny i podaje te wyniki do wiadomości publicznej.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_49",
+   "kind": "article",
+   "number": "49",
+   "label": "Artykuł 49",
+   "title": "Przepisy przejściowe",
+   "path": [
+    "ROZDZIAŁ X — PRZEPISY KOŃCOWE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Urząd BEREC jest następcą prawnym Urzędu ustanowionego rozporządzeniem (WE) nr 1211/2009 w odniesieniu do wszystkich praw własności, umów, obowiązków prawnych, umów o pracę, zobowiązań finansowych i odpowiedzialności. W szczególności niniejsze rozporządzenie nie wpływa na prawa i obowiązki członków personelu Urzędu. Umowy tych członków personelu mogą zostać odnowione na podstawie niniejszego rozporządzenia zgodnie z regulaminem pracowniczym i warunkami zatrudnienia innych pracowników oraz w ramach ograniczeń budżetowych Urzędu BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Ze skutkiem od dnia 20 grudnia 2018 r. dyrektor zarządzający powołany na podstawie rozporządzenia (WE) nr 1211/2009 pełni obowiązki dyrektora w zakresie funkcji przewidzianych w niniejszym rozporządzeniu. Pozostałe warunki umowy dyrektora zarządzającego pozostają niezmienione.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Zarząd może zdecydować o odnowieniu kadencji dyrektora, o którym mowa w ust. 2 niniejszego artykułu, o kolejną kadencję. Art. 32 ust. 5 i 6 stosuje się odpowiednio. Kadencja dyrektora nie może trwać dłużej niż łącznie 10 lat.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Do czasu powołania nowych przedstawicieli Rada Organów Regulacyjnych i Zarząd, o których mowa w art. 7 i 15 niniejszego rozporządzenia, składają się z członków Rady Organów Regulacyjnych i komitetu zarządzającego, o których mowa w art. 4 i 7 rozporządzenia (WE) nr 1211/2009.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Przewodniczący i wiceprzewodniczący Rady Organów Regulacyjnych i komitetu zarządzającego, którzy zostali powołani na podstawie rozporządzenia (WE) nr 1211/2009, pozostają na stanowisku jako przewodniczący i wiceprzewodniczący Rady Organów Regulacyjnych, o których mowa w art. 10 niniejszego rozporządzenia, oraz jako przewodniczący i wiceprzewodniczący Zarządu, o których mowa w art. 17 niniejszego rozporządzenia do końca swojej rocznej kadencji. Powołania przewodniczących i wiceprzewodniczących Rady Organów Regulacyjnych oraz komitetu zarządzającego dokonane na podstawie rozporządzenia (WE) nr 1211/2009 przed dniem 20 grudnia 2018 r., w przypadku których okres kadencji upływa po tej dacie, pozostają w mocy.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Procedurę udzielania absolutorium w odniesieniu do budżetu zatwierdzonego na podstawie art. 11 rozporządzenia (WE) nr 1211/2009 przeprowadza się zgodnie z zasadami ustanowionymi w tym rozporządzeniu.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_50",
+   "kind": "article",
+   "number": "50",
+   "label": "Artykuł 50",
+   "title": "Zmiany w rozporządzeniu (UE) 2015/2120",
+   "path": [
+    "ROZDZIAŁ X — PRZEPISY KOŃCOWE"
+   ],
+   "blocks": [
+    {
+     "text": "W rozporządzeniu (UE) 2015/2120 wprowadza się następujące zmiany:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "1) tytuł otrzymuje brzmienie: „Rozporządzenie Parlamentu Europejskiego i Rady (UE) 2015/2120 z dnia 25 listopada 2015 r. ustanawiające środki dotyczące dostępu do otwartego internetu i dotyczące opłat detalicznych za regulowane usługi łączności wewnątrzunijnej oraz zmieniające dyrektywę 2002/22/WE, a także rozporządzenie (UE) nr 531/2012”;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "2) w art. 1 dodaje się ustęp w brzmieniu: „3. Niniejsze rozporządzenie określa również wspólne zasady w celu zapewnienia, aby konsumenci nie byli obciążani wygórowanymi opłatami za korzystanie z usług łączności interpersonalnej wykorzystujących numery inicjowanych w państwie członkowskim krajowego dostawcy konsumenta i zakańczanych na jakimkolwiek stacjonarnym lub ruchomym numerze w innym państwie członkowskim.”;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "3) w art. 2 akapit drugi dodaje się punkty w brzmieniu: „3) »regulowana usługa łączności wewnątrzunijnej« oznacza usługę łączności interpersonalnej wykorzystującą numery zainicjowaną w państwie członkowskim krajowego dostawcy konsumenta i zakończoną na jakimkolwiek stacjonarnym lub ruchomym numerze z krajowego planu numeracji innego państwa członkowskiego, za którą naliczana jest, w całości lub w części, opłata oparta o rzeczywiste wykorzystanie; 4) »usługa łączności interpersonalnej wykorzystująca numery« oznacza usługę łączności interpersonalnej wykorzystującą numery zdefiniowaną w art. 2 pkt 6 dyrektywy Parlamentu Europejskiego i Rady (UE) 2018/1972. (*1) Dyrektywa Parlamentu Europejskiego i Rady (UE) 2018/1972 z dnia 11 grudnia 2018 r. ustanawiająca Europejski kodeks łączności elektronicznej (Dz.U. L 321 z 17.12.2018, s. 36).”;\"",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "4) dodaje się następujący artykuł: „Artykuł 5a Opłaty detaliczne za regulowane usługi łączności wewnątrzunijnej 1. Od dnia 15 maja 2019 r. cena detaliczna (bez podatku VAT) pobierana od konsumentów za regulowane usługi łączności wewnątrzunijnej nie może przekraczać 0,19 EUR za minutę połączenia i 0,06 EUR za wiadomość SMS. 2. Niezależnie od obowiązków określonych w ust. 1 dostawcy regulowanych usług łączności wewnątrzunijnej mogą ponadto oferować – a konsumenci mogą wybrać w sposób jednoznaczny– taryfę za usługi łączności międzynarodowej, w tym regulowane usługi łączności wewnątrzunijnej, inną niż taryfa ustalona zgodnie z ust. 1, dzięki czemu konsumenci korzystają z taryfy za regulowane usługi łączności wewnątrzunijnej innej niż taryfa, którą zostaliby objęci w przypadku niedokonania takiego wyboru. Zanim konsumenci wybiorą taką inną taryfę, dostawca regulowanych usług łączności wewnątrzunijnej informuje ich o charakterze korzyści, które w ten sposób utracą. 3. W przypadku gdy taryfa za regulowane usługi łączności wewnątrzunijnej, o której mowa w ust. 2 przekracza limity określone w ust. 1, konsumentom, którzy w okresie dwóch miesięcy od dnia 15 maja 2019 r. nie potwierdzili ani nie zadeklarowali wyboru żadnej taryfy, o której mowa w ust. 2, automatycznie przydziela się taryfy określone w ust. 1. 4. Konsumenci mogą bezpłatnie przenosić się lub powracać do taryfy określonej w ust. 1 w ciągu jednego dnia roboczego od przyjęcia wniosku przez dostawcę, a dostawcy zapewniają, aby takie przeniesienie nie pociągało za sobą ustanowienia warunków ani ograniczeń dotyczących elementów abonamentu innych niż regulowane usługi łączności wewnątrzunijnej. 5. W przypadku gdy ceny maksymalne, o których mowa w ust. 1 są wyrażone w walutach innych niż euro, początkowe limity są przeliczane na te waluty przy zastosowaniu średniej referencyjnych kursów wymiany opublikowanych w dniach 15 stycznia, 15 lutego i 15 marca 2019 r. przez Europejski Bank Centralny w Dzienniku Urzędowym Unii Europejskiej. Limity w walutach innych niż euro są aktualizowane corocznie od 2020 r. Corocznie aktualizowane limity w tych walutach obowiązują od dnia 15 maja przy zastosowaniu średniej referencyjnych kursów wymiany opublikowanych w dniach 15 stycznia, 15 lutego i 15 marca tego samego roku. 6. Krajowe organy regulacyjne monitorują rynek i zmiany cen regulowanych usług łączności wewnątrzunijnej i składają Komisji sprawozdanie na ten temat. W przypadku gdy dostawca regulowanych usług łączności wewnątrzunijnej ustali, że w związku ze szczególnymi i wyjątkowymi okolicznościami wyróżniającymi go spośród większości innych unijnych dostawców stosowanie limitu, o którym mowa w ust. 1, miałoby istotny wpływ na jego zdolność do utrzymania jego dotychczasowych cen krajowych usług łączności, krajowy organ regulacyjny może na wniosek tego dostawcy przyznać odstępstwo od ust. 1 – wyłącznie w niezbędnym zakresie i na odnawialny okres jednego roku. Ocena zrównoważonego charakteru modelu opłat krajowych opiera się na odpowiednich obiektywnych czynnikach właściwych dla danego dostawcy regulowanych usług łączności wewnątrzunijnej, a także na poziomie krajowych cen i dochodów. W przypadku gdy wnioskujący dostawca przedstawi wymagane dowody, krajowy organ regulacyjny ustala maksymalny poziom cen przekraczający jeden lub oba limity określone w ust. 1, który byłby konieczny do utrzymania zrównoważonego charakteru modelu opłat krajowych danego dostawcy. BEREC publikuje wytyczne dotyczące parametrów, które krajowe organy regulacyjne muszą uwzględnić w swoich ocenach.”;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "5) w art. 6 dodaje się akapit w brzmieniu: „Państwa członkowskie przyjmują przepisy dotyczące sankcji mających zastosowanie w przypadku naruszenia art. 5a oraz podejmują wszelkie działania niezbędne do zapewnienia ich wdrożenia. Przewidziane sankcje muszą być skuteczne, proporcjonalne i odstraszające. Państwa członkowskie powiadamiają Komisję o przepisach i działaniach przyjętych w celu zapewnienia wdrożenia art. 5a do dnia 15 maja 2019 r. oraz niezwłocznie powiadamiają Komisję o wszelkich późniejszych zmianach, które maja na nie wpływ.”;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "6) w art. 10 dodaje się następujący ustęp: „5. Art. 5a traci moc z dniem 14 maja 2024 r.”.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_51",
+   "kind": "article",
+   "number": "51",
+   "label": "Artykuł 51",
+   "title": "Uchylenie",
+   "path": [
+    "ROZDZIAŁ X — PRZEPISY KOŃCOWE"
+   ],
+   "blocks": [
+    {
+     "text": "Rozporządzenie (WE) nr 1211/2009 traci moc.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Odesłania do uchylonego rozporządzenia traktuje się jako odesłania do niniejszego rozporządzenia, zgodnie z tabelą korelacji znajdującą się w załączniku.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_52",
+   "kind": "article",
+   "number": "52",
+   "label": "Artykuł 52",
+   "title": "Wejście w życie",
+   "path": [
+    "ROZDZIAŁ X — PRZEPISY KOŃCOWE"
+   ],
+   "blocks": [
+    {
+     "text": "Niniejsze rozporządzenie wchodzi w życie trzeciego dnia po jego opublikowaniu w Dzienniku Urzędowym Unii Europejskiej.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "anx_1",
+   "kind": "annex",
+   "number": "1",
+   "label": "ZAŁĄCZNIK",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Tabela korelacji",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Rozporządzenie (WE) nr 1211/2009 Niniejsze rozporządzenie art. 1 ust. 1 art. 1 art. 1 ust. 2 art. 3 ust. 1 art. 1 ust. 3 art. 3 ust. 2 i 3 art. 1 ust. 4 art. 3 ust. 4 oraz art. 4 ust. 1 lit. a) i b) art. 2 art. 4 art. 3 art. 4 art. 4 ust. 1 art. 6 art. 4 ust. 2 art. 7 ust. 1, 2 i 4 oraz art. 8 ust. 1 i 2 art. 4 ust. 3 art. 11 ust. 4 i 5 oraz art. 36 art. 4 ust. 4 art. 10 ust. 1, 2 i 3 art. 4 ust. 4 art. 10 ust. 4 art. 4 ust. 6 art. 11 art. 4 ust. 7 art. 13 art. 4 ust. 8 art. 7 ust. 4 art. 4 ust. 9 art. 12 ust. 1 i 2 art. 4 ust. 10 art. 12 ust. 3 art. 4 ust. 11 art. 5 art. 5 art. 4 art. 6 ust. 1 art. 2 ust. 1 art. 6 ust. 2 art. 5 art. 6 ust. 3 art. 14 art. 6 ust. 4 art. 2 ust. 2 art. 6 ust. 5 art. 20 oraz 31 art. 7 ust. 1 art. 15 ust. 1 art. 7 ust. 2 art. 32 art. 7 ust. 3 art. 20 ust. 6 art. 7 ust. 4 art. 16 ust. 1 lit. k) art. 7 ust. 5 art. 13 art. 8 art. 32 art. 9 art. 20 art. 10 ust. 1 art. 30 oraz 34 art. 10 ust. 2 art. 16 ust. 1 lit. j) art. 10 ust. 3 art. 16 ust. 2 art. 10 ust. 4 art. 33 art. 11 art. 25 art. 12 art. 24 art. 13 art. 26 art. 14 — art. 15 art. 29 art. 16 art. 43 art. 17 art. 4 ust. 5 art. 18 art. 37 art. 19 art. 39 oraz 40 art. 20 art. 38 art. 21 art. 42 art. 22 art. 36 art. 23 art. 34 art. 24 art. 44 art. 25 art. 48 art. 26 art. 52",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  }
+ ]
+}

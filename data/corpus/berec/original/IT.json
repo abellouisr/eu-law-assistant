@@ -1,0 +1,2822 @@
+{
+ "document": "berec",
+ "version": "original",
+ "lang": "IT",
+ "meta": {
+  "source": "eurlex",
+  "celex": "32018R1971",
+  "kind": "original",
+  "date": "2018-12-11",
+  "built_at": "2026-10-07T10:10:18+00:00",
+  "sources_sha256": {
+   "32018R1971": "22f28906a253ca0eac36cc2dbded015294df5230084071105cf6966dcef8c9b3"
+  },
+  "counts": {
+   "article": 52,
+   "recital": 53,
+   "annex": 1
+  }
+ },
+ "provisions": [
+  {
+   "id": "rct_1",
+   "kind": "recital",
+   "number": "1",
+   "label": "(1)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "La direttiva (UE) 2018/1972 del Parlamento europeo e del Consiglio persegue l’obiettivo di creare un mercato interno delle comunicazioni elettroniche all’interno dell’Unione, garantendo al contempo un elevato livello di investimenti, innovazione e tutela dei consumatori attraverso una concorrenza più intensa. Tale direttiva, inoltre, attribuisce all’Organismo dei regolatori europei delle comunicazioni elettroniche («BEREC») una serie di nuovi compiti, come la formulazione di orientamenti in vari ambiti, la redazione di relazioni su aspetti tecnici, la compilazione di registri, elenchi e banche dati e l’emissione di pareri su procedure relative al mercato interno per progetti di misure nazionali di regolamentazione del mercato.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_2",
+   "kind": "recital",
+   "number": "2",
+   "label": "(2)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il regolamento (UE) n. 531/2012 del Parlamento europeo e del Consiglio integra e supporta, per il roaming all’interno dell’Unione, le disposizioni dettate dal quadro normativo per le comunicazioni elettroniche e stabilisce taluni compiti del BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_3",
+   "kind": "recital",
+   "number": "3",
+   "label": "(3)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il regolamento (UE) 2015/2120 del Parlamento europeo e del Consiglio stabilisce ulteriori compiti per il BEREC in materia di accesso aperto a Internet. Inoltre, gli orientamenti del BEREC del 30 agosto 2016 sull’attuazione da parte dei regolatori nazionali delle norme europee sulla neutralità della rete sono stati accolti con favore in quanto forniscono preziosi chiarimenti per garantire una rete Internet solida, libera e aperta attraverso l’applicazione coerente delle norme a tutela del trattamento equo e non discriminatorio del traffico nella fornitura di servizi di accesso a Internet e dei relativi diritti degli utenti finali.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_4",
+   "kind": "recital",
+   "number": "4",
+   "label": "(4)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Tenendo conto della necessità di garantire lo sviluppo di una prassi regolamentare coerente nonché l’applicazione coerente del quadro normativo dell’Unione per le comunicazioni elettroniche, la Commissione ha istituito, con decisione 2002/627/CE della Commissione, il gruppo dei regolatori europei per le reti e i servizi di comunicazione elettronica, incaricato di fornire consulenza e assistenza alla Commissione nel consolidamento del mercato interno per le reti e i servizi di comunicazione elettronica e, più in generale, di fungere da interfaccia tra le autorità nazionali di regolamentazione (ANR) e la Commissione.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_5",
+   "kind": "recital",
+   "number": "5",
+   "label": "(5)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il BEREC e l’Ufficio sono stati istituiti dal regolamento (CE) n. 1211/2009 del Parlamento europeo e del Consiglio. Il BEREC ha sostituito il gruppo dei regolatori europei e doveva contribuire, da una parte, allo sviluppo e, dall’altra, al miglior funzionamento del mercato interno delle reti e dei servizi di comunicazioni elettroniche, mirando ad assicurare un’attuazione coerente del quadro normativo per le comunicazioni elettroniche. Il BEREC agisce come forum per la cooperazione tra le ANR e tra queste ultime e la Commissione, nell’esercizio di tutte le loro responsabilità nell’ambito del quadro normativo dell’Unione. Il BEREC è stato istituito per fornire competenze e agire in modo indipendente e trasparente.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_6",
+   "kind": "recital",
+   "number": "6",
+   "label": "(6)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il BEREC fungeva anche da organismo di riflessione, dibattito e consulenza per il Parlamento europeo, il Consiglio e la Commissione nel settore delle comunicazioni elettroniche.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_7",
+   "kind": "recital",
+   "number": "7",
+   "label": "(7)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "L’Ufficio era stato istituito come organismo comunitario dotato di personalità giuridica per svolgere i compiti di cui al regolamento (CE) n. 1211/2009 e, in particolare, per fornire servizi di sostegno professionale e amministrativo al BEREC. Per poter fornire al BEREC un supporto efficiente, l’Ufficio era stato dotato di autonomia giuridica, amministrativa e finanziaria.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_8",
+   "kind": "recital",
+   "number": "8",
+   "label": "(8)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Con la decisione 2010/349/UE, i rappresentanti dei governi degli Stati membri hanno stabilito che l’Ufficio ha sede a Riga. L’accordo sulla sede concluso tra il governo della Repubblica di Lettonia e l’Ufficio è entrato in vigore il 5 agosto 2011.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_9",
+   "kind": "recital",
+   "number": "9",
+   "label": "(9)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Nella comunicazione del 6 maggio 2015, intitolata «Strategia per il mercato unico digitale in Europa», la Commissione ha previsto la presentazione, nell’arco del 2016, di una serie di proposte per riformare in modo radicale il quadro normativo per le comunicazioni elettroniche. Le proposte si incentravano, fra l’altro, sulla realizzazione di un quadro normativo istituzionale più efficace al fine di rendere le norme in materia di comunicazioni elettroniche adeguate agli scopi che si prefiggono nell’ambito del processo volto a creare le condizioni necessarie per il mercato unico digitale. Tali condizioni consistono, tra l’altro, nella realizzazione di reti di capacità molto elevata, in una gestione più coordinata dello spettro radio per le reti senza fili e nella creazione di una situazione di parità per le reti digitali e i servizi innovativi. Detta comunicazione sottolineava che l’evoluzione tecnologica e del mercato rende necessario rafforzare il quadro istituzionale mediante il consolidamento del ruolo del BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_10",
+   "kind": "recital",
+   "number": "10",
+   "label": "(10)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Nella risoluzione del 19 gennaio 2016 dal titolo «Verso un atto per il mercato unico digitale», il Parlamento europeo ha invitato la Commissione a una maggiore integrazione del mercato unico digitale mediante la creazione di un quadro istituzionale più efficiente.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_11",
+   "kind": "recital",
+   "number": "11",
+   "label": "(11)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il BEREC e l’Ufficio hanno apportato un contributo positivo all’attuazione coerente del quadro normativo per le comunicazioni elettroniche. Tuttavia, vi sono ancora notevoli differenze tra gli Stati membri per quanto riguarda le pratiche di regolamentazione, che si ripercuotono sulle imprese che svolgono attività transfrontaliere o che sono attive in un numero significativo di Stati membri, anche ove esistono orientamenti del BEREC, che però potrebbero essere ulteriormente sviluppati. Al fine di contribuire ulteriormente allo sviluppo del mercato interno delle comunicazioni elettroniche in tutta l’Unione, alla promozione dell’accesso e alla diffusione di reti di capacità molto elevata, alla concorrenza nella fornitura di reti, servizi e strutture associate di comunicazione elettronica e agli interessi dei cittadini dell’Unione, il presente regolamento mira a potenziare il ruolo del BEREC. Tale ruolo potenziato sarebbe complementare al ruolo rafforzato svolto dal BEREC a norma del regolamento (UE) n. 531/2012, del regolamento (UE) 2015/2120 e della direttiva (UE) 2018/1972.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_12",
+   "kind": "recital",
+   "number": "12",
+   "label": "(12)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Alla luce degli sviluppi tecnologici e del mercato, che spesso implicano una crescente dimensione transfrontaliera, e dell’esperienza maturata finora nel cercare di garantire l’attuazione coerente nel settore delle comunicazioni elettroniche, è necessario basarsi sulle attività del BEREC e dell’Ufficio. La loro governance e le loro attività dovrebbero essere snelle e adatte ai compiti che sono chiamati a svolgere. Tenendo conto delle procedure stabilite e dei nuovi compiti attribuiti al BEREC e all’Ufficio e al fine di rafforzarne l’efficacia, è opportuno prevedere ulteriore stabilità per la loro struttura di gestione e semplificare il processo decisionale.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_13",
+   "kind": "recital",
+   "number": "13",
+   "label": "(13)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il BEREC dovrebbe fornire competenze e instaurare la fiducia grazie alla propria indipendenza, alla qualità delle sue consulenze e informazioni, alla trasparenza delle procedure e dei metodi operativi, come pure alla diligenza nell’esecuzione dei suoi compiti. L’indipendenza del BEREC non dovrebbe impedire al suo comitato dei regolatori di deliberare sulla base di progetti predisposti da gruppi di lavoro.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_14",
+   "kind": "recital",
+   "number": "14",
+   "label": "(14)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il nuovo nome ufficiale dell’Ufficio dovrebbe essere «Agenzia di sostegno al BEREC»(«Ufficio BEREC»). È opportuno utilizzare la dizione «Ufficio BEREC» come forma breve dell’Agenzia. L’Ufficio BEREC dovrebbe godere di autonomia giuridica, amministrativa e finanziaria. A tal fine è necessario e opportuno che l’Ufficio BEREC sia un organismo dell’Unione dotato di personalità giuridica che eserciti i poteri che gli sono conferiti. In quanto agenzia decentrata dell’Unione, l’Ufficio BEREC dovrebbe operare nell’ambito del suo mandato e del quadro istituzionale vigente. Non dovrebbe essere considerato come un organo che rappresenta una posizione dell’Unione nei confronti dell’esterno né come un organo che vincola l’Unione a obblighi giuridici.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_15",
+   "kind": "recital",
+   "number": "15",
+   "label": "(15)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Inoltre, ove opportuno, le norme sulla governance e il funzionamento dell’Ufficio BEREC dovrebbero essere allineate sui principi della dichiarazione congiunta del Parlamento europeo, del Consiglio e della Commissione europea sulle agenzie decentrate, del 19 luglio 2012.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_16",
+   "kind": "recital",
+   "number": "16",
+   "label": "(16)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Le istituzioni dell’Unione e le ANR dovrebbero beneficiare dell’assistenza e consulenza del BEREC, anche per quanto riguarda l’impatto normativo di qualunque questione relativa alle dinamiche complessive dei mercati digitali o i rapporti, le discussioni, gli scambi e la diffusione delle migliori pratiche di regolamentazione tra esse e parti terze. Oltre al suo contributo alla consultazione pubblica della Commissione, il BEREC, su richiesta, dovrebbe fornire consulenza alla Commissione nell’elaborazione delle proposte legislative. Il BEREC dovrebbe anche poter fornire consulenza al Parlamento europeo e al Consiglio, su loro richiesta o di propria iniziativa.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_17",
+   "kind": "recital",
+   "number": "17",
+   "label": "(17)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il BEREC, in quanto organismo tecnico con competenze in materia di comunicazioni elettroniche, composto di rappresentanti delle ANR e della Commissione, è particolarmente indicato per ottenere il conferimento di compiti come contribuire all’efficienza delle procedure relative al mercato interno per progetti di misure nazionali per quanto riguarda la regolamentazione del mercato, per fornire i necessari orientamenti alle ANR e ad altre autorità competenti pertinenti al fine di garantire criteri comuni e un approccio normativo coerente e per tenere alcuni registri, banche dati ed elenchi a livello dell’Unione. Ciò non pregiudica i compiti stabiliti per le ANR che sono le autorità più vicine ai mercati delle comunicazioni elettroniche e ai contesti locali.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_18",
+   "kind": "recital",
+   "number": "18",
+   "label": "(18)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Per svolgere i suoi compiti il BEREC dovrebbe continuare a mettere in comune le competenze delle ANR. Il BEREC dovrebbe puntare a garantire la partecipazione di tutte le ANR nell’espletamento dei suoi compiti normativi e nel suo funzionamento. Allo scopo di rafforzare il BEREC, di renderlo più rappresentativo e di tutelarne le competenze, l’esperienza e le conoscenze relative alla situazione specifica nell’intera gamma di mercati nazionali, ogni Stato membro dovrebbe provvedere a che la rispettiva ANR disponga delle risorse finanziarie e umane necessarie per partecipare integralmente alle attività del BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_19",
+   "kind": "recital",
+   "number": "19",
+   "label": "(19)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Alla luce della crescente convergenza tra i settori che forniscono servizi di comunicazione elettronica e la dimensione orizzontale delle questioni normative connesse al loro sviluppo, il BEREC e l’Ufficio BEREC dovrebbero poter cooperare, senza pregiudicarne il rispettivo ruolo, con le ANR, altri organi, organismi e gruppi consultivi dell’Unione, in particolare il gruppo «Politica dello spettro radio», istituito dalla decisione 2002/622/CE della Commissione, il garante europeo della protezione dei dati, istituito dal regolamento (UE) 2018/1725 del Parlamento europeo e del Consiglio, il Comitato europeo per la protezione dei dati, istituito dal regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, il gruppo dei regolatori europei per i servizi di media audiovisivi, istituito dalla direttiva 2010/13/UE del Parlamento europeo e del Consiglio, l’agenzia dell’Unione europea per la sicurezza delle reti e dell’informazione, istituita dal regolamento (UE) n. 526/2013 del Parlamento europeo e del Consiglio, l’Agenzia del GNSS europeo, istituita dal regolamento (UE) n. 912/2010 del Parlamento europeo e del Consiglio, la rete di cooperazione per la tutela dei consumatori, istituita a norma del regolamento (CE) n. 2006/2004 del Parlamento europeo e del Consiglio, la Rete europea della concorrenza e le organizzazioni europee di normazione, nonché con i comitati esistenti (quali il comitato per le comunicazioni e il comitato dello spettro radio). Il BEREC e l’Ufficio BEREC dovrebbero anche poter cooperare con le autorità competenti degli Stati membri responsabili in materia di concorrenza, tutela dei consumatori e protezione dei dati, nonché con le autorità competenti di paesi terzi, in particolare con le autorità di regolamentazione competenti in materia di comunicazioni elettroniche e/o con gruppi di tali autorità, nonché con le organizzazioni internazionali, quando ciò si rende necessario per lo svolgimento dei loro compiti. Il BEREC dovrebbe altresì poter consultare le parti interessate per mezzo di consultazioni pubbliche.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_20",
+   "kind": "recital",
+   "number": "20",
+   "label": "(20)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il BEREC dovrebbe essere autorizzato a stabilire accordi di lavoro con gli organi, gli organismi e i gruppi consultivi competenti dell’Unione, con le autorità competenti dei paesi terzi e con le organizzazioni internazionali, i quali non dovrebbero creare obblighi giuridici. Obiettivo di tali accordi di lavoro potrebbe essere, ad esempio, lo sviluppo di rapporti di collaborazione e lo scambio di opinioni su questioni normative. La Commissione dovrebbe garantire che gli accordi di lavoro necessari siano coerenti con le politiche e le priorità dell’Unione e che il BEREC operi nell’ambito del suo mandato e del quadro istituzionale vigente e non sia considerato come un organismo che rappresenta la posizione dell’Unione nei confronti dell’esterno né come un organismo che vincola l’Unione ad obblighi internazionali.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_21",
+   "kind": "recital",
+   "number": "21",
+   "label": "(21)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il BEREC dovrebbe essere composto del comitato dei regolatori e dei gruppi di lavoro. La presidenza a rotazione del comitato dei regolatori è volta a garantire la continuità dei lavori del BEREC. È inoltre promossa una rotazione dei ruoli di vicepresidente in rappresentanza delle varie ANR.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_22",
+   "kind": "recital",
+   "number": "22",
+   "label": "(22)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il BEREC dovrebbe poter agire nell’interesse dell’Unione, senza subire alcun intervento esterno, né pressioni politiche o interferenze commerciali. È pertanto importante garantire che le persone nominate nel comitato dei regolatori godano delle massime garanzie di indipendenza personale e funzionale. Il responsabile di un’ANR, un membro del suo collegio o un loro sostituto godono di tale livello di indipendenza personale e funzionale. Più specificamente, essi dovrebbero agire con indipendenza e obiettività, non dovrebbero sollecitare né accettare istruzioni nell’esercizio delle loro funzioni e dovrebbero essere protetti in caso di revoca arbitraria. La funzione di supplente nel consiglio di amministrazione potrebbe essere svolta anche dal direttore dell’ANR, da un membro del suo collegio, da un loro sostituto o da un altro membro del personale dell’ANR, che agisce a nome e conformemente al mandato del membro sostituito del comitato dei regolatori.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_23",
+   "kind": "recital",
+   "number": "23",
+   "label": "(23)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "L’esperienza ha dimostrato che la maggior parte dei compiti del BEREC è meglio effettuata mediante gruppi di lavoro, che dovrebbero sempre garantire pari considerazione delle opinioni e dei contributi di tutte le ANR. Pertanto, il comitato dei regolatori dovrebbe essere incaricato della costituzione di gruppi di lavoro e della nomina dei loro presidenti. Le ANR dovrebbero reagire rapidamente a una richiesta di nomina al fine di garantire la costituzione rapida di determinati gruppi di lavoro, in particolare quelli connessi a procedure soggette a tempi ristretti. La partecipazione ai gruppi di lavoro dovrebbe essere aperta a esperti della Commissione. Il personale dell’Ufficio BEREC dovrebbe sostenere e contribuire alle attività dei gruppi di lavoro.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_24",
+   "kind": "recital",
+   "number": "24",
+   "label": "(24)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Se necessario, e su base individuale, il comitato dei regolatori e il consiglio di amministrazione dovrebbero poter invitare ogni persona il cui parere possa essere rilevante a partecipare alle loro riunioni in qualità di osservatore.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_25",
+   "kind": "recital",
+   "number": "25",
+   "label": "(25)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ove appropriato, in funzione dell’attribuzione dei compiti alle autorità in ciascuno Stato membro, è opportuno che nel pertinente gruppo di lavoro siano prese in considerazione le opinioni di altre autorità competenti, ad esempio tramite la consultazione a livello nazionale o invitandole alle pertinenti riunioni in cui risulta necessaria la loro competenza. In ogni caso è necessario mantenere l’indipendenza del BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_26",
+   "kind": "recital",
+   "number": "26",
+   "label": "(26)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il comitato dei regolatori e il consiglio di amministrazione dovrebbero operare in parallelo e prendere decisioni, il primo prevalentemente su questioni normative e il secondo su questioni amministrative, quali quelle connesse al bilancio, al personale e agli audit. In linea di principio e in aggiunta ai rappresentanti della Commissione, i rappresentanti delle ANR che siedono nel consiglio di amministrazione, dovrebbero essere le stesse persone che sono nominate nel comitato dei regolatori, ma le ANR dovrebbero poter nominare altri rappresentanti che soddisfino gli stessi requisiti.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_27",
+   "kind": "recital",
+   "number": "27",
+   "label": "(27)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "I poteri di autorità di nomina venivano precedentemente esercitati dal vicepresidente del comitato di gestione dell’Ufficio. Il presente regolamento prevede che il consiglio di amministrazione deleghi i poteri di autorità di nomina al direttore, che è autorizzato a subdelegare tali poteri. Ciò è inteso a contribuire a una gestione efficiente del personale dell’Ufficio BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_28",
+   "kind": "recital",
+   "number": "28",
+   "label": "(28)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il comitato dei regolatori e il consiglio di amministrazione tengono almeno due riunioni ordinarie all’anno. Alla luce dell’esperienza del passato e del rafforzamento del ruolo del BEREC, il comitato dei regolatori o il consiglio di amministrazione possono dover tenere riunioni supplementari.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_29",
+   "kind": "recital",
+   "number": "29",
+   "label": "(29)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il direttore dovrebbe restare il rappresentante dell’Ufficio BEREC per le questioni giuridiche e amministrative. Il consiglio di amministrazione dovrebbe nominare il direttore a seguito di una procedura di selezione aperta e trasparente al fine di garantire una valutazione rigorosa dei candidati e un livello elevato di indipendenza. Il mandato del direttore amministrativo dell’Ufficio era precedentemente di tre anni. È necessario che il direttore disponga di un mandato sufficientemente lungo per garantire stabilità e predisporre una strategia a lungo termine per l’Ufficio BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_30",
+   "kind": "recital",
+   "number": "30",
+   "label": "(30)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "All’Ufficio BEREC dovrebbe applicarsi il regolamento delegato (UE) n. 1271/2013 della Commissione.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_31",
+   "kind": "recital",
+   "number": "31",
+   "label": "(31)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "L’ufficio BEREC dovrebbe fornire tutto il sostegno professionale e amministrativo necessario, anche a livello finanziario, organizzativo e logistico, per le attività del BEREC e dovrebbe contribuire alle attività normative del BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_32",
+   "kind": "recital",
+   "number": "32",
+   "label": "(32)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Al fine di garantire l’autonomia e l’indipendenza dell’Ufficio BEREC e di sostenere le attività del BEREC, l’Ufficio BEREC dovrebbe disporre di una propria dotazione di bilancio, che dovrebbe provenire essenzialmente da un contributo dell’Unione. La dotazione di bilancio dovrebbe essere adeguata e riflettere i compiti aggiuntivi assegnati e il ruolo rafforzato del BEREC e dell’Ufficio BEREC. Il finanziamento dell’Ufficio BEREC dovrebbe essere subordinato a un accordo dell’autorità di bilancio, secondo quanto indicato al punto 31 dell’accordo interistituzionale del 2 dicembre 2013 fra il Parlamento europeo, il Consiglio e la Commissione sulla disciplina di bilancio, sulla cooperazione in materia di bilancio e sulla sana gestione finanziaria.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_33",
+   "kind": "recital",
+   "number": "33",
+   "label": "(33)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "L’Ufficio BEREC dovrebbe disporre di un organico adeguato allo scopo di svolgere i propri compiti. Tutti i compiti assegnati all’Ufficio BEREC, tra cui i servizi professionali e amministrativi di sostegno alle attività di normazione del BEREC, oltre al rispetto dei regolamenti finanziari, del personale e di altro tipo applicabili, e il maggior onere derivante dai compiti operativi richiesti all’Ufficio BEREC rispetto ai compiti amministrativi, dovrebbero essere adeguatamente valutati e presi in considerazione nella programmazione delle risorse.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_34",
+   "kind": "recital",
+   "number": "34",
+   "label": "(34)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Al fine di estendere ulteriormente l’applicazione coerente del quadro normativo per le comunicazioni elettroniche, il comitato dei regolatori, i gruppi di lavoro e il consiglio di amministrazione dovrebbero essere aperti alla partecipazione delle autorità di regolamentazione dei paesi terzi competenti nel settore delle comunicazioni elettroniche ove tali paesi terzi abbiano concluso con l’Unione accordi in tal senso, quali gli Stati EFTA membri del SEE e i paesi candidati.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_35",
+   "kind": "recital",
+   "number": "35",
+   "label": "(35)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Nel rispetto del principio della trasparenza, il BEREC e l’Ufficio BEREC dovrebbero pubblicare sulla loro pagina web, ove pertinente, informazioni concernenti le loro attività. In particolare il BEREC dovrebbe rendere pubblici i documenti definitivi prodotti nell’esecuzione dei suoi compiti, quali pareri, orientamenti, relazioni, raccomandazioni, posizioni comuni e migliori pratiche, nonché gli studi commissionati a sostegno dei propri compiti. Il BEREC e l’Ufficio BEREC dovrebbero anche rendere pubblici gli elenchi aggiornati dei loro compiti e dei membri, supplenti e altri partecipanti alle riunioni dei loro organi organizzativi, e le dichiarazioni d’interessi rese dai membri del comitato dei regolatori, dai membri del consiglio di amministrazione e dal direttore.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_36",
+   "kind": "recital",
+   "number": "36",
+   "label": "(36)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il BEREC, coadiuvato dall’Ufficio BEREC, dovrebbe poter svolgere attività di comunicazione nell’ambito delle sue competenze che non pregiudichino lo svolgimento dei suoi compiti fondamentali. Il contenuto e l’attuazione della strategia di comunicazione del BEREC dovrebbero essere coerenti, oggettivi, pertinenti e coordinati con le strategie e le attività della Commissione e delle altre istituzioni al fine di tener conto dell’immagine generale dell’Unione. Le attività di comunicazione dell’Ufficio BEREC dovrebbero essere effettuate conformemente ai programmi adottati dal consiglio di amministrazione in materia di comunicazione e divulgazione.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_37",
+   "kind": "recital",
+   "number": "37",
+   "label": "(37)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Per svolgere i propri compiti in modo efficace, il BEREC e l’Ufficio BEREC dovrebbero avere il diritto di chiedere alla Commissione, alle ANR e, in ultima istanza, ad altre autorità e imprese, tutte le informazioni necessarie. Le richieste di informazioni dovrebbero essere motivate, proporzionate e non dovrebbero imporre un onere eccessivo agli interpellati. Le ANR dovrebbero collaborare con il BEREC e l’Ufficio BEREC e dovrebbero fornire loro informazioni tempestive e accurate per garantire che il BEREC e l’Ufficio BEREC possano svolgere i loro compiti. Inoltre, il BEREC e l’Ufficio BEREC dovrebbero condividere con la Commissione, le ANR e altre autorità competenti tutte le informazioni necessarie, secondo il principio di leale cooperazione. Ove pertinente, occorre garantire la riservatezza delle informazioni. All’atto di valutare se una richiesta sia debitamente giustificata, il BEREC dovrebbe accertare che l’informazione chiesta sia connessa con lo svolgimento di compiti attribuiti esclusivamente alle autorità competenti.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_38",
+   "kind": "recital",
+   "number": "38",
+   "label": "(38)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "L’Ufficio BEREC dovrebbe istituire un sistema comune di informazione e comunicazione per evitare la duplicazione delle richieste di informazioni e facilitare le comunicazioni tra tutte le autorità coinvolte.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_39",
+   "kind": "recital",
+   "number": "39",
+   "label": "(39)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Al fine di garantire un elevato livello di confidenzialità ed evitare i conflitti di interesse, le norme su tali questioni che si applicano ai membri degli organi organizzativi del BEREC e dell’Ufficio BEREC dovrebbero applicarsi ai loro supplenti.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_40",
+   "kind": "recital",
+   "number": "40",
+   "label": "(40)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Poiché il presente regolamento conferisce nuovi compiti al BEREC e all’Ufficio BEREC e altri atti giuridici dell’Unione potrebbero attribuirgli nuovi compiti, la Commissione dovrebbe eseguire una valutazione regolare del funzionamento del BEREC e dell’Ufficio BEREC e dell’efficacia della loro struttura istituzionale in un contesto digitale in evoluzione. Qualora da tale valutazione deduca che la struttura istituzionale non è adeguata allo svolgimento dei compiti del BEREC e dell’Ufficio BEREC, in particolare a garantire un’attuazione coerente del quadro normativo per le comunicazioni elettroniche, la Commissione dovrebbe valutare tutte le opzioni possibili per migliorare la struttura.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_41",
+   "kind": "recital",
+   "number": "41",
+   "label": "(41)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "L’Ufficio, che è stato istituito come un organismo comunitario dotato di personalità giuridica dal regolamento (CE) n. 1211/2009, è sostituito dall’Ufficio BEREC, istituito dal presente regolamento per quanto riguarda tutti i diritti di proprietà, gli accordi, compreso l’accordo sulla sede, gli obblighi di natura giuridica, i contratti di lavoro, gli impegni finanziari e le passività. L’Ufficio BEREC dovrebbe riassumere i membri del personale dell’Ufficio, senza pregiudizio dei loro diritti e obblighi. Per assicurare la continuità nelle attività del BEREC e dell’Ufficio, è opportuno che i loro rappresentanti, ossia il presidente e i vicepresidenti del comitato dei regolatori, il comitato di gestione e il direttore esecutivo, rimangano in carica fino alla fine del loro mandato.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_42",
+   "kind": "recital",
+   "number": "42",
+   "label": "(42)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Un numero significativo di consumatori nella maggior parte degli Stati membri continua a ricorrere alle comunicazioni internazionali tradizionali, quali chiamate telefoniche e messaggi SMS, nonostante aumenti il numero di consumatori che, per le loro chiamate internazionali, hanno accesso a servizi di comunicazione interpersonale indipendenti dal numero a costi inferiori a quelli dei servizi tradizionali o senza pagamento in denaro.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_43",
+   "kind": "recital",
+   "number": "43",
+   "label": "(43)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Nel 2013 la Commissione ha proposto un regolamento oggetto di una valutazione d’impatto che includeva una disposizione contenente misure di regolamentazione applicabili alle comunicazioni intra-UE. Ulteriori dati sul mercato delle comunicazioni intra-UE sono stati raccolti nel periodo 2017-2018 dal BEREC e dalla Commissione attraverso uno studio della Commissione e dell’Eurobarometro. Come risulta da tali dati, per le comunicazioni sia fisse che mobili continuano a persistere notevoli differenze di prezzo tra le comunicazioni vocali e via SMS nazionali e quelle verso un altro Stato membro, in un contesto di forti variazioni di prezzo tra paesi, fornitori e formule tariffarie, nonché tra le comunicazioni vocali fisse e quelle mobili. Spesso, per le comunicazioni intra-UE, i fornitori di servizi di comunicazione interpersonale basati sul numero accessibili al pubblico addebitano tariffe basate sul consumo di gran lunga superiori a quelle nazionali e fatturano costi aggiuntivi. In media, il prezzo standard di una chiamata intra-UE fissa o mobile tende a essere tre volte più elevato rispetto a quello di una chiamata nazionale e il prezzo standard di un messaggio SMS intra-UE tende a essere oltre due volte più elevato rispetto a quello di un SMS nazionale. Tuttavia, tali medie aritmetiche nascondono differenze significative tra gli Stati membri. In alcuni casi, il prezzo standard di una chiamata intra-UE può essere fino a otto volte più elevato rispetto al prezzo standard delle chiamate nazionali. Di conseguenza, in diversi Stati membri i clienti sono esposti a prezzi molto elevati per le comunicazioni intra-UE. Detti prezzi elevati incidono principalmente sui consumatori, in particolare su quelli che non effettuano frequentemente tali comunicazioni o che realizzano un basso volume di consumo, che rappresentano la grande maggioranza dei consumatori che si avvalgono di comunicazioni intra-UE. Al tempo stesso, vari fornitori propongono offerte speciali particolarmente attraenti per i clienti aziendali e i consumatori che realizzano un consumo di comunicazioni intra-UE elevato. Tali offerte spesso non comportano l’addebito di costi basati sul consumo effettivo e possono consistere in un certo numero di minuti di chiamata o di messaggi SMS intra-UE in cambio di un importo fisso mensile (offerte aggiuntive) o nell’inclusione di un certo numero di minuti di chiamata o di messaggi SMS intra-UE nel pacchetto mensile di minuti di chiamata o di messaggi SMS, senza sovrapprezzo o con un piccolo sovrapprezzo. Tuttavia, le condizioni di tali offerte spesso non sono attraenti per i consumatori i cui volumi di comunicazioni intra-UE sono solo occasionali, imprevedibili o relativamente bassi. Di conseguenza, tali consumatori rischiano di pagare prezzi eccessivi per le comunicazioni intra-UE e dovrebbero essere tutelati.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_44",
+   "kind": "recital",
+   "number": "44",
+   "label": "(44)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Inoltre, prezzi elevati per le comunicazioni intra-UE costituiscono un ostacolo al funzionamento del mercato interno in quanto scoraggiano la ricerca e l’acquisto di beni e servizi da un fornitore situato in un altro Stato membro. Al fine di eliminare tali prezzi elevati, è pertanto necessario stabilire limiti specifici e proporzionati al prezzo che i fornitori di servizi di comunicazione interpersonale basati sul numero accessibili al pubblico possono addebitare ai consumatori per le comunicazioni intra-UE.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_45",
+   "kind": "recital",
+   "number": "45",
+   "label": "(45)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Quando, per le comunicazioni intra-UE, i fornitori di servizi di comunicazione interpersonale basati sul numero accessibili al pubblico addebitano ai consumatori tariffe totalmente o parzialmente basate sul consumo di tali servizi, anche in casi di deduzioni basate sul consumo da un pacchetto mensile o prepagato per detti servizi, tali tariffe non dovrebbero superare 0,19 EUR al minuto per le telefonate e 0,06 EUR per i messaggi SMS. Tali massimali corrispondono ai prezzi massimi al momento attualmente applicati, rispettivamente, alle chiamate e ai messaggi SMS in roaming regolamentati. In caso di roaming nell’Unione, i consumatori sono tutelati dall’eurotariffa per chiamate vocali e dall’eurotariffa per gli SMS che è stata progressivamente sostituita dal roaming a tariffa nazionale. Tali massimali sono considerati anche un adeguato parametro di riferimento per fissare la tariffa massima per le comunicazioni intra-UE regolamentate per un periodo di cinque anni a decorrere dal 15 maggio 2019. L’attuale livello del massimale rappresenta una rete di sicurezza semplice, trasparente e comprovata che tutela da prezzi elevati e si addice quale massimale per i prezzi al dettaglio di tutte le comunicazioni transfrontaliere intra-UE regolamentate. Le chiamate in roaming all’interno dell’Unione e le chiamate intra-UE presentano una struttura dei costi simile.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_46",
+   "kind": "recital",
+   "number": "46",
+   "label": "(46)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "I massimali dovrebbero consentire ai fornitori di servizi di comunicazione interpersonale basati sul numero accessibili al pubblico di recuperare i costi, garantendo in questo modo un intervento proporzionato tanto sul mercato della telefonia fissa quanto su quello della telefonia mobile. I massimali si applicheranno direttamente solo alle tariffe basate sul consumo effettivo e dovrebbero avere un effetto di disciplina anche sulle offerte che includono un certo volume di comunicazioni intra-UE non addebitato separatamente, dal momento che i consumatori hanno la scelta di passare a una tariffa basata sul consumo per le loro comunicazioni intra-UE. I volumi delle comunicazioni intra-UE che vanno al di là di quelli inclusi in un pacchetto e sono addebitati separatamente dovrebbero essere soggetti al massimale. La misura dovrebbe garantire, in modo proporzionato, che i consumatori con un basso livello di consumo di comunicazioni intra-UE siano tutelati contro i prezzi elevati e, al tempo stesso, dovrebbe avere solo un impatto contenuto sui fornitori.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_47",
+   "kind": "recital",
+   "number": "47",
+   "label": "(47)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "I fornitori di servizi di comunicazione interpersonale basati sul numero accessibili al pubblico dovrebbero poter proporre ai consumatori offerte tariffarie alternative per le comunicazioni internazionali, con tariffe diverse per le comunicazioni intra-UE regolamentate, e i consumatori dovrebbero poter optare liberamente ed espressamente per tali offerte e recederne in qualsiasi momento e a titolo gratuito, anche nel caso di offerte che i consumatori hanno sottoscritto prima dell’entrata in vigore di tali disposizioni. Solo le offerte alternative per le comunicazioni internazionali, quali quelle che coprono tutti o alcuni paesi terzi, se accettate da un consumatore, dovrebbero poter liberare un fornitore dall’obbligo di non superare i massimali per le comunicazioni intra-UE regolamentate. Altri vantaggi, quali apparecchiature terminali sovvenzionate o sconti su altri servizi di comunicazione elettronica, offerti dai fornitori ai consumatori rientrano nella normale interazione concorrenziale e non dovrebbero pregiudicare l’applicabilità dei massimali di prezzo per le comunicazioni intra-UE regolamentate.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_48",
+   "kind": "recital",
+   "number": "48",
+   "label": "(48)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Un massimale di prezzo per le comunicazioni intra-UE regolamentate può incidere molto più significativamente su alcuni fornitori di servizi di comunicazione interpersonale basati sul numero accessibili al pubblico, rispetto alla maggior parte degli altri fornitori nell’Unione. Potrebbe trattarsi, in particolare, dei fornitori che generano con le comunicazioni intra-UE una quota particolarmente elevata di entrate o di utili operativi e/o i cui margini nazionali sono ridotti rispetto ai parametri del settore. In conseguenza della compressione dei margini relativamente alle comunicazioni intra-UE regolamentate, un fornitore potrebbe non essere in grado di mantenere la sostenibilità del proprio modello tariffario nazionale. È molto improbabile che tali scenari si verifichino, in quanto i prezzi massimi sono nettamente al di sopra dei costi per la fornitura di comunicazioni intra-UE. Tuttavia, al fine di affrontare in modo proporzionato tali scenari del tutto eccezionali, le ANR dovrebbero poter concedere deroghe su richiesta di tale fornitore in casi giustificati ed eccezionali.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_49",
+   "kind": "recital",
+   "number": "49",
+   "label": "(49)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Le deroghe dovrebbero essere concesse unicamente laddove il fornitore possa dimostrare, sulla base di un pertinente parametro di riferimento stabilito dal BEREC, di subire effetti di molto superiori rispetto alla maggior parte degli altri fornitori nell’Unione e che tali effetti indebolirebbero significativamente la capacità di tale fornitore di mantenere il proprio modello di tariffazione per le comunicazioni nazionali. È opportuno che, qualora l’ANR conceda una deroga, essa determini il livello massimo dei prezzi che il fornitore potrebbe applicare per le comunicazioni intra-UE regolamentate e che gli consentirebbe di mantenere un livello di prezzi competitivo per le comunicazioni nazionali. La deroga dovrebbe essere limitata a un anno ed essere rinnovabile se il fornitore dimostra che le condizioni per una deroga continuano ad essere soddisfatte.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_50",
+   "kind": "recital",
+   "number": "50",
+   "label": "(50)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "In considerazione del principio di proporzionalità, l’applicabilità del massimale di costo per le comunicazioni intra-UE regolamentate dovrebbe essere limitata nel tempo e venire a scadenza cinque anni dopo la sua entrata in vigore. Tale durata limitata dovrebbe consentire di valutare adeguatamente gli effetti delle misure e di valutare in quale misura sussista la necessità di tutelare i consumatori.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_51",
+   "kind": "recital",
+   "number": "51",
+   "label": "(51)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Al fine di assicurare, a livello di Unione, una tutela coerente, tempestiva e quanto più efficace possibile dei consumatori che subiscono gli effetti negativi delle notevoli differenze di prezzo nelle comunicazioni intra-UE, tali disposizioni dovrebbero essere direttamente applicabile e incluse in un regolamento. Il regolamento più adatto a tale scopo è il regolamento (UE) 2015/2120, che è stato adottato a seguito di una valutazione d’impatto che suggeriva, tra l’altro, una disposizione sulle comunicazioni intra-UE quale misura necessaria per completare il mercato interno delle comunicazioni elettroniche. I probabili effetti sulle entrate dei fornitori generate dalla fornitura di comunicazioni intra-UE sono ulteriormente attenuati dall’applicazione dell’eurotariffa di roaming per chiamate vocali e dell’eurotariffa per gli SMS quali massimali per le comunicazioni sia fisse che mobili, che funge da meccanismo di sicurezza, e dagli elementi forniti dal BEREC nell’analisi del 2018 che attestano un notevole calo dei pertinenti volumi di traffico fisso interessati dalla misura nel periodo intermedio. È pertanto opportuno introdurre tali disposizioni quale emendamento al regolamento (UE) 2015/2120, che dovrebbe essere adattato altresì per garantire che gli Stati membri adottino norme relative alle sanzioni applicabili in caso di violazione di tali disposizioni.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_52",
+   "kind": "recital",
+   "number": "52",
+   "label": "(52)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Poiché gli obiettivi del presente regolamento, vale a dire garantire un’attuazione coerente del quadro normativo per le comunicazioni elettroniche, in particolare per quanto riguarda gli aspetti transfrontalieri e mediante procedure efficienti del mercato interno per progetti di misure nazionali, e per garantire che i consumatori non debbano pagare prezzi eccessivi per comunicazioni interpersonali basate sul numero effettuate dallo Stato membro del loro fornitore nazionale verso numeri fissi o mobili in un altro Stato membro, non possono essere conseguiti in misura sufficiente dagli Stati membri, ma, a motivo della portata e degli effetti dell’azione in questione, possono essere conseguiti meglio a livello di Unione, quest’ultima può intervenire in base al principio di sussidiarietà sancito dall’articolo 5 del trattato sull’Unione europea. Il presente regolamento si limita a quanto è necessario per conseguire tali obiettivi in ottemperanza al principio di proporzionalità enunciato nello stesso articolo.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_53",
+   "kind": "recital",
+   "number": "53",
+   "label": "(53)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Il presente regolamento modifica e amplia l’ambito di applicazione del regolamento (CE) n. 1211/2009. Poiché le modifiche da apportare sono sostanziali, è opportuno che, a fini di chiarezza, tale atto sia abrogato. I riferimenti al regolamento abrogato dovrebbero essere intesi come fatti al presente regolamento,",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_1",
+   "kind": "article",
+   "number": "1",
+   "label": "Articolo 1",
+   "title": "Oggetto e ambito di applicazione",
+   "path": [
+    "CAPO 1 — OGGETTO E AMBITO DI APPLICAZIONE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il presente regolamento istituisce l’Organismo dei regolatori europei delle comunicazioni elettroniche («BEREC») e l’Agenzia di sostegno al BEREC («Ufficio BEREC»).",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il BEREC e l’Ufficio BEREC sostituiscono, rispettivamente, l’Organismo dei regolatori europei delle comunicazioni elettroniche e l’Ufficio istituiti dal regolamento (CE) n. 1211/2009 e succedono loro.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_2",
+   "kind": "article",
+   "number": "2",
+   "label": "Articolo 2",
+   "title": "Personalità giuridica dell’Ufficio BEREC",
+   "path": [
+    "CAPO 1 — OGGETTO E AMBITO DI APPLICAZIONE"
+   ],
+   "blocks": [
+    {
+     "text": "1. L’Ufficio BEREC è un organismo dell’Unione dotato di personalità giuridica.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. In ciascuno degli Stati membri, l’Ufficio BEREC ha la più ampia capacità giuridica riconosciuta alle persone giuridiche dal diritto nazionale. Può, in particolare, acquisire o alienare beni mobili e immobili e stare in giudizio.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. L’Ufficio BEREC è rappresentato dal proprio direttore.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. La responsabilità dei compiti che sono assegnati all’Ufficio BEREC e dei poteri che gli sono conferiti ricade esclusivamente su di esso.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. L’Ufficio BEREC ha sede a Riga.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_3",
+   "kind": "article",
+   "number": "3",
+   "label": "Articolo 3",
+   "title": "Obiettivi del BEREC",
+   "path": [
+    "CAPO II — OBIETTIVI E COMPITI DEL BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il BEREC opera nell’ambito dei regolamenti (UE) n. 531/2012 e (UE) 2015/2120 e della direttiva (UE) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il BEREC persegue gli obiettivi indicati all’articolo 3 della direttiva (UE) 2018/1972. In particolare, il BEREC mira a garantire un’attuazione coerente del quadro normativo per le comunicazioni elettroniche nell’ambito di cui al paragrafo 1 del presente articolo.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il BEREC svolge i propri compiti in modo indipendente, imparziale, trasparente e tempestivo.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Il BEREC si avvale dell’esperienza disponibile presso le autorità nazionali di regolamentazione (ANR).",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. A norma dell’articolo 9, paragrafo 3, della direttiva (UE) 2018/1972, ciascuno Stato membro assicura che le proprie ANR possano partecipare integralmente ai lavori degli organi organizzativi del BEREC.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Negli Stati membri in cui più di un’ANR è responsabile ai sensi della direttiva (UE) 2018/1972, le ANR si coordinano in funzione delle necessità.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_4",
+   "kind": "article",
+   "number": "4",
+   "label": "Articolo 4",
+   "title": "Compiti di regolamentazione del BEREC",
+   "path": [
+    "CAPO II — OBIETTIVI E COMPITI DEL BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il BEREC ha i compiti di regolamentazione seguenti:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) assistere e consigliare le ANR, il Parlamento europeo, il Consiglio e la Commissione, e collaborare con le ANR e la Commissione, su loro richiesta o di propria iniziativa, in relazione a qualsiasi questione tecnica relativa alle comunicazioni elettroniche che rientri nelle sue competenze;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) assistere e consigliare la Commissione, su sua richiesta, in relazione all’elaborazione di proposte legislative nel campo delle comunicazioni elettroniche, inclusa qualunque proposta di modifica del presente regolamento o della direttiva (UE) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) formulare pareri ai sensi del regolamento (UE) n. 531/2012 e della direttiva (UE) 2018/1972, in particolare per quanto riguarda: i) la risoluzione di controversie transfrontaliere, ai sensi dell’articolo 27 della direttiva (UE) 2018/1972; ii) progetti di misure nazionali relative alle procedure del mercato interno per la regolamentazione del mercato, ai sensi degli articoli 32, 33 e 68 della direttiva (UE) 2018/1972; iii) progetti di decisioni e raccomandazioni relative all’armonizzazione, ai sensi degli articoli 38 e 93 della direttiva (UE) 2018/1972+; iv) la connettività da punto a punto tra utenti finali, ai sensi dell’articolo 61, paragrafo 2, della direttiva (UE) 2018/1972; v) la determinazione di una tariffa unica massima di terminazione per le chiamate vocali su reti mobili a livello di Unione e di una tariffa unica massima di terminazione per le chiamate vocali su reti fisse a livello di Unione ai sensi dell’articolo 75 della direttiva (UE) 2018/1972; vi) il modello sintetico di contratto, ai sensi dell’articolo 102 della direttiva (UE) 2018/1972; vii) l’attuazione e il funzionamento a livello nazionale dell’autorizzazione generale e il relativo impatto sul funzionamento del mercato interno, ai sensi dell’articolo 122, paragrafo 3, della direttiva (UE) 2018/1972; viii) se del caso, gli sviluppi tecnologici e del mercato riguardo ai diversi tipi di servizi di comunicazione elettronica e il relativo impatto sull’applicazione della parte III, titolo III, della direttiva (UE) 2018/1972, ai sensi dell’articolo 123, paragrafo 1, della stessa direttiva;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) formulare orientamenti sull’attuazione del quadro normativo dell’Unione per le comunicazioni elettroniche, in particolare ai sensi dei regolamenti (UE) n. 531/2012 e (UE) 2015/2120 e della direttiva (UE) 2018/1972, per quanto riguarda: i) il modello di notifica ai sensi dell’articolo 12 della direttiva (UE) 2018/1972; ii) l’attuazione coerente degli obblighi per quanto riguarda la mappatura geografica e le previsioni ai sensi dell’articolo 22 della direttiva (UE) 2018/1972; iii) i criteri pertinenti per promuovere l’applicazione coerente dell’articolo 61, paragrafo 3, della direttiva (UE) 2018/1972; iv) orientamenti comuni per l’identificazione del punto terminale di rete in diverse topologie di rete, ai sensi dell’articolo 61, paragrafo 7, della direttiva (UE) 2018/1972; v) approcci comuni per soddisfare la domanda transnazionale degli utenti finali, ai sensi dell’articolo 66 della direttiva (UE) 2018/1972; vi) i criteri minimi per un’offerta di riferimento, ai sensi dell’articolo 69 della direttiva (UE) 2018/1972; vii) la promozione dell’applicazione coerente da parte delle ANR delle condizioni enunciate all’articolo 76, paragrafo 1, e i criteri enunciati all’allegato IV della direttiva (UE) 2018/1972; viii) i criteri in base ai quali una rete è da considerarsi ad altissima capacità, ai sensi dell’articolo 82 della direttiva (UE) 2018/1972; ix) i criteri comuni per la valutazione della capacità di gestione delle risorse di numerazione e del rischio di esaurimento di tali risorse, ai sensi dell’articolo 93 della direttiva (UE) 2018/1972; x) i pertinenti parametri di qualità del servizio, i metodi di misurazione applicabili, il contenuto e il formato di pubblicazione delle informazioni e i meccanismi di certificazione della qualità, ai sensi dell’articolo 104 della direttiva (UE) 2018/1972; xi) come valutare se i sistemi di allarme pubblico previsti all’articolo 110, paragrafo 2, della direttiva (UE) 2018/1972 siano altrettanto efficaci rispetto a quelli previsti al paragrafo 1 dello stesso articolo; xii) l’accesso all’ingrosso al roaming, ai sensi dell’articolo 3, paragrafo 8, del regolamento (UE) n. 531/2012; xiii) l’attuazione degli obblighi delle ANR per quanto riguarda l’accesso aperto a Internet, ai sensi dell’articolo 5, paragrafo 3, del regolamento (UE) 2015/2120; xiv) i parametri di cui devono tener conto le ANR nel valutare la sostenibilità dei modelli di tariffazione nazionali, ai sensi dell’articolo 5 bis, paragrafo 6, del regolamento (UE) 2015/2120;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) formulare altri orientamenti che garantiscano un’attuazione coerente del quadro normativo per le comunicazioni elettroniche e decisioni normative coerenti da parte delle ANR, di propria iniziativa o su richiesta di un’ANR, del Parlamento europeo, del Consiglio o della Commissione, segnatamente per quanto concerne le questioni normative che interessano un numero significativo di Stati membri o aventi carattere transfrontaliero;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) se del caso, partecipare al forum di valutazione tra pari sul progetto di misure relative alle procedure di selezione, ai sensi dell’articolo 35 della direttiva (UE) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) intervenire su questioni riguardanti le sue competenze in materia di regolamentazione del mercato e di concorrenza in relazione allo spettro radio, ai sensi dell’articolo 4 della direttiva (UE) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) condurre analisi di potenziali mercati transnazionali, ai sensi dell’articolo 65 della direttiva (UE) 2018/1972 e della domanda transnazionale degli utenti finali, ai sensi dell’articolo 66 della stessa direttiva;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) assicurare il monitoraggio e la raccolta di informazioni e, se del caso, garantire al pubblico informazioni aggiornate sull’applicazione del regolamento (UE) n. 531/2012 ai sensi degli articoli 16 e 19 dello stesso regolamento;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) riferire sulle materie tecniche di sua competenza, in particolare: i) sull’applicazione pratica dei pareri e degli orientamenti di cui alle lettere c), d) ed e); ii) sulle migliori pratiche degli Stati membri per sostenere la definizione relativamente alla definizione del servizio di accesso adeguato a Internet a banda larga, ai sensi dell’articolo 84 della direttiva (UE) 2018/1972; iii) sull’evoluzione dei prezzi e dei modelli di consumo per i servizi sia nazionali che di roaming, sull’evoluzione dell’andamento delle tariffe effettive di roaming all’ingrosso per la differenza di traffico, sulla relazione tra i prezzi al dettaglio, le tariffe all’ingrosso e i costi all’ingrosso per i servizi di roaming, nonché sulla trasparenza e la comparabilità delle tariffe, ai sensi dell’articolo 19 del regolamento (UE) n. 531/2012; iv) sui risultati delle relazioni annuali che le ANR presentano ai sensi dell’articolo 5 del regolamento (UE) 2015/2120 pubblicando una relazione annuale di sintesi; v) ogni anno, sugli sviluppi del mercato nel settore delle comunicazioni elettroniche;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) formulare raccomandazioni e posizioni comuni e diffondere le migliori pratiche regolamentari alle ANR al fine di incoraggiare un’attuazione migliore e coerente del quadro normativo per le comunicazioni elettroniche;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) istituire e mantenere una banca dati: i) delle notifiche trasmesse alle autorità competenti dalle imprese soggette ad autorizzazione generale, ai sensi dell’articolo 12 della direttiva (UE) 2018/1972; ii) delle risorse di numerazione con diritto di uso extraterritoriale all’interno dell’Unione, ai sensi dell’articolo 93, paragrafo 4, quarto comma, della direttiva (UE) 2018/1972; iii) se del caso, dei numeri E.164 dei servizi di emergenza degli Stati membri ai sensi dell’articolo 109, paragrafo 8, terzo comma, della direttiva (UE) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) valutare le esigenze di innovazione nell’ambito normativo e coordinare le azioni tra le ANR, al fine di consentire lo sviluppo di nuove comunicazioni elettroniche innovative;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) promuovere la modernizzazione, il coordinamento e la standardizzazione della raccolta di dati da parte delle ANR; tali dati sono messi a disposizione del pubblico in un formato aperto, riutilizzabile e adatto alla lettura automatica sul sito web del BEREC e sul portale europeo dei dati, fatti salvi i diritti di proprietà intellettuale, le norme in materia di protezione dei dati personali e il livello di riservatezza richiesto;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "o) svolgere altri compiti attribuitigli da atti giuridici dell’Unione, in particolare dai regolamenti (CE) n. 531/2012 e (UE) 2015/2120 e dalla direttiva (UE) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il BEREC rende pubblici i suoi compiti di regolamentazione e aggiorna tale informazione quando gli sono assegnati nuovi compiti.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il BEREC rende pubblici tutti i suoi documenti definitivi di pareri, orientamenti, relazioni, raccomandazioni, posizioni comuni e migliori pratiche, nonché gli studi commissionati, come anche i pertinenti progetti di documenti ai fini delle consultazioni pubbliche previste al paragrafo 5.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Fermo restando il rispetto del pertinente diritto dell’Unione, le ANR e la Commissione tengono nel massimo conto gli orientamenti, i pareri, le raccomandazioni, le posizioni comuni e le migliori pratiche adottati dal BEREC al fine di garantire l’applicazione coerente del quadro normativo delle comunicazioni elettroniche nell’ambito di applicazione di cui all’articolo 3, paragrafo 1. L’ANR che si discosti dagli orientamenti di cui al paragrafo 1, lettera e), ne rende note le ragioni.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Ove opportuno, il BEREC consulta le parti interessate e offre loro la possibilità di formulare osservazioni entro un periodo di tempo ragionevole, tenuto conto della complessità della questione. Tale periodo non è inferiore a 30 giorni, salvo circostanze eccezionali. Il BEREC, fatto salvo l’articolo 38, pubblica i risultati di tali consultazioni pubbliche. Dette consultazioni si svolgono il prima possibile nell’ambito del processo decisionale.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Il BEREC può, se del caso, consultare le pertinenti autorità nazionali, come quelle competenti in materia di concorrenza, tutela dei consumatori e protezione dei dati, e cooperare con esse.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Il BEREC, se del caso, può cooperare con gli organi, gli organismi e i gruppi consultivi competenti dell’Unione, oltre che con le autorità competenti di paesi terzi e con organizzazioni internazionali, ai sensi dell’articolo 35, paragrafo 1.",
+     "para": "7",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_5",
+   "kind": "article",
+   "number": "5",
+   "label": "Articolo 5",
+   "title": "Compiti dell’Ufficio BEREC",
+   "path": [
+    "CAPO III — COMPITI DELL’UFFICIO BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "L’Ufficio BEREC svolge i seguenti compiti:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) fornire servizi di sostegno professionale e amministrativo al BEREC, in particolare nell’espletamento dei suoi compiti di regolamentazione ai sensi dell’articolo 4;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) raccogliere informazioni dalle ANR e provvedere allo scambio e alla trasmissione di informazioni in relazione ai compiti di regolamentazione assegnati al BEREC ai sensi dell’articolo 4;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) sulla base delle informazioni di cui alla lettera b), elaborare regolarmente progetti di relazioni su aspetti specifici dell’andamento del mercato europeo delle comunicazioni elettroniche, come relazioni sul roaming e sull’analisi comparativa, da presentare al BEREC;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) diffondere le migliori pratiche regolamentari presso le ANR, ai sensi dell’articolo 4, paragrafo 1, lettera k);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) assistere il BEREC nella creazione e nella tenuta di registri e banche dati, ai sensi dell’articolo 4, paragrafo 1, lettera l);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) assistere il BEREC nella creazione e nella gestione di un sistema di informazione e comunicazione, ai sensi dell’articolo 41;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) assistere il BEREC nello svolgimento di consultazioni pubbliche, ai sensi dell’articolo 4, paragrafo 5;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) assistere nella preparazione dei lavori e fornire altro sostegno amministrativo e relativo ai contenuti per garantire il corretto funzionamento del comitato dei regolatori;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) assistere nella costituzione dei gruppi di lavoro, su richiesta del comitato dei regolatori, contribuire all’attività regolamentare e fornire il supporto amministrativo necessario ad assicurarne il corretto funzionamento;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) svolgere altri compiti attribuitigli dal presente regolamento o da altri atti giuridici dell’Unione.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_6",
+   "kind": "article",
+   "number": "6",
+   "label": "Articolo 6",
+   "title": "Struttura organizzativa del BEREC",
+   "path": [
+    "CAPO IV — ORGANIZZAZIONE DEL BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Il BEREC comprende:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) un comitato dei regolatori;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) gruppi di lavoro.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_7",
+   "kind": "article",
+   "number": "7",
+   "label": "Articolo 7",
+   "title": "Composizione del comitato dei regolatori",
+   "path": [
+    "CAPO IV — ORGANIZZAZIONE DEL BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il comitato dei regolatori è composto da un membro di ogni Stato membro. Ciascun membro ha diritto di voto. Ciascun membro è nominato dall’ANR, che ha il compito principale di sorvegliare il funzionamento quotidiano dei mercati delle reti e dei servizi di comunicazioni elettroniche ai sensi della direttiva (UE) 2018/1972. Il membro è scelto fra il direttore dell’ANR, un membro del suo organo collegiale o il sostituto di uno di essi.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Ciascun membro del comitato dei regolatori ha un supplente, nominato dall’ANR. Il supplente rappresenta il membro in sua assenza. Il supplente è scelto fra il direttore dell’ANR, un membro del suo organo collegiale, un loro sostituto o il personale dell’ANR.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. I membri del comitato dei regolatori e i loro supplenti sono nominati in base alle loro conoscenze in materia di comunicazioni elettroniche, tenendo conto delle pertinenti competenze gestionali, amministrative e di bilancio. Per assicurare la continuità dei lavori del comitato dei regolatori, tutte le ANR che effettuano nomine si sforzano di limitare l’avvicendamento dei rispettivi membri e, se possibile, anche dei loro supplenti e si adoperano per conseguire una rappresentanza equilibrata di uomini e donne.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. La Commissione partecipa a tutte le deliberazioni del comitato dei regolatori senza diritto di voto ed è rappresentata a un livello adeguatamente elevato.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. È reso pubblico un elenco aggiornato dei membri del comitato dei regolatori e dei loro supplenti, unitamente alle loro dichiarazioni di interessi.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_8",
+   "kind": "article",
+   "number": "8",
+   "label": "Articolo 8",
+   "title": "Indipendenza del comitato dei regolatori",
+   "path": [
+    "CAPO IV — ORGANIZZAZIONE DEL BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Nell’assolvimento dei compiti a esso attribuiti e fatta salva la possibilità che i suoi membri agiscano a nome della rispettiva ANR, il comitato dei regolatori agisce in modo indipendente e obiettivo nell’interesse dell’Unione, senza tener conto di particolari interessi nazionali o personali.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Fatto salvo il coordinamento di cui all’articolo 3, paragrafo 6, i membri del comitato dei regolatori e i loro supplenti non sollecitano né accettano istruzioni da governi, istituzioni, persone od organismi.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_9",
+   "kind": "article",
+   "number": "9",
+   "label": "Articolo 9",
+   "title": "Funzioni del comitato dei regolatori",
+   "path": [
+    "CAPO IV — ORGANIZZAZIONE DEL BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il comitato dei regolatori ha le funzioni seguenti:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) espletare i compiti di regolamentazione del BEREC definiti all’articolo 4, in particolare adottare i pareri, gli orientamenti, le relazioni, le raccomandazioni e le posizioni comuni e divulgare le migliori pratiche di cui a tale articolo, facendo a tale scopo affidamento sui lavori preparatori svolti dai gruppi di lavoro;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) adottare le decisioni amministrative inerenti all’organizzazione delle attività del BEREC;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) adottare il programma di lavoro annuale del BEREC di cui all’articolo 21;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) adottare la relazione annuale sulle attività del BEREC di cui all’articolo 22;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) adottare le regole per la prevenzione e la gestione dei conflitti di interesse di cui all’articolo 42, nonché in relazione ai membri dei gruppi di lavoro;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) adottare norme dettagliate sul diritto di accesso ai documenti in possesso del BEREC, a norma dell’articolo 36;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) adottare e aggiornare regolarmente i piani di comunicazione e divulgazione di cui all’articolo 37, paragrafo 2, in base a un’analisi delle esigenze;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) adottare, deliberando a maggioranza di due terzi dei suoi membri, e rendere pubblico il proprio regolamento interno;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) autorizzare, congiuntamente al direttore, la conclusione di accordi di lavoro con gli organi, gli organismi e i gruppi consultivi competenti dell’Unione e con autorità competenti di paesi terzi e con organizzazioni internazionali ai sensi dell’articolo 35;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) istituire i gruppi di lavoro e nominarne i presidenti;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) fornire orientamenti al direttore dell’Ufficio BEREC per quanto riguarda lo svolgimento dei compiti di tale Ufficio.",
+     "para": "1",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_10",
+   "kind": "article",
+   "number": "10",
+   "label": "Articolo 10",
+   "title": "Presidente e vicepresidenti del comitato dei regolatori",
+   "path": [
+    "CAPO IV — ORGANIZZAZIONE DEL BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il comitato dei regolatori nomina, deliberando a maggioranza di due terzi dei suoi membri, un presidente e almeno due vicepresidenti tra i suoi membri.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Uno dei vicepresidenti assume ex officio le funzioni del presidente quando quest’ultimo non è in grado di svolgere tali funzioni.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. La durata del mandato del presidente è di un anno, rinnovabile una volta. Al fine di garantire la continuità delle attività del BEREC, il presidente entrante ricopre, se possibile, la carica di vicepresidente per un anno prima dell’inizio del suo mandato di presidente. Il regolamento interno prevede un mandato più breve nel caso in cui il presidente entrante sia impossibilitato a ricoprire la carica di vicepresidente per un anno prima dell’inizio del suo mandato di presidente.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Fatto salvo il ruolo del comitato dei regolatori in relazione alle funzioni del presidente, quest’ultimo non sollecita né accetta istruzioni da governi, istituzioni, persone od organismi.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Su richiesta, il presidente riferisce al Parlamento europeo e al Consiglio sullo svolgimento dei compiti del BEREC.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_11",
+   "kind": "article",
+   "number": "11",
+   "label": "Articolo 11",
+   "title": "Riunioni del comitato dei regolatori",
+   "path": [
+    "CAPO IV — ORGANIZZAZIONE DEL BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il presidente convoca le riunioni del comitato dei regolatori e stabilisce l’ordine del giorno di tali riunioni, che è reso pubblico.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il comitato dei regolatori tiene almeno due riunioni ordinarie all’anno. Riunioni straordinarie sono indette su iniziativa del presidente, su richiesta di almeno tre dei suoi membri o su richiesta della Commissione.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il direttore dell’Ufficio BEREC partecipa a tutte le deliberazioni, senza diritto di voto.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Il comitato dei regolatori può invitare a partecipare alle sue riunioni, in veste di osservatore, ogni persona il cui parere possa essere rilevante.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. I membri e i supplenti del comitato dei regolatori possono farsi assistere alle riunioni dai loro consulenti o da altri esperti, fatte salve le disposizioni del regolamento interno.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. L’Ufficio BEREC provvede alle funzioni di segreteria del comitato dei regolatori.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_12",
+   "kind": "article",
+   "number": "12",
+   "label": "Articolo 12",
+   "title": "Modalità di voto del comitato dei regolatori",
+   "path": [
+    "CAPO IV — ORGANIZZAZIONE DEL BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il comitato dei regolatori decide a maggioranza semplice dei suoi membri, salvo diversa disposizione del presente regolamento o di altri atti giuridici dell’Unione. È necessaria la maggioranza di due terzi dei membri del comitato dei regolatori per i pareri di cui all’articolo 4, paragrafo 1, lettera c), punti ii) e v), e gli orientamenti di cui all’articolo 4, paragrafo 1, lettera d), punti da i) a iv), vi), vii) e x). In deroga al secondo comma del presente paragrafo, il comitato dei regolatori può decidere, a maggioranza semplice e caso per caso, di adottare a maggioranza semplice i pareri di cui all’articolo 4, paragrafo 1, lettera c), punto ii), del presente regolamento, relativamente ai progetti di misure di cui all’articolo 76, paragrafo 2, della direttiva (UE) 2018/1972, che portano all’avvio della procedura di cui all’articolo 33, paragrafo 5, di tale direttiva. Le decisioni del comitato dei regolatori sono rese pubbliche e menzionano le eventuali riserve di qualsiasi membro su richiesta di quest’ultimo.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Ciascun membro dispone di un voto. In assenza di un membro, il supplente è abilitato a esercitare il diritto di voto di tale membro. In assenza di un membro e del suo supplente, i diritti di voto possono essere delegati a un altro membro. Il presidente può delegare il diritto di voto in qualsiasi circostanza. Il presidente partecipa al voto, tranne nel caso in abbia delegato il diritto di voto.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il regolamento interno del comitato dei regolatori fissa in modo dettagliato le modalità di voto, comprese le condizioni alle quali un membro può agire per conto di un altro, il quorum e i termini di notifica per le riunioni. Il regolamento interno garantisce inoltre che i membri del comitato dei regolatori ricevano gli ordini del giorno e i progetti di proposte completi in anticipo rispetto a ciascuna riunione, in modo che abbiano la possibilità di presentare emendamenti prima del voto. Il regolamento interno può, tra l’altro, stabilire una procedura di voto su questioni urgenti e altre disposizioni pratiche per il funzionamento del comitato dei regolatori.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_13",
+   "kind": "article",
+   "number": "13",
+   "label": "Articolo 13",
+   "title": "Gruppi di lavoro",
+   "path": [
+    "CAPO IV — ORGANIZZAZIONE DEL BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Qualora sia giustificato, in particolare, per attuare il programma di lavoro annuale del BEREC, il comitato dei regolatori può istituire dei gruppi di lavoro.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il comitato dei regolatori nomina i presidenti dei gruppi di lavoro, che rappresentano, ove possibile, diverse ANR.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. I gruppi di lavoro sono aperti alla partecipazione di esperti di tutte le ANR che partecipano ai lavori del BEREC e alla Commissione. I gruppi di lavoro sono inoltre aperti alla partecipazione del personale dell’Ufficio BEREC, che contribuisce alla loro attività regolamentare e fornisce loro supporto amministrativo. Nel caso dei gruppi di lavoro istituiti per svolgere i compiti di cui all’articolo 4, paragrafo 1, lettera c), punto ii), gli esperti della Commissione non partecipano. Nei gruppi di lavoro istituiti per svolgere i compiti di cui all’articolo 4, paragrafo 1, lettera c), punti iv), vi), vii) e viii), lettera d), punti i), ii), ix), x) e xi), lettera j), punto ii), e lettera l) del presente regolamento e, se del caso, all’articolo 4, paragrafo 1, lettera c), punto iii), e lettera j), punto i), del presente regolamento, sono presi in considerazione i pareri degli esperti di altre autorità competenti notificate a norma dell’articolo 5, paragrafo 4, della direttiva (UE) 2018/1972. Ove necessario, il comitato dei regolatori o i presidenti dei gruppi di lavoro possono invitare singoli esperti di riconosciuta competenza nel settore interessato a partecipare alle riunioni dei gruppi di lavoro caso per caso.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Il comitato dei regolatori adotta il regolamento interno in cui stabilisce le disposizioni pratiche per il funzionamento dei gruppi di lavoro.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_14",
+   "kind": "article",
+   "number": "14",
+   "label": "Articolo 14",
+   "title": "Struttura organizzativa dell’Ufficio BEREC",
+   "path": [
+    "CAPO V — ORGANIZZAZIONE DELL’UFFICIO BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "L’Ufficio BEREC comprende:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) un consiglio di amministrazione;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) un direttore.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_15",
+   "kind": "article",
+   "number": "15",
+   "label": "Articolo 15",
+   "title": "Composizione del consiglio di amministrazione",
+   "path": [
+    "CAPO V — ORGANIZZAZIONE DELL’UFFICIO BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il consiglio di amministrazione è composto dalle persone nominate membri del comitato dei regolatori e da un rappresentante di alto livello della Commissione. Ciascun membro del consiglio di amministrazione ha diritto di voto. Ciascuna ANR che effettua una nomina ai sensi dell’articolo 7, paragrafo 1, secondo comma, può nominare membro del consiglio di amministrazione una persona diversa dal membro del comitato dei regolatori. Tale persona è il direttore dell’ANR, un membro del suo organo collegiale o il sostituto di uno di essi.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Ciascun membro del consiglio di amministrazione ha un supplente che rappresenta il membro in sua assenza. I supplenti di ciascun membro sono le persone nominate supplenti dei membri del comitato dei regolatori. Anche il rappresentante della Commissione ha un supplente. Ciascuna ANR che effettua una nomina ai sensi dell’articolo 7, paragrafo 1, secondo comma, può nominare supplente del membro del consiglio di amministrazione una persona diversa dal supplente del membro del comitato dei regolatori. Tale persona è il direttore dell’ANR, un membro del suo organo collegiale, il loro sostituto o il personale dell’ANR.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. I membri del consiglio di amministrazione e i loro supplenti non sollecitano né accettano istruzioni da governi, istituzioni, persone od organismi.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. È reso pubblico un elenco aggiornato dei membri del consiglio di amministrazione e dei rispettivi supplenti, unitamente alle loro dichiarazioni di interessi.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_16",
+   "kind": "article",
+   "number": "16",
+   "label": "Articolo 16",
+   "title": "Funzioni amministrative del consiglio di amministrazione",
+   "path": [
+    "CAPO V — ORGANIZZAZIONE DELL’UFFICIO BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il consiglio di amministrazione ha le seguenti funzioni amministrative:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) definisce l’orientamento generale delle attività dell’Ufficio BEREC e adotta ogni anno, a maggioranza di due terzi dei suoi membri e in conformità dell’articolo 23, il documento unico di programmazione dell’Ufficio BEREC, tenendo conto del parere della Commissione;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) adotta, a maggioranza di due terzi dei suoi membri, il bilancio annuale dell’Ufficio BEREC ed esercita le altre funzioni riguardanti il bilancio dell’Ufficio BEREC a norma del capo VII;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) adotta, rende pubblica e valuta la relazione annuale consolidata sulle attività dell’Ufficio BEREC di cui all’articolo 27 e trasmette sia la relazione che la valutazione, entro il 1o luglio di ogni anno, al Parlamento europeo, al Consiglio, alla Commissione e alla Corte dei conti;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) adotta le regole finanziarie applicabili all’Ufficio BEREC conformemente all’articolo 29;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) adotta una strategia antifrode proporzionata ai rischi di frode, tenendo conto dei costi e dei benefici delle misure da attuare;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) assicura un seguito adeguato alle osservazioni e alle raccomandazioni risultanti dalle relazioni di audit e valutazioni interne ed esterne e dalle indagini dell’Ufficio europeo per la lotta antifrode (OLAF);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) adotta regole per la prevenzione e la gestione dei conflitti di interesse di cui all’articolo 42, paragrafo 3;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) adotta e aggiorna regolarmente i piani di comunicazione e divulgazione di cui all’articolo 37, paragrafo 2, in base a un’analisi delle esigenze;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) adotta il proprio regolamento interno;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) adotta modalità per garantire l’attuazione dello statuto dei funzionari dell’Unione europea e del regime applicabile agli altri agenti dell’Unione europea a norma dell’articolo 110 dello statuto dei funzionari;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) fatta salva la decisione di cui al paragrafo 2, primo comma, esercita, in relazione al personale dell’Ufficio BEREC, i poteri conferiti dallo statuto dei funzionari all’autorità con potere di nomina e dal regime applicabile agli altri agenti all’autorità abilitata a concludere i contratti di assunzione («poteri dell’autorità con potere di nomina»);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) nomina il direttore e, se del caso, ne proroga il mandato o lo rimuove dall’incarico, a norma dell’articolo 32;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) nomina un contabile, conformemente allo statuto dei funzionari e al regime applicabile agli altri agenti, il quale è pienamente indipendente nell’esercizio delle sue funzioni;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) prende tutte le decisioni relative alla creazione e, se necessario, alla modifica delle strutture interne dell’Ufficio BEREC, tenendo conto delle esigenze dell’attività dell’Ufficio BEREC e di una sana gestione del bilancio. Riguardo alla lettera m) del primo comma, l’Ufficio BEREC può nominare lo stesso contabile di un altro organismo o di un’altra istituzione dell’Unione. In particolare, l’Ufficio BEREC e la Commissione possono convenire che il contabile della Commissione svolga anche le funzioni di contabile dell’Ufficio BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il consiglio di amministrazione adotta, in conformità dell’articolo 110 dello statuto dei funzionari, una decisione basata sull’articolo 2, paragrafo 1, del medesimo statuto e sull’articolo 6 del regime applicabile agli altri agenti, con cui delega al direttore i pertinenti poteri dell’autorità che ha il potere di nomina e definisce le condizioni di sospensione della delega di tali poteri. Il direttore è autorizzato a subdelegare tali poteri. Qualora circostanze eccezionali lo richiedano, il consiglio di amministrazione può, mediante decisione, sospendere temporaneamente la delega dei poteri dell’autorità che ha il potere di nomina al direttore e di quelli subdelegati da quest’ultimo, ed esercitarli esso stesso o delegarli a uno dei suoi membri o a un membro del personale diverso dal direttore.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_17",
+   "kind": "article",
+   "number": "17",
+   "label": "Articolo 17",
+   "title": "Presidente e vicepresidenti del consiglio di amministrazione",
+   "path": [
+    "CAPO V — ORGANIZZAZIONE DELL’UFFICIO BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il presidente e i vicepresidenti del consiglio di amministrazione sono le persone nominate presidente e vicepresidenti del comitato dei regolatori. Il mandato è di pari durata. In deroga al primo comma, il consiglio di amministrazione può, a maggioranza di due terzi dei suoi membri, eleggere a presidente o a vicepresidenti altri membri del consiglio di amministrazione, tra i suoi membri rappresentanti gli Stati membri. Il loro mandato ha durata pari a quella del mandato del presidente e dei vicepresidenti del comitato dei regolatori.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Uno dei vicepresidenti assume ex officio le funzioni di presidente quando quest’ultimo non è in grado di esercitare tali funzioni.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Su richiesta, il presidente del consiglio di amministrazione riferisce al Parlamento europeo e al Consiglio sull’esercizio delle funzioni dell’Ufficio BEREC.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_18",
+   "kind": "article",
+   "number": "18",
+   "label": "Articolo 18",
+   "title": "Riunioni del consiglio di amministrazione",
+   "path": [
+    "CAPO V — ORGANIZZAZIONE DELL’UFFICIO BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Le riunioni del consiglio di amministrazione sono indette dal presidente.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il direttore dell’Ufficio BEREC partecipa alle deliberazioni, tranne a quelle relative all’articolo 32, senza diritto di voto.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il consiglio di amministrazione tiene almeno due riunioni ordinarie all’anno. Il presidente indice inoltre riunioni straordinarie su propria iniziativa, su richiesta della Commissione o di almeno tre dei suoi membri.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Il consiglio di amministrazione può invitare a partecipare alle sue riunioni, in veste di osservatore, ogni persona il cui parere possa essere rilevante.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. I membri del consiglio di amministrazione e i loro supplenti possono farsi assistere alle riunioni da consulenti o esperti, fatte salve le disposizioni del regolamento interno.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. L’Ufficio BEREC provvede alle funzioni di segreteria del consiglio di amministrazione.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_19",
+   "kind": "article",
+   "number": "19",
+   "label": "Articolo 19",
+   "title": "Modalità di voto del consiglio di amministrazione",
+   "path": [
+    "CAPO V — ORGANIZZAZIONE DELL’UFFICIO BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il consiglio di amministrazione decide a maggioranza semplice dei suoi membri, salvo diversa disposizione del presente regolamento.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Ciascun membro dispone di un voto. In assenza di un membro, il supplente è abilitato a esercitare il diritto di voto. In assenza di un membro e del suo supplente, il diritto di voto può essere delegato a un altro membro.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il presidente può delegare il diritto di voto in qualsiasi circostanza. Il presidente partecipa al voto, tranne nel caso in abbia delegato il diritto di voto.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Il regolamento interno del consiglio di amministrazione stabilisce disposizioni più dettagliate in materia di voto, in particolare la procedura di voto su questioni urgenti e le circostanze in cui un membro può agire per conto di un altro.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_20",
+   "kind": "article",
+   "number": "20",
+   "label": "Articolo 20",
+   "title": "Compiti del direttore",
+   "path": [
+    "CAPO V — ORGANIZZAZIONE DELL’UFFICIO BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il direttore è incaricato della gestione amministrativa dell’Ufficio BEREC. Il direttore risponde al consiglio di amministrazione.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il direttore assiste il presidente del comitato dei regolatori e il presidente del consiglio di amministrazione nella preparazione delle riunioni dei rispettivi organismi.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Fatte salve le competenze del comitato dei regolatori, del consiglio di amministrazione e della Commissione, il direttore esercita le sue funzioni in piena indipendenza e non sollecita né accetta istruzioni da governi, istituzioni, persone od organismi.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Su richiesta, il direttore riferisce al Parlamento europeo e al Consiglio sull’esercizio delle sue funzioni.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Il direttore è il rappresentante legale dell’Ufficio BEREC.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Il direttore è responsabile dell’esecuzione dei compiti assegnati all’Ufficio BEREC secondo gli orientamenti forniti dal comitato dei regolatori e dal consiglio di amministrazione. In particolare il direttore è responsabile di:",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "a) assicurare la gestione corrente dell’Ufficio BEREC;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "b) attuare le decisioni amministrative adottate dal comitato dei regolatori e dal consiglio di amministrazione;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "c) preparare il documento di programmazione unico di cui all’articolo 23 e presentarlo al consiglio di amministrazione;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "d) assistere il comitato dei regolatori nella preparazione della relazione annuale di attività del BEREC di cui all’articolo 22;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "e) assistere il comitato dei regolatori nella preparazione del programma di lavoro annuale del BEREC di cui all’articolo 21;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "f) attuare il documento di programmazione unico e riferire al consiglio di amministrazione in merito alla sua attuazione;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "g) elaborare il progetto di relazione annuale consolidata sulle attività dell’Ufficio BEREC di cui all’articolo 27 e presentarlo al consiglio di amministrazione per valutazione e adozione;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "h) elaborare un piano d’azione volto a dare seguito alle conclusioni delle relazioni di audit e valutazioni interne ed esterne e alle indagini dell’OLAF, e informare il consiglio di amministrazione almeno una volta l’anno sui progressi compiuti;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "i) tutelare gli interessi finanziari dell’Unione mediante l’applicazione di misure preventive contro la frode, la corruzione e qualsiasi altra attività illecita, attuando controlli effettivi e, nel caso in cui siano riscontrate irregolarità, imponendo il recupero delle somme indebitamente corrisposte nonché, se del caso, applicando misure amministrative effettive, proporzionate e dissuasive, comprese sanzioni finanziarie;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "j) elaborare una strategia antifrode dell’Ufficio BEREC e presentarla al consiglio di amministrazione per l’approvazione;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "k) predisporre il progetto delle regole finanziarie applicabili all’Ufficio BEREC;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "l) preparare il progetto di stato di previsione delle entrate e delle spese dell’Ufficio BEREC ed eseguire il bilancio;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "m) autorizzare congiuntamente al comitato dei regolatori la conclusione di accordi di lavoro con gli organi, gli organismi e i gruppi consultivi competenti dell’Unione e con autorità competenti di paesi terzi e con organizzazioni internazionali ai sensi dell’articolo 35.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Il direttore, sotto la supervisione del consiglio di amministrazione, adotta le misure necessarie, in particolare per quanto riguarda l’adozione di istruzioni amministrative interne e la pubblicazione di avvisi, per assicurare il funzionamento dell’Ufficio BEREC in conformità del presente regolamento.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Il direttore, previo accordo della Commissione, del consiglio di amministrazione e dello Stato membro o degli Stati membri interessati, decide in merito alla necessità, ai fini dello svolgimento efficace ed efficiente dei compiti dell’Ufficio BEREC, di inviare uno o più membri del personale in uno o più Stati membri. La decisione precisa l’ambito delle attività da espletarsi in modo da evitare costi inutili e duplicazioni delle funzioni amministrative dell’Ufficio BEREC. Prima di adottare una tale decisione, si definisce nel documento di programmazione pluriennale di cui all’articolo 23, paragrafo 4, il suo impatto in termini di risorse di bilancio e personale.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_21",
+   "kind": "article",
+   "number": "21",
+   "label": "Articolo 21",
+   "title": "Programma di lavoro annuale del BEREC",
+   "path": [
+    "CAPO VI — PROGRAMMAZIONE DEL BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il comitato dei regolatori adotta il progetto di programma di lavoro annuale entro il 31 gennaio dell’anno precedente quello a cui si riferisce il programma di lavoro annuale. Dopo aver consultato il Parlamento europeo, il Consiglio e la Commissione sulle loro priorità nonché le altre parti interessate in conformità dell’articolo 4, paragrafo 5, il comitato dei regolatori adotta il programma di lavoro annuale definitivo entro il 31 dicembre di tale anno.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il comitato dei regolatori trasmette il programma di lavoro annuale al Parlamento europeo, al Consiglio e alla Commissione subito dopo la sua adozione.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_22",
+   "kind": "article",
+   "number": "22",
+   "label": "Articolo 22",
+   "title": "Relazione annuale sulle attività del BEREC",
+   "path": [
+    "CAPO VI — PROGRAMMAZIONE DEL BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il comitato dei regolatori adotta la relazione annuale sulle attività del BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il comitato dei regolatori trasmette la relazione annuale sulle attività al Parlamento europeo, al Consiglio, alla Commissione e al Comitato economico e sociale europeo entro il 15 giugno di ogni anno.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_23",
+   "kind": "article",
+   "number": "23",
+   "label": "Articolo 23",
+   "title": "Programmazione annuale e pluriennale",
+   "path": [
+    "CAPO VII — BILANCIO E PROGRAMMAZIONE DELL’UFFICIO BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ogni anno il direttore redige un progetto di documento di programmazione contenente la programmazione annuale e pluriennale («documento unico di programmazione») conformemente all’articolo 32 del regolamento delegato (UE) n. 1271/2013 e tenendo conto degli orientamenti definiti dalla Commissione. Entro il 31 gennaio di ogni anno il consiglio di amministrazione adotta il progetto di documento unico di programmazione e lo trasmette alla Commissione per consentirle di esprimere un parere. Il progetto di documento unico di programmazione è presentato anche al Parlamento europeo e al Consiglio. Il consiglio di amministrazione adotta quindi il documento unico di programmazione, tenendo conto del parere della Commissione, e lo trasmette, insieme ad eventuali versioni aggiornate, al Parlamento europeo, al Consiglio e alla Commissione. Il documento unico di programmazione diventa definitivo dopo l’adozione del bilancio generale dell'Unione e, se necessario, è adattato di conseguenza.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il documento di programmazione annuale comprende gli obiettivi dettagliati e i risultati attesi, compresi gli indicatori di prestazione. Contiene inoltre una descrizione delle azioni da finanziare e l’indicazione delle risorse finanziarie e umane assegnate a ciascuna azione, conformemente ai principi di formazione del bilancio per attività e gestione per attività, come indicato all’articolo 31. Il documento di programmazione annuale è coerente con il progetto di programma di lavoro annuale e il programma di lavoro annuale definitivo del BEREC di cui all’articolo 21 e con il documento di programmazione pluriennale dell’Ufficio BEREC di cui al paragrafo 4 del presente articolo. Esso indica chiaramente quali compiti sono stati aggiunti, modificati o soppressi rispetto all’esercizio finanziario precedente.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. In seguito all’adozione del documento di programmazione annuale definitivo del BEREC di cui all’articolo 21 e ogniqualvolta al BEREC o all’Ufficio BEREC venga affidato un nuovo compito, il consiglio di amministrazione modifica, se necessario, il programma di lavoro annuale. Le modifiche sostanziali del documento di programmazione annuale sono adottate con la stessa procedura utilizzata per l’adozione del documento di programmazione annuale iniziale. Il consiglio di amministrazione può delegare al direttore il potere di presentare modifiche non sostanziali del documento di programmazione annuale.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Il documento di programmazione pluriennale definisce la programmazione strategica generale, compresi gli obiettivi, i risultati attesi e gli indicatori di prestazione. Definisce inoltre la programmazione delle risorse, compresi il bilancio pluriennale e il personale. La programmazione delle risorse viene aggiornata ogni anno. La programmazione strategica è aggiornata se del caso, in particolare per adattarla all’esito della valutazione di cui all’articolo 48.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Il singolo documento di programmazione dell’Ufficio BEREC include l’attuazione della strategia del BEREC per le relazioni con gli organi, gli organismi e i gruppi consultivi competenti dell’Unione, con le autorità competenti di paesi terzi e con le organizzazioni internazionali di cui all’articolo 35, paragrafo 3, nonché le azioni connesse a tale strategia e la specificazione delle risorse correlate.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_24",
+   "kind": "article",
+   "number": "24",
+   "label": "Articolo 24",
+   "title": "Stesura del bilancio",
+   "path": [
+    "CAPO VII — BILANCIO E PROGRAMMAZIONE DELL’UFFICIO BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ogni anno il direttore predispone un progetto di stato di previsione provvisorio delle entrate e delle spese dell’Ufficio BEREC («progetto di stato di previsione»), comprendente la tabella dell’organico, per l’esercizio finanziario successivo e lo presenta al consiglio di amministrazione. Le informazioni contenute nel progetto di stato di previsione devono essere coerenti con il progetto di documento unico di programmazione di cui all’articolo 23, paragrafo 1.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il direttore presenta il progetto di stato di previsione alla Commissione entro il 31 gennaio di ogni anno.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. La Commissione presenta il progetto di stato di previsione all’autorità di bilancio insieme al progetto di bilancio generale dell’Unione europea.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Sulla base del progetto di stato di previsione, la Commissione inserisce nel progetto di bilancio generale dell’Unione le previsioni ritenute necessarie per la tabella dell’organico nonché l’importo del contributo da iscrivere al bilancio generale, che sottopone all’autorità di bilancio a norma degli articoli 313 e 314 del trattato sul funzionamento dell’Unione europea (TFUE).",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. L’autorità di bilancio autorizza gli stanziamenti a titolo di contributo destinato all’Ufficio BEREC.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. L’autorità di bilancio adotta la tabella dell’organico dell’Ufficio BEREC.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Il consiglio di amministrazione adotta il bilancio dell’Ufficio BEREC. Il bilancio diventa definitivo dopo l’adozione definitiva del bilancio generale dell’Unione. Se del caso, si procede agli opportuni adeguamenti.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Ai progetti riguardanti gli immobili che possono avere implicazioni significative per il bilancio dell’Ufficio BEREC si applica il regolamento delegato (UE) n. 1271/2013.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_25",
+   "kind": "article",
+   "number": "25",
+   "label": "Articolo 25",
+   "title": "Struttura del bilancio",
+   "path": [
+    "CAPO VII — BILANCIO E PROGRAMMAZIONE DELL’UFFICIO BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Tutte le entrate e le spese dell’Ufficio BEREC sono oggetto di previsioni per ciascun esercizio finanziario, che coincide con l’anno civile, e sono iscritte nel bilancio dell’Ufficio BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Le entrate e le spese iscritte nel bilancio dell’Ufficio BEREC devono essere in pareggio.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Fatte salve altre risorse, le entrate dell’Ufficio BEREC comprendono: a) un contributo dell’Unione; b) eventuali contributi finanziari volontari degli Stati membri o delle ANR; c) i diritti percepiti per pubblicazioni o qualsiasi altro servizio svolto dall’Ufficio BEREC; d) eventuali contributi dei paesi terzi o delle autorità di regolamentazione competenti in materia di comunicazioni elettroniche dei paesi terzi che partecipano ai lavori dell’Ufficio BEREC, secondo quanto previsto all’articolo 35.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Le spese dell’Ufficio BEREC comprendono le retribuzioni del personale, le spese amministrative e di infrastruttura e le spese operative.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_26",
+   "kind": "article",
+   "number": "26",
+   "label": "Articolo 26",
+   "title": "Esecuzione del bilancio",
+   "path": [
+    "CAPO VII — BILANCIO E PROGRAMMAZIONE DELL’UFFICIO BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il direttore è responsabile dell’esecuzione del bilancio dell’Ufficio BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il direttore presenta ogni anno al Parlamento europeo e al Consiglio qualsiasi informazione rilevante in relazione ai risultati delle procedure di valutazione.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_27",
+   "kind": "article",
+   "number": "27",
+   "label": "Articolo 27",
+   "title": "Relazione annuale di attività consolidata",
+   "path": [
+    "CAPO VII — BILANCIO E PROGRAMMAZIONE DELL’UFFICIO BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il consiglio di amministrazione adotta la relazione annuale di attività consolidata conformemente all’articolo 47 del regolamento delegato (UE) n. 1271/2013, tenendo conto degli orientamenti definiti dalla Commissione.",
+     "para": "1",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_28",
+   "kind": "article",
+   "number": "28",
+   "label": "Articolo 28",
+   "title": "Rendicontazione e discarico",
+   "path": [
+    "CAPO VII — BILANCIO E PROGRAMMAZIONE DELL’UFFICIO BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il contabile dell’Ufficio BEREC presenta i conti provvisori relativi all’esercizio finanziario al contabile della Commissione e alla Corte dei conti entro il 1o marzo dell’esercizio finanziario successivo.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. L’Ufficio BEREC presenta al Parlamento europeo, al Consiglio e alla Corte dei conti la relazione sulla gestione finanziaria e di bilancio entro il 31 marzo dell’esercizio finanziario successivo.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Ricevute le osservazioni formulate dalla Corte dei conti sui conti provvisori dell’Ufficio BEREC, il contabile dell’Ufficio BEREC redige i conti definitivi dell’Ufficio BEREC sotto la propria responsabilità. Il direttore presenta i conti definitivi al consiglio di amministrazione per parere.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Il consiglio d’amministrazione formula un parere sui conti definitivi dell’Ufficio BEREC.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Il direttore presenta il rendiconto definitivo corredato del parere del consiglio d’amministrazione al Parlamento europeo, al Consiglio, alla Commissione e alla Corte dei conti entro il 1o luglio successivo a ciascun esercizio finanziario.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. L’Ufficio BEREC pubblica i conti definitivi nella Gazzetta ufficiale dell’Unione europea entro il 15 novembre dell’anno successivo.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Entro il 30 settembre dell’esercizio finanziario successivo, il direttore presenta alla Corte dei conti una risposta alle osservazioni di quest’ultima. Presenta inoltre tale risposta al consiglio di amministrazione.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Il direttore presenta al Parlamento europeo, su richiesta dello stesso, e a norma dell’articolo 165, paragrafo 3, del regolamento (UE, Euratom) 2018/1046 del Parlamento europeo e del Consiglio, tutte le informazioni necessarie al corretto svolgimento della procedura di discarico per l’esercizio in causa.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Il Parlamento europeo, su raccomandazione del Consiglio che delibera a maggioranza qualificata, dà discarico al direttore, prima del 15 maggio dell’anno n + 2, per l’esecuzione del bilancio dell’esercizio n.",
+     "para": "9",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_29",
+   "kind": "article",
+   "number": "29",
+   "label": "Articolo 29",
+   "title": "Regole finanziarie",
+   "path": [
+    "CAPO VII — BILANCIO E PROGRAMMAZIONE DELL’UFFICIO BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Le disposizioni finanziarie applicabili all’Ufficio BEREC sono adottate dal consiglio di amministrazione, previa consultazione della Commissione. Si discostano dal regolamento delegato (UE) n. 1271/2013 solo per esigenze specifiche di funzionamento dell’Ufficio BEREC e previo accordo della Commissione.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_30",
+   "kind": "article",
+   "number": "30",
+   "label": "Articolo 30",
+   "title": "Disposizione generale",
+   "path": [
+    "CAPO VIII — PERSONALE DELL’UFFICIO BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Al personale dell’Ufficio BEREC si applicano lo statuto dei funzionari, il regime applicabile agli altri agenti e le regole adottate di comune accordo dalle istituzioni dell’Unione europea per l’applicazione di detto statuto e di detto regime.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_31",
+   "kind": "article",
+   "number": "31",
+   "label": "Articolo 31",
+   "title": "Numero di membri del personale dell’Ufficio BEREC",
+   "path": [
+    "CAPO VIII — PERSONALE DELL’UFFICIO BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Conformemente al principio della gestione delle risorse umane per attività, l’Ufficio BEREC dispone del personale necessario per l’assolvimento dei suoi compiti.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il numero di membri del personale e le risorse finanziarie corrispondenti sono proposti in conformità dell’articolo 23, paragrafi 2 e 4, e dell’articolo 24, paragrafo 1, tenendo conto dell’articolo 5, lettera a), e di tutti gli altri compiti assegnati all’Ufficio BEREC dal presente regolamento o da altri atti giuridici dell’Unione, oltre che dell’esigenza di rispettare i regolamenti applicabili a tutte le agenzie decentrate dell’Unione.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_32",
+   "kind": "article",
+   "number": "32",
+   "label": "Articolo 32",
+   "title": "Nomina del direttore",
+   "path": [
+    "CAPO VIII — PERSONALE DELL’UFFICIO BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il direttore è assunto come agente temporaneo dell’Ufficio BEREC ai sensi dell’articolo 2, lettera a), del regime applicabile agli altri agenti.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il direttore è nominato dal consiglio di amministrazione seguendo una procedura di selezione aperta e trasparente, sulla base del merito e delle competenze manageriali, amministrative e di bilancio nonché delle competenze e dell’esperienza relativa a reti e servizi di comunicazioni elettroniche. L’elenco dei candidati non è proposto solo dal presidente o da un vicepresidente. Il regolamento interno del consiglio di amministrazione stabilisce nel dettaglio le modalità applicabili alla procedura di preselezione del numero di candidati ammissibili nonché una procedura di voto.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Per la conclusione del contratto con il direttore, l’Ufficio BEREC è rappresentato dal presidente del consiglio di amministrazione.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Prima della nomina, il candidato prescelto dal consiglio di amministrazione è invitato a rendere una dichiarazione dinanzi alla commissione competente del Parlamento europeo e a rispondere alle domande dei membri di tale commissione.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. La durata del mandato del direttore è di cinque anni. Entro la fine di tale periodo, il presidente del consiglio di amministrazione effettua una valutazione che tiene conto dei risultati ottenuti dal direttore, nonché dei compiti e delle sfide dell’Ufficio BEREC. Tale valutazione è presentata al Parlamento europeo e al Consiglio.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Il consiglio di amministrazione, tenendo conto della valutazione di cui al paragrafo 5, può prorogare il mandato del direttore una sola volta e per non più di cinque anni.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Il consiglio di amministrazione informa il Parlamento europeo dell’intenzione di prorogare il mandato del direttore. Entro il mese precedente tale proroga, il direttore può essere invitato a rendere una dichiarazione dinanzi alla commissione competente del Parlamento europeo e a rispondere alle domande dei membri di tale commissione.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Il direttore il cui mandato sia stato prorogato non partecipa a un’altra procedura di selezione per lo stesso posto dopo la fine del periodo cumulativo.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Nel caso in cui il suo mandato non sia prorogato, il direttore, su decisione del consiglio di amministrazione, rimane in carica oltre la scadenza del mandato iniziale fino alla nomina di un successore.",
+     "para": "9",
+     "point": ""
+    },
+    {
+     "text": "10. Il direttore può essere rimosso dal suo incarico solo su decisione del consiglio di amministrazione presa su proposta di un membro.",
+     "para": "10",
+     "point": ""
+    },
+    {
+     "text": "11. Il consiglio di amministrazione adotta le decisioni riguardanti la nomina del direttore, la proroga del suo mandato e la sua rimozione dall’incarico a maggioranza di due terzi dei suoi membri.",
+     "para": "11",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_33",
+   "kind": "article",
+   "number": "33",
+   "label": "Articolo 33",
+   "title": "Esperti nazionali distaccati e altro personale",
+   "path": [
+    "CAPO VIII — PERSONALE DELL’UFFICIO BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. L’Ufficio BEREC può avvalersi di esperti nazionali distaccati o di altro personale non alle sue dipendenze. Lo statuto dei funzionari e il regime applicabile agli altri agenti non si applicano a tale personale.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il consiglio di amministrazione adotta una decisione in cui stabilisce le norme relative al distacco di esperti nazionali presso l’Ufficio BEREC.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_34",
+   "kind": "article",
+   "number": "34",
+   "label": "Articolo 34",
+   "title": "Privilegi e immunità",
+   "path": [
+    "CAPO IX — DISPOSIZIONI GENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "All’Ufficio BEREC e al suo personale si applica il protocollo sui privilegi e sulle immunità dell’Unione europea.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_35",
+   "kind": "article",
+   "number": "35",
+   "label": "Articolo 35",
+   "title": "Cooperazione con gli organismi dell’Unione, i paesi terzi e le organizzazioni internazionali",
+   "path": [
+    "CAPO IX — DISPOSIZIONI GENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Se necessario ai fini del conseguimento degli obiettivi stabiliti nel presente regolamento e dello svolgimento dei loro compiti, e fatte salve le rispettive competenze degli Stati membri e delle istituzioni dell’Unione, il BEREC e l’Ufficio BEREC possono collaborare con gli organi, gli organismi e i gruppi consultivi competenti dell’Unione, con le autorità competenti dei paesi terzi e con le organizzazioni internazionali. A tal fine, il BEREC e l’Ufficio BEREC possono, previa approvazione da parte della Commissione, stabilire accordi di lavoro. Tali accordi non creano obblighi di natura giuridica.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il comitato dei regolatori, i gruppi di lavoro e il consiglio di amministrazione sono aperti alla partecipazione delle autorità di regolamentazione di paesi terzi con responsabilità primaria in materia di comunicazioni elettroniche, laddove tali paesi terzi abbiano concluso con l’Unione accordi in tal senso. Nell’ambito delle pertinenti disposizioni di tali accordi, sono elaborati accordi di lavoro che specificano, in particolare, la natura, la portata e le modalità di partecipazione, senza diritto di voto, delle autorità di regolamentazione dei paesi terzi interessati ai lavori del BEREC e dell’Ufficio BEREC, comprese le disposizioni sulla partecipazione alle iniziative intraprese dal BEREC, sui contributi finanziari e sul personale dell’Ufficio BEREC. In materia di personale, tali disposizioni rispettano in ogni caso lo statuto dei funzionari.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Nell’ambito del programma di lavoro annuale di cui all’articolo 21, il comitato dei regolatori adotta la strategia del BEREC per le relazioni con organi, organismi e gruppi consultivi competenti dell’Unione, con le autorità competenti dei paesi terzi e con le organizzazioni internazionali riguardo a questioni che rientrano tra le competenze del BEREC. La Commissione, il BEREC e l’Ufficio BEREC concludono un accordo di lavoro appropriato allo scopo di garantire che il BEREC e l’Ufficio BEREC operino nell’ambito del proprio mandato e del quadro istituzionale vigente.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_36",
+   "kind": "article",
+   "number": "36",
+   "label": "Articolo 36",
+   "title": "Accesso ai documenti e protezione dei dati",
+   "path": [
+    "CAPO IX — DISPOSIZIONI GENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ai documenti in possesso del BEREC e dell’Ufficio BEREC si applica il regolamento (CE) n. 1049/2001 del Parlamento europeo e del Consiglio.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Entro il 21 giugno 2019, il comitato dei regolatori e il consiglio di amministrazione adottano le modalità di applicazione del regolamento (CE) n. 1049/2001.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il trattamento di dati personali da parte del BEREC e dell’Ufficio BEREC è soggetto alle disposizioni del regolamento(UE) 2018/1725.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Entro il 21 giugno 2019, il comitato dei regolatori e il consiglio di amministrazione stabiliscono le modalità di applicazione del regolamento (UE) 2018/1725 da parte del BEREC e dell’Ufficio BEREC, anche in relazione alla nomina del responsabile della protezione dei dati dell’Ufficio BEREC. Tali modalità sono stabilite previa consultazione del garante europeo della protezione dei dati.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_37",
+   "kind": "article",
+   "number": "37",
+   "label": "Articolo 37",
+   "title": "Trasparenza e comunicazione",
+   "path": [
+    "CAPO IX — DISPOSIZIONI GENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Il BEREC e l’Ufficio BEREC svolgono le loro attività assicurando un elevato livello di trasparenza. Il BEREC e l’Ufficio BEREC garantiscono che il pubblico e le eventuali parti interessate dispongano di informazioni adeguate, obiettive, affidabili e facilmente accessibili, in particolare in relazione ai loro compiti e ai risultati delle loro attività.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il BEREC, con il sostegno dell’Ufficio BEREC, può svolgere attività di comunicazione di propria iniziativa nel settore di sua competenza conformemente ai pertinenti piani di comunicazione e divulgazione adottati dal comitato dei regolatori. L’assegnazione di risorse a tale sostegno delle attività di comunicazione nell’ambito del bilancio dell’Ufficio BEREC non pregiudica lo svolgimento efficace dei compiti del BEREC di cui all’articolo 4 né dei compiti dell’Ufficio BEREC di cui all’articolo 5. Le attività di comunicazione dell’Ufficio BEREC sono svolte conformemente ai pertinenti piani di comunicazione e divulgazione adottati dal consiglio di amministrazione.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_38",
+   "kind": "article",
+   "number": "38",
+   "label": "Articolo 38",
+   "title": "Riservatezza",
+   "path": [
+    "CAPO IX — DISPOSIZIONI GENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Fatti salvi l’articolo 36, paragrafo 1, e l’articolo 40, paragrafo 2, il BEREC e l’Ufficio BEREC non rivelano a terzi le informazioni che trattano o ricevono in relazione alle quali è stata presentata una richiesta motivata di trattamento riservato, integralmente o in parte.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. I membri del comitato dei regolatori, del consiglio d’amministrazione e dei gruppi di lavoro, nonché altri partecipanti alle loro riunioni, il direttore, gli esperti nazionali distaccati e gli altri membri del personale non impiegati dall’Ufficio BEREC rispettano gli obblighi di riservatezza di cui all’articolo 339 TFUE anche dopo la cessazione delle loro funzioni.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il comitato dei regolatori e il consiglio d’amministrazione stabiliscono le disposizioni pratiche per l’attuazione delle norme di riservatezza di cui ai paragrafi 1 e 2.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_39",
+   "kind": "article",
+   "number": "39",
+   "label": "Articolo 39",
+   "title": "Norme di sicurezza per la protezione delle informazioni classificate e delle informazioni sensibili non classificate",
+   "path": [
+    "CAPO IX — DISPOSIZIONI GENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "Il BEREC e l’Ufficio BEREC applicano le proprie norme di sicurezza equivalenti alle norme di sicurezza della Commissione per la protezione delle informazioni classificate dell’Unione europea e delle informazioni sensibili non classificate, tra cui le disposizioni relative allo scambio, al trattamento e alla conservazione di tali informazioni quali stabilite nelle decisioni (UE, Euratom) 2015/443 e (UE, Euratom) 2015/444 della Commissione. In alternativa, il BEREC o l’Ufficio BEREC possono decidere di applicare, mutatis mutandis, le norme della Commissione.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_40",
+   "kind": "article",
+   "number": "40",
+   "label": "Articolo 40",
+   "title": "Scambio di informazioni",
+   "path": [
+    "CAPO IX — DISPOSIZIONI GENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Su richiesta motivata del BEREC o dell’Ufficio BEREC, la Commissione, le ANR rappresentate nel comitato dei regolatori e le altre autorità competenti forniscono al BEREC o all’Ufficio BEREC, in modo tempestivo e accurato, tutte le informazioni necessarie per lo svolgimento dei loro compiti, a condizione che essi abbiano accesso legale alle informazioni in questione e che la richiesta di informazioni sia necessaria in relazione alla natura del compito in questione. Il BEREC o l’Ufficio BEREC possono anche chiedere che siano loro fornite tali informazioni a cadenza regolare e in formati specifici. Tali richieste sono presentate, ove possibile, usando formati comuni.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Su richiesta motivata della Commissione o di un’ANR, il BEREC o l’Ufficio BEREC forniscono, in modo tempestivo e accurato, tutte le informazioni necessarie per consentire alla Commissione, all’ANR o a un’altra autorità competente di svolgere i loro compiti, secondo il principio di leale cooperazione. Qualora il BEREC o l’Ufficio BEREC considerino riservate le informazioni, la Commissione, l’ANR o l’altra autorità competente interessata ne garantiscono la riservatezza conformemente al diritto dell’Unione e nazionale, incluso il regolamento (CE) n. 1049/2001. La riservatezza degli affari non impedisce loro la tempestiva condivisione di informazioni.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Prima di chiedere informazioni in base al presente articolo, per evitare la duplicazione degli obblighi di informativa, il BEREC o l’Ufficio BEREC tengono conto delle pertinenti informazioni pubbliche esistenti.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Qualora le informazioni non siano messe a disposizione dall’ANR in modo tempestivo, il BEREC o l’Ufficio BEREC possono presentare una richiesta motivata ad altre ANR e ad altre autorità competenti dello Stato membro interessato o direttamente alle imprese fornitrici di reti e servizi di comunicazioni elettroniche e risorse correlate. Il BEREC o l’Ufficio BEREC notificano alle ANR che non hanno fornito le informazioni delle richieste presentate in conformità del primo comma. Su richiesta del BEREC o dell’Ufficio BEREC, le ANR assistono il BEREC nella raccolta delle informazioni.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Gli Stati membri garantiscono che le ANR e le altre autorità competenti abbiano la facoltà di richiedere che altre autorità nazionali responsabili o imprese fornitrici di reti e servizi di comunicazioni elettroniche, risorse correlate o servizi correlati presentino tutte le informazioni necessarie allo svolgimento dei loro compiti di cui al presente articolo. Su richiesta, altre autorità nazionali responsabili o imprese di cui al primo comma forniscono tempestivamente dette informazioni conformemente ai tempi e al livello di dettaglio richiesti. Gli Stati membri garantiscono che le ANR e le altre autorità competenti abbiano la facoltà di far valere tali richieste di informazioni imponendo sanzioni adeguate, efficaci, proporzionate e dissuasive.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_41",
+   "kind": "article",
+   "number": "41",
+   "label": "Articolo 41",
+   "title": "Sistema di informazione e comunicazione",
+   "path": [
+    "CAPO IX — DISPOSIZIONI GENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. L’Ufficio BEREC istituisce e gestisce un sistema di informazione e comunicazione dotato almeno delle seguenti funzioni: a) una piattaforma comune di scambio delle informazioni, che fornisca al BEREC, alla Commissione e alle ANR le informazioni necessarie all’attuazione coerente del quadro normativo dell’Unione per le comunicazioni elettroniche; b) un’interfaccia specifica per richieste di informazioni e notifica di tali richieste di cui all’articolo 40, per l’accesso del BEREC, dell’Ufficio BEREC, della Commissione e delle ANR; c) una piattaforma per l’identificazione precoce delle necessità di coordinamento tra le ANR.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Il consiglio di amministrazione adotta le specifiche tecniche e funzionali allo scopo di istituire il sistema di informazione e comunicazione di cui al paragrafo 1. Tale sistema è soggetto ai diritti di proprietà intellettuale e al livello di riservatezza richiesto.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il sistema di informazione e comunicazione è operativo entro il 21 giugno 2020.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_42",
+   "kind": "article",
+   "number": "42",
+   "label": "Articolo 42",
+   "title": "Dichiarazione di interessi",
+   "path": [
+    "CAPO IX — DISPOSIZIONI GENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. I membri del comitato dei regolatori e del consiglio di amministrazione, il direttore, gli esperti nazionali distaccati e gli altri membri del personale non dipendenti dall’Ufficio BEREC redigono ciascuno una dichiarazione scritta di impegni e una dichiarazione con la quale indicano l’assenza o la presenza di interessi diretti o indiretti che possano essere considerati in contrasto con la loro indipendenza. Tali dichiarazioni sono fatte al momento dell’assunzione di responsabilità, sono accurate e complete e sono aggiornate ogniqualvolta sussista il rischio che vi siano interessi diretti o indiretti che possano essere considerati in contrasto con l’indipendenza del dichiarante. Le dichiarazioni firmate dai membri del comitato dei regolatori, dai membri del consiglio di amministrazione e dal direttore sono rese pubbliche.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. I membri del comitato dei regolatori, del consiglio di amministrazione e dei gruppi di lavoro nonché altri partecipanti alle loro riunioni, il direttore, gli esperti nazionali distaccati e gli altri membri del personale non dipendenti dall’Ufficio BEREC dichiarano ciascuno in modo preciso e completo, al più tardi all’inizio di ogni riunione, qualsiasi interesse che possa essere considerato in contrasto con la loro indipendenza in relazione ai punti all’ordine del giorno e si astengono dal partecipare alle discussioni e alle votazioni inerenti a tali punti.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il comitato dei regolatori e il consiglio di amministrazione stabiliscono le norme di prevenzione e gestione dei conflitti di interesse e, in particolare, disposizioni pratiche per l’applicazione dei paragrafi 1 e 2.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_43",
+   "kind": "article",
+   "number": "43",
+   "label": "Articolo 43",
+   "title": "Lotta antifrode",
+   "path": [
+    "CAPO IX — DISPOSIZIONI GENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Per facilitare la lotta contro la frode, la corruzione e ogni altra attività illecita ai sensi del regolamento (EU, Euratom) n. 883/2013 del Parlamento europeo e del Consiglio, entro il 21 giugno 2019, l’Ufficio BEREC aderisce all’accordo interistituzionale del 25 maggio 1999 tra il Parlamento europeo, il Consiglio dell’Unione europea e la Commissione delle Comunità europee relativo alle indagini interne svolte dall’Ufficio europeo per la lotta antifrode (OLAF) e adotta le opportune disposizioni applicabili a tutto il personale dell’Ufficio BEREC, utilizzando il modello riportato nell’allegato di tale accordo.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. La Corte dei conti ha la facoltà di sottoporre ad audit, sulla base di documenti e con verifiche sul posto, tutti i beneficiari di sovvenzioni, i contraenti e i subcontraenti che hanno ottenuto fondi dell’Unione dall’Ufficio BEREC.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. L’OLAF può svolgere, conformemente alle disposizioni e alle procedure previste dal regolamento (UE, Euratom) n. 883/2013 e dal regolamento (Euratom, CE) n. 2185/96 del Consiglio, indagini, ivi compresi controlli e verifiche sul posto, al fine di accertare l’esistenza di frodi, corruzione o altra attività illecita lesiva degli interessi finanziari dell’Unione, in connessione con convenzioni di sovvenzione o decisioni di sovvenzione o contratti finanziati dall’Ufficio BEREC.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Fatti salvi i paragrafi 1, 2 e 3, gli accordi di cooperazione con paesi terzi e organizzazioni internazionali, i contratti, le convenzioni di sovvenzione e le decisioni di sovvenzione contengono disposizioni che abilitano espressamente la Corte dei conti e l’OLAF a svolgere tali audit e indagini in base alle rispettive competenze.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_44",
+   "kind": "article",
+   "number": "44",
+   "label": "Articolo 44",
+   "title": "Responsabilità",
+   "path": [
+    "CAPO IX — DISPOSIZIONI GENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. La responsabilità contrattuale dell’Ufficio BEREC è regolata dalla legge applicabile al contratto in causa.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. La Corte di giustizia dell’Unione europea (Corte di giustizia) è competente a giudicare in virtù di una clausola compromissoria contenuta in un contratto concluso dall’Ufficio BEREC.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. In materia di responsabilità extracontrattuale l’Ufficio BEREC risarcisce, secondo i principi generali comuni agli ordinamenti degli Stati membri, i danni causati dai suoi servizi o dal suo personale nell’esercizio delle loro funzioni.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. La Corte di giustizia è competente a pronunciarsi in merito alle controversie relative al risarcimento dei danni di cui al paragrafo 3.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. La responsabilità individuale del personale nei confronti dell’Ufficio BEREC è regolata dalle disposizioni stabilite nello statuto dei funzionari o nel regime applicabile agli altri agenti ad esso applicabili.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_45",
+   "kind": "article",
+   "number": "45",
+   "label": "Articolo 45",
+   "title": "Indagini amministrative",
+   "path": [
+    "CAPO IX — DISPOSIZIONI GENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "Le attività del BEREC e dell’Ufficio BEREC sono sottoposte alle indagini del Mediatore europeo ai sensi dell’articolo 228 TFUE.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_46",
+   "kind": "article",
+   "number": "46",
+   "label": "Articolo 46",
+   "title": "Regime linguistico",
+   "path": [
+    "CAPO IX — DISPOSIZIONI GENERALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. All’Ufficio BEREC si applica il regolamento n. 1.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. I servizi di traduzione necessari per il funzionamento dell’Ufficio BEREC sono forniti dal Centro di traduzione degli organismi dell’Unione europea.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_47",
+   "kind": "article",
+   "number": "47",
+   "label": "Articolo 47",
+   "title": "Accordo sulla sede e condizioni operative",
+   "path": [
+    "CAPO X — DISPOSIZIONI FINALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Le disposizioni relative all’insediamento dell’Ufficio BEREC nello Stato membro ospitante e alle strutture che questo deve mettere a disposizione nonché le norme specifiche applicabili in tale Stato membro al direttore, ai membri del consiglio d’amministrazione, al personale dell’Ufficio BEREC e ai relativi familiari sono fissate in un accordo sulla sede concluso, previa approvazione del consiglio d’amministrazione ed entro il 21 dicembre 2020, tra l’Ufficio BEREC e lo Stato membro ospitante.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Lo Stato membro ospitante offre le condizioni necessarie per il funzionamento corretto ed efficiente, tra cui una scolarizzazione multilingue e a orientamento europeo, e adeguati collegamenti di trasporto.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_48",
+   "kind": "article",
+   "number": "48",
+   "label": "Articolo 48",
+   "title": "Valutazione",
+   "path": [
+    "CAPO X — DISPOSIZIONI FINALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Entro il 21 dicembre 2023 e successivamente ogni cinque anni, la Commissione effettua una valutazione, in conformità dei propri orientamenti, per valutare i risultati ottenuti dal BEREC e dall’Ufficio BEREC in relazione ai loro obiettivi, al loro mandato, ai loro compiti e alla loro ubicazione. La valutazione riguarda, in particolare, l’eventuale necessità di modificare la struttura o il mandato del BEREC e dell’Ufficio BEREC, e le implicazioni finanziarie di una tale modifica.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Se la Commissione ritiene che l’esistenza del BEREC o dell’Ufficio BEREC non sia più giustificata rispetto agli obiettivi, al mandato e ai compiti che sono stati loro assegnati, può proporre di modificare o abrogare il presente regolamento di conseguenza.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. La Commissione presenta una relazione in merito ai risultati della valutazione al Parlamento europeo, al Consiglio e al consiglio di amministrazione e ne rende pubblici i risultati.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_49",
+   "kind": "article",
+   "number": "49",
+   "label": "Articolo 49",
+   "title": "Disposizioni transitorie",
+   "path": [
+    "CAPO X — DISPOSIZIONI FINALI"
+   ],
+   "blocks": [
+    {
+     "text": "1. L’Ufficio BEREC sostituisce l’Ufficio istituito dal regolamento (CE) n. 1211/2009 per quanto riguarda diritti di proprietà, accordi, obblighi giuridici, contratti di lavoro, impegni finanziari e passività. In particolare, il presente regolamento non incide sui diritti e sugli obblighi del personale dell’Ufficio, i cui contratti di lavoro possono essere rinnovati a norma del presente regolamento nel rispetto dello statuto dei funzionari e del regime applicabile agli altri agenti e tenendo conto dei vincoli di bilancio dell’Ufficio BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Con effetto a decorrere dal 20 dicembre 2018, il direttore amministrativo nominato sulla base del regolamento (CE) n. 1211/2009 svolge il ruolo di direttore con le funzioni previste dal presente regolamento. Le altre condizioni contrattuali del direttore amministrativo rimangono invariate.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Il consiglio di amministrazione può decidere di rinnovare il mandato del direttore di cui al paragrafo 2 del presente articolo per un ulteriore mandato. Si applica, mutatis mutandis, l’articolo 32, paragrafi 5 e 6. Il mandato cumulativo del direttore non supera i dieci anni.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. In attesa della nomina di nuovi rappresentanti, il comitato dei regolatori e il consiglio di amministrazione di cui agli articoli 7 e 15 del presente regolamento sono composti dai membri del comitato dei regolatori e del comitato di gestione di cui agli articoli 4 e 7 del regolamento (CE) n. 1211/2009.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. I presidenti e i vicepresidenti del comitato dei regolatori e del consiglio di amministrazione nominati sulla base del regolamento (CE) n. 1211/2009 rimangono in carica come presidente e vicepresidenti del comitato dei regolatori di cui all’articolo 10 del presente regolamento e come presidente e vicepresidenti del consiglio di amministrazione di cui all’articolo 17 del presente regolamento per il restante periodo del loro mandato di un anno. Sono rispettate le nomine dei presidenti e dei vicepresidenti del comitato dei regolatori e del consiglio di amministrazione avvenute sulla base del regolamento (CE) n. 1211/2009 ed effettuate prima del 20 dicembre 2018, ma che si estendono oltre tale data.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. La procedura di discarico relativa al bilancio, approvata a norma dell’articolo 11 del regolamento (CE) n. 1211/2009, è espletata conformemente alle norme stabilite nel medesimo regolamento.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_50",
+   "kind": "article",
+   "number": "50",
+   "label": "Articolo 50",
+   "title": "Modifiche del regolamento (UE) n. 2015/2120",
+   "path": [
+    "CAPO X — DISPOSIZIONI FINALI"
+   ],
+   "blocks": [
+    {
+     "text": "Il regolamento (UE) 2015/2120 è così modificato:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "1) il titolo è sostituito dal seguente: «Regolamento (UE) 2015/2120 del Parlamento europeo e del Consiglio, del 25 novembre 2015, che stabilisce misure riguardanti l’accesso a un’Internet aperta e le tariffe al dettaglio per le comunicazioni intra-UE regolamentate e che modifica la direttiva 2002/22/CE e il regolamento (UE) n. 531/2012»;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "2) all’articolo 1 è aggiunto il paragrafo seguente: «3. Il presente regolamento stabilisce inoltre norme comuni per garantire che i consumatori non debbano pagare prezzi eccessivi per comunicazioni interpersonali basate sul numero effettuate dallo Stato membro del loro fornitore nazionale verso numeri fissi o mobili in un altro Stato membro.»;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "3) all’articolo 2, secondo comma, sono aggiunti i punti seguenti: «3) “comunicazioni intra-UE regolamentate”: qualsiasi servizio di comunicazioni interpersonali basate sul numero ed effettuate nello Stato membro del fornitore nazionale del consumatore verso numeri fissi o mobili del piano di numerazione nazionale di un altro Stato membro, le cui tariffe sono addebitate in tutto o in parte in base al consumo effettivo; 4) “servizio di comunicazioni interpersonali basate sul numero”: qualsiasi servizio di comunicazioni interpersonali basate sul numero come definite all’articolo 2, punto 6), della direttiva (UE) 2018/1972 del Parlamento europeo e del Consiglio. (*1) Direttiva (UE) 2018/1972 del Parlamento europeo e del Consiglio, dell’11 dicembre 2018, che istituisce il codice europeo delle comunicazioni elettroniche (GU L 321 del 17.12.2018, pag. 36).»;\"",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "4) è inserito l’articolo seguente: «Articolo 5 bis Tariffe al dettaglio per le comunicazioni intra-UE regolamentate 1. A decorrere dal 15 maggio 2019, ogni prezzo al dettaglio (IVA esclusa) applicato ai consumatori per le comunicazioni intra-UE regolamentate non supera l’importo di 0,19 EUR al minuto per le chiamate e di 0,06 EUR per SMS. 2. Fatti salvi gli obblighi di cui al paragrafo 1, i fornitori di comunicazioni intra-UE regolamentate possono inoltre offrire e i consumatori possono scegliere espressamente, per le comunicazioni internazionali che includono le comunicazioni intra-UE regolamentate, una tariffa diversa da quella di cui al paragrafo 1, grazie a cui i consumatori usufruiscono, per le comunicazioni intra-UE regolamentate, di una tariffa diversa rispetto a quella che sarebbe stata applicata altrimenti. Prima che i consumatori scelgano tale tariffa, il fornitore di comunicazioni intra-UE regolamentate li informa della natura dei vantaggi a cui rinunciano. 3. Qualora una tariffa per le comunicazioni intra-UE regolamentate di cui al paragrafo 2 superi i massimali fissati al paragrafo 1, i consumatori che, entro due mesi dal 15 maggio 2019, non hanno confermato o comunicato di voler scegliere una delle tariffe di cui al paragrafo 2 sono automaticamente assoggettati alle tariffe fissate al paragrafo 1. 4. I consumatori possono rinunciare o tornare gratuitamente alle tariffe fissate al paragrafo 1 entro un giorno lavorativo dal ricevimento della richiesta da parte del fornitore e i fornitori provvedono affinché tale cambiamento non comporti condizioni o restrizioni degli elementi dell’abbonamento diversi dalle comunicazioni intra-UE regolamentate. 5. Ove i prezzi massimi di cui al paragrafo 1 siano espressi in una valuta diversa dall’euro, i limiti iniziali sono determinati in tali valute applicando la media dei tassi di cambio di riferimento pubblicati dalla Banca centrale europea il 15 gennaio, il 15 febbraio e 15 marzo 2019 nella Gazzetta ufficiale dell’Unione europea. I limiti in valute diverse dall’euro sono rivisti annualmente a decorrere dal 2020. I limiti rivisti annualmente in tali valute si applicano dal 15 maggio utilizzando la media dei tassi di cambio di riferimento pubblicati il 15 gennaio, il 15 febbraio e il 15 marzo dello stesso anno. 6. Le autorità nazionali di regolamentazione monitorano l’evoluzione del mercato e dei prezzi per le comunicazioni intra-UE regolamentate e riferiscono alla Commissione. Qualora un fornitore di comunicazioni intra-UE regolamentate stabilisca che, a causa di circostanze specifiche ed eccezionali che lo distinguono dalla maggior parte degli altri fornitori dell’Unione, l’applicazione del massimale di cui al paragrafo 1 avrebbe un impatto significativo sulla capacità di tale fornitore di sostenere i prezzi in vigore per le comunicazioni nazionali, un’autorità nazionale di regolamentazione può concedere, su richiesta del fornitore, una deroga al paragrafo 1 soltanto nella misura necessaria e per un periodo rinnovabile di un anno. La valutazione della sostenibilità del modello di tariffazione nazionale è basata sui pertinenti fattori oggettivi specifici al fornitore di comunicazioni intra-UE regolamentate, nonché sul livello dei prezzi e delle entrate nazionali. Qualora il fornitore richiedente abbia assolto l’onere della prova applicabile, l’autorità nazionale di regolamentazione determina il livello massimo di prezzo superiore a uno o a entrambi i massimali di cui al paragrafo 1 che sarebbe indispensabile per garantire la sostenibilità del modello di tariffazione nazionale del fornitore. Il BEREC pubblica orientamenti relativi ai parametri di cui le autorità nazionali di regolamentazione devono tenere conto nelle loro valutazioni.»;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "5) all’articolo 6 è aggiunto il paragrafo seguente: «Gli Stati membri stabiliscono le norme relative alle sanzioni da applicare in caso di violazione dell’articolo 5 bis e adottano tutte le misure necessarie per assicurarne l’applicazione. Le sanzioni previste devono essere effettive, proporzionate e dissuasive. Entro il 15 maggio 2019 gli Stati membri notificano alla Commissione le norme e le misure stabilite per garantire l’attuazione dell’articolo 5 bis e provvedono senza indugio a darle notifica di ogni ulteriore modifica.»;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "6) all’articolo 10, è aggiunto in paragrafo seguente: «5. L’articolo 5 bis cessa di essere in vigore dal 14 maggio 2024.».",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_51",
+   "kind": "article",
+   "number": "51",
+   "label": "Articolo 51",
+   "title": "Abrogazione",
+   "path": [
+    "CAPO X — DISPOSIZIONI FINALI"
+   ],
+   "blocks": [
+    {
+     "text": "Il regolamento (CE) n. 1211/2009 è abrogato.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "I riferimenti al regolamento abrogato si intendono fatti al presente regolamento e si leggono secondo la tavola di concordanza riportata nell’allegato.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_52",
+   "kind": "article",
+   "number": "52",
+   "label": "Articolo 52",
+   "title": "Entrata in vigore",
+   "path": [
+    "CAPO X — DISPOSIZIONI FINALI"
+   ],
+   "blocks": [
+    {
+     "text": "Il presente regolamento entra in vigore il terzo giorno successivo alla pubblicazione nella Gazzetta ufficiale dell’Unione europea.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "anx_1",
+   "kind": "annex",
+   "number": "1",
+   "label": "ALLEGATO",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Tavola di concordanza",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Regolamento (CE) n. 1211/2009 Presente regolamento Articolo 1, paragrafo 1 Articolo 1 Articolo 1, paragrafo 2 Articolo 3, paragrafo 1 Articolo 1, paragrafo 3 Articolo 3, paragrafi 2 e 3 Articolo 1, paragrafo 4 Articolo 3, paragrafo 4, e articolo 4, paragrafo 1, lettere a) e b) Articolo 2 Articolo 4 Articolo 3 Articolo 4 Articolo 4, paragrafo 1 Articolo 6 Articolo 4, paragrafo 2 Articolo 7, paragrafi 1, 2 e 4, articolo 8, paragrafi 1 e 2 Articolo 4, paragrafo 3 Articolo 11, paragrafi 4 e 5, e articolo 36 Articolo 4, paragrafo 4 Articolo 10, paragrafi 1, 2 e 3 Articolo 4, paragrafo 5 Articolo 10, paragrafo 4 Articolo 4, paragrafo 6 Articolo 11 Articolo 4, paragrafo 7 Articolo 13 Articolo 4, paragrafo 8 Articolo 7, paragrafo 4 Articolo 4, paragrafo 9 Articolo 12, paragrafi 1 e 2 Articolo 4, paragrafo 10 Articolo 12, paragrafo 3 Articolo 4, paragrafo 11 Articolo 5 Articolo 5 Articolo 4 Articolo 6, paragrafo 1 Articolo 2, paragrafo 1 Articolo 6, paragrafo 2 Articolo 5 Articolo 6, paragrafo 3 Articolo 14, paragrafo 1 Articolo 6, paragrafo 4 Articolo 2, paragrafo 2 Articolo 6, paragrafo 5 Articoli 20 e 31 Articolo 7, paragrafo 1 Articolo 15, paragrafo 1 Articolo 7, paragrafo 2 Articolo 32 Articolo 7, paragrafo 3 Articolo 20, paragrafo 6 Articolo 7, paragrafo 4 Articolo 16, paragrafo 1, lettera k) Articolo 7, paragrafo 5 Articolo 13 Articolo 8 Articolo 32 Articolo 9 Articolo 20 Articolo 10, paragrafo 1 Articoli 30 e 34 Articolo 10, paragrafo 2 Articolo 16, paragrafo 1, lettera j Articolo 10, paragrafo 3 Articolo 16, paragrafo 2 Articolo 10, paragrafo 4 Articolo 33 Articolo 11 Articolo 25 Articolo 12 Articolo 24 Articolo 13 Articolo 26 Articolo 14 — Articolo 15 Articolo 29 Articolo 16 Articolo 43 Articolo 17 Articolo 4, paragrafo 5 Articolo 18 Articolo 37 Articolo 19 Articoli 39 e 40 Articolo 20 Articolo 38 Articolo 21 Articolo 42 Articolo 22 Articolo 36 Articolo 23 Articolo 34 Articolo 24 Articolo 44 Articolo 25 Articolo 48 Articolo 26 Articolo 52",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  }
+ ]
+}

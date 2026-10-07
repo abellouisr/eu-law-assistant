@@ -1,0 +1,30 @@
+{
+  "id": "eecc",
+  "short_name": "European Electronic Communications Code",
+  "title": "Directive (EU) 2018/1972 of the European Parliament and of the Council of 11 December 2018 establishing the European Electronic Communications Code (Recast)",
+  "citation": "Directive (EU) 2018/1972",
+  "scope": "The EU regulatory framework for electronic communications networks and services, associated facilities and services, and certain aspects of terminal equipment: national regulatory authorities, general authorisation, radio spectrum, numbering, access and interconnection, significant market power, universal service, and end-user rights.",
+  "reference_language": "EN",
+  "active_version": "latest",
+  "recitals_from_original": false,
+  "examples": [
+    "What procedure must a national regulatory authority follow before imposing obligations on an undertaking with significant market power?",
+    "Which end-user rights apply to number-independent interpersonal communications services, and which are excluded?"
+  ],
+  "versions": [
+    {
+      "id": "2018-12-17",
+      "celex": "32018L1972",
+      "kind": "original",
+      "date": "2018-12-17",
+      "note": "Text as published in the Official Journal (OJ L 321, 17.12.2018). Kept for comparison only; not the version in use."
+    },
+    {
+      "id": "2024-10-18",
+      "celex": "02018L1972-20241018",
+      "kind": "consolidated",
+      "date": "2024-10-18",
+      "note": "Latest consolidated text on EUR-Lex, checked 7 October 2026 (125 articles, against 127 in the Official Journal text). Consolidated texts are documentation tools and have no legal effect; only the Official Journal text is authentic."
+    }
+  ]
+}

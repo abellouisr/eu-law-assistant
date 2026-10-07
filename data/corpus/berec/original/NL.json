@@ -1,0 +1,2822 @@
+{
+ "document": "berec",
+ "version": "original",
+ "lang": "NL",
+ "meta": {
+  "source": "eurlex",
+  "celex": "32018R1971",
+  "kind": "original",
+  "date": "2018-12-11",
+  "built_at": "2026-10-07T10:10:22+00:00",
+  "sources_sha256": {
+   "32018R1971": "7640f2d956a4bf23490d1fd40845b815dc1171454298d6442fb7f62ddcd2e0f9"
+  },
+  "counts": {
+   "article": 52,
+   "recital": 53,
+   "annex": 1
+  }
+ },
+ "provisions": [
+  {
+   "id": "rct_1",
+   "kind": "recital",
+   "number": "1",
+   "label": "(1)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Richtlijn (EU) 2018/1972 van het Europees Parlement en de Raad heeft tot doel binnen de Unie een interne markt voor elektronische communicatie tot stand te brengen, en door meer concurrentie een hoog niveau van investeringen, innovatie en consumentenbescherming te bewerkstelligen. Die richtlijn verleent ook een groot aantal nieuwe taken aan het Orgaan van Europese regulerende instanties voor elektronische communicatie („Berec”), zoals het uitvaardigen van richtsnoeren over bepaalde thema’s, het rapporteren over technische aangelegenheden, het bijhouden van registers, lijsten of databanken, en het uitbrengen van advies over internemarktprocedures voor ontwerpen van nationale marktreguleringsmaatregelen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_2",
+   "kind": "recital",
+   "number": "2",
+   "label": "(2)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Bij Verordening (EU) nr. 531/2012 van het Europees Parlement en de Raad worden de regels van het regelgevend kader voor elektronische communicatie met betrekking tot roaming in de gehele Unie aangevuld en aangescherpt, en wordt een aantal taken aan Berec toegewezen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_3",
+   "kind": "recital",
+   "number": "3",
+   "label": "(3)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Verordening (EU) 2015/2120 van het Europees Parlement en de Raad stelt extra taken voor Berec vast met betrekking tot open-internettoegang. Bovendien worden de richtsnoeren van Berec van 30 augustus 2016, die handelen over de uitvoering van de Europese Netneutraliteitsregels door de nationale reguleringsinstanties („NRI’s”), beschouwd als een waardevolle verduidelijking van de garantie op een sterk, vrij en open internet, omdat ze de consistente toepassing waarborgen van regels voor de gelijke en niet-discriminerende behandeling van het verkeer bij het aanbieden van internettoegangsdiensten en daaraan verbonden rechten voor de eindgebruiker.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_4",
+   "kind": "recital",
+   "number": "4",
+   "label": "(4)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Met het oog op de ontwikkeling van een consistente regelgevingspraktijk en een consistente toepassing van het regelgevend kader van de Unie voor elektronische communicatie heeft de Commissie bij Besluit 2002/627/EG van de Commissie de Europese groep van regelgevende instanties voor elektronischecommunicatienetwerken en -diensten opgericht, die haar moet adviseren en bijstaan bij de consolidatie van de interne markt voor elektronischecommunicatienetwerken en -diensten en meer in het algemeen, de verbinding moet vormen tussen NRI’s en de Commissie.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_5",
+   "kind": "recital",
+   "number": "5",
+   "label": "(5)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berec en het Bureau werden opgericht bij Verordening (EG) nr. 1211/2009 van het Europees Parlement en de Raad. Berec verving de Europese Groep van regelgevende instanties en moest enerzijds tot de ontwikkeling en anderzijds tot de betere werking van de interne markt voor elektronischecommunicatienetwerken en -diensten bijdragen, door te streven naar een consistente toepassing van het regelgevend kader voor elektronische communicatie. Berec fungeert als forum voor de samenwerking tussen de NRI’s onderling en tussen de NRI’s en de Commissie bij de uitvoering van al hun taken uit hoofde van het regelgevend kader van de Unie. Berec werd opgericht om expertise te verschaffen en onafhankelijk en transparant te handelen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_6",
+   "kind": "recital",
+   "number": "6",
+   "label": "(6)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berec dient ook als orgaan voor beraad, discussie en adviesverlening aan het Europees Parlement, de Raad en de Commissie op het gebied van elektronische communicatie.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_7",
+   "kind": "recital",
+   "number": "7",
+   "label": "(7)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Het Bureau werd opgericht als communautair orgaan met rechtspersoonlijkheid om de in Verordening (EG) nr. 1211/2009 omschreven taken uit te voeren, met name het verstrekken van diensten voor de professionele en administratieve ondersteuning van Berec. Om Berec doeltreffend te kunnen ondersteunen, werd aan het Bureau juridische, administratieve en financiële autonomie verleend.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_8",
+   "kind": "recital",
+   "number": "8",
+   "label": "(8)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Bij Besluit 2010/349/EU besloten de vertegenwoordigers van de regeringen der lidstaten dat de zetel van het Bureau in Riga zou worden gevestigd. De zetelovereenkomst tussen de regering van de Republiek Letland en het Bureau trad op 5 augustus 2011 in werking.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_9",
+   "kind": "recital",
+   "number": "9",
+   "label": "(9)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "In haar mededeling van 6 mei 2015 met als titel „Strategie voor een digitale eengemaakte markt voor Europa” kondigde de Commissie aan dat zij in 2016 voorstellen zou indienen voor een ambitieuze revisie van het regelgevend kader voor elektronische communicatie, die onder meer gericht zouden zijn op een doeltreffender institutioneel regelgevend kader, teneinde de regels op het gebied van elektronische communicatie geschikt te maken voor het beoogde doel, waarmee de juiste voorwaarden worden geschapen voor de digitale eengemaakte markt. Daartoe behoren de uitrol van netwerken van zeer hoge capaciteit, een betere coördinatie van het beheer van het radiospectrum voor draadloze netwerken en het creëren van een gelijk speelveld voor geavanceerde digitale netwerken en innovatieve diensten. In die mededeling werd erop gewezen dat de veranderingen in de markt en de technologische omgeving een versterking van het institutionele kader vereisen, met een grotere rol voor Berec.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_10",
+   "kind": "recital",
+   "number": "10",
+   "label": "(10)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "In zijn resolutie van 19 januari 2016, met als titel „Naar een akte voor digitale interne markt”, verzocht het Europees Parlement de Commissie te werken aan de verdere integratie van de digitale eengemaakte markt door te zorgen voor een efficiënter institutioneel kader.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_11",
+   "kind": "recital",
+   "number": "11",
+   "label": "(11)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berec en het Bureau hebben een positieve bijdrage geleverd aan de consistente tenuitvoerlegging van het regelgevend kader voor elektronische communicatie. Toch zijn er nog steeds grote verschillen tussen de lidstaten met betrekking tot de regelgevingspraktijk, wat nadelig is voor bedrijven die grensoverschrijdend zaken doen of die actief zijn in een aanzienlijk aantal lidstaten, ook die waar er reeds Berec-richtsnoeren bestaan, welke echter nadere ontwikkeling behoeven. Doel van deze verordening is de rol van Berec te versterken, om zo verder bij te dragen aan de ontwikkeling van de interne markt voor elektronische communicatie in de hele Unie, aan de bevordering van de toegang tot en het gebruik van netwerken van zeer hoge capaciteit, aan concurrentie in het aanbod van elektronischecommunicatienetwerken, -diensten en bijbehorende faciliteiten, en aan de belangen van de burgers van de Unie. Een dergelijke versterkte rol zou ook een aanvulling vormen op de grotere rol die Berec speelt krachtens de Verordeningen (EU) nr. 531/2012 en (EU) 2015/2120 en Richtlijn (EU) 2018/1972.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_12",
+   "kind": "recital",
+   "number": "12",
+   "label": "(12)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Gelet op markt- en technologische ontwikkelingen, die vaak tot vergroting van de grensoverschrijdende dimensie leiden, en op de tot dusver opgedane ervaringen bij het proberen bereiken van een consistente tenuitvoerlegging op het gebied van elektronische communicatie, moet worden voortgebouwd op het werk van Berec en het Bureau. Hun governance en activiteiten moeten worden gestroomlijnd en aangepast aan de taken die zij moeten verrichten. Gelet op de vaste procedures en de nieuwe taken die aan Berec en het Bureau zijn toegewezen, en teneinde de doeltreffendheid ervan te vergroten, moet er voor stabieler bestuur ervan worden gezorgd en moet het besluitvormingsproces worden vereenvoudigd.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_13",
+   "kind": "recital",
+   "number": "13",
+   "label": "(13)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berec moet expertise verstrekken en vertrouwen helpen opbouwen dankzij zijn onafhankelijkheid, de kwaliteit van zijn advies en voorlichting, de transparantie van zijn procedures en werkmethoden, en de zorgvuldigheid waarmee het zijn taken verricht. De onafhankelijkheid van Berec mag niet beletten dat de raad van regulators beraadslaagt op basis van door de werkgroepen opgestelde ontwerpen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_14",
+   "kind": "recital",
+   "number": "14",
+   "label": "(14)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "De nieuwe officiële benaming van het Bureau moet „Agentschap voor de ondersteuning van BEREC” (het „Berec-Bureau”) worden. De benaming „Berec-Bureau” moet als de verkorte naam van het Bureau worden gebruikt. Het Berec-Bureau moet juridisch, bestuurlijk en financieel autonoom zijn. Te dien einde is het noodzakelijk en gepast dat het Berec-Bureau een orgaan van de Unie met rechtspersoonlijkheid is dat de hem toegekende bevoegdheden uitoefent. Als gedecentraliseerd agentschap van de Unie moet het Berec-Bureau binnen zijn mandaat en het bestaande institutionele kader opereren. Het mag niet worden beschouwd als een instantie die een standpunt van de Unie ten aanzien van de buitenwereld vertolkt of wettelijke verbintenissen voor de Unie aangaat.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_15",
+   "kind": "recital",
+   "number": "15",
+   "label": "(15)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "De regels voor de governance en het functioneren van het Berec-Bureau moeten bovendien, waar toepasselijk, afgestemd zijn op de beginselen van de gezamenlijke verklaring van het Europees Parlement, de Raad en de Europese Commissie van 19 juli 2012 over gedecentraliseerde agentschappen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_16",
+   "kind": "recital",
+   "number": "16",
+   "label": "(16)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "De instellingen van de Unie en de NRI’s moeten op bijstand en advies van Berec kunnen rekenen, onder meer omtrent de regelgevingsimpact van aangelegenheden met betrekking tot de algemene dynamiek van digitale markten of omtrent hun betrekkingen, gesprekken en uitwisselingen, en het delen van goede regelgevingspraktijken met derden. Naast het leveren van bijdragen aan de openbare raadpleging van de Commissie moet Berec op verzoek de Commissie tevens advies geven bij de voorbereiding van wetgevingsvoorstellen. Berec moet ook advies kunnen verstrekken aan het Europees Parlement en de Raad, hetzij op hun verzoek hetzij op eigen initiatief.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_17",
+   "kind": "recital",
+   "number": "17",
+   "label": "(17)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Als technisch orgaan met expertise op het gebied van elektronische communicatie, bestaande uit vertegenwoordigers van de NRI’s en de Commissie, is Berec bij uitstek geschikt voor taken zoals het bevorderen van efficiënte internemarktprocedures voor ontwerpen van nationale marktreguleringsmaatregelen, het verstrekken van de nodige richtsnoeren aan NRI’s en andere bevoegde autoriteiten met het oog op gemeenschappelijke criteria en een consistente regelgevingsaanpak, en het bijhouden van bepaalde registers, databanken en lijsten op het niveau van de Unie. Hiermee wordt geen afbreuk gedaan aan de taken die zijn toegewezen aan de NRI’s, die het dichtst bij de markten voor elektronische communicatie en de lokale omstandigheden staan.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_18",
+   "kind": "recital",
+   "number": "18",
+   "label": "(18)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Om zijn taken uit te voeren moet Berec de deskundigheid van de NRI’s blijven bundelen. Berec moet ernaar streven alle NRI’s bij de uitvoering van zijn regulerende taken en bij zijn werking te betrekken. Om Berec sterker en representatiever te maken en zijn expertise, ervaring en kennis van de specifieke situatie van alle nationale markten te bewaren, moet elke lidstaat erop toezien dat zijn NRI over voldoende financiële en personele middelen beschikt om ten volle deel te nemen aan het werk van Berec.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_19",
+   "kind": "recital",
+   "number": "19",
+   "label": "(19)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Gelet op de toenemende convergentie tussen de sectoren die elektronische communicatiediensten leveren en gelet op de horizontale dimensie van reguleringskwesties met betrekking tot de ontwikkeling ervan, moet het Berec en het Berec-Bureau worden toegestaan om samen te werken met — zonder afbreuk te doen aan hun rol — NRI’s, andere organen, instanties, agentschappen en adviesgroepen van de Unie, met name de Beleidsgroep Radiospectrum, opgericht bij Besluit 2002/622/EG van de Commissie, de Europese Toezichthouder voor gegevensbescherming, ingesteld bij Verordening (EU) 2018/1725 van het Europees Parlement en de Raad, het Europees Comité voor gegevensbescherming, ingesteld bij Verordening (EU) 2016/679 van het Europees Parlement en de Raad, de Europese Groep van regelgevende instanties voor audiovisuele mediadiensten, opgericht bij Richtlijn 2010/13/EU van het Europees Parlement en de Raad, het agentschap van de Europese Unie voor netwerk- en informatiebeveiliging, opgericht bij Verordening (EU) nr. 526/2013 van het Europees Parlement en de Raad, het Europese GNSS-Agentschap, opgericht bij Verordening (EU) nr. 912/2010 van het Europees Parlement en de Raad, het Netwerk voor samenwerking inzake consumentenbescherming, opgericht bij Verordening (EG) nr. 2006/2004 van het Europees Parlement en de Raad, het Europees netwerk van mededingingsautoriteiten en de Europese normalisatieorganisaties, alsook met bestaande comités (zoals het Comité voor communicatie en het Radiospectrumcomité). Berec en het Berec-Bureau moeten ook kunnen samenwerken met de relevante, voor mededinging, consumentenbescherming en gegevensbescherming bevoegde, autoriteiten van de lidstaten en met de bevoegde autoriteiten van derde landen, met name de regulerende instanties die bevoegd zijn op het gebied van elektronische communicatie of groepen van die autoriteiten alsmede met internationale organisaties, indien dit nodig is voor het vervullen van hun taken. Berec moet ook belanghebbenden kunnen raadplegen door middel van een openbare raadpleging.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_20",
+   "kind": "recital",
+   "number": "20",
+   "label": "(20)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berec moet met de bevoegde organen, instanties, agentschappen en adviesgroepen van de Unie, met de bevoegde autoriteiten van derde landen en met internationale organisaties werkafspraken mogen maken, die geen juridisch bindende verplichtingen mogen doen ontstaan. Doel van die werkafspraken kan bijvoorbeeld zijn samenwerkingsverbanden te ontwikkelen en te overleggen over reguleringsvraagstukken. De Commissie moet ervoor zorgen dat de noodzakelijke werkafspraken stroken met het beleid en de prioriteiten van de Unie, en dat Berec binnen zijn mandaat en binnen het bestaande institutionele kader functioneert, en dus niet wordt beschouwd als een instantie die een standpunt van de Unie ten aanzien van de buitenwereld vertolkt of voor de Unie internationale verbintenissen aangaat.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_21",
+   "kind": "recital",
+   "number": "21",
+   "label": "(21)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berec moet bestaan uit de raad van regulators en werkgroepen. Het roulerende voorzitterschap van de raad van regulators is bedoeld om te zorgen voor continuïteit van de werkzaamheden van Berec. Het instellen van roulerende vicevoorzitters die diverse NRI’s vertegenwoordigen, wordt ook gepromoot.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_22",
+   "kind": "recital",
+   "number": "22",
+   "label": "(22)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berec moet in het belang van de Unie kunnen handelen, onafhankelijk van externe invloeden, zoals politieke druk of commerciële inmenging. Het is derhalve belangrijk ervoor te zorgen dat de personen die in de raad van regulators worden aangesteld, in persoonlijk en functioneel opzicht zo onafhankelijk mogelijk zijn. Het hoofd van een NRI of een lid van het collegiale orgaan ervan, of de vervanger van een van hen, genieten deze mate van persoonlijke en functionele onafhankelijkheid. Meer in het bijzonder moeten zij onafhankelijk en objectief handelen, mogen zij geen instructies te vragen of te aanvaarden bij de uitoefening van hun taken, en moeten zij worden beschermd tegen willekeurig ontslag. De functie van de plaatsvervanger in de raad van regulators kan ook worden verricht door het hoofd van de NRI, een lid van het collegiale orgaan daarvan, de vervanger van een van hen, of door een ander personeelslid van de NRI, die handelt namens het vervangen lid van de raad van regulators en in overeenstemming met de reikwijdte van het door dit lid verstrekte mandaat.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_23",
+   "kind": "recital",
+   "number": "23",
+   "label": "(23)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Uit de ervaring is gebleken dat de meeste taken van Berec beter worden uitgevoerd via werkgroepen, die er altijd voor moeten zorgen dat de standpunten en bijdragen van alle NRI’s evenveel aandacht krijgen. Daarom moet de raad van regulators werkgroepen oprichten en de voorzitters daarvan benoemen. NRI’s dienen snel te reageren op verzoeken tot aanstelling, teneinde te zorgen voor de snelle oprichting van werkgroepen, met name die welke betrekking hebben op procedures waarvoor termijnen gelden. De werkgroepen moeten openstaan voor deelname door deskundigen van de Commissie. Het personeel van het Berec-Bureau moet ondersteuning verlenen en bijdragen aan de werkzaamheden van de werkgroepen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_24",
+   "kind": "recital",
+   "number": "24",
+   "label": "(24)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Indien nodig moeten de raad van regulators en de raad van bestuur op ad-hocbasis eenieder van wie het advies dienstig kan zijn, kunnen uitnodigen om de vergaderingen als waarnemer bij te wonen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_25",
+   "kind": "recital",
+   "number": "25",
+   "label": "(25)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "In voorkomend geval moeten, naargelang van de taakverdeling onder autoriteiten in elke lidstaat, de standpunten van andere bevoegde autoriteiten in aanmerking worden genomen in de relevante werkgroep, bijvoorbeeld door raadplegingen op nationaal niveau of door die andere autoriteiten uit te nodigen voor de relevante vergaderingen waar hun expertise nodig is. In elk geval dient de onafhankelijkheid van Berec te worden gehandhaafd.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_26",
+   "kind": "recital",
+   "number": "26",
+   "label": "(26)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "De raad van regulators en de raad van bestuur moeten naast elkaar werken, waarbij eerstgenoemde voornamelijk besluit over regelgevingskwesties en laatstgenoemde over bestuurlijke kwesties, zoals begroting, personeel en audits. De vertegenwoordigers van de NRI’s in de raad van bestuur dienen in beginsel, naast de vertegenwoordigers van de Commissie, dezelfde mensen te zijn als die welke zijn benoemd tot lid van de raad van regulators, maar NRI’s moeten andere vertegenwoordigers die aan dezelfde voorwaarden voldoen, kunnen aanstellen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_27",
+   "kind": "recital",
+   "number": "27",
+   "label": "(27)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Voorheen werden de bevoegdheden van het tot aanstelling bevoegde gezag uitgeoefend door de vicevoorzitter van het comité van beheer van het Bureau. Deze verordening bepaalt dat de raad van bestuur de betreffende bevoegdheden van het tot aanstelling bevoegde gezag delegeert aan de directeur, die deze bevoegdheden op zijn beurt kan subdelegeren. Dit zou moeten bijdragen tot een efficiënt beheer van het personeel van het Berec-Bureau.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_28",
+   "kind": "recital",
+   "number": "28",
+   "label": "(28)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "De raad van regulators en de raad van bestuur moeten ten minste twee gewone vergaderingen per jaar houden. In het licht van de opgedane ervaring en de versterkte rol van Berec kan het nodig zijn dat de raad van regulators en de raad van bestuur extra vergaderingen houden.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_29",
+   "kind": "recital",
+   "number": "29",
+   "label": "(29)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "De directeur moet in juridische en bestuurlijke aangelegenheden de vertegenwoordiger van het Berec-Bureau blijven. De raad van bestuur moet de directeur benoemen na een open en transparante selectieprocedure om een strenge beoordeling van de kandidaten en een grote mate van onafhankelijkheid te waarborgen. De ambtstermijn van de administratief directeur van het Bureau bedroeg voorheen drie jaar. Het is noodzakelijk dat de directeur over een voldoende lang mandaat beschikt om het Berec-Bureau stabiliteit en uitzicht op een langetermijnstrategie te bieden.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_30",
+   "kind": "recital",
+   "number": "30",
+   "label": "(30)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Gedelegeerde Verordening (EU) nr. 1271/2013 van de Commissie dient op het Berec-Bureau van toepassing te zijn.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_31",
+   "kind": "recital",
+   "number": "31",
+   "label": "(31)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Het Berec-Bureau moet alle nodige professionele en administratieve ondersteuning leveren voor het werk van Berec, onder meer op financieel, organisatorisch en logistiek gebied, en moet bijdragen tot de regulerende werkzaamheden van Berec.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_32",
+   "kind": "recital",
+   "number": "32",
+   "label": "(32)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Om de autonomie en de onafhankelijkheid van het Berec-Bureau te waarborgen en het werk van Berec te ondersteunen, moet het Berec-Bureau over een eigen budget beschikken dat hoofdzakelijk met Uniemiddelen moet worden gefinancierd. Het budget moet toereikend zijn en de taakuitbreiding en de zwaardere rol van Berec en het Berec-Bureau moeten erin terug te zien zijn. Overeenkomstig punt 31 van het Interinstitutioneel Akkoord van 2 december 2013 tussen het Europees Parlement, de Raad en de Commissie betreffende de begrotingsdiscipline, de samenwerking in begrotingszaken en een goed financieel beheer moet over de financiering van het Berec-Bureau overeenstemming worden bereikt door de begrotingsautoriteit.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_33",
+   "kind": "recital",
+   "number": "33",
+   "label": "(33)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Het Berec-Bureau moet voldoende personeel krijgen om zijn taken te vervullen. Alle aan het Berec-Bureau toebedeelde taken, de diensten die Berec professionele en administratieve ondersteuning bieden bij het uitvoeren van zijn regulerende taken, de naleving van onder meer de financiële regelgeving en het statuut, en het grotere gewicht dat de operationele taken van het Berec-bureau moeten krijgen ten opzichte van zijn administratieve taken, moeten terdege worden beoordeeld en tot uiting komen in de middelenprogrammering van het Berec-Bureau.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_34",
+   "kind": "recital",
+   "number": "34",
+   "label": "(34)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Met het oog op een grotere consistentie in de toepassing van het regelgevend kader voor elektronische communicatie moeten de raad van regulators, de werkgroepen en de raad van bestuur openstaan voor de deelname van op het gebied van elektronische communicatie bevoegde regulerende instanties van derde landen, indien die derde landen daartoe overeenkomsten met de Unie hebben gesloten, zoals EVA/EER-landen en kandidaat-lidstaten.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_35",
+   "kind": "recital",
+   "number": "35",
+   "label": "(35)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "In overeenstemming met het transparantiebeginsel moeten Berec en het Berec-Bureau waar nodig informatie over hun werkzaamheden publiceren op hun webpagina. Berec moet alle definitieve documenten ter ondersteuning van zijn taken, zoals adviezen, richtsnoeren, verslagen, aanbevelingen, gemeenschappelijke standpunten en beste praktijken, alsmede alle ter ondersteuning van zijn taken bestelde studies, openbaar maken. Berec en het Berec-Bureau moeten ook geactualiseerde lijsten van hun taken en geactualiseerde lijsten van leden, plaatsvervangende leden en andere deelnemers aan de vergaderingen van hun organen bekendmaken, evenals de door de leden van de raad van regulators, door de leden van de raad van bestuur en door de directeur opgestelde belangenverklaringen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_36",
+   "kind": "recital",
+   "number": "36",
+   "label": "(36)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berec moet met ondersteuning van het Berec-Bureau binnen het kader van zijn bevoegdheden communicatieactiviteiten kunnen ontplooien, die niet ten koste van zijn kerntaken gaan. De inhoud en de uitvoering van de communicatiestrategie van Berec moeten consistent, objectief en relevant zijn, en worden gecoördineerd met de strategieën en activiteiten van de Commissie en de andere instellingen teneinde rekening te houden met het algemene beeld van de Unie. De communicatieactiviteiten van het Berec-Bureau moeten in overeenstemming zijn met de desbetreffende communicatie- en verspreidingsplannen die zijn vastgesteld door de raad van bestuur.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_37",
+   "kind": "recital",
+   "number": "37",
+   "label": "(37)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Om hun taken doeltreffend uit te oefenen, moeten Berec en het Berec-Bureau het recht hebben alle nodige informatie op te vragen van de Commissie, de NRI’s of, in laatste instantie, andere autoriteiten en ondernemingen. Verzoeken om informatie moeten worden gemotiveerd, moeten proportioneel zijn en mogen geen buitensporige last met zich meebrengen voor de adressaten. De NRI’s moeten met Berec en het Berec-Bureau samenwerken en moeten hen met het oog op de vervulling van hun taken tijdig en accuraat van informatie voorzien. Berec en het Berec-Bureau moeten ook, op grond van het beginsel van loyale samenwerking, alle noodzakelijke informatie delen met de Commissie, de NRI’s en andere bevoegde autoriteiten. Waar nodig moet de vertrouwelijkheid van de informatie worden gewaarborgd. Bij het beoordelen van de vraag of een verzoek naar behoren is gemotiveerd, moet Berec bekijken of de gevraagde informatie verband houdt met de uitvoering van taken die exclusief aan de relevante autoriteiten zijn toegewezen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_38",
+   "kind": "recital",
+   "number": "38",
+   "label": "(38)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Het Berec-Bureau moet een gemeenschappelijk informatie- en communicatiesysteem opzetten om overlapping van informatieaanvragen te voorkomen en de communicatie tussen alle betrokken instanties te vergemakkelijken.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_39",
+   "kind": "recital",
+   "number": "39",
+   "label": "(39)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Om een hoge mate van vertrouwelijkheid te waarborgen en belangenconflicten te voorkomen, moeten de desbetreffende regels die voor leden van de organen van Berec en het Berec-Bureau gelden, van toepassing zijn op hun plaatsvervangers.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_40",
+   "kind": "recital",
+   "number": "40",
+   "label": "(40)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Aangezien deze verordening nieuwe taken verleent aan Berec en het Berec-Bureau en andere rechtshandelingen van de Unie hun nog aanvullende taken zouden kunnen verlenen, moet de Commissie het functioneren van Berec en het Berec-Bureau en de doeltreffendheid van hun institutionele structuur in een veranderende digitale omgeving, regelmatig evalueren. Indien de Commissie als resultaat van die evaluatie meent dat de institutionele structuur niet geschikt is voor het uitvoeren van de taken van Berec en het Berec-Bureau, en met name voor het waarborgen van consistente toepassing van het regelgevend kader voor elektronische communicatie, moet zij alle mogelijke opties verkennen voor verbetering van die structuur.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_41",
+   "kind": "recital",
+   "number": "41",
+   "label": "(41)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Het Bureau, dat bij Verordening (EG) nr. 1211/2009 werd opgericht als communautair orgaan met rechtspersoonlijkheid, wordt opgevolgd door het bij de onderhavige verordening opgerichte Berec-Bureau met betrekking tot alle eigendomsrechten, overeenkomsten, met inbegrip van de zetelovereenkomst, wettelijke verplichtingen, arbeidsovereenkomsten, financiële verbintenissen en passiva. Het Berec-Bureau moet het personeel van het Bureau overnemen, van wie de rechten en plichten onverlet moeten worden gelaten. Voor de continuïteit in de werkzaamheden van Berec en het Bureau moeten hun vertegenwoordigers, te weten de voorzitter en vicevoorzitters van de raad van regulators, het beheerscomité en de administratief directeur, hun hele lopende ambtstermijn uitdienen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_42",
+   "kind": "recital",
+   "number": "42",
+   "label": "(42)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "In de meeste lidstaten blijft een aanzienlijk aantal consumenten zich trouw bedienen van traditionele vormen van internationale communicatiemiddelen zoals telefoongesprekken en sms-berichten, ook al heeft een toenemend aantal consumenten toegang tot nummeronafhankelijke interpersoonlijke communicatiediensten voor hun behoeften op het gebied van internationale oproepen, en dat tegen lagere tarieven dan voor traditionele diensten of zelfs zonder geldelijke betaling.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_43",
+   "kind": "recital",
+   "number": "43",
+   "label": "(43)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "In 2013 diende de Commissie een voorstel in voor een op effecten beoordeelde verordening, met een bepaling betreffende regulerende maatregelen van toepassing op communicaties binnen de EU. Aanvullende gegevens over de markt voor communicaties binnen de EU werden van 2017 tot en met 2018 door Berec en de Commissie verzameld in het kader van een studie van de Commissie en de Eurobarometer. Wat deze gegevens laten zien, is dat er voor zowel vaste als mobiele communicatie aanzienlijke prijsverschillen blijven bestaan tussen spraak- en sms-communicatie in eigen land en diezelfde communicatie met een andere lidstaat, en dat in een context van aanzienlijke prijsvariaties tussen landen, aanbieders en tariefpakketten, alsmede tussen mobiele en vaste spraakcommunicatie. Voor communicaties binnen de EU rekenen aanbieders van openbare nummergebaseerde interpersoonlijke communicatiediensten dikwijls op verbruik gebaseerde prijzen aan die ruimschoots boven de prijzen voor binnenlandse tarieven liggen, plus extra kosten. Gemiddeld is de standaardprijs voor een gesprek binnen de EU via vaste of mobiele telefonie ongeveer drie keer zo hoog als de standaardprijs voor een binnenlands gesprek, en is de standaardprijs voor een sms-bericht binnen de EU meer dan twee keer zo hoog als die voor een binnenlands sms-bericht. Achter die rekenkundige gemiddelden schuilen echter aanzienlijke verschillen tussen de lidstaten. In sommige gevallen kan de standaardprijs voor een gesprek binnen de EU wel oplopen tot acht keer zo hoog als de standaardprijs voor gesprekken in eigen land. Bijgevolg staan de klanten in diverse lidstaten bloot aan zeer hoge prijzen voor communicaties binnen de EU. Dergelijke hoge prijzen gelden vooral voor consumenten, en dan met name die consumenten die niet dikwijls gebruikmaken van dit type communicatie of consumenten met een laag verbruiksvolume, met andere woorden de grote meerderheid van de consumenten die gebruikmaken van communicaties binnen de EU. Tegelijkertijd hebben verscheidene aanbieders speciale aanbiedingen die bij uitstek aantrekkelijk zijn voor zakelijke klanten en consumenten met een aanzienlijk verbruik van communicaties binnen de EU. Dergelijke aanbiedingen behelzen dikwijls geen prijzen op basis van het werkelijke verbruik en kunnen bestaan uit een bepaald aantal belminuten of sms-berichten binnen de EU voor een vast maandbedrag (add-ons), of er kan een bepaald aantal belminuten of sms-berichten binnen de EU in de maandelijkse vaste hoeveelheid belminuten of sms-berichten worden opgenomen, zonder enige toeslag of met een geringe toeslag. De voorwaarden die bij dergelijke aanbiedingen gelden, zijn echter dikwijls niet aantrekkelijk voor consumenten met slechts sporadische, onvoorspelbare of betrekkelijk lage volumes aan communicaties binnen de EU. Bijgevolg lopen die consumenten het risico buitensporige prijzen te moeten betalen voor hun communicaties binnen de EU, en dienen zij te worden beschermd.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_44",
+   "kind": "recital",
+   "number": "44",
+   "label": "(44)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Daarnaast vormen hoge prijzen voor communicaties binnen de EU een belemmering voor de werking van de interne markt omdat zij het zoeken naar en het aankopen van goederen en diensten van een in een andere lidstaat gevestigde aanbieder ontmoedigen. Om dergelijke hoge prijzen uit de wereld te helpen, moeten er derhalve specifieke en evenredige grenzen worden gesteld aan de prijs die aanbieders van openbare nummergebaseerde interpersoonlijke communicatiediensten aan consumenten mogen aanrekenen voor communicaties binnen de EU.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_45",
+   "kind": "recital",
+   "number": "45",
+   "label": "(45)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Wanneer aanbieders van openbaar beschikbare nummergebaseerde interpersoonlijke communicatiediensten hun consumenten communicaties binnen de EU aanrekenen tegen tarieven die geheel of gedeeltelijk zijn gebaseerd op het verbruik van die diensten, ook in gevallen van verbruiksgebaseerde aftrek op een maandelijkse of vooraf betaalde vaste hoeveelheid van die diensten, mogen die tarieven niet hoger liggen dan 0,19 EUR per minuut voor gesprekken en 0,06 EUR per sms-bericht. Die plafonds komen overeen met de maximumprijzen die thans gelden voor respectievelijk gereguleerde roaminggesprekken en -sms-berichten. Bij roaming binnen de Unie genieten consumenten de bescherming van het euro-spraaktarief en het euro-sms-tarief, die geleidelijk zijn vervangen door roaming tegen thuistarief. Die plafonds worden ook als een geschikt ijkpunt beschouwd voor het bepalen van het maximumtarief voor gereguleerde communicaties binnen de EU gedurende vijf jaar vanaf 15 mei 2019. De huidige hoogte van het plafond vormt een eenvoudige, transparante en beproefde bescherming tegen hoge prijzen en is geschikt als plafond voor de detailhandelsprijzen voor alle gereguleerde communicaties binnen de EU. Roaminggesprekken binnen de Unie hebben een kostenstructuur die vergelijkbaar is met andere gesprekken binnen de EU.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_46",
+   "kind": "recital",
+   "number": "46",
+   "label": "(46)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "De plafonds moeten het de aanbieders van openbare nummergebaseerde interpersoonlijke communicatiediensten mogelijk maken hun kosten terug te verdienen, en aldus zorgen voor een proportionele ingreep op zowel de mobiele als de vaste spraaktelefoniemarkt. De plafonds zullen alleen rechtstreeks gelden voor op werkelijk verbruik gebaseerde tarieven. Zij dienen ook een disciplinerend effect te hebben op aanbiedingen waarin een bepaald volume communicaties binnen de EU inbegrepen is, zonder dat dit apart wordt aangerekend omdat consumenten de keuze hebben om voor hun communicaties binnen de EU op een verbruiksgebaseerd tarief over te stappen. Voor volumes communicaties binnen de EU die omvangrijker zijn dan die welke deel uitmaken van een pakket en die afzonderlijk in rekening worden gebracht, moet het plafond gelden. De maatregel moet er op een evenredige manier voor zorgen dat consumenten met een laag verbruiksniveau aan communicaties binnen de EU bescherming genieten tegen hoge prijzen, en moet tegelijkertijd slechts een beperkt effect hebben op aanbieders.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_47",
+   "kind": "recital",
+   "number": "47",
+   "label": "(47)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Aanbieders van openbare nummergebaseerde interpersoonlijke communicatiediensten moeten hun consumenten alternatieve tariefaanbiedingen kunnen doen voor internationale communicatie met verschillende tarieven voor gereguleerde communicaties binnen de EU, en consumenten moeten in vrijheid en doelbewust voor dergelijke aanbiedingen kunnen kiezen en te allen tijde kosteloos kunnen overstappen, zelfs in samenhang met aanbiedingen waarop consumenten zijn ingegaan voordat die bepalingen in werking zijn getreden. Alleen alternatieve aanbiedingen inzake internationale communicatie, zoals die met een dekking voor alle of sommige derde landen, moeten, indien een consument hiermee akkoord gaat, een aanbieder kunnen ontslaan van diens verplichting om de plafonds voor gereguleerde communicaties binnen de EU niet te overschrijden. Andere voordelen die door aanbieders aan consumenten worden aangeboden, zoals gesubsidieerde eindapparatuur of kortingen op andere elektronische-communicatiediensten, zijn een normale vorm van concurrentie en dienen de toepasselijkheid van de prijsplafonds voor gereguleerde communicaties binnen de EU onverlet te laten.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_48",
+   "kind": "recital",
+   "number": "48",
+   "label": "(48)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Sommige aanbieders van openbare nummergebaseerde interpersoonlijke communicatiediensten kunnen aanzienlijk zwaardere gevolgen van een prijsplafond voor gereguleerde communicaties binnen de EU ondervinden dan de meeste andere aanbieders in de Unie. Dat zou met name het geval kunnen zijn voor aanbieders die een bijzonder groot deel van hun inkomsten of bedrijfswinst uit communicaties binnen de EU genereren of wier binnenlandse marge, afgezet tegen de in de bedrijfstak gehanteerde benchmarks, klein is. Als gevolg van margecompressie in verband met gereguleerde communicaties binnen de EU is een aanbieder mogelijk niet in staat zijn binnenlands prijsstellingsmodel aan te houden. Dergelijke scenario’s zijn zeer onwaarschijnlijk omdat de maximumprijzen duidelijk boven de kosten voor het aanbieden van communicaties binnen de EU liggen. Niettemin moeten de NRI’s, om in dergelijke zeer uitzonderlijke scenario’s op een proportionele manier te kunnen optreden, in uitzonderlijke en gerechtvaardigde gevallen op verzoek van die aanbieder een afwijking kunnen toestaan.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_49",
+   "kind": "recital",
+   "number": "49",
+   "label": "(49)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Afwijkingen mogen alleen worden toegestaan indien een aanbieder aan de hand van een relevante, door Berec vastgestelde benchmark kan aantonen dat hij aanzienlijk zwaardere gevolgen ondervindt dan de meeste andere aanbieders in de Unie, en dat die gevolgen het vermogen van die aanbieder om zijn tariefmodel voor binnenlandse communicatie aan te houden, aanzienlijk zouden verzwakken. Indien een NRI een afwijking toestaat, moet zij het maximale prijsniveau bepalen dat een aanbieder voor gereguleerde communicaties binnen de EU zou kunnen toepassen en waarmee deze een concurrerend prijsniveau voor binnenlandse communicatie zou kunnen aanhouden. Dergelijke afwijkingen moeten tot één jaar worden beperkt, en moeten kunnen worden verlengd indien de aanbieder aantoont dat nog steeds aan de voorwaarden voor een afwijking wordt voldaan.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_50",
+   "kind": "recital",
+   "number": "50",
+   "label": "(50)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "In het licht van het evenredigheidsbeginsel dient de toepasselijkheid van de prijsplafonds voor gereguleerde communicaties binnen de EU in de tijd te worden beperkt, en vijf jaar na inwerkingtreding te verstrijken. Een dergelijke beperkte duur moet het mogelijk maken de gevolgen van de maatregelen naar behoren te beoordelen, en in te schatten in welke mate de consumenten nog steeds bescherming behoeven.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_51",
+   "kind": "recital",
+   "number": "51",
+   "label": "(51)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Teneinde in de gehele Unie een coherente, tijdige en zo effectief mogelijke bescherming te garanderen voor consumenten die negatieve gevolgen ondervinden van de aanzienlijke prijsverschillen van communicaties binnen de EU, dienen die bepalingen rechtstreeks toepasselijk te zijn en in een verordening te worden verankerd. De meest geschikte verordening daarvoor is Verordening (EU) 2015/2120, die werd vastgesteld na een effectbeoordeling die onder meer een bepaling betreffende communicaties binnen de EU voorstelde als een noodzakelijk middel om de interne markt voor elektronische communicatie te voltooien. De waarschijnlijke effecten op de inkomsten die aanbieders genereren uit het aanbieden van communicaties binnen de EU worden verder afgezwakt door de toepassing van het euro-spraaktarief voor roaming en het euro-sms-tarief voor roaming als plafonds op zowel vaste als mobiele communicatie, hetgeen als een veiligheidsmechanisme fungeert; en doordat Berec in een analyse van 2018 heeft aangetoond dat er sprake is van een aanzienlijke afname in de vastecommunicatievolumes waarop de maatregel in de tussenliggende periode betrekking had. Die bepalingen moeten derhalve worden ingevoegd als wijziging van Verordening (EU) 2015/2120, die tevens moet worden aangepast om ervoor te zorgen dat de lidstaten regels vaststellen inzake sancties voor inbreuken op die bepalingen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_52",
+   "kind": "recital",
+   "number": "52",
+   "label": "(52)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Daar de doelstellingen van deze verordening, namelijk zorgen voor de consistente toepassing van het regelgevend kader voor elektronische communicatie, met name met betrekking tot grensoverschrijdende aspecten en door middel van efficiënte internemarktprocedures voor nationale ontwerpmaatregelen, en ervoor zorgen dat consumenten geen buitensporige prijzen worden aangerekend voor nummergebaseerde interpersoonlijke communicaties vanuit de lidstaat van de binnenlandse aanbieder van de consument naar een vast of mobiel nummer in een andere lidstaat, niet voldoende door de lidstaten kunnen worden verwezenlijkt, maar vanwege de omvang en de gevolgen van de actie beter door de Unie kunnen worden verwezenlijkt, kan de Unie overeenkomstig het in artikel 5 van het Verdrag betreffende de Europese Unie neergelegde subsidiariteitsbeginsel maatregelen nemen. Overeenkomstig het in hetzelfde artikel neergelegde evenredigheidsbeginsel gaat deze verordening niet verder dan nodig is om deze doelstellingen te verwezenlijken.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_53",
+   "kind": "recital",
+   "number": "53",
+   "label": "(53)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Deze verordening wijzigt Verordening (EG) nr. 1211/2009 en breidt het toepassingsgebied ervan uit. Aangezien de aan te brengen wijzigingen ingrijpend zijn, moet die handeling ter wille van de duidelijkheid worden ingetrokken. Verwijzingen naar de ingetrokken verordening moeten gelden als verwijzingen naar deze verordening,",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_1",
+   "kind": "article",
+   "number": "1",
+   "label": "Artikel 1",
+   "title": "Onderwerp en toepassingsgebied",
+   "path": [
+    "HOOFDSTUK I — ONDERWERP EN TOEPASSINGSGEBIED"
+   ],
+   "blocks": [
+    {
+     "text": "1. Bij deze verordening wordt het Orgaan van Europese regulerende instanties voor elektronische communicatie („Berec”) en het Bureau voor ondersteuning van Berec (het „Berec-Bureau”) ingesteld.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Berec en het Berec-Bureau vervangen en volgen het bij Verordening (EG) nr. 1211/2009 opgerichte Orgaan van Europese regelgevende instanties voor elektronische communicatie en het Bureau op.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_2",
+   "kind": "article",
+   "number": "2",
+   "label": "Artikel 2",
+   "title": "Rechtspersoonlijkheid van het Berec-Bureau",
+   "path": [
+    "HOOFDSTUK I — ONDERWERP EN TOEPASSINGSGEBIED"
+   ],
+   "blocks": [
+    {
+     "text": "1. Het Berec-Bureau is een orgaan van de Unie. Het heeft rechtspersoonlijkheid.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. In elke lidstaat heeft het Berec-Bureau de ruimste handelingsbevoegdheid die bij het nationale recht aan rechtspersonen is toegekend. Het heeft met name het vermogen om roerende en onroerende goederen te verkrijgen of te vervreemden en in rechte op te treden.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Het Berec-Bureau wordt vertegenwoordigd door zijn directeur.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Het Berec-Bureau draagt als enige verantwoordelijkheid voor de hem toebedeelde taken en bevoegdheden.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Het Berec-Bureau heeft zijn zetel in Riga.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_3",
+   "kind": "article",
+   "number": "3",
+   "label": "Artikel 3",
+   "title": "Doelstellingen van Berec",
+   "path": [
+    "HOOFDSTUK II — DOELSTELLINGEN EN TAKEN VAN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Berec handelt binnen het toepassingsgebied van Verordeningen (EU) nr. 531/2012 en (EU) 2015/2120 en van Richtlijn (EU) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Berec streeft de in artikel 3 van de Richtlijn (EU) 2018/1972 vastgestelde doelstellingen na. Berec streeft er met name naar te zorgen voor een consistente toepassing van het regelgevend kader voor elektronische communicatie binnen het in lid 1 omschreven toepassingsgebied.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC voert zijn taken onafhankelijk, onpartijdig, tijdig en op transparante wijze uit.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Berec maakt gebruik van de expertise die in de nationale regulerende instanties (NRI’s) beschikbaar is.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Overeenkomstig artikel 9, lid 3, van Richtlijn (EU) 2018/1972 zorgt elke lidstaat ervoor dat zijn NRI’s volledig kunnen deelnemen aan de werkzaamheden van de Berec-organen.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. In lidstaten waar meer dan één NRI verantwoordelijk is krachtens Richtlijn (EU) 2018/1972 zorgen die NRI’s voor de nodige onderlinge coördinatie.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_4",
+   "kind": "article",
+   "number": "4",
+   "label": "Artikel 4",
+   "title": "Regulerende taken van Berec",
+   "path": [
+    "HOOFDSTUK II — DOELSTELLINGEN EN TAKEN VAN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Berec heeft de volgende regulerende taken:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) assisteren en adviseren van de NRI’s, het Europees Parlement, de Raad en de Commissie, samenwerken met de NRI’s en de Commissie, hetzij op verzoek, hetzij op eigen initiatief, met betrekking tot alle technische aangelegenheden inzake elektronische communicatie die tot zijn mandaat behoren;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) op verzoek, assisteren en adviseren van de Commissie bij de voorbereiding van wetgevingsvoorstellen op het gebied van elektronische communicatie, met inbegrip van voorstellen voor wijzigingen van deze verordening of van Richtlijn (EU) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) adviezen verstrekken als bedoeld in Verordening (EU) nr. 531/2012 en Richtlijn (EU) 2018/1972, met name over: i) de beslechting van grensoverschrijdende geschillen, in overeenstemming met artikel 27 van Richtlijn (EU) 2018/1972; ii) nationale ontwerpmaatregelen met betrekking tot internemarktprocedures voor marktregulering, in overeenstemming met de artikelen 32, 33 en 68 van Richtlijn (EU) 2018/1972; iii) ontwerpbesluiten en aanbevelingen inzake harmonisatie, in overeenstemming met de artikelen 38 en 93 van Richtlijn (EU) 2018/1972; iv) eind-tot-eind-verbindingen tussen eindgebruikers, in overeenstemming met artikel 61, lid 2, van Richtlijn (EU) 2018/1972; v) de vaststelling van een enkel Uniebreed maximumtarief voor mobiele gespreksafgifte en een enkel Uniebreed maximumtarief voor vaste gespreksafgifte, in overeenstemming met artikel 75 van Richtlijn (EU) 2018/1972; vi) het model van summier contract, in overeenstemming met artikel 102 van Richtlijn (EU) 2018/1972; vii) de nationale uitvoering en werking van de algemene machtiging, en de gevolgen daarvan voor de werking van de interne markt, in overeenstemming met artikel 122, lid 3, van Richtlijn (EU) 2018/1972; viii) in voorkomend geval, de markt en de technologische ontwikkelingen met betrekking tot de verschillende soorten van elektronische-communicatiediensten en de gevolgen daarvan voor de toepassing van titel III van deel III van Richtlijn (EU) 2018/1972, in overeenstemming met artikel 123, lid 1, van die richtlijn;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) richtsnoeren verstrekken over de toepassing van het regelgevingskader van de Unie voor elektronische communicatie, met name als bedoeld in Verordeningen (EU) nr. 531/2012 en (EU) 2015/2120 en in Richtlijn (EU) 2018/1972, betreffende: i) het model van kennisgeving, in overeenstemming met artikel 12 van Richtlijn (EU) 2018/1972; ii) de coherente uitvoering van verplichtingen wat betreft geografische onderzoeken en prognoses, in overeenstemming met artikel 22 van Richtlijn (EU) 2018/1972; iii) toepasselijke criteria ter bevordering van de consistente toepassing van artikel 61, lid 3, van Richtlijn (EU) 2018/1972; iv) gemeenschappelijke wijzen van aanpak voor het bepalen van het netwerkaansluitpunt in verschillende netwerktopologieën, in overeenstemming met artikel 61, lid 7, van Richtlijn (EU) 2018/1972; v) gemeenschappelijke wijzen van aanpak om tegemoet te komen aan de vraag van transnationale eindgebruikers, in overeenstemming met artikel 66 van Richtlijn (EU) 2018/1972; vi) minimumcriteria voor een referentieofferte, in overeenstemming met artikel 69 van Richtlijn (EU) 2018/1972; vii) de bevordering van de consistente toepassing door de NRI’s van de voorwaarden beschreven in lid 76, lid 1, van en de criteria beschreven in bijlage IV bij Richtlijn (EU) 2018/1972; viii) criteria waaraan een netwerk moet voldoen om als een netwerk met zeer hoge capaciteit te worden beschouwd, in overeenstemming met artikel 82 van Richtlijn (EU) 2018/1972; ix) gemeenschappelijke criteria voor de beoordeling van de bekwaamheid om nummervoorraden te beheren en van het risico van uitputting van nummervoorraden, in overeenstemming met artikel 93 van Richtlijn (EU) 2018/1972; x) de geldende parameters voor de kwaliteit van de dienstverlening, de toepasselijke meetmethoden, de inhoud en vorm van de informatie, en de kwaliteitscertificeringsmechanismen, in overeenstemming met artikel 104 van Richtlijn (EU) 2018/1972; xi) hoe moet worden beoordeeld of de doeltreffendheid van de publieke waarschuwingssystemen uit hoofde van artikel 110, lid 2, van Richtlijn (EU) 2018/1972 gelijkwaardig is aan de doeltreffendheid van die uit hoofde van lid 1 van dat artikel; xii) toegang tot wholesaleroaming, in overeenstemming met artikel 3, lid 8, van Verordening (EU) nr. 531/2012; xiii) de uitvoering van de verplichtingen van de NRI’s wat open-internettoegang betreft, in overeenstemming met artikel 5, lid 3, van Verordening (EU) 2015/2120; xiv) de parameters die door de NRI’s in aanmerking moeten worden genomen bij hun beoordeling van de houdbaarheid van binnenlandse tariefmodellen, in overeenstemming met artikel 5 bis, lid 6, van Verordening (EU) 2015/2120;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) op eigen initiatief of op verzoek van een NRI, het Europees Parlement, de Raad of de Commissie, het verstrekken van overige richtsnoeren voor de consistente toepassing van het regelgevend kader voor elektronische communicatie en consistente regelgevingsbesluiten van de NRI’s, met name voor regelgevingskwesties met gevolgen voor een aanzienlijk aantal lidstaten of met grensoverschrijdende aspecten;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) in voorkomend geval, deelnemen aan het Peer Review Forum betreffende ontwerpmaatregelen inzake selectieprocedures, in overeenstemming met artikel 35 van Richtlijn (EU) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) deelnemen aan de behandeling van vraagstukken betreffende zijn marktregulerings- en concurrentiebevoegdheid op het gebied van radiospectrum, in overeenstemming met artikel 4 van Richtlijn (EU) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) analyses verrichten van mogelijke transnationale markten in overeenstemming met artikel 65 van Richtlijn (EU) 2018/1972, en van de transnationale vraag van eindgebruikers, in overeenstemming met artikel 66 van die richtlijn;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) informatie monitoren en vergaren en, in voorkomend geval, actuele informatie over de toepassing van Verordening (EU) nr. 531/2012 algemeen beschikbaar stellen, in overeenstemming met de artikelen 16 en 19 van die verordening;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) verslag uitbrengen over technische aangelegenheden die binnen zijn bevoegdheid vallen, met name over: i) de praktische toepassing van de adviezen en richtsnoeren als bedoeld in de punten c), d), en e); ii) beste praktijken van de lidstaten ter ondersteuning van het bepalen van de adequate breedbandinternettoegangsdienst, in overeenstemming met artikel 84 van Richtlijn (EU) 2018/1972; iii) de ontwikkeling van prijsstellings- en verbruikspatronen voor zowel binnenlandse als roamingdiensten, de ontwikkeling van feitelijke wholesaleroamingtarieven voor ongelijk verkeer, het verband tussen detailhandelsprijzen, wholesaletarieven en wholesalekosten voor roamingdiensten, alsmede over transparantie en vergelijkbaarheid van tarieven, in overeenstemming met artikel 19 van Verordening (EU) nr. 531/2012; iv) de resultaten van de jaarlijkse verslagen die de NRI’s verstrekken, in overeenstemming met artikel 5 van Verordening (EU) 2015/2120, door bekendmaking van een jaarlijks samenvattend verslag; v) de marktontwikkelingen op het gebied van elektronische communicatie, zulks jaarlijks;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) aanbevelingen en gemeenschappelijke standpunten richten tot en goede regelgevingspraktijken verspreiden bij de NRI’s om een consistente en betere uitvoering van het regelgevend kader voor elektronische communicatie te bevorderen;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) een database opzetten en bijhouden van: i) de kennisgevingen die aan de bevoegde autoriteiten worden toegezonden door ondernemingen die aan een algemene machtiging zijn onderworpen, in overeenstemming met artikel 12 van Richtlijn (EU) 2018/1972; ii) de nummervoorraden met recht op extraterritoriaal gebruik binnen de Unie, in overeenstemming met artikel 93, lid 4, vierde alinea, van Richtlijn (EU) 2018/1972; iii) in voorkomend geval, E.164-nummers van noodhulpdiensten van de lidstaten, in overeenstemming met artikel 109, lid 8, derde alinea, van Richtlijn (EU) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) de behoefte aan innovatie op regelgevingsgebied beoordelen en het optreden van NRI’s coördineren om de ontwikkeling van nieuwe innovatieve elektronische communicatie mogelijk te maken;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) bevorderen van het moderniseren, coördineren en standaardiseren van de gegevensvergaring door de NRI’s, waarbij deze gegevens, onverminderd de intellectuele-eigendomsrechten, de regels inzake de bescherming van persoonsgegevens en het vereiste vertrouwelijkheidsniveau, openbaar worden gemaakt in een open, herbruikbaar en machineleesbaar formaat op de website van Berec en het Europese gegevensportaal;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "o) andere taken uitvoeren die het bij rechtshandelingen van de Unie, met name Verordeningen (EU) nr. 531/2012 en (EU) 2015/2120 en Richtlijn (EU) 2018/1972, zijn toegewezen.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Berec maakt zijn regulerende taken openbaar en werkt die informatie bij telkens wanneer het nieuwe taken toegewezen krijgt.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Berec maakt al zijn definitieve adviezen, richtsnoeren, verslagen, aanbevelingen, gemeenschappelijke standpunten, beste praktijken en in opdracht uitgevoerde studies openbaar, evenals de betreffende ontwerpdocumenten voor het houden van de openbare raadplegingen als bedoeld in lid 5.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Onverminderd de naleving van het desbetreffende Unierecht houden de NRI’s en de Commissie zo veel mogelijk rekening met de richtsnoeren, adviezen, aanbevelingen, gemeenschappelijke standpunten en beste praktijken die door Berec zijn aangenomen met het oog op de consistente toepassing van het regelgevend kader voor elektronische communicatie binnen het in artikel 3, lid 1, bedoelde toepassingsgebied. Een NRI die afwijkt van de in punt e) van lid 1 bedoelde richtsnoeren, geeft hiervoor haar redenen.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Zo nodig raadpleegt Berec belanghebbende partijen en geeft het hun de gelegenheid opmerkingen te maken binnen een naar de complexiteit van de materie te bepalen redelijke termijn. Die termijn mag, behalve in uitzonderlijke omstandigheden, niet korter zijn dan 30 dagen. Onverminderd artikel 38 stelt Berec de resultaten van dergelijke openbare raadplegingen ter beschikking van het publiek. Die raadplegingen vinden zo vroeg mogelijk in het besluitvormingsproces plaats.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Berec kan indien nodig raadplegingen houden en samenwerken met bevoegde nationale instanties, waaronder de voor mededinging, consumentenbescherming en gegevensbescherming bevoegde instanties.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Berec kan indien nodig samenwerken met bevoegde organen, instanties, agentschappen, en adviesgroepen van de Unie, alsook met de bevoegde autoriteiten van derde landen en internationale organisaties, in overeenstemming met artikel 35, lid 1.",
+     "para": "7",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_5",
+   "kind": "article",
+   "number": "5",
+   "label": "Artikel 5",
+   "title": "Taken van het Berec-Bureau",
+   "path": [
+    "HOOFDSTUK III — TAKEN VAN HET BEREC-BUREAU"
+   ],
+   "blocks": [
+    {
+     "text": "Het Berec-Bureau heeft de volgende taken:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) verlenen van professionele en administratieve ondersteuning aan Berec, met name bij de uitvoering van diens regulerende taken op grond van artikel 4;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) inzamelen van informatie van NRI’s en uitwisselen en doorsturen van informatie over de rol en regulerende taken van Berec op grond van artikel 4;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) opstellen, op basis van de in punt b) bedoelde informatie, van regelmatige ontwerpverslagen over specifieke aspecten van ontwikkelingen op de Europese elektronische-communicatiemarkt, zoals roaming- en benchmarkingverslagen, die bij Berec moeten worden ingediend;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) verspreiden van goede regelgevingspraktijken onder NRI’s, overeenkomstig artikel 4, lid 1, punt k);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) ondersteunen van Berec bij het opzetten en bijhouden van registers en databanken overeenkomstig artikel 4, lid 1, punt l);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) ondersteunen van Berec bij het opzetten en beheren van een informatie- en communicatiesysteem overeenkomstig artikel 41;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) ondersteunen van Berec bij het houden van openbare raadplegingen overeenkomstig artikel 4, lid 5;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) verlenen van assistentie bij de werkvoorbereidingen en andere administratieve en inhoudelijke ondersteuning om de soepele werking van de raad van regulators te waarborgen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) op verzoek van de raad van regulators bijstand verlenen bij het opzetten van werkgroepen, bijdragen aan regulerende werkzaamheden en ondersteuning bieden om een soepele werking van deze groepen te waarborgen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) andere taken uitvoeren die bij deze verordening of bij andere rechtshandelingen van de Unie aan dit Bureau zijn toegewezen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_6",
+   "kind": "article",
+   "number": "6",
+   "label": "Artikel 6",
+   "title": "Organisatiestructuur van Berec",
+   "path": [
+    "HOOFDSTUK IV — ORGANISATIE VAN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Berec bestaat uit:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) een raad van regulators;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) werkgroepen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_7",
+   "kind": "article",
+   "number": "7",
+   "label": "Artikel 7",
+   "title": "Samenstelling van de raad van regulators",
+   "path": [
+    "HOOFDSTUK IV — ORGANISATIE VAN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. De raad van regulators bestaat uit één lid per lidstaat. Elk lid heeft stemrecht. Elk lid wordt benoemd door de NRI, die in hoofdzaak is belast met het toezicht op de dagelijkse werking van de markten voor elektronischecommunicatienetwerken en -diensten die onder Richtlijn (EU) 2018/1972 vallen. Het lid wordt benoemd uit het hoofd van de NRI, een lid van het collegiale orgaan ervan of de vervanger van een van hen.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Elk lid van de raad van regulators heeft een plaatsvervanger, die door de NRI wordt benoemd. De plaatsvervanger vertegenwoordigt het lid bij diens afwezigheid. De plaatsvervanger wordt benoemd onder het hoofd van de NRI, een lid van het collegiale orgaan ervan, of de vervanger van een van hen, of andere personeelsleden van de NRI.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Leden van de raad van regulators en hun plaatsvervangers worden benoemd op grond van hun kennis op het gebied van elektronische communicatie, met inachtneming van hun relevante bestuurs-, administratieve en budgettaire vaardigheden. Om de continuïteit van de werkzaamheden van de raad van regulators te waarborgen, streven alle tot benoeming bevoegde NRI’s ernaar het verloop van hun leden en, voor zover mogelijk, van hun plaatsvervangers, te beperken, en streven zij naar een evenwichtige vertegenwoordiging van mannen en vrouwen.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. De Commissie neemt zonder stemrecht deel aan de vergaderingen van de raad van regulators en is op een voldoende hoog niveau vertegenwoordigd.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Een actuele lijst van de leden van de raad van regulators en hun plaatsvervangers wordt samen met hun belangenverklaring openbaar gemaakt.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_8",
+   "kind": "article",
+   "number": "8",
+   "label": "Artikel 8",
+   "title": "Onafhankelijkheid van de raad van regulators",
+   "path": [
+    "HOOFDSTUK IV — ORGANISATIE VAN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Bij de uitoefening van de aan hem toebedeelde taken, en onverminderd het feit dat zijn leden namens hun respectieve NRI’s handelen, handelt de raad van regulators onafhankelijk en objectief in het belang van de Unie, ongeacht enige specifieke nationale of persoonlijke belangen.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Onverminderd de in artikel 3, lid 6, bedoelde coördinatie, vragen noch aanvaarden de leden van de raad van regulators en hun plaatsvervangers instructies van een regering, instelling, persoon of orgaan.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_9",
+   "kind": "article",
+   "number": "9",
+   "label": "Artikel 9",
+   "title": "Taken van de raad van regulators",
+   "path": [
+    "HOOFDSTUK IV — ORGANISATIE VAN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "De raad van regulators heeft de volgende taken:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) verrichten van de in artikel 4 vastgelegde regelgevende taken van Berec, namelijk de daarin bedoelde adviezen, richtsnoeren, verslagen, aanbevelingen en gemeenschappelijke standpunten vaststellen en de daarin bedoelde goede praktijken verspreiden, daarbij steunend op het voorbereidende werk van de werkgroepen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) administratieve besluiten nemen met betrekking tot de organisatie van de werkzaamheden van Berec;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) het in artikel 21 bedoelde jaarlijkse werkprogramma van Berec vaststellen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) het in artikel 22 bedoelde jaarverslag van de werkzaamheden Berec vaststellen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) regels vaststellen voor de voorkoming en het beheer van belangenconflicten als bedoeld in artikel 42, en met betrekking tot de leden van de werkgroepen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) nadere voorschriften vaststellen met betrekking tot de toegang tot documenten die in het bezit zijn van Berec, overeenkomstig artikel 36;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) de in artikel 37, lid 2, bedoelde communicatie- en verspreidingsplannen vaststellen, en deze regelmatig bijwerken op basis van een behoeftenanalyse;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) bij tweederdemeerderheid van zijn leden zijn reglement van orde vaststellen en het openbaar maken;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) samen met de directeur machtiging verlenen tot het sluiten van werkafspraken met bevoegde organen, instanties, agentschappen en adviesgroepen van de Unie, alsook met bevoegde autoriteiten van derde landen en internationale organisaties overeenkomstig artikel 35;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) werkgroepen instellen en de voorzitters ervan benoemen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "k) de directeur van het Berec-Bureau sturing verstrekken met betrekking tot het vervullen van de taken van het Berec-Bureau.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_10",
+   "kind": "article",
+   "number": "10",
+   "label": "Artikel 10",
+   "title": "Voorzitter en vicevoorzitters van de raad van regulators",
+   "path": [
+    "HOOFDSTUK IV — ORGANISATIE VAN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. De raad van regulators benoemt bij tweederdemeerderheid van zijn leden uit zijn midden de directeur en ten minste twee vicevoorzitters.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Een van de vicevoorzitters neemt automatisch de taken van de voorzitter op zich indien deze niet in staat is zijn taken uit te oefenen.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. De voorzitter wordt gekozen voor een termijn van één jaar, die één keer verlengd kan worden. Om de continuïteit van de werkzaamheden van Berec te waarborgen, fungeert de aantredende voorzitter, voor zover mogelijk, één jaar als vicevoorzitter voordat zijn ambtstermijn als voorzitter ingaat. In het reglement van orde wordt een kortere termijn voorzien indien het voor de aantredende voorzitter niet mogelijk is om één jaar als vicevoorzitter te fungeren voordat zijn ambtstermijn als voorzitter ingaat.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Onverminderd de rol van de raad van regulators met betrekking tot de taken van de voorzitter, vraagt noch aanvaardt de voorzitter instructies van een regering, instelling, persoon of orgaan.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. De voorzitter brengt desgevraagd verslag uit aan het Europees Parlement en de Raad over de uitvoering van de taken van Berec.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_11",
+   "kind": "article",
+   "number": "11",
+   "label": "Artikel 11",
+   "title": "Vergaderingen van de raad van regulators",
+   "path": [
+    "HOOFDSTUK IV — ORGANISATIE VAN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. De voorzitter roept de raad van regulators in vergadering bijeen en stelt de agenda van die vergaderingen vast, welke openbaar wordt gemaakt.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De raad van regulators houdt ten minste twee gewone vergaderingen per jaar. Buitengewone vergaderingen worden bijeengeroepen op initiatief van de voorzitter, op verzoek van ten minste drie leden van de raad van regulators of op verzoek van de Commissie.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. De directeur van het Berec-bureau neemt deel aan alle beraadslagingen, maar heeft geen stemrecht.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. De raad van regulators kan eenieder van wie het advies dienstig kan zijn, uitnodigen om de vergaderingen als waarnemer bij te wonen.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. De leden en de plaatsvervangers van de raad van regulators kunnen, met inachtneming van het reglement van orde, in de vergaderingen worden bijgestaan door hun adviseurs of andere deskundigen.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Het Berec-Bureau verzorgt het secretariaat voor de raad van regulators.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_12",
+   "kind": "article",
+   "number": "12",
+   "label": "Artikel 12",
+   "title": "Stemregels van de raad van regulators",
+   "path": [
+    "HOOFDSTUK IV — ORGANISATIE VAN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. De raad van regulators besluit bij een gewone meerderheid van zijn leden, tenzij anders bepaald in deze verordening of in een andere rechtshandeling van de Unie. Een tweederdemeerderheid van de leden van de raad van regulators is vereist voor de adviezen bedoeld in artikel 4, lid 1, punt c), onder ii) en v), en de richtsnoeren bedoeld in artikel 4, lid 1, punt d), onder i) tot en met iv), vi), vii) en x). Niettegenstaande de tweede alinea van dit lid kan de raad van regulators bij gewone meerderheid en per geval besluiten om de in artikel 4, lid 1, punt c), onder ii), van deze verordening bedoelde adviezen, die betrekking hebben op ontwerpmaatregelen die onder artikel 76, lid 2, van Richtlijn (EU) 2018/1972 vallen en waarbij de procedure uit hoofde van artikel 33, lid 5, van die richtlijn wordt ingeleid, bij gewone meerderheid vast te stellen. De besluiten van de raad van regulators worden openbaar gemaakt, met vermelding van eventuele door de leden gemaakte voorbehouden indien zij daarom verzoeken.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Elk lid heeft één stem. Bij afwezigheid van een stemgerechtigd lid kan zijn plaatsvervanger diens stemrecht uitoefenen. Bij afwezigheid van een lid en van zijn plaatsvervanger, kan het stemrecht aan een ander lid worden gedelegeerd. De voorzitter kan in ieder geval zijn stemrecht delegeren. De voorzitter neemt deel aan de stemming, tenzij hij zijn stemrecht heeft gedelegeerd.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. In het reglement van orde van de raad van regulators worden de regeling voor de stemmingen, met inbegrip van de voorwaarden waaronder een lid namens een ander lid kan handelen, de quorumvoorschriften en de kennisgevingstermijnen voor de vergaderingen in detail omschreven. Bovendien waarborgt het reglement van orde dat de leden van de raad van regulators bij elke vergadering van tevoren de volledige agenda en de ontwerpvoorstellen ontvangen zodat zij vóór de stemming amendementen kunnen voorstellen. In het reglement van orde kunnen onder meer een procedure voor stemming bij hoogdringendheid en andere praktische regelingen voor het werk van de raad van regulators worden opgenomen.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_13",
+   "kind": "article",
+   "number": "13",
+   "label": "Artikel 13",
+   "title": "Werkgroepen",
+   "path": [
+    "HOOFDSTUK IV — ORGANISATIE VAN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Indien gerechtvaardigd, en met name om het jaarlijkse werkprogramma van Berec uit te voeren, kan de raad van regulators werkgroepen instellen.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De raad van regulators benoemt de voorzitters van de werkgroepen, die indien mogelijk verschillende NRI’s vertegenwoordigen.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. De werkgroepen staan open voor deelname van deskundigen van alle NRI’s die aan de werkzaamheden van Berec en de Commissie deelnemen. De werkgroepen staan voorts open voor deelname van het personeel van het Berec-bureau, dat bijdraagt aan de reguleringswerkzaamheden en administratieve ondersteuning aan de werkgroepen levert. Wat betreft de werkgroepen die worden ingesteld ter uitvoering van de taken bedoeld in artikel 4, lid 1, punt c), onder ii), is niet in de deelname van de deskundigen van de Commissie voorzien. In de werkgroepen die worden ingesteld ter uitvoering van de taken bedoeld in artikel 4, lid 1, punt c), onder iv), vi), vii) en viii), punt d), onder i), ii), ix), x) en xi), punt j), onder ii), en punt l), van deze verordening en, in voorkomend geval, in artikel 4, lid 1, punt c), onder iii), en punt j), onder i), van deze verordening, wordt rekening gehouden met de mening van deskundigen van andere bevoegde autoriteiten die op grond van artikel 5, lid 4, van Richtlijn (EU) 2018/1972 in kennis zijn gesteld. Individuele deskundigen die erkend zijn op het betreffende gebied, kunnen door de raad van regulators of door de voorzitters van de werkgroepen worden uitgenodigd om deel te nemen aan vergaderingen van de werkgroepen, zo nodig op ad-hocbasis.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. De raad van regulators stelt zijn reglement van orde vast met de praktische regelingen voor het functioneren van de werkgroepen.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_14",
+   "kind": "article",
+   "number": "14",
+   "label": "Artikel 14",
+   "title": "Organisatiestructuur van het Berec-Bureau",
+   "path": [
+    "HOOFDSTUK V — ORGANISATIE VAN HET BEREC-BUREAU"
+   ],
+   "blocks": [
+    {
+     "text": "Het Berec-Bureau bestaat uit:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) een raad van bestuur;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) een directeur.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_15",
+   "kind": "article",
+   "number": "15",
+   "label": "Artikel 15",
+   "title": "Samenstelling van de raad van bestuur",
+   "path": [
+    "HOOFDSTUK V — ORGANISATIE VAN HET BEREC-BUREAU"
+   ],
+   "blocks": [
+    {
+     "text": "1. De raad van bestuur bestaat uit de personen die benoemd zijn tot lid van de raad van regulators en een hoge vertegenwoordiger van de Commissie. Elk lid van de raad van bestuur heeft stemrecht. Elke tot benoeming bevoegde NRI, als bedoeld in artikel 7, lid 1, tweede alinea, kan een andere persoon dan het lid van de raad van regulators benoemen tot lid van de raad van bestuur. Die persoon is het hoofd van de NRI, een lid van het collegiale orgaan ervan, of de vervanger van een van hen.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Elk lid van de raad van bestuur heeft een plaatsvervanger die het lid bij diens afwezigheid vertegenwoordigt. De plaatsvervangers van elk lid zijn de personen die zijn benoemd tot plaatsvervanger van de leden van de raad van regulators. De vertegenwoordiger van de Commissie heeft ook een plaatsvervanger. Elke tot benoeming bevoegde NRI als bedoeld in artikel 7, lid 1, tweede alinea, kan een andere persoon dan de plaatsvervanger van het lid van de raad van regulators benoemen tot plaatsvervanger van het lid van de raad van bestuur. Die persoon is het hoofd van de NRI, een lid van het collegiale orgaan ervan, de vervanger van een van hen, of een ander personeelslid van de NRI.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. De leden van de raad van bestuur en hun plaatsvervangers vragen noch aanvaarden instructies van een regering, instelling, persoon of orgaan.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Een actuele lijst van leden van de raad van bestuur en hun plaatsvervangers wordt samen met hun belangenverklaringen openbaar gemaakt.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_16",
+   "kind": "article",
+   "number": "16",
+   "label": "Artikel 16",
+   "title": "Administratieve taken van de raad van bestuur",
+   "path": [
+    "HOOFDSTUK V — ORGANISATIE VAN HET BEREC-BUREAU"
+   ],
+   "blocks": [
+    {
+     "text": "1. De raad van bestuur heeft de volgende administratieve taken:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) het algemene beleid uitzetten voor de activiteiten van het Berec-Bureau en jaarlijks het enig programmeringsdocument van het Berec-Bureau vaststellen bij tweederdemeerderheid van zijn leden, rekening houdend met het advies van de Commissie en in overeenstemming met artikel 23;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) bij tweederdemeerderheid van zijn leden de jaarlijkse begroting van het Berec-Bureau vaststellen en op grond van hoofdstuk VII de overige taken betreffende de begroting van het Berec-Bureau uitoefenen;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) het in artikel 27 bedoelde geconsolideerde jaarlijkse activiteitenverslag van het Berec-Bureau goedkeuren, openbaar maken en beoordelen, en het verslag alsmede de beoordeling ervan jaarlijks vóór 1 juli indienen bij het Europees Parlement, de Raad, de Commissie en de Rekenkamer;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) de op het Berec-Bureau toepasselijke financiële regels vaststellen overeenkomstig artikel 29;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) een fraudebestrijdingsstrategie vaststellen die evenredig is met de frauderisico’s, rekening houdend met de kosten en baten van de uit te voeren maatregelen;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) een passende follow-up verzekeren van de resultaten en aanbevelingen die voortvloeien uit de interne of externe auditverslagen en beoordelingen, alsook uit de onderzoeken van het Europees Bureau voor fraudebestrijding (OLAF);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) regels vaststellen voor het voorkomen en beheersen van belangenconflicten als bedoeld in artikel 42, lid 3;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) de in artikel 37, lid 2, bedoelde communicatie- en verspreidingsplannen vaststellen en deze regelmatig bijwerken op basis van een behoeftenanalyse;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) zijn reglement van orde vaststellen;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) uitvoeringsbepalingen vaststellen ter uitvoering van het Statuut van de ambtenaren van de Europese Unie en de Regeling welke van toepassing is op de andere personeelsleden van de Europese Unie, overeenkomstig artikel 110 van het Statuut;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) onverminderd het in lid 2, eerste alinea, bedoelde besluit, met betrekking tot het personeel van het Berec-Bureau, de bevoegdheden uitoefenen die krachtens het Statuut en de Regeling welke van toepassing is op de andere personeelsleden zijn verleend aan respectievelijk het tot aanstelling bevoegde gezag en het tot het sluiten van arbeidscontracten bevoegde gezag (de „bevoegdheden van het tot aanstelling bevoegde gezag”);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) de directeur benoemen en, indien van toepassing, zijn ambtstermijn verlengen of hem uit zijn functie ontheffen overeenkomstig artikel 32;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) overeenkomstig het Statuut en de Regeling welke van toepassing is op de andere personeelsleden een rekenplichtige benoemen die volledig onafhankelijk is bij de uitvoering van zijn taken;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) alle besluiten nemen inzake de oprichting van de interne structuren van het Berec-Bureau en deze indien nodig wijzigen, rekening houdend met de werkingsbehoeften van het Berec-Bureau en met het oog op een gezond beheer van de begroting. Met betrekking tot punt m) van de eerste alinea kan het Berec-Bureau dezelfde rekenplichtige benoemen als een ander orgaan of een andere instelling van de Unie. Met name kunnen het Berec-Bureau en de Commissie overeenkomen dat de rekenplichtige van de Commissie ook optreedt als rekenplichtige van het Berec-Bureau.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De raad van bestuur neemt overeenkomstig artikel 110 van het Statuut een besluit krachtens artikel 2, lid 1, van het Statuut en artikel 6 van de Regeling welke van toepassing is op de andere personeelsleden, waarin hij de nodige bevoegdheden van het tot aanstelling bevoegde gezag aan de directeur delegeert en nader bepaalt onder welke voorwaarden die gedelegeerde bevoegdheden kunnen worden geschorst. De directeur kan die bevoegdheden op zijn beurt delegeren. Wanneer uitzonderlijke omstandigheden dat vereisen, kan de raad van bestuur besluiten de delegatie van de bevoegdheden van het tot aanstelling bevoegde gezag aan de directeur en de bevoegdheden die deze laatste op zijn beurt heeft gedelegeerd, tijdelijk te schorsen en deze bevoegdheden zelf uit te oefenen of te delegeren aan een van zijn leden of aan een ander personeelslid dan de directeur.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_17",
+   "kind": "article",
+   "number": "17",
+   "label": "Artikel 17",
+   "title": "Voorzitter en vicevoorzitters van de raad van bestuur",
+   "path": [
+    "HOOFDSTUK V — ORGANISATIE VAN HET BEREC-BUREAU"
+   ],
+   "blocks": [
+    {
+     "text": "1. De voorzitter en de vicevoorzitters van de raad van bestuur zijn de personen die zijn benoemd tot voorzitter en vicevoorzitters van de raad van regulators. Dezelfde ambtstermijn is van toepassing. In afwijking van de eerste alinea kan de raad van bestuur, bij tweederdemeerderheid van zijn leden, andere leden van de raad van bestuur tot voorzitter of vicevoorzitter(s) verkiezen, namelijk uit zijn leden die de lidstaten vertegenwoordigen. Hun ambtstermijn is dezelfde als die van de voorzitter en de vicevoorzitters van de raad van regulators.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Een van de vicevoorzitters neemt automatisch de taken van de voorzitter op zich indien deze niet in staat is zijn taken uit te oefenen.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. De voorzitter van de raad van bestuur brengt desgevraagd verslag over de uitvoering van de taken van het Berec-Bureau uit aan het Europees Parlement en de Raad.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_18",
+   "kind": "article",
+   "number": "18",
+   "label": "Artikel 18",
+   "title": "Vergaderingen van de raad van bestuur",
+   "path": [
+    "HOOFDSTUK V — ORGANISATIE VAN HET BEREC-BUREAU"
+   ],
+   "blocks": [
+    {
+     "text": "1. De voorzitter roept de vergaderingen van de raad van bestuur bijeen.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De directeur van het Berec-Bureau neemt deel aan de beraadslagingen, met uitzondering van de beraadslagingen met betrekking tot artikel 32, maar heeft geen stemrecht.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. De raad van bestuur houdt ten minste twee gewone vergaderingen per jaar. Daarnaast roept de voorzitter buitengewone vergaderingen bijeen op eigen initiatief, op verzoek van de Commissie of van ten minste drie leden van de raad van bestuur.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. De raad van bestuur kan eenieder van wie het advies dienstig kan zijn, uitnodigen om de vergaderingen als waarnemer bij te wonen.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. De leden van de raad van bestuur en hun plaatsvervangers kunnen, met inachtneming van het reglement van orde, in de vergaderingen worden bijgestaan door adviseurs of deskundigen.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Het Berec-Bureau verzorgt het secretariaat voor de raad van bestuur.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_19",
+   "kind": "article",
+   "number": "19",
+   "label": "Artikel 19",
+   "title": "Stemregels in de raad van bestuur",
+   "path": [
+    "HOOFDSTUK V — ORGANISATIE VAN HET BEREC-BUREAU"
+   ],
+   "blocks": [
+    {
+     "text": "1. De raad van bestuur besluit bij een gewone meerderheid van zijn leden, tenzij anders bepaald in deze verordening.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Elk lid heeft één stem. Bij afwezigheid van een lid kan zijn plaatsvervanger diens stemrecht uitoefenen. Bij afwezigheid van een lid en van zijn plaatsvervanger kan het stemrecht aan een ander lid worden gedelegeerd.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. De voorzitter kan in ieder geval zijn stemrecht delegeren. De voorzitter neemt deel aan de stemming, tenzij hij zijn stemrecht heeft gedelegeerd.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. In het reglement van orde van de raad van bestuur wordt de stemprocedure nader uitgewerkt, met name de procedure voor stemming bij hoogdringendheid en de gevallen waarin een lid namens een ander lid kan handelen.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_20",
+   "kind": "article",
+   "number": "20",
+   "label": "Artikel 20",
+   "title": "Verantwoordelijkheden van de directeur",
+   "path": [
+    "HOOFDSTUK V — ORGANISATIE VAN HET BEREC-BUREAU"
+   ],
+   "blocks": [
+    {
+     "text": "1. De directeur is verantwoordelijk voor het administratief beheer van het Berec-Bureau. De directeur legt verantwoording af aan de raad van bestuur.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De directeur assisteert de voorzitter van de raad van regulators en de voorzitter van de raad van bestuur bij de voorbereiding van de vergaderingen van hun respectieve organen.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Onverminderd de bevoegdheden van de raad van regulators, de raad van bestuur en de Commissie verricht de directeur zijn taken op onafhankelijke wijze zonder instructies te vragen of te aanvaarden van een regering, instelling, persoon of orgaan.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. De directeur brengt desgevraagd verslag over de uitvoering van zijn taken uit aan het Europees Parlement en de Raad.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. De directeur is de wettelijke vertegenwoordiger van het Berec-Bureau.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. De directeur is verantwoordelijk voor de uitvoering van de taken van het Berec-Bureau volgens de richtsnoeren van de raad van regulators en de raad van bestuur. De directeur is in het bijzonder belast met:",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "a) het dagelijkse bestuur van het Berec-Bureau;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "b) het uitvoeren van de bestuurlijke beslissingen die de raad van regulators en de raad van bestuur hebben genomen;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "c) het opstellen van het in artikel 23 bedoelde enig programmeringsdocument en het indienen ervan bij de raad van bestuur;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "d) het bijstaan van de raad van regulators bij het opstellen van het in artikel 22 bedoelde jaarlijkse activiteitenverslag van Berec;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "e) het bijstaan van de raad van regulators bij de voorbereiding van het in artikel 21 bedoelde jaarlijkse werkprogramma van Berec;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "f) het uitvoeren van het enig programmeringsdocument en het rapporteren over de uitvoering ervan aan de raad van bestuur;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "g) het opstellen van het geconsolideerde ontwerpjaarverslag over de in artikel 27 bedoelde activiteiten van het Berec-Bureau en het ter beoordeling en goedkeuring voorleggen ervan aan de raad van bestuur;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "h) het opstellen van een actieplan voor de follow-up van de conclusies van interne of externe auditverslagen en beoordelingen, alsmede van onderzoeken van OLAF, en het ten minste eenmaal per jaar rapporteren over de geboekte vooruitgang aan de raad van bestuur;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "i) het beschermen van de financiële belangen van de Unie door toepassing van maatregelen ter voorkoming van fraude, corruptie en andere onwettige activiteiten, door het verrichten van effectieve controles en, indien onregelmatigheden worden vastgesteld, door terugvordering van ten onrechte betaalde bedragen en, waar nodig, het opleggen van doeltreffende, evenredige en afschrikkende administratieve maatregelen, met inbegrip van financiële sancties;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "j) het vaststellen van een fraudebestrijdingsstrategie voor het Berec-Bureau en het ter goedkeuring voorleggen ervan aan de raad van bestuur;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "k) het opstellen van een ontwerp van financiële voorschriften voor het Berec-Bureau;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "l) het opstellen van de ontwerpraming van ontvangsten en uitgaven van het Berec-Bureau en het uitvoeren van zijn begroting;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "m) het verlenen van machtiging, samen met de raad van regulators, tot het sluiten van werkafspraken met bevoegde organen, instanties, agentschappen en adviesgroepen van de Unie, en met bevoegde autoriteiten van derde landen en internationale organisaties in overeenstemming met artikel 35.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. De directeur neemt, onder het toezicht van de raad van bestuur, de nodige maatregelen, met name met betrekking tot de vaststelling van interne administratieve instructies en de publicatie van berichten, om ervoor te zorgen dat het Berec-Bureau in overeenstemming met deze verordening functioneert.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. De directeur besluit, onder voorbehoud van de voorafgaande toestemming van de Commissie, de raad van bestuur en de betrokken lidstaat of lidstaten, of het voor de efficiënte en effectieve uitvoering van de taken van het Berec-Bureau noodzakelijk is een of meer personeelsleden te vestigen in een of meer lidstaten. In het besluit wordt de reikwijdte van de te verrichten activiteiten op zodanige wijze omschreven dat onnodige kosten en verdubbeling van administratieve functies van het Berec-Bureau worden vermeden. Alvorens een dergelijk besluit wordt genomen, worden de gevolgen ervan voor de toewijzing van personeel en middelen in het in artikel 23, lid 4, bedoelde meerjarige programmeringsdocument beschreven.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_21",
+   "kind": "article",
+   "number": "21",
+   "label": "Artikel 21",
+   "title": "Jaarlijkse werkprogramma van Berec",
+   "path": [
+    "HOOFDSTUK VI — PROGRAMMERING VAN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Uiterlijk 31 januari van het jaar dat voorafgaat aan het jaar waarop het jaarlijkse werkprogramma betrekking heeft, legt de raad van regulators de grote lijnen van het jaarlijkse werkprogramma vast. Na raadpleging van het Europees Parlement, de Raad, en de Commissie over hun prioriteiten, alsmede van andere belanghebbende partijen overeenkomstig artikel 4, lid 5, stelt de raad van regulators het definitieve jaarlijkse werkprogramma uiterlijk 31 december van dat jaar vast.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De raad van regulators zendt het jaarlijkse werkprogramma, zodra dit is vastgesteld, toe aan het Europees Parlement, de Raad en de Commissie.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_22",
+   "kind": "article",
+   "number": "22",
+   "label": "Artikel 22",
+   "title": "Jaarlijkse activiteitenverslag van Berec",
+   "path": [
+    "HOOFDSTUK VI — PROGRAMMERING VAN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. De raad van regulators stelt het jaarverslag over de activiteiten van Berec vast.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De raad van regulators zendt het jaarlijks activiteitenverslag van Berec uiterlijk 15 juni van elk jaar toe aan het Europees Parlement, de Raad, de Commissie en het Europees Economisch en Sociaal Comité.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_23",
+   "kind": "article",
+   "number": "23",
+   "label": "Artikel 23",
+   "title": "Jaarlijkse en meerjarige programmering",
+   "path": [
+    "HOOFDSTUK VII — BEGROTING EN PROGRAMMERING VAN HET BEREC-BUREAU"
+   ],
+   "blocks": [
+    {
+     "text": "1. Elk jaar stelt de directeur een ontwerp van programmeringsdocument op dat de jaarlijkse en meerjarige programmering bevat („enig programmeringsdocument”), in overeenstemming met artikel 32 van Gedelegeerde Verordening (EU) nr. 1271/2013, rekening houdend met de richtsnoeren van de Commissie. Uiterlijk 31 januari van elk jaar keurt de raad van bestuur het ontwerp van enig programmeringsdocument goed en dient hij het voor advies in bij de Commissie. Het ontwerp van enig programmeringsdocument wordt ook ingediend bij het Europees Parlement en de Raad. De raad van bestuur stelt het enig programmeringsdocument vervolgens vast, rekening houdend met het advies van de Commissie. Hij dient het enig programmeringsdocument, en alle latere actualiseringen ervan, in bij het Europees Parlement, de Raad en de Commissie. Het enig programmeringsdocument wordt definitief na de vaststelling van de algemene begroting van de Unie en wordt, indien nodig, dienovereenkomstig aangepast.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Het jaarlijkse programmeringsdocument bevat gedetailleerde doelstellingen en verwachte resultaten, met inbegrip van prestatie-indicatoren. Het bevat voorts een beschrijving van de te financieren acties en een indicatie van de financiële en personele middelen die aan iedere actie worden toegewezen overeenkomstig de beginselen betreffende activiteitsgestuurd begroten en beheer, zoals vermeld in artikel 31. Het jaarlijkse programmeringsdocument is consistent met de grote lijnen van het jaarlijkse werkprogramma en het definitieve jaarlijkse werkprogramma van Berec als bedoeld in artikel 21 en met het in lid 4 van dit artikel bedoelde meerjarige programmeringsdocument van het Berec-Bureau. Het vermeldt duidelijk de taken die zijn toegevoegd, gewijzigd of geschrapt ten opzichte van het vorige begrotingsjaar.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. De raad van bestuur wijzigt het jaarlijkse programmeringsdocument na de vaststelling van het in artikel 21 bedoelde definitieve jaarlijkse werkprogramma van Berec indien nodig en telkens wanneer Berec of het Berec-Bureau met een nieuwe taak wordt belast. Elke wezenlijke wijziging in het jaarlijkse programmeringsdocument wordt vastgesteld volgens dezelfde procedure als die op basis waarvan het oorspronkelijke jaarlijkse programmeringsdocument is vastgesteld. De raad van bestuur kan aan de directeur de bevoegdheid delegeren om niet-materiële wijzigingen door te voeren in het jaarlijkse programmeringsdocument.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Het meerjarige programmeringsdocument bevat een omschrijving van de algemene strategische programmering, met inbegrip van de doelstellingen, verwachte resultaten en prestatie-indicatoren. Het bevat ook de programmering van de middelen, met inbegrip van de meerjarige begroting en de personele middelen. Deze programmering van de middelen wordt jaarlijks bijgewerkt. De strategische programmering wordt in voorkomend geval bijgewerkt, met name om rekening te houden met de resultaten van de in artikel 48 bedoelde evaluatie.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Het enig programmeringsdocument van het Berec-Bureau omvat de uitvoering van de strategie van Berec voor betrekkingen met bevoegde organen, instanties, agentschappen en adviesgroepen van de Unie, met bevoegde instanties van derde landen en met internationale organisaties als bedoeld in artikel 35, lid 3, de maatregelen die verband houden met die strategie en de vermelding van de bijbehorende middelen.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_24",
+   "kind": "article",
+   "number": "24",
+   "label": "Artikel 24",
+   "title": "Vaststelling van de begroting",
+   "path": [
+    "HOOFDSTUK VII — BEGROTING EN PROGRAMMERING VAN HET BEREC-BUREAU"
+   ],
+   "blocks": [
+    {
+     "text": "1. Elk jaar stelt de directeur een voorlopige ontwerpraming op van de ontvangsten en uitgaven van het Berec-Bureau („de ontwerpraming”) voor het volgende begrotingsjaar, met inbegrip van de personeelsformatie, en dient deze in bij de raad van bestuur. De informatie in de ontwerpraming is consistent met het ontwerp van enig programmeringsdocument als bedoeld in artikel 23, lid 1.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De directeur dient de ontwerpraming elk jaar uiterlijk 31 januari in bij de Commissie.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. De Commissie dient de ontwerpraming, samen met het ontwerp van algemene begroting van de Unie, in bij de begrotingsautoriteit.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Op basis van de ontwerpraming neemt de Commissie de geraamde bedragen die zij nodig acht voor de personeelsformatie, en de bijdrage ten laste van de algemene begroting, op in het ontwerp van algemene begroting van de Unie, dat zij overeenkomstig de artikelen 313 en 314 van het Verdrag betreffende de werking van de Europese Unie (VWEU) indient bij de begrotingsautoriteit.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. De begrotingsautoriteit keurt de kredieten goed voor de bijdrage aan het Berec-Bureau.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. De begrotingsautoriteit stelt de personeelsformatie van het Berec-Bureau vast.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. De raad van bestuur stelt de begroting van het Berec-Bureau vast. De begroting wordt definitief na de definitieve vaststelling van de algemene begroting van de Unie. Indien nodig wordt de begroting dienovereenkomstig aangepast.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Gedelegeerde Verordening (EU) nr. 1271/2013 is van toepassing op alle bouwprojecten die significante gevolgen kunnen hebben voor de begroting van het Berec-Bureau.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_25",
+   "kind": "article",
+   "number": "25",
+   "label": "Artikel 25",
+   "title": "Structuur van de begroting",
+   "path": [
+    "HOOFDSTUK VII — BEGROTING EN PROGRAMMERING VAN HET BEREC-BUREAU"
+   ],
+   "blocks": [
+    {
+     "text": "1. Voor elk begrotingsjaar, dat samenvalt met het kalenderjaar, worden alle ontvangsten en uitgaven van het Berec-Bureau geraamd en vervolgens in de begroting van het Berec-Bureau opgenomen.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De ontvangsten en uitgaven van het Berec-Bureau moeten in evenwicht zijn.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Onverminderd andere middelen bestaan de ontvangsten van het Berec-Bureau uit: a) een bijdrage van de Unie; b) eventuele vrijwillige financiële bijdragen van de lidstaten of de NRI’s; c) vergoedingen voor publicaties en andere diensten van het Berec-Bureau; d) eventuele bijdragen van derde landen of van de regulerende instanties die bevoegd zijn op het gebied van elektronische communicatie van derde landen die deelnemen aan de werkzaamheden van het Berec-Bureau, als bedoeld in artikel 35.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. De uitgaven van het Berec-Bureau omvatten de bezoldiging van het personeel, uitgaven voor administratie en infrastructuur, en werkingskosten.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_26",
+   "kind": "article",
+   "number": "26",
+   "label": "Artikel 26",
+   "title": "Uitvoering van de begroting",
+   "path": [
+    "HOOFDSTUK VII — BEGROTING EN PROGRAMMERING VAN HET BEREC-BUREAU"
+   ],
+   "blocks": [
+    {
+     "text": "1. De directeur voert de begroting van het Berec-Bureau uit.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De directeur dient jaarlijks alle relevante informatie over de resultaten van de evaluatieprocedures in bij het Europees Parlement en de Raad.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_27",
+   "kind": "article",
+   "number": "27",
+   "label": "Artikel 27",
+   "title": "Geconsolideerde jaarlijks activiteitenverslag",
+   "path": [
+    "HOOFDSTUK VII — BEGROTING EN PROGRAMMERING VAN HET BEREC-BUREAU"
+   ],
+   "blocks": [
+    {
+     "text": "De raad van bestuur stelt de geconsolideerde jaarlijkse activiteitenverslagen vast overeenkomstig artikel 47 van Gedelegeerde Verordening (EU) nr. 1271/2013, rekening houdend met de richtsnoeren van de Commissie.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_28",
+   "kind": "article",
+   "number": "28",
+   "label": "Artikel 28",
+   "title": "Indiening van de rekeningen en kwijting",
+   "path": [
+    "HOOFDSTUK VII — BEGROTING EN PROGRAMMERING VAN HET BEREC-BUREAU"
+   ],
+   "blocks": [
+    {
+     "text": "1. De rekenplichtige van het Berec-Bureau dient de voorlopige rekeningen voor het begrotingsjaar uiterlijk 1 maart van het volgende begrotingsjaar in bij de rekenplichtige van de Commissie en bij de Rekenkamer.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Het Berec-Bureau dient het verslag over het budgettaire en financiële beheer uiterlijk 31 maart van het volgende begrotingsjaar in bij het Europees Parlement, de Raad en de Rekenkamer.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Na ontvangst van de opmerkingen van de Rekenkamer over de voorlopige rekeningen van het Berec-Bureau stelt de rekenplichtige van het Berec-Bureau de definitieve rekeningen van het Berec-Bureau op onder zijn eigen verantwoordelijkheid. De directeur dient de definitieve rekeningen voor advies in bij de raad van bestuur.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. De raad van bestuur brengt advies uit over de definitieve rekeningen van het Berec-Bureau.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. De directeur dient de definitieve rekeningen, samen met het advies van de raad van bestuur, uiterlijk 1 juli van het jaar dat volgt op het afgesloten begrotingsjaar in bij het Europees Parlement, de Raad, de Commissie en de Rekenkamer.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Het Berec-Bureau maakt de definitieve rekeningen uiterlijk 15 november van het volgende jaar bekend in het Publicatieblad van de Europese Unie.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. De directeur dient uiterlijk 30 september van het volgende begrotingsjaar een antwoord in bij de Rekenkamer op de door haar geformuleerde opmerkingen. De directeur dient dit antwoord eveneens in bij aan de raad van bestuur.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. De directeur dient bij het Europees Parlement, op diens verzoek, overeenkomstig artikel 165, lid 3, van Verordening (EU, Euratom) 2018/1046 van het Europees Parlement en de Raad, alle inlichtingen in die nodig zijn voor het goede verloop van de kwijtingsprocedure voor het betrokken begrotingsjaar.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Vóór 15 mei van het jaar N+2 verleent het Europees Parlement op aanbeveling van de Raad, die met gekwalificeerde meerderheid van stemmen besluit, de directeur kwijting voor de uitvoering van de begroting van het begrotingsjaar N.",
+     "para": "9",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_29",
+   "kind": "article",
+   "number": "29",
+   "label": "Artikel 29",
+   "title": "Financiële regels",
+   "path": [
+    "HOOFDSTUK VII — BEGROTING EN PROGRAMMERING VAN HET BEREC-BUREAU"
+   ],
+   "blocks": [
+    {
+     "text": "De financiële regels die op het Berec-Bureau van toepassing zijn, worden na raadpleging van de Commissie vastgesteld door de raad van bestuur. Deze financiële regels mogen slechts afwijken van Gedelegeerde Verordening (EU) nr. 1271/2013 indien een dergelijke afwijking voor de werking van het Berec-Bureau vereist is en de Commissie vooraf toestemming heeft verleend.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_30",
+   "kind": "article",
+   "number": "30",
+   "label": "Artikel 30",
+   "title": "Algemene bepaling",
+   "path": [
+    "HOOFDSTUK VIII — PERSONEEL VAN HET BEREC-BUREAU"
+   ],
+   "blocks": [
+    {
+     "text": "Het Statuut en de Regeling welke van toepassing is op de andere personeelsleden, en de regels die in onderling overleg zijn vastgesteld door de instellingen van de Europese Unie ter uitvoering van dit Statuut en de Regeling welke van toepassing is op de andere personeelsleden, zijn van toepassing op het personeel van het Berec-Bureau.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_31",
+   "kind": "article",
+   "number": "31",
+   "label": "Artikel 31",
+   "title": "Aantal personeelsleden van het Berec-Bureau",
+   "path": [
+    "HOOFDSTUK VIII — PERSONEEL VAN HET BEREC-BUREAU"
+   ],
+   "blocks": [
+    {
+     "text": "1. Overeenkomstig het beginsel van activiteitsgestuurd beheer van personele middelen beschikt het Berec-Bureau over de voor het uitoefenen van zijn taken noodzakelijke personeelsleden.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Het aantal personeelsleden en de overeenkomstige financiële middelen worden voorgesteld overeenkomstig artikel 23, leden 2 en 4, en artikel 24, lid 1, rekening houdend met artikel 5, punt a), en alle andere bij deze verordening en andere rechtshandelingen van de Unie aan het Berec-Bureau toegewezen taken, alsmede met de noodzaak te voldoen aan de op alle gedecentraliseerde agentschappen van de Unie toepasselijke verordeningen.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_32",
+   "kind": "article",
+   "number": "32",
+   "label": "Artikel 32",
+   "title": "Benoeming van de directeur",
+   "path": [
+    "HOOFDSTUK VIII — PERSONEEL VAN HET BEREC-BUREAU"
+   ],
+   "blocks": [
+    {
+     "text": "1. De directeur wordt als tijdelijk functionaris van het Berec-Bureau in dienst genomen overeenkomstig artikel 2, punt a), van de Regeling welke van toepassing is op de andere personeelsleden.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De directeur wordt door de raad van bestuur benoemd na een open en transparante procedure op basis van verdienste, beheers-, bestuurs- en budgettaire vaardigheden en de inzake elektronischecommunicatienetwerken en -diensten relevante vaardigheden. De lijst van kandidaten wordt niet uitsluitend door de voorzitter of een vicevoorzitter voorgesteld. Het reglement van orde van de raad van bestuur geeft een gedetailleerde beschrijving van de regelingen voor een procedure voor het opstellen van een beperkte lijst van in aanmerking komende kandidaten en voor een stemprocedure.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Voor het sluiten van de arbeidsovereenkomst met de directeur wordt het Berec-Bureau vertegenwoordigd door de voorzitter van de raad van bestuur.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Vóór de benoeming wordt de door de raad van bestuur gekozen kandidaat verzocht een verklaring voor de bevoegde commissie van het Europees Parlement af te leggen en vragen van de commissieleden te beantwoorden.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. De ambtstermijn van de directeur bedraagt vijf jaar. Aan het einde van die termijn verricht de voorzitter van de raad van bestuur een beoordeling waarin rekening wordt gehouden met de evaluatie van de prestaties van de directeur en de taken en uitdagingen van het Berec-Bureau. Die beoordeling wordt bij het Europees Parlement en de Raad ingediend.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Rekening houdend met de in lid 5 bedoelde beoordeling kan de raad van bestuur de ambtstermijn van de directeur eenmaal verlengen met ten hoogste vijf jaar.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. De raad van bestuur stelt het Europees Parlement in kennis van zijn voornemen om de ambtstermijn van de directeur te verlengen. Binnen één maand voorafgaand aan die verlenging kan de directeur worden gevraagd een verklaring voor de bevoegde commissie van het Europees Parlement af te leggen en vragen van de commissieleden te beantwoorden.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Een directeur wiens ambtstermijn is verlengd, neemt na afloop van de totale termijn niet deel aan een nieuwe selectieprocedure voor hetzelfde ambt.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Indien de ambtstermijn niet wordt verlengd, blijft de directeur na afloop van de initiële ambtstermijn bij besluit van de raad van bestuur in functie totdat een opvolger wordt benoemd.",
+     "para": "9",
+     "point": ""
+    },
+    {
+     "text": "10. De directeur kan alleen uit zijn functie worden ontheven bij besluit van de raad van bestuur op voorstel van een lid.",
+     "para": "10",
+     "point": ""
+    },
+    {
+     "text": "11. De raad van bestuur besluit bij tweederdemeerderheid van zijn leden over de benoeming, de verlenging van de ambtstermijn of de ontheffing uit de functie van de directeur.",
+     "para": "11",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_33",
+   "kind": "article",
+   "number": "33",
+   "label": "Artikel 33",
+   "title": "Gedetacheerde nationale deskundigen en andere personeelsleden",
+   "path": [
+    "HOOFDSTUK VIII — PERSONEEL VAN HET BEREC-BUREAU"
+   ],
+   "blocks": [
+    {
+     "text": "1. Het Berec-Bureau kan een beroep doen op gedetacheerde nationale deskundigen of andere personeelsleden die niet bij het Berec-Bureau in dienst zijn. Het Statuut en de Regeling welke van toepassing is op de andere personeelsleden zijn niet van toepassing op deze personeelsleden.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De regels voor de detachering van nationale deskundigen bij het Berec-Bureau worden vastgesteld bij besluit van de raad van bestuur.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_34",
+   "kind": "article",
+   "number": "34",
+   "label": "Artikel 34",
+   "title": "Voorrechten en immuniteiten",
+   "path": [
+    "HOOFDSTUK IX — ALGEMENE BEPALINGEN"
+   ],
+   "blocks": [
+    {
+     "text": "Op het Berec-Bureau en zijn personeel is het Protocol betreffende de voorrechten en immuniteiten van de Europese Unie van toepassing.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_35",
+   "kind": "article",
+   "number": "35",
+   "label": "Artikel 35",
+   "title": "Samenwerking met organen van de Unie, derde landen en internationale organisaties",
+   "path": [
+    "HOOFDSTUK IX — ALGEMENE BEPALINGEN"
+   ],
+   "blocks": [
+    {
+     "text": "1. Voor zover noodzakelijk om de doelstellingen van deze verordening te bereiken en om zijn taken te vervullen, en onverminderd de bevoegdheden van de lidstaten en de instellingen van de Unie, kunnen Berec en het Berec-Bureau samenwerken met bevoegde organen, instanties, agentschappen en adviesgroepen van de Unie, bevoegde autoriteiten van derde landen en internationale organisaties. Daartoe kunnen Berec en het Berec-Bureau, onder voorbehoud van de voorafgaande goedkeuring door de Commissie, werkafspraken maken. Die afspraken doen geen juridische verplichtingen ontstaan.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De raad van regulators, de werkgroepen en de raad van bestuur staan open voor deelname van regulerende instanties van derde landen met primaire bevoegdheid op het gebied van elektronische communicatie, indien die derde landen met de Unie overeenkomsten in die zin hebben gesloten. Krachtens de betreffende bepalingen van die overeenkomsten worden werkafspraken gemaakt met een omschrijving van met name de aard, de omvang en de manier waarop de regulerende instanties van de betrokken derde landen zonder stemrecht zullen deelnemen aan de werkzaamheden van Berec en het Berec-Bureau, met inbegrip van bepalingen betreffende de deelname aan initiatieven van Berec, financiële bijdragen en personeel van het Berec-Bureau. Wat personeelszaken betreft, voldoen deze regelingen in elk geval aan het Statuut.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. In het kader van het in artikel 21 bedoelde jaarlijkse werkprogramma stelt de raad van regulators de strategie van Berec vast voor betrekkingen met bevoegde organen, instanties, agentschappen en adviesgroepen van de Unie, met bevoegde autoriteiten van derde landen en met internationale organisaties inzake aangelegenheden die onder de bevoegdheden van Berec vallen. De Commissie, Berec, en het Berec-Bureau maken passende werkafspraken om ervoor te zorgen dat Berec en het Berec-Bureau binnen hun mandaat en het bestaande institutionele kader handelen.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_36",
+   "kind": "article",
+   "number": "36",
+   "label": "Artikel 36",
+   "title": "Toegang tot documenten en gegevensbescherming",
+   "path": [
+    "HOOFDSTUK IX — ALGEMENE BEPALINGEN"
+   ],
+   "blocks": [
+    {
+     "text": "1. Verordening (EG) nr. 1049/2001 van het Europees Parlement en de Raad is van toepassing op de documenten die in het bezit van Berec en het Berec-Bureau zijn.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De raad van regulators en de raad van bestuur stellen uiterlijk op 21 juni 2019 de nadere regels ter uitvoering van Verordening (EG) nr. 1049/2001 vast.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Verordening (EU) 2018/1725 is van toepassing op de verwerking van persoonsgegevens door Berec en het Berec-Bureau.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. De raad van regulators en de raad van bestuur stellen uiterlijk op 21 juni 2019 maatregelen vast voor de toepassing van Verordening (EU) 2018/1725 door Berec en het Berec-Bureau, onder meer betreffende de benoeming van de functionaris voor gegevensbescherming van het Berec-Bureau. Die maatregelen worden vastgesteld na raadpleging van de Europese Toezichthouder voor gegevensbescherming.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_37",
+   "kind": "article",
+   "number": "37",
+   "label": "Artikel 37",
+   "title": "Transparantie en communicatie",
+   "path": [
+    "HOOFDSTUK IX — ALGEMENE BEPALINGEN"
+   ],
+   "blocks": [
+    {
+     "text": "1. Berec en het Berec-Bureau verrichten hun werkzaamheden met een hoge mate van transparantie. Berec en het Berec-Bureau zorgen ervoor dat het publiek en alle belanghebbende partijen toegang hebben tot passende, objectieve, betrouwbare en gemakkelijk toegankelijke informatie, met name over hun taken en de resultaten van hun werkzaamheden.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Berec kan, met ondersteuning van het Berec-Bureau, op eigen initiatief communicatieactiviteiten verrichten die binnen zijn bevoegdheidsgebied vallen, zulks overeenkomstig de door de raad van regulators vastgestelde toepasselijke communicatie- en verspreidingsplannen. De toewijzing van middelen binnen de begroting van het Berec-Bureau voor een dergelijke ondersteuning van communicatieactiviteiten doet geen afbreuk aan de doeltreffende uitoefening van de in artikel 4 genoemde taken van Berec of de in artikel 5 genoemde taken van het Berec-Bureau. De communicatieactiviteiten van het Berec-Bureau worden uitgevoerd in overeenstemming met de desbetreffende door de raad van bestuur vastgestelde communicatie- en verspreidingsplannen.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_38",
+   "kind": "article",
+   "number": "38",
+   "label": "Artikel 38",
+   "title": "Vertrouwelijkheid",
+   "path": [
+    "HOOFDSTUK IX — ALGEMENE BEPALINGEN"
+   ],
+   "blocks": [
+    {
+     "text": "1. Onverminderd artikel 36, lid 1, en artikel 40, lid 2, maken Berec en het Berec-Bureau aan derden geen door hen verwerkte of ontvangen informatie openbaar waarvoor een gemotiveerd verzoek om gehele of gedeeltelijke vertrouwelijke behandeling is ingediend.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Leden en andere deelnemers aan de vergaderingen van de raad van regulators, de raad van bestuur en de werkgroepen, de directeur, gedetacheerde nationale deskundigen en andere personeelsleden die niet in dienst van het Berec-Bureau zijn, leven de vertrouwelijkheidsverplichtingen krachtens artikel 339 VWEU na, zelfs na beëindiging van hun functie.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. De raad van regulators en de raad van bestuur stellen de praktische regelingen vast voor de toepassing van de in de leden 1 en 2 bedoelde vertrouwelijkheidsbepalingen.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_39",
+   "kind": "article",
+   "number": "39",
+   "label": "Artikel 39",
+   "title": "Veiligheidsvoorschriften voor de bescherming van gerubriceerde informatie en gevoelige niet-gerubriceerde informatie",
+   "path": [
+    "HOOFDSTUK IX — ALGEMENE BEPALINGEN"
+   ],
+   "blocks": [
+    {
+     "text": "Berec en het Berec-Bureau stellen hun eigen veiligheidsvoorschriften vast die gelijkwaardig zijn aan de veiligheidsvoorschriften van de Commissie voor de bescherming van gerubriceerde EU-informatie en gevoelige niet-gerubriceerde informatie, waaronder voorschriften betreffende de uitwisseling, verwerking en opslag van dergelijke informatie, zoals vastgesteld in de Besluiten (EU, Euratom) 2015/443 en (EU, Euratom) 2015/444 van de Commissie. Berec of het Berec-Bureau kan tevens een besluit nemen tot overeenkomstige toepassing van de voorschriften van de Commissie.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_40",
+   "kind": "article",
+   "number": "40",
+   "label": "Artikel 40",
+   "title": "Uitwisseling van informatie",
+   "path": [
+    "HOOFDSTUK IX — ALGEMENE BEPALINGEN"
+   ],
+   "blocks": [
+    {
+     "text": "1. Op gemotiveerd verzoek van Berec of het Berec-Bureau verstrekken de Commissie en de in de raad van regulators vertegenwoordigde NRI’s en andere bevoegde autoriteiten Berec of het Berec-Bureau tijdig en accuraat alle informatie die nodig is om hun taken uit te voeren, op voorwaarde dat zij rechtens inzage in de betreffende informatie kunnen verkrijgen en het verzoek om informatie noodzakelijk is gezien de aard van de betrokken taak. Berec of het Berec-Bureau kan ook verlangen dat deze informatie regelmatig en in een nader omschreven formaat wordt verstrekt. Voor deze verzoeken wordt, waar mogelijk, gebruikgemaakt van gemeenschappelijke rapportageformulieren.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Op gemotiveerd verzoek van de Commissie, of van een NRI, verstrekt Berec of het Berec-Bureau, op grond van het beginsel van loyale samenwerking, tijdig en accuraat alle informatie die nodig is om de Commissie, de NRI of een andere bevoegde autoriteit in staat te stellen haar taken uit te voeren. Wanneer informatie volgens Berec of het Berec-Bureau vertrouwelijk is, garanderen de Commissie, de NRI of de andere bevoegde autoriteit de vertrouwelijkheid overeenkomstig het Unierecht en het nationale recht, met inbegrip van Verordening (EG) nr. 1049/2001. De vertrouwelijkheid van bedrijfsgegevens vormt geen belemmering om tijdig informatie uit te wisselen.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Alvorens overeenkomstig dit artikel informatie op te vragen en om dubbele rapportageverplichtingen te vermijden houdt Berec of het Berec-Bureau rekening met alle relevante bestaande informatie die openbaar beschikbaar is.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Wanneer informatie niet tijdig beschikbaar wordt gesteld door de NRI’s, kan Berec of het Berec-Bureau een gemotiveerd verzoek richten tot andere NRI’s en andere bevoegde autoriteiten van de betrokken lidstaat, of rechtstreeks tot de betrokken aanbieders van elektronischecommunicatienetwerken, -diensten en bijbehorende faciliteiten. Berec of het Berec-Bureau brengt de NRI’s die geen informatie hebben verstrekt, op de hoogte van de verzoeken overeenkomstig de eerste alinea. Op verzoek van Berec of het Berec-Bureau staan de NRI’s Berec bij het verzamelen van de informatie bij.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. De lidstaten zorgen ervoor dat de NRI’s en andere bevoegde autoriteiten van andere verantwoordelijke nationale autoriteiten of van aanbieders van elektronischecommunicatienetwerken en -diensten, bijbehorende faciliteiten of bijbehorende diensten kunnen verlangen dat zij alle informatie verstrekken die nodig is voor het uitvoeren van hun taken als bedoeld in dit artikel. De in de eerste alinea bedoelde andere verantwoordelijke nationale autoriteiten of aanbieders verstrekken die informatie op verzoek terstond en overeenkomstig de vereiste termijnen en mate van gedetailleerdheid. De lidstaten zorgen ervoor dat de NRI’s en andere bevoegde autoriteiten die verzoeken om informatie kunnen afdwingen door het opleggen van passende, doeltreffende, evenredige en afschrikkende sancties.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_41",
+   "kind": "article",
+   "number": "41",
+   "label": "Artikel 41",
+   "title": "Informatie- en communicatiesysteem",
+   "path": [
+    "HOOFDSTUK IX — ALGEMENE BEPALINGEN"
+   ],
+   "blocks": [
+    {
+     "text": "1. Het Berec-Bureau creëert en beheert een informatie- en communicatiesysteem met ten minste de volgende functies: a) een gemeenschappelijk platform voor de uitwisseling van informatie dat Berec, de Commissie en de NRI’s de noodzakelijke informatie verschaft voor een consistente tenuitvoerlegging van het regelgevingskader van de Unie voor elektronische communicatie; b) een specifieke interface voor verzoeken om informatie en kennisgeving betreffende die verzoeken bedoeld in artikel 40, toegankelijk voor Berec, het Berec-Bureau, de Commissie en de NRI’s; c) een platform voor het vroegtijdig bepalen van de behoefte inzake coördinatie tussen de NRI’s.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De raad van bestuur stelt de technische en functionele specificaties vast teneinde het in lid 1 bedoelde informatie- en communicatiesysteem op te zetten. Dat systeem neemt intellectuele-eigendomsrechten en het vereiste vertrouwelijkheidsniveau in acht.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Het informatie- en communicatiesysteem is uiterlijk op 21 juni 2020 operationeel.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_42",
+   "kind": "article",
+   "number": "42",
+   "label": "Artikel 42",
+   "title": "Belangenverklaringen",
+   "path": [
+    "HOOFDSTUK IX — ALGEMENE BEPALINGEN"
+   ],
+   "blocks": [
+    {
+     "text": "1. De leden van de raad van regulators en van de raad van bestuur, de directeur, de gedetacheerde nationale deskundigen en andere personeelsleden die niet in dienst van het Berec-Bureau zijn, leggen elk een schriftelijke verbintenissenverklaring af over het bestaan van directe of indirecte belangen die hun onafhankelijkheid zouden kunnen aantasten. Dergelijke verklaringen worden afgelegd wanneer verantwoordelijkheden worden opgenomen, zijn accuraat en volledig, en worden geactualiseerd telkens er een risico is dat er een direct of indirect belang bestaat dat de onafhankelijkheid van de persoon die de verklaring aflegt, zou kunnen aantasten. De verklaringen van de leden van de raad van regulators, de leden van de raad van bestuur en de directeur worden openbaar gemaakt.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De leden van de raad van regulators, van de raad van bestuur en van de werkgroepen, en andere deelnemers aan de vergaderingen van die organen, de directeur, de gedetacheerde nationale deskundigen en andere personeelsleden die niet in dienst van het Berec-Bureau zijn, leggen elk uiterlijk bij de aanvang van elke vergadering een nauwkeurige en volledige verklaring af over belangen met betrekking tot agendapunten die hun onafhankelijkheid zouden kunnen aantasten, en nemen niet deel aan de bespreking van en de stemming over die punten.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. De raad van regulators en de raad van bestuur stellen de regels vast voor de preventie en het beheer van belangenconflicten en, in het bijzonder, voor de praktische regelingen voor de toepassing van de leden 1 en 2.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_43",
+   "kind": "article",
+   "number": "43",
+   "label": "Artikel 43",
+   "title": "Fraudebestrijding",
+   "path": [
+    "HOOFDSTUK IX — ALGEMENE BEPALINGEN"
+   ],
+   "blocks": [
+    {
+     "text": "1. Om de bestrijding van fraude, corruptie en andere onwettige activiteiten krachtens Verordening (EU, Euratom) nr. 883/2013 van het Europees Parlement en de Raad te bevorderen, treedt het Berec-Bureau uiterlijk op 21 juni 2019 toe tot het Interinstitutioneel Akkoord van 25 mei 1999 tussen het Europees Parlement, de Raad van de Europese Unie en de Commissie van de Europese Gemeenschappen betreffende de interne onderzoeken verricht door het Europees Bureau voor fraudebestrijding (OLAF) en stelt het op basis van het model in de bijlage bij dat akkoord passende voorschriften vast voor alle personeelsleden van het Berec-Bureau.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De Rekenkamer is bevoegd om bij alle begunstigden van subsidies, contractanten en subcontractanten die van het Berec-Bureau EU-middelen hebben ontvangen, controles op basis van stukken en verificaties ter plaatse te verrichten.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. OLAF kan overeenkomstig de bepalingen en procedures van Verordening (EU, Euratom) nr. 883/2013 en Verordening (Euratom, EG) nr. 2185/96 van de Raad onderzoeken verrichten, waaronder controles en verificaties ter plaatse, om vast te stellen of er sprake is van fraude, corruptie of andere onwettige activiteiten waardoor de financiële belangen van de Unie worden geschaad in verband met een subsidieovereenkomst of subsidiebesluit of een contract, gefinancierd door het Berec-Bureau.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Onverminderd de leden 1, 2 en 3 worden in samenwerkingsovereenkomsten met derde landen en internationale organisaties, contracten, subsidieovereenkomsten en subsidiebesluiten bepalingen opgenomen die de Rekenkamer en OLAF uitdrukkelijk de bevoegdheid verlenen dergelijke controles en onderzoeken te verrichten overeenkomstig hun respectieve bevoegdheden.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_44",
+   "kind": "article",
+   "number": "44",
+   "label": "Artikel 44",
+   "title": "Aansprakelijkheid",
+   "path": [
+    "HOOFDSTUK IX — ALGEMENE BEPALINGEN"
+   ],
+   "blocks": [
+    {
+     "text": "1. De contractuele aansprakelijkheid van het Berec-Bureau wordt beheerst door het recht dat van toepassing is op de betrokken overeenkomst.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Het Hof van Justitie van de Europese Unie („het Hof van Justitie”) is bevoegd om uitspraak te doen op grond van arbitrageclausules in door het Berec-Bureau gesloten overeenkomsten.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. In geval van niet-contractuele aansprakelijkheid vergoedt het Berec-Bureau, in overeenstemming met de algemene beginselen die de rechtsstelsels van de lidstaten gemeen hebben, de door zijn diensten of personeelsleden bij de uitoefening van hun taken veroorzaakte schade.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Het Hof van Justitie heeft rechtsmacht voor geschillen over de vergoeding van de in lid 3 bedoelde schade.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Voor de persoonlijke aansprakelijkheid van de personeelsleden ten aanzien van het Berec-Bureau gelden de bepalingen van het Statuut of van de Regeling welke van toepassing is op de andere personeelsleden.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_45",
+   "kind": "article",
+   "number": "45",
+   "label": "Artikel 45",
+   "title": "Administratieve onderzoeken",
+   "path": [
+    "HOOFDSTUK IX — ALGEMENE BEPALINGEN"
+   ],
+   "blocks": [
+    {
+     "text": "Overeenkomstig artikel 228 VWEU zijn de activiteiten van Berec en van het Berec-Bureau onderworpen aan onderzoeken door de Europese Ombudsman.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_46",
+   "kind": "article",
+   "number": "46",
+   "label": "Artikel 46",
+   "title": "Talenregeling",
+   "path": [
+    "HOOFDSTUK IX — ALGEMENE BEPALINGEN"
+   ],
+   "blocks": [
+    {
+     "text": "1. Verordening nr. 1 van de Raad is van toepassing op het Berec-Bureau.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De voor het functioneren van het Berec-Bureau vereiste vertaaldiensten worden verricht door het Vertaalbureau voor de organen van de Europese Unie.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_47",
+   "kind": "article",
+   "number": "47",
+   "label": "Artikel 47",
+   "title": "Zetelovereenkomst en voorwaarden voor de werking",
+   "path": [
+    "HOOFDSTUK X — SLOTBEPALINGEN"
+   ],
+   "blocks": [
+    {
+     "text": "1. De regelingen betreffende de huisvesting van het Berec-Bureau in de gastlidstaat en de door deze lidstaat ter beschikking te stellen faciliteiten, alsmede de specifieke regels die in de gastlidstaat gelden voor de directeur, de leden van de raad van bestuur, de personeelsleden van het Berec-Bureau en hun gezinsleden, worden vastgesteld in een zetelovereenkomst tussen het Berec-Bureau en de gastlidstaat, die wordt gesloten na goedkeuring door de raad van bestuur en niet later dan 21 december 2020.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De gastlidstaat biedt de noodzakelijke voorwaarden voor de vlotte en efficiënte werking van het Berec-Bureau, waaronder meertalig, Europees gericht onderwijs en passende vervoersverbindingen.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_48",
+   "kind": "article",
+   "number": "48",
+   "label": "Artikel 48",
+   "title": "Evaluatie",
+   "path": [
+    "HOOFDSTUK X — SLOTBEPALINGEN"
+   ],
+   "blocks": [
+    {
+     "text": "1. Uiterlijk op 21 december 2023 en vervolgens om de vijf jaar verricht de Commissie een evaluatie in overeenstemming met de richtsnoeren van de Commissie om de prestaties van Berec en het Berec-Bureau te toetsen aan hun doelstellingen, mandaat, taken en locatie. De evaluatie richt zich in het bijzonder op de vraag of de structuur of het mandaat van Berec en het Berec-Bureau moet worden gewijzigd en op de financiële gevolgen van een dergelijke wijziging.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Indien de Commissie van oordeel is dat het voortbestaan van Berec of het Berec-Bureau niet langer gerechtvaardigd is in het licht van de doelstellingen, het mandaat en de taken die hun zijn toegewezen, kan zij voorstellen deze verordening dienovereenkomstig te wijzigen of in te trekken.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. De Commissie brengt bij het Europees Parlement, de Raad en de raad van bestuur verslag uit van de bevindingen van haar evaluatie en maakt deze openbaar.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_49",
+   "kind": "article",
+   "number": "49",
+   "label": "Artikel 49",
+   "title": "Overgangsbepalingen",
+   "path": [
+    "HOOFDSTUK X — SLOTBEPALINGEN"
+   ],
+   "blocks": [
+    {
+     "text": "1. Het Berec-Bureau volgt het Bureau op dat werd opgericht bij Verordening (EG) nr. 1211/2009 met betrekking tot alle eigendomsrechten, overeenkomsten, wettelijke verplichtingen, arbeidsovereenkomsten, financiële verbintenissen en passiva. Deze verordening heeft met name geen gevolgen voor de rechten en verplichtingen van het personeel van het Bureau. De arbeidsovereenkomsten van deze personeelsleden kunnen op grond van de onderhavige verordening worden verlengd overeenkomstig het Statuut en de Regeling welke van toepassing is op de andere personeelsleden en in overeenstemming met de budgettaire beperkingen van het Berec-Bureau.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Met ingang van 20 december 2018 treedt de op grond van Verordening (EG) nr. 1211/2009 benoemde administratief directeur op als directeur met de taken waarin deze verordening voorziet. De andere voorwaarden van de arbeidsovereenkomst van de administratief directeur blijven ongewijzigd.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. De raad van bestuur kan besluiten de ambtstermijn van de in lid 2 van dit artikel bedoelde directeur met een termijn te verlengen. Artikel 32, leden 5 en 6, is van overeenkomstige toepassing. De totale ambtstermijn van de directeur bedraagt maximaal tien jaar.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. De in artikel 7 van deze verordening bedoelde raad van regulators bestaat uit de leden van de raad van regelgevers als bedoeld in artikel 4 van Verordening (EG) nr. 1211/2009, en de in artikel 15 van deze verordening bedoelde raad van bestuur bestaat uit de leden van het comité van beheer als bedoeld in artikel 7 van Verordening (EG) nr. 1211/2009, totdat nieuwe vertegenwoordigers worden benoemd.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. De voorzitters en de vicevoorzitters van de raad van regulators en van het comité van beheer die zijn benoemd op basis van Verordening (EG) nr. 1211/2009, blijven voor de resterende tijd van hun eenjarige termijn in functie als voorzitter en vicevoorzitters van de raad van regulators zoals bedoeld in artikel 10 van de onderhavige verordening, en als voorzitter en vicevoorzitters van de raad van bestuur zoals bedoeld in artikel 17 van de onderhavige verordening. Benoemingen op basis van Verordening (EG) nr. 1211/2009 tot voorzitter of vicevoorzitter van de raad van regulators en van het comité van beheer die dateren van vóór 20 december 2018 maar ook na die datum nog effecten sorteren, worden gerespecteerd.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. De kwijtingsprocedure met betrekking tot de begrotingen die zijn goedgekeurd op grond van artikel 11 van Verordening (EG) nr. 1211/2009 wordt uitgevoerd overeenkomstig de bij die verordening vastgestelde voorschriften.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_50",
+   "kind": "article",
+   "number": "50",
+   "label": "Artikel 50",
+   "title": "Wijzigingen van Verordening (EU) 2015/2120",
+   "path": [
+    "HOOFDSTUK X — SLOTBEPALINGEN"
+   ],
+   "blocks": [
+    {
+     "text": "Verordening (EU) 2015/2120 wordt als volgt gewijzigd:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "1. de titel wordt vervangen door: „Verordening (EU) 2015/2120 van het Europees Parlement en de Raad van 25 november 2015 tot vaststelling van maatregelen betreffende open-internettoegang en retailtarieven voor gereguleerde communicaties binnen de EU en tot wijziging van Richtlijn 2002/22/EG en Verordening (EU) nr. 531/2012”;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. aan artikel 1 wordt het volgende lid toegevoegd: „3. Bij deze verordening worden tevens gemeenschappelijke regels vastgesteld om ervoor te zorgen dat consumenten geen buitensporige prijzen worden aangerekend voor nummergebaseerde interpersoonlijke communicaties vanuit de lidstaat van de binnenlandse aanbieder van de consument naar een vast of mobiel nummer in een andere lidstaat.”;",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Aan artikel 2, tweede alinea, worden de volgende punten toegevoegd: „3. „gereguleerde communicaties binnen de EU”: elke nummergebaseerde interpersoonlijke communicatiedienst vanuit de lidstaat van de binnenlandse aanbieder van de consument naar een vast of mobiel nummer van het nationale nummerplan van een andere lidstaat, die geheel of gedeeltelijk in rekening wordt gebracht op basis van het feitelijke gebruik; 4. „nummergebaseerde interpersoonlijke communicatiedienst”: een nummergebaseerde interpersoonlijke communicatiedienst zoals gedefinieerd in artikel 2, punt 6, van Richtlijn (EU) 2018/1972 van het Europees Parlement en de Raad. (*1) Richtlijn (EU) 2018/1972 van het Europees Parlement en de Raad van 11 december 2018 tot vaststelling van het Europees wetboek voor elektronische communicatie (PB L 321 van 17 december 2018, blz. 36).”;\"",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. het volgende artikel wordt ingevoegd: „Artikel 5 bis Retailtarieven voor gereguleerde communicaties binnen de EU 1. Vanaf 15 mei 2019 bedraagt de retailprijs (exclusief btw) die aan consumenten wordt aangerekend voor gereguleerde communicaties binnen de EU maximaal 0,19 EUR per minuut voor oproepen en 0,06 EUR per sms-bericht. 2. Niettegenstaande de in lid 1 genoemde verplichtingen kunnen aanbieders van gereguleerde communicaties binnen de EU daarenboven een door de consument uitdrukkelijk te kiezen tarief voor internationale communicaties, inclusief gereguleerde communicaties binnen de EU, aanbieden dat verschilt van het overeenkomstig lid 1 vastgestelde tarief, waardoor de consument een ander tarief voor gereguleerde communicaties binnen de EU heeft dan wanneer hij deze keuze niet zou hebben gehad. Alvorens consumenten voor dat andere tarief kiezen, informeert de aanbieder van gereguleerde communicaties binnen de EU hen over de aard van de voordelen die daardoor verloren zouden gaan. 3. Indien een tarief voor gereguleerde communicaties binnen de EU als bedoeld in lid 2 het in lid 1 vastgestelde plafond overschrijdt, krijgen consumenten die niet binnen een periode van twee maanden met ingang van 15 mei 2019 hun keuze voor een in lid 2 bedoeld tarief hebben bevestigd of laten blijken, automatisch de in lid 1 vastgestelde tarieven. 4. Consumenten kunnen kosteloos overschakelen van of naar een in lid 1 vastgesteld tarief binnen één werkdag na ontvangst door de aanbieder van het verzoek, en de aanbieder zorgt ervoor dat een dergelijke overschakeling geen voorwaarden of beperkingen met betrekking tot andere bestanddelen van het abonnement dan de gereguleerde communicaties binnen de EU inhoudt. 5. Indien de in lid 1 bedoelde maximumprijzen in een andere munteenheid dan de euro zijn uitgedrukt, worden de initiële grenswaarden in die munteenheden vastgesteld door toepassing van het gemiddelde van de referentiewisselkoersen die op 15 januari, 15 februari en 15 maart 2019 door de Europese Centrale Bank in het Publicatieblad van de Europese Unie zijn bekendgemaakt. De grenswaarden in andere munteenheden dan de euro worden vanaf 2020 jaarlijks herzien. De jaarlijks herziene grenswaarden in die munteenheden worden vanaf 15 mei van kracht op basis van het gemiddelde van de referentiewisselkoersen die op 15 januari, 15 februari en 15 maart van hetzelfde jaar zijn bekendgemaakt. 6. De nationale regelgevende instanties houden toezicht op de markt- en prijsontwikkelingen voor gereguleerde communicaties binnen de EU en brengen verslag uit aan de Commissie. Indien een aanbieder van gereguleerde communicaties binnen de EU aantoont dat de toepassing van het in lid 1 bedoelde plafond vanwege specifieke en uitzonderlijke omstandigheden die hem van de meeste andere aanbieders in de Unie onderscheiden, aanzienlijke gevolgen zou hebben voor zijn capaciteit om zijn bestaande prijzen voor binnenlandse communicaties aan te houden, kan een nationale regelgevende instantie, op verzoek van die aanbieder, slechts een afwijking van lid 1 toestaan voor zover nodig en voor een hernieuwbare periode van één jaar. De beoordeling van de houdbaarheid van het binnenlands tariefmodel is gebaseerd op relevante objectieve factoren die specifiek zijn voor de aanbieder van gereguleerde communicaties binnen de EU en het binnenlandse prijs- en inkomstenniveau. Indien de aanbieder die het verzoek heeft ingediend, het vereiste bewijs heeft geleverd, bepaalt de nationale regelgevende instantie voor een of beide plafonds als vastgesteld in lid 1 de maximumtoeslag die onontbeerlijk is om ervoor te zorgen dat het binnenlandse tariefmodel van de aanbieder kan worden aangehouden. Berec maakt richtsnoeren bekend met betrekking tot de parameters waarmee de nationale regelgevende instanties rekening moeten houden bij hun beoordeling.”;",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. aan artikel 6 wordt de volgende alinea toegevoegd: „De lidstaten stellen de regels vast betreffende de sancties die van toepassing zijn op inbreuken op artikel 5 bis en treffen alle nodige maatregelen om de uitvoering van die sancties te garanderen. De vastgestelde sancties zijn doeltreffend, evenredig en afschrikkend. De lidstaten stellen de Commissie uiterlijk 15 mei 2019 in kennis van de ter uitvoering van artikel 5 bis vastgestelde regels en bepalingen, en delen eventuele latere wijzigingen daarvan zo spoedig mogelijk aan haar mee.”;",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. aan artikel 10 wordt het volgende lid toegevoegd: „5. Artikel 5 bis verstrijkt op 14 mei 2024.”.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_51",
+   "kind": "article",
+   "number": "51",
+   "label": "Artikel 51",
+   "title": "Intrekking",
+   "path": [
+    "HOOFDSTUK X — SLOTBEPALINGEN"
+   ],
+   "blocks": [
+    {
+     "text": "Verordening (EG) nr. 1211/2009 wordt ingetrokken.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Verwijzingen naar de ingetrokken verordening gelden als verwijzingen naar de onderhavige verordening en worden gelezen volgens de concordantietabel in de bijlage.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_52",
+   "kind": "article",
+   "number": "52",
+   "label": "Artikel 52",
+   "title": "Inwerkingtreding",
+   "path": [
+    "HOOFDSTUK X — SLOTBEPALINGEN"
+   ],
+   "blocks": [
+    {
+     "text": "Deze verordening treedt in werking op de derde dag na die van de bekendmaking ervan in het Publicatieblad van de Europese Unie.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "anx_1",
+   "kind": "annex",
+   "number": "1",
+   "label": "BIJLAGE",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Concordantietabel",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Verordening (EG) nr. 1211/2009 Deze verordening Artikel 1, lid 1 Artikel 1 Artikel 1, lid 2 Artikel 3, lid 1 Artikel 1, lid 3 Artikel 3, leden 2 en 3 Artikel 1, lid 4 Artikel 3, lid 4, en artikel 4, lid 1, onder a) en b) Artikel 2 Artikel 4 Artikel 3 Artikel 4 Artikel 4, lid 1 Artikel 6 Artikel 4, lid 2 Artikel 7, leden 1, 2 en 4, artikel 8, leden 1 en 2 Artikel 4, lid 3 Artikel 11, leden 4 en 5, en artikel 36 Artikel 4, lid 4 Artikel 10, leden 1 tot en met 3 Artikel 4, lid 5 Artikel 10, lid 4 Artikel 4, lid 6 Artikel 11 Artikel 4, lid 7 Artikel 13 Artikel 4, lid 8 Artikel 7, lid 4 Artikel 4, lid 9 Artikel 12, leden 1 en 2 Artikel 4, lid 10 Artikel 12, lid 3 Artikel 4, lid 11 Artikel 5 Artikel 5 Artikel 4 Artikel 6, lid 1 Artikel 2, lid 1 Artikel 6, lid 2 Artikel 5 Artikel 6, lid 3 Artikel 14, lid 1 Artikel 6, lid 4 Artikel 2, lid 2 Artikel 6, lid 5 Artikelen 20 en 31 Artikel 7, lid 1 Artikel 15, lid 1 Artikel 7, lid 2 Artikel 32 Artikel 7, lid 3 Artikel 20, lid 6 Artikel 7, lid 4 Artikel 16, lid 1, onder k) Artikel 7, lid 5 Artikel 13 Artikel 8 Artikel 32 Artikel 9 Artikel 20 Artikel 10, lid 1 Artikelen 30 en 34 Artikel 10, lid 2 Artikel 16, lid 1, onder j) Artikel 10, lid 3 Artikel 16, lid 2 Artikel 10, lid 4 Artikel 33 Artikel 11 Artikel 25 Artikel 12 Artikel 24 Artikel 13 Artikel 26 Artikel 14 — Artikel 15 Artikel 29 Artikel 16 Artikel 43 Artikel 17 Artikel 4, lid 5 Artikel 18 Artikel 37 Artikel 19 Artikelen 39 en 40 Artikel 20 Artikel 38 Artikel 21 Artikel 42 Artikel 22 Artikel 36 Artikel 23 Artikel 34 Artikel 24 Artikel 44 Artikel 25 Artikel 48 Artikel 26 Artikel 52",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  }
+ ]
+}

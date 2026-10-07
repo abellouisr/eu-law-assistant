@@ -1,0 +1,2822 @@
+{
+ "document": "berec",
+ "version": "original",
+ "lang": "SV",
+ "meta": {
+  "source": "eurlex",
+  "celex": "32018R1971",
+  "kind": "original",
+  "date": "2018-12-11",
+  "built_at": "2026-10-07T10:10:27+00:00",
+  "sources_sha256": {
+   "32018R1971": "24ab3fb8aa6b88badb20b53e1352f5657be996cb226e6dbe7dcf425854679262"
+  },
+  "counts": {
+   "article": 52,
+   "recital": 53,
+   "annex": 1
+  }
+ },
+ "provisions": [
+  {
+   "id": "rct_1",
+   "kind": "recital",
+   "number": "1",
+   "label": "(1)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Europaparlamentets och rådets direktiv (EU) 2018/1972 syftar till att skapa en inre marknad för elektronisk kommunikation inom unionen, samtidigt som ökad konkurrens utnyttjas för att säkerställa en hög investerings- och innovationsnivå och ett starkt konsumentskydd. Det direktivet fastställer också ett betydande antal uppgifter för Organet för europeiska regleringsmyndigheter för elektronisk kommunikation (nedan kallat Berec), t.ex. att utfärda riktlinjer inom flera områden, avlägga rapport om tekniska frågor, föra register, upprätta förteckningar eller databaser och avge yttranden om procedurer inom den inre marknaden för förslag till nationella åtgärder om reglering av marknaden.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_2",
+   "kind": "recital",
+   "number": "2",
+   "label": "(2)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Europaparlamentets och rådets förordning (EU) nr 531/2012 kompletterar och stöder, i fråga om unionsomfattande roaming, regelverket för elektronisk kommunikation och fastställer vissa uppgifter för Berec.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_3",
+   "kind": "recital",
+   "number": "3",
+   "label": "(3)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "I Europaparlamentets och rådets förordning (EU) 2015/2120 fastställs ytterligare uppgifter för Berec i fråga om öppen internetanslutning. Vidare har Berec-riktlinjerna av den 30 augusti 2016 för de nationella regleringsmyndigheternas genomförande av europeiska bestämmelser om nätneutralitet välkomnats som ett värdefullt förtydligande av garantin för ett starkt, fritt och öppet internet genom att säkerställa en konsekvent tillämpning av reglerna för säkerställande av likvärdig och icke-diskriminerande behandling av trafiken vid tillhandahållande av internetanslutningstjänster och därtill kopplade rättigheter för slutanvändare.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_4",
+   "kind": "recital",
+   "number": "4",
+   "label": "(4)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Med hänsyn till behovet av konsekvent regleringspraxis och konsekvent tillämpning av unionens regelverk bildade kommissionen genom kommissionens beslut 2002/627/EG Europeiska gruppen av regleringsmyndigheter för nät och tjänster inom området elektronisk kommunikation (nedan kallad Europeiska gruppen av regleringsmyndigheter), med uppgift att vara rådgivare till kommissionen och bistå den med stärkandet av den inre marknaden för nät och tjänster inom området elektronisk kommunikation och, mer allmänt, fungera som en förmedlande länk mellan nationella regleringsmyndigheter och kommissionen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_5",
+   "kind": "recital",
+   "number": "5",
+   "label": "(5)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berec och byrån inrättades genom Europaparlamentets och rådets förordning (EG) nr 1211/2009. Berec ersatte Europeiska gruppen av regleringsmyndigheter och skulle bidra dels till att stärka den inre marknaden för elektroniska kommunikationsnät och kommunikationstjänster, dels till att förbättra dess funktion genom att verka för att säkerställa att regelverket för elektronisk kommunikation tillämpas på ett enhetligt sätt. Berec fungerar som forum för samarbete mellan de nationella regleringsmyndigheterna och mellan dessa myndigheter och kommissionen vid utövningen av alla deras arbetsuppgifter enligt unionens regelverk. Berec inrättades för att stå till tjänst med sakkunskap och agera på ett oberoende och transparent sätt.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_6",
+   "kind": "recital",
+   "number": "6",
+   "label": "(6)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berec fungerar också som ett organ för reflektion, diskussion och rådgivning för Europaparlamentet, rådet och kommissionen på området elektronisk kommunikation.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_7",
+   "kind": "recital",
+   "number": "7",
+   "label": "(7)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Byrån inrättades som ett gemenskapsorgan med status som juridisk person för att utföra de uppgifter som avses i förordning (EG) nr 1211/2009, särskilt när det gäller att förse Berec med sakkunnigt och administrativt stöd. Byrån gavs rättsligt, administrativt och finansiellt oberoende för att effektivt kunna stödja Berec.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_8",
+   "kind": "recital",
+   "number": "8",
+   "label": "(8)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Genom beslut 2010/349/EU beslutade företrädarna för medlemsstaternas regeringar att byrån skulle ha sitt säte i Riga. Avtalet om säte mellan Republiken Lettlands regering och byrån trädde i kraft den 5 augusti 2011.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_9",
+   "kind": "recital",
+   "number": "9",
+   "label": "(9)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "I sitt meddelande En strategi för en inre digital marknad i Europa av den 6 maj 2015 planerade kommissionen att under 2016 lägga fram förslag om en långtgående översyn av regelverket för elektronisk kommunikation, bland annat för att skapa ett effektivare institutionellt regelverk för att göra reglerna om elektronisk kommunikation ändamålsenliga som en del i arbetet med att skapa de rätta förutsättningarna för den digitala inre marknaden. Till dessa hör utbyggnaden av nät med mycket hög kapacitet, mer samordnad förvaltning av radiospektrum för trådlösa nät och skapandet av lika villkor för avancerade digitala nät och innovativa tjänster. I meddelandet påpekas att marknadens och den tekniska miljöns föränderlighet gör det nödvändigt att förstärka den institutionella ramen genom en utveckling av Berecs roll.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_10",
+   "kind": "recital",
+   "number": "10",
+   "label": "(10)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "I sin resolution Mot en rättsakt för den digitala inre marknaden av den 19 januari 2016 uppmanade Europaparlamentet kommissionen att ytterligare integrera den digitala inre marknaden genom att skapa en effektivare institutionell ram.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_11",
+   "kind": "recital",
+   "number": "11",
+   "label": "(11)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berec och byrån har bidragit positivt till ett konsekvent genomförande av regelverket för elektronisk kommunikation. Det föreligger emellertid fortfarande stora skillnader mellan medlemsstaterna i fråga om regleringspraxis, något som påverkar företag som bedriver gränsöverskridande verksamhet eller som är verksamt i ett betydande antal medlemsstater, inbegripet där det finns Berec-riktlinjer men där dessa skulle kunna vidareutvecklas. För att ytterligare bidra till utvecklingen av den inre marknaden för elektronisk kommunikation i hela unionen samt till främjande av tillgång till, och användning av, nät med mycket hög kapacitet, konkurrens vid tillhandahållandet av elektroniska kommunikationsnät, kommunikationstjänster och tillhörande faciliteter samt unionsmedborgarnas intressen, är syftet med denna förordning att stärka Berecs roll. En sådan stärkt roll skulle komplettera Berecs stärkta roll till följd av förordningarna (EU) nr 531/2012 och (EU) nr 2015/2120 samt direktiv (EU) 2018/1972.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_12",
+   "kind": "recital",
+   "number": "12",
+   "label": "(12)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Mot bakgrund av utvecklingen på marknaden och på det tekniska området, som ofta förstärker den gränsöverskridande dimensionen, och hittills förvärvade erfarenheter när det gäller att säkerställa ett enhetligt genomförande på området elektronisk kommunikation är det nödvändigt att bygga vidare på Berecs och byråns arbete. Deras ledning och verksamhet bör vara effektiv och anpassad för de uppgifter de ska utföra. Med beaktande av vedertagna förfaranden och de nya uppgifter som tilldelats Berec och byrån och i syfte att effektivisera dem bör ytterligare stabilitet föreskrivas för förvaltningen av dem och beslutsprocessen bör förenklas.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_13",
+   "kind": "recital",
+   "number": "13",
+   "label": "(13)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berec bör tillhandahålla sakkunskap och skapa förtroende genom att vara oberoende, ge råd och information av hög kvalitet, hålla förfaranden och arbetsmetoder öppna för insyn och utföra uppgifter på ett noggrant sätt. Berecs oberoende bör inte hindra nämnden för regleringsmyndigheterna från att överlägga om utkast som utarbetats av arbetsgrupper.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_14",
+   "kind": "recital",
+   "number": "14",
+   "label": "(14)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Byråns nya officiella namn bör vara ”Byrån för stöd till Berec” (nedan kallad Berecbyrån). Benämningen ”Berecbyrån” bör användas som byråns kortnamn. Berecbyrån bör vara rättsligt, administrativt och finansiellt oberoende. Det är därför nödvändigt och lämpligt att Berecbyrån bör vara ett unionsorgan som är en juridisk person som utövar de befogenheter som den tilldelats. I egenskap av en av unionens decentraliserade byråer bör Berecbyrån verka inom sitt uppdrag och den befintliga institutionella ramen. Den bör inte anses företräda unionens ståndpunkt gentemot omvärlden eller binda unionen till rättsliga förpliktelser.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_15",
+   "kind": "recital",
+   "number": "15",
+   "label": "(15)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Reglerna för Berecbyråns ledning och drift bör dessutom, när så är lämpligt, anpassas till principerna i det gemensamma uttalandet från Europaparlamentet, rådet och Europeiska kommissionen av den 19 juli 2012 om decentraliserade organ.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_16",
+   "kind": "recital",
+   "number": "16",
+   "label": "(16)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Unionens institutioner och de nationella regleringsmyndigheterna bör ha rätt till bistånd och råd från Berec, även med avseende på relevant lagstiftnings inverkan på allt som har att göra med dynamiken på de digitala marknaderna överlag eller med avseende på relationer, diskussioner och utbyten med tredje parter samt spridning av bästa regleringspraxis till tredje parter. Dessutom bör Berec, utöver sitt bidrag till kommissionens offentliga samråd, vid begäran ge kommissionen råd när lagstiftningsförslag förbereds. Berec bör också ha möjlighet att ge råd till Europaparlamentet och rådet när de begär det eller på eget initiativ.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_17",
+   "kind": "recital",
+   "number": "17",
+   "label": "(17)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berec är, i egenskap av tekniskt organ med sakkunskap om elektronisk kommunikation sammansatt av företrädare för de nationella regleringsmyndigheterna och kommissionen, bäst lämpat att anförtros sådana uppgifter som att bidra till effektiva procedurer inom den inre marknaden för förslag till nationella åtgärder för marknadsreglering, ge de nationella regleringsmyndigheterna och andra behöriga myndigheter nödvändiga riktlinjer för utarbetande av gemensamma kriterier och en konsekvent regleringsstrategi samt föra vissa register och upprätta vissa förteckningar och databaser på unionsnivå. Detta påverkar inte de uppgifter som fastställts för de nationella regleringsmyndigheterna, som befinner sig närmast marknaderna för elektronisk kommunikation och lokala villkor.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_18",
+   "kind": "recital",
+   "number": "18",
+   "label": "(18)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "För att kunna utföra sina uppgifter bör Berec fortsätta att sammanföra sakkunskap från nationella regleringsmyndigheter. Berec bör sträva efter att säkerställa att samtliga nationella regleringsmyndigheter medverkar till fullgörandet av organets regleringsuppgifter och funktion. För att Berec ska bli starkare och mer representativt, samt för att slå vakt om dess sakkunskap, erfarenhet och kännedom om den särskilda situationen på samtliga nationella marknader, bör varje medlemsstat säkerställa att dess nationella regleringsmyndighet har tillräckliga finansiella och personella resurser för att kunna delta fullt ut i Berecs arbete.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_19",
+   "kind": "recital",
+   "number": "19",
+   "label": "(19)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Mot bakgrund av dels den allt större konvergensen mellan de sektorer som tillhandahåller elektroniska kommunikationstjänster, dels den övergripande dimensionen av regleringsfrågor som hänför sig till utvecklingen av dem bör Berec och Berecbyrån ha rätt att samarbeta med nationella regleringsmyndigheter samt andra av unionsorgan, -byråer och rådgivande grupper, utan att det påverkar deras roller, särskilt gruppen för radiospektrumpolitik, som inrättats genom kommissionens beslut 2002/622/EG, Europeiska datatillsynsmannen, som inrättats genom Europaparlamentets och rådets förordning (EU) 2018/1725, Europeiska dataskyddsstyrelsen, som inrättats genom Europaparlamentets och rådets förordning (EU) 2016/679, den europeiska gruppen av regleringsmyndigheter för audiovisuella medietjänster, som inrättats genom Europaparlamentets och rådets direktiv 2010/13/EU, Europeiska unionens byrå för nät- och informationssäkerhet, som inrättats genom Europaparlamentets och rådets förordning (EU) nr 526/2013, Europeiska byrån för GNSS, som inrättats genom Europaparlamentets och rådets förordning (EU) nr 912/2010, nätverket för konsumentskyddssamarbete, som inrättats genom Europaparlamentets och rådets förordning (EG) nr 2006/2004, Europeiska konkurrensnätverket och europeiska standardiseringsorganisationer samt med befintliga kommittéer (t.ex. kommunikationskommittén och radiospektrumkommittén). Berec och Berecbyrån bör också kunna samarbeta med de berörda behöriga myndigheter i medlemsstaterna som ansvarar för konkurrensfrågor, konsumentskydd och dataskydd, med behöriga myndigheter i tredjeländer, särskilt regleringsmyndigheterna på området elektronisk kommunikation eller grupper av sådana myndigheter och med internationella organisationer när så krävs för att de ska kunna fullgöra sina uppgifter. Berec bör också kunna samråda med berörda parter genom offentliga samråd.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_20",
+   "kind": "recital",
+   "number": "20",
+   "label": "(20)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berec bör ha rätt att upprätta arbetsöverenskommelser med behöriga unionsorgan, unionsbyråer och rådgivande grupper, med behöriga myndigheter i tredjeländer och med internationella organisationer, vilket inte bör medföra några rättsliga förpliktelser. Målet med en sådan arbetsöverenskommelse skulle exempelvis kunna vara att utveckla samarbetsförbindelser och diskutera regleringsfrågor. Kommissionen bör säkerställa att de nödvändiga arbetsöverenskommelserna är förenliga med unionens politik och prioriteringar samt att Berec verkar inom ramen för sitt uppdrag och den befintliga institutionella ramen och inte anses företräda unionens ståndpunkt gentemot omvärlden eller binda unionen till internationella skyldigheter.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_21",
+   "kind": "recital",
+   "number": "21",
+   "label": "(21)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berec bör bestå av nämnden för regleringsmyndigheterna och arbetsgrupper. Avsikten med att nämnden för regleringsmyndigheterna har ett roterande ordförandeskap är att säkerställa kontinuiteten i Berecs arbete. Även rotation av vice ordförandena som företräder olika nationella regleringsmyndigheter främjas.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_22",
+   "kind": "recital",
+   "number": "22",
+   "label": "(22)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berec bör kunna agera i unionens intresse oberoende av ingripande utifrån, inbegripet politiska påtryckningar eller kommersiell inblandning. Det är således viktigt att säkerställa högsta möjliga garantier för att de som utnämns till ledamöter nämnden för regleringsmyndigheterna är personligt och funktionellt oberoende. Chefen för en nationell regleringsmyndighet eller en ledamot av dess kollegieorgan, eller ersättare för någon av dessa, är i sådan utsträckning personligt och funktionellt oberoende. Mer specifikt bör de agera oberoende och objektivt och inte begära eller ta emot instruktioner vid utövandet av sina funktioner, och de bör skyddas mot godtycklig avsättning. Den funktion som en suppleant i nämnden för regleringsmyndigheterna har skulle även kunna utövas av chefen för den nationella regleringsmyndigheten, en ledamot av dess kollegieorgan, en ersättare för någon av dessa eller annan personal från den nationella regleringsmyndigheten, som ska representera den ersatta ledamoten i nämnden för regleringsmyndigheterna inom ramen för ledamotens uppdrag.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_23",
+   "kind": "recital",
+   "number": "23",
+   "label": "(23)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Erfarenheten har visat att de flesta av Berecs uppgifter utförs bättre genom arbetsgrupper, vilka alltid bör säkerställa att lika stor hänsyn tas till alla nationella regleringsmyndigheters synpunkter och bidrag. Därför bör nämnden för regleringsmyndigheterna inrätta arbetsgrupper och utnämna ordförande för dessa. De nationella regleringsmyndigheterna bör snabbt svara på en nomineringsbegäran för att säkerställa ett snabbt inrättande av arbetsgrupper, särskilt de som har anknytning till förfaranden med tidsfrister. Arbetsgrupperna bör stå öppna för deltagande av sakkunniga från kommissionen. Berecbyråns personal bör stödja och bidra till arbetsgruppernas verksamhet.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_24",
+   "kind": "recital",
+   "number": "24",
+   "label": "(24)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Nämnden för regleringsmyndigheterna och styrelsen bör vid behov, efter en bedömning från fall till fall, kunna bjuda in personer vars synpunkter kan vara av intresse att delta i deras möten som observatörer.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_25",
+   "kind": "recital",
+   "number": "25",
+   "label": "(25)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "När så är lämpligt, och beroende på fördelningen av uppgifter till myndigheter i varje medlemsstat, bör synpunkter från andra behöriga myndigheter beaktas i den relevanta arbetsgruppen, exempelvis genom samråd på nationell nivå eller genom att dessa andra myndigheter bjuds in till relevanta möten där deras expertis behövs. Berecs oberoende bör i alla händelser upprätthållas.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_26",
+   "kind": "recital",
+   "number": "26",
+   "label": "(26)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Nämnden för regleringsmyndigheterna och styrelsen bör fungera parallellt, varvid den förstnämnda fattar beslut om regleringsfrågor och den sistnämnda om administrativa frågor som budget, personal och revision. I princip och utöver kommissionens företrädare bör de nationella regleringsmyndigheternas företrädare i styrelsen vara samma personer som de som är utsedda till nämnden för regleringsmyndigheterna, men de nationella regleringsmyndigheterna bör kunna utse andra företrädare som uppfyller samma krav.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_27",
+   "kind": "recital",
+   "number": "27",
+   "label": "(27)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Tidigare utövades tillsättningsmyndighetens befogenheter av vice ordföranden för byråns förvaltningskommitté. I denna förordning föreskrivs att styrelsen delegerar relevanta tillsättningsbefogenheter till direktören, som är bemyndigad att vidaredelegera dessa befogenheter. Detta är avsett att bidra till en effektiv förvaltning av Berecbyråns personal.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_28",
+   "kind": "recital",
+   "number": "28",
+   "label": "(28)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Nämnden för regleringsmyndigheterna och styrelsen bör hålla åtminstone två ordinarie sammanträden per år. Mot bakgrund av tidigare erfarenheter och Berecs stärkta roll kan det bli nödvändigt för nämnden för regleringsmyndigheterna eller styrelsen att hålla ytterligare möten.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_29",
+   "kind": "recital",
+   "number": "29",
+   "label": "(29)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Direktören bör förbli Berecbyråns företrädare i juridiska och administrativa frågor. Styrelsen bör utse direktören efter ett öppet och transparent urvalsförfarande i syfte att garantera en strikt utvärdering av kandidaterna och en hög nivå av oberoende. Mandatperioden för byråns förvaltningsdirektör var tidigare tre år. Direktören måste ha en tillräckligt lång mandatperiod för att kunna säkerställa stabilitet och en långfristig strategi för Berecbyrån.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_30",
+   "kind": "recital",
+   "number": "30",
+   "label": "(30)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kommissionens delegerade förordning (EU) nr 1271/2013 bör vara tillämplig på Berecbyrån.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_31",
+   "kind": "recital",
+   "number": "31",
+   "label": "(31)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berecbyrån bör ge Berec allt sakkunnigt och administrativt stöd som behövs i arbetet, bland annat ekonomiskt, organisatoriskt och logistiskt stöd, och bör bidra till Berecs regleringsarbete.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_32",
+   "kind": "recital",
+   "number": "32",
+   "label": "(32)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "För att garantera Berecbyråns självständighet och oberoende, och för att den ska kunna ge stöd till Berecs arbete, bör Berecbyrån ha en egen budget som huvudsakligen bör härröra från ett bidrag från unionen. Budgeten bör vara adekvat och återspegla såväl de ytterligare tilldelade uppgifterna som Berecs och Berecbyråns stärkta roll. Finansiering av Berecbyrån bör medges under förutsättning att budgetmyndigheten har nått en överenskommelse enligt punkt 31 i det interinstitutionella avtalet av den 2 december 2013 mellan Europaparlamentet, rådet och kommissionen om budgetdisciplin, samarbete i budgetfrågor och sund ekonomisk förvaltning.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_33",
+   "kind": "recital",
+   "number": "33",
+   "label": "(33)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berecbyrån bör ha tillräckligt med personal för att kunna utföra sina uppgifter. Alla uppgifter som tilldelats Berecbyrån, inbegripet tjänster som avser sakkunnigt och administrativt stöd till Berec i dess utövande av sina regleringsuppgifter, liksom iakttagandet av de ekonomiska föreskrifterna, tjänsteföreskrifterna och andra tillämpliga föreskrifter samt de i förhållande till de administrativa uppgifterna allt mer betungande operativa uppgifter som Berecbyrån ska utföra, bör vederbörligen bedömas och avspeglas i resursplaneringen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_34",
+   "kind": "recital",
+   "number": "34",
+   "label": "(34)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "För att ytterligare öka enhetligheten i genomförandet av regelverket för elektronisk kommunikation bör nämnden för regleringsmyndigheterna, arbetsgrupperna och styrelsen vara öppna för deltagande från regleringsmyndigheter i tredjeländer med behörighet på området elektronisk kommunikation där dessa tredjeländer har ingått avtal med unionen i detta syfte, såsom Eftastater i EES och kandidatländer.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_35",
+   "kind": "recital",
+   "number": "35",
+   "label": "(35)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "I enlighet med principen om insyn bör Berec och Berecbyrån i relevanta fall offentliggöra information om sitt arbete på sin webbplats. Berec bör i synnerhet offentliggöra eventuella slutliga dokument som utfärdats när det utför sina uppgifter, till exempel yttranden, riktlinjer, rapporter, rekommendationer, gemensamma ståndpunkter och bästa praxis samt eventuella studier som beställts som stöd till dess uppgifter. Berec och Berecbyrån bör även offentliggöra uppdaterade förteckningar över sina uppgifter och uppdaterade förteckningar över ledamöter, suppleanter och andra deltagare i förvaltningsorganens möten, samt de intresseförklaringar som avgetts av nämnden för regleringsmyndigheternas ledamöter, styrelsens ledamöter och direktören.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_36",
+   "kind": "recital",
+   "number": "36",
+   "label": "(36)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berec bör, med stöd av Berecbyrån, kunna bedriva kommunikationsverksamhet inom sitt behörighetsområde som inte inverkar negativt på Berecs huvuduppgifter. Innehållet i Berecs kommunikationsstrategi och dess genomförande bör vara konsekvent, objektivt, relevant och samordnat med kommissionens och övriga institutioners strategier och åtgärder, i syfte att beakta den allmänna bilden av unionen. Berecbyråns kommunikationsverksamhet bör utföras i enlighet med relevanta planer för kommunikation och informationsspridning som antas av styrelsen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_37",
+   "kind": "recital",
+   "number": "37",
+   "label": "(37)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "För att Berec och Berecbyrån ska kunna utföra sina uppgifter på ett ändamålsenligt sätt bör de ha rätt att begära all nödvändig information från kommissionen, de nationella regleringsmyndigheterna och, i sista hand, andra myndigheter och företag. En begäran om information bör ange skälen för begäran, stå i proportion till syftet och bör inte vara orimligt betungande för de berörda. De nationella regleringsmyndigheterna bör samarbeta med Berec och Berecbyrån och förse dem med aktuell och korrekt information för att säkerställa att Berec och Berecbyrån kan utföra sina uppgifter. Berec och Berecbyrån bör också, enligt principen om lojalt samarbete, dela nödvändig information med kommissionen, de nationella regleringsmyndigheterna och andra behöriga myndigheter. I relevanta fall bör informationens konfidentialitet säkerställas. Vid bedömningen av huruvida en begäran är berättigad bör Berec ta hänsyn till om den begärda informationen har anknytning till utförandet av sådana uppgifter som uteslutande tilldelats relevanta myndigheter.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_38",
+   "kind": "recital",
+   "number": "38",
+   "label": "(38)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Berecbyrån bör upprätta ett gemensamt informations- och kommunikationssystem för att undvika dubbla informationsinhämtningar och underlätta kommunikationen mellan alla berörda myndigheter.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_39",
+   "kind": "recital",
+   "number": "39",
+   "label": "(39)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "För att en hög nivå av konfidentialitet ska säkerställas och intressekonflikter undvikas bör reglerna om dessa frågor som tillämpas på ledamöter av Berecs och Berecbyråns förvaltningsorgan också tillämpas på deras suppleanter.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_40",
+   "kind": "recital",
+   "number": "40",
+   "label": "(40)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Eftersom Berec och Berecbyrån genom denna förordning får nya uppgifter och de genom andra unionsrättsakter kan komma att få ytterligare uppgifter, bör kommissionen regelbundet utvärdera hur Berec och Berecbyrån fungerar, liksom hur ändamålsenlig deras institutionella struktur är i en föränderlig digital omgivning. Om utvärderingen resulterar i att kommissionen konstaterar att den institutionella strukturen inte är lämplig för utförandet av Berecs och Berecbyråns uppgifter och, framför allt, för att säkerställa ett konsekvent genomförande av regelverket för elektronisk kommunikation bör den undersöka alla möjligheter till förbättring av strukturen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_41",
+   "kind": "recital",
+   "number": "41",
+   "label": "(41)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Byrån, som inrättades som ett gemenskapsorgan med status som juridisk person genom förordning (EG) nr 1211/2009, efterträds av den Berecbyrå som inrättas genom den här förordningen när det gäller all äganderätt och alla avtal, inbegripet avtalet om säte, rättsliga förpliktelser, anställningskontrakt, finansiella åtaganden och ansvarsskyldigheter. Berecbyrån bör ta över byråns personal, vars rättigheter och skyldigheter inte bör påverkas. För att säkerställa kontinuiteten i Berecs och Berecbyråns arbete bör deras representanter, närmare bestämt ordföranden och de vice ordförandena för nämnden för regleringsmyndigheterna, förvaltningskommittén och förvaltningsdirektören, sitta kvar tills deras mandatperiod löper ut.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_42",
+   "kind": "recital",
+   "number": "42",
+   "label": "(42)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ett betydande antal konsumenter i de flesta medlemsstater använder fortfarande traditionell internationell kommunikation såsom telefonsamtal och sms-meddelanden, trots att ett ökande antal av konsumenterna har tillgång till nummeroberoende interpersonella kommunikationstjänster för att ringa utomlands till lägre pris än via traditionella tjänster eller utan penningbetalning.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_43",
+   "kind": "recital",
+   "number": "43",
+   "label": "(43)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kommissionen lade 2013 fram ett förslag till en konsekvensutredd förordning som innehöll en bestämmelse med regleringsåtgärder tillämpliga på kommunikation inom EU. Från 2017 till 2018 samlade Berec och kommissionen in ytterligare uppgifter om kommunikationsmarknaden inom EU via en kommissionsstudie och via Eurobarometern. Dessa uppgifter visar att betydande prisskillnader kvarstår, både för fast och för mobil kommunikation, mellan nationell talkommunikation och sms-kommunikation och sådan som terminerar i en annan medlemsstat i en situation där priserna varierar betydligt mellan länder, leverantörer och prispaket samt mellan mobil och fast talkommunikation. Leverantörer av allmänt tillgängliga nummerbaserade interpersonella kommunikationstjänster debiterar ofta konsumtionsbaserade priser för kommunikation inom EU som är mycket högre än priserna för nationella taxor plus tilläggskostnader. I genomsnitt tenderar standardpriset för ett fast eller mobilt samtal inom EU att vara tre gånger högre än standardpriset för ett nationellt samtal, och standardpriset för ett sms inom EU att vara mer än två gånger högre än för ett nationellt sms. Bakom dessa aritmetiska genomsnittsvärden döljer sig dock betydande skillnader mellan medlemsstaterna. I vissa fall kan standardpriset för ett samtal inom EU vara upp till åtta gånger högre än standardpriset för ett nationellt samtal. Till följd av detta utsätts kunder i flera medlemsstater för väldigt höga priser för kommunikation inom EU. Dessa höga priser påverkar huvudsakligen konsumenter, särskilt konsumenter som använder sådan kommunikation sällan eller som har en låg konsumtionsvolym, vilket är den stora majoriteten av konsumenter som använder kommunikation inom EU. Samtidigt tillhandahåller flera leverantörer speciella erbjudanden som är särskilt attraktiva för företagskunder och konsumenter med en hög konsumtion av kommunikation inom EU. Dessa erbjudanden debiteras ofta inte baserat på faktisk konsumtion och kan bestå av ett visst antal minuter eller ett visst antal sms-meddelanden inom EU för en fast månadsavgift (tilläggserbjudande) eller ett visst antal minuter eller ett visst antal sms-meddelanden inom EU som ingår i månadspotten för samtalsminuter eller sms-meddelanden, antingen utan tilläggsavgift, eller med en låg tilläggsavgift. Villkoren för dessa erbjudanden är dock ofta inte attraktiva för kunder med enbart enstaka, oförutsägbara eller relativt låga volymer kommunikation inom EU. Därför riskerar dessa konsumenter att få betala överpris för kommunikation inom EU och de bör skyddas.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_44",
+   "kind": "recital",
+   "number": "44",
+   "label": "(44)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Dessutom utgör höga priser för kommunikation inom EU ett hinder för den inre marknadens funktion eftersom de avskräcker från att söka efter och köpa varor och tjänster från en leverantör i en annan medlemsstat. För att eliminera sådana höga priser är det därför nödvändigt att fastställa exakta och proportionella gränser för de priser som leverantörer av allmänt tillgängliga nummerbaserade interpersonella kommunikationstjänster får debitera konsumenter för kommunikation inom EU.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_45",
+   "kind": "recital",
+   "number": "45",
+   "label": "(45)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "När leverantörer av allmänt tillgängliga nummerbaserade interpersonella kommunikationstjänster debiterar sina konsumenter för kommunikation inom EU med taxor som helt eller delvis baseras på konsumtionen av sådana tjänster, inklusive vid konsumtionsbaserade avdrag från en månadspott eller förbetald pott för sådana tjänster, bör taxorna inte överstiga 0,19 EUR per minut för samtal och 0,06 EUR per sms-meddelande. Dessa tak motsvarar de högsta tillåtna priser som för närvarande gäller för reglerade roamingsamtal respektive sms-meddelanden. Vid roaming i unionen skyddas konsumenter av eurotaxan för rösttelefoni och sms-eurotaxan, som steg för steg har ersatts av ”roaming som hemma”. Taken anses också vara ett lämpligt riktmärke vid fastställandet av en maxtaxa för reglerade kommunikationer inom EU för fem år från och med den 15 maj 2019. Takets nuvarande nivå är ett enkelt, öppet och beprövat skyddsnät mot höga priser och är lämplig som ett tak för slutkundspriser för all reglerad kommunikation inom EU. Både roamingsamtal inom unionen och samtal inom EU har en liknande kostnadsstruktur.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_46",
+   "kind": "recital",
+   "number": "46",
+   "label": "(46)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Taken bör hjälpa leverantörerna av allmänt tillgängliga nummerbaserade interpersonella kommunikationstjänster att täcka sina kostnader, vilket säkerställer att ingripandet är proportionellt både på marknaden för mobilsamtal och på marknaden för fasta samtal. Taken kommer att tillämpas direkt endast på taxor baserade på faktisk konsumtion. De bör ha en disciplinerande inverkan även på de erbjudanden där en viss kommunikationsvolym inom EU ingår utan att debiteras separat, eftersom konsumenterna kan välja att byta till en taxa baserad på konsumtion för sin kommunikation inom EU. Kommunikationsvolymer inom EU som överskrider dem som ingår i ett paket och som debiteras separat bör omfattas av taken. Åtgärden bör på ett proportionellt sätt säkerställa att konsumenter med låg konsumtionsnivå när det gäller kommunikation inom EU skyddas från höga priser och bör samtidigt ha enbart måttlig inverkan på leverantörer.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_47",
+   "kind": "recital",
+   "number": "47",
+   "label": "(47)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Leverantörer av allmänt tillgängliga nummerbaserade interpersonella kommunikationstjänster bör kunna föreslå konsumenterna alternativa priserbjudanden för internationell kommunikation med olika taxor för reglerad kommunikation inom EU, och konsumenterna bör uttryckligen kunna välja sådana erbjudanden samt när som helst och kostnadsfritt byta tillbaka, även när det gäller abonnemang som konsumenterna tecknade före ikraftträdandet av sådana bestämmelser. Endast alternativa erbjudanden för internationell kommunikation, som till exempel omfattar alla eller vissa tredjeländer, bör, om erbjudandet accepteras av en konsument, kunna befria en leverantör från skyldigheten att inte överskrida taken för reglerad kommunikation inom EU. Andra fördelar som leverantörer erbjuder konsumenter, såsom subventionerad terminalutrustning eller rabatter på andra elektroniska kommunikationstjänster, är en normal del av konkurrensen och bör inte påverka tillämpningen av pristaken för reglerad kommunikation inom EU.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_48",
+   "kind": "recital",
+   "number": "48",
+   "label": "(48)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Vissa leverantörer av allmänt tillgängliga nummerbaserade interpersonella kommunikationstjänster kan påverkas betydligt mer än majoriteten av andra leverantörer i unionen av ett pristak för reglerad kommunikation inom EU. Detta kan särskilt vara fallet för de leverantörer som genererar en särskilt hög andel av sina intäkter eller vinster från kommunikation inom EU eller vars inhemska marginaler är små i förhållande till referensvärden för branschen. Det kan hända att en leverantör, till följd av snävare vinstmarginaler när det gäller reglerad kommunikation inom EU, inte kan upprätthålla sin inhemska prissättningsmodell. Sådana scenarier är högst osannolika, eftersom de högsta tillåtna priserna klart överstiger kostnaderna för att tillhandahålla kommunikation inom EU. För att hantera sådana ytterst exceptionella scenarier på ett proportionellt sätt bör de nationella regleringsmyndigheterna kunna bevilja undantag på begäran av en sådan leverantör, i berättigade undantagsfall.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_49",
+   "kind": "recital",
+   "number": "49",
+   "label": "(49)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Eventuella undantag bör beviljas endast om en leverantör kan visa, mot ett relevant referensvärde som fastställts av Berec, att den påverkas betydligt mer än de flesta andra leverantörer i unionen, och att denna påverkan avsevärt försvagar den leverantörens förmåga att behålla sin avgiftsmodell för inhemsk kommunikation. Om en nationell regleringsmyndighet beviljar ett undantag bör den fastställa den högsta prisnivå som en leverantör får tillämpa för reglerad kommunikation inom EU och som kan göra det möjligt för leverantören att upprätthålla en konkurrenskraftig prisnivå för inhemsk kommunikation. Varje sådant undantag bör begränsas till ett år och bör kunna förnyas om leverantören visar att villkoren för ett undantag är fortsatt uppfyllda.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_50",
+   "kind": "recital",
+   "number": "50",
+   "label": "(50)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Mot bakgrund av proportionalitetsprincipen bör tillämpningen av prisbegränsningen för reglerad kommunikation inom EU vara tidsbegränsad och upphöra att gälla fem år efter dess ikraftträdande. Denna begränsade tidsperiod bör göra det möjligt att göra en ordentlig bedömning av åtgärdernas effekter och en ordentlig utvärdering av i vilken utsträckning det finns ett fortsatt behov av att skydda konsumenterna.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_51",
+   "kind": "recital",
+   "number": "51",
+   "label": "(51)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "För att säkerställa ett unionsomfattande konsekvent, snabbt och mycket ändamålsenligt skydd för konsumenter som påverkas negativt av de betydande skillnaderna i pris för kommunikation inom EU bör sådana bestämmelser vara direkt tillämpliga och ingå i en förordning. Den lämpligaste förordningen för detta ändamål är förordning (EU) 2015/2120, som antogs efter en konsekvensbedömning i vilken det bland annat föreslogs en bestämmelse om kommunikation inom EU som ett nödvändigt sätt att fullborda den inre marknaden för elektronisk kommunikation. De sannolika effekterna på leverantörers intäkter som genereras av tillhandahållandet av kommunikation inom EU begränsas ytterligare genom tillämpningen av eurotaxan för rösttelefoni och sms-eurotaxan vid roaming, som tak för både fast och mobil kommunikation, som tjänar som en säkerhetsmekanism, och genom det bevis, som framgår av Berecs analys 2018, på att relevanta volymer av fast trafik som påverkas av åtgärden har sjunkit markant under perioden för ingripandet. De bestämmelserna bör därför införas som en ändring till förordning (EU) 2015/2120, vilken dessutom bör anpassas för att säkerställa att medlemsstaterna antar regler om sanktioner för överträdelser av sådana bestämmelser.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_52",
+   "kind": "recital",
+   "number": "52",
+   "label": "(52)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Eftersom målen med denna förordning, nämligen att säkerställa en konsekvent tillämpning av regelverket för elektronisk kommunikation, särskilt med avseende på gränsöverskridande aspekter och genom effektiva procedurer inom den inre marknaden för förslag till nationella åtgärder, och av att säkerställa att konsumenter inte debiteras alltför höga priser för nummerbaserad interpersonell kommunikation som originerar i den medlemsstat där konsumentens nationella leverantör är etablerad och som terminerar i ett fast nummer eller mobilnummer i en annan medlemsstat, inte i tillräcklig utsträckning kan uppnås av medlemsstaterna utan snarare, på grund av åtgärdens omfattning och verkningar, kan uppnås bättre på unionsnivå, kan unionen vidta åtgärder i enlighet med subsidiaritetsprincipen i artikel 5 i fördraget om Europeiska unionen. I enlighet med proportionalitetsprincipen i samma artikel går denna förordning inte utöver vad som är nödvändigt för att uppnå dessa mål.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_53",
+   "kind": "recital",
+   "number": "53",
+   "label": "(53)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Denna förordning ändrar och utvidgar tillämpningsområdet för förordning (EG) nr 1211/2009. Eftersom de ändringar som föreslås är av omfattande slag bör den rättsakten för tydlighetens skull upphävas. Hänvisningar till den upphävda förordningen ska anses som hänvisningar till den här förordningen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_1",
+   "kind": "article",
+   "number": "1",
+   "label": "Artikel 1",
+   "title": "Syfte och tillämpningsområde",
+   "path": [
+    "KAPITEL I — SYFTE OCH TILLÄMPNINGSOMRÅDE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Genom denna förordning inrättas Organet för europeiska regleringsmyndigheter för elektronisk kommunikation (nedan kallat Berec) och Byrån för stöd till Berec (nedan kallad Berecbyrån).",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Berec respektive Berecbyrån ska ersätta och efterträda organet för europeiska regleringsmyndigheter för elektronisk kommunikation respektive byrån, som inrättades genom förordning (EG) nr 1211/2009.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_2",
+   "kind": "article",
+   "number": "2",
+   "label": "Artikel 2",
+   "title": "Berecbyrån som juridisk person",
+   "path": [
+    "KAPITEL I — SYFTE OCH TILLÄMPNINGSOMRÅDE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Berecbyrån ska vara ett unionsorgan. Den ska vara en juridisk person.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Berecbyrån ska i varje medlemsstat ha den mest vittgående rättskapacitet som enligt medlemsstatens nationella rätt tillerkänns juridiska personer. Berecbyrån ska särskilt kunna förvärva och avyttra fast och lös egendom samt vara part i rättsliga förfaranden.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Berecbyrån ska företrädas av sin direktör.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Berecbyrån ska ensam ansvara för de uppgifter och befogenheter som den tilldelats.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Berecbyrån ska ha sitt säte i Riga.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_3",
+   "kind": "article",
+   "number": "3",
+   "label": "Artikel 3",
+   "title": "Berecs mål",
+   "path": [
+    "KAPITEL II — BERECS MÅL OCH UPPGIFTER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Berec ska verka inom tillämpningsområdet för förordningarna (EU) nr 531/2012 och (EU) 2015/2120 och direktiv (EU) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Berec ska eftersträva de mål som anges i artikel 3 i direktiv (EU) 2018/1972. Berec ska särskilt ha som mål att säkerställa ett konsekvent genomförande av regelverket för elektronisk kommunikation inom det tillämpningsområde som anges i punkt 1 i denna artikel.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Berec ska utföra sina uppgifter på ett oberoende, opartiskt och öppet sätt och med erforderlig skyndsamhet.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Berec ska stödja sig på den sakkunskap som finns inom de nationella regleringsmyndigheterna.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. I enlighet med artikel 9.3 i direktiv (EU) 2018/1972 ska varje medlemsstat säkerställa att dess nationella regleringsmyndighet fullt ut kan delta i det arbete som Berecs förvaltningsorgan bedriver.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. I medlemsstater där mer än en nationell regleringsmyndighet är ansvarig enligt direktiv (EU) 2018/1972 ska de nationella regleringsmyndigheterna ombesörja samordning mellan sig efter behov.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_4",
+   "kind": "article",
+   "number": "4",
+   "label": "Artikel 4",
+   "title": "Berecs regleringsuppgifter",
+   "path": [
+    "KAPITEL II — BERECS MÅL OCH UPPGIFTER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Berec ska ha följande regleringsuppgifter:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) Att bistå och ge råd till de nationella regleringsmyndigheterna, Europaparlamentet, rådet och kommissionen och samarbeta med de nationella regleringsmyndigheterna och kommissionen, på begäran eller på eget initiativ, beträffande alla tekniska frågor om elektronisk kommunikation inom ramen för sin behörighet.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) Att på begäran bistå och ge råd till kommissionen om utarbetande av lagstiftningsförslag på området elektronisk kommunikation, inbegripet eventuella förslag till ändringar av denna förordning eller av direktiv (EU) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) Att avge sådana yttranden som avses i förordning (EU) nr 531/2012 och direktiv (EU) 2018/1972, särskilt om i) lösning av gränsöverskridande tvister i enlighet med artikel 27 i direktiv (EU) 2018/1972, ii) förslag till nationella åtgärder med koppling till procedurerna inom den inre marknaden för reglering av marknaden i enlighet med artiklarna 32, 33 och 68 i direktiv (EU) 2018/1972, iii) utkast till beslut om och rekommendationer om harmonisering i enlighet med artiklarna 38 och 93 i direktiv (EU) 2018/1972, iv) möjligheten för slutanvändare att nå varandra i enlighet med artikel 61.2 i direktiv (EU) 2018/1972, v) fastställandet av en enda unionsomfattande högsta termineringstaxa för röstsamtal i mobila nät och en enda unionsomfattande högsta termineringstaxa för röstsamtal i fasta nät i enlighet med artikel 75 i direktiv (EU) 2018/1972, vi) mallen för sammanfattning av avtalet i enlighet med artikel 102 i direktiv (EU) 2018/1972, vii) det nationella genomförandet och tillämpningen av den allmänna auktorisationen samt hur de påverkar den inre marknadens funktion i enlighet med artikel 122.3 i direktiv (EU) 2018/1972, viii) om relevant, marknadsutvecklingen och den tekniska utvecklingen vad gäller de olika typerna av elektroniska kommunikationstjänster och hur de påverkar tillämpningen av del III avdelning III i direktiv (EU) 2018/1972 i enlighet med artikel 123.1 i det direktivet.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) Att utfärda riktlinjer om genomförandet av unionens regelverk för elektronisk kommunikation, särskilt, i enlighet med vad som avses i förordningarna (EU) nr 531/2012 och (EU) 2015/2120 och direktiv (EU) 2018/1972, om i) anmälningsmallen i enlighet med artikel 12 i direktiv (EU) 2018/1972, ii) det enhetliga genomförandet av skyldigheter med avseende på geografiska kartläggningar och prognoser i enlighet med artikel 22 i direktiv (EU) 2018/1972, iii) relevanta kriterier för att främja en konsekvent tillämpning av artikel 61.3 i direktiv (EU) 2018/1972, iv) gemensamma strategier för identifiering av nätanslutningspunkten i olika nättopologier i enlighet med artikel 61.7 i direktiv (EU) 2018/1972, v) gemensamma strategier för att tillgodose gränsöverskridande efterfrågan från slutanvändare i enlighet med artikel 66 i direktiv (EU) 2018/1972, vi) minimikriterier för ett referenserbjudande i enlighet med artikel 69 i direktiv (EU) 2018/1972, vii) främjande av nationella regleringsmyndigheters konsekventa tillämpning av villkoren i artikel 76.1 i, och kriterierna i bilaga IV till, direktiv (EU) 2018/1972, viii) kriterier för när ett nät ska anses vara ett nät med mycket hög kapacitet i enlighet med artikel 82 i direktiv (EU) 2018/1972, ix) gemensamma kriterier för bedömning av förmågan att förvalta nummerresurser och risken för uttömning av nummerresurser i enlighet med artikel 93 i direktiv (EU) 2018/1972, x) relevanta parametrar för att mäta tjänsternas kvalitet, de tillämpliga mätmetoderna, innehållet i och formatet för offentliggörande av informationen och mekanismer för kvalitetscertifiering i enlighet med artikel 104 i direktiv (EU) 2018/1972, xi) hur bedömningen ska göras av huruvida de system för varning till allmänheten som avses i artikel 110.2 i direktiv (EU) 2018/1972 har likvärdig verkningsgrad som de som avses i punkt 1 i den artikeln, xii) roamingtjänsttillträde i grossistledet i enlighet med artikel 3.8 i förordning (EU) nr 531/2012, xiii) genomförandet av de nationella regleringsmyndigheternas skyldigheter med avseende på öppen internetanslutning i enlighet med artikel 5.3 i förordning (EU) 2015/2120, xiv) de parametrar som ska beaktas av nationella regleringsmyndigheter vid bedömningen av om de nationella avgiftsmodellerna i enlighet med artikel 5a.6 i förordning (EU) 2015/2120 är hållbara.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) Att utfärda andra riktlinjer som säkerställer konsekvent tillämpning av regelverket för elektronisk kommunikation och konsekvent beslutsfattande i regleringsfrågor från de nationella regleringsmyndigheternas sida, antingen på eget initiativ eller på begäran av en nationell regleringsmyndighet, Europaparlamentet, rådet eller kommissionen, särskilt i regleringsfrågor som påverkar ett betydande antal medlemsstater eller har ett gränsöverskridande inslag.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) I relevanta fall att medverka i sakkunnigforumet om förslag till åtgärder om urvalsförfaranden i enlighet med artikel 35 i direktiv (EU) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) Att medverka i frågor som rör dess befogenheter inom marknadsreglering och konkurrens med avseende på radiospektrum i enlighet med artikel 4 i direktiv (EU) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) Att genomföra analyser av potentiella gränsöverskridande marknader i enlighet med artikel 65 i direktiv (EU) 2018/1972 och av gränsöverskridande efterfrågan från slutanvändare i enlighet med artikel 66 i det direktivet.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) Att övervaka och samla information samt, i förekommande fall, offentliggöra aktuell information om tillämpningen av förordning (EU) nr 531/2012 i enlighet med artiklarna 16 och 19 i den förordningen.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) Att rapportera om tekniska frågor inom sitt befogenhetsområde, särskilt om i) den praktiska tillämpningen av de yttranden och riktlinjer som avses i leden c, d och e, ii) medlemsstaternas bästa praxis till stöd för fastställandet av en adekvat internetanslutningstjänst via bredband i enlighet med artikel 84 i direktiv (EU) 2018/1972. iii) utvecklingen av prissättnings- och konsumtionsmönster för såväl nationella tjänster som roamingtjänster, utvecklingen av faktiska roamingavgifter i grossistledet för obalanserad trafik, förhållandet mellan slutkundspriser, grossistavgifter och grossistkostnader för roamingtjänster samt insyn och jämförbarhet beträffande taxor i enlighet med artikel 19 i förordning (EU) nr 531/2012, iv) resultaten av de årliga rapporter som de nationella regleringsmyndigheterna ska översända i enlighet med artikel 5 i förordning (EU) 2015/2120, genom offentliggörande av en årlig sammanfattande rapport, v) marknadsutvecklingen inom sektorn för elektronisk kommunikation på årlig basis.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) Att utfärda rekommendationer och gemensamma ståndpunkter och sprida exempel på bästa regleringspraxis riktade till de nationella regleringsmyndigheterna i syfte att främja en konsekvent och bättre tillämpning av regelverket för elektronisk kommunikation,",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) Att upprätta och upprätthålla en databas med i) anmälningar som gjorts till de behöriga myndigheterna av företag som är underkastade allmän auktorisation i enlighet med artikel 12 i direktiv (EU) 2018/1972, ii) nummerresurser med rätt till extraterritoriell användning inom unionen i enlighet med artikel 93.4 fjärde stycket i direktiv (EU) 2018/1972, iii) i relevanta fall E.164-nummer för medlemsstaternas alarmeringstjänster i enlighet med artikel 109.8 tredje stycket i direktiv (EU) 2018/1972,",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) Att utvärdera behoven av innovativ reglering och samordna åtgärder mellan nationella regleringsmyndigheter för att möjliggöra utveckling av ny innovativ elektronisk kommunikation.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) Att verka för modernisering, samordning och standardisering av de nationella regleringsmyndigheternas datainsamling; dessa uppgifter ska göras tillgängliga för allmänheten på Berecs webbplats och den europeiska dataportalen i ett öppet och maskinläsbart format som kan vidareutnyttjas, utan att det påverkar immateriella rättigheter, regler om skydd av personuppgifter och den erforderliga graden av konfidentialitet",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "o) Att utföra andra uppgifter som Berec tilldelats genom unionsrättsakter, särskilt genom förordningarna (EU) nr 531/2012 och (EU) 2015/2120 och direktiv (EU) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Berec ska offentliggöra sina regleringsuppgifter och uppdatera denna information när den tilldelas nya uppgifter.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Berec ska offentliggöra alla sina slutliga yttranden, riktlinjer, rapporter, rekommendationer och gemensamma ståndpunkter, all bästa praxis och alla eventuella studier som beställs samt de relevanta utkasten till dokument för de offentliga samråd som avses i punkt 5.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Utan att det påverkar tillämpningen av relevant unionsrätt ska nationella regleringsmyndigheter och kommissionen ta största möjliga hänsyn till riktlinjer, yttranden, rekommendationer, gemensamma ståndpunkter och bästa praxis som antagits av Berec i syfte att säkerställa ett konsekvent genomförande av regelverket för elektronisk kommunikation inom det tillämpningsområde som avses i artikel 3.1. Om en nationell regleringsmyndighet avviker från de riktlinjer som avses i punkt 1 e ska den ange skälen till detta.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Berec ska, när så är lämpligt, samråda med berörda parter och ge dem möjlighet att komma med synpunkter inom en rimlig tidsfrist som fastställs med hänsyn till frågans komplexitet. Den perioden får inte, annat än under exceptionella omständigheter, vara kortare än 30 dagar. Berec ska göra resultaten av sådana offentliga samråd allmänt tillgängliga utan att det påverkar tillämpningen av artikel 38. Sådana samråd ska ske så tidigt som möjligt under beslutsfattandet.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Berec får, när så är lämpligt, samråda och samarbeta med relevanta nationella myndigheter, till exempel de med behörighet på områdena konkurrens, konsumentskydd och dataskydd.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Berec får, när så är lämpligt, samarbeta med unionens behöriga organ, byråer och rådgivande grupper, samt med behöriga myndigheter i tredjeländer och med internationella organisationer i enlighet med artikel 35.1.",
+     "para": "7",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_5",
+   "kind": "article",
+   "number": "5",
+   "label": "Artikel 5",
+   "title": "Berecbyråns uppgifter",
+   "path": [
+    "KAPITEL III — BERECBYRÅNS UPPGIFTER"
+   ],
+   "blocks": [
+    {
+     "text": "Berecbyrån ska ha följande uppgifter:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) Att ge Berec professionellt och administrativt stöd, särskilt när det gäller fullgörandet av dess regleringsuppgifter enligt artikel 4.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) Att samla information från de nationella regleringsmyndigheterna samt att utbyta och översända information med anknytning till de regleringsuppgifter som Berec tilldelats enligt artikel 4.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) Att utifrån den information som avses i led b utarbeta regelbundna rapporter om specifika aspekter av utvecklingen av den europeiska marknaden för elektronisk kommunikation, såsom rapporter om roaming och benchmarking, vilka ska läggas fram för Berec.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) Att sprida bästa regleringspraxis bland de nationella regleringsmyndigheterna, i enlighet med artikel 4.1 k.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) Att hjälpa Berec att upprätta och upprätthålla register och databaser i enlighet med artikel 4.1 l.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) Att hjälpa Berec att upprätta och förvalta ett informations- och kommunikationssystem i enlighet med artikel 41.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) Att hjälpa Berec att hålla offentliga samråd i enlighet med artikel 4.5.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) Att hjälpa till att förbereda nämnden för regleringsmyndigheternas arbete och ge annat administrativt och innehållsrelaterat stöd för att nämnden för regleringsmyndigheterna ska fungera väl.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) Att på nämnden för regleringsmyndigheternas begäran hjälpa till att inrätta arbetsgrupper, bidra till dessas regleringsarbete och ge dem administrativt stöd för att säkerställa att dessa grupper fungerar väl.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) Att utföra andra uppgifter som Berecbyrån tilldelas genom denna förordning eller andra unionsrättsakter.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_6",
+   "kind": "article",
+   "number": "6",
+   "label": "Artikel 6",
+   "title": "Berecs organisationsstruktur",
+   "path": [
+    "KAPITEL IV — BERECS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "Berec ska innefatta",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) en tillsynsnämnd,",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) arbetsgrupper.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_7",
+   "kind": "article",
+   "number": "7",
+   "label": "Artikel 7",
+   "title": "Nämnden för regleringsmyndigheternas sammansättning",
+   "path": [
+    "KAPITEL IV — BERECS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Nämnden för regleringsmyndigheterna ska bestå av en ledamot för varje medlemsstat. Varje ledamot ska ha rösträtt. Varje ledamot ska utses av den nationella regleringsmyndighet som har huvudansvaret för tillsyn över den löpande verksamheten på marknaderna för elektroniska kommunikationsnät och kommunikationstjänster inom ramen för direktiv (EU) 2018/1972. Ledamoten ska utses inom en grupp bestående av chefen för den nationella regleringsmyndigheten, en ledamot av dess kollegieorgan eller ersättaren för någon av dessa.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Varje ledamot i nämnden för regleringsmyndigheterna ska ha en suppleant som utses av den nationella regleringsmyndigheten. Suppleanten ska företräda ledamoten i dennes frånvaro. Suppleanten ska utses inom en grupp bestående av chefen för den nationella regleringsmyndigheten, en ledamot av dess kollegieorgan, ersättaren för någon av dessa eller den nationella regleringsmyndighetens personal.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Ledamöterna i nämnden för regleringsmyndigheterna och deras suppleanter ska utses på grundval av sina kunskaper på området elektronisk kommunikation, med särskild hänsyn till relevanta färdigheter som rör ledarskap, administration och budget. För att säkerställa kontinuiteten i arbetet i nämnden för regleringsmyndigheterna ska alla nationella regleringsmyndigheter som utser ledamöter och suppleanter bemöda sig om att begränsa omsättningen av sina ledamöter och, där så är möjligt, suppleanter, och ska ha som mål att uppnå en jämn könsfördelning.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Kommissionen ska utan rösträtt delta vid alla nämnden för regleringsmyndigheternas överläggningar och företrädas på en lämpligt hög nivå.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. En aktuell förteckning över ledamöterna i nämnden för regleringsmyndigheterna och deras suppleanter ska offentliggöras tillsammans med deras intresseförklaringar.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_8",
+   "kind": "article",
+   "number": "8",
+   "label": "Artikel 8",
+   "title": "Nämnden för regleringsmyndigheternas oberoende",
+   "path": [
+    "KAPITEL IV — BERECS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Nämnden för regleringsmyndigheterna ska vid utförandet av de uppgifter som den tilldelats, utan att det påverkar dess ledamöter som agerar på sin nationella regleringsmyndighets vägnar, agera oberoende och objektivt i unionens intresse, oavsett eventuella särskilda nationella eller personliga intressen.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Utan att det påverkar sådan samordning som avses i artikel 3.6 får ledamöterna i nämnden för regleringsmyndigheterna och deras suppleanter varken begära eller ta emot instruktioner från någon regering, institution eller person eller från något organ.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_9",
+   "kind": "article",
+   "number": "9",
+   "label": "Artikel 9",
+   "title": "Nämnden för regleringsmyndigheternas funktioner",
+   "path": [
+    "KAPITEL IV — BERECS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "Nämnden för regleringsmyndigheterna ska ha följande funktioner:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) Utföra Berecs regleringsuppgifter som anges i artikel 4, nämligen att anta de yttranden, riktlinjer, rapporter, rekommendationer och gemensamma ståndpunkter, och sprida den bästa praxis, som avses i den artikeln, och därvid utgå från arbetsgruppernas förberedande arbete.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) Fatta administrativa beslut om hur Berecs arbete organiseras.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) Anta Berecs årliga arbetsprogram, som avses i artikel 21.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) Anta årsrapporten om Berecs verksamhet, som avses i artikel 22.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) Anta bestämmelser för förebyggande och hantering av intressekonflikter i enlighet med vad som avses i artikel 42 samt med avseende på medlemmarna i arbetsgrupperna.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) Anta närmare bestämmelser om rätt till tillgång till handlingar som finns hos Berec, i enlighet med artikel 36.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) Anta och regelbundet uppdatera de planer för kommunikation och informationsspridning som avses i artikel 37.2, med utgångspunkt i en behovsanalys.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) Med två tredjedelars majoritet av ledamöterna anta och offentliggöra sin arbetsordning.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) Tillsammans med direktören godkänna ingåendet av arbetsöverenskommelser med unionens behöriga organ, byråer och rådgivande grupper, samt med behöriga myndigheter i tredjeländer och med internationella organisationer i enlighet med artikel 35.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) Inrätta arbetsgrupper och utse ordförandena för dessa.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "k) Ge direktören för Berecbyrån vägledning angående utförandet av Berecbyråns uppgifter.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_10",
+   "kind": "article",
+   "number": "10",
+   "label": "Artikel 10",
+   "title": "Nämnden för regleringsmyndigheternas ordförande och vice ordförande",
+   "path": [
+    "KAPITEL IV — BERECS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Nämnden för regleringsmyndigheterna ska med två tredjedelars majoritet av sina ledamöter utse en ordförande och minst två vice ordförande bland sina ledamöter.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. En av vice ordförandena ska automatiskt ersätta ordföranden om denne inte kan utföra sitt uppdrag.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Ordförandens mandatperiod ska vara ett år och kan förlängas en gång. För att säkerställa kontinuiteten i Berecs arbete ska den tillträdande ordföranden om möjligt verka minst ett år som vice ordförande före sin mandatperiod som ordförande. I arbetsordningen ska det föreskrivas en kortare mandatperiod i de fall där den tillträdande ordföranden inte kan verka ett år som vice ordförande före sin mandatperiod som ordförande.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Utan att det påverkar nämnden för regleringsmyndigheternas roll när det gäller ordförandens uppgifter får ordföranden varken begära eller ta emot instruktioner från någon regering, institution eller person eller från något organ.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Ordföranden ska på begäran rapportera till Europaparlamentet och rådet om utförandet av Berecs uppgifter.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_11",
+   "kind": "article",
+   "number": "11",
+   "label": "Artikel 11",
+   "title": "Nämnden för regleringsmyndigheternas möten",
+   "path": [
+    "KAPITEL IV — BERECS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ordföranden ska sammankalla nämnden för regleringsmyndigheternas möten och fastställa dagordningen för dessa möten, vilken ska offentliggöras.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Nämnden för regleringsmyndigheterna ska hålla åtminstone två ordinarie möten per år. Extra möten ska sammankallas på initiativ av ordföranden, på begäran av minst tre av ledamöterna eller på begäran av kommissionen.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Berecbyråns direktör ska delta i alla överläggningar utan rösträtt.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Nämnden för regleringsmyndigheterna får till sina möten som observatörer bjuda in personer vars synpunkter kan vara av intresse för nämnden.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Ledamöterna i nämnden för regleringsmyndigheterna och deras suppleanter får, med förbehåll för dess arbetsordning, låta sig biträdas av sina rådgivare eller andra experter vid mötena.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Berecbyrån ska bistå nämnden för regleringsmyndigheterna med ett sekretariat.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_12",
+   "kind": "article",
+   "number": "12",
+   "label": "Artikel 12",
+   "title": "Omröstningsbestämmelser för nämnden för regleringsmyndigheterna",
+   "path": [
+    "KAPITEL IV — BERECS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Nämnden för regleringsmyndigheterna ska fatta beslut med enkel majoritet av sina ledamöter, såvida inte annat föreskrivs i denna förordning eller i någon annan unionsrättsakt. Två tredjedelars majoritet av nämnden för regleringsmyndigheternas ledamöter ska krävas för de yttranden som avses i artikel 4.1 c ii och v och de riktlinjer som avses i artikel 4.1 d i–iv, vi, vii och x. Utan hinder av andra stycket i denna punkt får nämnden för regleringsmyndigheterna med enkel majoritet och från fall till fall besluta om att med enkel majoritet anta sådana yttranden som avses i artikel 4.1 c ii i denna förordning, om förslag till åtgärder som omfattas av artikel 76.2 i direktiv (EU) 2018/1972 som leder till att förfarandet i artikel 33.5 i det direktivet inleds. Nämnden för regleringsmyndigheternas beslut ska offentliggöras, och reservationer från ledamöter ska redovisas i besluten på ledamotens begäran.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Varje ledamot ska ha en röst. Om en ledamot är frånvarande ska suppleanten ha rätt att utöva den ledamotens rösträtt. Om en ledamot och dennes suppleant är frånvarande får rösträtten delegeras till en annan ledamot. Ordföranden får när som helst delegera sin rösträtt. Ordföranden ska delta i omröstningen såvida inte han eller hon delegerat rösträtten.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Nämnden för regleringsmyndigheternas arbetsordning ska innefatta närmare bestämmelser om omröstningsförfaranden, inklusive på vilka villkor en ledamot får agera på en annan ledamots vägnar, samt bestämmelser om beslutsförhet och kallelsefrister inför möten. Dessutom ska arbetsordningen säkerställa att ledamöterna i nämnden för regleringsmyndigheterna inför varje möte får den fullständiga dagordningen och utkast till förslag, så att de kan lägga fram ändringsförslag före omröstningen. I arbetsordningen får bland annat anges ett omröstningsförfarande vid brådskande ärenden och andra praktiska arrangemang för arbetet i nämnden för regleringsmyndigheterna.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_13",
+   "kind": "article",
+   "number": "13",
+   "label": "Artikel 13",
+   "title": "Arbetsgrupper",
+   "path": [
+    "KAPITEL IV — BERECS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Vid behov, särskilt för att genomföra Berecs årliga arbetsprogram, får nämnden för regleringsmyndigheterna inrätta arbetsgrupper.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Nämnden för regleringsmyndigheterna ska utse ordförandena för arbetsgrupperna som, där så är möjligt, företräder olika nationella regleringsmyndigheter.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Arbetsgrupperna ska vara öppna för deltagande av experter från alla nationella regleringsmyndigheter som deltar i Berecs arbete och kommissionen. Arbetsgrupperna ska också vara öppna för deltagande av Berecbyråns personal, som ska bidra till arbetsgruppernas regleringsarbete och ge arbetsgrupperna administrativt stöd. I fråga om de arbetsgrupper som inrättas för att utföra de uppgifter som avses i artikel 4.1 c ii ska experterna från kommissionen inte delta. Inom arbetsgrupper som inrättas för att utföra de uppgifter som avses i artikel 4.1 c iv, vi, vii och viii, d i, ii, ix, x och xi, j ii, artikel 4.1 l och, i relevanta fall, artikel 4.1 c iii och j i i denna förordning ska synpunkter från experter från andra relevanta behöriga myndigheter som anmälts enligt artikel 5.4 i direktiv (EU) 2018/1972 beaktas. Nämnden för regleringsmyndigheterna eller ordförandena för arbetsgrupperna får vid behov, efter en bedömning i det enskilda fallet, bjuda in enskilda experter med erkänd kompetens på det relevanta området för att delta i arbetsgruppernas möten.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Nämnden för regleringsmyndigheterna ska anta en arbetsordning som reglerar de praktiska arrangemangen för hur arbetsgrupperna ska fungera i praktiken.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_14",
+   "kind": "article",
+   "number": "14",
+   "label": "Artikel 14",
+   "title": "Berecbyråns organisationsstruktur",
+   "path": [
+    "KAPITEL V — BERECBYRÅNS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "Berecbyrån ska innefatta",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) en styrelse,",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) en direktör.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_15",
+   "kind": "article",
+   "number": "15",
+   "label": "Artikel 15",
+   "title": "Styrelsens sammansättning",
+   "path": [
+    "KAPITEL V — BERECBYRÅNS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Styrelsen ska bestå av de personer som utsetts till ledamöter i nämnden för regleringsmyndigheterna och av en företrädare på hög nivå för kommissionen. Alla styrelseledamöter ska ha rösträtt. Varje nationell regleringsmyndighet, i enlighet med vad som avses i artikel 7.1 andra stycket får som utse en annan person än ledamoten i nämnden för regleringsmyndigheterna till ledamot i styrelsen. Den personen ska vara chef för den nationella regleringsmyndigheten, ledamot av dess kollegieorgan eller ersättare för någon av dessa.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Varje ledamot i styrelsen ska ha en suppleant som företräder ledamoten i dennes frånvaro. Suppleanterna för varje ledamot ska vara de personer som utsetts till suppleanter för ledamöterna i nämnden för regleringsmyndigheterna. Även kommissionens företrädare ska ha en suppleant. Varje nationell regleringsmyndighet som utser ledamöter och suppleanter, i enlighet med vad som avses i artikel 7.1 andra stycket, får utse en annan person än suppleanten för ledamoten i nämnden för regleringsmyndigheterna till suppleant för ledamoten i styrelsen. Den personen ska vara chef för den nationella regleringsmyndigheten, ledamot av dess kollegieorgan eller ersättare för någon av dessa, eller tillhöra den nationella regleringsmyndighetens personal.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Styrelsens ledamöter och deras suppleanter får varken begära eller ta emot instruktioner från någon regering, institution eller person eller från något organ.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. En förteckning över ledamöterna i styrelsen och deras suppleanter ska offentliggöras tillsammans med deras intresseförklaring.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_16",
+   "kind": "article",
+   "number": "16",
+   "label": "Artikel 16",
+   "title": "Styrelsens administrativa funktioner",
+   "path": [
+    "KAPITEL V — BERECBYRÅNS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Styrelsen ska ha följande administrativa funktioner:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) Utfärda allmänna riktlinjer för Berecbyråns verksamhet och på årlig basis anta Berecbyråns samlade programdokument med två tredjedelars majoritet av ledamöterna, med beaktande av kommissionens yttrande och i enlighet med artikel 23.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) Med två tredjedelars majoritet av ledamöterna anta Berecbyråns årliga budget och utöva andra funktioner med avseende på Berecbyråns budget i enlighet med kapitel VII.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) Anta, offentliggöra och fortsätta med bedömningen av Berecbyråns konsoliderade årliga verksamhetsrapport som avses i artikel 27 och senast den 1 juli varje år översända både rapporten och bedömningen till Europaparlamentet, rådet, kommissionen och revisionsrätten.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) Anta de finansiella regler som är tillämpliga på Berecbyrån i enlighet med artikel 29.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) Anta en strategi för bedrägeribekämpning som står i proportion till risken för bedrägerier, med beaktande av kostnaderna för och fördelarna med de åtgärder som ska genomföras.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) Säkerställa lämplig uppföljning av resultat och rekommendationer som härrör från de interna eller externa revisionsrapporterna och utvärderingarna samt från utredningar som utförs av Europeiska byrån för bedrägeribekämpning (Olaf).",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) Anta bestämmelser för förebyggande och hantering av intressekonflikter i enlighet med vad som avses i artikel 42.3.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) Anta och regelbundet uppdatera de planer för kommunikation och informationsspridning som avses i artikel 37.2, med utgångspunkt i en behovsanalys.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) Anta sin arbetsordning.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) Anta genomförandebestämmelser för att ge verkan åt tjänsteföreskrifterna för tjänstemän i Europeiska unionen och anställningsvillkoren för övriga anställda i Europeiska unionen i enlighet med artikel 110 i tjänsteföreskrifterna.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) Utan att det påverkar det beslut som avses i punkt 2 första stycket utöva, med avseende på Berecbyråns personal, de befogenheter som i tjänsteföreskrifterna för tjänstemän tilldelas tillsättningsmyndigheten och i anställningsvillkoren för övriga anställda tilldelas den myndighet som är behörig att sluta anställningsavtal (nedan kallade tillsättningsbefogenheter).",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) Utse direktören och i relevanta fall förlänga hans eller hennes mandatperiod eller avsätta honom eller henne från sin post i enlighet med artikel 32.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) Utse en räkenskapsförare som omfattas av tjänsteföreskrifterna för tjänstemän och anställningsvillkoren för övriga anställda och som ska agera helt oberoende vid utförandet av sina arbetsuppgifter.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) Fatta alla beslut som rör inrättandet av Berecbyråns interna strukturer och, vid behov, ändringar av dessa, med beaktande av Berecbyråns verksamhetsbehov och med avseende på en sund budgetförvaltning. Vid tillämpning av första stycket m får Berecbyrån utse samma räkenskapsförare som ett annat unionsorgan eller en annan unionsinstitution. Berecbyrån och kommissionen får särskilt enas om att kommissionens räkenskapsförare också ska fungera som räkenskapsförare för Berecbyrån.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Styrelsen ska, i enlighet med artikel 110 i tjänsteföreskrifterna, anta ett beslut grundat på artikel 2.1 i tjänsteföreskrifterna och artikel 6 i anställningsvillkoren för övriga anställda om att delegera relevanta tillsättningsbefogenheter till direktören och ange på vilka villkor denna delegering av befogenheter kan dras in. Direktören ska ha bemyndigande att vidaredelegera dessa befogenheter. Om exceptionella omständigheter så kräver får styrelsen genom ett beslut tillfälligt upphäva delegeringen av tillsättningsbefogenheterna till direktören och de befogenheter som denne vidaredelegerat, för att i stället utöva dem på egen hand eller delegera dem till en av sina ledamöter eller till någon annan anställd än direktören.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_17",
+   "kind": "article",
+   "number": "17",
+   "label": "Artikel 17",
+   "title": "Styrelsens ordförande och vice ordförande",
+   "path": [
+    "KAPITEL V — BERECBYRÅNS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ordföranden och de vice ordförandena för styrelsen ska vara de personer som utses till ordförande och vice ordförande för nämnden för regleringsmyndigheterna. Samma mandatperiod ska vara tillämplig. Genom undantag från första stycket får styrelsen, med två tredjedelars majoritet av sina ledamöter, välja andra ledamöter i styrelsen till ordförande eller vice ordförande bland sina ledamöter som företräder medlemsstater. Deras mandatperiod ska vara densamma som för ordföranden och de vice ordförandena för nämnden för regleringsmyndigheterna.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. En av vice ordförandena ska automatiskt ersätta ordföranden om denne inte kan utföra sitt uppdrag.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Styrelsens ordförande ska på begäran rapportera till Europaparlamentet och rådet om utförandet av Berecbyråns uppgifter.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_18",
+   "kind": "article",
+   "number": "18",
+   "label": "Artikel 18",
+   "title": "Styrelsens möten",
+   "path": [
+    "KAPITEL V — BERECBYRÅNS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ordföranden ska sammankalla styrelsens möten.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Berecbyråns direktör ska delta i överläggningarna, utom de som rör artikel 32, utan rösträtt.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Styrelsen ska hålla åtminstone två ordinarie möten per år. Dessutom ska ordföranden sammankalla extra möten på eget initiativ, på begäran av kommissionen eller på begäran av minst tre av ledamöterna.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Styrelsen får bjuda in personer vars synpunkter kan vara av intresse som observatörer till sina möten.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Styrelseledamöterna och deras suppleanter får, med förbehåll för styrelsens arbetsordning, låta sig biträdas av rådgivare eller experter vid mötena.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Berecbyrån ska bistå styrelsen med ett sekretariat.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_19",
+   "kind": "article",
+   "number": "19",
+   "label": "Artikel 19",
+   "title": "Omröstningsbestämmelser för styrelsen",
+   "path": [
+    "KAPITEL V — BERECBYRÅNS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Styrelsen ska fatta beslut med enkel majoritet av sina ledamöter, om inget annat föreskrivs i denna förordning.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Varje ledamot ska ha en röst. Om en ledamot är frånvarande ska suppleanten ha rätt att utöva rösträtten. Om en ledamot och dennes suppleant är frånvarande får rösträtten delegeras till en annan ledamot.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Ordföranden får när som helst delegera rösträtten. Han eller hon ska delta i omröstningen såvida inte han eller hon har delegerat rösträtten.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Närmare bestämmelser om röstningsförfarandena ska fastställas i styrelsens arbetsordning, särskilt förfaranden för omröstning i brådskande ärenden och på vilka villkor som en ledamot får agera på en annan ledamots vägnar.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_20",
+   "kind": "article",
+   "number": "20",
+   "label": "Artikel 20",
+   "title": "Direktörens ansvarsområden",
+   "path": [
+    "KAPITEL V — BERECBYRÅNS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktören ska stå för Berecbyråns administrativa ledning. Direktören ska vara ansvarig inför styrelsen.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktören ska bistå ordföranden för nämnden för regleringsmyndigheterna och styrelsens ordförande vid förberedelserna inför deras respektive organs möten.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Direktören ska, utan att det påverkar nämnden för regleringsmyndigheternas, styrelsens och kommissionens befogenheter, vara oberoende när denne utför sitt uppdrag och får varken begära eller ta emot instruktioner från någon regering, institution eller person eller från något organ.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Direktören ska på begäran rapportera till Europaparlamentet och rådet om uppdragets utförande.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Direktören ska vara den rättsliga företrädaren för Berecbyrån.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Direktören ska ansvara för att Berecbyråns uppgifter utförs och för att vägledningen från nämnden för regleringsmyndigheterna och styrelsen följs. Direktören ska särskilt ha ansvaret för",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "a) Berecbyråns löpande administration,",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "b) genomförandet av nämnden för regleringsmyndigheternas och styrelsens administrativa beslut,",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "c) utarbetandet av det samlade programdokument som avses i artikel 23 och överlämnandet av detta till styrelsen,",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "d) hjälp till nämnden för regleringsmyndigheterna vid utarbetandet av Berecs årliga verksamhetsrapport som avses i artikel 22,",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "e) hjälp till nämnden för regleringsmyndigheterna vid utarbetandet av Berecs årliga arbetsprogram som avses i artikel 21,",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "f) genomförandet av det samlade programdokumentet och rapportering till styrelsen om dess genomförande,",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "g) utarbetandet av utkastet till den konsoliderade årliga rapport om Berecbyråns verksamhet som avses i artikel 27 samt framläggande av denna för styrelsen för bedömning och antagande,",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "h) utarbetandet av en åtgärdsplan på grundval av slutsatserna från interna eller externa revisionsrapporter och utvärderingar, liksom undersökningar utförda av Olaf samt lägesrapportering minst en gång om året till styrelsen,",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "i) skyddandet av unionens ekonomiska intressen genom att förebyggande åtgärder vidtas mot bedrägeri, korruption och annan olaglig verksamhet, genom att effektiva kontroller genomförs och, om oriktigheter upptäcks, genom att betalningar som skett på felaktig grund återkrävs, samt, där så är lämpligt, genom att effektiva, proportionella och avskräckande administrativa åtgärder, bland annat ekonomiska sanktioner, införs,",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "j) framtagandet av en strategi för bedrägeribekämpning för Berecbyrån och framläggande av den för styrelsen för godkännande,",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "k) utarbetandet av ett utkast till finansiella regler som ska tillämpas på Berecbyrån,",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "l) utarbetandet av Berecbyråns preliminära beräkning av inkomster och utgifter och genomförandet av dess budget,",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "m) godkännandet, tillsammans med nämnden för regleringsmyndigheterna, av ingåendet av arbetsöverenskommelser med unionens behöriga organ, byråer och rådgivande grupper, samt med behöriga myndigheter i tredjeländer och med internationella organisationer i enlighet med artikel 35.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Direktören ska under styrelsens överinseende vidta nödvändiga åtgärder, särskilt vad avser antagande av interna administrativa instruktioner och offentliggörande av meddelanden, för att säkerställa att Berecbyrån i sitt arbete följer denna förordning.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Direktören ska efter förhandsgodkännande från kommissionen, styrelsen och berörda medlemsstater, besluta huruvida det är nödvändigt att förlägga en eller flera anställda till en eller flera medlemsstater för att Berecbyrån ska kunna utföra sina uppgifter på ett effektivt och ändamålsenligt sätt. I beslutet ska omfattningen av den verksamhet som ska bedrivas anges på ett sätt som medför att onödiga kostnader och dubbelarbete i Berecbyråns administrativa arbetsuppgifter undviks. Innan något sådant beslut fattas ska beslutets konsekvenser för personalfördelningen och budgeten anges i det fleråriga programdokument som avses i artikel 23.4.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_21",
+   "kind": "article",
+   "number": "21",
+   "label": "Artikel 21",
+   "title": "Berecs årliga arbetsprogram",
+   "path": [
+    "KAPITEL VI — BERECS PROGRAMPLANERING"
+   ],
+   "blocks": [
+    {
+     "text": "1. Nämnden för regleringsmyndigheterna ska anta utkastet till det årliga arbetsprogrammet senast den 31 januari det år som föregår det år till vilket det årliga arbetsprogrammet hänför sig. Nämnden för regleringsmyndigheterna ska senast den 31 december samma år anta det slutliga årliga arbetsprogrammet, efter samråd med Europaparlamentet, rådet och kommissionen om deras prioriteringar samt med andra berörda parter i enlighet med artikel 4.5.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Nämnden för regleringsmyndigheterna ska, så fort det årliga arbetsprogrammet antagits, överlämna det till Europaparlamentet, rådet och kommissionen.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_22",
+   "kind": "article",
+   "number": "22",
+   "label": "Artikel 22",
+   "title": "Berecs årliga verksamhetsrapport",
+   "path": [
+    "KAPITEL VI — BERECS PROGRAMPLANERING"
+   ],
+   "blocks": [
+    {
+     "text": "1. Nämnden för regleringsmyndigheterna ska anta Berecs årliga verksamhetsrapport.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Nämnden för regleringsmyndigheterna ska senast den 15 juni varje år översända den årliga verksamhetsrapporten till Europaparlamentet, rådet, kommissionen och Europeiska ekonomiska och sociala kommittén.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_23",
+   "kind": "article",
+   "number": "23",
+   "label": "Artikel 23",
+   "title": "Årlig och flerårig programplanering",
+   "path": [
+    "KAPITEL VII — BERECBYRÅNS BUDGET OCH PROGRAMPLANERING"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktören ska varje år utarbeta ett utkast till programplaneringsdokument som innehåller årlig och flerårig programplanering (nedan kallat samlat programdokument) i linje med artikel 32 i delegerad förordning (EU) nr 1271/2013 med beaktande av riktlinjer som kommissionen fastställt. Senast den 31 januari varje år ska styrelsen anta utkastet till samlat programdokument och översända det till kommissionen som ska avge sitt yttrande. Utkastet till samlat programdokument ska också översändas till Europaparlamentet och rådet. Styrelsen ska därefter anta det samlade programdokumentet med beaktande av kommissionens yttrande. Den ska översända det samlade programdokumentet och eventuella uppdaterade versioner till Europaparlamentet, rådet och kommissionen. Det samlade programdokumentet ska bli slutgiltigt efter det att unionens allmänna budget har antagits och vid behov anpassas i enlighet därmed.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Det årliga programplaneringsdokumentet ska inbegripa detaljerade målsättningar och förväntade resultat, inbegripet resultatindikatorer. Det ska också innehålla en beskrivning av de åtgärder som ska finansieras och uppgifter om vilka finansiella resurser och personalresurser som anslås till varje åtgärd, i enlighet med principerna för verksamhetsbaserad förvaltning och verksamhetsbaserad budgetering och med vad som anges i artikel 31. Det årliga programplaneringsdokumentet ska vara konsekvent med Berecs utkast till årligt arbetsprogram och det slutliga årliga arbetsprogrammet i enlighet med vad som avses i artikel 21 samt med Berecbyråns fleråriga programplaneringsdokument som avses i punkt 4 i den här artikeln. I programmet ska klart anges vilka uppgifter som har lagts till, ändrats eller strukits jämfört med föregående budgetår.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Styrelsen ska, vid behov, ändra det årliga programplaneringsdokumentet när Berecs slutliga årliga arbetsprogram som avses i artikel 21 har antagits och när Berec eller Berecbyrån tilldelas en ny uppgift. Varje betydande ändring av det årliga programplaneringsdokumentet ska antas enligt samma förfarande som det som användes för att anta det ursprungliga programplaneringsdokumentet. Styrelsen får delegera befogenheten att göra icke-väsentliga ändringar av det årliga programplaneringsdokumentet till direktören.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. I det fleråriga programplaneringsdokumentet ska den övergripande strategiska planeringen, inbegripet mål, förväntade resultat och resultatindikatorer, fastställas. I det ska även resursplanering, inklusive flerårig budget och personal, fastställas. Resursplaneringen ska uppdateras årligen. Den strategiska programplaneringen ska uppdateras vid behov, särskilt med anledning av resultatet av den utvärdering som avses i artikel 48.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Berecbyråns samlade programdokument ska inbegripa genomförande av Berecs strategi för förbindelserna med unionens behöriga organ, byråer och rådgivande grupper, med behöriga myndigheter i tredjeländer och med internationella organisationer i enlighet med vad som avses i artikel 35.3, de åtgärder som är förbundna med den strategin och specificerande av tillhörande resurser.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_24",
+   "kind": "article",
+   "number": "24",
+   "label": "Artikel 24",
+   "title": "Upprättandet av budgeten",
+   "path": [
+    "KAPITEL VII — BERECBYRÅNS BUDGET OCH PROGRAMPLANERING"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktören ska varje år göra ett preliminärt utkast till beräkning av Berecbyråns inkomster och utgifter (nedan kallat utkastet till beräkning) för påföljande budgetår, inbegripet tjänsteförteckningen, och lämna det till styrelsen. Informationen i utkastet till beräkning ska vara konsekvent med det utkast till samlat programdokument som avses i artikel 23.1.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktören ska lämna utkastet till beräkning till kommissionen senast den 31 januari varje år.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Kommissionen ska lämna utkastet till beräkning till budgetmyndigheten, tillsammans med förslaget till unionens allmänna budget.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. På grundval av utkastet till beräkning ska kommissionen föra in beräkningar av vad den anser vara nödvändigt för tjänsteförteckningen och beloppet för det bidrag som ska belasta den allmänna budgeten i det förslag till unionens allmänna budget som kommissionen ska lägga fram för budgetmyndigheten i enlighet med artiklarna 313 och 314 i fördraget om Europeiska unionens funktionssätt (EUF-fördraget).",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Budgetmyndigheten ska bevilja anslagen till bidraget till Berecbyrån.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Berecbyråns tjänsteförteckning ska godkännas av budgetmyndigheten.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Styrelsen ska anta Berecbyråns budget. Budgeten ska bli slutlig när unionens allmänna budget slutgiltigt har antagits. Vid behov ska den anpassas i enlighet med det slutgiltiga antagandet.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Alla fastighetsprojekt som kan få betydande konsekvenser för Berecbyråns budget ska omfattas av delegerad förordning (EU) nr 1271/2013.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_25",
+   "kind": "article",
+   "number": "25",
+   "label": "Artikel 25",
+   "title": "Budgetens struktur",
+   "path": [
+    "KAPITEL VII — BERECBYRÅNS BUDGET OCH PROGRAMPLANERING"
+   ],
+   "blocks": [
+    {
+     "text": "1. Beräkningar av Berecbyråns alla inkomster och utgifter ska utarbetas varje budgetår, motsvarande ett kalenderår, och redovisas i Berecbyråns budget.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. I Berecbyråns budget ska inkomster och utgifter balansera varandra.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Utan att det påverkar andra medel ska Berecbyråns inkomster inbegripa a) ett bidrag från unionen, b) eventuella frivilliga ekonomiska bidrag från medlemsstaterna eller de nationella regleringsmyndigheterna, c) avgifter som tas ut för publikationer och andra tjänster som tillhandahålls av Berecbyrån, d) bidrag från tredjeländer eller de behöriga regleringsmyndigheterna på området elektronisk kommunikation i tredjeländer som, enligt artikel 35, deltar i Berecbyråns arbete.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Berecbyråns utgifter ska omfatta löner till personalen, kostnader för administration och infrastruktur samt driftskostnader.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_26",
+   "kind": "article",
+   "number": "26",
+   "label": "Artikel 26",
+   "title": "Budgetgenomförandet",
+   "path": [
+    "KAPITEL VII — BERECBYRÅNS BUDGET OCH PROGRAMPLANERING"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktören ska genomföra Berecbyråns budget.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktören ska varje år till Europaparlamentet och rådet skicka alla uppgifter som rör resultatet av utvärderingsförfarandena.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_27",
+   "kind": "article",
+   "number": "27",
+   "label": "Artikel 27",
+   "title": "Konsoliderad årlig verksamhetsrapport",
+   "path": [
+    "KAPITEL VII — BERECBYRÅNS BUDGET OCH PROGRAMPLANERING"
+   ],
+   "blocks": [
+    {
+     "text": "1. Styrelsen ska anta konsoliderade årliga verksamhetsrapporter i enlighet med artikel 47 i delegerad förordning (EU) nr 1271/2013, med beaktande av riktlinjer som kommissionen fastställt.",
+     "para": "1",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_28",
+   "kind": "article",
+   "number": "28",
+   "label": "Artikel 28",
+   "title": "Redovisning och förfarande för beviljande av ansvarsfrihet",
+   "path": [
+    "KAPITEL VII — BERECBYRÅNS BUDGET OCH PROGRAMPLANERING"
+   ],
+   "blocks": [
+    {
+     "text": "1. Berecbyråns räkenskapsförare ska senast den 1 mars påföljande budgetår överlämna den preliminära redovisningen för budgetåret till kommissionens räkenskapsförare och till revisionsrätten.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Berecbyrån ska senast den 31 mars påföljande budgetår överlämna rapporten om budgetförvaltningen och den ekonomiska förvaltningen till Europaparlamentet, rådet och revisionsrätten.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Efter att ha mottagit revisionsrättens iakttagelser i fråga om Berecbyråns preliminära redovisning ska Berecbyråns räkenskapsförare upprätta Berecbyråns slutliga redovisning på eget ansvar. Direktören ska överlämna den slutliga redovisningen till styrelsen för ett yttrande.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Styrelsen ska avge ett yttrande om Berecbyråns slutliga redovisning.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Senast den 1 juli efter utgången av varje budgetår ska direktören överlämna den slutliga redovisningen, tillsammans med styrelsens yttrande, till Europaparlamentet, rådet, kommissionen och revisionsrätten.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Berecbyrån ska offentliggöra den slutliga redovisningen i Europeiska unionens officiella tidning senast den 15 november påföljande år.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Direktören ska senast den 30 september det påföljande budgetåret ge revisionsrätten svar på dess iakttagelser. Direktören ska också sända detta svar till styrelsen.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Direktören ska för Europaparlamentet, på dess begäran och i enlighet med artikel 165.3 i Europaparlamentets och rådets förordning (EU, Euratom) 2018/1046, lägga fram alla uppgifter som krävs för att förfarandet för beviljande av ansvarsfrihet för det berörda budgetåret ska kunna tillämpas på ett smidigt sätt.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Europaparlamentet ska före den 15 maj år n + 2 på rekommendation av rådet, som ska fatta sitt beslut med kvalificerad majoritet, bevilja direktören ansvarsfrihet beträffande genomförandet av budgeten för år n.",
+     "para": "9",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_29",
+   "kind": "article",
+   "number": "29",
+   "label": "Artikel 29",
+   "title": "Finansiella regler",
+   "path": [
+    "KAPITEL VII — BERECBYRÅNS BUDGET OCH PROGRAMPLANERING"
+   ],
+   "blocks": [
+    {
+     "text": "De finansiella regler som är tillämpliga på Berecbyrån ska antas av styrelsen efter samråd med kommissionen. De får inte avvika från delegerad förordning (EU) nr 1271/2013 såvida det inte föreligger ett särskilt behov av en sådan avvikelse för Berecbyråns verksamhet och kommissionen har gett sitt förhandsgodkännande.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_30",
+   "kind": "article",
+   "number": "30",
+   "label": "Artikel 30",
+   "title": "Allmänna bestämmelser",
+   "path": [
+    "KAPITEL VIII — BERECBYRÅNS PERSONAL"
+   ],
+   "blocks": [
+    {
+     "text": "Tjänsteföreskrifterna och anställningsvillkoren för övriga anställda samt de bestämmelser som har antagits gemensamt av unionens institutioner för tillämpningen av dessa tjänsteföreskrifter och anställningsvillkor för övriga anställda ska gälla för Berecbyråns personal.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_31",
+   "kind": "article",
+   "number": "31",
+   "label": "Artikel 31",
+   "title": "Storleken på Berecbyråns personal",
+   "path": [
+    "KAPITEL VIII — BERECBYRÅNS PERSONAL"
+   ],
+   "blocks": [
+    {
+     "text": "1. Berecbyrån ska i överensstämmelse med principen om aktivitetsbaserad förvaltning av personalresurser ha den personal som den behöver för att kunna utföra sina uppgifter.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Förslag om personalens storlek och motsvarande finansiella resurser ska läggas fram i enlighet med artiklarna 23.2, 23.4 och 24.1, med beaktande av artikel 5 a, av samtliga övriga uppgifter som Berecbyrån tilldelas genom denna förordning eller andra unionsrättsakter och av behovet av efterlevnad av de förordningar som är tillämpliga på alla unionens decentraliserade byråer.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_32",
+   "kind": "article",
+   "number": "32",
+   "label": "Artikel 32",
+   "title": "Utnämning av direktören",
+   "path": [
+    "KAPITEL VIII — BERECBYRÅNS PERSONAL"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktören ska anställas som tillfälligt anställd vid Berecbyrån enligt artikel 2 a i anställningsvillkoren för övriga anställda.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktören ska utnämnas av styrelsen efter ett öppet och transparent urvalsförfarande på grundval av meriter, färdigheter när det gäller ledarskap, förvaltning och budget samt färdigheter och erfarenhet när det gäller relevans för elektroniska kommunikationsnät och tjänster. Förteckningen över kandidater får inte föreslås av endast ordföranden eller en vice ordförande. Styrelsens arbetsordning ska innehålla närmare bestämmelser om arrangemangen för ett förfarande för att föra upp antalet behöriga sökande på slutlistan och om ett omröstningsförfarande.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Berecbyrån ska företrädas av styrelseordföranden när den ingår avtalet om anställning av direktören.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Den kandidat som styrelsen väljer ska före utnämningen uppmanas att göra ett uttalande inför behörigt utskott i Europaparlamentet och besvara frågor från ledamöterna.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Direktörens mandatperiod ska vara fem år. I slutet av denna period ska styrelsens ordförande göra en bedömning som beaktar direktörens arbetsinsats och Berecbyråns uppgifter och utmaningar. Denna bedömning ska översändas till Europaparlamentet och rådet.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Styrelsen får, med beaktande av den bedömning som avses i punkt 5, förlänga direktörens mandatperiod en gång, med högst fem år.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Styrelsen ska underrätta Europaparlamentet om den har för avsikt att förlänga direktörens mandatperiod. Inom en månad före varje sådan förlängning får direktören uppmanas att göra ett uttalande inför behörigt utskott i Europaparlamentet och besvara frågor från ledamöterna.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. En direktör vars mandatperiod förlängts får inte delta i något ytterligare urvalsförfarande för samma befattning efter utgången av den sammanlagda mandatperioden.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Om mandatperioden inte förlängs ska direktören, efter ett beslut av styrelsen, förbli i tjänst efter utgången av den ursprungliga mandatperioden tills en efterträdare utnämnts.",
+     "para": "9",
+     "point": ""
+    },
+    {
+     "text": "10. Direktören får avsättas från sin post endast efter styrelsebeslut, på förslag av en ledamot.",
+     "para": "10",
+     "point": ""
+    },
+    {
+     "text": "11. Styrelsen ska fatta beslut om att utnämna, förlänga mandatperioden för eller avsätta direktören med två tredjedelars majoritet av ledamöternas röster.",
+     "para": "11",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_33",
+   "kind": "article",
+   "number": "33",
+   "label": "Artikel 33",
+   "title": "Utstationerade nationella experter och annan personal",
+   "path": [
+    "KAPITEL VIII — BERECBYRÅNS PERSONAL"
+   ],
+   "blocks": [
+    {
+     "text": "1. Berecbyrån får använda sig av utstationerade nationella experter eller annan personal som inte är anställd av den. Tjänsteföreskrifterna och anställningsvillkoren för övriga anställda ska inte gälla för sådan personal.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Styrelsen ska anta ett beslut om regler för utstationering av nationella experter till Berecbyrån.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_34",
+   "kind": "article",
+   "number": "34",
+   "label": "Artikel 34",
+   "title": "Immunitet och privilegier",
+   "path": [
+    "KAPITEL IX — ALLMÄNNA BESTÄMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "Berecbyrån och dess personal ska omfattas av protokollet om Europeiska unionens immunitet och privilegier.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_35",
+   "kind": "article",
+   "number": "35",
+   "label": "Artikel 35",
+   "title": "Samarbete med unionsorgan, tredjeländer och internationella organisationer",
+   "path": [
+    "KAPITEL IX — ALLMÄNNA BESTÄMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. I den mån det är nödvändigt för att uppfylla de syften som fastställs i denna förordning och för att utföra sina uppgifter får Berec och Berecbyrån, utan att det påverkar de respektive behörighetsområdena för medlemsstaterna och unionens institutioner, samarbeta med unionens behöriga organ, byråer och rådgivande grupper, med behöriga myndigheter i tredjeländer och med internationella organisationer. I detta syfte får Berec och Berecbyrån, efter förhandsgodkännande från kommissionen, upprätta arbetsöverenskommelser. Dessa överenskommelser får inte medföra några rättsliga förpliktelser.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Nämnden för regleringsmyndigheterna, arbetsgrupperna och styrelsen ska vara öppna för deltagande av regleringsmyndigheter i tredjeländer som har huvudansvaret på området elektronisk kommunikation i fall då dessa tredjeländer har ingått avtal med unionen om detta. Inom ramen för de relevanta bestämmelserna i dessa avtal, ska arbetsöverenskommelser utarbetas om framför allt karaktären, omfattningen och utformningen av deltagandet, utan rösträtt, av dessa regleringsmyndigheter från de berörda tredjeländerna i Berecs och Berecbyråns arbete, inbegripet bestämmelser om deltagande i Berecs initiativ och vad gäller ekonomiska bidrag och personal till Berecbyrån. När det gäller personalfrågor ska dessa överenskommelser under alla förhållanden vara förenliga med tjänsteföreskrifterna.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Som ett inslag i det årliga arbetsprogram som avses i artikel 21 ska nämnden för regleringsmyndigheterna anta Berecs strategi för förbindelserna med unionens behöriga organ, byråer och rådgivande grupper, med behöriga myndigheter i tredjeländer och med internationella organisationer i de frågor där Berec har behörighet. Kommissionen, Berec och Berecbyrån ska ingå en lämplig arbetsöverenskommelse i syfte att säkerställa att Berec och Berecbyrån verkar inom ramen för sitt uppdrag och den befintliga institutionella ramen.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_36",
+   "kind": "article",
+   "number": "36",
+   "label": "Artikel 36",
+   "title": "Tillgång till handlingar och dataskydd",
+   "path": [
+    "KAPITEL IX — ALLMÄNNA BESTÄMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Europaparlamentets och rådets förordning (EG) nr 1049/2001 ska tillämpas på handlingar som finns hos Berec och Berecbyrån.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Nämnden för regleringsmyndigheterna och styrelsen ska senast den 21 juni 2019 anta närmare föreskrifter för tillämpning av förordning (EG) nr 1049/2001.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Berecs och Berecbyråns behandling av personuppgifter ska ske i enlighet med förordning (EU) 2018/1725.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Nämnden för regleringsmyndigheterna och styrelsen ska, senast den 21 juni 2019, fastställa bestämmelser för Berecs och Berecbyråns tillämpning av förordning (EU) 2018/1725, inbegripet bestämmelser om utnämnande av ett uppgiftsskyddsombud vid Berecbyrån. Bestämmelserna ska fastställas efter samråd med Europeiska datatillsynsmannen.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_37",
+   "kind": "article",
+   "number": "37",
+   "label": "Artikel 37",
+   "title": "Insyn och kommunikation",
+   "path": [
+    "KAPITEL IX — ALLMÄNNA BESTÄMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Berec och Berecbyrån ska utföra sin verksamhet med en hög grad av insyn. Berec och Berecbyrån ska säkerställa att allmänheten och alla berörda parter ges lämplig, objektiv, tillförlitlig och lättåtkomlig information, särskilt vad gäller deras uppgifter och resultaten av deras arbete.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Berec får, med stöd av Berecbyrån, bedriva kommunikationsverksamhet på eget initiativ inom sitt behörighetsområde och i enlighet med relevanta planer för kommunikation och informationsspridning som nämnden för regleringsmyndigheterna antagit. Tilldelningen av resurser för sådant stöd till kommunikationsverksamhet inom ramen för Berecbyråns budget får inte inverka menligt på det effektiva utförandet av Berecs uppgifter enligt artikel 4 eller Berecbyråns uppgifter enligt artikel 5. Berecbyråns kommunikationsverksamhet ska utföras i enlighet med de relevanta planer för kommunikation och informationsspridning som styrelsen antagit.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_38",
+   "kind": "article",
+   "number": "38",
+   "label": "Artikel 38",
+   "title": "Konfidentialitet",
+   "path": [
+    "KAPITEL IX — ALLMÄNNA BESTÄMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Utan att det påverkar tillämpningen av artiklarna 36.1 och 40.2 ska Berec och Berecbyrån inte för tredje part avslöja uppgifter som de behandlar eller tar emot, om det i en motiverad ansökan har begärts att uppgifterna helt eller delvis ska behandlas konfidentiellt.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Ledamöter och andra som deltar i nämnden för regleringsmyndigheternas, styrelsens och arbetsgruppernas möten samt direktören, utstationerade nationella experter och annan personal som inte är anställd av Berecbyrån ska uppfylla de sekretesskrav som anges i artikel 339 i EUF-fördraget, även efter det att deras uppdrag har upphört.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Nämnden för regleringsmyndigheterna och styrelsen ska fastställa hur de regler om konfidentialitet som avses i punkterna 1 och 2 ska tillämpas praktiskt.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_39",
+   "kind": "article",
+   "number": "39",
+   "label": "Artikel 39",
+   "title": "Säkerhetsbestämmelser om skydd av säkerhetsskyddsklassificerade och känsliga icke säkerhetsskyddsklassificerade uppgifter",
+   "path": [
+    "KAPITEL IX — ALLMÄNNA BESTÄMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "Berec och Berecbyrån ska anta egna säkerhetsbestämmelser som motsvarar kommissionens säkerhetsbestämmelser för skydd av säkerhetsskyddsklassificerade EU-uppgifter och känsliga icke-säkerhetsskyddsklassificerade uppgifter, bland annat bestämmelser om utbyte, behandling och lagring av sådana uppgifter, i enlighet med kommissionens beslut (EU, Euratom) 2015/443 och (EU, Euratom) 2015/444. Alternativt får Berec eller Berecbyrån anta ett beslut med tillämpning av kommissionens regler i tillämpliga delar.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_40",
+   "kind": "article",
+   "number": "40",
+   "label": "Artikel 40",
+   "title": "Utbyte av information",
+   "path": [
+    "KAPITEL IX — ALLMÄNNA BESTÄMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Efter motiverad begäran från Berec eller Berecbyrån ska kommissionen, de nationella regleringsmyndigheter som är företrädda i nämnden för regleringsmyndigheterna och andra behöriga myndigheter i god tid och på ett korrekt sätt förse Berec eller Berecbyrån med all information som krävs för att de ska kunna utföra sina uppgifter, under förutsättning att de har laglig tillgång till den relevanta informationen och att begäran om information är nödvändig med avseende på den aktuella uppgiftens art. Berec eller Berecbyrån får även begära att sådana uppgifter ska tillhandahållas med regelbundna intervall och i angivna format. Vid en sådan begäran ska, i möjligaste mån, gemensamma rapporteringsformat användas.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Efter motiverad begäran från kommissionen eller en nationell regleringsmyndighet ska Berec eller Berecbyrån i god tid och på korrekt sätt tillhandahålla den information som krävs för att kommissionen, den nationella regleringsmyndigheten eller en annan behörig myndighet ska kunna utföra sina uppgifter enligt principen om lojalt samarbete. Om Berec eller Berecbyrån anser information vara konfidentiell, ska kommissionen, den nationella regleringsmyndigheten eller den andra behöriga myndigheten säkerställa sådan konfidentialitet i enlighet med unionsrätten och nationell rätt, inbegripet förordning (EG) nr 1049/2001. Affärshemligheter får inte hindra utbyte av information i rätt tid.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Innan myndigheten begär information i enlighet med denna artikel, och för att undvika dubbla rapporteringskrav, ska Berec eller Berecbyrån beakta all relevant befintlig information som är allmänt tillgänglig.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Om information inte görs tillgänglig i tid av de nationella regleringsmyndigheterna, får Berec eller Berecbyrån rikta en motiverad begäran antingen till andra nationella regleringsmyndigheter och andra behöriga myndigheter i den berörda medlemsstaten eller direkt till de berörda företag som tillhandahåller elektroniska kommunikationsnät, kommunikationstjänster och tillhörande faciliteter. Berec eller Berecbyrån ska underrätta de nationella regleringsmyndigheter som underlåtit att tillhandahålla informationen om varje begäran i enlighet med första stycket. På begäran av Berec eller Berecbyrån ska de nationella regleringsmyndigheterna bistå Berec vid insamlingen av informationen.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Medlemsstaterna ska säkerställa att nationella regleringsmyndigheter och andra behöriga myndigheter har befogenhet att kräva att andra ansvariga nationella myndigheter eller företag som tillhandahåller elektroniska kommunikationsnät, kommunikationstjänster, tillhörande faciliteter eller tillhörande tjänster ska lämna all information som krävs för att de ska kunna utföra sina uppgifter enligt denna artikel. Andra ansvariga nationella myndigheter eller företag som avses i första stycket ska tillhandahålla sådan information snabbt på begäran och i enlighet med den tidsplan och detaljrikedom som krävs. Medlemsstaterna ska säkerställa att de nationella regleringsmyndigheterna och andra behöriga myndigheter genom att införa effektiva, proportionella och avskräckande sanktioner har befogenhet att säkerställa att en sådan begäran om information verkställs.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_41",
+   "kind": "article",
+   "number": "41",
+   "label": "Artikel 41",
+   "title": "Informations- och kommunikationssystem",
+   "path": [
+    "KAPITEL IX — ALLMÄNNA BESTÄMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Berecbyrån ska upprätta och underhålla ett informations- och kommunikationssystem med åtminstone följande funktioner: a) En gemensam plattform för informationsutbyte som ger Berec, kommissionen och nationella regleringsmyndigheter nödvändig information för ett konsekvent genomförande av unionens regelverk för elektronisk kommunikation. b) Ett för ändamålet särskilt framtaget gränssnittför begäranden om information och underrättelser om sådana begärandena enligt vad som avses i artikel 40 för åtkomst av Berec, Berecbyrån, kommissionen och nationella regleringsmyndigheter. c) En plattform för fastställande i ett tidigt skede av vad som behövs för samordning mellan nationella regleringsmyndigheter.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Styrelsen ska anta de tekniska och funktionsmässiga specifikationerna i syfte att inrätta det informations- och kommunikationssystem som avses i punkt 1. Systemet ska respektera immateriella rättigheter och ha den konfidentialitetsnivå som krävs.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Informations- och kommunikationssystemet ska kunna tas i bruk senast den 21 juni 2020.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_42",
+   "kind": "article",
+   "number": "42",
+   "label": "Artikel 42",
+   "title": "Intresseförklaringar",
+   "path": [
+    "KAPITEL IX — ALLMÄNNA BESTÄMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ledamöterna i nämnden för regleringsmyndigheterna och styrelsen, direktören, utstationerade nationella experter och annan personal som inte är anställd av Berecbyrån ska var och en avge en skriftlig förklaring innehållande en åtagandeförklaring och en förklaring som anger om det föreligger eller inte föreligger några direkta eller indirekta intressen som skulle kunna anses inverka negativt på deras oberoende. Sådana förklaringar ska göras vid tillträdet, vara tillförlitliga och fullständiga, och uppdateras närhelst det riskerar att föreligga direkta eller indirekta intressen som skulle kunna anses inverka negativt på oberoendet för den person som gjort förklaringen. Förklaringarna från ledamöterna i nämnden för regleringsmyndigheterna, styrelseledamöterna och direktören ska offentliggöras.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Ledamöter i nämnden för regleringsmyndigheterna, styrelsen och arbetsgrupperna samt andra som deltar i deras möten, direktören, utstationerade nationella experter och annan personal som inte är anställd av Berecbyrån ska var och en senast vid inledningen av varje möte ge en exakt och fullständig förklaring om eventuella intressen som skulle kunna anses inverka negativt på deras oberoende när det gäller frågorna på dagordningen, och de ska avstå ifrån att delta i diskussioner och omröstningar om sådana frågor.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Nämnden för regleringsmyndigheterna och styrelsen ska anta bestämmelser för förebyggande och hantering av intressekonflikter, i synnerhet om de praktiska arrangemangen för tillämpning av punkterna 1 och 2.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_43",
+   "kind": "article",
+   "number": "43",
+   "label": "Artikel 43",
+   "title": "Bekämpning av bedrägeri",
+   "path": [
+    "KAPITEL IX — ALLMÄNNA BESTÄMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. För att underlätta bekämpningen av bedrägeri, korruption och annan olaglig verksamhet inom ramen för Europaparlamentets och rådets förordning (EU, Euratom) nr 883/2013 ska Berecbyrån senast den 21 juni 2019, ansluta sig till det interinstitutionella avtalet av den 25 maj 1999 mellan Europaparlamentet, Europeiska unionens råd och Europeiska gemenskapernas kommission om interna utredningar som utförs av Europeiska byrån för bedrägeribekämpning (Olaf) och anta lämpliga bestämmelser som ska vara tillämpliga på all personal vid Berecbyrån genom att använda den mall som anges i bilagan till det avtalet.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Revisionsrätten ska ha befogenhet att utföra revision, på grundval av handlingar och inspektioner på plats, hos alla stödmottagare, uppdragstagare och underleverantörer som erhållit unionsfinansiering från Berecbyrån.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Olaf får utföra utredningar, däribland kontroller och inspektioner på platsen, i enlighet med bestämmelserna och förfarandena i förordning (EU, Euratom) nr 883/2013 och rådets förordning (Euratom, EG) nr 2185/96, för att fastställa om det förekommit bedrägerier, korruption eller annan olaglig verksamhet som riktar sig mot unionens ekonomiska intressen i samband med ett bidragsavtal, ett bidragsbeslut eller ett avtal som finansieras av Berecbyrån.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Utan att det påverkar tillämpningen av punkterna 1, 2 och 3 ska samarbetsavtal med tredjeländer och internationella organisationer, avtal, bidragsavtal och bidragsbeslut innehålla bestämmelser som uttryckligen tillerkänner revisionsrätten och Olaf rätten att utföra sådan revision och sådana utredningar i enlighet med sina respektive befogenheter.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_44",
+   "kind": "article",
+   "number": "44",
+   "label": "Artikel 44",
+   "title": "Ansvar",
+   "path": [
+    "KAPITEL IX — ALLMÄNNA BESTÄMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Berecbyråns avtalsrättsliga ansvar ska regleras av den lag som är tillämplig på avtalet i fråga.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Europeiska unionens domstol (domstolen) ska vara behörig att träffa avgöranden med stöd av skiljedomsklausuler som ingår i ett avtal som slutits av Berecbyrån.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Vad beträffar utomobligatoriskt ansvar ska Berecbyrån, i enlighet med de allmänna principer som är gemensamma för medlemsstaternas rättsordningar, ersätta skada som orsakats av dess avdelningar eller av dess personal under tjänsteutövning.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Domstolen ska vara behörig att avgöra tvister om skadestånd för sådan skada som avses i punkt 3.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Personalens personliga ansvar gentemot Berecbyrån ska regleras av de bestämmelser i tjänsteföreskrifterna eller anställningsvillkoren för övriga anställda som är tillämpliga på dem.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_45",
+   "kind": "article",
+   "number": "45",
+   "label": "Artikel 45",
+   "title": "Administrativa undersökningar",
+   "path": [
+    "KAPITEL IX — ALLMÄNNA BESTÄMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "Berecs och Berecbyråns verksamhet ska omfattas av Europeiska ombudsmannens undersökningar i enlighet med bestämmelserna i artikel 228 i EUF-fördraget.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_46",
+   "kind": "article",
+   "number": "46",
+   "label": "Artikel 46",
+   "title": "Språkordning",
+   "path": [
+    "KAPITEL IX — ALLMÄNNA BESTÄMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Förordning nr 1 ska tillämpas på Berecbyrån.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De översättningstjänster som krävs för Berecbyråns verksamhet ska tillhandahållas av Översättningscentrum för Europeiska unionens organ.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_47",
+   "kind": "article",
+   "number": "47",
+   "label": "Artikel 47",
+   "title": "Avtal om säte och förutsättningar för verksamheten",
+   "path": [
+    "KAPITEL X — SLUTBESTÄMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Arrangemangen beträffande Berecbyråns lokaler i värdmedlemsstaten och de resurser som värdmedlemsstaten ska ställa till Berecbyråns förfogande samt de särskilda regler som i värdmedlemsstaten är tillämpliga på direktören, styrelseledamöterna, Berecbyråns personal och deras familjemedlemmar ska fastställas i ett avtal om säte mellan Berecbyrån och värdmedlemsstaten som ska ingås efter styrelsens godkännande, dock senast den 21 december 2020.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Värdmedlemsstaten ska tillhandahålla nödvändiga förutsättningar för att säkerställa att Berecbyrån fungerar väl och effektivt, inbegripet flerspråkig skolundervisning med europeisk inriktning och lämpliga transportförbindelser.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_48",
+   "kind": "article",
+   "number": "48",
+   "label": "Artikel 48",
+   "title": "Utvärdering",
+   "path": [
+    "KAPITEL X — SLUTBESTÄMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Senast den 21 december 2023, och därefter vart femte år, ska kommissionen göra en utvärdering i enlighet med kommissionens riktlinjer för att bedöma Berecs och Berecbyråns resultat i förhållande till deras mål, uppdrag, uppgifter och geografiska placering. Vid utvärderingen ska särskilt överväga det eventuella behovet av att ändra Berecs och Berecbyråns struktur eller uppdrag och vilka ekonomiska konsekvenser en sådan ändring kan få.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Om kommissionen finner att Berecs eller Berecbyråns existens inte längre är motiverad med hänsyn till dess tilldelade mål, uppdrag och uppgifter, får kommissionen föreslå att denna förordning ändras eller upphävs i enlighet med detta.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Kommissionen ska meddela resultatet av utvärderingen till Europaparlamentet, rådet och styrelsen och offentliggöra det.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_49",
+   "kind": "article",
+   "number": "49",
+   "label": "Artikel 49",
+   "title": "Övergångsbestämmelser",
+   "path": [
+    "KAPITEL X — SLUTBESTÄMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Berecbyrån ska efterträda den byrå som inrättades genom förordning (EG) nr 1211/2009 när det gäller all äganderätt, avtal, rättsliga skyldigheter, anställningskontrakt, finansiella åtaganden och ansvarsskyldigheter. Denna förordning ska i synnerhet inte påverka rättigheter och skyldigheter för personal vid byrån. Deras avtal får förlängas i enlighet med denna förordning, i överensstämmelse med tjänsteföreskrifterna och anställningsvillkoren för övriga anställda och i överensstämmelse med Berecbyråns budgetbegränsningar.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Med verkan från och med den 20 december 2018 ska den förvaltningsdirektör som utsetts på grundval av förordning (EG) nr 1211/2009 fungera som direktör med de funktioner som föreskrivs i den här förordningen. De övriga villkoren i förvaltningsdirektörens avtal förblir oförändrade.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Styrelsen får besluta att förnya mandatperioden för den direktör som avses i punkt 2 i den här artikeln med ytterligare en mandatperiod. Artikel 32.5 och 32.6 ska gälla i tillämpliga delar. Direktörens sammanlagda mandatperiod får inte överstiga tio år.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Den tillsynsnämnd och den styrelse som avses i artikel 7 respektive 15 i denna förordning ska bestå av ledamöterna i den tillsynsnämnd och den förvaltningskommitté som avses i artikel 4 respektive 7 i förordning (EG) nr 1211/2009, tills nya företrädare har utsetts.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Ordförandena och vice ordförandena för nämnden för regleringsmyndigheterna och förvaltningskommittén som utsetts på grundval av förordning (EG) nr 1211/2009, ska sitta kvar som ordförande respektive vice ordförande för nämnden för regleringsmyndigheterna enligt artikel 10 i den här förordningen och som ordförande respektive vice ordförande för styrelsen enligt artikel 17 i den här förordningen för återstoden av sin ettårsperiod. Utnämningar av ordförande och vice ordförande för nämnden för regleringsmyndigheterna och för förvaltningskommittén på grundval av förordning (EG) nr 1211/2009 före den 20 december 2018 men sträcker sig förbi detta datum ska respekteras.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Förfarandet för beviljande av ansvarsfrihet för den budget som fastställts på grundval av artikel 11 i förordning (EG) nr 1211/2009 ska genomföras i enlighet med bestämmelserna i den förordningen.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_50",
+   "kind": "article",
+   "number": "50",
+   "label": "Artikel 50",
+   "title": "Ändringar av förordning (EU) 2015/2120",
+   "path": [
+    "KAPITEL X — SLUTBESTÄMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "Förordning (EU) 2015/2120 ska ändras på följande sätt:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "1. Rubriken ska ersättas med följande: ”Europaparlamentets och rådets förordning (EU) 2015/2120 av den 25 november 2015 om åtgärder rörande en öppen internetanslutning och slutkundsavgifter för reglerad kommunikation inom EU och om ändring av direktiv 2002/22/EG och förordning (EU) nr 531/2012”.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. I artikel 1 ska följande punkt läggas till: ”3. I denna förordning fastställs även gemensamma regler som ska säkerställa att konsumenter inte debiteras alltför höga priser för nummerbaserad interpersonell kommunikation som originerar i den medlemsstat där konsumentens nationella leverantör är etablerad och som terminerar i ett fast nummer eller mobilnummer i en annan medlemsstat.”",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. I artikel 2 andra stycket ska följande led läggas till: ”3. reglerad kommunikation inom EU: nummerbaserade interpersonella kommunikationstjänster som originerar i den medlemsstat där konsumentens nationella leverantör är etablerad och som terminerar i ett fast nummer eller ett mobilnummer i en annan medlemsstats nationella nummerplan, och som helt eller delvis debiteras baserat på faktisk konsumtion. 4. nummerbaserad interpersonell kommunikationstjänst: nummerbaserad interpersonell kommunikationstjänst enligt definitionen i artikel 2.6 i Europaparlamentets och rådets direktiv (EU) 2018/1972. (*1) Europaparlamentets och rådets direktiv (EU) 2018/1972 av den 11 december 2018 om inrättande av en europeisk kodex för elektronisk kommunikation (EUT L 321, 17.12.2018, s. 36).” \"",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Följande artikel ska införas: ”Artikel 5a Slutkundsavgifter för reglerad kommunikation inom EU 1. Från och med den 15 maj 2019 får inga slutkundspriser (exklusive mervärdesskatt) som konsumenter debiteras för reglerad kommunikation inom EU överstiga 0,19 EUR per minut för samtal och 0,06 EUR per sms-meddelande. 2. Trots skyldigheterna i punkt 1 får leverantörer av reglerad kommunikation inom EU dessutom erbjuda, och konsumenter får uttryckligen välja, en taxa för internationell kommunikation inklusive reglerad kommunikation inom EU som skiljer sig från den som fastställts i enlighet med punkt 1, genom vilken konsumenterna får en annan taxa för reglerad kommunikation inom EU än vad de skulle ha beviljats om inget sådant val hade gjorts. Innan konsumenter väljer en sådan annan taxa ska leverantören av reglerad kommunikation inom EU informera dem om vilka fördelar som de i ett sådant fall skulle gå miste om. 3. När en sådan taxa för reglerad kommunikation inom EU som avses i punkt 2 är högre än de tak som fastställs i punkt 1, ska konsumenter som inom en tvåmånadersperiod från den 15 maj 2019 inte har bekräftat eller uttryckt ett val av någon taxa som avses i punkt 2 automatiskt få de taxor som föreskrivs i punkt 1. 4. Konsumenter får kostnadsfritt byta till eller från de taxor som föreskrivs i punkt 1 inom en arbetsdag från det att leverantören mottar begäran, och leverantörer ska säkerställa att ett sådant byte inte är förenat med villkor eller restriktioner rörande andra delar av abonnemangen än reglerad kommunikation inom EU. 5. När de högsta tillåtna priser som avses i punkt 1 anges i en annan valuta än euron ska de första taken fastställas i de valutorna genom tillämpning av genomsnittet av de referensväxelkurser som offentliggjorts den 15 januari, den 15 februari och den 15 mars 2019 av Europeiska centralbanken i Europeiska unionens officiella tidning. Taken i andra valutor än euron ska revideras årligen från år 2020. De årligen reviderade taken i dessa valutor ska tillämpas från och med den 15 maj med användning av genomsnittet av de referensväxelkurser som offentliggjorts den 15 januari, den 15 februari och den 15 mars samma år. 6. De nationella regleringsmyndigheterna ska övervaka marknads- och prisutvecklingen för reglerad kommunikation inom EU och rapportera till kommissionen. Om en leverantör av reglerad kommunikation inom EU fastställer att tillämpningen av det tak som avses i punkt 1, på grund av specifika och exceptionella omständigheter som särskiljer den från de flesta andra leverantörer i unionen, skulle ha betydande inverkan på dess förmåga att behålla sina befintliga priser för inhemsk kommunikation får en nationell regleringsmyndighet på den leverantörens begäran bevilja ett undantag från punkt 1, dock endast i den utsträckning som det är nödvändigt och för en ettårsperiod med möjlighet till förlängning. Bedömningen av den nationella avgiftsmodellens hållbarhet ska grunda sig på relevanta objektiva faktorer som är specifika för leverantören av reglerad kommunikation inom EU och de nationella pris- och intäktsnivåerna. Om den ansökande leverantören har uppfyllt den gällande bevisbördan ska den nationella regleringsmyndigheten fastställa den högsta tillåtna prisnivå överstigande ett av eller båda de tak som anges i punkt 1 som är nödvändiga för att säkerställa att leverantörens nationella avgiftsmodell är hållbar. Berec ska offentliggöra riktlinjer för vilka parametrar som de nationella regleringsmyndigheterna ska beakta vid sina bedömningar.”",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. I artikel 6 ska följande punkt läggas till: ”Medlemsstaterna ska fastställa regler om sanktioner för överträdelser av artikel 5a och vidta alla nödvändiga åtgärder för att säkerställa att de tillämpas. Sanktionerna ska vara effektiva, proportionella och avskräckande. Medlemsstaterna ska till kommissionen senast den 15 maj 2019 anmäla de regler och åtgärder som fastställs för att säkerställa tillämpningen av artikel 5a samt, utan dröjsmål, eventuella ändringar som berör dem.”",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. I artikel 10 ska följande punkt läggas till: ”5. Artikel 5a ska upphöra att gälla den 14 maj 2024.”",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_51",
+   "kind": "article",
+   "number": "51",
+   "label": "Artikel 51",
+   "title": "Upphävande",
+   "path": [
+    "KAPITEL X — SLUTBESTÄMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "Förordning (EG) nr 1211/2009 ska upphöra att gälla.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Hänvisningar till den upphävda förordningen ska anses som hänvisningar till den här förordningen och läsas i enlighet med jämförelsetabellen i bilagan.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_52",
+   "kind": "article",
+   "number": "52",
+   "label": "Artikel 52",
+   "title": "Ikraftträdande",
+   "path": [
+    "KAPITEL X — SLUTBESTÄMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "Denna förordning träder i kraft den tredje dagen efter det att den har offentliggjorts i Europeiska unionens officiella tidning.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "anx_1",
+   "kind": "annex",
+   "number": "1",
+   "label": "BILAGA",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Jämförelsetabell",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Förordning (EG) nr 1211/2009 Denna förordning Artikel 1.1 Artikel 1 Artikel 1.2 Artikel 3.1 Artikel 1.3 Artikel 3.2 och 3.3 Artikel 1.4 Artikel 3.4 och artikel 4.1 a och b Artikel 2 Artikel 4 Artikel 3 Artikel 4 Artikel 4.1 Artikel 6 Artikel 4.2 Artikel 7.1, 7.2 och 7.4, artikel 8.1 och 8.2 Artikel 4.3 Artikel 11.4, 11.5 och artikel 36 Artikel 4.4 Artikel 10.1, 10.2 och 10.3 Artikel 4.5 Artikel 10.4 Artikel 4.6 Artikel 11 Artikel 4.7 Artikel 13 Artikel 4.8 Artikel 7.4 Artikel 4.9 Artikel 12.1 och 12.2 Artikel 4.10 Artikel 12.3 Artikel 4.11 Artikel 5 Artikel 5 Artikel 4 Artikel 6.1 Artikel 2.1 Artikel 6.2 Artikel 5 Artikel 6.3 Artikel 14.1 Artikel 6.4 Artikel 2.2 Artikel 6.5 Artikel 20 och artikel 31 Artikel 7.1 Artikel 15.1 Artikel 7.2 Artikel 32 Artikel 7.3 Artikel 20.6 Artikel 7.4 Artikel 16.1 k Artikel 7.5 Artikel 13 Artikel 8 Artikel 32 Artikel 9 Artikel 20 Artikel 10.1 Artikel 30 och artikel 34 Artikel 10.2 Artikel 16.1 j Artikel 10.3 Artikel 16.2 Artikel 10.4 Artikel 33 Artikel 11 Artikel 25 Artikel 12 Artikel 24 Artikel 13 Artikel 26 Artikel 14 — Artikel 15 Artikel 29 Artikel 16 Artikel 43 Artikel 17 Artikel 4.5 Artikel 18 Artikel 37 Artikel 19 Artikel 39 och artikel 40 Artikel 20 Artikel 38 Artikel 21 Artikel 42 Artikel 22 Artikel 36 Artikel 23 Artikel 34 Artikel 24 Artikel 44 Artikel 25 Artikel 48 Artikel 26 Artikel 52",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  }
+ ]
+}

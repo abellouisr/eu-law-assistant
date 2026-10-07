@@ -1,0 +1,16 @@
+# Secrets: never commit the API key
+.env
+.streamlit/secrets.toml
+
+# Data: the processed texts (data/corpus) and translations (data/i18n) are
+# committed so a hosted copy works without downloading anything. Raw
+# downloads, logs and check status stay local.
+data/raw/
+data/usage/
+data/feedback/
+data/live/
+*.tmp
+
+__pycache__/
+*.pyc
+.claude/

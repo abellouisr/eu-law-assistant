@@ -1,0 +1,2822 @@
+{
+ "document": "berec",
+ "version": "original",
+ "lang": "FI",
+ "meta": {
+  "source": "eurlex",
+  "celex": "32018R1971",
+  "kind": "original",
+  "date": "2018-12-11",
+  "built_at": "2026-10-07T10:10:14+00:00",
+  "sources_sha256": {
+   "32018R1971": "fd113afacf5585f65ade07404f3dd95eb35183cf3212be87e9cb0328e46ad223"
+  },
+  "counts": {
+   "article": 52,
+   "recital": 53,
+   "annex": 1
+  }
+ },
+ "provisions": [
+  {
+   "id": "rct_1",
+   "kind": "recital",
+   "number": "1",
+   "label": "(1)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Euroopan parlamentin ja neuvoston direktiivillä (EU) 2018/1972 on tarkoitus luoda sähköisen viestinnän sisämarkkinat unionissa ja varmistaa investointien, innovoinnin ja kuluttajansuojan korkea taso tehostamalla kilpailua. Kyseisellä direktiivillä annetaan myös Euroopan sähköisen viestinnän sääntelyviranomaisten yhteistyöelimelle, jäljempänä ”BEREC”, merkittävä määrä uusia tehtäviä, joihin kuuluu suuntaviivojen antaminen useista eri aiheista, teknisiä kysymyksiä koskeva raportointi, rekisterien, luettelojen tai tietokantojen ylläpito sekä lausuntojen antaminen markkinoiden sääntelyyn liittyviä kansallisia toimenpide-ehdotuksia koskevista sisämarkkinamenettelyistä.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_2",
+   "kind": "recital",
+   "number": "2",
+   "label": "(2)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Euroopan parlamentin ja neuvoston asetuksella (EU) N:o 531/2012 täydennetään ja tuetaan unionin laajuisten verkkovierailujen osalta sähköisen viestinnän sääntelykehyksessä annettuja sääntöjä ja säädetään BERECille tiettyjä tehtäviä.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_3",
+   "kind": "recital",
+   "number": "3",
+   "label": "(3)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Euroopan parlamentin ja neuvoston asetuksessa (EU) 2015/2120 annetaan BERECille lisätehtäviä avointa internetyhteyttä koskevien velvoitteiden täytäntöönpanossa. Lisäksi BERECin 30 päivänä elokuuta 2016 antamia suuntaviivoja siitä, miten kansallisten sääntelyviranomaisten on pantava täytäntöön Euroopan tietoverkon neutraaliutta koskevat säännöt, on pidetty erittäin myönteisinä ja arvokkaina selvennyksinä, joilla taataan vahva, vapaa ja avoin internet varmistamalla, että sovelletaan johdonmukaisesti sääntöjä, joilla turvataan tasa-arvoinen ja syrjimätön liikenteen käsittely internetyhteyspalvelujen tarjoamisessa ja niihin liittyvät loppukäyttäjien oikeudet.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_4",
+   "kind": "recital",
+   "number": "4",
+   "label": "(4)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ottaen huomioon tarpeen varmistaa sääntelykäytännön johdonmukainen kehittäminen ja unionin sääntelykehyksen johdonmukainen täytäntöönpano sähköisen viestinnän alalla komissio perusti päätöksellään 2002/627/EY sähköisen viestinnän verkkoja ja palveluja käsittelevän eurooppalaisen sääntelyviranomaisten ryhmän, jonka tehtävänä on neuvoa ja avustaa komissiota sähköisen viestinnän verkkojen ja -palvelujen sisämarkkinoiden kehittämisessä ja yleisemmin toimia yhteystahona kansallisten sääntelyviranomaisten ja komission välillä.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_5",
+   "kind": "recital",
+   "number": "5",
+   "label": "(5)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC ja virasto perustettiin Euroopan parlamentin ja neuvoston asetuksella (EY) N:o 1211/2009. BEREC korvasi eurooppalaisten sääntelyviranomaisten ryhmän tarkoituksenaan edistää yhtäältä sähköisten viestintäverkkojen ja -palvelujen sisämarkkinoiden kehittämistä ja toisaalta niiden parempaa toimintaa pyrkimällä varmistamaan, että sähköisen viestinnän sääntelykehys pannaan täytäntöön johdonmukaisesti. BEREC toimii foorumina kansallisten sääntelyviranomaisten keskinäiselle yhteistyölle sekä näiden viranomaisten ja komission väliselle yhteistyölle kaikkien unionin sääntelykehyksen mukaisten tehtävien hoidossa. BEREC perustettiin tarjoamaan asiantuntemusta ja toimimaan itsenäisesti ja avoimesti.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_6",
+   "kind": "recital",
+   "number": "6",
+   "label": "(6)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC toimii myös elimenä, joka pohtii sähköisen viestinnän alan kysymyksiä, keskustelee niistä ja antaa niitä koskevia neuvoja Euroopan parlamentille, neuvostolle ja komissiolle.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_7",
+   "kind": "recital",
+   "number": "7",
+   "label": "(7)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Virasto perustettiin yhteisön elimenä, jolla on oikeushenkilöllisyys, huolehtimaan asetuksessa (EY) N:o 1211/2009 tarkoitetuista tehtävistä, erityisesti asiantuntijatuen ja hallinnollisen tuen tarjoamisesta BERECille. Jotta virasto voisi tukea BERECiä tehokkaasti, sille annettiin oikeudellinen, hallinnollinen ja taloudellinen riippumattomuus.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_8",
+   "kind": "recital",
+   "number": "8",
+   "label": "(8)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Jäsenvaltioiden hallitusten edustajat päättivät päätöksellä 2010/349/EU, että viraston kotipaikka olisi Riiassa. Latvian tasavallan hallituksen ja viraston välinen kotipaikkasopimus tuli voimaan 5 päivänä elokuuta 2011.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_9",
+   "kind": "recital",
+   "number": "9",
+   "label": "(9)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Komissio ilmoitti 6 päivänä toukokuuta 2015 antamassaan tiedonannossa ”Digitaalisten sisämarkkinoiden strategia Euroopalle” esittävänsä vuonna 2016 ehdotuksia sähköisen viestinnän sääntelyjärjestelmän kunnianhimoisesta uudistamisesta muun muassa tehostamalla institutionaalista sääntelykehystä, jotta sähköisen viestinnän säännöt palvelisivat tarkoitustaan paremmin luotaessa otollisia olosuhteita digitaalisten sisämarkkinoiden toiminnalle. Tähän sisältyvät erittäin suurikapasiteettisten verkkojen käyttöönotto, radiotaajuuksien koordinoidumpi hallinta langattomissa verkoissa ja tasapuolisten toimintaedellytysten luominen edistyneille digitaaliverkoille ja innovatiivisille palveluille. Tiedonannossa todettiin, että markkina- ja teknologiaympäristön muutokset edellyttävät institutionaalisen kehyksen lujittamista vahvistamalla BERECin roolia.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_10",
+   "kind": "recital",
+   "number": "10",
+   "label": "(10)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Digitaalisten sisämarkkinoiden toimenpidepaketista 19 päivänä tammikuuta 2016 antamassaan päätöslauselmassa Euroopan parlamentti kehotti komissiota viemään digitaalisten sisämarkkinoiden yhdentymistä eteenpäin varmistamalla, että käytössä on entistä toimivammat institutionaaliset puitteet.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_11",
+   "kind": "recital",
+   "number": "11",
+   "label": "(11)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BERECillä ja virastolla on ollut myönteinen vaikutus sähköisen viestinnän sääntelykehyksen johdonmukaiseen täytäntöönpanoon. Jäsenvaltioiden välillä on kuitenkin edelleen huomattavia eroja sääntelykäytännöissä, mikä vaikuttaa kielteisesti rajat ylittävää liiketoimintaa harjoittaviin yrityksiin tai yrityksiin, jotka toimivat merkittävässä määrässä jäsenvaltioita, myös alueilla, joilla BERECin suuntaviivat ovat olemassa mutta joilla niitä voitaisiin kehittää edelleen. Jotta sähköisen viestinnän sisämarkkinoiden kehitystä voidaan tukea koko unionissa sekä edistää erittäin suuren kapasiteetin verkkojen saatavuutta ja käyttöönottoa, kilpailua sähköisten viestintäverkkojen ja -palvelujen ja liitännäistoimintojen tarjoamisessa sekä unionin kansalaisten etuja, tämän asetuksen tavoitteena on vahvistaa BERECin roolia. Tämä vahvistettu rooli täydentäisi myös sitä, että BERECin roolia on vahvistettu asetuksilla (EU) N:o 531/2012 ja (EU) 2015/2120 sekä direktiivillä (EU) 2018/1972.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_12",
+   "kind": "recital",
+   "number": "12",
+   "label": "(12)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ottaen huomioon markkinoiden ja teknologian kehitys, johon liittyy usein yhä merkittävämpi rajatylittävä ulottuvuus, ja kokemukset, jotka on tähän mennessä saatu pyrittäessä varmistamaan johdonmukainen täytäntöönpano sähköisen viestinnän alalla, on tarpeen edelleen kehittää BERECin ja viraston työtä. Niiden hallinnon ja toiminnan olisi oltava kevyitä ja hoidettaviin tehtäviin soveltuvia. Vahvistettujen menettelyjen sekä BERECille ja virastolle annettujen uusien tehtävien vuoksi sekä BERECin ja viraston toimivuuden tehostamiseksi niiden hallintoa olisi muutettava vakaammaksi ja päätöksentekoa yksinkertaistettava.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_13",
+   "kind": "recital",
+   "number": "13",
+   "label": "(13)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BERECin olisi tarjottava asiantuntemusta ja luotava luottamusta riippumattomuutensa, antamiensa neuvojen ja tietojen laadun, menettelyjensä ja toimintatapojensa avoimuuden sekä tehtäviensä hoitamisessa osoitetun huolellisuuden ansiosta. BERECin riippumattomuuden ei olisi estettävä sen sääntelyneuvostoa keskustelemasta työryhmien laatimien ehdotusten pohjalta.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_14",
+   "kind": "recital",
+   "number": "14",
+   "label": "(14)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Viraston virallisen nimen olisi oltava ”BERECin tukivirasto”, jäljempänä ”BEREC-virasto”. Nimeä ”BEREC-virasto” olisi käytettävä viraston lyhytnimenä. BEREC-virastolla olisi oltava oikeudellinen, hallinnollinen ja taloudellinen itsemääräämisoikeus. Tämän vuoksi on tarpeen ja asianmukaista, että BEREC-virasto olisi unionin elin, joka on oikeushenkilö ja joka käyttää sille annettua toimivaltaa. Unionin erillisvirastona BEREC-viraston olisi toimittava toimeksiantonsa ja olemassa olevien institutionaalisten puitteiden mukaisesti. Sen ei olisi katsottava edustavan unionin kantaa suhteessa ulkopuoliseen yleisöön tai sitovan unionia oikeudellisiin velvoitteisiin.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_15",
+   "kind": "recital",
+   "number": "15",
+   "label": "(15)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Lisäksi BEREC-viraston hallintoa ja toimintaa koskevien sääntöjen olisi mahdollisuuksien mukaan oltava Euroopan parlamentin, neuvoston ja komission erillisvirastoista 19 päivänä heinäkuuta 2012 antaman julkilausuman periaatteiden mukaisia.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_16",
+   "kind": "recital",
+   "number": "16",
+   "label": "(16)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Unionin toimielinten ja kansallisten sääntelyviranomaisten olisi hyödynnettävä BERECin apua ja neuvoja. Aiheina voisivat olla muun muassa asiaan liittyvän sääntelyn vaikutukset digitaalisten sisämarkkinoiden yleiseen dynamiikkaan tai suhteet kolmansiin osapuoliin, niiden kanssa käytävät keskustelut ja tietojenvaihto sekä sääntelyä koskevien parhaiden käytäntöjen tunnetuksi tekeminen kolmansille osapuolille. Komission julkiseen kuulemiseen osallistumisen lisäksi BERECin olisi pyynnöstä neuvottava komissiota säädösehdotusten laatimisessa. BERECin olisi myös voitava antaa Euroopan parlamentille ja neuvostolle neuvoja näiden pyynnöstä tai omasta aloitteestaan.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_17",
+   "kind": "recital",
+   "number": "17",
+   "label": "(17)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kansallisten sääntelyviranomaisten ja komission edustajista muodostuvana sähköisen viestinnän teknisenä asiantuntijaelimenä BERECillä on parhaat valmiudet saada tehtäväkseen osallistua tehokkaisiin markkinoiden sääntelyyn liittyviä kansallisia toimenpide-ehdotuksia koskeviin sisämarkkinamenettelyihin, antaa tarvittavat suuntaviivat kansallisille sääntelyviranomaisille ja muille asianomaisille toimivaltaisille viranomaisille yhteisten perusteiden ja johdonmukaisen sääntelyn varmistamiseksi sekä ylläpitää tiettyjä rekistereitä, tietokantoja ja luetteloja unionin tasolla. Tämä ei rajoita kansallisille sääntelyviranomaisille, jotka ovat lähimpänä sähköisen viestinnän markkinoita ja niiden paikallisia olosuhteita, annettuja tehtäviä.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_18",
+   "kind": "recital",
+   "number": "18",
+   "label": "(18)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Voidakseen hoitaa tehtäviään BERECin olisi jatkettava asiantuntemuksen kokoamista kansallisilta sääntelyviranomaisilta. BERECin olisi pyrittävä varmistamaan kaikkien kansallisten sääntelyviranomaisten osallistuminen sen sääntelytehtäviin ja toimintaan. BERECin vahvistamiseksi ja sen edustavuuden lisäämiseksi sekä kaikkien kansallisten markkinoiden erityistilannetta koskevan asiantuntijuuden, kokemuksen ja tietämyksen varmistamiseksi kunkin jäsenvaltion olisi varmistettava, että sen kansallisella sääntelyviranomaisella on riittävät taloudelliset resurssit ja henkilöresurssit täysipainoista BERECin työhön osallistumista varten.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_19",
+   "kind": "recital",
+   "number": "19",
+   "label": "(19)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Sähköisiä viestintäpalveluja tuottavien alojen jatkuva lähentyminen ja niiden kehitykseen liittyvien sääntelykysymysten monialaisuus huomioon ottaen BERECillä ja BEREC-virastolla olisi oltava mahdollisuus tehdä yhteistyötä kansallisten sääntelyviranomaisten, muiden unionin elinten, laitosten, virastojen ja neuvoa-antavien ryhmien kanssa, tämän kuitenkaan rajoittamatta niiden roolia. Kyseeseen tulevat erityisesti komission päätöksellä 2002/622/EY perustettu radiotaajuuspolitiikkaa käsittelevä ryhmä, Euroopan parlamentin ja neuvoston asetuksella (EU) 2018/1725 perustettu Euroopan tietosuojavaltuutetun toimi sekä Euroopan parlamentin ja neuvoston asetuksella (EU) 2016/679 perustettu Euroopan tietosuojaneuvosto, Euroopan parlamentin ja neuvoston direktiivillä 2010/13/EU perustettu audiovisuaalisten mediapalvelujen eurooppalaisten sääntelyviranomaisten ryhmä, Euroopan parlamentin ja neuvoston asetuksella (EU) N:o 526/2013 perustettu Euroopan unionin verkko- ja tietoturvavirasto, Euroopan parlamentin ja neuvoston asetuksella (EU) N:o 912/2010 perustettu Euroopan GNSS-virasto, Euroopan parlamentin ja neuvoston asetuksen (EY) N:o 2006/2004 mukaisesti perustettu kuluttajansuoja-asioiden yhteistyöverkosto, Euroopan kilpailuviranomaisten verkosto ja eurooppalaiset standardointiorganisaatiot sekä nykyiset komiteat (kuten viestintäkomitea ja radiotaajuuskomitea). BERECin ja BEREC-viraston olisi myös voitava tehdä yhteistyötä jäsenvaltioiden toimivaltaisten kilpailu-, kuluttajansuoja- ja tietosuojaviranomaisten kanssa sekä kolmansien maiden toimivaltaisten viranomaisten kanssa, erityisesti sähköisen viestinnän alalla toimivaltaisten sääntelyviranomaisten tai kyseisten viranomaisten muodostamien ryhmien kanssa sekä kansainvälisten järjestöjen kanssa, jos tämä on tarpeen niiden tehtävien hoitamiseksi. BERECin olisi myös voitava kuulla sidosryhmiä julkisten kuulemisten avulla.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_20",
+   "kind": "recital",
+   "number": "20",
+   "label": "(20)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BERECin olisi voitava sopia toimivaltaisen unionin elinten, laitosten, virastojen ja neuvoa-antavien ryhmien, kolmansien maiden toimivaltaisten viranomaisten ja kansainvälisten järjestöjen kanssa työjärjestelyistä, joista ei seuraa oikeudellisia velvoitteita. Tällaisten työjärjestelyjen tavoitteena voisi olla esimerkiksi yhteistyösuhteiden kehittäminen ja näkemysten vaihto sääntelykysymyksistä. Komission olisi varmistettava, että tarvittavat työjärjestelyt ovat johdonmukaisia unionin politiikan ja prioriteettien kanssa ja että BEREC toimii toimeksiantonsa ja olemassa olevien institutionaalisten puitteiden mukaisesti eikä sen katsota edustavan unionin kantaa suhteessa ulkopuoliseen yleisöön tai sitovan unionia kansainvälisiin velvoitteisiin.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_21",
+   "kind": "recital",
+   "number": "21",
+   "label": "(21)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BERECin olisi koostuttava sääntelyneuvostosta ja työryhmistä. Sääntelyneuvoston kiertävällä puheenjohtajuudella on tarkoitus varmistaa BERECin työn jatkuvuus. Kansallisia sääntelyviranomaisia edustavien varapuheenjohtajien kiertoa olisi myös edistettävä.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_22",
+   "kind": "recital",
+   "number": "22",
+   "label": "(22)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BERECin olisi voitava toimia unionin etujen mukaisesti riippumatta kaikesta ulkoisesta väliintulosta, kuten poliittisesta painostuksesta tai kaupallisesta puuttumisesta. Näin ollen on tärkeää varmistaa, että sääntelyneuvostoon nimitetyillä jäsenillä on ehdottomat takeet henkilökohtaisesta ja toiminnallisesta riippumattomuudesta. Kansallisen sääntelyviranomaisen johtajalla tai sen kollegiaalisen elimen jäsenillä taikka heidän varajäsenillään on tällainen henkilökohtainen ja toiminnallinen riippumattomuus. Tarkemmin ilmaistuna heidän olisi toimittava riippumattomasti ja puolueettomasti eivätkä he saisi tehtäviensä hoidossa pyytää tai ottaa vastaan ohjeita ja heillä olisi oltava suoja mielivaltaiselta irtisanomiselta. Varajäsenen tehtävästä voisi jäsenen poissa ollessa vastata myös kansallisen sääntelyviranomaisen johtaja, sen kollegiaalisen elimen jäsen, heidän varajäsenensä tai muu kansallisen sääntelyviranomaisen henkilöstöön kuuluva, joka toimii sääntelyneuvoston jäsenen puolesta ja tämän valtuuksien mukaisesti.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_23",
+   "kind": "recital",
+   "number": "23",
+   "label": "(23)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kokemus on osoittanut, että useimmat BERECin tehtävät voidaan hoitaa paremmin työryhmien kautta. Työryhmien olisi aina varmistettava, että kaikkien kansallisten sääntelyviranomaisten näkemykset ja kannanotot otetaan yhdenvertaisesti huomioon. Sääntelyneuvoston olisi sen vuoksi vastattava työryhmien perustamisesta ja yhteispuheenjohtajien nimittämisestä. Kansallisten sääntelyviranomaisten olisi nopeasti vastattava nimityspyyntöön, jotta työryhmien nopea perustaminen voitaisiin varmistaa, erityisesti niiden liittyessä menettelyihin, joilla on määräajat. Komission asiantuntijoiden olisi voitava osallistua työryhmien toimintaan. BEREC-viraston henkilöstön olisi annettava tukea työryhmille ja osallistuttava niiden toimintaan.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_24",
+   "kind": "recital",
+   "number": "24",
+   "label": "(24)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Sääntelyneuvoston ja hallintoneuvoston olisi tarvittaessa ja tapauskohtaisesti voitava kutsua kokouksiinsa tarkkailijoina henkilöitä, joiden lausunnoilla voi olla merkitystä.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_25",
+   "kind": "recital",
+   "number": "25",
+   "label": "(25)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Tarvittaessa ja riippuen tehtävien jaosta viranomaisille kussakin jäsenvaltiossa muiden toimivaltaisten viranomaisten näkemykset olisi otettava huomioon asianomaisessa työryhmässä, esimerkiksi järjestämällä kuulemisia kansallisella tasolla tai kutsumalla nämä muut viranomaiset asiaa koskeviin kokouksiin silloin, kun niiden kokemus on tarpeen. BERECin riippumattomuus olisi varmistettava kaikissa tilanteissa.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_26",
+   "kind": "recital",
+   "number": "26",
+   "label": "(26)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Sääntelyneuvoston ja hallintoneuvoston olisi toimittava rinnakkain. Ensin mainitun olisi päätettävä pääasiassa sääntelyyn ja jälkimmäisen hallintoon, kuten talousarvioon, henkilöstöön ja tilintarkastukseen, liittyvistä asioista. Komission edustajien lisäksi hallintoneuvostossa olevien kansallisten sääntelyviranomaisten edustajien olisi periaatteessa oltava samat henkilöt kuin sääntelyneuvostossa, mutta kansallisilla sääntelyviranomaisilla olisi lisäksi oltava mahdollisuus nimittää muita edustajia, jotka täyttävät samat vaatimukset.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_27",
+   "kind": "recital",
+   "number": "27",
+   "label": "(27)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Nimittävän viranomaisen toimivaltaa käytti aiemmin viraston johtokunnan varapuheenjohtaja. Tässä asetuksessa säädetään, että hallintoneuvosto delegoi nimittävän viranomaisen toimivallan johtajalle, jolla on valtuudet siirtää tämä toimivalta edelleen. Tämän on tarkoitus edistää BEREC-viraston tehokasta henkilöstöhallintoa.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_28",
+   "kind": "recital",
+   "number": "28",
+   "label": "(28)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Sääntelyneuvoston ja hallintoneuvoston olisi pidettävä vähintään kaksi sääntömääräistä kokousta vuodessa. Ottaen huomioon aiemmat kokemukset ja BERECin vahvistettu rooli sääntelyneuvoston ja hallintoneuvoston voi olla tarpeen järjestää ylimääräisiä kokouksia.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_29",
+   "kind": "recital",
+   "number": "29",
+   "label": "(29)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Johtajan olisi edelleen oltava BEREC-viraston edustaja oikeudellisissa ja hallinnollisissa asioissa. Hallintoneuvoston olisi nimitettävä johtaja avointa ja läpinäkyvää menettelyä noudattaen, jotta hakijoiden tinkimätön arviointi ja riippumattomuuden korkea taso voidaan taata. Viraston hallintojohtajan toimikausi oli aiemmin kolme vuotta. Johtajan toimeksiannon olisi oltava riittävän pitkä, jotta varmistetaan BEREC-viraston pitkän aikavälin strategian vakaus ja täyttäminen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_30",
+   "kind": "recital",
+   "number": "30",
+   "label": "(30)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC-virastoon olisi sovellettava komission delegoitua asetusta (EU) N:o 1271/2013.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_31",
+   "kind": "recital",
+   "number": "31",
+   "label": "(31)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC-viraston olisi annettava BERECin työtä varten kaikkea tarpeellista asiantuntijatukea ja hallinnollista tukea sekä taloudellista, organisatorista ja logistista tukea sekä osallistuttava BERECin sääntelytyöhön.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_32",
+   "kind": "recital",
+   "number": "32",
+   "label": "(32)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC-viraston itsemääräämisoikeuden ja riippumattomuuden takaamiseksi sekä BERECin työn tukemiseksi BEREC-virastolla olisi oltava oma talousarvio, jonka varojen olisi muodostuttava suurimmaksi osaksi unionin rahoitusosuudesta. Talousarvion olisi oltava riittävä, ja siinä olisi otettava huomioon annetut uudet tehtävät sekä BERECin ja BEREC-viraston vahvistettu rooli. BEREC-viraston rahoittamisen olisi edellytettävä budjettivallan käyttäjän suostumusta talousarviota koskevasta kurinalaisuudesta, talousarvioyhteistyöstä ja moitteettomasta varainhoidosta 2 päivänä joulukuuta 2013 tehdyn Euroopan parlamentin, neuvoston ja komission välisen toimielinten sopimuksen 31 kohdan mukaisesti.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_33",
+   "kind": "recital",
+   "number": "33",
+   "label": "(33)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC-virastolla olisi oltava tehtäviensä hoitamiseen riittävästi henkilöstöä. Kaikkia BEREC-virastolle annettuja tehtäviä, myös ammatillisia ja hallinnollisia palveluja, jotka tukevat BERECiä sen sääntelytehtävien hoitamisessa, ja rahoitus-, henkilöstö- ja muiden sovellettavien säännösten noudattamista sekä BEREC-virastolta edellytettyjen operatiivisten tehtävien yhä suurempaa painoarvoa hallinnollisiin tehtäviin verrattuna, olisi arvioitava asianmukaisesti, ja ne olisi otettava huomioon resursseja koskevassa ohjelmasuunnittelussa.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_34",
+   "kind": "recital",
+   "number": "34",
+   "label": "(34)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Sähköisen viestinnän sääntelykehyksen johdonmukaisen täytäntöönpanon jatkamiseksi sääntelyneuvoston, työryhmien ja hallintoneuvoston olisi oltava avoinna sähköisen viestinnän alalla toimivaltaisten sääntelyviranomaisten osallistumiselle kolmansista maista, jos nämä kolmannet maat ovat tehneet unionin kanssa tätä koskevan sopimuksen, kuten ETA:n EFTA-valtioista ja ehdokasmaista.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_35",
+   "kind": "recital",
+   "number": "35",
+   "label": "(35)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Avoimuusperiaatteen mukaisesti BERECin ja BEREC-viraston olisi tarvittaessa julkaistava verkkosivustollaan tietoja työstään. Erityisesti BERECin olisi julkistettava kaikki lopulliset asiakirjat, jotka julkaistaan sen tehtävien hoitamisen yhteydessä, kuten lausunnot, suuntaviivat, raportit, suositukset, yhteiset kannat ja parhaat käytännöt sekä kaikki tutkimukset, jotka teetetään sen tehtävien tueksi. BERECin ja BEREC-viraston olisi myös julkistettava ajan tasalla olevat luettelot tehtävistään sekä elintensä jäsenistä, varajäsenistä ja kokousten muista osallistujista sekä sääntelyneuvoston jäsenten, hallintoneuvoston jäsenten ja johtajan antamat selvitykset sidonnaisuuksistaan.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_36",
+   "kind": "recital",
+   "number": "36",
+   "label": "(36)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BERECin olisi BEREC-viraston tuella voitava harjoittaa toimivaltansa alalla tiedotustoimintaa, joka ei saisi haitata BERECin keskeisiä tehtäviä. BERECin tiedotusstrategian olisi oltava sisällöltään ja täytäntöönpanoltaan johdonmukainen, puolueeton, tarkoituksenmukainen ja yhteensovitettu komission ja muiden toimielinten strategioiden ja toimien kanssa, jotta voidaan ottaa huomioon unionin laajempi julkisuuskuva. BEREC-viraston tiedotustoimet olisi toteutettava hallintoneuvoston hyväksymien tiedotusta ja viestintää koskevien suunnitelmien mukaisesti.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_37",
+   "kind": "recital",
+   "number": "37",
+   "label": "(37)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Voidakseen hoitaa tehtävänsä tehokkaasti BERECillä ja BEREC-virastolla olisi oltava oikeus pyytää kaikki tarpeelliset tiedot komissiolta, kansallisilta sääntelyviranomaisilta ja viimeisenä keinona muilta viranomaisilta ja yrityksiltä. Tietopyyntöjen olisi oltava perusteltuja ja oikein suhteutettuja eivätkä ne saisi aiheuttaa kohtuutonta rasitetta niille, joille ne on osoitettu. Kansallisten sääntelyviranomaisten olisi tehtävä yhteistyötä BERECin ja BEREC-viraston kanssa ja annettava niiden käyttöön ajantasaiset ja tarkat tiedot, jotta BEREC ja BEREC-virasto pystyvät täyttämään tehtävänsä. BERECin ja BEREC-viraston olisi myös annettava vilpittömän yhteistyön periaatteen pohjalta tarvittavat tiedot komissiolle, kansallisille sääntelyviranomaisille ja muille toimivaltaisille viranomaisille. Tietojen luottamuksellisuus olisi tarvittaessa varmistettava. Arvioidessaan, onko pyyntö asianmukaisesti perusteltu, BERECin olisi otettava huomioon, liittyykö pyydetty tieto sellaisten tehtävien hoitamiseen, jotka on annettu yksinomaan asianomaisten viranomaisten suoritettaviksi.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_38",
+   "kind": "recital",
+   "number": "38",
+   "label": "(38)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC-viraston olisi luotava yhteinen tieto- ja viestintäjärjestelmä, jotta vältetään päällekkäisyyksiä tietojen pyytämisessä ja helpotetaan yhteydenpitoa kaikkien osallistuvien viranomaisten välillä.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_39",
+   "kind": "recital",
+   "number": "39",
+   "label": "(39)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Jotta korkea luottamuksellisuuden taso voidaan varmistaa ja välttää eturistiriitoja, BERECin ja BEREC-viraston elinten jäseniin sovellettavia asiaan liittyviä sääntöjä olisi sovellettava heidän varajäseniinsä.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_40",
+   "kind": "recital",
+   "number": "40",
+   "label": "(40)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Koska tämä asetus antaa BERECille ja BEREC-virastolle uusia tehtäviä ja niille voidaan osoittaa unionin säädöksillä vielä uusia tehtäviä, komission olisi arvioitava säännöllisesti BERECin ja BEREC-viraston toimintaa sekä tämän institutionaalisen rakenteen toimivuutta muuttuvassa digitaalisessa ympäristössä. Jos kyseisen arvioinnin tuloksena komissio toteaa, että institutionaalinen rakenne ei sovellu BERECin ja BEREC-viraston tehtävien hoitamiseen eikä etenkään sähköisen viestinnän sääntelykehyksen johdonmukaisen täytäntöönpanon varmistamiseen, sen olisi tarkasteltava kaikkia mahdollisia vaihtoehtoja rakenteen parantamiseksi.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_41",
+   "kind": "recital",
+   "number": "41",
+   "label": "(41)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Tällä asetuksella perustettu BEREC-virasto toimii kaikkien omistusten, sopimusten, myös kotipaikkasopimuksen, oikeudellisten velvoitteiden, työsopimusten, taloudellisten sitoumusten ja vastuiden osalta seuraajana virastolle, joka perustettiin asetuksella (EY) N:o 1211/2009 yhteisön elimenä, jolla on oikeushenkilöllisyys. BEREC-viraston olisi otettava palvelukseen viraston henkilöstö tämän vaikuttamatta sen oikeuksiin ja velvollisuuksiin. BERECin ja viraston työn jatkuvuuden varmistamiseksi niiden edustajien eli sääntelyneuvoston puheenjohtajan ja varapuheenjohtajien, hallintoneuvoston ja hallintojohtajan olisi hoidettava tehtäviään koko nykyisen toimikautensa ajan.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_42",
+   "kind": "recital",
+   "number": "42",
+   "label": "(42)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Merkittävä joukko kuluttajia useimmissa jäsenvaltioissa turvautuu kansainvälisessä viestinnässä edelleen perinteisiin välineisiin, kuten puhelimeen ja tekstiviesteihin, siitä huolimatta, että yhä useammalla kuluttajalla on kansainvälisiä viestintätarpeita varten käytettävissä numeroista riippumattomia henkilöiden välisiä viestintäpalveluja perinteisiä palveluja edullisemmin hinnoin tai kokonaan maksutta.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_43",
+   "kind": "recital",
+   "number": "43",
+   "label": "(43)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Vuonna 2013 komissio ehdotti vaikutustenarvioinnilla varustettua asetusta, johon sisältyisi säännös EU:n sisäiseen viestintään sovellettavista toimenpiteistä. BEREC ja komissio keräsivät vuosina 2017–2018 lisätietoja EU:n sisäisistä viestintämarkkinoista komission tutkimuksen ja Eurobarometrin pohjalta. Tietojen perusteella sekä kiinteiden että matkapuhelinliittymien hinnoissa on suuria eroja maan sisäisten ja toiseen jäsenvaltioon suunnattavien puhelujen ja tekstiviestien välillä, ja hinnat vaihtelevat huomattavasti maasta, palveluntarjoajasta tai tariffiyhdistelmästä riippuen sekä matkaviestin- ja kiinteässä verkossa tarjottavien ääniviestintäpalvelujen välillä. Yleisesti saatavilla olevien numeroihin perustuvien henkilöiden välisten viestintäpalveluiden palveluntarjoajat veloittavat usein käyttöperusteisia EU:n sisäisiä viestintäpalvelujen hintoja, jotka ylittävät selvästi kotimaan tariffien sekä lisämaksujen määrän. Keskimäärin kiinteästä puhelimesta tai matkapuhelimesta soitetun EU:n sisäisen puhelun vakiohinta on kolme kertaa korkeampi kuin kotimaanpuhelun vakiohinta ja EU:n sisäisen tekstiviestin hinta yli kaksinkertainen verrattuna kotimaan sisällä lähetettyyn viestiin. Keskiarvojen takana on kuitenkin suuria hintaeroja monissa jäsenvaltioissa. Joissakin tapauksissa EU:n sisäisen puhelun vakiohinta voi olla kahdeksan kertaa korkeampi kuin kotimaan puheluiden vakiohinta. Tämän vuoksi asiakkaat monissa jäsenvaltioissa joutuvat maksamaan hyvin korkeita hintoja EU:n sisäisestä viestinnästä. Kyseiset korkeat hinnat vaikuttavat pääasiassa kuluttajiin, erityisesti niihin, jotka käyttävät tällaista viestintää harvoin tai joilla kulutus on vähäinen, ja tällaisia kuluttajia on valtaenemmistö EU:n sisäistä viestintää käyttävistä kuluttajista. Samalla useat palvelujen tarjoajat tarjoavat erityisen houkuttelevia tarjouksia yritysasiakkaille sekä kuluttajille, jotka käyttävät huomattavan paljon EU:n sisäistä viestintää. Tällaisissa tarjouksissa laskutus ei usein perustu todelliseen kulutukseen ja voi muodostua tietystä määrästä EU:n sisäisiä puheluminuutteja tai tekstiviestejä, joille on määritelty kiinteä kuukausihinta (lisäpalvelutarjoukset) tai niihin voi sisältyä kuukausittain tietty määrä EU:n sisäisiä minuutteja tai tekstiviestejä joko ilman lisämaksua tai pienen lisämaksun kanssa. Usein tällaisten tarjouksien ehdot eivät kuitenkaan ole houkuttelevia kuluttajille, jotka käyttävät vain satunnaisesti, ennalta määräämättömästi tai suhteellisen niukasti EU:n sisäistä viestintää. Tämän vuoksi vaarana on, että kyseiset kuluttajat joutuvat maksamaan kohtuuttomia hintoja EU:n sisäisestä viestinnästä, ja heitä olisi suojeltava niiltä.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_44",
+   "kind": "recital",
+   "number": "44",
+   "label": "(44)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Lisäksi EU:n sisäisen viestinnän korkeat hinnat synnyttävät esteen sisämarkkinoiden toiminnalle, sillä ne eivät kannusta etsimään eivätkä hankkimaan tavaroita ja palveluja toisessa jäsenvaltiossa sijaitsevalta tarjoajalta. Sen vuoksi korkeiden hintojen poistamiseksi on tarpeen asettaa erityiset ja oikeasuhteiset rajat hinnoille, joita julkisesti saatavilla olevien henkilöiden välisten numeroihin perustuvien viestintäpalvelujen palveluntarjoajat saavat laskuttaa EU:n sisäistä viestintää käyttäviltä kuluttajilta.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_45",
+   "kind": "recital",
+   "number": "45",
+   "label": "(45)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kun julkisesti saatavilla olevien henkilöiden välisten numeroihin perustuvien viestintäpalvelujen palveluntarjoajat laskuttavat kuluttajiltaan EU:n sisäisestä viestinnästä määriä, jotka perustuvat kokonaan tai osittain tällaisten palvelujen kuluttamiseen, muun muassa tapauksissa, joihin kuuluu kulutusperusteinen vähennys kuukausittaisesta tai etukäteen maksetusta määrästä, summat eivät saisi ylittää 0,19 euron hintaa puheluilta eivätkä 0,06 euron hintaa tekstiviestiltä. Nämä hintakatot vastaavat enimmäishintoja, joita nykyään sovelletaan säänneltyihin verkkovierailupuheluihin ja -tekstiviesteihin. Unionissa tapahtuvissa verkkovierailuissa kuluttajia suojaavat puheluita ja tekstiviestejä koskevat eurotariffit, jotka on vaiheittain korvattu lisämaksuttomilla verkkovierailuilla. Tällaiset hintakatot ovat myös sopiva vertailukohta asetettaessa viideksi vuodeksi enimmäishinta säännellylle EU:n sisäiselle viestinnälle 15 päivästä toukokuuta 2019 alkaen. Nykyinen enimmäismäärän taso on yksinkertainen, avoin ja testattu turvaverkko korkeita hintoja vastaan ja sopii kaiken rajat ylittävän säännellyn EU:n sisäisen viestinnän vähittäishintojen enimmäismääräksi. EU:n sisäisillä verkkovierailupuheluilla ja EU:n sisäisillä puheluilla on samanlainen hintarakenne.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_46",
+   "kind": "recital",
+   "number": "46",
+   "label": "(46)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Hintakattojen olisi annettava julkisesti saatavilla olevien henkilöiden välisten numeroihin perustuvien viestintäpalvelujen palveluntarjoajille mahdollisuus kattaa kustannuksia ja varmistaa näin oikeasuhteinen toiminta sekä matkapuhelin- että kiinteistä liittymistä soitettavien puheluiden markkinoilla. Hintakattoja sovelletaan suoraan vain todelliseen kulutukseen perustuviin hintoihin. Niiden olisi myös tuotava kurinalaisuutta tarjouksiin, joissa tarjouksiin sisältyy tietty määrä EU:n sisäistä viestintää, jota ei laskuteta erikseen, koska kuluttajilla on mahdollisuus siirtyä kulutukseen perustuvaan tariffiin EU:n sisäisessä viestinnässään. Niille EU:n sisäisen viestinnän määrille, jotka ylittävät pakettiin sisällytetyn määrän ja laskutetaan erikseen, olisi asetettava hintakatto. Toimenpiteellä olisi varmistettava suhteutetulla tavalla, että EU:n sisäistä viestintää vähän käyttävät kuluttajat suojataan korkeilta hinnoilta, ja samalla niillä olisi oltava vain vähäinen vaikutus palveluntarjoajiin.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_47",
+   "kind": "recital",
+   "number": "47",
+   "label": "(47)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Julkisesti saatavilla olevien henkilöiden välisten numeroihin perustuvien viestintäpalvelujen palveluntarjoajien olisi kyettävä tarjoamaan kuluttajilleen vaihtoehtoisia kansainvälisen viestinnän hinnoitteluja, joissa on erilaiset hinnat säännellylle EU:n sisäiselle viestinnälle; kuluttajilla olisi oltava vapaus valita nimenomaisesti tällaisia tarjouksia, ja heillä olisi oltava aina mahdollisuus palata maksutta käyttämään aiemmin käyttämiään tarjouksia – myös sellaisia, joista he ovat tehneet sopimuksia ennen tällaisten säännösten voimaantuloa. Tarjoaja olisi voitava vapauttaa velvoitteestaan olla ylittämättä säänneltyjä EU:n sisäisen viestinnän enimmäishintoja vain silloin, kun kyseessä ovat vaihtoehtoiset kansainvälistä viestintää koskevat tarjoukset, kuten kaikki tai jotkin kolmannet maat kattavat tarjoukset silloin, kun kuluttaja hyväksyy ne. Muut lisäedut, kuten palveluntarjoajien kuluttajille tarjoamat päätelaitteet tai alennukset muista sähköisistä viestintäpalveluista, kuuluvat normaaleihin kilpailumenettelyihin, eivätkä ne saisi vaikuttaa hintakattojen sovellettavuuteen säännellyssä EU:n sisäisessä viestinnässä.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_48",
+   "kind": "recital",
+   "number": "48",
+   "label": "(48)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Hintakattojen määrittely säännellylle EU:n sisäiselle viestinnälle saattaa vaikuttaa joihinkin julkisesti saatavilla olevien henkilöiden välisten numeroihin perustuvien viestintäpalvelujen palveluntarjoajiin huomattavasti enemmän kuin useimpiin muihin tarjoajiin. Näin saattaisi olla erityisesti niiden palveluntarjoajien osalta, joiden tuloista tai liikevoitosta erityisen suuri osa on peräisin säännellystä EU:n sisäisestä viestinnästä tai joiden kotimainen kate on alhainen toimialan vertailukohteisiin nähden. EU:n sisäisestä viestinnästä saatavan voittomarginaalin supistumisen johdosta palveluntarjoaja ei ehkä pystyisi säilyttämään kotimaan hinnoittelumallia. Tällaiset skenaariot ovat hyvin epätodennäköisiä, koska enimmäishinnat ovat selkeästi korkeammat kuin EU:n sisäistä viestintää koskevien palvelujen tarjoamisen kustannukset. Tällaisten poikkeuksellisten skenaarioiden käsittelemiseksi oikeasuhtaisella tavalla kansallisten sääntelyviranomaisten olisi kuitenkin voitava myöntää tällaiselle palveluntarjoajalle pyydettäessä poikkeus perustelluissa ja poikkeuksellisissa tapauksissa.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_49",
+   "kind": "recital",
+   "number": "49",
+   "label": "(49)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Poikkeuksia olisi myönnettävä vain silloin, kun palveluntarjoaja voi osoittaa BERECin vahvistaman vertailuarvon perusteella, että siihen kohdistuu huomattavasti suurempi vaikutus kuin useimpiin muihin palveluntarjoajiin unionissa ja että tämä voisi heikentää merkittävällä tavalla palveluntarjoajan edellytyksiä säilyttää laskutusmallinsa kotimaan viestinnässä. Kun kansallinen sääntelyviranomainen myöntää poikkeuksen, sen olisi määriteltävä enimmäishintataso, jota palveluntarjoaja voisi soveltaa säännellyssä EU:n sisäisessä viestinnässä ja joka mahdollistaisi sen, että palveluntarjoaja voisi säilyttää kilpailukykyisen hintatason kotimaan viestinnässä. Kaikkien tällaisten poikkeuksien kesto olisi rajoitettava yhteen vuoteen, ja ne olisi voitava uusia, jos palveluntarjoaja voi osoittaa, että poikkeuksen ehdot täyttyvät edelleen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_50",
+   "kind": "recital",
+   "number": "50",
+   "label": "(50)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Suhteellisuusperiaatteen valossa enimmäishinnan sovellettavuuden olisi säännellyssä EU:n sisäisessä viestinnässä oltava ajallisesti rajoitettu ja sen voimassaolon olisi päätyttävä viisi vuotta voimaantulon jälkeen. Tällaisen rajoitetun keston olisi mahdollistettava asianmukainen arvio toimenpiteiden vaikutuksesta sekä siitä, missä määrin kuluttajien suojeleminen on edelleen tarpeen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_51",
+   "kind": "recital",
+   "number": "51",
+   "label": "(51)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Jotta kuluttajille, joihin EU:n sisäisen viestinnän merkittävät hintaerot ovat vaikuttaneet haitallisesti, voitaisiin taata unionin laajuinen johdonmukainen, oikea-aikainen ja mahdollisimman tehokas suoja, tällaisten säännösten olisi oltava suoraan sovellettavissa ja osa asetusta. Sopivin asetus tähän tarkoitukseen on asetus (EU) 2015/2120, joka annettiin vaikutustenarvioinnin perusteella, jossa ehdotettiin muun muassa EU:n sisäistä viestintää koskevaa säännöstä keinona täydentää sähköisen viestinnän sisämarkkinoita. Todennäköiset vaikutukset EU:n sisäisestä viestinnästä kertyneeseen palveluntarjoajien liikevaihtoon pienenisivät, kun puheluita ja tekstiviestejä verkkovierailussa koskevia eurotariffeja sovelletaan hintakattoina niin kiinteistä kuin matkapuhelinliittymistä tapahtuvaan viestintään; osoituksena tästä on BERECin vuonna 2018 julkaisema tarkastelu, jossa toimenpiteen todetaan vähentäneen huomattavasti asiaan liittyvää kiinteistä liittymistä tapahtuvaa viestiliikennettä aikana, jolloin toimenpidettä on sovellettu. Nämä säännökset olisi näin ollen sisällytettävä muutoksena asetukseen (EU) 2015/2120, jota olisi myös mukautettava, jotta voitaisiin varmistaa, että jäsenvaltiot hyväksyvät tällaisten säännösten rikkomisesta aiheutuvia seuraamuksia koskevat säännöt.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_52",
+   "kind": "recital",
+   "number": "52",
+   "label": "(52)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Jäsenvaltiot eivät voi riittävällä tavalla saavuttaa tämän asetuksen tavoitteita eli varmistaa sähköisen viestinnän sääntelykehyksen johdonmukaista täytäntöönpanoa varsinkaan rajatylittävissä näkökohdissa ja kansallisia toimenpide-ehdotuksia koskevissa tehokkaissa sisämarkkinamenettelyissä eivätkä varmistaa, että kuluttajilta ei laskuteta kohtuuttomia hintoja numeroihin perustuvien henkilöiden välisten viestintäpalvelujen käytöstä, kun yhteys otetaan kuluttajan kotimaan palveluntarjoajan jäsenvaltiosta toisessa jäsenvaltiossa sijaitsevaan kiinteään tai matkapuhelinliittymään. vaan ne voidaan toiminnan vaikutusten ja laajuuden vuoksi saavuttaa paremmin unionin tasolla. Sen vuoksi unioni voi toteuttaa toimenpiteitä Euroopan unionista tehdyn sopimuksen 5 artiklassa vahvistetun toissijaisuusperiaatteen mukaisesti. Mainitussa artiklassa vahvistetun suhteellisuusperiaatteen mukaisesti tässä asetuksessa ei ylitetä sitä, mikä on tarpeen näiden tavoitteiden saavuttamiseksi.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_53",
+   "kind": "recital",
+   "number": "53",
+   "label": "(53)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Tällä asetuksella muutetaan ja laajennetaan asetuksen (EY) N:o 1211/2009 säännöksiä. Koska tehtävät muutokset ovat merkittäviä, kyseinen säädös olisi selkeyden vuoksi kumottava. Viittauksia kumottuun asetukseen olisi pidettävä viittauksina tähän asetukseen,",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_1",
+   "kind": "article",
+   "number": "1",
+   "label": "1 artikla",
+   "title": "Kohde ja soveltamisala",
+   "path": [
+    "LUKU I — KOHDE JA SOVELTAMISALA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Tällä asetuksella perustetaan Euroopan sähköisen viestinnän sääntelyviranomaisten yhteistyöelin, jäljempänä ”BEREC”, ja BERECin tukivirasto, jäljempänä ”BEREC-virasto”.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC ja BEREC-virasto korvaavat asetuksella (EY) N:o 1211/2009 perustetut Euroopan sähköisen viestinnän sääntelyviranomaisten yhteistyöelimen ja viraston.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_2",
+   "kind": "article",
+   "number": "2",
+   "label": "2 artikla",
+   "title": "BEREC-viraston oikeushenkilön asema",
+   "path": [
+    "LUKU I — KOHDE JA SOVELTAMISALA"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC-virasto on unionin elin. Se on oikeushenkilö.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC-virastolla on kussakin jäsenvaltiossa laajin kansallisen lainsäädännön mukaan oikeushenkilöllä oleva oikeuskelpoisuus. Sen on erityisesti voitava hankkia ja luovuttaa kiinteää ja irtainta omaisuutta sekä olla asianosaisena oikeudenkäynneissä.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC-virastoa edustaa sen johtaja.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. BEREC-virastolla on yksinomainen vastuu sille annetuista tehtävistä ja toimivaltuuksista.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. BEREC-viraston kotipaikka on Riika.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_3",
+   "kind": "article",
+   "number": "3",
+   "label": "3 artikla",
+   "title": "BERECin tavoitteet",
+   "path": [
+    "II LUKU — BERECin TAVOITTEET JA TEHTÄVÄT"
+   ],
+   "blocks": [
+    {
+     "text": "1. BERECin toiminta kuuluu asetusten (EU) N:o 531/2012 ja (EU) 2015/2120 sekä direktiivin (EU) 2018/1972 soveltamisalaan.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BERECin on pyrittävä direktiivin (EU) 2018/1972 3 artiklassa asetettuihin tavoitteisiin. BERECin on erityisesti pyrittävä varmistamaan sähköisen viestinnän sääntelykehyksen johdonmukainen täytäntöönpano tämän artiklan 1 kohdassa tarkoitetulla soveltamisalalla.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC hoitaa tehtävänsä riippumattomasti, puolueettomasti, avoimesti ja viivytyksittä.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. BERECin on hyödynnettävä kansallisilla sääntelyviranomaisilla olevaa asiantuntemusta.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Direktiivin (EU) 2018/1972 9 artiklan 3 kohdan mukaisesti kunkin jäsenvaltion on varmistettava, että sen kansalliset sääntelyviranomaiset voivat osallistua täysimääräisesti BERECin elinten toimintaan.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Jäsenvaltioissa, joissa on direktiivin (EU) 2018/1972 nojalla useampi kuin yksi toimivaltainen kansallinen sääntelyviranomainen, kyseiset viranomaiset koordinoivat tarvittaessa toimintaansa keskenään.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_4",
+   "kind": "article",
+   "number": "4",
+   "label": "4 artikla",
+   "title": "BERECin sääntelytehtävät",
+   "path": [
+    "II LUKU — BERECin TAVOITTEET JA TEHTÄVÄT"
+   ],
+   "blocks": [
+    {
+     "text": "1. BERECillä on seuraavat sääntelytehtävät:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) pyynnöstä tai omasta aloitteestaan avustaa ja neuvoa kansallisia sääntelyviranomaisia, Euroopan parlamenttia, neuvostoa sekä komissiota ja tehdä yhteistyötä kansallisten sääntelyviranomaisten ja komission kanssa toimivaltansa puitteissa kaikissa elektroniseen viestintään liittyvissä teknisissä asioissa;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) pyynnöstä avustaa ja neuvoa komissiota sähköisen viestinnän alan lainsäädäntöehdotusten valmistelussa, myös kaikkien tähän asetukseen tai direktiiviin (EU) 2018/1972 ehdotettujen muutosten osalta;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) antaa direktiivissä (EU) 2018/1972 ja asetuksessa (EU) N:o 531/2012 tarkoitettuja lausuntoja erityisesti i) rajat ylittävien riitojen ratkaisusta direktiivin (EU) 2018/1972 27 artiklan mukaisesti; ii) kansallisista toimenpide-ehdotuksista sisämarkkinamenettelyissä markkinoiden sääntelyä varten direktiivin (EU) 2018/1972 32, 33 ja 68 artiklan mukaisesti; iii) yhdenmukaistamista koskevien päätösten ja suositusten luonnoksista direktiivin (EU) 2018/1972 38 ja 93 artiklan mukaisesti; iv) loppukäyttäjien välisestä päästä päähän -liitettävyydestä direktiivin (EU) 2018/1972 61 artiklan 2 kohdan mukaisesti; v) yhtenäisen unionin laajuisen matkaviestinverkon ja kiinteän unionin laajuisen verkon puheliikenteen enimmäismääräisen terminointimaksun määrittelystä unionissa direktiivin (EU) 2018/1972 75 artiklan mukaisesti; vi) sopimustiivistelmän mallista direktiivin (EU) 2018/1972 102 artiklan mukaisesti; vii) yleisvaltuutuksen kansallisesta täytäntöönpanosta ja toiminnasta sekä niiden vaikutuksesta sisämarkkinoiden toimintaan direktiivin (EU) 2018/1972 122 artiklan 3 kohdan mukaisesti; viii) tarvittaessa markkinoiden ja teknologian kehityksestä, etenkin erityyppisistä sähköisistä viestintäpalveluista ja niiden vaikutuksesta direktiivin (EU) 2018/1972 III osan III osaston soveltamiseen kyseisen direktiivin 123 artiklan 1 kohdan mukaisesti;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) antaa asetuksissa (EU) N:o 531/2012 ja (EU) 2015/2120 sekä direktiivissä (EU) 2018/1972 tarkoitettuja EU:n sähköisen viestinnän sääntelyjärjestelmän täytäntöönpanoa koskevia suuntaviivoja erityisesti i) ilmoitusmallista direktiivin (EU) 2018/1972 12 artiklan mukaisesti; ii) velvoitteiden johdonmukaisesta täytäntöönpanosta maantieteellisissä kartoituksissa ja ennusteissa direktiivin (EU) 2018/1972 22 artiklan mukaisesti; iii) merkittävistä perusteista, joilla edistetään direktiivin (EU) 2018/1972 61 artiklan 3 kohdan johdonmukaista soveltamista; iv) yhteisistä lähestymistavoista verkon liityntäpisteen määrittelyyn eri verkkotopologioissa direktiivin (EU) 2018/1972 61 artiklan 7 kohdan mukaisesti; v) yhteisistä lähestymistavoista vastata valtioiden rajat ylittävään loppukäyttäjäkysyntään direktiivin (EU) 2018/1972 66 artiklan mukaisesti; vi) viitetarjouksen vähimmäisvaatimuksista direktiivin (EU) 2018/1972 69 artiklan mukaisesti; vii) sen edistämisestä, että kansalliset sääntelyviranomaiset soveltavat johdonmukaisesti direktiivin (EU) 2018/1972 76 artiklan 1 kohdassa ja liitteessä IV tarkoitettuja kriteereitä; viii) perusteista, joilla verkkoa voidaan pitää erittäin suuren kapasiteetin verkkona direktiivin (EU) 2018/1972 82 artiklan mukaisesti; ix) yhteisistä perusteista arvioida valmiuksia hallinnoida numeroaloja ja numeroalueiden ehtymisen riskiä direktiivin (EU) 2018/1972 93 artiklan mukaisesti; x) asiaankuuluvista palvelutasoa koskevista muuttujista, sovellettavista mittausmenetelmistä, julkaistavien tietojen sisällöstä ja muodosta sekä laadunvarmistusmekanismeista direktiivin (EU) 2018/1972 104 artiklan mukaisesti; xi) siitä, miten arvioidaan, vastaako direktiivin (EU) 2018/1972 110 artiklan 2 kohdassa tarkoitettujen julkisten varoitusjärjestelmien tehokkuus kyseisen artiklan 1 kohdassa tarkoitettua tehokkuutta; xii) verkkovierailupalvelujen tukkutason käyttöoikeuksista asetuksen (EU) N:o 531/2012 3 artiklan 8 kohdan mukaisesti; xiii) kansallisten sääntelyviranomaisten velvoitteiden täytäntöönpanosta avoimissa internetyhteyksissä asetuksen (EU) 2015/2120 5 artiklan 3 kohdan mukaisesti; xiv) muuttujista, jotka kansallisten sääntelyviranomaisten on otettava huomioon arvioidessaan kotimaan laskutusmallin kestävyyttä asetuksen (EU) 2015/2120 5 a artiklan 6 kohdan mukaisesti;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) laatia omasta aloitteestaan tai kansallisen sääntelyviranomaisen, Euroopan parlamentin, neuvoston tai komission pyynnöstä muita suuntaviivoja, joilla varmistetaan sähköisen viestinnän sääntelykehyksen johdonmukainen täytäntöönpano sekä kansallisten sääntelyviranomaisten päätösten johdonmukaisuus erityisesti sellaisten sääntelykysymysten osalta, jotka koskevat merkittävää määrää jäsenvaltioita tai joihin liittyy rajatylittävä tekijä;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) osallistua tarvittaessa valintamenettelyjä koskevia toimenpide-ehdotuksia käsittelevään vertaisarviointifoorumiin direktiivin (EU) 2018/1972 35 artiklan mukaisesti;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) osallistua sen toimivaltaan kuuluvien radiotaajuuksiin liittyvää markkinasääntelyä ja kilpailua koskevien kysymysten käsittelyyn kyseisen direktiivin (EU) 2018/1972 4 artiklan mukaisesti;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) suorittaa analyysejä mahdollisista rajatylittävistä markkinoista direktiivin (EU) 2018/1972 65 artiklan mukaisesti sekä rajatylittävästä loppukäyttäjien kysynnästä saman direktiivin 66 artiklan mukaisesti;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) valvoa ja kerätä tietoja ja tarvittaessa saattaa julkisesti saataville ajantasaista tietoa asetuksen (EU) N:o 531/2012 soveltamisesta kyseisen asetuksen 16 ja 19 artiklan mukaisesti;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) raportoida toimivaltaansa kuuluvista teknisistä kysymyksistä ja erityisesti i) edellä c, d ja e alakohdassa tarkoitettujen lausuntojen ja suuntaviivojen käytännön soveltamisesta; ii) jäsenvaltioiden parhaista käytännöistä riittävien laajakaistayhteyspalvelujen määrittelemiseksi direktiivin (EU) 2018/1972 84 artiklan mukaisesti; iii) kotimaan ja verkkovierailupalvelujen hinnoittelu- ja kulutusmallien kehittymisestä, todellisten tukkutason verkkovierailuhintojen kehittymisestä epätasapainoisessa liikenteessä, verkkovierailupalvelujen vähittäis- ja tukkuhintojen sekä tukkutason kustannusten välisestä suhteesta sekä hintojen avoimuudesta ja vertailukelpoisuudesta asetuksen (EU) N:o 531/2012 19 artiklan mukaisesti; iv) kansallisten sääntelyviranomaisten asetuksen (EU) 2015/2120 5 artiklan mukaisesti antamien vuotuisten kertomusten tuloksista julkaisemalla vuotuinen yhteenvetokertomus; v) vuosittain sähköisen viestinnän alan markkinakehityksestä;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) laatia suosituksia ja yhteisiä kantoja sekä levittää parhaita sääntelykäytäntöjä kansallisille sääntelyviranomaisille, jotta sähköisen viestinnän sääntelykehyksen johdonmukaista ja parempaa täytäntöönpanoa voitaisiin edistää;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) luoda ja ylläpitää tietokantaa i) yleisvaltuutuksen alaisten yritysten toimivaltaisille viranomaisille toimittamista ilmoituksista direktiivin (EU) 2018/1972 12 artiklan mukaisesti; ii) numeroalueista, joita on oikeus käyttää oman alueen rajat ylittävällä tavalla unionin alueella direktiivin (EU) 2018/1972 93 artiklan 4 kohdan neljännen alakohdan mukaisesti; iii) tarvittaessa eurooppalaisten hätäpalvelujen suosituksen E.164 mukaisista jäsenvaltioiden numeroista direktiivin (EU) 2018/1972 109 artiklan 8 kohdan kolmannen alakohdan mukaisesti;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) arvioida sääntelyn uudistamisen tarvetta ja koordinoida kansallisten sääntelyviranomaisten toimintaa, jotta uusien innovatiivisten sähköisten viestintäpalvelujen kehittäminen voitaisiin mahdollistaa;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) edistää kansallisten sääntelyviranomaisten tiedonkeruun nykyaikaistamista, koordinointia ja standardointia; nämä tiedot on asetettava yleisön saataville avoimessa, uudelleenkäytettävässä ja koneellisesti luettavassa muodossa BERECin verkkosivustolle ja eurooppalaiseen tietoportaaliin, sanotun kuitenkaan rajoittamatta immateriaalioikeuksien, henkilötietojen suojaa koskevien sääntöjen ja luottamuksellisuusvaatimusten soveltamista;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "o) hoitaa muut tehtävät, jotka sille annetaan unionin säädöksissä ja erityisesti asetuksissa (EU) N:o 531/2012 ja (EU) 2015/2120 sekä direktiivissä (EU) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC julkistaa sääntelytehtävänsä ja päivittää näitä tietoja, kun sille annetaan uusia tehtäviä.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC julkistaa kaikki lopulliset lausuntonsa, suuntaviivansa, selvityksensä, suosituksensa, yhteiset kantansa ja parhaat käytäntönsä, tilatut tutkimuksensa sekä asiaankuuluvat asiakirjaluonnoksensa 5 kohdassa tarkoitettuja julkisia kuulemisia varten.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Kansalliset sääntelyviranomaiset ja komissio ottavat BERECin hyväksymät suuntaviivat, lausunnot, suositukset, yhteiset kannat ja parhaat käytännöt mahdollisimman pitkälti huomioon tavoitteena varmistaa sähköisen viestinnän sääntelykehyksen johdonmukainen täytäntöönpano 3 artiklan 1 kohdassa tarkoitetulla soveltamisalalla, sanotun kuitenkaan rajoittamatta sovellettavan unionin lainsäädännön noudattamista. Kun kansallinen sääntelyviranomainen poikkeaa 1 kohdan e alakohdassa tarkoitetuista suuntaviivoista, sen on perusteltava poikkeaminen.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. BEREC kuulee tarvittaessa eri osapuolia ja antaa niille tilaisuuden esittää näkemyksiään kohtuullisessa määräajassa, jonka pituus määräytyy asian monimutkaisuuden mukaan. Poikkeustapauksia lukuun ottamatta tämän määräajan on oltava vähintään 30 vuorokautta. BEREC saattaa tällaisten julkisten kuulemisten tulokset julkisesti saataville, sanotun kuitenkaan rajoittamatta 38 artiklan soveltamista. Tällaiset kuulemiset on toteutettava mahdollisimman aikaisessa päätöksentekoprosessin vaiheessa.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. BEREC voi tarvittaessa kuulla asiaankuuluvia kansallisia viranomaisia, kuten kilpailu-, kuluttajansuoja- ja tietosuojaviranomaisia, ja tehdä näiden kanssa yhteistyötä.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. BEREC voi tarvittaessa tehdä yhteistyötä toimivaltaisten unionin elinten, laitosten, virastojen ja neuvoa-antavien ryhmien kanssa, kolmansien maiden toimivaltaisten viranomaisten kanssa ja kansainvälisten järjestöjen kanssa 35 artiklan 1 kohdan mukaisesti.",
+     "para": "7",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_5",
+   "kind": "article",
+   "number": "5",
+   "label": "5 artikla",
+   "title": "BEREC-viraston tehtävät",
+   "path": [
+    "III LUKU — BEREC-VIRASTON TEHTÄVÄT"
+   ],
+   "blocks": [
+    {
+     "text": "Virastolla on seuraavat tehtävät:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) antaa asiantuntijatukea ja hallinnollista tukea BERECille, erityisesti sen 4 artiklan mukaisten sääntelytehtävien hoitamisessa;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) kerätä tietoja kansallisilta sääntelyviranomaisilta sekä vaihtaa ja toimittaa tietoja, jotka liittyvät BERECille 4 artiklan mukaisesti annettuihin sääntelytehtäviin;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) laatia b kohdassa tarkoitettuihin tietoihin perustuvia säännöllisiä selvitysluonnoksia Euroopan sähköisen viestinnän markkinoiden kehitykseen liittyvistä erityisistä näkökohdista, esimerkiksi verkkovierailua ja vertailuanalyyseja koskevia selvityksiä, ja toimittaa niitä BERECille;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) levittää sääntelyä koskevia parhaita käytäntöjä kansallisten sääntelyviranomaisten keskuudessa 4 artiklan 1 kohdan k alakohdan mukaisesti;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) avustaa BERECiä rekisterien ja tietokantojen luomisessa ja ylläpitämisessä 4 artiklan 1 kohdan l alakohdan mukaisesti;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) avustaa BERECiä tieto- ja viestintäjärjestelmän luomisessa ja hallinnoinnissa 41 artiklan mukaisesti;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) avustaa BERECiä julkisten kuulemisten järjestämisessä 4 artiklan 5 kohdan mukaisesti;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) avustaa työn valmistelussa ja antaa muuta hallinnollista ja sisältöön liittyvää tukea sääntelyneuvoston toiminnan sujuvuuden varmistamiseksi;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) auttaa sääntelyneuvoston pyynnöstä työryhmien perustamisessa, osallistua sääntelytyöhön ja antaa hallinnollista tukea kyseisten työryhmien sujuvan toiminnan varmistamiseksi;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) hoitaa muita sille tällä asetuksella tai muilla unionin säädöksillä annettuja tehtäviä.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_6",
+   "kind": "article",
+   "number": "6",
+   "label": "6 artikla",
+   "title": "BERECin organisaation rakenne",
+   "path": [
+    "IV LUKU — BERECin ORGANISAATIO"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC muodostuu seuraavista:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) sääntelyneuvosto;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) työryhmät.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_7",
+   "kind": "article",
+   "number": "7",
+   "label": "7 artikla",
+   "title": "Sääntelyneuvoston kokoonpano",
+   "path": [
+    "IV LUKU — BERECin ORGANISAATIO"
+   ],
+   "blocks": [
+    {
+     "text": "1. Sääntelyneuvostossa on kustakin jäsenvaltiosta yksi jäsen, joilla kullakin on äänioikeus. Kunkin jäsenen nimittää kansallinen sääntelyviranomainen, jonka pääasiallisena tehtävänä on valvoa sähköisen viestinnän verkkojen ja palvelujen markkinoiden päivittäistä toimintaa direktiivin (EU) 2018/1972 nojalla. Jäsen nimitetään seuraavien joukosta: kansallisen sääntelyviranomaisen johtaja, sen kollegiaalisen elimen jäsen tai jommankumman sijainen.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Kullakin sääntelyneuvoston jäsenellä on kansallisen sääntelyviranomaisen nimittämä varajäsen. Varajäsen edustaa varsinaista jäsentä tämän poissa ollessa. Varajäsen nimitetään seuraavien joukosta: kansallisen sääntelyviranomaisen johtaja, sen kollegiaalisen elimen jäsen tai jommankumman sijainen taikka kansallisen sääntelyviranomaisen henkilöstön edustaja.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Sääntelyneuvoston jäsenet ja heidän varajäsenensä nimitetään heidän sähköisen viestinnän alaa koskevan tietämyksensä perusteella ottaen huomioon asianmukaiset johtamis-, hallinto- ja varainhoitotaidot. Jotta sääntelyneuvoston työskentelyn jatkuvuus voidaan varmistaa, kaikkien nimittävien kansallisten sääntelyviranomaisten on pyrittävä rajoittamaan jäsentensä ja mahdollisuuksien mukaan myös varajäsenten vaihtuvuutta ja pyrittävä naisten ja miesten tasapuoliseen edustukseen.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Komissio osallistuu kaikkiin sääntelyneuvoston käsittelyihin ilman äänioikeutta ja on edustettuna asianmukaisen korkealla tasolla.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Ajan tasalla oleva luettelo sääntelyneuvoston jäsenistä ja heidän varajäsenistään sekä ilmoitukset heidän sidonnaisuuksistaan julkistetaan.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_8",
+   "kind": "article",
+   "number": "8",
+   "label": "8 artikla",
+   "title": "Sääntelyneuvoston riippumattomuus",
+   "path": [
+    "IV LUKU — BERECin ORGANISAATIO"
+   ],
+   "blocks": [
+    {
+     "text": "1. Sääntelyneuvosto toimii sille annettuja tehtäviä hoitaessaan riippumattomasti ja puolueettomasti unionin etujen mukaisesti mistään yksittäisistä kansallisista tai henkilökohtaisista eduista riippumatta, sanotun kuitenkaan vaikuttamatta sen jäseniin, jotka toimivat oman kansallisen sääntelyviranomaisensa puolesta.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Sääntelyneuvoston jäsenet ja varajäsenet eivät saa pyytää eivätkä ottaa vastaan ohjeita miltään hallitukselta, toimielimeltä, henkilöltä tai elimeltä, sanotun kuitenkaan rajoittamatta 3 artiklan 6 kohdassa tarkoitettua koordinointia.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_9",
+   "kind": "article",
+   "number": "9",
+   "label": "9 artikla",
+   "title": "Sääntelyneuvoston tehtävät",
+   "path": [
+    "IV LUKU — BERECin ORGANISAATIO"
+   ],
+   "blocks": [
+    {
+     "text": "Sääntelyneuvosto hoitaa seuraavia tehtäviä:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) vastaa 4 artiklassa säädetyistä BERECin sääntelytehtävistä ja hyväksyy näin ollen kyseisessä artiklassa tarkoitetut lausunnot, suuntaviivat, selvitykset, suositukset ja yhteiset kannat ja välittää parhaat käytännöt; se hyödyntää tehtäviensä hoitamisessa työryhmissä tehtyä valmistelutyötä.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) tekee BERECin toimien organisointia koskevia hallinnollisia päätöksiä;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) hyväksyy 21 artiklassa tarkoitetun BERECin vuotuisen työohjelman;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) vahvistaa 22 artiklassa tarkoitetun BERECin toimintaa koskevan vuosikertomuksen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) hyväksyy 42 artiklassa tarkoitetut eturistiriitojen ehkäisemistä ja ratkaisemista koskevat säännöt, myös työryhmien jäsenten osalta;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) vahvistaa 36 artiklan mukaisesti yksityiskohtaiset säännöt, jotka koskevat oikeutta tutustua BERECin hallussa oleviin asiakirjoihin;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) hyväksyy tarpeiden analysoinnin pohjalta 37 artiklan 2 kohdassa tarkoitetut tiedotusta ja viestintää koskevat suunnitelmat ja saattaa ne säännöllisesti ajan tasalle;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) hyväksyy jäsentensä kahden kolmasosan enemmistöllä työjärjestyksensä ja julkistaa sen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) antaa yhdessä johtajan kanssa luvan työjärjestelyistä sopimiseen toimivaltaisten unionin elinten, laitosten, virastojen ja neuvoa-antavien ryhmien kanssa sekä kolmansien maiden toimivaltaisten viranomaisten ja kansainvälisten järjestöjen kanssa 35 artiklan mukaisesti;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) perustaa työryhmiä ja nimittää niiden puheenjohtajat;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "k) antaa BEREC-viraston johtajalle ohjeita BEREC-viraston tehtävien hoitamisessa.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_10",
+   "kind": "article",
+   "number": "10",
+   "label": "10 artikla",
+   "title": "Sääntelyneuvoston puheenjohtaja ja varapuheenjohtajat",
+   "path": [
+    "IV LUKU — BERECin ORGANISAATIO"
+   ],
+   "blocks": [
+    {
+     "text": "1. Sääntelyneuvosto nimittää jäsentensä keskuudesta jäsentensä kahden kolmasosan enemmistöllä puheenjohtajan ja vähintään kaksi varapuheenjohtajaa.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Yksi varapuheenjohtajista hoitaa puheenjohtajan tehtäviä ilman eri toimenpiteitä puheenjohtajan ollessa estyneenä.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Puheenjohtajan toimikausi on kaksi vuotta, ja se voidaan uusia kerran. BERECin työn jatkuvuuden varmistamiseksi tuleva puheenjohtaja toimii mahdollisuuksien mukaan yhden vuoden ajan varapuheenjohtajana ennen puheenjohtajakautensa alkua. Työjärjestyksessä määrätään lyhemmästä kaudesta, ellei tuleva puheenjohtaja voi toimia varapuheenjohtajana yhtä vuotta ennen puheenjohtajakautensa alkua.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Puheenjohtaja ei saa pyytää eikä ottaa vastaan ohjeita miltään hallitukselta, toimielimeltä, henkilöltä tai elimeltä, sanotun kuitenkaan rajoittamatta sääntelyneuvoston asemaa puheenjohtajan tehtäviin nähden.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Puheenjohtaja raportoi pyydettäessä Euroopan parlamentille ja neuvostolle BERECin tehtävien hoidosta.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_11",
+   "kind": "article",
+   "number": "11",
+   "label": "11 artikla",
+   "title": "Sääntelyneuvoston kokoukset",
+   "path": [
+    "IV LUKU — BERECin ORGANISAATIO"
+   ],
+   "blocks": [
+    {
+     "text": "1. Puheenjohtaja kutsuu koolle sääntelyneuvoston kokoukset ja laatii kokousten esityslistan, joka julkistetaan.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Sääntelyneuvosto pitää vähintään kaksi sääntömääräistä kokousta vuodessa. Ylimääräisiä kokouksia kutsutaan koolle puheenjohtajan aloitteesta tai vähintään kolmen jäsenen tai komission pyynnöstä.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC-viraston johtaja osallistuu kaikkien asioiden käsittelyyn, mutta hänellä ei ole äänioikeutta.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Sääntelyneuvosto voi kutsua kokouksiinsa tarkkailijoina henkilöitä, joiden lausunnoilla voi olla merkitystä.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Sääntelyneuvoston jäsenillä ja varajäsenillä voi olla kokouksissa avustajina omia neuvonantajia tai muita asiantuntijoita, jollei työjärjestyksestä muuta johdu.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. BEREC-virasto vastaa sääntelyneuvoston sihteeristön tehtävistä.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_12",
+   "kind": "article",
+   "number": "12",
+   "label": "12 artikla",
+   "title": "Sääntelyneuvoston äänestyssäännöt",
+   "path": [
+    "IV LUKU — BERECin ORGANISAATIO"
+   ],
+   "blocks": [
+    {
+     "text": "1. Sääntelyneuvosto tekee päätöksensä jäsentensä yksinkertaisella enemmistöllä, jollei tässä asetuksessa tai muussa unionin säädöksessä toisin säädetä. Edellä 4 artiklan 1 kohdan c alakohdan ii ja v alakohdassa tarkoitetut lausunnot sekä 4 artiklan 1 kohdan d alakohdan i–iv, vi, vii ja x alakohdassa tarkoitetut suuntaviivat edellyttävät sääntelyneuvoston jäsenten kahden kolmasosan enemmistöä. Sen estämättä, mitä tämän kohdan toisessa alakohdassa säädetään, sääntelyneuvosto voi päättää yksinkertaisella enemmistöllä ja tapauskohtaisesti, että se hyväksyy yksinkertaisella enemmistöllä tämän asetuksen 4 artiklan 1 kohdan c alakohdan ii alakohdassa tarkoitettuja lausuntoja, jotka koskevat direktiivin (EU) 2018/1972 76 artiklan 2 kohdassa tarkoitettuja toimenpide-ehdotuksia, jotka johtavat kyseisen direktiivin 33 artiklan 5 kohdan mukaiseen menettelyyn. Sääntelyneuvoston päätökset julkistetaan, ja niissä on ilmoitettava kunkin jäsenen varaumat tämän pyynnöstä.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Kullakin jäsenellä on yksi ääni. Jäsenen poissa ollessa varajäsenellä on oikeus käyttää kyseisen jäsenen äänioikeutta. Jäsenen ja hänen varajäsenensä poissa ollessa äänioikeus voidaan siirtää toiselle jäsenelle. Puheenjohtaja voi siirtää äänioikeuden kaikissa tapauksissa. Puheenjohtaja osallistuu äänestykseen, ellei hän ole siirtänyt äänioikeuksia.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Sääntelyneuvoston työjärjestyksessä vahvistetaan yksityiskohtaiset äänestyssäännöt, mukaan lukien ehdot, joiden mukaisesti jäsen voi toimia toisen jäsenen puolesta, päätösvaltaisuussäännöt sekä kokousilmoituksia koskevat määräajat. Työjärjestyksellä taataan myös, että sääntelyneuvoston jäsenille toimitetaan täydelliset esityslistat ja ehdotusluonnokset ennen kutakin kokousta, jotta he voivat ehdottaa muutoksia ennen äänestystä. Työjärjestyksessä voidaan vahvistaa muun muassa kiireellisistä asioista äänestämistä koskevat menettelyt ja muut sääntelyneuvoston toimintaa koskevat käytännön järjestelyt.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_13",
+   "kind": "article",
+   "number": "13",
+   "label": "13 artikla",
+   "title": "Työryhmät",
+   "path": [
+    "IV LUKU — BERECin ORGANISAATIO"
+   ],
+   "blocks": [
+    {
+     "text": "1. Perustelluissa tapauksissa ja erityisesti BERECin vuotuisen työohjelman toteuttamiseksi sääntelyneuvosto voi perustaa työryhmiä.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Sääntelyneuvosto nimittää työryhmien puheenjohtajat, jotka edustavat mahdollisuuksien mukaan eri kansallisia sääntelyviranomaisia.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Työryhmät ovat avoinna kaikkien BERECin työhön osallistuvien kansallisten sääntelyviranomaisten asiantuntijoiden ja komission osallistumiselle. BEREC-viraston henkilöstö voi myös osallistua työryhmien työskentelyyn, olla mukana sääntelytyössä ja antaa työryhmille hallinnollista tukea. Kun on kyse työryhmistä, jotka on perustettu hoitamaan 4 artiklan 1 kohdan c alakohdan ii alakohdassa tarkoitettuja tehtäviä, komission asiantuntijat eivät osallistu niihin. Työryhmissä, jotka on perustettu hoitamaan tämän asetuksen 4 artiklan 1 kohdan c alakohdan iv, vi, vii ja viii alakohdassa, d alakohdan i, ii, ix, x ja xi alakohdassa, j alakohdan ii alakohdassa ja l alakohdassa ja tapauksen mukaan sen 4 artiklan 1 kohdan c alakohdan iii alakohdassa sekä j alakohdan i alakohdassa tarkoitettuja tehtäviä, huomioon on otettava direktiivin (EU) 2018/1972 5 artiklan 4 kohdan mukaisesti ilmoitettujen muiden toimivaltaisten viranomaisten asiantuntijoiden näkemykset. Sääntelyneuvosto tai työryhmien puheenjohtajat voivat tarvittaessa kutsua kyseessä olevalla alalla päteviksi tunnustettuja yksittäisiä asiantuntijoita osallistumaan työryhmien kokouksiin tapauskohtaisesti.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Sääntelyneuvosto vahvistaa työjärjestyksen, jossa vahvistetaan käytännön järjestelyt työryhmien toiminnalle.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_14",
+   "kind": "article",
+   "number": "14",
+   "label": "14 artikla",
+   "title": "BEREC-viraston organisaation rakenne",
+   "path": [
+    "V LUKU — BEREC-VIRASTON ORGANISAATIO"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC-virasto muodostuu seuraavista:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) hallintoneuvosto;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) johtaja.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_15",
+   "kind": "article",
+   "number": "15",
+   "label": "15 artikla",
+   "title": "Hallintoneuvoston kokoonpano",
+   "path": [
+    "V LUKU — BEREC-VIRASTON ORGANISAATIO"
+   ],
+   "blocks": [
+    {
+     "text": "1. Hallintoneuvosto koostuu sääntelyneuvoston jäseniksi nimitetyistä henkilöistä ja yhdestä komission korkean tason edustajasta. Jokaisella hallintoneuvoston jäsenellä on äänioikeus. Kukin 7 artiklan 1 kohdan toisessa alakohdassa tarkoitettu nimittävä kansallinen sääntelyviranomainen voi nimittää hallintoneuvoston jäseneksi muun henkilön kuin sääntelyneuvoston jäsenen. Tämän henkilön on oltava kansallisen sääntelyviranomaisen johtaja, sen kollegiaalisen elimen jäsen tai jommankumman sijainen.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Jokaisella hallintoneuvoston jäsenellä on varajäsen, joka edustaa varsinaista jäsentä tämän poissa ollessa. Kunkin jäsenen varajäsenen on oltava sääntelyneuvoston jäsenten varajäseniksi nimitettyjä henkilöitä. Myös komission edustajalla on varaedustaja. Kukin 7 artiklan 1 kohdan toisessa alakohdassa tarkoitettu nimittävä kansallinen sääntelyviranomainen voi nimittää hallintoneuvoston varajäseneksi muun henkilön kuin sääntelyneuvoston varajäsenen. Tämän henkilön on oltava kansallisen sääntelyviranomaisen johtaja, sen kollegiaalisen elimen jäsen, jommankumman sijainen tai kansallisen sääntelyviranomaisen henkilöstön jäsen.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Hallintoneuvoston jäsenet ja heidän varajäsenensä eivät saa pyytää eivätkä ottaa vastaan ohjeita miltään hallitukselta, toimielimeltä, henkilöltä tai elimeltä.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Päivitetty luettelo hallintoneuvoston jäsenistä ja heidän varajäsenistään sekä ilmoitukset heidän sidonnaisuuksistaan julkistetaan.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_16",
+   "kind": "article",
+   "number": "16",
+   "label": "16 artikla",
+   "title": "Hallintoneuvoston hallinnolliset tehtävät",
+   "path": [
+    "V LUKU — BEREC-VIRASTON ORGANISAATIO"
+   ],
+   "blocks": [
+    {
+     "text": "1. Hallintoneuvosto hoitaa seuraavia hallinnollisia tehtäviä:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) antaa yleiset suuntaviivat BEREC-viraston toiminnalle ja hyväksyy vuosittain BEREC-viraston yhtenäisen ohjelma-asiakirjan jäsentensä kahden kolmasosan enemmistöllä ottaen huomioon komission lausunnon ja 23 artiklan mukaisesti;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) hyväksyy jäsentensä kahden kolmasosan enemmistöllä BEREC-viraston vuotuisen talousarvion ja hoitaa muut BEREC-viraston talousarvioon liittyvät tehtävät VII luvun mukaisesti;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) hyväksyy ja julkistaa 27 artiklassa tarkoitetun BEREC-viraston toimintaa koskevan konsolidoidun vuosikertomuksen ja tekee siitä arvioinnin ja toimittaa sekä vuosikertomuksen että sitä koskevan arviointinsa viimeistään kunkin vuoden heinäkuun 1 päivänä Euroopan parlamentille, neuvostolle, komissiolle ja tilintarkastustuomioistuimelle;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) hyväksyy BEREC-virastoon sovellettavat varainhoitosäännöt 29 artiklan mukaisesti;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) hyväksyy petostentorjuntastrategian, joka on oikeassa suhteessa petosriskeihin nähden ottaen huomioon toteutettavien toimenpiteiden kustannukset ja hyödyt;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) huolehtii siitä, että sisäisen tai ulkoisen tarkastuksen raportteihin ja arviointeihin perustuvien havaintojen ja suositusten sekä Euroopan petostentorjuntaviraston (OLAF) tutkimusten perusteella toteutetaan asianmukaiset jatkotoimet;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) hyväksyy 42 artiklan 3 kohdassa tarkoitetut eturistiriitojen ehkäisemistä ja ratkaisemista koskevat säännöt;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) hyväksyy tarpeiden analysoinnin pohjalta 37 artiklan 2 kohdassa tarkoitetut tiedotusta ja viestintää koskevat suunnitelmat ja saattaa ne säännöllisesti ajan tasalle;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) hyväksyy työjärjestyksensä;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) vahvistaa Euroopan unionin virkamiehiin sovellettavien henkilöstösääntöjen ja Euroopan unionin muuta henkilöstöä koskevien palvelussuhteen ehtojen täytäntöönpanoa koskevat säännökset henkilöstösääntöjen 110 artiklan mukaisesti;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) käyttää BEREC-viraston henkilöstön suhteen henkilöstösäännöissä nimittävälle viranomaiselle ja muuhun henkilöstöön sovellettavissa palvelussuhteen ehdoissa työsopimusten tekemiseen valtuutetulle viranomaiselle annettuja valtuuksia, jäljempänä ”nimittävän viranomaisen toimivalta”, sanotun kuitenkaan rajoittamatta 2 kohdan ensimmäisessä alakohdassa tarkoitetun päätöksen soveltamista;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) nimittää johtajan ja jatkaa tarvittaessa tämän toimikautta tai erottaa tämän 32 artiklan mukaisesti;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) jollei henkilöstösäännöistä ja muuta henkilöstöä koskevista palvelussuhteen ehdoista muuta johdu, nimittää tilinpitäjän, joka hoitaa tehtäviään täysin riippumattomasti;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) tekee kaikki BEREC-viraston sisäisten rakenteiden perustamista ja tarvittaessa niiden muuttamista koskevat päätökset ottaen huomioon BEREC-viraston toimintatarpeet ja moitteettoman varainhoidon. Ensimmäisen alakohdan m alakohtaa sovellettaessa BEREC-virasto voi nimittää tilinpitäjäksi saman tilinpitäjän kuin toinen unionin elin tai toimielin. BEREC-virasto ja komissio voivat erityisesti sopia, että komission tilinpitäjä toimii myös BEREC-viraston tilinpitäjänä.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Hallintoneuvosto tekee henkilöstösääntöjen 110 artiklan mukaisesti henkilöstösääntöjen 2 artiklan 1 kohtaan ja muuta henkilöstöä koskevien palvelussuhteen ehtojen 6 artiklaan perustuvan päätöksen, jolla siirretään nimittävän viranomaisen toimivalta johtajalle ja määritetään olosuhteet, joissa toimivallan siirto voidaan keskeyttää. Johtajalla on valtuudet siirtää tämä toimivalta edelleen. Jos poikkeukselliset olosuhteet sitä edellyttävät, hallintoneuvosto voi tekemällään päätöksellä tilapäisesti keskeyttää johtajalle siirretyn nimittävän viranomaisen toimivallan ja hänen edelleen siirtämänsä nimittävän viranomaisen toimivallan ja käyttää kyseistä toimivaltaa itse tai siirtää sen jollekin jäsenistään tai jollekulle henkilöstöön kuuluvalle, joka on muu kuin johtaja.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_17",
+   "kind": "article",
+   "number": "17",
+   "label": "17 artikla",
+   "title": "Hallintoneuvoston puheenjohtaja ja varapuheenjohtajat",
+   "path": [
+    "V LUKU — BEREC-VIRASTON ORGANISAATIO"
+   ],
+   "blocks": [
+    {
+     "text": "1. Hallintoneuvoston puheenjohtaja ja varapuheenjohtajat toimivat sääntelyneuvoston puheenjohtajana ja varapuheenjohtajina. Toimikausi on sama. Ensimmäisestä alakohdasta poiketen hallintoneuvosto voi jäsentensä kahden kolmasosan enemmistöllä valita jäsenvaltioita edustavien jäsentensä keskuudesta muita hallintoneuvoston jäseniä puheenjohtajaksi tai varapuheenjohtajaksi/varapuheenjohtajiksi. Heidän toimikautensa on sama kuin sääntelyneuvoston puheenjohtajalla ja varapuheenjohtajilla.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Yksi varapuheenjohtajista hoitaa puheenjohtajan tehtäviä ilman eri toimenpiteitä puheenjohtajan ollessa estyneenä.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Hallintoneuvoston puheenjohtaja raportoi pyydettäessä Euroopan parlamentille ja neuvostolle BEREC-viraston tehtävien hoidosta.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_18",
+   "kind": "article",
+   "number": "18",
+   "label": "18 artikla",
+   "title": "Hallintoneuvoston kokoukset",
+   "path": [
+    "V LUKU — BEREC-VIRASTON ORGANISAATIO"
+   ],
+   "blocks": [
+    {
+     "text": "1. Hallintoneuvoston kokoukset kutsuu koolle puheenjohtaja.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC-viraston johtaja osallistuu kaikkien muiden paitsi 32 artiklaan liittyvien asioiden käsittelyyn, mutta hänellä ei ole äänioikeutta.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Hallintoneuvosto pitää vähintään kaksi sääntömääräistä kokousta vuodessa. Lisäksi puheenjohtaja kutsuu koolle ylimääräisiä kokouksia omasta aloitteestaan, komission pyynnöstä tai vähintään kolmen jäsenen pyynnöstä.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Hallintoneuvosto voi kutsua kokouksiinsa tarkkailijoiksi henkilöitä, joiden lausunnoilla voi olla merkitystä.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Hallintoneuvoston jäsenillä ja heidän varajäsenillään voi olla kokouksissa avustajinaan neuvonantajia tai asiantuntijoita, jollei työjärjestyksestä muuta johdu.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. BEREC-virasto vastaa hallintoneuvoston sihteeristön tehtävistä.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_19",
+   "kind": "article",
+   "number": "19",
+   "label": "19 artikla",
+   "title": "Hallintoneuvoston äänestyssäännöt",
+   "path": [
+    "V LUKU — BEREC-VIRASTON ORGANISAATIO"
+   ],
+   "blocks": [
+    {
+     "text": "1. Hallintoneuvosto tekee päätökset jäsentensä yksinkertaisella enemmistöllä, ellei tässä asetuksessa toisin säädetä.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Kullakin jäsenellä on yksi ääni. Jäsenen poissa ollessa varajäsenellä on oikeus käyttää varsinaisen jäsenen äänioikeutta. Jäsenen ja hänen varajäsenensä poissa ollessa äänioikeus voidaan siirtää toiselle jäsenelle.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Puheenjohtaja voi siirtää äänioikeuden kaikissa tapauksissa. Puheenjohtaja osallistuu äänestykseen, ellei hän ole siirtänyt äänioikeutta.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Hallintoneuvoston työjärjestyksessä vahvistetaan yksityiskohtaisemmat äänestystä koskevat järjestelyt, erityisesti kiireellisistä asioista äänestämistä koskeva menettely ja olosuhteet, joissa jäsen voi toimia toisen jäsenen puolesta.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_20",
+   "kind": "article",
+   "number": "20",
+   "label": "20 artikla",
+   "title": "Johtajan tehtävät",
+   "path": [
+    "V LUKU — BEREC-VIRASTON ORGANISAATIO"
+   ],
+   "blocks": [
+    {
+     "text": "1. Johtaja on vastuussa BEREC-viraston hallinnollisesta johtamisesta. Johtaja vastaa toiminnastaan hallintoneuvostolle.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Johtaja avustaa sääntelyneuvoston puheenjohtajaa ja hallintoneuvoston puheenjohtajaa kyseisten elinten kokousten valmistelemisessa.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Johtaja hoitaa tehtäviään riippumattomasti, eikä hän saa pyytää eikä ottaa vastaan ohjeita miltään hallitukselta, toimielimeltä, henkilöltä tai elimeltä, sanotun kuitenkaan rajoittamatta sääntelyneuvoston, hallintoneuvoston ja komission toimivaltaa.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Johtaja raportoi pyydettäessä Euroopan parlamentille ja neuvostolle tehtäviensä hoidosta.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Johtaja on BEREC-viraston laillinen edustaja.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Johtaja vastaa BEREC-viraston tehtävien täytäntöönpanosta sääntelyneuvoston ja hallintoneuvoston ohjauksen mukaisesti. Johtajan vastuulla on erityisesti",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "a) BEREC-viraston päivittäinen hallinto;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "b) sääntelyneuvoston ja hallintoneuvoston tekemien hallinnollisten päätösten täytäntöönpano;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "c) 23 artiklassa tarkoitetun yhtenäisen ohjelma-asiakirjan laatiminen ja sen toimittaminen hallintoneuvostolle;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "d) sääntelyneuvoston avustaminen 22 artiklassa tarkoitetun BERECin vuotuisen toimintakertomuksen valmistelussa;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "e) sääntelyneuvoston avustaminen 21 artiklassa tarkoitetun BERECin vuotuisen työohjelman valmistelussa;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "f) yhtenäisen ohjelma-asiakirjan täytäntöönpano ja täytäntöönpanosta raportointi hallintoneuvostolle;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "g) luonnoksen laatiminen 27 artiklassa tarkoitetuksi BEREC-viraston toimintaa koskevaksi konsolidoiduksi vuosikertomukseksi sekä sen esittäminen hallintoneuvostolle arvioitavaksi ja hyväksyttäväksi;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "h) toimintasuunnitelman laatiminen sisäisten tai ulkoisten tarkastusraporttien ja arviointien päätelmien sekä Euroopan petostentorjuntaviraston (OLAF) tutkimusten perusteella ja raportointi edistymisestä hallintoneuvostolle vähintään kerran vuodessa;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "i) unionin taloudellisten etujen suojaaminen soveltamalla petoksia, lahjontaa ja muuta laitonta toimintaa ehkäiseviä toimenpiteitä, toteuttamalla tehokkaita tarkastuksia ja, jos väärinkäytöksiä havaitaan, perimällä takaisin aiheettomasti maksetut määrät ja tarvittaessa määräämällä tehokkaita, oikeasuhteisia ja varoittavia hallinnollisia seuraamuksia, joihin sisältyvät myös taloudelliset seuraamukset;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "j) BEREC-viraston petostentorjuntastrategian valmistelu ja sen esittäminen hallintoneuvoston hyväksyttäväksi;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "k) BEREC-virastoon sovellettavien varainhoitosääntöjen luonnoksen valmistelu;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "l) BEREC-viraston tuloja ja menoja koskevan ennakkoarvion luonnoksen laatiminen ja viraston talousarvion toteuttaminen.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "m) luvan antaminen yhdessä sääntelyneuvoston kanssa työjärjestelyistä sopimiseen toimivaltaisten unionin elinten, virastojen, laitosten ja neuvoa-antavien ryhmien kanssa sekä kolmansien maiden toimivaltaisten viranomaisten ja kansainvälisten järjestöjen kanssa 35 artiklan mukaisesti.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Johtaja toteuttaa hallintoneuvoston valvonnassa tarvittavat toimenpiteet, jotka liittyvät erityisesti sisäisten hallinnollisten ohjeiden antamiseen ja tiedonantojen julkaisemiseen, varmistaakseen, että BEREC-virasto toimii tämän asetuksen säännösten mukaisesti.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Johtajan vastuulla on päättää, onko BEREC-viraston tehtävien tehokkaan ja toimivan toteuttamisen kannalta tarpeellista sijoittaa yksi tai useampi henkilöstöön kuuluva yhteen tai useampaan jäsenvaltioon, edellyttäen että komissio, hallintoneuvosto ja asianomainen jäsenvaltio (asianomaiset jäsenvaltiot) siihen etukäteen suostuvat. Päätöksessä on määriteltävä toteutettavien toimien laajuus siten, että vältetään tarpeettomia kustannuksia ja BEREC-viraston hallinnollisten tehtävien päällekkäisyyttä. Ennen tällaisen päätöksen tekemistä 23 artiklan 4 kohdassa tarkoitetussa monivuotisessa ohjelma-asiakirjassa on esitettävä sen vaikutukset henkilöstöresursseihin ja talousarvioon.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_21",
+   "kind": "article",
+   "number": "21",
+   "label": "21 artikla",
+   "title": "BERECin vuotuinen työohjelma",
+   "path": [
+    "VI LUKU — BERECin OHJELMASUUNNITTELU"
+   ],
+   "blocks": [
+    {
+     "text": "1. Sääntelyneuvosto hyväksyy vuotuisen työohjelman luonnoksen viimeistään 31 päivänä tammikuuta kyseistä työohjelmavuotta edeltävänä vuonna. Kuultuaan Euroopan parlamenttia, neuvostoa ja komissiota näiden prioriteettien osalta sekä muita asianomaisia osapuolia 4 artiklan 5 kohdan mukaisesti sääntelykomitea hyväksyy lopullisen vuotuisen työohjelman viimeistään kyseisen vuoden 31 päivänä joulukuuta.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Sääntelyneuvosto toimittaa vuotuisen työohjelman Euroopan parlamentille, neuvostolle ja komissiolle heti, kun se on hyväksytty.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_22",
+   "kind": "article",
+   "number": "22",
+   "label": "22 artikla",
+   "title": "BERECin vuotuinen toimintakertomus",
+   "path": [
+    "VI LUKU — BERECin OHJELMASUUNNITTELU"
+   ],
+   "blocks": [
+    {
+     "text": "1. Sääntelyneuvosto hyväksyy BERECin vuotuisen toimintakertomuksen.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Sääntelyneuvosto toimittaa vuotuisen toimintakertomuksen Euroopan parlamentille, neuvostolle, komissiolle ja Euroopan talous- ja sosiaalikomitealle vuosittain viimeistään kesäkuun 15 päivänä.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_23",
+   "kind": "article",
+   "number": "23",
+   "label": "23 artikla",
+   "title": "Vuotuinen ja monivuotinen ohjelmasuunnittelu",
+   "path": [
+    "VII LUKU — BEREC-VIRASTON TALOUSARVIO JA OHJELMASUUNNITTELU"
+   ],
+   "blocks": [
+    {
+     "text": "1. Johtaja laatii vuosittain luonnoksen ohjelma-asiakirjaksi, joka sisältää vuotuisen ja monivuotisen ohjelman suunnitelmat, jäljempänä ”yhtenäinen ohjelma-asiakirja”, delegoidun asetuksen (EU) N:o 1271/2013 32 artiklan mukaisesti ottaen huomioon komission esittämät ohjeet. Hallintoneuvosto hyväksyy viimeistään kunkin vuoden 31 päivänä tammikuuta yhtenäisen ohjelma-asiakirjan luonnoksen ja toimittaa sen komissiolle lausuntoa varten. Yhtenäisen ohjelma-asiakirjan luonnos toimitetaan myös Euroopan parlamentille ja neuvostolle. Hallintoneuvosto hyväksyy yhtenäisen ohjelma-asiakirjan ottaen huomioon komission lausunnon. Se toimittaa yhtenäisen ohjelma-asiakirjan ja sen mahdolliset myöhemmin päivitetyt versiot Euroopan parlamentille, neuvostolle ja komissiolle. Yhtenäisestä ohjelma-asiakirjasta tulee lopullinen, kun unionin yleinen talousarvio on vahvistettu, ja sitä mukautetaan tarvittaessa talousarviota vastaavasti.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Vuotuisessa ohjelma-asiakirjassa on esitettävä yksityiskohtaiset tavoitteet ja odotetut tulokset, suoritusindikaattorit mukaan lukien. Siinä on myös esitettävä kuvaus rahoitettavista toimista ja mainittava kuhunkin toimeen osoitetut taloudelliset ja henkilöstöresurssit toimintoperusteisen budjetoinnin ja hallinnoinnin periaatteiden mukaisesti, kuten 31 artiklassa säädetään. Vuotuisen ohjelma-asiakirjan on oltava johdonmukainen 21 artiklassa tarkoitetun BEREC-viraston vuotuisen työohjelman luonnoksen ja lopullisen vuotuisen työohjelman kanssa sekä tämän artiklan 4 kohdassa tarkoitetun monivuotisen ohjelma-asiakirjan kanssa. Siinä on selkeästi ilmoitettava, mitä tehtäviä on lisätty, muutettu tai poistettu edelliseen varainhoitovuoteen verrattuna.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Hallintoneuvosto muuttaa vuotuista ohjelma-asiakirjaa tarvittaessa, sen jälkeen kun 21 artiklassa tarkoitettu BERECin lopullinen vuotuinen työohjelma on hyväksytty ja kun BERECille tai BEREC-virastolle annetaan uusi tehtävä. Vuotuiseen ohjelma-asiakirjaan tehtävät olennaiset muutokset on hyväksyttävä samaa menettelyä noudattaen kuin alkuperäinen vuotuinen ohjelma-asiakirja on hyväksytty. Hallintoneuvosto voi siirtää johtajalle valtuudet tehdä vuotuiseen ohjelma-asiakirjaan muita kuin olennaisia muutoksia.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Monivuotisessa ohjelma-asiakirjassa on esitettävä yleinen strateginen ohjelma, mukaan lukien tavoitteet, odotetut tulokset ja suoritusindikaattorit. Siinä on esitettävä myös resursseja koskeva ohjelmasuunnittelu, mukaan lukien monivuotinen talousarvio ja henkilöstösuunnitelma. Resursseja koskeva ohjelmasuunnittelu saatetaan ajan tasalle vuosittain. Strategista ohjelmaa on päivitettävä tarvittaessa ja erityisesti 48 artiklassa tarkoitetun arvioinnin tulosten huomioon ottamiseksi.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. BEREC-viraston yhtenäiseen ohjelma-asiakirjaan on sisällytettävä BERECin strategian täytäntöönpano suhteiden järjestämiseksi toimivaltaisiin unionin elimiin, virastoihin, laitoksiin ja neuvoa-antaviin ryhmiin, kolmansien maiden toimivaltaisiin viranomaisiin ja kansainvälisiin järjestöihin 35 artiklan 3 kohdan mukaisesti sekä tähän strategiaan liittyvät toimet samoin kuin eritelmä asiaan liittyvistä resursseista.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_24",
+   "kind": "article",
+   "number": "24",
+   "label": "24 artikla",
+   "title": "Talousarvion laatiminen",
+   "path": [
+    "VII LUKU — BEREC-VIRASTON TALOUSARVIO JA OHJELMASUUNNITTELU"
+   ],
+   "blocks": [
+    {
+     "text": "1. Johtaja laatii vuosittain BEREC-viraston seuraavan varainhoitovuoden tuloja ja menoja koskevan alustavan ennakkoarvion, jäljempänä ”ennakkoarvio”, johon sisältyy henkilöstötaulukko, ja toimittaa sen hallintoneuvostolle. Ennakkoarvioon sisältyvien tietojen on oltava johdonmukaisia 23 artiklan 1 kohdassa tarkoitetun yhtenäisen ohjelma-asiakirjan luonnoksen kanssa.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Johtaja toimittaa ennakkoarvion komissiolle viimeistään kunkin vuoden tammikuun 31 päivänä.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Komissio toimittaa ennakkoarvion budjettivallan käyttäjälle yhdessä unionin yleistä talousarviota koskevan alustavan esityksen kanssa.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Ennakkoarvion perusteella komissio sisällyttää unionin alustavaan yleiseen talousarvioon määrärahat, joita se pitää henkilöstötaulukon perusteella välttämättöminä, sekä yleisestä talousarviosta otettavan rahoitusosuuden määrän. Komissio toimittaa alustavan talousarvioesityksen budjettivallan käyttäjälle Euroopan unionin toiminnasta tehdyn sopimuksen (SEUT) 313 ja 314 artiklan mukaisesti.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Budjettivallan käyttäjä hyväksyy BEREC-virastolle annettavaa rahoitusosuutta koskevat määrärahat.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Budjettivallan käyttäjä vahvistaa BEREC-viraston henkilöstötaulukon.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Hallintoneuvosto vahvistaa BEREC-viraston talousarvion. Talousarviosta tulee lopullinen, kun unionin yleinen talousarvio on lopullisesti vahvistettu. Sitä mukautetaan tarvittaessa tätä vastaavasti.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Kaikkiin rakennushankkeisiin, joilla on todennäköisesti huomattava vaikutus BEREC-viraston talousarvioon, sovelletaan delegoitua asetusta (EU) N:o 1271/2013.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_25",
+   "kind": "article",
+   "number": "25",
+   "label": "25 artikla",
+   "title": "Talousarvion rakenne",
+   "path": [
+    "VII LUKU — BEREC-VIRASTON TALOUSARVIO JA OHJELMASUUNNITTELU"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC-viraston kaikista tuloista ja menoista laaditaan kalenterivuotta vastaavaa varainhoitovuotta varten arvio, jonka perusteella tulot ja menot otetaan BEREC-viraston talousarvioon.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC-viraston talousarvioon otettavien tulojen ja menojen on oltava tasapainossa.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Sulkematta pois muita tulonlähteitä BEREC-viraston tulot koostuvat seuraavista: a) unionin rahoitusosuus; b) jäsenvaltioiden tai kansallisten sääntelyviranomaisten vapaaehtoinen rahoitusosuus; c) BEREC-viraston julkaisuista ja muista suoritteista saadut tulot; d) niiltä kolmansilta mailta tai sähköisen viestinnän alalla toimivaltaisilta kolmansien maiden sääntelyviranomaisilta saatu rahoitusosuus, jotka osallistuvat BEREC-viraston työhön 35 artiklan mukaisesti.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. BEREC-viraston menoihin kuuluvat henkilökunnan palkat, hallinto- ja infrastruktuurimenot sekä toimintamenot.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_26",
+   "kind": "article",
+   "number": "26",
+   "label": "26 artikla",
+   "title": "Talousarvion toteuttaminen",
+   "path": [
+    "VII LUKU — BEREC-VIRASTON TALOUSARVIO JA OHJELMASUUNNITTELU"
+   ],
+   "blocks": [
+    {
+     "text": "1. Johtaja vastaa BEREC-viraston talousarvion toteuttamisesta.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Johtaja toimittaa vuosittain Euroopan parlamentille ja neuvostolle kaikki arviointimenettelyjen tuloksen kannalta tärkeät tiedot.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_27",
+   "kind": "article",
+   "number": "27",
+   "label": "27 artikla",
+   "title": "Toimintaa koskeva konsolidoitu vuosikertomus",
+   "path": [
+    "VII LUKU — BEREC-VIRASTON TALOUSARVIO JA OHJELMASUUNNITTELU"
+   ],
+   "blocks": [
+    {
+     "text": "Hallintoneuvosto hyväksyy BEREC-viraston toimintaa koskevan konsolidoidun vuosikertomuksen delegoidun asetuksen (EU) N:o 1271/2013 47 artiklan mukaisesti ottaen huomioon komission esittämät ohjeet.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_28",
+   "kind": "article",
+   "number": "28",
+   "label": "28 artikla",
+   "title": "Tilinpäätöksen esittäminen ja vastuuvapauden myöntäminen",
+   "path": [
+    "VII LUKU — BEREC-VIRASTON TALOUSARVIO JA OHJELMASUUNNITTELU"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC-viraston tilinpitäjä toimittaa alustavan varainhoitovuotta koskevan tilinpäätöksen komission tilinpitäjälle ja tilintarkastustuomioistuimelle viimeistään seuraavan varainhoitovuoden maaliskuun 1 päivänä.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC-virasto toimittaa selvityksen varainhoitovuoden talousarvio- ja varainhallinnosta Euroopan parlamentille, neuvostolle ja tilintarkastustuomioistuimelle viimeistään seuraavan varainhoitovuoden maaliskuun 31 päivänä.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Saatuaan BEREC-viraston alustavaa tilinpäätöstä koskevat tilintarkastustuomioistuimen huomautukset BEREC-viraston tilinpitäjä laatii BEREC-viraston lopullisen tilinpäätöksen omalla vastuullaan. Johtaja toimittaa lopullisen tilinpäätöksen hallintoneuvostolle lausuntoa varten.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Hallintoneuvosto antaa lausunnon BEREC-viraston lopullisesta tilinpäätöksestä.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Johtaja toimittaa lopullisen tilinpäätöksen ja hallintoneuvoston lausunnon Euroopan parlamentille, neuvostolle, komissiolle ja tilintarkastustuomioistuimelle viimeistään seuraavan varainhoitovuoden heinäkuun 1 päivänä.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. BEREC-virasto julkaisee lopullisen tilinpäätöksen Euroopan unionin virallisessa lehdessä viimeistään seuraavan vuoden marraskuun 15 päivänä.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Johtaja toimittaa tilintarkastustuomioistuimelle vastauksen tämän huomautuksiin viimeistään kyseistä varainhoitovuotta seuraavan vuoden syyskuun 30 päivänä. Johtaja toimittaa tämän vastauksen myös hallintoneuvostolle.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Johtaja antaa Euroopan parlamentin ja neuvoston asetuksen (EU, Euratom) 2018/1046 165 artiklan 3 kohdan mukaisesti Euroopan parlamentille tämän pyynnöstä kaikki kyseistä varainhoitovuotta koskevan vastuuvapausmenettelyn moitteettoman toteuttamisen edellyttämät tiedot.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Euroopan parlamentti myöntää neuvoston määräenemmistöllä antamasta suosituksesta johtajalle vuoden N talousarvion toteuttamista koskevan vastuuvapauden ennen vuoden N+2 toukokuun 15 päivää.",
+     "para": "9",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_29",
+   "kind": "article",
+   "number": "29",
+   "label": "29 artikla",
+   "title": "Varainhoitosäännöt",
+   "path": [
+    "VII LUKU — BEREC-VIRASTON TALOUSARVIO JA OHJELMASUUNNITTELU"
+   ],
+   "blocks": [
+    {
+     "text": "Hallintoneuvosto hyväksyy BEREC-virastoon sovellettavat varainhoitoa koskevat säännöt komissiota kuultuaan. Varainhoitosäännöt voivat poiketa delegoidusta asetuksesta (EU) N:o 1271/2013 ainoastaan, jos BEREC-viraston toiminta sitä edellyttää ja jos komissio on antanut siihen ennalta suostumuksensa.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_30",
+   "kind": "article",
+   "number": "30",
+   "label": "30 artikla",
+   "title": "Yleinen säännös",
+   "path": [
+    "VIII LUKU — BEREC-VIRASTON HENKILÖSTÖ"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC-viraston henkilöstöön sovelletaan Euroopan unionin virkamiehiin sovellettavia henkilöstösääntöjä ja unionin muuta henkilöstöä koskevia palvelussuhteen ehtoja sekä näiden säännösten täytäntöönpanosäännöksiä, jotka on annettu Euroopan unionin toimielinten yhteisellä päätöksellä.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_31",
+   "kind": "article",
+   "number": "31",
+   "label": "31 artikla",
+   "title": "BEREC-viraston henkilöstön määrä",
+   "path": [
+    "VIII LUKU — BEREC-VIRASTON HENKILÖSTÖ"
+   ],
+   "blocks": [
+    {
+     "text": "1. Henkilöresurssien toimintoperusteisen johtamisen periaatteen mukaisesti BEREC-virastolla on henkilöstöä sen verran kuin on tarpeen sen tehtävien hoitamiseksi.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Henkilöstön määrästä ja sen edellyttämistä taloudellisista resursseista tehdään ehdotus 23 artiklan 2 ja 4 kohdan sekä 24 artiklan 1 kohdan mukaisesti ottaen huomioon 5 artiklan a alakohta ja kaikki muut BEREC-virastolle tämän asetuksen tai muiden unionin säädösten nojalla annetut tehtävät sekä tarve noudattaa kaikkia unionin erillisvirastoihin sovellettavia säännöksiä.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_32",
+   "kind": "article",
+   "number": "32",
+   "label": "32 artikla",
+   "title": "Johtajan nimittäminen",
+   "path": [
+    "VIII LUKU — BEREC-VIRASTON HENKILÖSTÖ"
+   ],
+   "blocks": [
+    {
+     "text": "1. Johtaja otetaan palvelukseen BEREC-viraston väliaikaisena toimihenkilönä muuta henkilöstöä koskevien palvelussuhteen ehtojen 2 artiklan a alakohdan mukaisesti.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Hallintoneuvosto nimittää johtajan avointa ja läpinäkyvää menettelyä noudattaen ansioiden, johtamis-, hallinto- ja varainhoitotaitojen sekä sähköisen viestinnän alaa koskevan tietämyksen ja kokemuksen perusteella. Puheenjohtaja tai varapuheenjohtaja ei voi yksin esittää ehdokkaiden luetteloa. Hallintoneuvoston työjärjestyksessä määritellään yksityiskohtaisesti järjestelyt vaatimukset täyttävien ehdokkaiden esivalintaluettelon laatimista varten sekä äänestysmenettely.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Johtajan työsopimusta tehtäessä BEREC-virastoa edustaa hallintoneuvoston puheenjohtaja.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Hallintoneuvoston valitsema ehdokas kutsutaan ennen nimittämistä antamaan lausunto Euroopan parlamentin toimivaltaiselle valiokunnalle ja vastaamaan sen jäsenten esittämiin kysymyksiin.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Johtajan toimikausi on viisi vuotta. Toimikauden päättyessä hallintoneuvoston puheenjohtaja toteuttaa arvioinnin, jossa tarkastellaan johtajan suoriutumista tehtävistään sekä BEREC-viraston tulevia tehtäviä ja haasteita. Tämä arvio toimitetaan Euroopan parlamentille ja neuvostolle.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Hallintoneuvosto voi 5 kohdassa tarkoitetun arvion huomioon ottaen jatkaa johtajan toimikautta kerran enintään viidellä vuodella.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Hallintoneuvoston on ilmoitettava Euroopan parlamentille aikomuksestaan jatkaa johtajan toimikautta. Johtaja voidaan kutsua kuukautta ennen toimikauden jatkamista antamaan lausunto Euroopan parlamentin toimivaltaiselle valiokunnalle ja vastaamaan sen jäsenten esittämiin kysymyksiin.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Johtaja, jonka toimikautta on jatkettu, ei saa enää jatketun toimikautensa lopussa osallistua saman toimen valintamenettelyyn.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Jos toimikautta ei jatketa, johtaja jatkaa hallintoneuvoston niin päättäessä tehtävässään alkuperäisen toimikautensa päättymisen jälkeen, kunnes seuraaja on nimitetty.",
+     "para": "9",
+     "point": ""
+    },
+    {
+     "text": "10. Johtaja voidaan erottaa toimestaan ainoastaan, jos hallintoneuvosto näin päättää jonkin jäsenen ehdotuksen perusteella.",
+     "para": "10",
+     "point": ""
+    },
+    {
+     "text": "11. Hallintoneuvosto tekee päätökset johtajan nimittämisestä, toimikauden jatkamisesta tai erottamisesta jäsentensä kahden kolmasosan ääntenenemmistöllä.",
+     "para": "11",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_33",
+   "kind": "article",
+   "number": "33",
+   "label": "33 artikla",
+   "title": "Kansalliset asiantuntijat ja muu henkilöstö",
+   "path": [
+    "VIII LUKU — BEREC-VIRASTON HENKILÖSTÖ"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC-virasto voi käyttää kansallisia asiantuntijoita ja muuta henkilöstöä, joka ei ole sen palveluksessa. Näihin henkilöihin ei sovelleta henkilöstösääntöjä eikä muuta henkilöstöä koskevia palvelussuhteen ehtoja.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Hallintoneuvosto tekee päätöksen, jossa annetaan säännökset kansallisten asiantuntijoiden tilapäisestä siirtämisestä BEREC-viraston palvelukseen.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_34",
+   "kind": "article",
+   "number": "34",
+   "label": "34 artikla",
+   "title": "Erioikeudet ja vapaudet",
+   "path": [
+    "IX LUKU — YLEISET SÄÄNNÖKSET"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC-virastoon ja sen henkilöstöön sovelletaan Euroopan unionin erioikeuksia ja vapauksia koskevaa pöytäkirjaa.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_35",
+   "kind": "article",
+   "number": "35",
+   "label": "35 artikla",
+   "title": "Yhteistyö unionin elinten, kolmansien maiden ja kansainvälisten järjestöjen kanssa",
+   "path": [
+    "IX LUKU — YLEISET SÄÄNNÖKSET"
+   ],
+   "blocks": [
+    {
+     "text": "1. Siltä osin kuin on tarpeen tämän asetuksen tavoitteiden saavuttamiseksi ja niiden tehtävien hoitamiseksi BEREC ja BEREC-virasto voivat tehdä yhteistyötä toimivaltaisten unionin elinten, virastojen, laitosten ja neuvoa-antavien ryhmien kanssa, kolmansien maiden toimivaltaisten viranomaisten kanssa sekä kansainvälisten järjestöjen kanssa, sanotun kuitenkaan rajoittamatta jäsenvaltioiden ja unionin instituutioiden toimivaltaa. BEREC ja BEREC-virasto voivat tätä varten sopia työjärjestelyistä, edellyttäen että komissio antaa tähän ennakkohyväksynnän. Näistä järjestelyistä ei saa seurata oikeudellisia velvoitteita.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Sääntelyneuvoston, työryhmien ja hallintoneuvoston toimintaan voivat osallistua ne toimivaltaiset kolmansien maiden sääntelyviranomaiset, joilla on ensisijainen vastuu sähköisen viestinnän alalla, jos kyseiset kolmannet maat ovat tehneet unionin kanssa tätä koskevan sopimuksen. Näihin sopimuksiin sisältyvien asiaa koskevien määräysten mukaisesti laaditaan työjärjestelyjä, joissa määritellään erityisesti, millaista on luonteeltaan, laajuudeltaan ja tavaltaan niiden kolmansien maiden sääntelyviranomaisten, joilla ei ole äänioikeutta, osallistuminen BERECin ja BEREC-viraston toimintaan, mukaan lukien BERECin tekemiin aloitteisiin osallistumista, rahoitusosuuksia ja BEREC-viraston henkilöstöä koskevat säännöt. Henkilöstöasioiden osalta näiden järjestelyjen on kaikilta osin oltava henkilöstösääntöjen mukaiset.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Sääntelyneuvosto hyväksyy osana 21 artiklassa tarkoitettua vuotuista työohjelmaa BERECin strategian, joka koskee suhteita toimivaltaisten unionin elinten, virastojen, laitosten ja neuvoa-antavien ryhmien, kolmansien maiden toimivaltaisten viranomaisten ja kansainvälisten järjestöjen kanssa asioissa, joissa BEREC on toimivaltainen. Komissio, BEREC ja BEREC-virasto sopivat asianmukaisesta työjärjestelystä varmistaakseen, että BEREC ja BEREC-virasto toimivat toimeksiantonsa ja olemassa olevien institutionaalisten puitteiden mukaisesti.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_36",
+   "kind": "article",
+   "number": "36",
+   "label": "36 artikla",
+   "title": "Asiakirjojen julkisuus ja tietosuoja",
+   "path": [
+    "IX LUKU — YLEISET SÄÄNNÖKSET"
+   ],
+   "blocks": [
+    {
+     "text": "1. BERECin ja BEREC-viraston hallussa oleviin asiakirjoihin sovelletaan Euroopan parlamentin ja neuvoston asetusta (EY) N:o 1049/2001.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Sääntelyneuvosto ja hallintoneuvosto vahvistavat asetuksen (EY) N:o 1049/2001 soveltamista koskevat yksityiskohtaiset säännöt viimeistään 21 päivänä kesäkuuta 2019.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BERECin ja BEREC-viraston toimesta tapahtuvaan henkilötietojen käsittelyyn sovelletaan asetusta (EU) 2018/1725.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Sääntelyneuvosto ja hallintoneuvosto vahvistavat viimeistään 21 päivänä kesäkuuta 2019 toimenpiteet, joiden mukaisesti BEREC ja BEREC-virasto soveltavat asetusta (EU) 2018/1725, BEREC-viraston tietosuojavastaavan nimittämistä koskevat toimenpiteet mukaan lukien. Euroopan tietosuojavaltuutettua on kuultava ennen toimenpiteiden vahvistamista.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_37",
+   "kind": "article",
+   "number": "37",
+   "label": "37 artikla",
+   "title": "Avoimuus ja tiedottaminen",
+   "path": [
+    "IX LUKU — YLEISET SÄÄNNÖKSET"
+   ],
+   "blocks": [
+    {
+     "text": "1. BERECin ja BEREC-viraston toiminnan on oltava hyvin avointa. BERECin ja BEREC-viraston on varmistettava, että suurelle yleisölle ja kaikille asianomaisille osapuolille annetaan asianmukaista, puolueetonta, luotettavaa ja helposti saatavissa olevaa tietoa erityisesti niiden tehtävistä ja työn tuloksista.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC voi toimivaltaansa kuuluvilla aloilla toteuttaa BEREC-viraston tuella omasta aloitteestaan tiedotustoimia sääntelyneuvoston hyväksymien tiedotusta ja viestintää koskevien suunnitelmien mukaisesti. Resurssien osoittaminen BEREC-viraston talousarviosta tällaiseen tiedotustoimien tukemiseen ei saa haitata tämän asetuksen 4 artiklassa tarkoitettujen tehtävien eikä 5 artiklassa tarkoitettujen BEREC-viraston tehtävien tehokasta hoitamista. BEREC-viraston tiedotustoimet on toteutettava hallintoneuvoston hyväksymien tiedotusta ja viestintää koskevien suunnitelmien mukaisesti.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_38",
+   "kind": "article",
+   "number": "38",
+   "label": "38 artikla",
+   "title": "Luottamuksellisuus",
+   "path": [
+    "IX LUKU — YLEISET SÄÄNNÖKSET"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC ja BEREC-virasto eivät saa paljastaa kolmansille osapuolille käsittelemiään ja saamiaan tietoja, joiden käsittelystä osittain tai kokonaisuudessaan luottamuksellisina on esitetty perusteltu pyyntö, sanotun kuitenkaan rajoittamatta 36 artiklan 1 kohdan ja 40 artiklan 2 kohdan soveltamista.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Sääntelyneuvoston, hallintoneuvoston ja työryhmien jäsenten sekä muiden niiden kokouksiin osallistujien, johtajan, kansallisten asiantuntijoiden ja muun henkilöstön, joka ei ole BEREC-viraston palveluksessa, on myös tehtäviensä päätyttyä noudatettava SEUT 339 artiklan mukaista salassapitovelvollisuutta.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Sääntelyneuvosto ja hallintoneuvosto vahvistavat 1 ja 2 kohdassa tarkoitettujen salassapitovelvollisuutta koskevien sääntöjen täytäntöönpanoa koskevat käytännön järjestelyt.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_39",
+   "kind": "article",
+   "number": "39",
+   "label": "39 artikla",
+   "title": "Turvallisuusluokiteltujen ja arkaluonteisten turvallisuusluokittelemattomien tietojen suojelemista koskevat turvallisuussäännöt",
+   "path": [
+    "IX LUKU — YLEISET SÄÄNNÖKSET"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC ja BEREC-virasto hyväksyvät omat turvallisuussääntönsä, jotka vastaavat Euroopan unionin turvallisuusluokiteltujen tietojen ja arkaluonteisten turvallisuusluokittelemattomien tietojen suojelemista koskevia komission turvallisuussääntöjä, muun muassa tällaisten tietojen vaihtamista, käsittelyä ja tallentamista koskevia sääntöjä, jotka vahvistetaan komission päätöksissä (EU, Euratom) 2015/443 ja (EU, Euratom) 2015/444. BEREC tai BEREC-virasto voivat vaihtoehtoisesti tehdä päätöksen soveltaa komission sääntöjä soveltuvin osin.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_40",
+   "kind": "article",
+   "number": "40",
+   "label": "40 artikla",
+   "title": "Tietojenvaihto",
+   "path": [
+    "IX LUKU — YLEISET SÄÄNNÖKSET"
+   ],
+   "blocks": [
+    {
+     "text": "1. Komission, sääntelyneuvostossa edustettuina olevien kansallisten sääntelyviranomaisten ja muiden toimivaltaisten viranomaisten on BERECin tai BEREC-viraston perustellusta pyynnöstä toimitettava BERECille tai BEREC-virastolle ajoissa ja täsmällisesti kaikki tiedot, joita ne tarvitsevat tehtäviensä hoitamiseen edellyttäen, että niillä on laillinen pääsy asiaankuuluviin tietoihin ja että pyyntö on tarpeellinen kyseisen tehtävän luonteeseen nähden. BEREC tai BEREC-virasto voi myös pyytää toimittamaan tällaisia tietoja säännöllisin väliajoin ja määritellyissä muodoissa. Tällaisissa pyynnöissä on mahdollisuuksien mukaan käytettävä yhteisiä ilmoitusten muotoja.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BERECin tai BEREC-viraston on komission tai kansallisen sääntelyviranomaisen perustellusta pyynnöstä toimitettava ajoissa ja täsmällisesti vilpittömän yhteistyön periaatteen mukaisesti kaikki tiedot, jotka ovat tarpeen komission, kansallisen sääntelyviranomaisen tai muun toimivaltaisen viranomaisen tehtävien hoitamiseksi. Jos BEREC tai BEREC-virasto katsoo, että tiedot ovat luottamuksellisia, komission, kansallisen sääntelyviranomaisen tai muun toimivaltaisen viranomaisen on varmistettava tällainen luottamuksellisuus unionin oikeuden ja kansallisen lainsäädännön mukaisesti, asetus (EY) N:o 1049/2001 mukaan lukien. Liikesalaisuuksien luottamuksellisuus ei saa estää tietojen oikea-aikaista jakamista.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Ennen kuin BEREC tai BEREC-virasto pyytävät tämän artiklan mukaisesti tietoja ja jotta voidaan välttää tiedonantovelvoitteiden päällekkäisyys, niiden on otettava huomioon asiaankuuluvat julkisesti saatavilla olevat tiedot.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Jos kansalliset sääntelyviranomaiset eivät aseta tietoja saataville kohtuullisessa ajassa, BEREC tai BEREC-virasto voi osoittaa perustellun pyynnön joko muille kansallisille sääntelyviranomaisille ja muille asianomaisen jäsenvaltion toimivaltaisille viranomaisille tai suoraan asianomaisille sähköisen viestinnän verkkoja, palveluja ja niihin liittyviä toimintoja tarjoaville yrityksille. BERECin tai BEREC-viraston on ilmoitettava ensimmäisen alakohdan mukaisesti esitetyistä pyynnöistä kansallisille sääntelyviranomaisille, jotka eivät ole toimittaneet tietoja. Kansallisten sääntelyviranomaisten on BERECin tai BEREC-viraston pyynnöstä avustettava BERECiä tietojen keräämisessä.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Jäsenvaltioiden on varmistettava, että kansallisilla sääntelyviranomaisilla ja muilla toimivaltaisilla viranomaisilla on valtuudet pyytää muita asiasta vastaavia kansallisia viranomaisia tai sähköisen viestinnän verkkoja ja palveluja taikka niihin liittyviä toimintoja tai palveluja tarjoavia yrityksiä toimittamaan kaikki tiedot, jotka ovat tarpeen tässä artiklassa tarkoitettujen tehtävien hoitamiseksi. Muiden ensimmäisessä alakohdassa tarkoitettujen vastuussa olevien kansallisten viranomaisten tai yritysten on pyynnöstä toimitettava tiedot viipymättä edellytetyn aikataulun mukaisesti ja vaaditulla tarkkuudella. Jäsenvaltioiden on varmistettava, että kansallisilla sääntelyviranomaisilla ja muilla toimivaltaisilla viranomaisilla on valtuudet valvoa tietoja koskevia pyyntöjä ja määrätä asianmukaisia, tehokkaita, oikeasuhteisia ja varoittavia seuraamuksia.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_41",
+   "kind": "article",
+   "number": "41",
+   "label": "41 artikla",
+   "title": "Tieto- ja viestintäjärjestelmä",
+   "path": [
+    "IX LUKU — YLEISET SÄÄNNÖKSET"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC-virasto perustaa tieto- ja viestintäjärjestelmän ja hallinnoi sitä. Järjestelmällä on vähintään seuraavat toiminnot: a) yhteinen tiedonvaihtofoorumi, joka tarjoaa BERECille, komissiolle ja kansallisille sääntelyviranomaisille niiden tarvitsemaa tietoa sähköistä viestintää koskevan unionin sääntelyjärjestelmän johdonmukaista täytäntöönpanoa varten; b) yhteystaho, joka vastaa 40 artiklassa tarkoitetuista BERECin, BEREC-viraston, komission ja kansallisten sääntelyviranomaisten tietopyynnöistä ja pyyntöjen tiedoksi saattamisesta; c) foorumi kansallisten sääntelyviranomaisten välisten koordinointitarpeiden varhaiseksi tunnistamiseksi.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Hallintoneuvosto vahvistaa tekniset ja toiminnalliset eritelmät ja 1 kohdassa tarkoitetun tieto- ja viestintäjärjestelmän perustamissuunnitelman. Järjestelmä on laadittava rajoittamatta immateriaalioikeuksia ja luottamuksellisuusvaatimuksia.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Tietojen ja viestintäjärjestelmien on oltava toimintakunnossa viimeistään 21 päivänä kesäkuuta 2020.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_42",
+   "kind": "article",
+   "number": "42",
+   "label": "42 artikla",
+   "title": "Ilmoitus sidonnaisuuksista",
+   "path": [
+    "IX LUKU — YLEISET SÄÄNNÖKSET"
+   ],
+   "blocks": [
+    {
+     "text": "1. Jokaisen sääntelyneuvoston ja hallintoneuvoston jäsenen, johtajan, kansallisen asiantuntijan ja muun henkilöstön jäsenen, joka ei ole BEREC-viraston palveluksessa, on tehtävä kirjallinen ilmoitus sitoumuksistaan sekä siitä, onko olemassa heidän riippumattomuutensa mahdollisesti vaarantavia välittömiä tai välillisiä sidonnaisuuksia. Ilmoitusten tekeminen on pakollista tehtävän vastaanottamisen yhteydessä ja ilmoitusten on oltava tarkkoja ja täydellisiä, ja ne on saatettava ajan tasalle, kun riskinä on ilmoituksen antavan henkilön riippumattomuuden mahdollisesti vaarantava välitön tai välillinen sidonnaisuus. Sääntelyneuvoston jäsenten, hallintoneuvoston jäsenten ja johtajan tekemät ilmoitukset on julkaistava.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Jokaisen sääntelyneuvoston, hallintoneuvoston ja työryhmien jäsenen sekä muiden niiden kokouksiin osallistujien, johtajan, kansallisen asiantuntijan ja muun henkilöstön jäsenen, joka ei ole BEREC-viraston palveluksessa, on ilmoitettava viimeistään kunkin kokouksen alussa tarkasti ja täydellisesti mahdolliset sidonnaisuudet, jotka saattavat vaarantaa heidän riippumattomuutensa kokouksen esityslistalla olevien asioiden suhteen, sekä pidättäydyttävä osallistumasta kyseisiä kohtia koskevaan keskusteluun ja äänestykseen.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Sääntelyneuvosto ja hallintoneuvosto vahvistavat säännöt eturistiriitojen ehkäisemisestä ja hallinnasta ja erityisesti käytännön järjestelyistä 1 ja 2 kohdan soveltamiseksi.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_43",
+   "kind": "article",
+   "number": "43",
+   "label": "43 artikla",
+   "title": "Petostentorjunta",
+   "path": [
+    "IX LUKU — YLEISET SÄÄNNÖKSET"
+   ],
+   "blocks": [
+    {
+     "text": "1. Helpottaakseen Euroopan parlamentin ja neuvoston asetuksen (EU, Euratom) N:o 883/2013 soveltamisalaan kuuluvien petosten, lahjonnan ja muiden laittomien toimien torjuntaa BEREC-virasto liittyy viimeistään 21 päivänä kesäkuuta 2019 Euroopan parlamentin, Euroopan unionin neuvoston ja Euroopan yhteisöjen komission 25 päivänä toukokuuta 1999 tekemään toimielinten väliseen sopimukseen Euroopan petostentorjuntaviraston (OLAF) sisäisistä tutkimuksista ja vahvistaa mainitun sopimuksen liitteessä olevaa mallia käyttäen asianmukaiset määräykset, joita sovelletaan BEREC-viraston kaikkeen henkilöstöön.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Tilintarkastustuomioistuimella on valtuudet tehdä kaikkien BEREC-virastolta unionin rahoitusta saaneiden avustuksensaajien, toimeksisaajien ja alihankkijoiden osalta asiakirjoihin perustuvia ja paikalla suoritettavia tarkastuksia.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. OLAF voi suorittaa tutkimuksia, kuten paikan päällä tehtäviä tarkastuksia tai todentamisia asetuksessa (EU, Euratom) N:o 883/2013 ja neuvoston asetuksessa (Euratom, EY) N:o 2185/96 säädettyjä säännöksiä ja menettelyjä noudattaen, jotta voidaan selvittää, liittyykö BEREC-viraston avustussopimukseen, avustuspäätökseen tai sopimukseen petos, lahjonta tai muu laiton toiminta, joka vaikuttaa unionin taloudellisiin etuihin.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Kolmansien maiden ja kansainvälisten järjestöjen kanssa tehdyissä yhteistyösopimuksissa sekä muissa sopimuksissa, avustussopimuksissa ja avustuspäätöksissä on nimenomaisesti annettava tilintarkastustuomioistuimelle ja OLAFille valtuudet tehdä tällaisia tarkastuksia ja tutkimuksia toimivaltuuksiensa mukaisesti, sanotun kuitenkaan rajoittamatta 1, 2 ja 3 kohdan soveltamista.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_44",
+   "kind": "article",
+   "number": "44",
+   "label": "44 artikla",
+   "title": "Vastuu",
+   "path": [
+    "IX LUKU — YLEISET SÄÄNNÖKSET"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC-viraston sopimusperusteinen vastuu määräytyy asianomaiseen sopimukseen sovellettavan lain mukaisesti.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Euroopan unionin tuomioistuimella, jäljempänä ”unionin tuomioistuin”, on toimivalta antaa ratkaisu BEREC-viraston tekemässä sopimuksessa mahdollisesti olevan välityslausekkeen nojalla.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Jos kyseessä on sopimukseen perustumaton vastuu, BEREC-virasto korvaa jäsenvaltioiden lainsäädäntöön sisältyvien yhteisten perusperiaatteiden mukaisesti vahingon, jonka sen yksiköt tai henkilöstön jäsenet ovat tehtäviään hoitaessaan aiheuttaneet.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Unionin tuomioistuimella on toimivalta ratkaista riidat, jotka koskevat 3 kohdassa tarkoitettujen vahinkojen korvaamista.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. BEREC-viraston henkilöstöön kuuluvien henkilökohtaisesta korvausvastuusta BEREC-virastoa kohtaan määrätään heihin sovellettavissa henkilöstösäännöissä tai muuhun henkilöstöön sovellettavissa palvelussuhteen ehdoissa.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_45",
+   "kind": "article",
+   "number": "45",
+   "label": "45 artikla",
+   "title": "Hallinnolliset tutkimukset",
+   "path": [
+    "IX LUKU — YLEISET SÄÄNNÖKSET"
+   ],
+   "blocks": [
+    {
+     "text": "BERECin ja BEREC-viraston toiminta kuuluu oikeusasiamiehen valvonnan alaisuuteen SEUT 228 artiklan mukaisesti.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_46",
+   "kind": "article",
+   "number": "46",
+   "label": "46 artikla",
+   "title": "Kielijärjestelyt",
+   "path": [
+    "IX LUKU — YLEISET SÄÄNNÖKSET"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC-virastoon sovelletaan asetusta N:o 1.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Euroopan unionin elinten käännöskeskus huolehtii BEREC-viraston toiminnassa tarvittavista käännöspalveluista.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_47",
+   "kind": "article",
+   "number": "47",
+   "label": "47 artikla",
+   "title": "Toimipaikkaa koskeva sopimus ja toimintaedellytykset",
+   "path": [
+    "X LUKU — LOPPUSÄÄNNÖKSET"
+   ],
+   "blocks": [
+    {
+     "text": "1. Vastaanottavan jäsenvaltion BEREC-virastolle tarjoamia tiloja ja palveluja koskevat järjestelyt sekä johtajaan, hallintoneuvoston jäseniin, BEREC-viraston henkilöstöön ja heidän perheenjäseniinsä vastaanottavassa jäsenvaltiossa sovellettavat erityissäännöt vahvistetaan BEREC-viraston ja isäntäjäsenvaltion välisessä toimipaikkaa koskevassa sopimuksessa, joka tehdään sen jälkeen kun hallintoneuvosto on sen hyväksynyt ja viimeistään 21 päivänä joulukuuta 2020.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Isäntäjäsenvaltion on varmistettava BEREC-viraston moitteettomalle ja tehokkaalle toiminnalle tarvittavat edellytykset, mukaan lukien monikieliset ja Eurooppa-suuntautuneet koulunkäyntimahdollisuudet sekä asianmukaiset liikenneyhteydet.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_48",
+   "kind": "article",
+   "number": "48",
+   "label": "48 artikla",
+   "title": "Arviointi",
+   "path": [
+    "X LUKU — LOPPUSÄÄNNÖKSET"
+   ],
+   "blocks": [
+    {
+     "text": "1. Komissio tekee viimeistään 21 päivänä joulukuuta 2023 ja sen jälkeen viiden vuoden välein komission suuntaviivojen mukaisen arvioinnin BERECin ja BEREC-viraston toiminnasta suhteessa niiden tavoitteisiin, toimeksiantoon, tehtäviin ja toimipaikkaan. Arvioinnissa tarkastellaan erityisesti mahdollista tarvetta muuttaa BERECin ja BEREC-viraston rakennetta tai toimeksiantoa, ja tällaisten muutosten taloudellisia vaikutuksia.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Jos komissio toteaa, että BERECin tai BEREC-viraston toiminnan jatkaminen ei ole enää perusteltua ottaen huomioon sille asetetut tavoitteet, toimeksianto ja tehtävät, se voi ehdottaa tämän asetuksen muuttamista tai kumoamista.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Komissio raportoi Euroopan parlamentille, neuvostolle ja hallintoneuvostolle arvioinnin tuloksista ja julkistaa ne.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_49",
+   "kind": "article",
+   "number": "49",
+   "label": "49 artikla",
+   "title": "Siirtymäsäännökset",
+   "path": [
+    "X LUKU — LOPPUSÄÄNNÖKSET"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC-virasto korvaa asetuksella (EY) N:o 1211/2009 perustetun viraston kaikkien omistusten, sopimusten, oikeudellisten velvoitteiden, työsopimusten, taloudellisten sitoumusten ja vastuiden osalta. Erityisesti tämä asetus ei vaikuta viraston henkilöstön oikeuksiin ja velvoitteisiin. Tämän henkilöstön työsopimukset voidaan tämän asetuksen nojalla uusia henkilöstösääntöjen ja muun henkilöstön palvelussuhteen ehtojen mukaisesti sekä BEREC-viraston talousarvion puitteissa.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Asetuksen (EY) N:o 1211/2009 nojalla nimitetty hallintojohtaja toimii 20 päivästä joulukuuta 2018 alkaen johtajana hoitaen tässä asetuksessa säädettyjä tehtäviä. Muut hallintojohtajaa koskevat sopimusehdot säilyvät muuttumattomina.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Hallintoneuvosto voi päättää uusia tämän artiklan 2 kohdassa tarkoitetun johtajan toimikauden uudella kaudella. Tällöin sovelletaan 32 artiklan 5 ja 6 kohtaa soveltuvin osin. Johtajan toimikausien yhteenlaskettu kesto ei voi ylittää kymmentä vuotta.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Tämän asetuksen 7 ja 15 artiklassa tarkoitettu sääntelyneuvosto ja hallintoneuvosto koostuvat asetuksen (EY) N:o 1211/2009 4 artiklassa tarkoitetun sääntelyneuvoston ja 7 artiklassa tarkoitetun johtokunnan jäsenistä, kunnes uudet edustajat on nimitetty.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Sääntelyneuvoston ja hallintoneuvoston puheenjohtajat ja varapuheenjohtajat, jotka on nimitetty asetuksen (EY) N:o 1211/2009 perusteella, pysyvät toimessaan yksivuotisen toimikautensa jäljellä olevan ajan tämän asetuksen 10 artiklassa tarkoitettuina sääntelyneuvoston puheenjohtajana ja varapuheenjohtajina sekä tämän asetuksen 17 artiklassa tarkoitettuina hallintoneuvoston puheenjohtajana ja varapuheenjohtajina. Sääntelyneuvoston ja hallintoneuvoston puheenjohtajien ja varapuheenjohtajien asetuksen (EY) N:o 1211/2009 perusteella tehtyjä nimityksiä, jotka on tehty 20 päivään joulukuuta 2018 mennessä mutta jotka ovat voimassa kyseisen päivän jälkeen, on kunnioitettava.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Asetuksen (EY) N:o 1211/2009 11 artiklan nojalla hyväksyttyä talousarviota koskeva vastuuvapausmenettely toteutetaan kyseisessä asetuksessa vahvistettujen sääntöjen mukaisesti.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_50",
+   "kind": "article",
+   "number": "50",
+   "label": "50 artikla",
+   "title": "Asetuksen (EU) 2015/2120 muuttaminen",
+   "path": [
+    "X LUKU — LOPPUSÄÄNNÖKSET"
+   ],
+   "blocks": [
+    {
+     "text": "Muutetaan asetus (EU) 2015/2120 seuraavasti:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "1) Korvataan otsikko seuraavasti: ”Euroopan parlamentin ja neuvoston asetus (EU) 2015/2120, annettu 25 päivänä marraskuuta 2015, avointa internetyhteyttä koskevista toimenpiteistä ja säännellyn EU:n sisäisen viestinnän vähittäishinnoittelusta sekä direktiivin 2002/22/EY ja asetuksen (EU) N:o 531/2012 muuttamisesta”.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "2) Lisätään 1 artiklaan kohta seuraavasti: ”3. Tällä asetuksella määritellään myös yhteiset säännöt sen varmistamiseksi, että kuluttajilta ei laskuteta kohtuuttomia hintoja numeroihin perustuvien henkilöiden välisten viestintäpalvelujen käytöstä, kun yhteys otetaan jäsenvaltiossa kuluttajan kotimaan palveluntarjoajan toimesta toisessa jäsenvaltiossa sijaitsevaan kiinteään tai matkapuhelinliittymään.”",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "3) Lisätään 2 artiklan toiseen kohtaan alakohdat seuraavasti: ”3) ’säännellyllä EU:n sisäisellä viestinnällä’ kaikkia numeroihin perustuvien henkilöiden välisten viestintäpalvelujen käyttöä, kun yhteys otetaan kuluttajan kotimaan palveluntarjoajan jäsenvaltiosta toisessa jäsenvaltiossa sijaitsevaan kansalliseen numerointialueeseen kuuluvaan kiinteään tai matkapuhelinliittymään; 4) ’numeroihin perustuvilla henkilöiden välisillä viestintäpalveluilla’ kaikkia Euroopan parlamentin ja neuvoston direktiivin (EU) 2018/1972 2 artiklan 6 alakohdassa tarkoitettuja numeroihin perustuvia henkilöiden välisiä viestintäpalveluja. (*1) Euroopan parlamentin ja neuvoston direktiivi (EU) 2018/1972, annettu 11 päivänä joulukuuta 2018, eurooppalaisesta sähköisen viestinnän säännöstöstä (EUVL L 321, 17.12.2018, s. 36).” \"",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "4) Lisätään artikla seuraavasti: ”5 a artikla Säännellyn EU:n sisäisen viestinnän vähittäishinnoittelu 1. Kuluttajilta EU:n sisäisestä viestinnästä perittävät vähittäishinnat (ilman alv:tä) eivät 15 päivästä toukokuuta 2019 alkaen saa puheluiden osalta ylittää 0,19 euroa minuutilta eivätkä 0,06 euroa tekstiviestien osalta. 2. Sen estämättä, mitä 1 kohdassa säädetään, säännellyn EU:n sisäisen viestinnän tarjoajat voivat lisäksi tarjota ja kuluttajat nimenomaisesti valita kansainvälistä viestintää sekä säänneltyä EU:n sisäistä viestintää varten erilaisen kuin 1 kohdan mukaisesti määritellyn tariffin, jolloin kuluttajat voivat säännellyssä EU:n sisäisessä viestinnässä käyttää toista tariffia kuin sitä, joka heille olisi määritelty, ellei tällaista valintamahdollisuutta olisi. Ennen kuin kuluttajat valitsevat tällaisen erilaisen tariffin, säännellyn EU:n sisäisen viestinnän tarjoajien on tiedotettava heille niiden etujen luonteesta, jotka he tällöin menettäisivät. 3. Jos 2 kohdassa tarkoitettu säännellyn EU:n sisäisen viestinnän tariffi ylittää 1 kohdassa säädetyn hintakaton, niille kuluttajille, jotka eivät ole vahvistaneet tai ilmoittaneet kahden kuukauden kuluessa 15 päivästä toukokuuta 2019 minkään 2 kohdassa tarkoitetun tariffin valintaa, tarjotaan automaattisesti 1 kohdassa säädetyt tariffit. 4. Kuluttajat voivat luopua 1 kohdassa säädetyn tariffin käytöstä tai siirtyä siihen takaisin maksutta yhden työpäivän kuluessa siitä, kun palveluntarjoaja on vastaanottanut kyselyn, ja palveluntarjoajien on varmistettava, että tällaiseen vaihtoon ei sisälly ehtoja tai rajoituksia, jotka liittyvät muuta kuin säänneltyä EU:n sisäistä viestintää koskevien sopimusten seikkoihin. 5. Kun 1 kohdassa tarkoitetut enimmäishinnat ilmaistaan muuna valuuttana kuin euroina, alkuperäiset rajat määritetään kyseisenä valuuttana soveltamalla niiden viitekurssien keskiarvoa, jotka Euroopan keskuspankki on julkaissut Euroopan unionin virallisessa lehdessä 15 päivänä tammikuuta, 15 päivänä helmikuuta ja 15 päivänä maaliskuuta 2019. Rajat muissa valuutoissa kuin euroissa tarkistetaan vuosittain vuodesta 2020 lähtien. Näiden valuuttojen vuosittain tarkistettuja rajoja sovelletaan 15 päivästä toukokuuta käyttäen saman vuoden 15 päivänä tammikuuta, 15 päivänä helmikuuta ja 15 päivänä maaliskuuta julkaistujen viitekurssien keskiarvoa. 6. Kansalliset sääntelyviranomaiset seuraavat säännellyn EU:n sisäisen viestinnän markkina- ja hintakehitystä ja raportoivat siitä komissiolle. Kun säännellyn EU:n sisäisen viestinnän palveluntarjoaja toteaa, että erityisten ja poikkeuksellisten olosuhteiden vuoksi, jotka erottavat sen useimmista muista unionin palveluntarjoajista, 1 kohdassa tarkoitetun hintakaton soveltamisella olisi merkittävät vaikutukset kyseisen palveluntarjoajan edellytyksiin pitää voimassa kotimaan viestintää varten olemassa olevat hinnat, kansalliset sääntelyviranomaiset voivat kyseisen palveluntarjoajan pyynnöstä myöntää säännellyn EU:n sisäisen viestinnän palvelun tarjoajalle poikkeuksen 1 kohdasta ainoastaan siinä laajuudessa kuin on tarpeen ja yhden vuoden ajaksi, joka voidaan uusia. Kotimaan laskutusmallin kestävyyden arviointi perustuu asianomaiselle säännellyn EU:n sisäisen viestinnän palveluntarjoajalle ominaisiin tekijöihin sekä kotimaiseen hinta- ja tulotasoon. Kun poikkeusta hakeva palveluntarjoaja on toimittanut asianmukaiset todisteet, kansallinen sääntelyviranomainen määrittelee hintakaton, joka ylittää jommankumman 1 kohdassa määritellyn hintakaton tai molemmat ja joka olisi välttämätön, jotta palveluntarjoajan kotimaan laskutusmalli voidaan varmistaa. BEREC julkaisee suuntaviivat perusteista, jotka kansallisten sääntelyviranomaisten on otettava huomioon arvioinnissa.”",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "5) Lisätään 6 artiklaan kohta seuraavasti: ”Jäsenvaltioiden on säädettävä 5 a artiklan rikkomiseen sovellettavista seuraamuksista ja toteutettava kaikki tarvittavat toimenpiteet sen varmistamiseksi, että ne pannaan täytäntöön. Seuraamusten on oltava tehokkaita, oikeasuhteisia ja varoittavia. Jäsenvaltioiden on ilmoitettava komissiolle näistä säännöistä sekä 5 a artiklan täytäntöönpanon varmistamiseksi toteutetuista toimenpiteistä viimeistään 15 päivänä toukokuuta 2019 ja ilmoitettava komissiolle viipymättä niitä koskevista myöhemmistä muutoksista.”",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "6) Lisätään 10 artiklaan kohta seuraavasti: ”Edellä olevan 5 a artiklan voimassaolo päättyy14 päivänä toukokuuta 2024.”",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_51",
+   "kind": "article",
+   "number": "51",
+   "label": "51 artikla",
+   "title": "Kumoaminen",
+   "path": [
+    "X LUKU — LOPPUSÄÄNNÖKSET"
+   ],
+   "blocks": [
+    {
+     "text": "Kumotaan asetus (EY) N:o 1211/2009.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Viittauksia kumottuun asetukseen pidetään viittauksina tähän asetukseen liitteessä olevan vastaavuustaulukon mukaisesti.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_52",
+   "kind": "article",
+   "number": "52",
+   "label": "52 artikla",
+   "title": "Voimaantulo",
+   "path": [
+    "X LUKU — LOPPUSÄÄNNÖKSET"
+   ],
+   "blocks": [
+    {
+     "text": "Tämä asetus tulee voimaan kolmantena päivänä sen jälkeen, kun se on julkaistu Euroopan unionin virallisessa lehdessä.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "anx_1",
+   "kind": "annex",
+   "number": "1",
+   "label": "LIITE",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Vastaavuustaulukko",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Asetus (EY) N:o 1211/2009 Tämä asetus 1 artiklan 1 kohta 1 artikla 1 artiklan 2 kohta 3 artiklan 1 kohta 1 artiklan 3 kohta 3 artiklan 2 ja 3 kohta 1 artiklan 4 kohta 3 artiklan 4 kohta sekä 4 artiklan 1 kohdan a ja b alakohta 2 artikla 4 artikla 3 artikla 4 artikla 4 artiklan 1 kohta 6 artikla 4 artiklan 2 kohta 7 artiklan 1, 2 ja 4 kohta, 8 artiklan 1 ja 2 kohta 4 artiklan 3 kohta 11 artiklan 4 ja 5 kohta ja 36 artikla 4 artiklan 4 kohta 10 artiklan 1, 2 ja 3 kohta 4 artiklan 5 kohta 10 artiklan 4 kohta 4 artiklan 6 kohta 11 artikla 4 artiklan 7 kohta 13 artikla 4 artiklan 8 kohta 7 artiklan 4 kohta 4 artiklan 9 kohta 12 artiklan 1 ja 2 kohta 4 artiklan 10 kohta 12 artiklan 3 kohta 4 artiklan 11 kohta 5 artikla 5 artikla 4 artikla 6 artiklan 1 kohta 2 artiklan 1 kohta 6 artiklan 2 kohta 5 artikla 6 artiklan 3 kohta 14 artiklan 1 kohta 6 artiklan 4 kohta 2 artiklan 2 kohta 6 artiklan 5 kohta 20 ja 31 artikla 7 artiklan 1 kohta 15 artiklan 1 kohta 7 artiklan 2 kohta 32 artikla 7 artiklan 3 kohta 20 artiklan 6 kohta 7 artiklan 4 kohta 16 artiklan 1 kohdan k alakohta 7 artiklan 5 kohta 13 artikla 8 artikla 32 artikla 9 artikla 20 artikla 10 artiklan 1 kohta 30 ja 34 artikla 10 artiklan 2 kohta 16 artiklan 1 kohdan j alakohta 10 artiklan 3 kohta 16 artiklan 2 kohta 10 artiklan 4 kohta 33 artikla 11 artikla 25 artikla 12 artikla 24 artikla 13 artikla 26 artikla 14 artikla — 15 artikla 29 artikla 16 artikla 43 artikla 17 artikla 4 artiklan 5 kohta 18 artikla 37 artikla 19 artikla 39 ja 40 artikla 20 artikla 38 artikla 21 artikla 42 artikla 22 artikla 36 artikla 23 artikla 34 artikla 24 artikla 44 artikla 25 artikla 48 artikla 26 artikla 52 artikla",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  }
+ ]
+}

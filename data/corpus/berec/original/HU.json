@@ -1,0 +1,2818 @@
+{
+ "document": "berec",
+ "version": "original",
+ "lang": "HU",
+ "meta": {
+  "source": "eurlex",
+  "celex": "32018R1971",
+  "kind": "original",
+  "date": "2018-12-11",
+  "built_at": "2026-10-07T10:10:17+00:00",
+  "sources_sha256": {
+   "32018R1971": "9cc1472c85a4f46445117a40beddbe0631d98712a6edff7fa3af0f4723d1d1a4"
+  },
+  "counts": {
+   "article": 52,
+   "recital": 53,
+   "annex": 1
+  }
+ },
+ "provisions": [
+  {
+   "id": "rct_1",
+   "kind": "recital",
+   "number": "1",
+   "label": "(1)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Az (EU) 2018/1972 európai parlamenti és tanácsi irányelv célja az elektronikus hírközlés Unión belüli belső piacának létrehozása, egyúttal annak biztosítása, hogy az erősebb verseny révén biztosított legyen a befektetések, az innováció és a fogyasztóvédelem magas szintje. Az említett irányelv számos új feladatot állapít meg az Európai Elektronikus Hírközlési Szabályozók Testülete (a továbbiakban: BEREC) számára, így például iránymutatások kiadását több különböző témakörben, műszaki jelentések készítését, nyilvántartások, jegyzékek és adatbázisok vezetését, valamint vélemények kiadását a nemzeti piacszabályozási intézkedéstervezetekre alkalmazandó belső piaci eljárásokról.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_2",
+   "kind": "recital",
+   "number": "2",
+   "label": "(2)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Az 531/2012/EU európai parlamenti és tanácsi rendelet az Unió egészére kiterjedő barangolás tekintetében kiegészíti és alátámasztja az elektronikus hírközlés szabályozási kerete által előírt szabályokat, valamint meghatározza a BEREC egyes feladatait.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_3",
+   "kind": "recital",
+   "number": "3",
+   "label": "(3)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Az (EU) 2015/2120 európai parlamenti és tanácsi rendelet további feladatokat is meghatároz a BEREC számára a nyílt internet-hozzáféréssel kapcsolatban. Üdvözlendők ezenkívül azok az európai hálózatsemlegességre vonatkozó szabályok nemzeti szabályozók által történő végrehajtására vonatkozó, 2016. augusztus 30-i BEREC-iránymutatások, amelyek fontos pontosításokat fogalmaztak meg az erős, szabad és nyílt internet biztosítása érdekében, amely azon szabályok következetes alkalmazásának biztosításával valósulna meg, amelyek az internet-hozzáférési szolgáltatások nyújtása során a forgalom tekintetében az egyenlő és megkülönböztetésmentes bánásmódnak, valamint a végfelhasználók kapcsolódó jogainak a biztosítására irányulnak.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_4",
+   "kind": "recital",
+   "number": "4",
+   "label": "(4)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A következetes szabályozási gyakorlat kialakításának és az uniós elektronikus hírközlési és szabályozási keret következetes alkalmazásának szükségességére tekintettel a Bizottság a 2002/627/EK bizottsági határozattal létrehozta az elektronikus hírközlési hálózatokkal és szolgáltatásokkal foglalkozó európai szabályozók csoportját, amelynek azt a feladatot adta, hogy egyrészt tanácsadást és támogatást nyújtson a Bizottságnak az elektronikus hírközlő hálózatok és az elektronikus hírközlési szolgáltatások belső piacának megszilárdítása érdekében, másrészt pedig, hogy – általánosabb értelemben – összekötői szerepet töltsön be a nemzeti szabályozó hatóságok és a Bizottság között.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_5",
+   "kind": "recital",
+   "number": "5",
+   "label": "(5)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A BEREC-et és a Hivatalt az 1211/2009/EK európai parlamenti és tanácsi rendelet hozta létre. A BEREC az elektronikus hírközlési hálózatokkal és szolgáltatásokkal foglalkozó európai szabályozók csoportjának helyébe lépett azzal a céllal, hogy az elektronikus hírközlésre vonatkozó szabályozási keret következetes végrehajtásának biztosítására törekedve hozzájáruljon egyrészt az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások belső piacának fejlődéséhez, másrészt annak jobb működéséhez. A BEREC a nemzeti szabályozó hatóságok, valamint a nemzeti szabályozó hatóságok és a Bizottság közötti együttműködés fórumaként működik azok uniós szabályozási keret szerinti összes feladatának teljesítése során. A BEREC-et azzal a céllal hozták létre, hogy szakértelmet biztosítson, valamint függetlenül és átlátható módon járjon el.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_6",
+   "kind": "recital",
+   "number": "6",
+   "label": "(6)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A BEREC emellett az elektronikus hírközlés terén folyó gondolkodás és viták fórumaként, valamint az Európai Parlament, a Tanács és a Bizottság tanácsadó szerveként is szolgál.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_7",
+   "kind": "recital",
+   "number": "7",
+   "label": "(7)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A Hivatalt jogi személyiséggel rendelkező közösségi szervként hozták létre az 1211/2009/EK rendeletben említett feladatok ellátására, elsősorban arra, hogy a BEREC számára szakmai és adminisztratív támogatási szolgáltatásokat nyújtson. A Hivatal számára jogi, adminisztratív és pénzügyi autonómiát biztosítottak annak érdekében, hogy hatékony támogatást tudjon nyújtani a BEREC számára.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_8",
+   "kind": "recital",
+   "number": "8",
+   "label": "(8)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A tagállamok kormányainak képviselői a 2010/349/EU határozatukkal úgy határoztak, hogy a Hivatal székhelye Rigában lesz. A Lett Köztársaság kormánya és a Hivatal által a székhelyről megkötött megállapodás 2011. augusztus 5-én lépett hatályba.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_9",
+   "kind": "recital",
+   "number": "9",
+   "label": "(9)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A 2015. május 6-i, Európai digitális egységes piaci stratégia című közleményében a Bizottság 2016-ra az elektronikus hírközlési szabályozási keret alapos átdolgozása érdekében javaslatok előterjesztését irányozta elő, amelyek többek között egy olyan hatékonyabb intézményi szabályozási keret kialakítására összpontosítanak, amely annak a biztosítására irányul – a digitális egységes piac megfelelő feltételeinek megteremtése részeként –, hogy az elektronikus hírközlési szabályok megfeleljenek a rendeltetésüknek. Az említettek magukban foglalják a rendkívül nagy kapacitású hálózatok kialakítását, a vezeték nélküli hálózatok céljára használt rádióspektrummal történő koordináltabb gazdálkodást, valamint az egyenlő versenyfeltételek biztosítását a fejlett digitális hálózatok és innovatív szolgáltatások számára. A Bizottság a közleményben rámutatott arra, hogy a változó piaci és technológiai környezet szükségessé teszi az intézményi keret megerősítését a BEREC szerepkörének növelése révén.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_10",
+   "kind": "recital",
+   "number": "10",
+   "label": "(10)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A digitális egységes piaci intézkedéscsomag megvalósításáról szóló, 2016. január 19-i állásfoglalásában az Európai Parlament felkérte a Bizottságot, hogy a hatékonyabb intézményi keret kialakítása révén gondoskodjon a digitális egységes piac további integrálásáról.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_11",
+   "kind": "recital",
+   "number": "11",
+   "label": "(11)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A BEREC és a Hivatal kedvezően járult hozzá az elektronikus hírközlésre vonatkozó szabályozási keret következetes végrehajtásához. Ennek ellenére még mindig jelentős különbségek vannak a tagállamok között a szabályozási gyakorlat tekintetében, ami kedvezőtlen hatást gyakorol a határokon átnyúló üzleti tevékenységet folytató vállalkozásokra és a jelentős számú tagállamban tevékeny vállalkozásokra abban az esetben is, amikor ugyan rendelkezésre állnak BEREC-iránymutatások, de azokat tovább lehetne fejleszteni. E rendelet a BEREC szerepkörének megerősítésére törekszik annak érdekében, hogy az Unió egészében még nagyobb mértékben elősegítse az elektronikus hírközlés belső piacának fejlődését, a rendkívül nagy kapacitású hálózatokhoz való hozzáférést és azok használatának elterjedését, a verseny fokozását az elektronikus hírközlő hálózatok, az elektronikus hírközlési szolgáltatások és a kapcsolódó eszközök biztosítása terén, továbbá az uniós polgárok érdekeinek érvényesülését. Ez a megerősített szerepkör kiegészítené a BEREC által betöltött, az 531/2012/EU rendelet, az (EU) 2015/2120 rendelet és az (EU) 2018/1972 irányelv alapján kibővített szerepkört is.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_12",
+   "kind": "recital",
+   "number": "12",
+   "label": "(12)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A gyakran jelentős határon átnyúló dimenzióval rendelkező piaci és technológiai fejlemények, valamint az elektronikus hírközlés területén a következetes végrehajtás biztosítása során szerzett tapasztalatok fényében megállapítható, hogy építeni kell a BEREC és a Hivatal munkájára. A BEREC és a Hivatal irányítását és az általuk végzett tevékenységeket észszerűsíteni kell, valamint alkalmassá kell tenni arra, hogy a BEREC és a Hivatal el tudja végezni a rájuk ruházott feladatokat. A már kialakított eljárásokra, valamint a BEREC-re és a Hivatalra ruházott új feladatokra tekintettel, valamint a működésük hatékonyabbá tétele érdekében, fokozottabb stabilitást kell biztosítani a vezetésük számára, valamint egyszerűsíteni kell a döntéshozatali folyamatot.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_13",
+   "kind": "recital",
+   "number": "13",
+   "label": "(13)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A BEREC-nek szakértelmet kell biztosítania és bizalmat kell teremtenie, mégpedig függetlensége, az általa nyújtott tanácsok és információk színvonala, eljárásainak és működési módszereinek átláthatósága, valamint a feladatai ellátásában tanúsított gondossága révén. A BEREC függetlensége nem jelenti azt, hogy szabályozói tanácsa nem támaszkodhat a munkacsoportok által készített tervezetekre a tanácskozásai során.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_14",
+   "kind": "recital",
+   "number": "14",
+   "label": "(14)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A Hivatal új hivatalos neveként „a BEREC Működését Segítő Ügynökség” (a továbbiakban: a BEREC Hivatal) elnevezést kell használni. A „BEREC Hivatal” megnevezést az Ügynökség rövid megnevezéseként kell használni. A BEREC Hivatalnak jogi, adminisztratív és pénzügyi autonómiával kell rendelkeznie. Ennek érdekében szükséges és helyénvaló, hogy a BEREC Hivatal jogi személyiséggel rendelkező uniós szerv legyen, amely a ráruházott jogköröket gyakorolja. Decentralizált uniós ügynökségként a BEREC Hivatalnak megbízatása keretei között és a meglévő intézményi kereten belül kell működnie. A BEREC Hivatal nem tekintendő olyan testületnek, amely uniós álláspontot képvisel a nyilvánosság felé vagy az Unió nevében jogi kötelezettségeket vállal.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_15",
+   "kind": "recital",
+   "number": "15",
+   "label": "(15)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ezen túlmenően a BEREC Hivatal irányítására és működtetésére vonatkozó szabályokat adott esetben össze kell hangolni az Európai Parlament, a Tanács és az Európai Bizottság decentralizált ügynökségekről elfogadott, 2012. július 19-i együttes nyilatkozatában foglalt elvekkel.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_16",
+   "kind": "recital",
+   "number": "16",
+   "label": "(16)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Az uniós intézmények és a nemzeti szabályozó hatóságok számára lehetővé kell tenni, hogy igénybe vegyék a BEREC által biztosított segítségnyújtást és tanácsadást, többek között a digitális piacok általános dinamikájára vonatkozó bármilyen kérdés releváns szabályozási hatásait illetően, illetve a harmadik felekkel fennálló kapcsolataikkal, a velük folytatott megbeszélésekkel és véleménycserékkel, valamint a bevált szabályozási gyakorlatok harmadik felekkel történő megosztásával kapcsolatban. Azon túl, hogy hozzájárul a Bizottság nyilvános konzultációjához, a BEREC-nek kérésre tanácsadást kell biztosítania a Bizottság számára a jogalkotási javaslatok előkészítése során. A BEREC számára továbbá azt is lehetővé kell tenni, hogy tanácsadást biztosítson az Európai Parlament és a Tanács részére, utóbbiak kérése vagy saját kezdeményezése alapján.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_17",
+   "kind": "recital",
+   "number": "17",
+   "label": "(17)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Az elektronikus hírközlés terén szakértelemmel rendelkező, továbbá a nemzeti szabályozó hatóságok és a Bizottság képviselőiből álló műszaki testületként a BEREC a leginkább alkalmas az olyan feladatok végrehajtására, mint például a hatékony belső piaci eljárásokhoz való hozzájárulás a piaci szabályozásra vonatkozó nemzeti intézkedéstervezetek esetében, a szükséges iránymutatások biztosítása a nemzeti szabályozó hatóságok és más illetékes hatóságok részére a közös kritériumok és a következetes szabályozói megközelítés biztosítása érdekében, valamint egyes uniós szintű nyilvántartások, adatbázisok és jegyzékek vezetése. Ez nem érinti – az elektronikus hírközlési piacokhoz közelebb álló és a helyi feltételeket jobban ismerő – nemzeti szabályozó hatóságok számára meghatározott feladatokat.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_18",
+   "kind": "recital",
+   "number": "18",
+   "label": "(18)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Feladatainak ellátása érdekében a BEREC-nek továbbra is be kell vonnia a nemzeti szabályozó hatóságok szakértői erőforrásait. A BEREC-nek törekednie kell annak biztosítására, hogy szabályozói feladatainak ellátásában és a testület működtetésében az összes nemzeti szabályozó hatóság részt vegyen. A BEREC megerősítése és reprezentativitásának növelése, valamint mindazon szakértelem, tapasztalat és tudás megőrzése érdekében, amely az egyes nemzeti piacok sajátos helyzetére vonatkozik, minden tagállamnak biztosítania kell, hogy nemzeti szabályozó hatósága rendelkezzen az ahhoz szükséges megfelelő pénzügyi és humánerőforrásokkal, hogy teljes mértékben részt tudjon venni a BEREC munkájában.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_19",
+   "kind": "recital",
+   "number": "19",
+   "label": "(19)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Az elektronikus hírközlési szolgáltatásokat nyújtó ágazatok közötti egyre nagyobb mértékű konvergencia fényében, valamint tekintettel a fejlődésükkel kapcsolatos szabályozási kérdések horizontális dimenziójára, a BEREC és a BEREC Hivatal számára lehetővé kell tenni, hogy – a felsoroltak szerepkörének sérelme nélkül – együttműködjön a nemzeti szabályozó hatóságokkal, más uniós szervekkel, hivatalokkal, ügynökségekkel és tanácsadó csoportokkal, és ezen belül is mindenekelőtt a 2002/622/EK bizottsági határozattal létrehozott, a rádiófrekvencia-politikával foglalkozó csoporttal, az (EU) 2018/1725 európai parlamenti és tanácsi rendelettel hivatalba helyezett európai adatvédelmi biztossal, az (EU) 2016/679 európai parlamenti és tanácsi rendelettel létrehozott Európai Adatvédelmi Testülettel, a 2010/13/EU európai parlamenti és tanácsi irányelvvel létrehozott audiovizuális médiaszolgáltatások európai szabályozói csoportjával, az 526/2013/EU európai parlamenti és tanácsi rendelettel létrehozott Európai Uniós Hálózat- és Információbiztonsági Ügynökséggel, a 912/2010/EU európai parlamenti és tanácsi rendelettel létrehozott Európai GNSS Ügynökséggel, a 2006/2004/EK európai parlamenti és tanácsi rendelet alapján létrehozott Fogyasztóvédelmi Együttműködési Hálózattal, az Európai Versenyhatóságok Hálózatával és az európai szabványügyi szervezetekkel, valamint már meglévő bizottságokkal (mint például a hírközlési bizottsággal és a rádióspektrum-bizottsággal). Lehetővé kell tenni továbbá, hogy a BEREC és a BEREC Hivatal együttműködhessen a versenypolitika, a fogyasztóvédelem és az adatvédelem területéért felelős érintett illetékes tagállami hatóságokkal, valamint a harmadik országok illetékes hatóságaival – különös tekintettel az elektronikus hírközlés területén illetékes szabályozó hatóságokra vagy az ilyen hatóságok csoportjaira –, valamint a nemzetközi szervezetekkel, amikor ez a feladataik ellátásához szükséges. A BEREC számára továbbá arra is lehetőséget kell biztosítani, hogy nyilvános konzultációk útján konzultációt folytasson az érdekelt felekkel.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_20",
+   "kind": "recital",
+   "number": "20",
+   "label": "(20)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A BEREC-et fel kell hatalmazni arra, hogy olyan munkamegállapodásokat kössön illetékes uniós testületekkel, ügynökségekkel, hivatalokkal, tanácsadó csoportokkal és harmadik országok illetékes hatóságaival és nemzetközi szervezetekkel, amelyek nem keletkeztetnek jogi kötelezettségeket. E munkamegállapodások célja lehet például az, hogy együttműködési kapcsolatokat alakítsanak ki és véleménycserét folytassanak szabályozási kérdésekről. A Bizottságnak biztosítania kell, hogy a szükséges munkamegállapodások összhangban legyenek az uniós szakpolitikával és prioritásokkal, valamint hogy a BEREC megbízatásának keretei között és a meglévő intézményi kereten belül működjön, továbbá ne tűnjön fel az uniós álláspontot a nyilvánosság felé képviselő, illetve az Unió nevében nemzetközi kötelezettségeket vállaló szervként.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_21",
+   "kind": "recital",
+   "number": "21",
+   "label": "(21)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A BEREC-nek a szabályozói tanácsból és különböző munkacsoportokból kell állnia. A BEREC munkájának folytonosságát a szabályozói tanács elnöki tisztségének rotációs alapon történő működése hivatott biztosítani. A különböző nemzeti szabályozó hatóságokat képviselő alelnöki tisztségek rotációját is elő kell mozdítani.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_22",
+   "kind": "recital",
+   "number": "22",
+   "label": "(22)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A BEREC-nek képesnek kell lennie arra, hogy az Unió érdekeinek szem előtt tartásával járjon el, függetlenül minden külső beavatkozástól, így többek között a politikai nyomásgyakorlástól és a kereskedelmi befolyásolástól is. Következésképpen fontos biztosítani, hogy a szabályozói tanácsba kinevezett személyek személyes és működési függetlenségét a legmagasabb szintű garanciák szavatolják. Ilyen szintű személyes és működési függetlenséget élveznek a nemzeti szabályozó hatóságok vezetői, irányító testületeik tagjai, illetve az említett vezetők és tagok helyettesei is. Ez konkrétan azt jelenti, hogy a szabályozói tanácsban helyet foglaló személyeknek függetlenül és objektíven kell eljárniuk, és nem kérhetnek vagy fogadhatnak el utasításokat feladataik ellátása során, továbbá védelmet kell élvezniük az önkényes felmentéssel szemben. A szabályozói tanács póttagjának a szerepkörét betöltheti a nemzeti szabályozó hatóság vezetője, az irányító testületének valamely tagja, az említett vezető és tagok helyettese vagy a nemzeti szabályozó hatóság más tagja is, akinek e szerepkör gyakorlása során a szabályozói tanács helyettesített tagjának nevében és megbízatása keretein belül kell eljárnia.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_23",
+   "kind": "recital",
+   "number": "23",
+   "label": "(23)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A tapasztalatok azt mutatják, hogy a BEREC feladatainak többségét hatékonyabban lehet munkacsoportokban elvégezni, amelyeknek mindig gondoskodniuk kell arról, hogy az egyes nemzeti szabályozó hatóságok véleménye és hozzájárulásai egyenlő súllyal kerüljenek figyelembevételre. Ennek megfelelően a szabályozói tanácsot kell megbízni a munkacsoportok felállításának és elnökeik kinevezésének feladatával. Annak érdekében, hogy biztosítható legyen a munkacsoportok gyors felállítása – így mindenekelőtt azoké, amelyek határidőkhöz kötött eljárásokkal foglalkoznak –, a nemzeti szabályozó hatóságoknak késedelem nélkül reagálniuk kell a kinevezési kérelmekre. A munkacsoportoknak nyitva kell állniuk a Bizottság szakértőinek részvétele előtt. A BEREC Hivatal személyzetének támogatnia kell a munkacsoportok tevékenységeit és hozzá kell járulnia azokhoz.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_24",
+   "kind": "recital",
+   "number": "24",
+   "label": "(24)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Lehetővé kell tenni, hogy a szabályozói tanács és az igazgatótanács szükség esetén és eseti alapon bárkit, akinek a véleménye érdeklődésre tarthat számot felkérhessen arra, hogy megfigyelőként részt vegyen üléseiken.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_25",
+   "kind": "recital",
+   "number": "25",
+   "label": "(25)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Adott esetben – és a feladatok tagállamokon belül a hatóságoknak történt elosztásától függően – az érintett munkacsoport más illetékes hatóságok véleményét is figyelembe kell vegye, például úgy, hogy nemzeti szintű konzultációt szervez, vagy meghívja őket a releváns ülésekre, amennyiben szakértelmükre van szükség. A BEREC függetlenségét minden körülmények között meg kell őrizni.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_26",
+   "kind": "recital",
+   "number": "26",
+   "label": "(26)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A szabályozói tanács és az igazgatótanács egymással párhuzamosan működik, és az előbbi főként szabályozási kérdésekben, az utóbbi pedig adminisztratív – például a költségvetéssel, a személyzettel és a könyvvizsgálattal kapcsolatos – kérdésekben dönt. Az igazgatótanácsban a Bizottság képviselőin felül a nemzeti szabályozó hatóságok képviselőiként főszabályként azoknak a személyeknek kell helyet foglalniuk, akiket a szabályozói tanácsba is kineveztek, a nemzeti szabályozó hatóságok azonban más olyan képviselőket is kinevezhetnek, akik teljesítik ugyanazokat a követelményeket.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_27",
+   "kind": "recital",
+   "number": "27",
+   "label": "(27)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A kinevezésre jogosult hatóság jogkörét korábban a Hivatal irányítóbizottságának alelnöke gyakorolta. E rendelet értelmében az igazgatótanács az igazgatóra ruházza a kinevezésre jogosult hatóság releváns jogköreit, aki pedig jogosult e jogkörök további átruházására. Mindennek célja hozzájárulni a BEREC Hivatal személyzetének hatékony igazgatásához.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_28",
+   "kind": "recital",
+   "number": "28",
+   "label": "(28)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A szabályozói tanácsnak és az igazgatótanácsnak évente legalább két rendes ülést kell tartania. A múltbeli tapasztalatokat és a BEREC kiterjesztett szerepkörét figyelembe véve előfordulhat, hogy a szabályozói tanácsnak vagy az igazgatótanácsnak további üléseket kell tartania.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_29",
+   "kind": "recital",
+   "number": "29",
+   "label": "(29)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A BEREC Hivatalt továbbra is az igazgatónak kell képviselnie jogi és adminisztratív kérdésekben. Az igazgatót az igazgatótanácsnak kell kineveznie, mégpedig nyílt és átlátható kiválasztási eljárást követően, annak érdekében, hogy biztosítva legyen a jelöltek szigorú értékelése és a magas szintű függetlenség. A Hivatal igazgatási vezetőjének hivatali ideje korábban három év volt. Ahhoz azonban, hogy biztosítani tudja a stabilitást és a BEREC Hivatalra vonatkozó hosszú távú stratégia megvalósítását, az igazgatónak kellően hosszú időtartamú megbízatással kell rendelkeznie.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_30",
+   "kind": "recital",
+   "number": "30",
+   "label": "(30)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Az 1271/2013/EU felhatalmazáson alapuló bizottsági rendeletet alkalmazni kell a BEREC Hivatalra.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_31",
+   "kind": "recital",
+   "number": "31",
+   "label": "(31)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A BEREC Hivatalnak minden szükséges szakmai és adminisztratív támogatást meg kell adnia a BEREC munkájához, a pénzügyi, szervezési és logisztikai támogatást is beleértve, valamint hozzá kell járulnia a BEREC által végzett szabályozói munkához.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_32",
+   "kind": "recital",
+   "number": "32",
+   "label": "(32)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A BEREC Hivatal autonómiájának és függetlenségének biztosítása, valamint a BEREC munkájához biztosítandó támogatás érdekében a BEREC Hivatalnak saját költségvetéssel kell rendelkeznie, amelynek alapvetően az Unió hozzájárulásaiból kell származnia. A költségvetésnek megfelelő összegűnek kell lennie, és tükröznie kell az új feladatokat, valamint a BEREC és a BEREC Hivatal kibővített szerepkörét. Az Európai Parlament, a Tanács és a Bizottság között létrejött, a költségvetési fegyelemről, a költségvetési ügyekben való együttműködésről és a hatékony és eredményes pénzgazdálkodásról szóló, 2013. december 2-i intézményközi megállapodás 31. pontja értelmében a BEREC Hivatal finanszírozása a költségvetési hatóság megállapodása alapján fogadható el.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_33",
+   "kind": "recital",
+   "number": "33",
+   "label": "(33)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A BEREC Hivatalnak a feladatai ellátásához szükséges megfelelő létszámú személyzettel kell rendelkeznie. Az erőforrás-programozás során gondosan értékelni kell és figyelembe kell venni minden, a BEREC Hivatalra ruházott feladatot, többek között azokat a szakmai és adminisztratív szolgáltatásokat is, amelyekkel a BEREC-et segíti szabályozói feladatainak ellátásában, valamint a pénzügyi, személyzeti és más alkalmazandó szabályzatoknak való megfelelésben, mint ahogy azt is, hogy a BEREC Hivatalra ruházott feladatok között az eddiginél nagyobb arányban vannak jelen az operatív feladatok az adminisztratív jellegű feladatokhoz képest.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_34",
+   "kind": "recital",
+   "number": "34",
+   "label": "(34)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Az elektronikus hírközlés szabályozási kerete következetes végrehajtásának a további kiterjesztése érdekében a BEREC Hivatalnak, a szabályozói tanácsnak, a munkacsoportoknak és az igazgatótanácsnak nyitottaknak kell lenniük azon harmadik országok elektronikus hírközlés területén illetékes szabályozó hatóságainak a részvétele előtt, amelyek e célból megállapodást kötöttek az Unióval, mint például az EGT-tag EFTA-államok vagy a tagjelölt országok.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_35",
+   "kind": "recital",
+   "number": "35",
+   "label": "(35)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Az átláthatóság elvével összhangban a BEREC-nek és a BEREC Hivatalnak adott esetben közzé kell tennie a weboldalukon a munkájukra vonatkozó információkat. Ezen belül is a BEREC-nek közzé kell tennie minden olyan végleges dokumentumot, amelyet feladatainak ellátása során adott ki, úgymint véleményeket, iránymutatásokat, jelentéseket, ajánlásokat, közös álláspontokat és bevált gyakorlatokat, valamint minden olyan tanulmányt is, amelynek elkészítésére feladatai ellátásának segítése céljából adott megbízást. A BEREC-nek és a BEREC Hivatalnak emellett feladataik naprakész jegyzékét, a szervezeti egységeik tagjainak, póttagjainak és a szervezeti egységeik ülésein megjelenő egyéb résztvevőknek a naprakész jegyzékét, valamint a szabályozói tanács és az igazgatótanács tagjai, továbbá az igazgató összeférhetetlenségi nyilatkozatát is közzé kell tennie.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_36",
+   "kind": "recital",
+   "number": "36",
+   "label": "(36)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A BEREC számára lehetővé kell tenni, hogy a hatáskörébe tartozó területen – a BEREC Hivatal támogatásával – kommunikációs tevékenységet folytasson, ez azonban nem befolyásolhatja hátrányosan a BEREC alapvető feladatait. A BEREC kommunikációs stratégiája tartalmának és végrehajtásának következetesnek, objektívnek és a tárgyhoz kapcsolódónak kell lennie, és azt az Unióról alkotott általános kép figyelembevétele érdekében össze kell hangolni a Bizottság és az egyéb intézmények stratégiáival és tevékenységeivel. A BEREC Hivatal kommunikációs tevékenységeit az igazgatótanács által elfogadott vonatkozó kommunikációs és információterjesztési tervekkel összhangban kell végezni.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_37",
+   "kind": "recital",
+   "number": "37",
+   "label": "(37)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Feladatai hatékony elvégzése érdekében a BEREC-nek és a BEREC Hivatalnak jogosultnak kell lennie arra, hogy az összes szükséges információt megkérje a Bizottságtól, a nemzeti szabályozó hatóságoktól, valamint végső megoldásként egyéb hatóságoktól és a vállalkozásoktól. Az információk megkérését meg kell indokolni, az információkérésnek arányosnak kell lennie, és az nem róhat indokolatlan terhet a címzettekre. A nemzeti szabályozó hatóságoknak együtt kell működniük a BEREC-cel és a BEREC Hivatallal, és időben biztosított, pontos információkkal kell szolgálniuk számukra annak érdekében, hogy a BEREC és a BEREC Hivatal el tudja látni feladatait. A lojális együttműködés elvének szellemében a BEREC-nek és a BEREC Hivatalnak is meg kell osztania a szükséges információkat a Bizottsággal, a nemzeti szabályozó hatóságokkal, valamint az egyéb illetékes hatóságokkal. Szükség esetén biztosítani kell az információk bizalmas kezelését. Annak megvizsgálásakor, hogy egy adott kérés kellően indokolt-e, a BEREC-nek figyelembe kell vennie, hogy a bekért információ kizárólag az érintett hatóságok hatáskörébe tartozó feladatok elvégzésével kapcsolatos-e.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_38",
+   "kind": "recital",
+   "number": "38",
+   "label": "(38)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A BEREC Hivatalnak közös információs és kommunikációs rendszert kell létrehoznia a párhuzamos információkérések elkerülése és az összes érintett hatóság közötti kommunikáció megkönnyítése érdekében.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_39",
+   "kind": "recital",
+   "number": "39",
+   "label": "(39)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A magas szintű titoktartás biztosítása és az összeférhetetlenségek elkerülése érdekében az ezen a téren a BEREC és a BEREC Hivatal szervezeti egységeinek tagjaira alkalmazandó szabályokat alkalmazni kell a póttagokra.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_40",
+   "kind": "recital",
+   "number": "40",
+   "label": "(40)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "mivel ez a rendelet új feladatokat ruház a BEREC-re és a BEREC Hivatalra, és mivel más uniós jogi aktusok további feladatokat ruházhatnak rájuk, a Bizottságnak rendszeresen értékelnie kell a BEREC és a BEREC Hivatal működését, valamint azt, hogy mennyire bizonyul hatékonynak ez az intézményi struktúra a változó digitális környezetben. Ha a szóban forgó értékelés eredményeként a Bizottság azt állapítja meg, hogy az intézményi struktúra nem alkalmas a BEREC és a BEREC Hivatal feladatainak elvégzésére, és ezen belül is mindenekelőtt az elektronikus hírközlési szabályozási keret következetes végrehajtásának biztosítására, akkor minden, a struktúra javítását szolgáló lehetőséget fel kell térképeznie.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_41",
+   "kind": "recital",
+   "number": "41",
+   "label": "(41)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Az 1211/2009/EK rendelettel jogi személyiséggel rendelkező közösségi szervként létrehozott Hivatal jogutódja mindennemű tulajdonjog, megállapodás – a székhelyről szóló megállapodást is beleértve –, jogi kötelezettség, munkaszerződés, pénzügyi kötelezettségvállalás és felelősség tekintetében a BEREC Hivatal. A BEREC Hivatal átveszi a Hivatal alkalmazottait, akiknek jogait és kötelezettségeit ez a változás nem érintheti. A BEREC és a Hivatal által végzett munka folytonosságának biztosítása érdekében képviselőiknek, nevezetesen a szabályozói tanács elnökének és alelnökeinek, az irányítóbizottságnak és az igazgatási vezetőnek a hivatali idejük végéig hivatalban kell maradniuk.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_42",
+   "kind": "recital",
+   "number": "42",
+   "label": "(42)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A legtöbb tagállamban a nemzetközi hírközlés terén jelentős számú fogyasztó továbbra is a hagyományos szolgáltatásokra, például telefonhívásokra és SMS üzenetekre támaszkodik annak ellenére, hogy nemzetközi hívások lebonyolításához egyre több fogyasztó számára elérhetők a számfüggetlen személyközi kommunikációs szolgáltatások, mégpedig vagy a hagyományos szolgáltatásoknál alacsonyabb díj ellenében vagy pénzbeli ellenszolgáltatás nélkül.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_43",
+   "kind": "recital",
+   "number": "43",
+   "label": "(43)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A Bizottság 2013-ban hatásvizsgálat alapján készült rendeletjavaslatot terjesztett elő, amely egy az EU-n belüli hírközlésre alkalmazandó szabályozási intézkedéseket magában foglaló rendelkezést is tartalmazott. 2017-től 2018-ig az EU-n belüli hírközlési szolgáltatások piacával kapcsolatban további adatokat gyűjtött a BEREC és a Bizottság is egy bizottsági tanulmány, valamint az Eurobarométer révén. Az említett információk rávilágítottak, hogy egy olyan környezetben, amelyet az egyes országok, szolgáltatók és díjcsomagok, valamint a mobil és a vezetékes hanghívások közötti nagymértékű árbeli eltérések jellemeznek, továbbra is jelentős különbségek mutatkoznak a belföldi és a valamely más tagállamba irányuló hanghívások és SMS üzenetek árai között, mind a vezetékes, mind pedig a mobil hírközlés terén. A nyilvánosan hozzáférhető, számfüggő személyközi kommunikációs szolgáltatásokat nyújtó szolgáltatók gyakran olyan, forgalmon alapuló díjakat számítanak fel az EU-n belüli hírközlésre, amelyek jóval meghaladják a belföldi díjaknak a többletköltségekkel együtt számított mértékét. Az EU-n belüli vezetékes vagy mobil hívások szokásos díja átlagosan jellemzően háromszor olyan magas, mint a belföldi hívások szokásos díja, az EU-n belüli SMS-ek szokásos díja pedig több mint kétszerese a belföldi SMS üzenetek díjának. Ezek mögött a számtani átlagok mögött azonban a tagállamok közötti jelentős különbségek húzódnak meg. Egyes esetekben egy EU-n belüli hívás díja akár nyolcszorosa is lehet a belföldi hívás díjának. Következésképpen az ügyfeleknek több tagállamban igen magas árat kell fizetniük az EU-n belüli hírközlési szolgáltatásokért.E magas árak elsősorban a fogyasztókat érintik, különösen azokat, akik ritkán vesznek igénybe ilyen szolgáltatást, vagy akiknek a forgalma alacsony, amely fogyasztók alkotják az EU-n belüli hírközlési szolgáltatásokat igénybe vevő fogyasztók nagy többségét. Ugyanakkor számos szolgáltató kínál olyan különleges ajánlatokat, amelyek különösen vonzóak az EU-n belüli hírközlési szolgáltatásokat jelentős mértékben igénybe vevő üzleti ügyfelek és fogyasztók számára. Az ilyen ajánlatok esetében gyakori, hogy a díjat nem a tényleges forgalom alapján állapítják meg, és az ajánlat vonatkozhat egy adott EU-n belüli percszám vagy egy adott számú SMS üzenet rögzített havidíj ellenében történő biztosítására (kiegészítő ajánlatok), vagy arra, hogy a havi hívásidő-keretbe vagy SMS üzenet keretbe többletdíj nélkül vagy alacsony többletdíj ellenében beletartozzon bizonyos EU-n belüli percszám vagy bizonyos számú SMS üzenet is. Ezeknek az ajánlatoknak a feltételei azonban gyakran nem elég vonzóak azon fogyasztók számára, akik csak eseti alapon, előre nem látható módon vesznek igénybe EU-n belüli hírközlési szolgáltatásokat, vagy csak alacsony mértékben bonyolítanak le ilyen jellegű forgalmat. Következésképpen ezeknek a fogyasztóknak az esetében fennáll annak a kockázata, hogy túlzottan magas árat fizetnek az EU-n belüli hírközlési szolgáltatások igénybevételéért, ezért gondoskodni kell védelmükről.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_44",
+   "kind": "recital",
+   "number": "44",
+   "label": "(44)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Az EU-n belüli hírközlési szolgáltatások magas árai továbbá akadályozzák a belső piac működését, mivel visszatartják a fogyasztókat attól, hogy másik tagállamban található szolgáltatók ajánlatait is figyelembe vegyék, illetve ilyen szolgáltatóktól vásároljanak árukat, illetve szolgáltatásokat. Az ilyen magas árak megszüntetése érdekében tehát konkrét és arányos határértékeket kell megállapítani azokra a díjakra vonatkozóan, amelyeket a nyilvánosan hozzáférhető, számfüggő személyközi kommunikációs szolgáltatásokat nyújtó szolgáltatók az EU-n belüli hírközlési szolgáltatásokra a fogyasztóknak felszámíthatnak.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_45",
+   "kind": "recital",
+   "number": "45",
+   "label": "(45)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Azokban az esetekben, amikor a nyilvánosan hozzáférhető, számfüggő személyközi kommunikációs szolgáltatásokat nyújtó szolgáltatók az EU-n belüli hírközlési szolgáltatások igénybevételéért olyan díjakat számítanak fel a fogyasztóknak, amelyek teljes mértékben vagy részben az ilyen szolgáltatások igénybevételének mértékén alapulnak, ideértve azokat az eseteket is, amikor az ilyen szolgáltatásokra vonatkozó havi vagy előre kifizetett keretből a forgalom alapján történik levonás, a felszámított díj nem haladhatja meg telefonhívások esetében percenként a 0,19 EUR, SMS üzenetek esetében pedig üzenetenként a 0,06 EUR összeget. Az említett felső határértékek megfelelnek a szabályozott barangolásos hívásokra és SMS üzenetekre jelenleg alkalmazandó maximális áraknak. A hívásokra és az SMS üzenetekre vonatkozó eurotarifának a belföldi díjszabás alapján történő barangolással való fokozatos felváltása védelmet biztosít a fogyasztók számára az Unión belüli barangolás esetében. Az említett felső határértékek megfelelő referenciául szolgálnak az EU-n belüli szabályozott hírközlési szolgáltatások maximális díjainak a 2019. május 15-től kezdődő öt évre történő meghatározásához is. A felső határérték jelenlegi összege egyszerű, átlátható és igazoltan működőképes biztonsági védőhálóként szolgál a magas árakkal szemben, és az EU-n belül valamennyi szabályozott hírközlési szolgáltatás kiskereskedelmi díjának tekintetében is megfelelő felső határértéket jelent. Az Unión belüli lebonyolított barangolásos hívások és az Unión belüli hívások költségszerkezete hasonló.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_46",
+   "kind": "recital",
+   "number": "46",
+   "label": "(46)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A felső határértékek megállapításával lehetővé kell tenni, hogy a nyilvánosan hozzáférhető, számfüggő személyközi kommunikációs szolgáltatásokat nyújtó szolgáltatók költségei megtérüljenek, ezáltal biztosítva a beavatkozás arányosságát mind a mobilhívások, mind pedig a vezetékes hívások piacán. A felső határérték közvetlenül csak a tényleges forgalom ellenében felszámított díjakra lesz alkalmazandó. Alkalmazása a tervek szerint díjmérséklő hatást fog gyakorolni azoknak az ajánlatoknak az esetében is, amelyek külön díj felszámítása nélkül eleve tartalmaznak bizonyos mértékű EU-n belüli hírközlési forgalmat, mivel a fogyasztóknak lehetőségük lesz arra, hogy az EU-n belüli hírközlési szolgáltatások igénybevételéhez forgalom-alapú díjszabásra váltsanak. A felső határértéket kell alkalmazni arra az EU-n belüli hírközlési forgalomra is, amely meghaladja a csomagban foglalt mértéket, és ezért külön díjat számítanak fel érte. Az intézkedésnek arányos módon biztosítania kell, hogy az alacsony EU-n belüli hírközlési forgalmat bonyolító fogyasztók védelmet élvezzenek a magas árakkal szemben, miközben mindez csak mérsékelt hatást gyakorol a szolgáltatókra.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_47",
+   "kind": "recital",
+   "number": "47",
+   "label": "(47)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A nyilvánosan hozzáférhető, számfüggő személyközi kommunikációs szolgáltatásokat nyújtó szolgáltatók számára lehetővé kell tenni, hogy a nemzetközi hírközlési szolgáltatások esetében olyan alternatív díjszabási ajánlatokat kínáljanak a fogyasztóiknak, amelyek az EU-n belüli szabályozott hírközlési szolgáltatásokra vonatkozóan eltérő díjakat tartalmaznak, a fogyasztók számára pedig biztosítani kell, hogy szándékuk szerint szabadon dönthessenek az ilyen ajánlatok igénybevétele mellett, és bármikor díjmentesen visszatérhessenek az általuk korábban választott díjszabásra, még azoknak az ajánlatoknak az esetében is, amelyekre a fogyasztók még az ilyen rendelkezések hatálybalépését megelőzően fizettek elő. A szolgáltató csak azoknak az alternatív ajánlatoknak az esetében mentesülhet az alól a kötelezettség alól, hogy az EU-n belüli szabályozott hírközlési szolgáltatásokra alkalmazható felső határérékeket ne haladja meg, ha ezek az ajánlatok valamennyi harmadik országra vagy egyes harmadik országokra vonatkozó hírközlési szolgáltatásokat érintik, és azokat a fogyasztó elfogadta. A szolgáltatók által a fogyasztók részére kínált egyéb előnyök, mint a végberendezésekhez nyújtott ártámogatás vagy más elektronikus hírközlési szolgáltatások díjának csökkentése, a rendes verseny részét képezik, és nem érinthetik az EU-n belüli szabályozott hírközlési szolgáltatásokra vonatkozó felső határértékek alkalmazhatóságát.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_48",
+   "kind": "recital",
+   "number": "48",
+   "label": "(48)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Előfordulhat, hogy az EU-n belüli hírközlési szolgáltatásokra vonatkozó felső határértékek jelentősen nagyobb hatást gyakorolnak egyes nyilvánosan hozzáférhető, számfüggő személyközi kommunikációs szolgáltatásokat nyújtó szolgáltatókra, mint a többi uniós szolgáltató többségére. Ez elsősorban azokat a szolgáltatókat érintheti, amelyek bevételeinek vagy működési eredményének különösen nagy része származik EU-n belüli szabályozott hírközlési szolgáltatások nyújtásából, vagy amelyek belföldi haszonkulcsa az ágazatban szokásos referenciaértékhez viszonyítva alacsony. Az EU-n belüli szabályozott hírközlési szolgáltatásokhoz kapcsolódó kisebb haszonkulcs következtében előfordulhat, hogy egyes szolgáltatók nem tudják fenntartani belföldi árazási modelljüket. Kifejezetten valószínűtlen azonban, hogy ilyen helyzetek kialakuljanak, mivel a maximális árszint egyértelműen meghaladja az EU-n belüli hírközlési szolgáltatások nyújtásának költségeit. Ennek ellenére az ilyen kifejezetten kivételes esetek arányos módon történő kezelése érdekében a nemzeti szabályozó hatóságok számára lehetővé kell tenni, hogy indokolt és kivételes esetekben a szolgáltató kérésére eltérést engedélyezzenek.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_49",
+   "kind": "recital",
+   "number": "49",
+   "label": "(49)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Bármilyen eltérést kizárólag akkor helyénvaló engedélyezni, ha a szolgáltató a BEREC által meghatározott referenciaértékre hivatkozva igazolni tudja, hogy a rendelkezés lényegesen nagyobb hatást gyakorol rá, mint az Unióban található legtöbb más szolgáltatóra, és ha a rá gyakorolt hatás lényegesen megnehezítené az érintett szolgáltató számára, hogy fenntartsa a belföldi hírközlési szolgáltatásokra vonatkozó díjszabási modelljét. Amennyiben a nemzeti szabályozó hatóság engedélyezi az eltérést, meg kell határoznia azt a maximális árszintet, amelyet a szolgáltató az EU-n belüli szabályozott hírközlési szolgáltatásokra alkalmazhat, és amely lehetővé teszi számára, hogy a belföldi hírközlési szolgáltatásokra vonatkozóan versenyképes árszintet tartson fenn. Az engedélyezett eltérés időtartama legfeljebb egy év lehet, és akkor lehet megújítani, ha a szolgáltató igazolja, hogy annak feltételei továbbra is teljesülnek.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_50",
+   "kind": "recital",
+   "number": "50",
+   "label": "(50)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Az arányosság elvére figyelemmel helyénvaló korlátozni az EU-n belüli szabályozott hírközlési szolgáltatások árára vonatkozó felső határérték alkalmazásának időbeli hatályát, mégpedig úgy, hogy az öt évvel a hatálybalépés időpontját követően járjon le. Az időtartam ilyen módon történő korlátozása lehetővé teszi az intézkedések hatásainak a megfelelő értékelését, valamint annak vizsgálatát, hogy mennyiben van továbbra is szükség a fogyasztók védelmére.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_51",
+   "kind": "recital",
+   "number": "51",
+   "label": "(51)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Annak érdekében, hogy biztosítható legyen azoknak a fogyasztóknak az egész Unió területén megvalósuló következetes, kellő időben történő és a lehető legeredményesebb védelme, akiket hátrányosan érintenek az EU-n belüli hírközlési szolgáltatások áraiban mutatkozó jelentős különbségek, célszerű, hogy az ilyen rendelkezések közvetlenül alkalmazandók legyenek valamely rendeletbe történő beépítésük révén. E célra a legmegfelelőbb rendelet az (EU) 2015/2120 rendelet, amelyet egy olyan hatásvizsgálatot követően fogadtak el, amely javaslatot tartalmazott többek között arra vonatkozóan, hogy az elektronikus hírközlési szolgáltatások belső piaca kiteljesítéséhez szükséges eszközként érvénybe lépjen egy, az EU-n belüli hírközlési szolgáltatásokra vonatkozó rendelkezés. Ennél is mérsékeltebbek a szolgáltatóknak az EU-n belüli hírközlési szolgáltatásokból eredő bevételeire valószínűsíthetően gyakorolt hatások, egyrészt mivel a barangolás során lebonyolított hívásokra és elküldött SMS üzenetekre vonatkozó eurotarifa alkalmazásával mind a vezetékes, mind a mobil hírközlési szolgáltatások esetében biztonsági mechanizmusként szolgáló felső határértékek érvényesülnek, másrészt amiatt, mert – amint azt a BEREC 2018. évi elemzése megállapítja – a köztes időszakban bizonyíthatóan jelentős mértékben visszaesett az intézkedés által érintett releváns vezetékes forgalom. Következésképpen az említett rendelkezéseket célszerű az (EU) 2015/2120 rendelet módosításának formájában bevezetni, amely rendeletet ki kell igazítani annak rögzítése céljából is, hogy a tagállamok elfogadják a rendelkezés be nem tartásának esetére vonatkozó szankciós szabályokat.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_52",
+   "kind": "recital",
+   "number": "52",
+   "label": "(52)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "mivel a tagállamok nem tudják kielégítően megvalósítani a rendelet céljait, nevezetesen az elektronikus hírközlési szabályozási keret következetes végrehajtásának a nemzeti intézkedéstervezetekre vonatkozó hatékony belső piaci eljárásokon keresztül történő biztosítását, különös tekintettel a határokon átnyúló vonatkozásokra, valamint annak biztosítását, hogy fogyasztókkal szemben ne számítsanak fel túlzott díjakat olyan számfüggő személyközi hírközlési szolgáltatások igénybevételéért, amelyek a fogyasztó belföldi szolgáltatója szerinti tagállamban indulnak és egy másik tagállamban vezetékes vagy mobil hívószámon végződnek, az Unió szintjén azonban az intézkedés terjedelme és hatása miatt e célok jobban megvalósíthatók, az Unió intézkedéseket hozhat az Európai Unióról szóló szerződés 5. cikkében foglalt szubszidiaritás elvének megfelelően. Az említett cikkben foglalt arányosság elvének megfelelően ez a rendelet nem lépi túl az e célok eléréséhez szükséges mértéket.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_53",
+   "kind": "recital",
+   "number": "53",
+   "label": "(53)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "E rendelet módosítja az 1211/2009/EK rendeletet és kiterjeszti annak hatályát. Mivel lényeges módosításokról van szó, az egyértelműség érdekében a szóban forgó jogszabályt hatályon kívül kell helyezni. A hatályon kívül helyezett rendeletre történő hivatkozásokat az e rendeletre történő hivatkozásként kell értelmezni,",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_1",
+   "kind": "article",
+   "number": "1",
+   "label": "1. cikk",
+   "title": "Tárgy és hatály",
+   "path": [
+    "I. FEJEZET — TÁRGY ÉS HATÁLY"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Ez a rendelet létrehozza az Európai Elektronikus Hírközlési Szabályozók Testületét (a továbbiakban: BEREC) és a BEREC Működését Segítő Ügynökséget (a továbbiakban: BEREC Hivatal).",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A BEREC és a BEREC Hivatal az 1211/2009/EK rendelet által létrehozott Európai Elektronikus Hírközlési Szabályozók Testülete és a Hivatal helyébe lép és azoknak jogutódja.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_2",
+   "kind": "article",
+   "number": "2",
+   "label": "2. cikk",
+   "title": "A BEREC Hivatal jogi személyisége",
+   "path": [
+    "I. FEJEZET — TÁRGY ÉS HATÁLY"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A BEREC Hivatal uniós szerv. A BEREC Hivatal jogi személyiséggel rendelkezik.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A BEREC Hivatal mindegyik tagállamban a nemzeti jog alapján a jogi személyeket megillető legszélesebb körű jogképességet élvezi. Különösen ingó és ingatlan vagyont szerezhet és elidegeníthet, valamint bíróság előtt eljárhat.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) A BEREC Hivatal képviseletét annak igazgatója látja el.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) A BEREC Hivatal a ráruházott feladatok és hatáskörök tekintetében kizárólagos felelősséggel rendelkezik.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) A BEREC Hivatal székhelye Rigában van.",
+     "para": "",
+     "point": "5"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_3",
+   "kind": "article",
+   "number": "3",
+   "label": "3. cikk",
+   "title": "A BEREC célkitűzései",
+   "path": [],
+   "blocks": [
+    {
+     "text": "(1) A BEREC a tevékenységét az 531/2012/EU és az (EU) 2015/2120 rendelet, valamint az (EU) 2018/1972 irányelv hatályán belül végzi.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A BEREC az (EU) 2018/1972 irányelv 3. cikkében meghatározott célkitűzések megvalósítására köteles törekedni. A BEREC-nek különösen az elektronikus hírközlés szabályozási kerete következetes végrehajtásának biztosítására kell törekednie az e cikk (1) bekezdésében említett hatályon belül.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) A BEREC függetlenül, pártatlanul, átlátható és megfelelően ütemezett módon végzi feladatait.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) A BEREC a nemzeti szabályozó hatóságoknál rendelkezésre álló szaktudásra támaszkodva látja el feladatát.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Az (EU) 2018/1972 irányelv 9. cikkének (3) bekezdésével összhangban mindegyik tagállam biztosítja a nemzeti szabályozó hatósága számára a BEREC szervezeti egységeinek munkájában való teljeskörű részvételt.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) Azokban a tagállamokban, amelyekben az (EU) 2018/1972 irányelv alapján több nemzeti szabályozó hatóságot is feladatokkal bíztak meg, e hatóságok kötelesek szükség szerint egyeztetni egymással e feladataikról.",
+     "para": "",
+     "point": "6"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_4",
+   "kind": "article",
+   "number": "4",
+   "label": "4. cikk",
+   "title": "A BEREC szabályozási feladatai",
+   "path": [],
+   "blocks": [
+    {
+     "text": "(1) A BEREC szabályozási feladatai a következők:",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "a) kérésre vagy saját kezdeményezés alapján támogatást nyújt és tanácsadással szolgál a nemzeti szabályozó hatóságok, az Európai Parlament, a Tanács és a Bizottság számára, valamint együttműködik a nemzeti szabályozó hatóságokkal és a Bizottsággal a hatáskörébe tartozó, elektronikus hírközléssel kapcsolatos technikai kérdésekben;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) kérésre támogatást nyújt és tanácsadással szolgál a Bizottság számára az elektronikus hírközlés területére vonatkozó jogalkotási javaslatok előkészítésével összefüggésben, így többek között az e rendelet vagy az (EU) 2018/1972 irányelv módosítására irányuló javaslatok esetében is;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) véleményeket ad ki az (EU) 2018/1972 irányelvben és az 531/2012/EU rendeletben említettek szerint, különösen az alábbiakról: i. határon átnyúló jogviták rendezése, az (EU) 2018/1972 irányelv 27. cikkével összhangban; ii. a piacszabályozásra szolgáló belső piaci eljárásokkal kapcsolatos nemzeti intézkedéstervezetek, az (EU) 2018/1972 irányelv 32., 33. és 66. cikkével összhangban; iii. a harmonizációra vonatkozó határozat- és ajánlástervezetek, az (EU) 2018/1972 irányelv 38. és 93. cikkével összhangban; iv. a végfelhasználók közötti, végponttól végpontig terjedő összeköttetések, az (EU) 2018/1972 irányelv 61. cikkének (2) bekezdésével összhangban; v. az Unió egészében egységes maximális mobilhívás-végződtetési díj és az Unió egészében egységes maximális vezetékeshívás-végződtetési díj meghatározása, az (EU) 2018/1972 irányelv 75. cikkével összhangban; vi. a szerződés adatait összefoglaló dokumentumminta, az (EU) 2018/1972 irányelv 102. cikkével összhangban; vii. az általános felhatalmazás rendszerének tagállami megvalósítása és működése, valamint ezek hatása a belső piac működésére az (EU) 2018/1972 irányelv 122. cikkének (3) bekezdésével összhangban; viii. adott esetben a különféle elektronikus hírközlési szolgáltatásokkal kapcsolatos piaci és technológiai fejlemények, valamint azok hatása az (EU) 2018/1972 irányelv III. része III. címének alkalmazására az említett irányelv 123. cikkének (1) bekezdésével összhangban;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) iránymutatásokat ad ki az uniós elektronikus hírközlési szabályozási keret végrehajtásával összefüggésben az (EU) 2018/1972 irányelvben, az 531/2012/EU és az (EU) 2015/2120 rendeletben, valamint a 2018/1972 irányelvben foglaltakkal összhangban különösen az alábbiakról: i. a bejelentő sablon, az (EU) 2018/1972 irányelv 12. cikkével összhangban; ii. a földrajzi felmérésekkel és előrejelzésekkel kapcsolatos kötelezettségek következetes végrehajtása, az (EU) 2018/1972 irányelv 22. cikkével összhangban; iii. az (EU) 2018/1972 irányelv 61. cikkének (3) bekezdése következetes alkalmazásának elősegítése érdekében alkalmazandó releváns kritériumok; iv. a különböző hálózattopológiákban a hálózati végpont azonosítására vonatkozó közös megközelítések, az (EU) 2018/1972 irányelv 61. cikkének (7) bekezdésével összhangban; v. a transznacionális végfelhasználói igényeknek való megfelelést célzó közös megközelítések, az (EU) 2018/1972 irányelv 66. cikkével összhangban; vi. a referenciaajánlatokra vonatkozó minimumkritériumok, az (EU) 2018/1972 irányelv 69. cikkével összhangban; vii. az (EU) 2018/1972 irányelv 76. cikkének (1) bekezdésében és IV. mellékletében megállapított feltételek nemzeti szabályozó hatóságok általi következetes alkalmazásának elősegítése; viii. azok a kritériumok, amelyek alapján egy hálózat rendkívül nagy kapacitású hálózatnak minősül, az (EU) 2018/1972 irányelv 82. cikkével összhangban; ix. a számozási erőforrások kezelésére való képességnek és a számozási erőforrások kimerülési kockázatának az értékelésére vonatkozó közös kritériumok, az (EU) 2018/1972 irányelv 93. cikkével összhangban; x. a szolgáltatás minőségének releváns paraméterei, az alkalmazandó mérési módszerek, az információk tartalma és közzétételük formája, valamint a minőségtanúsítási mechanizmusok, az (EU) 2018/1972 irányelv 104. cikkével összhangban; xi. útmutatás arra vonatkozóan, hogy hogyan kell értékelni, hogy az (EU) 2018/1972 irányelv 110. cikkének (2) bekezdése szerinti lakossági riasztási rendszerek hatékonysága egyenértékű-e az említett cikk (1) bekezdése szerinti lakossági riasztások hatékonyságával; xii. nagykereskedelmi barangolási hozzáférés, az 531/2012/EU rendelet 3. cikkével összhangban; xiii. a nemzeti szabályozó hatóságoknak a nyílt internet-hozzáférés tekintetében fennálló kötelezettségei végrehajtása, az (EU) 2015/2120 rendelet 5. cikkének (3) bekezdésével összhangban; xiv. azok a paraméterek, amelyeket a nemzeti szabályozó hatóságoknak figyelembe kell venniük a belföldi díjszabási modellek fenntarthatóságának értékelésekor, az (EU) 2015/2120 rendelet 5a. cikkének (6) bekezdésével összhangban;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) saját kezdeményezés alapján vagy a nemzeti szabályozó hatóságok, az Európai Parlament, a Tanács vagy a Bizottság kérésére egyéb iránymutatásokat is kiad annak biztosítása céljából, hogy az elektronikus hírközlésre vonatkozó szabályozási keret végrehajtása következetes legyen, valamint hogy a nemzeti szabályozó hatóságok következetes szabályozási határozatokat tudjanak hozni, különösen az olyan szabályozási kérdések tekintetében, amelyek jelentős számú tagállamot érintenek vagy határon átnyúló dimenzióval rendelkeznek;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) adott esetben az (EU) 2018/1972 irányelv 35. cikkével összhangban részt vesz a szakértői fórumnak a kiválasztási eljárásra vonatkozó intézkedéstervezetekkel kapcsolatos tevékenységében;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) az (EU) 2018/1972 irányelv 4. cikkével összhangban részt vesz azokban az ügyekben, amelyek a rádióspektrummal összefüggő piacszabályozási és versenyvonatkozású hatásköreit érintik;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) elemzéseket készít a potenciális transznacionális piacokról, az (EU) 2018/1972 irányelv 65. cikkével összhangban, valamint a transznacionális végfelhasználói igényekről, az említett irányelv 66. cikkével összhangban;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) az 531/2012/EU rendelet alkalmazásával kapcsolatban, annak 16. és 19. cikkével összhangban, információkat gyűjt és nyomon követi azokat, valamint adott esetben nyilvánosan elérhetővé is teszi a vonatkozó naprakész információkat;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) jelentést készít a hatáskörébe tartozó technikai kérdésekről, különösen az alábbiakról: i. a c), a d) és az e) pontban említett vélemények és iránymutatások gyakorlati alkalmazása; ii. a megfelelő széles sávú internet-hozzáférési szolgáltatás meghatározásának elősegítését szolgáló bevált tagállami gyakorlatok, az (EU) 2018/1972 irányelv 84. cikkével összhangban; iii. az árazási és a fogyasztási minták alakulásának értékelése mind a belföldi, mind pedig a barangolási szolgáltatások esetében, a kiegyensúlyozatlan forgalomra vonatkozó tényleges nagykereskedelmi barangolási díjak alakulásának értékelése, a barangolási szolgáltatások kiskereskedelmi árai, nagykereskedelmi díjai és nagykereskedelmi költségei közötti kapcsolat, valamint a tarifák átláthatósága és összehasonlíthatósága, az 531/2012/EU rendelet 19. cikkével összhangban; iv. a nemzeti szabályozó hatóságok által az (EU) 2015/2120 rendelet 5. cikkével összhangban az éves összefoglaló jelentés közzétételével rendelkezésre bocsátandó éves jelentések eredményei; v. az elektronikus hírközlési ágazat piaci fejleményei, évenkénti rendszerességgel;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "k) az elektronikus hírközlésre vonatkozó szabályozási keret következetesebb és hatékonyabb végrehajtásának előmozdítása céljából ajánlásokat és közös álláspontokat ad ki, valamint terjeszti a nemzeti szabályozó hatóságok körében a bevált szabályozási gyakorlatokat;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "l) adatbázist állít össze és tart fenn a következőkről: i. az általános felhatalmazás hatálya alá tartozó vállalkozások által a nemzeti szabályozó hatóságoknak küldött értesítések, az (EU) 2018/1972 irányelv 12. cikkével összhangban; ii. az Unión belül extraterritoriális használatra engedélyezett számozási erőforrások, az (EU) 2018/1972 irányelv 93. cikke (4) bekezdésének negyedik albekezdésével összhangban; iii. adott esetben a tagállami segélyhívó szolgálatok E.164-számai, az (EU) 2018/1972 irányelv 109. cikke (8) bekezdésének harmadik albekezdésével összhangban;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "m) felméri a szabályozási újításokkal kapcsolatos igényeket, és biztosítja a nemzeti szabályozó hatóságok közötti koordinációt azokkal az intézkedésekkel kapcsolatban, amelyek új, innovatív elektronikus hírközlési megoldások kifejlesztésének a lehetővé tételére irányulnak;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "n) előmozdítja a nemzeti szabályozó hatóságok általi adatgyűjtés korszerűsítését, koordinálását és egységesítését, az ilyen adatokat nyitott, újrafelhasználható és géppel olvasható formátumban a nyilvánosság számára elérhetővé téve a BEREC honlapján és az európai adatportálon a szellemi tulajdonhoz fűződő jogoknak, a személyes adatok védelmére vonatkozó szabályoknak és a titoktartás előírt szintjének sérelme nélkül;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "o) ellátja az Unió jogi aktusai – különösen az 531/2012/EU és az (EU) 2015/2120 rendelet, valamint az (EU) 2018/1972 irányelv – által ráruházott egyéb feladatokat.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(2) A BEREC köteles biztosítani szabályozási feladatai nyilvánosságát és új feladatokkal való megbízása esetén az említett információkat naprakésszé kell tennie.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) A BEREC köteles nyilvánosságra hozni minden végleges véleményét, iránymutatását, jelentését, ajánlását, közös álláspontját, bevált gyakorlatát és megbízás alapján készült tanulmányát, valamint minden, az (5) bekezdésben említett nyilvános konzultációk szempontjából releváns dokumentum-tervezetet is.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) A vonatkozó uniós jognak való megfelelés sérelme nélkül a nemzeti szabályozó hatóságok és a Bizottság a lehető legteljesebb mértékben figyelembe kell, hogy vegyenek minden, a BEREC által a 3. cikk (1) bekezdésében említett hatályon belül, az elektronikus hírközlési szabályozási keret következetes végrehajtásának biztosítása céljából elfogadott iránymutatást, véleményt, ajánlást, közös álláspontot és bevált gyakorlatot. Amennyiben egy nemzeti szabályozó hatóság eltér az (1) bekezdés e) pontjában említett iránymutatásoktól, e döntését meg kell indokolnia.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) A BEREC adott esetben köteles konzultálni az érdekelt felekkel, és lehetőséget biztosítani számukra arra, hogy a kérdés összetettségének figyelembevételével észszerű határidőn belül megtegyék észrevételeiket. A rendkívüli esetek kivételével ezen határidő nem lehet rövidebb 30 napnál. A BEREC-nek a 38. cikk sérelme nélkül nyilvánosságra kell hoznia az említett nyilvános konzultációs eljárások eredményeit. E konzultációkat a döntéshozatal lehető legkorábbi szakaszában meg kell tartani.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) A BEREC adott esetben konzultálhat és együttműködhet a megfelelő területért felelős – például a versenyügyek, a fogyasztóvédelem vagy az adatvédelem területén illetékes – nemzeti hatóságokkal.",
+     "para": "",
+     "point": "6"
+    },
+    {
+     "text": "(7) A BEREC, a 35. cikk (1) bekezdésével összhangban, adott esetben együttműködhet az illetékes uniós testületekkel, hivatalokkal, ügynökségekkel és tanácsadó csoportokkal, valamint harmadik országok illetékes hatóságaival és nemzetközi szervezetekkel.",
+     "para": "",
+     "point": "7"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_5",
+   "kind": "article",
+   "number": "5",
+   "label": "5. cikk",
+   "title": "A BEREC Hivatal feladatai",
+   "path": [
+    "III. FEJEZET — A BEREC HIVATAL FELADATAI"
+   ],
+   "blocks": [
+    {
+     "text": "A BEREC Hivatal feladatai a következők:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) szakmai és ügyviteli támogató szolgáltatásokat nyújt a BEREC számára, különösen annak a 4. cikk szerinti szabályozói feladatai ellátása kapcsán;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) információt gyűjt a nemzeti szabályozó hatóságoktól, valamint információkat cserél és továbbít a 4. cikk alapján a BEREC-re ruházott szabályozói feladatokkal összefüggésben;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) a b) pontban említett információk alapján rendszeresen jelentéstervezeteket – például barangolási jelentéseket és referenciajelentéseket – állít össze az európai elektronikus hírközlési piaci fejlemények különböző aspektusairól a BEREC számára;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) terjeszti a szabályozással kapcsolatos bevált gyakorlatokat a nemzeti szabályozó hatóságok körében, a 4. cikk (1) bekezdésének k) pontjával összhangban;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) támogatást nyújt a BEREC számára a nyilvántartások és adatbázisok létrehozásában és fenntartásában, a 4. cikk (1) bekezdésének l) pontjával összhangban;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) támogatást nyújt a BEREC számára egy információs és kommunikációs rendszer létrehozásában és kezelésében, a 41. cikkel összhangban;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) támogatást nyújt a BEREC számára a nyilvános konzultációs eljárások lefolytatásában, a 4. cikk (5) bekezdésével összhangban;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) támogatást nyújt a szabályozói tanács munkájának előkészítéséhez, valamint egyéb ügyviteli, illetve tartalomalapú támogatás útján segíti annak zökkenőmentes működését;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) segítséget nyújt a szakértői munkacsoportok létrehozatala során, valamint a szabályozói tanács kérésére hozzájárul a szabályozói munkához és ügyviteli támogatást nyújt e csoportok zökkenőmentes működése érdekében;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) ellátja az e rendelet vagy más uniós jogi aktusok által ráruházott egyéb feladatokat.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_6",
+   "kind": "article",
+   "number": "6",
+   "label": "6. cikk",
+   "title": "A BEREC szervezeti felépítése",
+   "path": [
+    "IV. FEJEZET — A BEREC FELÉPÍTÉSE"
+   ],
+   "blocks": [
+    {
+     "text": "A BEREC-et a következők alkotják:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) a szabályozói tanács;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) munkacsoportok.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_7",
+   "kind": "article",
+   "number": "7",
+   "label": "7. cikk",
+   "title": "A szabályozói tanács összetétele",
+   "path": [
+    "IV. FEJEZET — A BEREC FELÉPÍTÉSE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A szabályozói tanács egy-egy tagállami tagból áll. Minden tag rendelkezik szavazati joggal. Az egyes tagokat tagállamuk azon szabályozó hatóságának kell kineveznie, amely elsődlegesen felelős az elektronikus hírközlő hálózatok és az elektronikus hírközlési szolgáltatások napi szintű működtetésének az (EU) 2018/1972 irányelv alapján történő felügyeletéért. Az egyes tagokat az adott nemzeti szabályozó hatóság vezetője, irányító testülete tagjai vagy valamelyikük helyettesítője közül kell kinevezni.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A nemzeti szabályozó hatóságnak a szabályozói tanács minden tagja mellé ki kell neveznie egy póttagot is. A tagot távollétében a póttag képviseli. A póttagot a nemzeti szabályozó hatóság vezetője, irányító testületének tagja, valamelyikük helyettese vagy a nemzeti szabályozó hatóság alkalmazottai közül kell kinevezni.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) A szabályozói tanács tagjait és a póttagokat az elektronikus hírközlés területével kapcsolatos szaktudásuk alapján kell kinevezni, a kapcsolódó vezetői, igazgatási és költségvetési készségek figyelembevételével. A szabályozói tanácsban folyó munka folytonosságának biztosítása érdekében a tagokat és a póttagokat kinevező minden nemzeti szabályozó hatóságnak lépéseket kell tennie annak biztosítására, hogy a tagok – és amennyiben lehetséges, a póttagok – személye ne változzon gyakran, valamint törekednie kell a nemek kiegyensúlyozott képviseletének biztosítására.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) A Bizottság – kellően magas szinten képviseltetve magát – a szabályozói tanács minden tanácskozásán rész vesz, szavazati jog nélkül.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) A szabályozói tanács tagjainak és póttagjainak naprakész jegyzékét az általuk tett összeférhetetlenségi nyilatkozatokkal együtt nyilvánossá kell tenni.",
+     "para": "",
+     "point": "5"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_8",
+   "kind": "article",
+   "number": "8",
+   "label": "8. cikk",
+   "title": "A szabályozói tanács függetlensége",
+   "path": [
+    "IV. FEJEZET — A BEREC FELÉPÍTÉSE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A ráruházott feladatok ellátása során a szabályozói tanácsnak – anélkül, hogy sérülne tagjainak lehetősége a saját nemzeti szabályozó hatóságuk nevében való eljárásra – független és objektív módon, az Unió érdekében, bárminemű egyedi nemzeti vagy személyes érdekre való tekintet nélkül kell eljárnia.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A 3. cikk (6) bekezdésében előírt koordináció sérelme nélkül a szabályozói tanács tagjai és póttagjai nem kérhetnek és nem fogadhatnak el utasításokat semmilyen kormánytól, intézménytől, személytől vagy szervtől.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_9",
+   "kind": "article",
+   "number": "9",
+   "label": "9. cikk",
+   "title": "A szabályozói tanács feladatai",
+   "path": [
+    "IV. FEJEZET — A BEREC FELÉPÍTÉSE"
+   ],
+   "blocks": [
+    {
+     "text": "A szabályozói tanács a következő feladatokkal rendelkezik:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) ellátja a BEREC 4. cikkben meghatározott szabályozási feladatait, nevezetesen elfogadja az említett cikkben lévő véleményeket, iránymutatásokat, jelentéseket, ajánlásokat és közös álláspontokat, valamint terjeszti a legjobbnak számító gyakorlatokat, ennek során a munkacsoportok előkészítő munkájára támaszkodva;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) meghozza a BEREC munkájának szervezésével kapcsolatos ügyviteli döntéseket;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) elfogadja a BEREC 21. cikkben említett éves munkaprogramját;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) elfogadja a BEREC 22. cikkben említett éves tevékenységi jelentését;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) szabályokat fogad el a saját tagjait, valamint a munkacsoportok tagjait érintő, a 42. cikkben említett összeférhetetlenségek megelőzésére és kezelésére vonatkozóan;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) a 36. cikkel összhangban elfogadja a BEREC birtokában lévő dokumentumokhoz való hozzáférési joggal kapcsolatos részletes szabályokat;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) a szükségletek elemzése alapján elfogadja és rendszeresen naprakésszé teszi a 37. cikk (2) bekezdésében említett kommunikációs és információterjesztési terveket;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) tagjai kétharmados többségi szavazata alapján eljárva elfogadja és közzéteszi eljárási szabályzatát;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) a 35. cikkel összhangban az igazgatóval együttesen engedélyezi munkamegállapodások megkötését illetékes uniós szervekkel, hivatalokkal, ügynökségekkel és tanácsadó csoportokkal, harmadik országok illetékes hatóságaival és nemzetközi szervezetekkel;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) munkacsoportokat hoz létre és kinevezi azok elnökeit;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "k) iránymutatással szolgál a BEREC Hivatal igazgatója számára a BEREC Hivatal feladatainak ellátásával összefüggésben.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_10",
+   "kind": "article",
+   "number": "10",
+   "label": "10. cikk",
+   "title": "A szabályozói tanács elnöke és alelnökei",
+   "path": [
+    "IV. FEJEZET — A BEREC FELÉPÍTÉSE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A szabályozói tanácsnak tagjai kétharmados többségi szavazata alapján eljárva ki kell neveznie tagjai közül egy elnököt és legalább két alelnököt.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Az alelnökök egyikének hivatalból el kell látnia az elnök feladatait, ha utóbbi nincs abban a helyzetben, hogy maga lássa el azokat.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Az elnök megbízatása egy évre szól és egyszer megújítható. A BEREC munkájának folytonossága érdekében a soron következő elnöknek elnökként való hivatalba lépését megelőzően egy éven át alelnöki pozíciót kell betöltenie, amennyiben ez lehetséges. Az eljárási szabályzat ennél rövidebb időről is rendelkezhet, amennyiben a soron következő elnöknek elnökként való hivatalba lépése előtt nem áll módjában egy teljes éven át alelnöki pozíciót betölteni.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) A szabályozói tanács elnöki feladatokkal kapcsolatos szerepkörének sérelme nélkül, az elnök nem kérhet és nem fogadhat el utasításokat semmilyen kormánytól, intézménytől, személytől vagy szervtől.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Az elnök köteles beszámolni az Európai Parlamentnek és a Tanácsnak a BEREC feladatainak ellátásáról, amennyiben erre felkérést kap.",
+     "para": "",
+     "point": "5"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_11",
+   "kind": "article",
+   "number": "11",
+   "label": "11. cikk",
+   "title": "A szabályozói tanács ülései",
+   "path": [
+    "IV. FEJEZET — A BEREC FELÉPÍTÉSE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Az elnök hívja össze a szabályozói tanács üléseit és határozza meg annak napirendjét, amely napirendet nyilvánosságra kell hozni.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A szabályozói tanácsnak évente legalább két rendes ülést kell tartania. Rendkívüli ülés az elnök kezdeményezése alapján, legalább három tag vagy a Bizottság kérésére hívható össze.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) A BEREC Hivatal igazgatója minden tanácskozáson részt vesz, szavazati jog nélkül.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) A szabályozói tanács bármely olyan személyt meghívhat az ülésein megfigyelőként való részvételre, akinek a véleménye az ülésen érdeklődésre tarthat számot.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) A szabályozói tanács tagjai és póttagjai – az eljárási szabályzat rendelkezéseire figyelemmel – tanácsadóik és egyéb szakértők segítségét is igénybe vehetik az üléseken.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) A szabályozói tanács titkárságát a BEREC Hivatal köteles biztosítani.",
+     "para": "",
+     "point": "6"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_12",
+   "kind": "article",
+   "number": "12",
+   "label": "12. cikk",
+   "title": "A szabályozói tanács szavazási szabályai",
+   "path": [
+    "IV. FEJEZET — A BEREC FELÉPÍTÉSE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A szabályozói tanács tagjai egyszerű többséggel hozzák meg a döntéseiket, kivéve, ha e rendelet vagy egyéb uniós jogi aktus ettől eltérően rendelkezik. A szabályozói tanács tagjainak kétharmados többsége szükséges a 4. cikk (1) bekezdése c) pontjának ii. és iv. alpontjában említett vélemények, illetve a 4. cikk (1) bekezdése d) pontjának i–iv., vi., vii. és x. alpontjában említett iránymutatások esetében. E bekezdés második albekezdésének sérelme nélkül a szabályozói tanács egyszerű többséggel, eseti alapon úgy határozhat, hogy egyszerű többséggel fogadja el az e rendelet 4. cikke (1) bekezdése c) pontjának ii. alpontjában említett, az (EU) 2018/1972 irányelv 76. cikke (2) bekezdésének hatálya alá tartozó intézkedéstervezetekhez kapcsolódó és az említett irányelv 33. cikkének (5) bekezdése szerinti eljárást megindító véleményeket. A szabályozói tanács döntéseit nyilvánosságra kell hozni, és azokban – saját kérésük alapján – fel kell tüntetni a tagok esetleges fenntartásait.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Minden tag egy szavazattal rendelkezik. Valamely tag távollétében a póttagja jogosult az adott tag szavazati jogának gyakorlására. Valamely tag vagy annak póttagja távollétében a szavazati jog átruházható egy másik tagra is. Az elnök bármely esetben átruházhatja szavazati jogát. Szavazati jogának átruházása kivételével az elnök részt vesz a szavazásban.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) A szabályozói tanács eljárási szabályzatában részletesen meg kell határozni a szavazásra vonatkozó szabályokat, többek között azt, hogy egy tag milyen feltételek szerint járhat el egy másik tag nevében, valamint a határozatképességre és az ülésekről szóló értesítések határidejére vonatkozó szabályokat is. Az eljárási szabályzatnak ezenfelül biztosítania kell, hogy a szabályozói tanács tagjai minden ülés előtt kézhez kapják a teljes napirendet és a javaslattervezeteket annak érdekében, hogy a szavazás előtt lehetőségük legyen módosításokat javasolni. Az eljárási szabályzat többek között a sürgős kérdésekről szóló szavazásra vonatkozó eljárást, valamint a szabályozói tanács működésére vonatkozó egyéb gyakorlati szabályokat is meghatározhatja.",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_13",
+   "kind": "article",
+   "number": "13",
+   "label": "13. cikk",
+   "title": "Munkacsoportok",
+   "path": [
+    "IV. FEJEZET — A BEREC FELÉPÍTÉSE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Indokolt esetben és különösen a BEREC éves munkaprogramjának végrehajtása érdekében a szabályozói tanács munkacsoportokat hozhat létre.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A munkacsoportoknak a lehetőleg különböző nemzeti szabályozó hatóságokat képviselő elnökeit a szabályozói tanácsnak kell kineveznie.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) A munkacsoportokban részt vehetnek a BEREC munkájában részt vevő valamennyi nemzeti szabályozó hatóság, valamint a Bizottság szakértői. A munkacsoportokban emellett részt vehetnek a BEREC Hivatal személyzetének tagjai is, akiknek hozzá kell járulniuk a munkacsoportok szabályozói munkájához, valamint ügyviteli támogatást kell nyújtaniuk a munkacsoportok számára. A 4. cikk (1) bekezdése c) pontjának ii. alpontjában említett feladatok ellátására létrehozott munkacsoportokban a Bizottság szakértői nem vehetnek részt. Az e rendelet 4. cikke (1) bekezdése c) pontjának iv., vi., vii. és viii. alpontjában, d) pontjának i., ii., ix., x. és xi. alpontjában, j) pontjának ii. alpontjában, valamint l) pontjában, továbbá adott esetben 4. cikke (1) bekezdése c) pontjának iii. alpontjában, valamint j) pontjának i. alpontjában említett feladatok ellátására létrehozott munkacsoportokban figyelembe kell venni az (EU) 2018/1972 irányelv5. cikkének (4) bekezdése alapján értesített más illetékes hatóságokhoz tartozó szakértők véleményét is. A szabályozói tanács vagy a munkacsoportok elnökei a munkacsoport ülésein való részvételre eseti alapon egy-egy, az adott szakterületen elismert szakértőnek számító személyt is felkérhetnek.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) A szabályozói tanácsnak eljárási szabályzatot kell elfogadnia a munkacsoportok működésére vonatkozó gyakorlati szabályokról.",
+     "para": "",
+     "point": "4"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_14",
+   "kind": "article",
+   "number": "14",
+   "label": "14. cikk",
+   "title": "A BEREC Hivatal szervezeti felépítése",
+   "path": [
+    "V. FEJEZET — A BEREC Hivatal FELÉPÍTÉSE"
+   ],
+   "blocks": [
+    {
+     "text": "A BEREC Hivatalt a következők alkotják:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) igazgatótanács;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) igazgató.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_15",
+   "kind": "article",
+   "number": "15",
+   "label": "15. cikk",
+   "title": "Az igazgatótanács összetétele",
+   "path": [
+    "V. FEJEZET — A BEREC Hivatal FELÉPÍTÉSE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Az igazgatótanács a szabályozói tanács tagjaivá kinevezett személyekből és a Bizottság egy magas rangú képviselőjéből áll, akik valamennyien szavazati joggal rendelkeznek. Az igazgatótanács minden tagja rendelkezik szavazati joggal. A 7. cikk (1) bekezdésének második albekezdésében foglaltak szerinti minden kinevező nemzeti szabályozó hatóság az igazgatótanács tagjává nevezhet ki egy, a szabályozói tanács tagjától eltérő személyt. Ennek a személynek a nemzeti szabályozó hatóság vezetőjének, irányító testülete tagjának vagy valamelyikük helyettesének kell lennie.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Az igazgatótanács minden tagja mellé póttagot kell kinevezni, aki a tagot képviseli annak távollétében. A tagok mellé ugyanazokat a személyeket kell rendelni póttagként, akik a szabályozói tanács tagjai mellé kinevezett póttagok. A Bizottság képviselője mellé is póttagot kell kinevezni. A 7. cikk (1) bekezdésének második albekezdésében foglaltak szerinti minden kinevező nemzeti szabályozó hatóság egy a szabályozói tanács póttagjától eltérő személyt is kinevezhet az igazgatótanács póttagjává. Ennek a személynek a nemzeti szabályozó hatóság vezetőjének, irányító testülete tagjának, valamelyikük helyettesének vagy a hatóság alkalmazottjának kell lennie.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Az igazgatótanács tagjai és póttagjai nem kérhetnek és nem fogadhatnak el utasításokat semmilyen kormánytól, intézménytől, személytől vagy szervtől.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Az igazgatótanács tagjainak és póttagjainak naprakész jegyzékét az általuk tett összeférhetetlenségi nyilatkozatokkal együtt nyilvánossá kell tenni.",
+     "para": "",
+     "point": "4"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_16",
+   "kind": "article",
+   "number": "16",
+   "label": "16. cikk",
+   "title": "Az igazgatótanács igazgatási feladatai",
+   "path": [
+    "V. FEJEZET — A BEREC Hivatal FELÉPÍTÉSE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Az igazgatótanács gyakorolja a következő igazgatási feladatokat:",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "a) kijelöli a BEREC Hivatal tevékenységének általános irányát és a tagjai kétharmados többségével, a Bizottság véleményére figyelemmel, valamint a 23. cikkel összhangban minden évben elfogadja a BEREC Hivatal egységes programozási dokumentumát;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) a tagjai kétharmados többségével elfogadja a BEREC Hivatal éves költségvetését, és ellátja a BEREC Hivatal költségvetéséhez kapcsolódó, a VII. fejezet szerinti egyéb feladatokat;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) elfogadja és közzéteszi a BEREC Hivatal előző évre vonatkozó, a 27. cikkben említett tevékenységekről szóló konszolidált éves jelentését, és azt végrehajtja, valamint a jelentést és annak értékelését minden év július 1-jéig benyújtja az Európai Parlamentnek, a Tanácsnak, a Bizottságnak és a Számvevőszéknek;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) a 29. cikknek megfelelően elfogadja a BEREC Hivatalra alkalmazandó pénzügyi szabályokat;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) a csalással kapcsolatos kockázatokkal arányban álló csalásellenes stratégiát fogad el a végrehajtandó intézkedések költségeinek és hasznának figyelembevételével;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) biztosítja a belső vagy külső ellenőrzési jelentésekből és értékelésekből, valamint az Európai Csalás Elleni Hivatal (a továbbiakban: OLAF) vizsgálati jelentéseiből származó megállapítások és ajánlások megfelelő nyomon követését;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) elfogadja a 42. cikk (3) bekezdésében említett, az összeférhetetlenségek megelőzésére és kezelésére vonatkozó szabályokat;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) a szükségletek elemzése alapján elfogadja és rendszeresen naprakésszé teszi a 37. cikk (2) bekezdésében említett kommunikációs és információterjesztési terveket;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) elfogadja eljárási szabályzatát;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) elfogadja a megfelelő szabályokat az Európai Unió tisztviselőinek személyzeti szabályzata, valamint az Európai Unió egyéb alkalmazottainak alkalmazási feltételei végrehajtása céljából, összhangban a személyzeti szabályzat 110. cikkével;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "k) a (2) bekezdés első albekezdésében említett határozat sérelme nélkül a BEREC Hivatal személyzete tekintetében gyakorolja a személyzeti szabályzat által a kinevező hatóságra, valamint az egyéb alkalmazottakra vonatkozó alkalmazási feltételek által a munkaszerződés megkötésére jogosult hatóságra ruházott hatásköröket (a továbbiakban: kinevezési hatáskörök);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "l) a 32. cikknek megfelelően kinevezi az igazgatót, és adott esetben meghosszabbítja hivatali idejét, vagy felmenti hivatalából;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "m) számvitelért felelős tisztviselőt nevez ki a személyzeti szabályzat és az egyéb alkalmazottakra vonatkozó alkalmazási feltételek szerint, aki feladatai ellátásában teljes mértékben független.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "n) a BEREC Hivatal tevékenységével kapcsolatos igényekre figyelemmel, valamint a hatékony és eredményes költségvetési gazdálkodást szem előtt tartva meghozza a BEREC Hivatal belső struktúráinak kialakításával és szükség szerint azok módosításával kapcsolatos összes döntést. Az első albekezdés m) pontjára tekintettel, a BEREC Hivatal kinevezheti ugyanazt a számvitelért felelős tisztviselőt, mint aki valamely másik uniós szerv vagy intézmény tekintetében is ellátja e feladatokat. A BEREC Hivatal és a Bizottság megállapodhatnak abban is, hogy a Bizottság számvitelért felelős tisztviselője egyúttal a BEREC Hivatal számvitelért felelős tisztviselőjeként is eljár.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(2) Az igazgatótanácsnak a személyzeti szabályzat 110. cikkével összhangban a személyzeti szabályzat 2. cikkének (1) bekezdése és az egyéb alkalmazottakra vonatkozó alkalmazási feltételek 6. cikke alapján el kell fogadnia egy határozatot, amely megfelelő kinevezési hatásköröket ruház az igazgatóra, és meghatározza azon feltételeket, amelyek mellett a hatáskör-átruházás felfüggeszthető. Az igazgató e hatásköröket továbbruházhatja másra. Amennyiben rendkívüli körülmények szükségessé teszik, az igazgatótanács határozatban ideiglenesen felfüggesztheti a kinevezésre jogosult hatóság hatásköreinek az igazgatóra történő átruházását és az utóbbi általi további átruházását, és azokat maga gyakorolhatja, vagy valamelyik tagjára vagy a személyzetnek az igazgatótól eltérő tagjára ruházhatja.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_17",
+   "kind": "article",
+   "number": "17",
+   "label": "17. cikk",
+   "title": "Az igazgatótanács elnöke és alelnökei",
+   "path": [
+    "V. FEJEZET — A BEREC Hivatal FELÉPÍTÉSE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Az igazgatótanács elnökévé és alelnökeivé a szabályozói tanács elnöki és alelnöki tisztségeit betöltő személyeket kell kinevezni. Az igazgatótanács elnökének és alelnökeinek hivatali ideje megegyezik a szabályozói tanács elnökének és alelnökének hivatali idejével. Az első albekezdéstől eltérve az igazgatótanács a tagjainak kétharmados többségével a tagállamokat képviselő tagjai közül az igazgatótanács más tagjait is megválaszthatja elnökké vagy alelnök(ök)ké. Az így megválasztott tagok hivatali ideje megegyezik a szabályozói tanács elnökének és alelnökeinek hivatali idejével.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Az alelnökök egyike hivatalból ellátja az elnök feladatait, ha az elnök nincs abban a helyzetben, hogy maga lássa el azokat.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Az igazgatótanács elnöke, amennyiben erre felkérést kap, beszámol az Európai Parlamentnek és a Tanácsnak arról, hogy a BEREC Hivatal miként látja el feladatait.",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_18",
+   "kind": "article",
+   "number": "18",
+   "label": "18. cikk",
+   "title": "Az igazgatótanács ülései",
+   "path": [
+    "V. FEJEZET — A BEREC Hivatal FELÉPÍTÉSE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Az igazgatótanács üléseit az elnök hívja össze.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A BEREC Hivatal igazgatója – a 32. cikkhez kapcsolódó tanácskozások kivételével – részt vesz a tanácskozásokon, de szavazati joggal nem rendelkezik.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Az igazgatótanács évente legalább két rendes ülést tart. Ezen túlmenően az elnök rendkívüli üléseket hív össze saját kezdeményezés alapján, a Bizottság kérésére vagy legalább három tagjának kérésére.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Az igazgatótanács üléseire megfigyelőként meghívhat bármely olyan személyt, akinek véleménye az ülésen érdeklődésre tarthat számot.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Az igazgatótanács tagjai és a tagok póttagjai – az eljárási szabályzatra is figyelemmel – tanácsadók és szakértők segítségét is igénybe vehetik az üléseken.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) A BEREC Hivatal biztosítja az igazgatótanács titkárságát.",
+     "para": "",
+     "point": "6"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_19",
+   "kind": "article",
+   "number": "19",
+   "label": "19. cikk",
+   "title": "Az igazgatótanács szavazási szabályai",
+   "path": [
+    "V. FEJEZET — A BEREC Hivatal FELÉPÍTÉSE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Az igazgatótanács a tagjainak egyszerű többségével hozza meg döntéseit, amennyiben e rendelet másként nem rendelkezik.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Minden tag egy szavazattal rendelkezik. Valamely tag távollétében a póttagja jogosult a szavazati joga gyakorlására. Valamely tag vagy annak póttagja távollétében a szavazati jog átruházható egy másik tagra is.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Az elnök bármely esetben átruházhatja szavazati jogát. Szavazati jogának átruházása kivételével az elnök részt vesz a szavazásban.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Az igazgatótanács eljárási szabályzata részletesen rendelkezik a szavazás szabályairól, különösen a sürgős kérdésekről szóló szavazásokra vonatkozó eljárásról és arról, hogy egy tag milyen feltételek mellett szavazhat egy másik tag nevében.",
+     "para": "",
+     "point": "4"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_20",
+   "kind": "article",
+   "number": "20",
+   "label": "20. cikk",
+   "title": "Az igazgató feladatai",
+   "path": [
+    "V. FEJEZET — A BEREC Hivatal FELÉPÍTÉSE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Az igazgató feladata a BEREC Hivatal adminisztratív irányítása. Az igazgató az igazgatótanácsnak tartozik felelősséggel.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Az igazgató segítséget nyújt a szabályozó tanács elnökének és az igazgatótanács elnökének az adott testület üléseinek előkészítéséhez.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) A szabályozói tanács, az igazgatótanács és a Bizottság hatásköreinek sérelme nélkül az igazgató a feladatai teljesítése során függetlenül jár el, és nem kérhet, illetve nem fogadhat el utasításokat semmilyen kormánytól, intézménytől, személytől vagy szervtől.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Az igazgató köteles beszámolni az Európai Parlamentnek és a Tanácsnak a feladatai ellátásáról, amennyiben erre felkérést kap.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Az igazgató a BEREC Hivatal jogi képviselője.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) Az igazgató a szabályozói tanács és az igazgatótanács iránymutatása mellett felel a BEREC Hivatal feladatainak végrehajtásáért. Az igazgató felelősségi körébe különösen a következők tartoznak:",
+     "para": "",
+     "point": "6"
+    },
+    {
+     "text": "a) a BEREC Hivatal napi szintű igazgatása;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) a szabályozói tanács és az igazgatótanács által elfogadott igazgatási határozatok végrehajtása;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) a 23. cikkben említett egységes programozási dokumentum elkészítése és annak benyújtása az igazgatótanácshoz;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) segítségnyújtás a szabályozói tanács számára a BEREC 22. cikk szerinti éves tevékenységi jelentésének kidolgozásában;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) segítségnyújtás a szabályozói tanács számára a BEREC 21. cikk szerinti éves munkaprogramjának kidolgozásában;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) az egységes programozási dokumentum végrehajtása és jelentés az igazgatótanács részére annak végrehajtásáról;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) a BEREC Hivatal tevékenységeiről szóló, a 27. cikkben említett összevont éves tevékenységi jelentés tervezetének elkészítése és annak benyújtása az igazgatótanácshoz értékelésre és elfogadásra;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) a belső és külső ellenőrzési jelentésekből és értékelésekből fakadó következtetések, valamint az OLAF által végzett vizsgálatok nyomon követésére cselekvési terv kidolgozása, valamint az elért eredményekről évente legalább egyszer jelentéstétel az igazgatótanácsnak;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) az Unió pénzügyi érdekeinek védelme csalást, korrupciót és minden más jogellenes tevékenységet megelőző intézkedések alkalmazásával, hathatós ellenőrzésekkel, továbbá szabálytalanságok felfedése esetén a jogalap nélkül nyújtott összegek visszafizettetésével, illetőleg adott esetben hathatós, arányos és kellően visszatartó erejű igazgatási intézkedések – köztük pénzügyi szankciók – kiszabásával;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) a BEREC Hivatal csalás elleni stratégiájának kidolgozása és az igazgatótanácshoz jóváhagyás céljából történő benyújtása;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "k) a BEREC Hivatalra alkalmazandó pénzügyi szabályzat tervezetének összeállítása;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "l) a BEREC Hivatal előirányzott bevételeit és kiadásait tartalmazó kimutatás-tervezet elkészítése és a költségvetés végrehajtása;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "m) a 35. cikkel összhangban a szabályozói tanáccsal együttesen munkamegállapodások megkötésének engedélyezése a szabályozói tanáccsal közösen az illetékes uniós testületekkel, hivatalokkal, ügynökségekkel és tanácsadó csoportokkal, harmadik országok illetékes hatóságaival, valamint nemzetközi szervezetekkel.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(7) Az igazgató az igazgatótanács felügyelete mellett megfelelő intézkedésekkel – különösen belső ügyviteli utasítások elfogadásával és közlemények közzétételével – gondoskodik arról, hogy a BEREC Hivatal e rendelettel összhangban működjön.",
+     "para": "",
+     "point": "7"
+    },
+    {
+     "text": "(8) Az igazgató, feltételezve a Bizottság, az igazgatótanács és az érintett tagállamok előzetes hozzájárulását, dönt arról, hogy szükséges-e – a BEREC Hivatal feladatainak hatékony és eredményes végrehajtása céljából – egy vagy több tagállamban a személyzet egy vagy több tagját elhelyezni. A döntésről hozott határozatban meg kell határozni az ellátandó tevékenységek körét olyan módon, hogy elkerülhetők legyenek a szükségtelen költségek és a BEREC Hivatalon belüli igazgatási feladatkörök közötti indokolatlan átfedések. Minden határozat meghozatala előtt a 23. cikk (4) bekezdése szerinti többéves programozási dokumentumban ismertetni kell a határozat személyzetre és költségvetésre gyakorolt hatását.",
+     "para": "",
+     "point": "8"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_21",
+   "kind": "article",
+   "number": "21",
+   "label": "21. cikk",
+   "title": "A BEREC éves munkaprogramja",
+   "path": [
+    "VI. FEJEZET — A BEREC PROGRAMOZÁSA"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A szabályozói tanács az éves munkaprogram tárgyát képező évet megelőző év január 31-éig elfogadja az éves munkaprogram tervezetét. Az Európai Parlamenttel, a Tanáccsal és a Bizottsággal a prioritásaikról, valamint a más érdekelt felekkel a 4. cikk (5) bekezdése szerint folytatott konzultációt követően a szabályozói tanács az adott év december 31-éig elfogadja a végleges éves munkaprogramot.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A szabályozói tanács az éves munkaprogramot közvetlenül az elfogadása után megküldi az Európai Parlamentnek, a Tanácsnak és a Bizottságnak.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_22",
+   "kind": "article",
+   "number": "22",
+   "label": "22. cikk",
+   "title": "A BEREC éves tevékenységi jelentése",
+   "path": [
+    "VI. FEJEZET — A BEREC PROGRAMOZÁSA"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A BEREC éves tevékenységi jelentését a szabályozói tanács fogadja el.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A szabályozói tanács minden év június 15-éig megküldi az éves tevékenységi jelentést az Európai Parlamentnek, a Tanácsnak, a Bizottságnak és az Európai Gazdasági és Szociális Bizottságnak.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_23",
+   "kind": "article",
+   "number": "23",
+   "label": "23. cikk",
+   "title": "Éves és többéves programozás",
+   "path": [
+    "VII. FEJEZET — A BEREC HIVATAL KÖLTSÉGVETÉSE ÉS PROGRAMOZÁSA"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Az igazgató az 1271/2013/EU felhatalmazáson alapuló rendelet 32. cikkével összhangban, a Bizottság iránymutatásait figyelembe véve minden évben elkészíti az éves és a többéves programozást tartalmazó programozási dokumentumtervezetet (a továbbiakban: egységes programozási dokumentum). Az igazgatótanács minden év január 31-éig elfogadja az egységes programozási dokumentum tervezetét, és véleményezésre továbbítja azt a Bizottságnak. Az egységes programozási dokumentum tervezetét az igazgatótanács benyújtja az Európai Parlamentnek és a Tanácsnak is. Az igazgatótanács ezt követően – a Bizottság véleményének figyelembevételével – elfogadja az egységes programozási dokumentumot. Az egységes programozási dokumentumot és annak minden későbbi naprakésszé tett változatát az igazgatótanács benyújtja az Európai Parlamentnek, a Tanácsnak és a Bizottságnak. Az egységes programozási dokumentum az Unió általános költségvetésének elfogadása után válik véglegessé, és szükség esetén annak megfelelően kiigazítható.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Az éves programozási dokumentumban a részletes célkitűzéseket és az elvárt eredményeket, valamint a kapcsolódó teljesítménymutatókat kell meghatározni. Emellett – a tevékenységalapú költségvetés-tervezésnek és irányításnak a 31. cikkben említett elvével összhangban – ismertetni kell benne a finanszírozandó intézkedéseket, és meg kell jelölni az egyes intézkedésekhez rendelt pénzügyi és humánerőforrásokat. Az éves programozási dokumentumnak összhangban kell állnia a BEREC által vázolt éves munkaprogrammal és a 21. cikkben említett végleges éves munkaprogrammal, továbbá a BEREC Hivatal e cikk (4) bekezdésében említett többéves programozási dokumentumával. A programozási dokumentumban egyértelműen jelezni kell, hogy az előző pénzügyi évhez képest mely feladatok voltak újak, illetve változtak vagy szűntek meg.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) A BEREC 21. cikkben említett végleges éves munkaprogramjának elfogadását követően és minden olyan esetben, amennyiben a BEREC-et vagy a BEREC Hivatalt új feladattal bízzák meg, az igazgatótanácsnak szükség esetén módosítania kell az éves programozási dokumentumot. Az éves programozási dokumentum minden lényeges módosítását az eredeti éves programozási dokumentumra vonatkozó eljárással kell elfogadni. Az igazgatótanács az éves programozási dokumentum lényegét nem érintő módosítására vonatkozó hatáskörét átruházhatja az igazgatóra.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) A többéves programozási dokumentumban átfogó stratégiai programozást kell meghatározni, ideértve a célkitűzéseket, az elvárt eredményeket és a teljesítménymutatókat is. A többéves munkaprogramban ismertetni kell az erőforrások programozását, ideértve a többéves költségvetést és a személyzeti tervet is. Az erőforrások programozását évente naprakésszé kell tenni. A stratégiai programozást adott esetben – és különösen a 48. cikkben említett értékelés kimenetelének figyelembevétele céljából – naprakésszé kell tenni.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) A BEREC Hivatal egységes programozási dokumentumának tartalmaznia kell a BEREC-nek az illetékes uniós szervekkel, hivatalokkal, ügynökségekkel és tanácsadó csoportokkal, harmadik országok illetékes hatóságaival és nemzetközi szervezetekkel való kapcsolattartásra vonatkozó, a 35. cikk (3) bekezdésében említett stratégiájának a végrehajtását, valamint az ehhez a stratégiához kapcsolódó műveleteket és a kapcsolódó erőforrások meghatározását.",
+     "para": "",
+     "point": "5"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_24",
+   "kind": "article",
+   "number": "24",
+   "label": "24. cikk",
+   "title": "A költségvetés megállapítása",
+   "path": [
+    "VII. FEJEZET — A BEREC HIVATAL KÖLTSÉGVETÉSE ÉS PROGRAMOZÁSA"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Az igazgató minden évben elkészíti a BEREC Hivatal következő pénzügyi évre vonatkozó, tervezett bevételeit és kiadásait tartalmazó előzetes kimutatástervezetet (a továbbiakban: a kimutatástervezet), ideértve a létszámtervet is, és azt benyújtja az igazgatótanácsnak. A kimutatástervezetben és a 23. cikk (1) bekezdésében említett egységes programozási dokumentum tervezetében foglalt információknak összhangban kell lenniük.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Az igazgató minden év január 31-éig benyújtja a Bizottságnak a kimutatástervezetet.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) A Bizottság a kimutatástervezetet az Unió általános költségvetésének tervezetével együtt benyújtja a költségvetési hatóságnak.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) A kimutatástervezet alapján a Bizottság a létszámtervhez általa szükségesnek tartott összegeket, valamint az általános költségvetést terhelő hozzájárulás összegét bevezeti az Unió általános költségvetésének tervezetébe, amelyet az Európai Unió működéséről szóló szerződés (EUMSZ) 313. és 314. cikkének megfelelően a költségvetési hatóság elé terjeszt.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) A költségvetési hatóság engedélyezi a BEREC Hivatalnak nyújtandó hozzájárulásra vonatkozó előirányzatokat.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) A költségvetési hatóság elfogadja a BEREC Hivatal létszámtervét.",
+     "para": "",
+     "point": "6"
+    },
+    {
+     "text": "(7) A BEREC Hivatal költségvetését az igazgatótanács fogadja el. A költségvetés az Unió általános költségvetésének végleges elfogadását követően válik véglegessé. A BEREC Hivatal költségvetését szükség szerint ki kell igazítani.",
+     "para": "",
+     "point": "7"
+    },
+    {
+     "text": "(8) A BEREC Hivatal költségvetésére várhatóan jelentős hatást gyakorló ingatlanprojektek esetében az 1271/2013/EU felhatalmazáson alapuló rendeletet kell alkalmazni.",
+     "para": "",
+     "point": "8"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_25",
+   "kind": "article",
+   "number": "25",
+   "label": "25. cikk",
+   "title": "A költségvetés szerkezete",
+   "path": [
+    "VII. FEJEZET — A BEREC HIVATAL KÖLTSÉGVETÉSE ÉS PROGRAMOZÁSA"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A BEREC Hivatal valamennyi bevételét és kiadását minden – a naptári évvel egybeeső – pénzügyi évre vonatkozóan meg kell tervezni, és a BEREC Hivatal költségvetésében fel kell tüntetni.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A BEREC Hivatal költségvetésében a bevételeknek és a kiadásoknak egyensúlyban kell lenniük.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Az egyéb források sérelme nélkül a BEREC Hivatal bevételei a következőket foglalják magukban: a) az Unió hozzájárulása; b) a tagállamok vagy a nemzeti szabályozó hatóságok önkéntes pénzügyi hozzájárulásai; c) a BEREC Hivatal által készített kiadványokért és az általa nyújtott egyéb szolgáltatásokért felszámított díjak; d) a BEREC Hivatal munkájában részt vevő harmadik országoktól vagy harmadik országoknak az elektronikus hírközlés területén illetékes szabályozó hatóságaitól származó hozzájárulások a 35. cikkben előírtak szerint.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) A BEREC Hivatal kiadásai magukban foglalják a személyzet javadalmazását, az igazgatási és az infrastrukturális költségeket, valamint az operatív kiadásokat.",
+     "para": "",
+     "point": "4"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_26",
+   "kind": "article",
+   "number": "26",
+   "label": "26. cikk",
+   "title": "A költségvetés végrehajtása",
+   "path": [
+    "VII. FEJEZET — A BEREC HIVATAL KÖLTSÉGVETÉSE ÉS PROGRAMOZÁSA"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A BEREC Hivatal költségvetését az igazgató hajtja végre.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Az igazgató minden évben benyújtja az Európai Parlamentnek és a Tanácsnak az értékelési eljárások eredménye szempontjából lényeges összes információt.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_27",
+   "kind": "article",
+   "number": "27",
+   "label": "27. cikk",
+   "title": "Összevont éves tevékenységi jelentés",
+   "path": [
+    "VII. FEJEZET — A BEREC HIVATAL KÖLTSÉGVETÉSE ÉS PROGRAMOZÁSA"
+   ],
+   "blocks": [
+    {
+     "text": "Az igazgatótanács – az 1271/2013/EU felhatalmazáson alapuló rendelet 47. cikkével összhangban, a Bizottság által meghatározott iránymutatásokat figyelembe véve –elfogadja az összevont éves tevékenységi jelentést.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_28",
+   "kind": "article",
+   "number": "28",
+   "label": "28. cikk",
+   "title": "A beszámoló benyújtása és mentesítés",
+   "path": [
+    "VII. FEJEZET — A BEREC HIVATAL KÖLTSÉGVETÉSE ÉS PROGRAMOZÁSA"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A BEREC Hivatal számvitelért felelős tisztviselője a következő pénzügyi év március 1-jéig benyújtja az adott pénzügyi évre vonatkozó előzetes beszámolót a Bizottság számvitelért felelős tisztviselőjének és a Számvevőszéknek.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A BEREC Hivatal a következő pénzügyi év március 31-jéig benyújtja a költségvetési és pénzgazdálkodásról szóló jelentést az Európai Parlamentnek, a Tanácsnak és a Számvevőszéknek.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) A BEREC Hivatal előzetes beszámolójára vonatkozó számvevőszéki észrevételek kézhezvételét követően a BEREC Hivatal számvitelért felelős tisztviselője saját hatáskörében elkészíti a BEREC Hivatal végleges beszámolóját. Az igazgató a végleges beszámolót véleményezésre benyújtja az igazgatótanácsnak.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Az igazgatótanács véleményt nyilvánít a BEREC Hivatal végleges beszámolójáról.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Az igazgató minden pénzügyi évet követően július 1-jéig benyújtja az Európai Parlamentnek, a Tanácsnak, a Bizottságnak és a Számvevőszéknek a végleges beszámolót, az igazgatótanács véleményével együtt.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) A BEREC Hivatal a következő év november 15-éig közzéteszi a végleges beszámolót az Európai Unió Hivatalos Lapjában.",
+     "para": "",
+     "point": "6"
+    },
+    {
+     "text": "(7) Az igazgató a pénzügyi évet követő év szeptember 30-áig válaszol a Számvevőszék észrevételeire. Az igazgató ezt a választ megküldi az igazgatótanácsnak is.",
+     "para": "",
+     "point": "7"
+    },
+    {
+     "text": "(8) Az igazgató az (EU, Euratom) 2018/1046 európai parlamenti és tanácsi rendelet 165. cikkének (3) bekezdésével összhangban az Európai Parlament kérésére benyújt a Parlamentnek minden, a mentesítési eljárás adott pénzügyi évre történő szabályszerű alkalmazásához szükséges információt.",
+     "para": "",
+     "point": "8"
+    },
+    {
+     "text": "(9) Az Európai Parlament a Tanács minősített többséggel elfogadott ajánlása alapján eljárva, az N+2. év május 15-e előtt mentesíti az igazgatót az N. évi költségvetés végrehajtására vonatkozó felelőssége alól.",
+     "para": "",
+     "point": "9"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_29",
+   "kind": "article",
+   "number": "29",
+   "label": "29. cikk",
+   "title": "Pénzügyi szabályok",
+   "path": [
+    "VII. FEJEZET — A BEREC HIVATAL KÖLTSÉGVETÉSE ÉS PROGRAMOZÁSA"
+   ],
+   "blocks": [
+    {
+     "text": "A BEREC Hivatalra vonatkozó pénzügyi szabályokat a Bizottsággal folytatott konzultációt követően az igazgatótanács fogadja el. E szabályok csak akkor és annyiban térhetnek el az 1271/2013/EU felhatalmazáson alapuló rendeletben foglaltaktól, ha és amennyiben az eltérést a BEREC Hivatal működése szükségessé teszi, és az eltéréshez a Bizottság előzetesen hozzájárulását adta.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_30",
+   "kind": "article",
+   "number": "30",
+   "label": "30. cikk",
+   "title": "Általános rendelkezés",
+   "path": [
+    "VIII. FEJEZET — A BEREC Hivatal SZEMÉLYZETE"
+   ],
+   "blocks": [
+    {
+     "text": "A BEREC Hivatal személyzetére alkalmazni kell a személyzeti szabályzatot és az egyéb alkalmazottakra vonatkozó alkalmazási feltételeket, valamint az Unió intézményei által a személyzeti szabályzat és az egyéb alkalmazottakra vonatkozó alkalmazási feltételek hatályba léptetése céljából közösen elfogadott szabályokat.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_31",
+   "kind": "article",
+   "number": "31",
+   "label": "31. cikk",
+   "title": "A BEREC Hivatal személyzetének létszáma",
+   "path": [
+    "VIII. FEJEZET — A BEREC Hivatal SZEMÉLYZETE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A humánerőforrásokkal való tevékenységalapú gazdálkodás elvével összhangban a BEREC Hivatalnak rendelkeznie kell a feladatai ellátásához szükséges személyzettel.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A személyzet létszámára és az ennek megfelelő pénzügyi forrásokra a 23. cikk (2) és (4) bekezdésével, valamint a 24. cikk (1) bekezdésével összhangban kell javaslatot tenni, figyelembe véve az 5. cikk a) pontját és az e rendelet vagy más uniós jogi aktusok által a BEREC Hivatalra ruházott minden egyéb feladatot, valamint az összes uniós decentralizált ügynökségre alkalmazandó szabályozásnak való megfelelés szükségességét.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_32",
+   "kind": "article",
+   "number": "32",
+   "label": "32. cikk",
+   "title": "Az igazgató kinevezése",
+   "path": [
+    "VIII. FEJEZET — A BEREC Hivatal SZEMÉLYZETE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Az igazgató az egyéb alkalmazottakra vonatkozó alkalmazási feltételek 2. cikkének a) pontja értelmében a BEREC Hivatal ideiglenes alkalmazottjaként tevékenykedik.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Az igazgatót az igazgatótanács nevezi ki nyílt és átlátható kiválasztási eljárást követően, érdemei, vezetői, igazgatási és költségvetési készségei, valamint az elektronikus hírközlő hálózatok és elektronikus hírközlési szolgáltatások terén szerzett készségei és tapasztalatai alapján. A jelöltek listáját nem állíthatja össze kizárólag az elnök vagy helyettese. Az igazgatótanács eljárási szabályzatában részletesen meg kell határozni az előválogatott jelöltek listájának összeállítására alkalmazandó eljárásra és a szavazási eljárásra irányadó szabályokat.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Az igazgató szerződésének megkötése céljából a BEREC Hivatalt az igazgatótanács elnöke képviseli.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Az igazgatótanács által kiválasztott jelöltet a kinevezése előtt fel kell kérni arra, hogy vegyen részt az Európai Parlament illetékes bizottsága előtti meghallgatáson, és válaszoljon a bizottság tagjai által feltett kérdésekre.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Az igazgató hivatali ideje öt év. Ezen időszak végére az igazgatótanács elnökének értékelést kell készítenie, amelyben figyelembe veszi az igazgató teljesítményének értékelését, valamint a BEREC Hivatal feladatait és az előtte álló kihívásokat. Az említett értékelést be kell nyújtani az Európai Parlamentnek és a Tanácsnak.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) Az igazgatótanács a (4) bekezdésben említett értékelést figyelembe véve, egy alkalommal, legfeljebb öt évre meghosszabbíthatja az igazgató hivatali idejét.",
+     "para": "",
+     "point": "6"
+    },
+    {
+     "text": "(7) Amennyiben az igazgatótanács meg kívánja hosszabbítani az igazgató hivatali idejét, erről tájékoztatja az Európai Parlamentet. Legfeljebb egy hónappal a meghosszabbítás előtt az igazgató felkérhető arra, hogy vegyen részt az Európai Parlament illetékes bizottsága előtti meghallgatáson, és válaszoljon a bizottság tagjai által feltett kérdésekre.",
+     "para": "",
+     "point": "7"
+    },
+    {
+     "text": "(8) Az az igazgató, akinek hivatali idejét meghosszabbították, az összesített időszak leteltekor nem vehet részt az ugyanazon álláshely betöltésére irányuló újabb kiválasztási eljárásban.",
+     "para": "",
+     "point": "8"
+    },
+    {
+     "text": "(9) Amennyiben nem hosszabbítják meg a hivatali idejét, az igazgató az igazgatótanács határozata alapján utódjának kinevezéséig hivatali ideje lejártát követően is hivatalban marad.",
+     "para": "",
+     "point": "9"
+    },
+    {
+     "text": "(10) Az igazgatót kizárólag az igazgatótanács által, valamely tagjának javaslata alapján hozott határozattal lehet felmenteni hivatalából.",
+     "para": "",
+     "point": "10"
+    },
+    {
+     "text": "(11) Az igazgatótanács az igazgató kinevezéséről, hivatali idejének meghosszabbításáról vagy felmentéséről tagjainak kétharmados szavazati többségével határoz.",
+     "para": "",
+     "point": "11"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_33",
+   "kind": "article",
+   "number": "33",
+   "label": "33. cikk",
+   "title": "Kirendelt nemzeti szakértők és egyéb személyzet",
+   "path": [
+    "VIII. FEJEZET — A BEREC Hivatal SZEMÉLYZETE"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A BEREC Hivatal kirendelt nemzeti szakértőket és egyéb, az alkalmazásában nem álló személyi állományt is igénybe vehet. Az ilyen személyzetre nem alkalmazandó a személyzeti szabályzat és az egyéb alkalmazottakra vonatkozó alkalmazási feltételek.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Az igazgatótanács határozatot fogad el a nemzeti szakértők BEREC Hivatalhoz történő kirendelésére vonatkozó szabályok megállapításáról.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_34",
+   "kind": "article",
+   "number": "34",
+   "label": "34. cikk",
+   "title": "Kiváltságok és mentességek",
+   "path": [
+    "IX. FEJEZET — ÁLTALÁNOS RENDELKEZÉSEK"
+   ],
+   "blocks": [
+    {
+     "text": "A BEREC Hivatalra és személyzetére alkalmazni kell az Európai Unió kiváltságairól és mentességeiről szóló jegyzőkönyvet.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_35",
+   "kind": "article",
+   "number": "35",
+   "label": "35. cikk",
+   "title": "Együttműködés uniós szervekkel, harmadik országokkal és nemzetközi szervezetekkel",
+   "path": [
+    "IX. FEJEZET — ÁLTALÁNOS RENDELKEZÉSEK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Az e rendeletben meghatározott célkitűzések eléréséhez és a feladatai végrehajtásához szükséges mértékben, valamint a tagállamok és az uniós intézmények hatásköreinek sérelme nélkül a BEREC és a BEREC Hivatal együttműködhet az illetékes uniós szervekkel, hivatalokkal, ügynökségekkel és tanácsadó csoportokkal, harmadik országok illetékes hatóságaival és nemzetközi szervezetekkel. E célból a BEREC és a BEREC Hivatal – a Bizottság előzetes jóváhagyásával – munkamegállapodásokat köthet. Ezek a megállapodások nem keletkeztethetnek jogi kötelezettségeket.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A szabályozói tanács, a munkacsoportok és az igazgatótanács nyitott azon harmadik országok elektronikus hírközlés területéért elsősorban felelős szabályozó hatóságainak részvétele előtt, amely harmadik országok e célból megállapodást kötöttek az Unióval. Az említett megállapodások vonatkozó rendelkezései alapján együttműködési szabályokat kell kidolgozni különösen az érintett harmadik országok szabályozó hatóságainak a BEREC és a BEREC Hivatal munkájában történő, szavazati jog nélküli részvételének jellegére, mértékére és módjára vonatkozóan, beleértve azon rendelkezéseket is, amelyek a BEREC kezdeményezéseiben való részvételt, a pénzügyi hozzájárulásokat és a BEREC Hivatal személyzetét érintik. A személyzeti kérdéseket illetően ezeknek a rendelkezéseknek minden esetben meg kell felelniük a személyzeti szabályzatnak.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) A 21. cikkben említett éves munkaprogram részeként a szabályozói tanács fogadja el a BEREC stratégiáját az illetékes uniós szervekkel, hivatalokkal, ügynökségekkel és tanácsadó csoportokkal, a harmadik országok illetékes hatóságaival és nemzetközi szervezetekkel a BEREC hatáskörébe tartozó kérdésekben való kapcsolattartásra vonatkozóan. A Bizottságnak, a BEREC-nek és a BEREC Hivatalnak meg kell kötnie a megfelelő munkamegállapodást, amely annak biztosítását célozza, hogy a BEREC és a BEREC Hivatal megbízatása keretei között és a meglévő intézményi kereten belül működjön.",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_36",
+   "kind": "article",
+   "number": "36",
+   "label": "36. cikk",
+   "title": "Hozzáférés a dokumentumokhoz és adatvédelem",
+   "path": [
+    "IX. FEJEZET — ÁLTALÁNOS RENDELKEZÉSEK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A BEREC és a BEREC Hivatal birtokában lévő dokumentumokra az 1049/2001/EK európai parlamenti és tanácsi rendelet alkalmazandó.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A szabályozói tanács és az igazgatótanács 2019. június 21-ig elfogadja az 1049/2001/EK rendelet alkalmazására vonatkozó részletes szabályokat.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) A személyes adatok BEREC és a BEREC Hivatal által történő kezelésére az (EU) 2018/1725 rendeletet kell alkalmazni.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) A szabályozói tanács és az igazgatótanács 2019. június 21-ig intézkedéseket fogad el az (EU) 2018/1725 rendeletnek a BEREC és a BEREC Hivatal általi alkalmazására, beleértve a BEREC Hivatal adatvédelmi tisztviselőjének kinevezésére vonatkozó intézkedéseket is. Ezeket az intézkedéseket az európai adatvédelmi biztossal folytatott konzultációt követően kell elfogadni.",
+     "para": "",
+     "point": "4"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_37",
+   "kind": "article",
+   "number": "37",
+   "label": "37. cikk",
+   "title": "Átláthatóság és tájékoztatás",
+   "path": [
+    "IX. FEJEZET — ÁLTALÁNOS RENDELKEZÉSEK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A BEREC és a BEREC Hivatal a tevékenységeit nagyfokú átláthatóság mellett folytatja. A BEREC és a BEREC Hivatal gondoskodik arról, hogy a nyilvánosság és bármely érdekelt fél helyes, tárgyilagos, megbízható és könnyen hozzáférhető tájékoztatást kapjon, különösen feladataikkal és munkájuk eredményeivel kapcsolatban.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A BEREC – a BEREC Hivatal támogatásával – saját kezdeményezésére a szabályozói tanács által elfogadott vonatkozó kommunikációs és információterjesztési tervekkel összhangban lévő kommunikációs tevékenységeket folytathat a hatáskörébe tartozó területeken. A BEREC Hivatal költségvetésében szereplő forrásoknak a kommunikációs tevékenységek említett támogatására való allokálása nem befolyásolhatja hátrányosan a BEREC 4. cikkben említett feladatainak vagy a BEREC Hivatal 5. cikkben említett feladatainak az eredményes végrehajtását. A BEREC Hivatal kommunikációs tevékenységeit az igazgatótanács által elfogadott, vonatkozó kommunikációs és információterjesztési tervekkel összhangban végzi.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_38",
+   "kind": "article",
+   "number": "38",
+   "label": "38. cikk",
+   "title": "Titoktartás",
+   "path": [
+    "IX. FEJEZET — ÁLTALÁNOS RENDELKEZÉSEK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A 36. cikk (1) bekezdésének és a 40. cikk (2) bekezdésének sérelme nélkül a BEREC és a BEREC Hivatal nem adhatja tovább harmadik felek részére az általuk kezelt vagy hozzájuk beérkezett olyan információkat, amelyek tekintetében indokolással ellátott kérelmet nyújtottak be teljes vagy részben bizalmas kezelés iránt.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A szabályozói tanács, az igazgatótanács és a munkacsoportok tagjai és az üléseiken jelen lévő egyéb résztvevők, az igazgató, a kirendelt nemzeti szakértők és a nem a BEREC Hivatal alkalmazásában álló egyéb személyzet tagjai kötelesek betartani az EUMSZ 339. cikke szerinti titoktartási követelményeket, megbízatásuk lejártát követően is.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) A szabályozói tanács és az igazgatótanács megállapítja az (1) és a (2) bekezdésben említett titoktartási szabályok végrehajtásának gyakorlati szabályait.",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_39",
+   "kind": "article",
+   "number": "39",
+   "label": "39. cikk",
+   "title": "A minősített adatok és a nem minősített érzékeny adatok védelmét szolgáló szabályok",
+   "path": [
+    "IX. FEJEZET — ÁLTALÁNOS RENDELKEZÉSEK"
+   ],
+   "blocks": [
+    {
+     "text": "A BEREC és a BEREC Hivatal elfogadja az EU-minősített adatok és a nem minősített érzékeny adatok védelmét szolgáló, az (EU, Euratom) 2015/443 és az (EU, Euratom) 2015/444 bizottsági határozatban rögzített bizottsági biztonsági szabályokkal, többek között az ilyen adatok cseréjére, kezelésére és tárolására vonatkozó szabályokkal egyenértékű saját biztonsági szabályait. Másik lehetőségként a BEREC vagy a BEREC Hivatal határozatot fogadhat el arról, hogy értelemszerűen alkalmazza a Bizottság szabályait.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_40",
+   "kind": "article",
+   "number": "40",
+   "label": "40. cikk",
+   "title": "Információcsere",
+   "path": [
+    "IX. FEJEZET — ÁLTALÁNOS RENDELKEZÉSEK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A BEREC vagy a BEREC Hivatal indokolt kérésére a Bizottság és a szabályozói tanácsban képviselt nemzeti szabályozó hatóságok és egyéb illetékes hatóságok kellő időben és pontosan a BEREC vagy a BEREC Hivatal rendelkezésére bocsátanak minden szükséges információt feladataik végrehajtásához, feltéve, hogy jogszerű hozzáféréssel rendelkeznek a vonatkozó információkhoz, és az információkérés a szóban forgó feladat jellegéből fakadóan szükséges. A BEREC vagy a BEREC Hivatal kérheti, hogy az ilyen információkat rendszeres időközönként és meghatározott formában bocsássák rendelkezésére. E kérések esetében lehetőség szerint egységes adatszolgáltatási formátumot kell alkalmazni.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A Bizottság vagy valamely nemzeti szabályozó hatóság indokolt kérésére a BEREC vagy a BEREC Hivatal köteles a lojális együttműködés elve értelmében kellő időben és pontosan rendelkezésre bocsátani minden olyan információt, amely szükséges ahhoz, hogy a Bizottság, a nemzeti szabályozó hatóság vagy egyéb illetékes hatóság elláthassa a feladatait. Ha a BEREC vagy a BEREC Hivatal valamilyen információt bizalmasnak minősít, a Bizottság, a nemzeti szabályozó hatóság vagy más illetékes hatóság az uniós és a nemzeti joggal, többek között az 1049/2001/EK rendelettel összhangban gondoskodik annak bizalmas kezeléséről. Az üzleti titoktartás nem akadályozhatja az információk időben történő megosztását.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Az e cikkel összhangban történő információkérés előtt és a jelentéstételi kötelezettségek megkettőzésének elkerülése érdekében a BEREC vagy a BEREC Hivatal figyelembe vesz minden vonatkozó meglévő, nyilvánosan elérhető információt.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Amennyiben a nemzeti szabályozó hatóságok nem bocsátják kellő időben rendelkezésre az információt, a BEREC vagy a BEREC Hivatal indokolt kérését az érintett tagállam más nemzeti szabályozó hatóságainak vagy más illetékes hatóságainak, vagy közvetlenül az elektronikus hírközlő hálózatokat üzemeltető vagy elektronikus hírközlési szolgáltatásokat és kapcsolódó eszközöket biztosító vállalkozásoknak is címezheti. A BEREC vagy a BEREC Hivatal értesíti az információszolgáltatást elmulasztó érintett nemzeti szabályozó hatóságokat az első albekezdéssel összhangban tett kérésekről. A BEREC vagy a BEREC Hivatal kérésére a nemzeti szabályozó hatóságok segítik a BEREC-et az információk összegyűjtésében.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) A tagállamok gondoskodnak arról, hogy a nemzeti szabályozó hatóságok és más illetékes hatóságok hatáskörrel rendelkezzenek arra, hogy más felelős nemzeti hatóságokat vagy elektronikus hírközlő hálózatokat üzemeltető és elektronikus hírközlő szolgáltatásokat, valamint kapcsolódó eszközöket vagy szolgáltatásokat biztosító vállalkozásokat kötelezzenek az e cikkben említett feladataik elvégzéséhez szükséges valamennyi információ benyújtására. Az első albekezdésben említett más felelős nemzeti hatóságok vagy vállalkozások ezen információkat kérésre haladéktalanul, a kért időkerettel és a kért részletességgel összhangban megadják. A tagállamok gondoskodnak arról, hogy a nemzeti szabályozó hatóságok és más illetékes hatóságok hatáskörrel rendelkezzenek arra, hogy megfelelő, eredményes, arányos és visszatartó erejű szankciók kiszabásával biztosítsák, hogy az érintettek eleget tegyenek az információkérésnek.",
+     "para": "",
+     "point": "5"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_41",
+   "kind": "article",
+   "number": "41",
+   "label": "41. cikk",
+   "title": "Információs és kommunikációs rendszer",
+   "path": [
+    "IX. FEJEZET — ÁLTALÁNOS RENDELKEZÉSEK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A BEREC Hivatalnak információs és kommunikációs rendszert kell létrehoznia és működtetnie, amelynek legalább a következő lehetőségeket magában kell foglalnia: a) közös információmegosztó platform, amely a BEREC, a Bizottság és a nemzeti szabályozó hatóságok számára biztosítja az elektronikus hírközlés uniós szabályozási keretének következetes végrehajtásához szükséges információkat; b) a 40. cikkben említett információkérések és a kérésekről való tájékoztatáshoz a BEREC, a BEREC Hivatal, a Bizottság és a nemzeti szabályozó hatóságok számára hozzáférést biztosító külön interfész; c) a nemzeti szabályozó hatóságok közötti koordináció szükségességének mihamarabbi megállapítását lehetővé tévő platform.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Az igazgatótanács elfogadja az (1) bekezdésben említett információs és kommunikációs rendszer létrehozásához szükséges műszaki és funkcionális előírásokat. Az említett rendszerre a szellemi tulajdonjogoknak és a titoktartás előírt szintjének a szabályai alkalmazandók.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Ezt az információs és kommunikációs rendszert 2020. június 21-ig üzembe kell helyezni.",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_42",
+   "kind": "article",
+   "number": "42",
+   "label": "42. cikk",
+   "title": "Összeférhetetlenségi nyilatkozat",
+   "path": [
+    "IX. FEJEZET — ÁLTALÁNOS RENDELKEZÉSEK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A szabályozói tanács és az igazgatótanács tagjai, az igazgató, a kirendelt nemzeti szakértők és a nem a BEREC Hivatal alkalmazásában álló egyéb személyzet tagjai mindannyian írásbeli nyilatkozatot tesznek, amelyben kinyilvánítják elkötelezettségüket és jelzik, hogy van-e olyan közvetlen vagy közvetett érdekük, amely úgy tekinthető, hogy az a függetlenségüket befolyásolja. Ezeket a nyilatkozatokat a hivatalba lépéskor kell megtenni, a nyilatkozatoknak pontosaknak és teljeskörűeknek kell lenniük, és minden alkalommal naprakésszé kell tenni azt a nyilatkozatot, amellyel kapcsolatban felmerül annak kockázata, hogy a nyilatkozatot tevő személy függetlenségét befolyásolónak tekinthető közvetlen vagy közvetett érdek áll fenn. A szabályozói tanács tagjai, az igazgatótanács tagjai és az igazgató által tett nyilatkozatokat nyilvánossá kell tenni.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A szabályozói tanács, az igazgatótanács és a munkacsoportok tagjai, valamint üléseik egyéb résztvevői, az igazgató, a kirendelt nemzeti szakértők, valamint a nem a BEREC Hivatal alkalmazásában álló egyéb személyzet tagjainak mindegyike legkésőbb az adott ülés kezdetén pontosan és teljeskörűen nyilatkozik az egyes napirendi pontokkal kapcsolatos minden olyan érdekéről, amely úgy tekinthető, hogy az függetlenségét befolyásolja, valamint köteles tartózkodni a kérdéses napirendi pontok megvitatásában való részvételtől és az azokról való szavazástól.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) A szabályozói tanácsnak és az igazgatótanácsnak meg kell állapítania az összeférhetetlenségek megelőzésének és kezelésének szabályait, különös tekintettel az (1) és a (2) bekezdés alkalmazására vonatkozó gyakorlati előírásokra.",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_43",
+   "kind": "article",
+   "number": "43",
+   "label": "43. cikk",
+   "title": "Csalás elleni küzdelem",
+   "path": [
+    "IX. FEJEZET — ÁLTALÁNOS RENDELKEZÉSEK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A csalás, a korrupció és más jogellenes cselekmények elleni, a 883/2013/EU, Euratom európai parlamenti és tanácsi rendelet alapján folytatott küzdelem elősegítése érdekében a BEREC Hivatalnak 2019. június 21-ig csatlakoznia kell az Európai Parlament, az Európai Unió Tanácsa és az Európai Közösségek Bizottsága között az Európai Csalás Elleni Hivatal (OLAF) belső vizsgálatairól létrejött, 1999. május 25-i intézményközi megállapodáshoz, és a megállapodás mellékletében szereplő minta alapján el kell fogadnia a BEREC Hivatal teljes személyzetére alkalmazandó megfelelő rendelkezéseket.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A Számvevőszék jogosult dokumentumalapú és helyszíni ellenőrzést végezni a vissza nem térítendő támogatások minden kedvezményezettjénél, valamint mindazon vállalkozóknál és alvállalkozóknál, akik/amelyek a BEREC Hivatalon keresztül uniós forrásokban részesültek.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Az OLAF a 883/2013/EU, Euratom rendeletben és a 2185/96/Euratom, EK tanácsi rendeletben megállapított rendelkezésekkel és eljárásokkal összhangban vizsgálatokat – többek között helyszíni ellenőrzéseket és vizsgálatokat – végezhet annak megállapítása céljából, hogy a BEREC Hivatal által finanszírozott, vissza nem térítendő támogatásra vonatkozó megállapodással, vissza nem térítendő támogatásra vonatkozó határozattal vagy valamely szerződéssel összefüggésben történt-e csalás, korrupció vagy bármilyen más jogellenes tevékenység, amely sérti az Unió pénzügyi érdekeit.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Az (1), a (2) és a (3) bekezdés sérelme nélkül a harmadik országokkal és nemzetközi szervezetekkel kötött együttműködési megállapodásoknak, a szerződéseknek, a támogatási megállapodásoknak és a támogatási határozatoknak olyan rendelkezéseket kell tartalmazniuk, amelyek kifejezetten felhatalmazzák a Számvevőszéket és az OLAF-ot arra, hogy saját hatáskörüknek megfelelően lefolytassák az említett ellenőrzéseket és vizsgálatokat.",
+     "para": "",
+     "point": "4"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_44",
+   "kind": "article",
+   "number": "44",
+   "label": "44. cikk",
+   "title": "Felelősség",
+   "path": [
+    "IX. FEJEZET — ÁLTALÁNOS RENDELKEZÉSEK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A BEREC Hivatal szerződéses felelősségére az adott szerződésre alkalmazandó jog az irányadó.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Az Európai Unió Bírósága (a továbbiakban: Bíróság) hatáskörrel rendelkezik arra, hogy a BEREC Hivatal által kötött szerződésekben foglalt választott bírósági záradék alapján ítéletet hozzon.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Szerződésen kívüli felelősség esetén a BEREC Hivatal köteles a tagállamok jogában közös általános elveknek megfelelően megtéríteni a szervezeti egységei vagy alkalmazottai által feladataik ellátása során okozott károkat.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) A (3) bekezdésben említett károk megtérítésével kapcsolatos jogvitákban a Bíróság rendelkezik hatáskörrel.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) A BEREC Hivatal alkalmazottainak a hivatallal szembeni személyes felelősségét a személyzeti szabályzat vagy a rájuk alkalmazandó, az egyéb alkalmazottakra vonatkozó alkalmazási feltételek rendelkezései szabályozzák.",
+     "para": "",
+     "point": "5"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_45",
+   "kind": "article",
+   "number": "45",
+   "label": "45. cikk",
+   "title": "Igazgatási vizsgálatok",
+   "path": [
+    "IX. FEJEZET — ÁLTALÁNOS RENDELKEZÉSEK"
+   ],
+   "blocks": [
+    {
+     "text": "A BEREC és a BEREC Hivatal tevékenységei tekintetében az európai ombudsman vizsgálatot folytathat az EUMSZ 228. cikkének megfelelően.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_46",
+   "kind": "article",
+   "number": "46",
+   "label": "46. cikk",
+   "title": "Nyelvhasználati szabályok",
+   "path": [
+    "IX. FEJEZET — ÁLTALÁNOS RENDELKEZÉSEK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A BEREC Hivatalra az 1. rendelet alkalmazandó.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A BEREC Hivatal működéséhez szükséges fordítási szolgáltatásokat az Európai Unió Szerveinek Fordítóközpontja köteles biztosítani.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_47",
+   "kind": "article",
+   "number": "47",
+   "label": "47. cikk",
+   "title": "Székhely-megállapodás és működési feltételek",
+   "path": [
+    "X. FEJEZET — ZÁRÓ RENDELKEZÉSEK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A BEREC Hivatal fogadó tagállambeli elhelyezésére és a fogadó tagállam által rendelkezésre bocsátandó létesítményekre vonatkozó szabályokat, valamint az igazgatóra, az igazgatótanács tagjaira, a BEREC Hivatal személyzetére és családtagjaikra a fogadó tagállamban alkalmazandó különös szabályokat a BEREC Hivatal és a fogadó tagállam által – az igazgatótanács jóváhagyásának megszerzése után és legkésőbb 2020. december 21-ig – megkötött székhely-megállapodásban kell rögzíteni.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) A fogadó tagállam biztosítja a BEREC Hivatal zavartalan és hatékony működéséhez szükséges feltételeket, ideértve a többnyelvű, európai szemléletű iskoláztatás lehetőségét és a megfelelő közlekedési kapcsolatokat is.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_48",
+   "kind": "article",
+   "number": "48",
+   "label": "48. cikk",
+   "title": "Értékelés",
+   "path": [
+    "X. FEJEZET — ZÁRÓ RENDELKEZÉSEK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A Bizottság 2023. december 21-ig, majd azt követően ötévente értékelést végez a Bizottság iránymutatásaival összhangban, hogy felmérje a BEREC és a BEREC Hivatal teljesítményét azok célkitűzései, megbízatása, feladatai és helyszíne tekintetében. Az értékelésben különösen azt kell megvizsgálni, hogy esetleg szükséges-e módosítani a BEREC és a BEREC Hivatal struktúráját vagy megbízatását, és hogy e módosításnak milyen költségvetési vonzatai lennének.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Amennyiben a Bizottság úgy ítéli meg, hogy a BEREC vagy a BEREC Hivatal fenntartása a kitűzött céljai, megbízatása és feladatai tekintetében már nem indokolt, javasolhatja e rendelet ennek megfelelő módosítását vagy hatályon kívül helyezését.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) A Bizottság az értékelés megállapításairól jelentést nyújt be az Európai Parlamentnek, a Tanácsnak és az igazgatótanácsnak, és az említett megállapításokat nyilvánosságra hozza.",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_49",
+   "kind": "article",
+   "number": "49",
+   "label": "49. cikk",
+   "title": "Átmeneti rendelkezések",
+   "path": [
+    "X. FEJEZET — ZÁRÓ RENDELKEZÉSEK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) A tulajdonjog, megállapodások, jogi kötelezettségek, munkáltatói szerződések, pénzügyi kötelezettségvállalások és felelősségek tekintetében a BEREC Hivatal lép az 1211/2009/EK rendelettel létrehozott Hivatal helyébe. Különösen, ez a rendelet nem érinti a Hivatal személyzetének jogait és kötelezettségeit. Szerződéseik e rendelet értelmében meghosszabbíthatók a személyzeti szabályzattal és az egyéb alkalmazottakra vonatkozó alkalmazási feltételekkel, valamint a BEREC Hivatal költségvetési korlátaival összhangban.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) 2018. december 20-i hatállyal az 1211/2009/EK rendelet alapján kinevezett igazgatási vezetőnek igazgatóként kell eljárnia, és el kell látnia az e rendeletben meghatározott feladatokat. Az igazgatási vezető szerződésének egyéb feltételei nem változnak.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Az igazgatótanács dönthet úgy, hogy az igazgatási vezetőnek az e cikk (2) bekezdésében említett igazgatóként eltöltött hivatali idejét egy újabb ciklusra meghosszabbítja. A 32. cikk (5) és (6) bekezdését értelemszerűen alkalmazni kell. Az igazgató összesített hivatali ideje nem haladhatja meg a tíz évet.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Az e rendelet 7. és 15. cikkében említett szabályozói tanácsnak és igazgatótanácsnak az új képviselők kinevezéséig az 1211/2009/EK rendelet 4., illetve 7. cikkében említett szabályozói tanács, illetve irányítóbizottság tagjaiból kell állnia.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) A szabályozói tanács és az igazgatótanács elnökei és alelnökei, akiket az 1211/2009/EK rendelet alapján neveztek ki, egyéves hivatali idejük végéig hivatalban maradnak mint az e rendelet 10. cikkében említett szabályozói tanács elnökei és alelnökei, valamint az igazgatótanács e rendelet 17. cikkében említett elnöke és elnökhelyettesei. Tiszteletben kell tartani a szabályozói tanács és az igazgatótanács azon elnökeinek és alelnökeinek a kinevezését, akiket az 1211/2009/EK rendelet alapján 2018. december 20. előtt neveztek ki.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) Az 1211/2009/EK rendelet 11. cikke alapján jóváhagyott költségvetés tekintetében a mentesítési eljárást az említett rendeletben megállapított szabályokkal összhangban kell lefolytatni.",
+     "para": "",
+     "point": "6"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_50",
+   "kind": "article",
+   "number": "50",
+   "label": "50. cikk",
+   "title": "Az (EU) 2015/2120 rendelet módosításai",
+   "path": [
+    "X. FEJEZET — ZÁRÓ RENDELKEZÉSEK"
+   ],
+   "blocks": [
+    {
+     "text": "Az (EU) 2015/2120 rendelet a következőképpen módosul:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "1. A cím helyébe a következő szöveg lép: „Az Európai Parlament és a Tanács 2015. november 25-i (EU) 2015/2120 rendelete a nyílt internet-hozzáféréssel és az EU-n belüli szabályozott hírközlési szolgáltatásokra vonatkozó kiskereskedelmi díjakkal kapcsolatos intézkedések meghozataláról, továbbá a 2002/22/EK irányelv és az 531/2012/EU rendelet módosításáról”.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Az 1. cikk a következő bekezdéssel egészül ki: „(3) Ez a rendelet továbbá közös szabályokat állapít meg annak biztosítása érdekében, hogy a fogyasztókkal szemben ne számítsanak fel túlzott díjakat olyan számfüggő személyközi kommunikációs szolgáltatások igénybevételéért, amelyek a fogyasztó belföldi szolgáltatója szerinti tagállamban indulnak és egy másik tagállamban vezetékes vagy mobil hívószámon végződnek.”",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. A 2. cikk második bekezdése a következő pontokkal egészül ki: „3. »EU-n belüli szabályozott hírközlési szolgáltatások«: olyan számfüggő személyközi kommunikációs szolgáltatások, amelyek a fogyasztó belföldi szolgáltatója szerinti tagállamban indulnak és egy másik tagállam nemzeti számozási tervében szereplő vezetékes vagy mobil hívószámon végződnek, és amelyek díjazása részben vagy egészben a tényleges fogyasztáson alapul; 4. »számfüggő személyközi kommunikációs szolgáltatás«: az (EU) 2018/1972 európai parlamenti és tanácsi irányelv 2. cikkének 6. pontjában meghatározott számfüggő személyközi kommunikációs szolgáltatás. (*1) Az Európai Parlament és a Tanács (EU) 2018/1972 irányelve (2018. december 11.) az Európai Elektronikus Hírközlési Kódex létrehozásáról (HL L 321., 2018.12.17., 36. o.).” \"",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. A szöveg a következő cikkel egészül ki: „5a. cikk Az EU-n belüli szabályozott hírközlési szolgáltatásokra vonatkozó kiskereskedelmi díjak (1) 2019. május 15-től kezdődően az EU-n belüli szabályozott hírközlési szolgáltatásokért a fogyasztóknak felszámított kiskereskedelmi díjak (héa nélkül) nem haladhatják meg telefonhívásonként percenként a 0,19 EUR-t, SMS üzenetenként pedig a 0,06 EUR-t. (2) Az (1) bekezdésben meghatározott kötelezettségek ellenére az EU-n belüli szabályozott hírközlési szolgáltatást nyújtók ezen túlmenően kínálhatnak, a fogyasztók pedig szándékuk szerint választhatnak olyan, EU-n belüli szabályozott hírközlési szolgáltatást is magában foglaló nemzetközi hírközlési díjszabást, amely eltér az (1) bekezdésben foglaltaktól, és amelynek révén a fogyasztókra az EU-n belüli szabályozott hírközlési szolgáltatás tekintetében attól eltérő díjszabás vonatkozik, mint amely ilyen döntés hiányában megillette volna őket. Mielőtt a fogyasztók ilyen eltérő tarifát választanak, az EU-n belüli szabályozott hírközlési szolgáltatást nyújtóknak tájékoztatniuk kell őket azon előnyök jellegéről, amelyeket ebből kifolyólag elveszítenének. (3) Amennyiben valamely, a (2) bekezdésben említett EU-n belüli szabályozott hírközlési szolgáltatás díja meghaladja az (1) bekezdésben meghatározott felső értékeket, automatikusan az (1) bekezdésben meghatározott díjszabást kell alkalmazni az olyan fogyasztók esetében, akik – 2019. május 15-től kezdődően két hónapon belül – nem erősítették meg, illetve nem nyilvánították ki, hogy a (2) bekezdésben említett valamely díjszabást választják. (4) A fogyasztók a szolgáltató által küldött kérelem kézhezvételétől számított egy munkanapon belül díjmentesen oda-vissza válthatnak az (1) bekezdésben meghatározott díjszabásokra, illetve díjszabásokról, és a szolgáltatóknak biztosítaniuk kell, hogy az ilyen váltás ne vonjon maga után az előfizetéseknek az EU-n belüli szabályozott hírközlési szolgáltatásoktól eltérő elemeivel kapcsolatos feltételeket vagy korlátozásokat. (5) Amennyiben az (1) bekezdésben említett maximális díjakat az eurótól eltérő pénznemben fejezik ki, a kezdeti díjkorlátokat az Európai Központi Bank által az Európai Unió Hivatalos Lapjában 2019. január 15-én, február 15-én és március 15-én közzétett referencia-árfolyamok átlagának alkalmazásával kell az adott pénznemben meghatározni. Az eurótól eltérő pénznemben kifejezett díjkorlátokat 2020-tól kezdődően évente felül kell vizsgálni. Az eurótól eltérő pénznemben kifejezett, évente felülvizsgált díjkorlátokat május 15-től, az ugyanazon év január 15-én, február 15-én és március 15-én közzétett referencia-árfolyamok átlagának használatával kell alkalmazni. (6) A nemzeti szabályozó hatóságok nyomon követik az EU-n belüli szabályozott hírközlési szolgáltatásokkal kapcsolatos piaci és díjszabási fejleményeket, és jelentést tesznek a Bizottságnak. Amennyiben az EU-n belüli szabályozott hírközlési szolgáltatásokat nyújtó szolgáltató megállapítja, hogy sajátos és rendkívüli, a legtöbb uniós szolgáltató esetében fennállótól eltérő körülmények miatt az (1) bekezdésben említett felső határértékek alkalmazása jelentősen befolyásolná a belföldi hírközlési szolgáltatásokra vonatkozó meglévő díjainak fenntartására vonatkozó képességét, a nemzeti szabályozó hatóság az említett szolgáltató kérése alapján – kizárólag a szükséges mértékben és kizárólag egyéves, megújítható időtartamra – eltérést biztosíthat az (1) bekezdéstől. A belföldi díjszabási modell fenntarthatóságának értékelését az EU-n belüli szabályozott hírközlési szolgáltatások nyújtóira jellemző releváns objektív tényezők, valamint a belföldi díjak és bevételek szintje alapján kell elvégezni. Amennyiben a kérelmező szolgáltató eleget tett az alkalmazandó bizonyítási tehernek, a nemzeti szabályozó hatóságnak meg kell határoznia azt a maximális díjszintet az (1) bekezdésben foglalt felső határértékek egyikén vagy ezek közül mindkettőn felül, amely elengedhetetlen lenne a szolgáltató belföldi díjszabási modellje fenntarthatóságának a biztosításához. A BEREC-nek iránymutatásokat kell közzétennie azon paraméterekre vonatkozóan, amelyeket a nemzeti szabályozó hatóságoknak az értékelés során figyelembe kell venniük.”",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. A 6. cikk a következő bekezdéssel egészül ki: „A tagállamok megállapítják az 5a. cikk megsértése esetén alkalmazandó szankciókra vonatkozó szabályokat, és meghoznak minden szükséges intézkedést ezek végrehajtására. Az előírt szankcióknak hatékonyaknak, arányosaknak és visszatartó erejűeknek kell lenniük. A tagállamok 2019. május 15-ig tájékoztatják a Bizottságot az 5a. cikk végrehajtásának biztosítása érdekében megállapított szabályokról és intézkedésekről, és késedelem nélkül tájékoztatják a Bizottságot az e szabályokat és intézkedéseket érintő minden későbbi módosításról.”",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. A 10. cikk a következő bekezdéssel egészül ki: „Az 5a. cikk 2024. május 24-én hatályát veszti.”",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_51",
+   "kind": "article",
+   "number": "51",
+   "label": "51. cikk",
+   "title": "Hatályon kívül helyezés",
+   "path": [
+    "X. FEJEZET — ZÁRÓ RENDELKEZÉSEK"
+   ],
+   "blocks": [
+    {
+     "text": "Az 1211/2009/EK rendelet hatályát veszti.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "A hatályon kívül helyezett rendeletre való hivatkozások e rendeletre értendők, a mellékletben található megfelelési táblázat szerint.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_52",
+   "kind": "article",
+   "number": "52",
+   "label": "52. cikk",
+   "title": "Hatálybalépés",
+   "path": [
+    "X. FEJEZET — ZÁRÓ RENDELKEZÉSEK"
+   ],
+   "blocks": [
+    {
+     "text": "Ez a rendelet az Európai Unió Hivatalos Lapjában való kihirdetését követő harmadik napon lép hatályba.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "anx_1",
+   "kind": "annex",
+   "number": "1",
+   "label": "Melléklet",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Megfelelési táblázat",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "1211/2009/EK rendelet Ez a rendelet 1. cikk, (1) bekezdés 1. cikk 1. cikk, (2) bekezdés 3. cikk, (1) bekezdés 1. cikk, (3) bekezdés 3. cikk, (2) és (3) bekezdés 1. cikk, (4) bekezdés 3. cikk, (4) bekezdés és 4. cikke (1) bekezdés, a) és b) pont 2. cikk 4. cikk 3. cikk 4. cikk 4. cikk, (1) bekezdés 6. cikk 4. cikk, (2) bekezdés 7. cikk, (1), (2) és (4) bekezdés és 8. cikke (1) és (2) bekezdés 4. cikk, (3) bekezdés 11. cikk, (4) és (5) bekezdés és 36. cikk 4. cikk, (4) bekezdés 10. cikk, (1), (2) és (3) bekezdés 4. cikk, (5) bekezdés 10. cikk, (4) bekezdés 4. cikk, (6) bekezdés 11. cikk 4. cikk, (7) bekezdés 13. cikk 4. cikk, (8) bekezdés 7. cikk, (4) bekezdés 4. cikk, (9) bekezdés 12. cikk, (1) és (2) bekezdés 4. cikk, (10) bekezdés 12. cikk, (3) bekezdés 4. cikk, (11) bekezdés 5. cikk 5. cikk 4. cikk 6. cikk, (1) bekezdés 2. cikk, (1) bekezdés 6. cikk, (2) bekezdés 5. cikk 6. cikk, (3) bekezdés 14. cikk, (1) bekezdés 6. cikk, (4) bekezdés 2. cikk, (2) bekezdés 6. cikk, (5) bekezdés 20. cikk, 31. cikk 7. cikk, (1) bekezdés 15. cikk, (1) bekezdés 7. cikk, (2) bekezdés 32. cikk 7. cikk, (3) bekezdés 20. cikk, (6) bekezdés 7. cikk, (4) bekezdés 16. cikk, (1) bekezdés, k) pont 7. cikk, (5) bekezdés 13. cikk 8. cikk 32. cikk 9. cikk 20. cikk 10. cikk, (1) bekezdés 30. cikk és 34. cikk 10. cikk, (2) bekezdés 16. cikk, (1) bekezdés, j) pont 10. cikk, (3) bekezdés 16. cikk, (2) bekezdés 10. cikk, (4) bekezdés 33. cikk 11. cikk 25. cikk 12. cikk 24. cikk 13. cikk 26. cikk 14. cikk – 15. cikk 29. cikk 16. cikk 43. cikk 17. cikk 4. cikk, (5) bekezdés 18. cikk 37. cikk 19. cikk 39. cikk, 40. cikk 20. cikk 38. cikk 21. cikk 42. cikk 22. cikk 36. cikk 23. cikk 34. cikk 24. cikk 44. cikk 25. cikk 48. cikk 26. cikk 52. cikk",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  }
+ ]
+}

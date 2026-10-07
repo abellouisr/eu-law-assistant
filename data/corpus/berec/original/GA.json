@@ -1,0 +1,2822 @@
+{
+ "document": "berec",
+ "version": "original",
+ "lang": "GA",
+ "meta": {
+  "source": "eurlex",
+  "celex": "32018R1971",
+  "kind": "original",
+  "date": "2018-12-11",
+  "built_at": "2026-10-07T10:10:16+00:00",
+  "sources_sha256": {
+   "32018R1971": "577a93a24330ec889a3c225bdb0815a7b2686eac37b182783f8d8b388c213e96"
+  },
+  "counts": {
+   "article": 52,
+   "recital": 53,
+   "annex": 1
+  }
+ },
+ "provisions": [
+  {
+   "id": "rct_1",
+   "kind": "recital",
+   "number": "1",
+   "label": "(1)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Is é an aidhm atá le Treoir (AE) 2018/1972 ó Pharlaimint na hEorpa agus ón gComhairle margadh inmheánach a chruthú don chumarsáid leictreonach san Aontas Eorpach agus ardleibhéal infheistíochta, nuálaíochta agus cosanta tomhaltóirí a áirithiú trí iomaíocht fheabhsaithe. Bunaítear freisin leis an Treoir sin líon suntasach cúraimí nua do Chomhlacht na Rialálaithe Eorpacha um Chumarsáid Leictreonach (“BEREC”) amhail treoirlínte a eisiúint ar ábhair éagsúla, tuairisciú faoi ghnóthaí teicniúla, cláir, liostaí nó bunachair sonraí a choinneáil agus tuairimí a thabhairt ar nósanna imeachta an mhargaidh inmheánaigh le haghaidh dréachtbhearta náisiúnta maidir le rialáil an mhargaidh.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_2",
+   "kind": "recital",
+   "number": "2",
+   "label": "(2)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Déanann Rialachán (AE) Uimh. 531/2012 ó Pharlaimint na hEorpa agus ón gComhairle na rialacha dá bhforáiltear sa chreat rialála le haghaidh cumarsáid leictreonach a chomhlánú agus tá sé mar thaca leo, a mhéid a bhaineann le fánaíocht uile-Aontais, agus leagtar síos leis cúraimí áirithe do BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_3",
+   "kind": "recital",
+   "number": "3",
+   "label": "(3)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ina theannta sin, le Rialachán (AE) 2015/2120 ó Pharlaimint na hEorpa agus ón gComhairle leagtar síos cúraimí breise do BEREC maidir le rochtain oscailte ar an idirlíon. Thairis sin, fáiltíodh roimh Threoirlínte BEREC an 30 Lúnasa 2016 maidir leis an gcaoi a gcuirfidh Údaráis Náisiúnta na Rialacha i dtaca le Neodracht Idirlíne chun feidhme, mar shoiléiriú luachmhar a sholáthar lena ráthófar go mbeidh idirlíon láidir, saor in aisce, oscailte ann, trína áirithiú go ndéanfar na rialacha a chur i bhfeidhm ar bhealach comhsheasmhach chun cóir chomhionann neamh-idirdhealaitheach a chosaint don trácht agus seirbhísí rochtana ar an idirlíon agus cearta gaolmhara na n-úsáideoirí deiridh á soláthar.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_4",
+   "kind": "recital",
+   "number": "4",
+   "label": "(4)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "I bhfianaise gur gá a áirithiú go ndéanfar cleachtas comhsheasmhach rialála a fhorbairt agus go ndéanfar creat rialála an Aontais don chumarsáid leictreonach a chur i bhfeidhm go comhsheasmhach, bhunaigh an Coimisiún, le Cinneadh 2002/627/CE ón gCoimisiún, Grúpa na Rialtóirí Eorpacha maidir le Gréasáin agus Seirbhísí Leictreonacha Cumarsáide (GRE) le comhairle a chur ar an gCoimisiún agus le cúnamh a thabhairt dó agus an margadh inmheánach do líonraí agus seirbhísí cumarsáide leictreonaí á chomhdhlúthú, agus ar bhealach níos ginearálta, le seirbhís a sholáthar don idirphlé idir na húdaráis náisiúnta rialála (ÚNRanna) agus an Coimisiún.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_5",
+   "kind": "recital",
+   "number": "5",
+   "label": "(5)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Bunaíodh BEREC agus an Oifig le Rialachán (CE) Uimh. 1211/2009 ó Pharlaimint na hEorpa agus ón gComhairle. Tháinig BEREC in áit an ERG agus é mar aidhm leis cuidiú ar thaobh amháin le forbairt agus ar thaobh eile le feidhmiú níos fearr an mhargaidh inmheánaigh do líonraí cumarsáide leictreonaí agus do sheirbhísí cumarsáide leictreonaí, trí dhíriú ar chur chun feidhme comhsheasmhach an chreata rialála a áirithiú do chumarsáid leictreonach. Gníomhaíonn BEREC mar fhóram le haghaidh comhar idir ÚNRanna, agus idir ÚNRanna agus an Coimisiún, i bhfeidhmiú réimse iomlán a bhfreagrachtaí faoi chreat rialála an Aontais. Bunaíodh BEREC chun saineolas a chur ar fáil agus le go gníomhódh sé go neamhspleách trédhearcach.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_6",
+   "kind": "recital",
+   "number": "6",
+   "label": "(6)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "De bhreis air sin, feidhmíonn BEREC mar chomhlacht machnaimh, díospóireachta agus comhairle do Pharlaimint na hEorpa, don Chomhairle agus don Choimisiún i réimse na cumarsáide leictreonaí.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_7",
+   "kind": "recital",
+   "number": "7",
+   "label": "(7)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Bunaíodh an Oifig mar chomhlacht comhphobail ag a bhfuil pearsantacht dhlítheanach chun na cúraimí dá dtagraítear i Rialachán (CE) Uimh. 1211/2009 a dhéanamh, go háirithe seirbhísí gairmiúla agus riaracháin a sholáthar do BEREC. Chun tacaíocht a thabhairt do BEREC ar bhealach éifeachtúil, tugadh neamhspleáchas dlíthiúil, riaracháin agus airgeadais don Oifig.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_8",
+   "kind": "recital",
+   "number": "8",
+   "label": "(8)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Trí Chinneadh 2010/349/AE, chinn Ionadaithe Rialtais na mBallstát gur i Ríge a bheadh suíomh na hOifige. Tháinig an Comhaontú Suímh idir Rialtas Phoblacht an Laitvia agus an Oifig i bhfeidhm ar an 5 Lúnasa 2011.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_9",
+   "kind": "recital",
+   "number": "9",
+   "label": "(9)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ina theachtaireacht an 6 Bealtaine 2015 dar teideal “Straitéis maidir le Margadh Aonair Digiteach don Eoraip”, bheartaigh an Coimisiún tograí a thíolacadh in 2016 maidir le hathchóiriú uaillmhianach a dhéanamh ar an gcreat rialála le haghaidh cumarsáid leictreonach, lena ndíreofar, inter alia, ar chreat níos éifeachtaí chun na rialacha maidir leis an gcumarsáid leictreonach a oiriúnú dá bhfeidhm mar chuid den obair chun na dálaí cearta a chruthú don mhargadh aonair digiteach. Áirítear orthu sin leas a bhaint as líonraí an-ardtoillte, bainistíocht níos comhordaithe a dhéanamh ar radaispeictream le haghaidh líonraí gan sreang agus cothrom iomaíochta a chruthú le haghaidh líonraí digiteacha ardleibhéil agus seirbhísí nuálaíocha. Sa teachtaireacht sin, tugadh le fios gur gá an creat institiúideach a neartú trí ról BEREC a fheabhsú mar gheall ar an margadh agus an timpeallacht theicneolaíoch a bheith ag athrú.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_10",
+   "kind": "recital",
+   "number": "10",
+   "label": "(10)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ina rún an 19 Eanáir 2016 dar teideal “I dTreo Gníomh um Margadh Aonair Digiteach”, d’iarr Parlaimint na hEorpa ar an gCoimisiún an margadh aonair digiteach a chomhtháthú a thuilleadh trína áirithiú go mbeidh creat institiúideach níos éifeachtúla ann.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_11",
+   "kind": "recital",
+   "number": "11",
+   "label": "(11)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Is mór atá déanta ag BEREC agus ag an Oifig chun cuidiú le cur chun feidhme comhsheasmhach an chreata rialála do chumarsáid leictreonach. Dá ainneoin sin, tá éagothromaíochtaí móra ann go fóill idir na Ballstáit maidir le cleachtas rialála, rud atá ag dul i bhfeidhm ar chuideachtaí atá i mbun gnó trasteorann nó atá gníomhach i líon suntasach de na Ballstáit, lena n-áirítear i gcás inarb ann do threoirlínte BEREC ach go bhféadfaí iad a fhorbairt a thuilleadh. D’fhonn cuidiú a thuilleadh le forbairt an mhargaidh inmheánaigh do chumarsáid leictreonach ar fud an Aontais, agus chun na nithe seo a leanas a chur chun cinn: rochtain ar líonraí an-ardtoillte agus glacadh na líonraí sin, iomaíocht i dtaca le soláthar líonraí cumarsáide leictreonaí, seirbhísí agus na saoráidí a ghabhann leo, agus leasanna shaoránaigh an Aontais, is é is aidhm don Rialachán seo ról BEREC a neartú. Chomhlánódh ról treisithe den sórt sin leis an ról arna imirt ag BEREC, ról a feabhsaíodh go mór tar éis theacht i bhfeidhm Rialachán (CE) Uimh. 531/2012, Rialachán (AE) Uimh. 2015/2120, agus Treoir (AE) 2018/1972.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_12",
+   "kind": "recital",
+   "number": "12",
+   "label": "(12)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "I bhfianaise forbairtí sa mhargadh agus forbairtí teicneolaíocha, ar minic gné mhéadaithe thrasteorann ag gabháil leo, agus ag féachaint dá bhfuarthas amach go dtí seo maidir le féachaint le cur chun feidhme comhsheasmhach a áirithiú i réimse na cumarsáide leictreonaí, is gá tógáil ar obair BEREC agus ar obair na hOifige. Ba cheart a rialachas agus a ngníomhaíochtaí a bheith cuíchóirithe agus oiriúnaithe do na cúraimí a dhéanann siad. Agus aird á tabhairt ar na nósanna imeachta atá bunaithe cheana agus do na cúraimí nua atá sannta do BEREC agus don Oifig agus d’fhonn cur lena n-éifeachtacht, ba cheart foráil do chobhsaíocht bhreise le haghaidh a bhainistithe agus ba cheart an próiseas cinnteoireachta a shimpliú.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_13",
+   "kind": "recital",
+   "number": "13",
+   "label": "(13)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ba cheart go soláthródh BEREC saineolas agus go gcothódh sé muinín, de bhua a neamhspleáchais, de bhua cháilíocht a chuid comhairle agus faisnéise, de bhua thrédhearcacht a nósanna imeachta agus a mhodhanna oibríochta agus de bhua a dhíograise le linn a chúraimí a chur i gcrích. Níor cheart go gcuirfeadh neamhspleáchas BEREC cosc ar a bhord rialálaithe plé a dhéanamh ar bhonn na ndréachtaí a ullmhaíonn na meithleacha.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_14",
+   "kind": "recital",
+   "number": "14",
+   "label": "(14)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ba cheart gur “Gníomhaireacht Tacaíochta BEREC” (“Oifig BEREC”) a bheadh mar ainm oifigiúil nua na hOifige. Ba cheart an t-ainm “Oifig BEREC” a úsáid mar ainm gearr na Gníomhaireachta. Ba cheart neamhspleáchas dlíthiúil, riaracháin agus airgeadais a bheith ag Oifig BEREC. Chuige sin, is gá agus is iomchuí gur comhlacht de chuid an Aontais a bheidh in Oifig BEREC ag a mbeidh pearsantacht dhlítheanach agus a fheidhmeoidh na cumhachtaí cur chun feidhme a thabharfar dó. Mar ghníomhaireacht dhíláraithe de chuid an Aontais, ba cheart d’Oifig BEREC feidhmiú laistigh den sainordú atá aici agus laistigh den chreat institiúideach atá ann faoi láthair. Níor cheart a mheas go bhfuil seasamh an Aontais á chur in iúl thar a cheann ag BEREC do phobal lasmuigh nó go bhfuil oibleagáidí dlíthiúla á gcur aige ar an Aontas.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_15",
+   "kind": "recital",
+   "number": "15",
+   "label": "(15)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Chomh maith leis sin, na rialacha maidir le rialachas agus oibriú Oifig BEREC, ba cheart iad a ailíniú, i gcás inarb iomchuí, le prionsabail an Ráitis Chomhpháirtigh ó Pharlaimint na hEorpa, ón gComhairle agus ón gCoimisiún Eorpach an 19 Iúil 2012 maidir le gníomhaireachtaí díláraithe.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_16",
+   "kind": "recital",
+   "number": "16",
+   "label": "(16)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ba cheart go mbainfeadh institiúidí an Aontais agus na ÚNRanna tairbhe as cúnamh agus comhairle BEREC, lena n-áirítear maidir le tionchar rialála aon cheist ar leith maidir le dinimic fhoriomlán na margaí digiteacha nó maidir lena gcaidreamh, a bplé agus a malartuithe le tríú páirtithe agus maidir le scaipeadh na ndea-chleachtas rialála go dtí tríú páirtithe. Sa bhreis ar an méid a chuireann sí le comhairliúchán poiblí an Choimisiúin, ba cheart do BEREC, nuair a iarrtar sin air, comhairle a chur ar an gCoimisiún agus tograí reachtacha á n-ullmhú. Ba cheart go mbeadh BEREC ábalta freisin comhairle a chur ar fáil do Pharlaimint na hEorpa agus don Chomhairle arna iarraidh sin dóibh, nó ar a thionscnamh féin.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_17",
+   "kind": "recital",
+   "number": "17",
+   "label": "(17)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Mar chomhlacht teicniúil a bhfuil saineolas aige ar chumarsáid leictreonach agus a bhfuil ionadaithe ó ÚNRanna agus ón gCoimisiún mar chuid de, is faoi BEREC is fearr na cúraimí a fhágáil amhail cuidiú le nósanna imeachta éifeachtúla an mhargaidh inmheánaigh le haghaidh dréachtbhearta náisiúnta maidir le rialáil an mhargaidh, na treoirlínte is gá a chur ar fáil d’ÚNRanna agus d’údaráis inniúla eile chun critéir choiteanna agus cur chuige rialála comhsheasmhach a áirithiú, agus cláir, bunachair sonraí agus liostaí áirithe a choinneáil ar leibhéal an Aontais. Tá an méid sin gan dochar do na cúraimí arna leagan síos do ÚNRanna, arb iad is gaire do na margaí cumarsáide leictreonaí agus na dálaí áitiúla a ghabhann leo.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_18",
+   "kind": "recital",
+   "number": "18",
+   "label": "(18)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "D’fhonn a cúraimí a chur i gcrích, ba cheart do BEREC leanúint de shaineolas ó ÚNRanna a chomhthiomsú. Ba cheart go mbeadh d’aidhm ag BEREC a áirithiú go mbeidh na ÚNRanna uile rannpháirteach ina chúraimí rialála agus ina fheidhmiú. Chun BEREC a neartú, é a dhéanamh níos ionadaíche agus chun a saineolas, a thaithí agus a eolas a chaomhnú i ndáil le staid shonrach réimse iomlán na margaí náisiúnta, ba cheart do gach Ballstát a áirithiú go mbíonn acmhainní leordhóthanacha airgeadais agus daonna ag a chuid ÚNRanna chun páirt iomlán a ghlacadh in obair BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_19",
+   "kind": "recital",
+   "number": "19",
+   "label": "(19)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "I bhfianaise an chóineasaithe mhéadaithe atá ann idir na hearnálacha a chuireann seirbhísí cumarsáide leictreonaí ar fáil agus gné chothrománach na saincheisteanna rialála a bhaineann lena bhforbairt, ba cheart cead a thabhairt do BEREC agus d’Oifig BEREC comhoibriú leo seo a leanas, gan aon dochar dá ról sin, na ÚNRanna, comhlachtaí eile de chuid an Aontais, oifigí, gníomhaireachtaí agus grúpaí comhairleacha, go háirithe an Grúpa um an mBeartas Radaispeictrim, arna bhunú le Cinneadh 2002/622/CE ón gCoimisiún, an Maoirseoir Eorpach ar Chosaint Sonraí arna bhunú le Rialachán (AE) 2018/1725 ó Pharlaimint na hEorpa agus ón gComhairle, an Bord Eorpach um Chosaint Sonraí, arna bhunú le Rialachán (AE) 2016/679 ó Pharlaimint na hEorpa agus ón gComhairle, Grúpa na Rialálaithe Eorpacha um Sheirbhísí na Meán Closamhairc, arna bhunú le Treoir 2010/13/AE ó Pharlaimint na hEorpa agus ón gComhairle, Gníomhaireacht an Aontais Eorpaigh um Shlándáil Líonra agus Faisnéise arna bhunú le Rialachán (AE) Uimh. 526/2013 ó Pharlaimint na hEorpa agus ón gComhairle, an Ghníomhaireacht Eorpach GNSS, arna bunú le Rialachán (AE) Uimh. 912/2010, ó Pharlaimint na hEorpa agus ón gComhairle, an Gréasán um Chomhar ar mhaithe le Cosaint Tomhaltóirí, arna bhunú de bhun Rialachán (CE) Uimh. 2006/2004 ó Pharlaimint na hEorpa agus ón gComhairle, Líonra Eorpach na nÚdarás Iomaíochta agus eagraíochtaí Eorpacha um chaighdeánú, chomh maith le coistí atá ann cheana (amhail an Coiste um Chumarsáid agus an Coiste um Radaispeictream). Ba cheart go mbeadh BEREC agus Oifig BEREC ábalta freisin comhoibriú le húdaráis ábhartha inniúla na mBallstát atá freagrach as iomaíocht, cosaint tomhaltóirí agus cosaint sonraí, agus leis na húdaráis inniúla i dtríú tíortha, go háirithe údaráis rialála atá inniúil i réimse na cumarsáide leictreonaí nó grúpaí de na húdaráis sin, mar aon le heagraíochtaí idirnáisiúnta nuair is gá sin chun a gcúraimí a dhéanamh. Ba cheart go mbeadh BEREC ábalta freisin dul i gcomhairle le páirtithe leasmhara trí bhíthin comhairliúcháin phoiblí.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_20",
+   "kind": "recital",
+   "number": "20",
+   "label": "(20)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ba cheart do BEREC a bheith i dteideal socruithe oibre a bhunú le comhlachtaí, oifigí, gníomhaireachtaí agus grúpaí comhairleacha inniúla an Aontais, le húdaráis inniúla tríú tíortha agus le heagraíochtaí idirnáisiúnta, agus níor cheart oibleagáidí dlíthiúla a chruthú de bharr na socruithe sin. Cuir i gcás, d’fhéadfadh a bheith mar aidhm ag socruithe oibre mar sin, caidrimh chomhoibríocha a fhorbairt agus tuairimí a mhalartú maidir le saincheisteanna rialála. Ba cheart don Choimisiún a áirithiú go mbeidh na socruithe oibre riachtanacha comhsheasmhach le beartais agus le tosaíochtaí an Aontais, agus go bhfeidhmeoidh BEREC, laistigh den sainordú atá aige agus laistigh den chreat institiúideach atá ann faoi láthair, agus nach measfar go bhfuil seasamh an Aontais á chur in iúl thar a cheann aige don phobal lasmuigh nó go bhfuil oibleagáidí idirnáisiúnta á gcur aige ar an Aontas.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_21",
+   "kind": "recital",
+   "number": "21",
+   "label": "(21)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ba cheart do BEREC a bheith comhdhéanta den Bhord Rialálaithe agus na meithleacha. Le cathaoirleacht rothlach an Bhoird Rialálaithe, beartaítear leanúnachas obair BEREC a áirithiú. Déantar rothlacht a chur chun cinn i ndáil le róil an Leas-Chathaoirleachta freisin, róil trína ndéanfaí ÚNRanna éagsúla a ionadú.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_22",
+   "kind": "recital",
+   "number": "22",
+   "label": "(22)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ba cheart do BEREC a bheith in ann gníomhú chun leasa an Aontais, go neamhspleách ar aon idirghabháil sheachtrach, lena n-áirítear brú polaitiúil nó cur isteach tráchtála. Tá sé tábhachtach, dá bhrí sin, a áirithiú go mbeidh na ráthaíochtaí is fearr is féidir i ndáil le neamhspleáchas pearsanta agus neamhspleáchas feidhmiúil ag na daoine a cheapfar chun bheith ar an mBord Rialálaithe. Ceann ÚNR, comhalta dá chomhlacht coláisteach, nó an t-ionadaí ar cheachtar acu, beidh an leibhéal ard neamhspleáchais phearsanta agus fheidhmiúil céanna aige nó aici. Go sonrach, ba cheart dó nó di gníomhú ar bhealach neamhspleách oibiachtúil, níor cheart dó nó di treoracha a lorg nó a ghlacadh i bhfeidhmiú a gcuid feidhmeanna dóibh, agus ba cheart iad a chosaint i gcoinne cur as oifig treallach. Is féidir le ceann ÚNR nó comhalta dá chomhlacht coláisteach, nó an t-ionadaí ar cheachtar acu nó comhalta eile d’fhoireann ÚNR feidhm an chomhalta mhalartaigh a dhéanamh, agus gníomhóidh sé nó sí, i gcomhréir le raon feidhme shainordú chomhalta an Bhoird Rialálaithe a bhfuil ionadú á dhéanamh air nó uirthi.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_23",
+   "kind": "recital",
+   "number": "23",
+   "label": "(23)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Is léir ón taithí a fuarthas gur fearr is féidir an chuid is mó de chúraimí BEREC a chur i gcrích le meithleacha, agus ba cheart do na meithleacha a áirithiú go dtabharfaí an aird chéanna i gcónaí ar thuairimí agus ionchur gach ÚNR. Ba cheart don Bhord Rialálaithe dá bhrí sin meithleacha a chur ar bun agus a gcathaoirleacha a cheapadh. Ba cheart do ÚNRanna freagairt gan mhoill d’iarrataí ainmniúcháin chun a áirithiú go mbunófar meithleacha go luath, go háirithe na meithleacha sin a mbeidh baint acu le nósanna imeachta a bhfuil teorainneacha ama acu. Ba cheart go mbeadh na meithleacha ar oscailt do rannpháirtíocht na saineolaithe ón gCoimisiún. Ba cheart do bhaill foirne Oifig BEREC tacú agus cur le gníomhaíochtaí na meithleacha.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_24",
+   "kind": "recital",
+   "number": "24",
+   "label": "(24)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Más gá agus ar bhonn cás ar chás, ba cheart don Bhord Rialálaithe agus don Bhord Bainistíochta a bheith in ann cuireadh a thabhairt d’aon duine a bhféadfaidh a thuairimí a bheith ina n-ábhar spéise páirt a ghlacadh ina gcruinnithe mar bhreathnóir.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_25",
+   "kind": "recital",
+   "number": "25",
+   "label": "(25)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "I gcás inarb iomchuí agus ag brath ar leithdháileadh na gcúraimí do na húdaráis i ngach Ballstát, ba cheart na tuairimí ó údaráis inniúla eile a chur san áireamh sa mheitheal ábhartha, mar shampla, trí chomhairliúchán ar an leibhéal náisiúnta nó trí chuireadh a thabhairt do na húdaráis eile sin chuig na cruinnithe ábhartha i gcás ina dteastaíonn a saineolas. In aon chás, ba cheart neamhspleáchas BEREC a chothabháil.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_26",
+   "kind": "recital",
+   "number": "26",
+   "label": "(26)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ba cheart don Bhord Rialálaithe agus don Bhord Bainistíochta a bheith ag feidhmiú go comhthreomhar, an Bord Rialálaithe ag déanamh cinntí go príomha maidir le gnóthaí rialála agus an Bord Bainistíochta ag déanamh cinntí maidir le gnóthaí riaracháin amhail an buiséad, an fhoireann agus iniúchtaí. I bprionsabal, agus anuas ar ionadaithe an Choimisiúin, is ceart gurb iad na daoine céanna a dhéanfadh ionadaíocht ar na húdaráis rialála náisiúnta ar an mBord Bainistíochta agus atá ceaptha go dtí an Bord Rialálaithe, ach ba cheart go mbeadh ÚNRanna ábalta ionadaithe eile a cheapadh a chomhlíonann na ceanglais chéanna.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_27",
+   "kind": "recital",
+   "number": "27",
+   "label": "(27)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ba é Leas-Chathaoirleach Choiste Bainistíochta na hOifige a d’fheidhmigh cumhachtaí an údaráis ceapacháin roimhe seo. Foráiltear leis an Rialachán seo go ndéanfaidh an Bord Bainistíochta cumhachtaí ábhartha an údaráis ceapacháin a tharmligean don Stiúrthóir, duine ag a bhfuil an t-údarás na cumhachtaí sin a fho-tharmligean. Tá sé beartaithe leis sin cuidiú le bainistiú éifeachtúil fhoireann Oifig BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_28",
+   "kind": "recital",
+   "number": "28",
+   "label": "(28)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ba cheart don Bhord Rialálaithe agus don Bhord Bainistíochta dhá ghnáthchruinniú ar a laghad a thionól in aghaidh na bliana. I bhfianaise na taithí a fuarthas go dtí seo agus i bhfianaise ról méadaithe BEREC, d’fhéadfadh sé go mbeadh ar an mBord Rialálaithe nó ar an mBord Bainistíochta cruinnithe breise a thionól.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_29",
+   "kind": "recital",
+   "number": "29",
+   "label": "(29)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ba cheart go leanfadh an Stiúrthóir de bheith ina ionadaí nó ina hionadaí d’Oifig BEREC dtaca le gnóthaí dlíthiúla agus riaracháin. Ba cheart don bhord bainistíochta an Stiúrthóir a cheapadh, de thoradh nós imeachta roghnúcháin oscailte thrédhearcach chun dianmheastóireacht ar na hiarrthóirí agus leibhéal ard neamhspleáchais a ráthú. Trí bliana a mhaireadh téarma oifige bhainisteoir riaracháin na hOifige roimhe seo. Is den riachtanas go mbeadh sainordú an stiúrthóra fada go leor chun go bhféadfaí cobhsaíocht a áirithiú agus straitéis fhadtéarmach a chur i bhfeidhm d’Oifig BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_30",
+   "kind": "recital",
+   "number": "30",
+   "label": "(30)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ba cheart feidhm a bheith ag Rialachán Tarmligthe an Choimisiúin (AE) Uimh. 1271/2013 maidir le hOifig BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_31",
+   "kind": "recital",
+   "number": "31",
+   "label": "(31)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ba cheart d’Oifig BEREC an tacaíocht ghairmiúil agus riaracháin ar fad is gá a chur ar fáil d’obair BEREC, lena n-áirítear tacaíocht airgeadais, eagrúcháin agus lóistíochtúil, agus ba cheart go gcuirfeadh sí le hobair rialála BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_32",
+   "kind": "recital",
+   "number": "32",
+   "label": "(32)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Chun uathriail agus neamhspleáchas Oifig BEREC a ráthú agus tacaíocht a chur ar fáil d’obair BEREC, ba cheart d’Oifig BEREC a buiséad féin a bheith aici, ar as ranníocaíocht ón Aontas ba cheart go dtiocfadh an chuid is mó de. Ba cheart don bhuiséad a bheith leordhóthanach agus i gcomhréir leis na cúraimí breise a shanntar do BEREC agus d’Oifig BEREC agus leis an ról méadaithe atá acu. Ba cheart maoiniú Oifig BEREC a bheith faoi réir comhaontú ón údarás buiséadach mar atá leagtha amach i bpointe 31 den Chomhaontú Idir-Institiúideach an 2 Nollaig 2013 idir Parlaimint na hEorpa, an Chomhairle agus an Coimisiún maidir le smacht buiséadach, comhar i gcúrsaí buiséid agus bainistíocht fhónta airgeadais.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_33",
+   "kind": "recital",
+   "number": "33",
+   "label": "(33)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ba cheart foireann leordhóthanach a bheith ag Oifig BEREC chun a chúraimí a dhéanamh. Na cúraimí uile a shannfar d’Oifig BEREC, lena n-áirítear seirbhísí tacaíochta gairmiúla agus riaracháin do BEREC dá chúraimí rialála, mar aon le comhlíonadh na rialachán airgeadais, foirne agus na rialachán eile is infheidhme, agus ualach méadaithe na gcúraimí oibríochtúla a cheanglaítear ar Oifig BEREC le hais na gcúraimí riaracháin, ba cheart é sin ar fad a mheasúnú mar is cuí agus a chur san áireamh i gclársceidealú na n-acmhainní.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_34",
+   "kind": "recital",
+   "number": "34",
+   "label": "(34)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Chun síneadh breise a chur le cur chun feidhme comhsheasmhach an chreata rialála do chumarsáid leictreonach, ba cheart don bhord rialálaithe, do na meithleacha agus don Bhord Bainistíochta a bheith oscailte do rannpháirtíocht ó húdarás rialála tríú tíortha atá inniúil i réimse na cumarsáide leictreonaí, sa chás go bhfuil comhaontuithe chuige sin déanta ag na tríú tiortha sin leis an Aontas, amhail Stáit CSTE LEE agus tíortha is iarrthóirí AE.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_35",
+   "kind": "recital",
+   "number": "35",
+   "label": "(35)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "I gcomhréir le prionsabal na trédhearcachta, ba cheart do BEREC agus Oifig BEREC faisnéis a fhoilsiú ar a suíomh gréasáin i ndáil lena gcuid oibre, i gcás inarb ábhartha. Go háirithe, ba cheart do BEREC aon doiciméad deiridh arna eisiúint i gcur i bhfeidhm a chúraimí a chur ar fáil go poiblí, amhail tuairimí, treoirlínte, tuarascálacha, moltaí, comhsheasaimh agus dea-chleachtais, chomh maith le haon staidéar a choimisiúnófar chun tacú lena chúraimí. Ba cheart do BEREC agus Oifig BEREC freisin liostaí nuashonraithe a chur ar fáil go poiblí dá gcúraimí agus dá gcomhaltaí, dá gcomhaltaí malartacha agus rannpháirtithe eile i gcruinnithe a gcomhlachtaí eagraíochtúla, agus na dearbhuithe leasa a dhéanfaidh Comhaltaí an Bhoird Rialálaithe, comhaltaí an Bhoird Bainistíochta agus an Stiúrthóir.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_36",
+   "kind": "recital",
+   "number": "36",
+   "label": "(36)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ba cheart go mbeadh BEREC, arna thacú ag Oifig BEREC, ábalta dul i mbun gníomhaíochtaí cumarsáide laistigh dá réimse inniúlachta, agus ní chuireann sin as do phríomhchúraimí BEREC. Ba cheart ábhar agus cur chun feidhme straitéis chumarsáide BEREC a bheith comhsheasmhach, oibiachtúil, ábhartha agus ba cheart iad a chomhordú le straitéisí agus gníomhaíochtaí an Choimisiúin agus na n-institiúidí eile ionas gur féidir íomhá ghinearálta an Aontais a chur san áireamh. Ba cheart gníomhaíochtaí cumarsáide Oifig BEREC a dhéanamh i gcomhréir le pleananna ábhartha maidir le cumarsáid agus scaipeadh arna nglacadh ag an mBord Bainistíochta.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_37",
+   "kind": "recital",
+   "number": "37",
+   "label": "(37)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Chun a gcuid cúraimí a dhéanamh go héifeachtach, ba cheart an ceart a bheith ag BEREC agus ag Oifig BEREC gach faisnéis riachtanach a iarraidh ar an gCoimisiún, ar na ÚNRanna, agus, mar rogha dheireanach, ar údaráis agus gnóthais eile. Ba cheart na hiarrataí ar fhaisnéis cúiseanna a thabhairt, a bheith comhréireach agus níor cheart ualach míchuí a bheith ar na seolaithe dá ndeasca. Ba cheart do na ÚNRanna oibriú i gcomhar le BEREC agus Oifig BEREC agus ba cheart go dtabharfaí faisnéis bheacht thráthúil dóibh chun a áirithiú go mbíonn BEREC agus Oifig BEREC in ann a gcúraimí a chomhlíonadh. Ba cheart freisin do BEREC agus Oifig BEREC, de bhun phrionsabal an chomhair dhílis, gach faisnéis riachtanach a roinnt leis an gCoimisiún, leis na ÚNRanna, agus le húdaráis inniúla eile. I gcás inarb ábhartha, ba cheart rúndacht na faisnéise a áirithiú. Agus é ag meas cibé acu atá nó nach bhfuil iarraidh cuí-réasúnaithe, ba cheart do BEREC a áireamh cibé acu a bhaineann nó nach mbaineann an fhaisnéis a iarrtar le comhlíonadh na gcúraimí a shanntar go heisiach do na húdaráis ábhartha.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_38",
+   "kind": "recital",
+   "number": "38",
+   "label": "(38)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ba cheart d’Oifig BEREC comhchóras faisnéise agus cumarsáide a bhunú chun dúbláil iarrataí ar fhaisnéis a sheachaint agus cumarsáid a éascú idir na húdaráis ar fad atá páirteach.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_39",
+   "kind": "recital",
+   "number": "39",
+   "label": "(39)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "D’fhonn leibhéal ard rúndachta a áirithiú agus coinbhleachtaí leasa a sheachaint, na rialacha maidir leis na cúrsaí sin a bhfuil feidhm acu maidir le comhaltaí chomhlachtaí eagraíochtúla BEREC agus Oifig BEREC, ba cheart feidhm a bheith acu maidir lena gcuid malartach.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_40",
+   "kind": "recital",
+   "number": "40",
+   "label": "(40)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ós rud é go mbronnann an Rialachán seo cúraimí nua ar BEREC agus ar Oifig BEREC agus go bhféadfadh gníomhartha dlíthiúla eile de chuid an Aontais cúraimí breise a leagan air, ba cheart don Choimisiún meastóireacht thráthrialta a dhéanamh ar oibriú BEREC agus Oifig BEREC agus ar éifeachtacht a struchtúir institiúidigh seo i dtimpeallacht dhigiteach atá ag athrú. Más é toradh na meastóireachta sin go gcinneann an Coimisiún nach bhfuil an struchtúr institiúideach oiriúnach do chur i gcrích chúraimí BEREC agus Oifig BEREC, agus go háirithe chun cur chun feidhme comhsheasmhach an chreata rialála do chumarsáid leictreonach a áirithiú, ba cheart dó féachaint ar na roghanna go léir atá ann chun feabhas a chur ar an struchtúr sin.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_41",
+   "kind": "recital",
+   "number": "41",
+   "label": "(41)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Bunaíodh an Oifig le Rialachán (CE) Uimh. 1211/2009 mar chomhlacht Comhphobail a raibh pearsantacht dhlítheanach aige, agus tiocfaidh Oifig BEREC, a bhunaítear leis an Rialachán seo, i gcomharbas uirthi maidir le húinéireacht, comhaontuithe, lena n-áirítear an Comhaontú Suímh, oibleagáidí dlíthiúla, conarthaí fostaíochta, gealltanais agus dliteanais airgeadais. Ba cheart d’Oifig BEREC an fhreagracht as baill foirne na hOifige a ghlacadh uirthi féin gan dochar dá gcearta agus dá n-oibleagáidí siúd. Chun leanúnachas a áirithiú in obair BEREC agus obair na hOifige, ba cheart dá n-ionadaithe, eadhon Cathaoirleach agus Leas-Chathaoirligh an Bhoird Rialálaithe, an Choiste Bainistíochta agus an Bainisteoir Riaracháin, leanúint in oifig go dtí deireadh a dtéarmaí oifige.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_42",
+   "kind": "recital",
+   "number": "42",
+   "label": "(42)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Tá líon suntasach tomhaltóirí i bhformhór na mBallstát atá ag brath ar chumarsáid thraidisiúnta idirnáisiúnta amhail glaonna teileafónaíochta agus teachtaireachtaí SMS, in ainneoin go bhfuil rochtain ag líon méadaitheach tomhaltóirí ar sheirbhísí cumarsáide idirphearsanta neamhspleách ar uimhir dá riachtanais ghlaoigh ar tháillí níos ísle ná na seirbhísí traidisiúnta nó gan íocaíocht airgeadaíochta.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_43",
+   "kind": "recital",
+   "number": "43",
+   "label": "(43)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "In 2013, mhol an Coimisiún Rialachán ar a ndearnadh measúnú ar a thionchar inar áiríodh foráil le bearta rialála is infheidhme i ndáil le cumarsáid laistigh den Aontas. Bhailigh BEREC agus an Coimisiún sonraí breise ar an margadh cumarsáide laistigh den Aontas ó 2017 go 2018 trí staidéar de chuid an Choimisiúin agus tríd an Eorabharaiméadar. Mar a léiríodh sna sonraí sin, tá difríochtaí praghais an-suntasach ann i gcónaí, i gcás cumarsáid fhosaithe agus shoghluaiste ar aon, idir teachtaireachtaí guthghlao agus teachtaireachtaí SMS baile agus na cinn a chríochnaíonn i mBallstát eile i gcomhthéacs éagsúlachtaí suntasacha praghsanna idir tíortha, soláthraithe agus pacáistí taraife agus idir cumarsáid shoghluaiste agus fhosaithe. Is minic a ghearrann soláthraithe seirbhísí cumarsáide idirphearsanta uimhirbhunaithe praghsanna laistigh den Aontas atá tomhaltasbhunaithe a bhíonn níos airde de ghnáth ná na praghsanna ar tharaifí intíre móide costais bhreise. Ar an meán, bíonn gnáthphraghas an ghlao fhostaithe nó shoghluaiste laistigh den Aontas trí oiread níos airde ná gnáthphraghas an ghlao intíre agus gnáthphraghas teachtaireachta SMS laistigh den Aontas níos mó ná dhá oiread níos costasaí ná teachtaireacht SMS intíre. Mar sin féin, bíonn difríochtaí suntasacha ar fud na mBallstát nach léir sna meáin uimhríochtúla sin. I gcásanna áirithe is féidir praghas suas le hocht n-oiread níos airde ná an gnáthphraghas ar ghlao intíre a bheith ann ar ghlao laistigh den Aontas. Mar thoradh air sin, tá custaiméirí i roinnt Ballstát neamhchosanta ar phraghsanna an-ard le haghaidh cumarsáide laistigh den Aontas. Bíonn tionchar na bpraghsanna arda sin ar thomhaltóirí go príomha, go háirithe orthu siúd a dhéanann cumarsáid den chineál sin go hannamh nó orthu siúd ag a bhfuil toirt íseal tomhaltais, arb ionann iad agus formhór na dtomhaltóirí a úsáideann cumarsáid laistigh den Aontas. Ag an am céanna, molann roinnt soláthraithe tairiscintí speisialta atá go háirithe tarraingteach do chustaiméirí gnó agus do thomhaltóirí le tomhaltas suntasach cumarsáide laistigh den Aontas. Is minic nach ngearrtar tairiscintí den chineál sin bunaithe ar thomhaltas iarbhír agus is féidir go mbaineann siad le líon áirithe nóiméad glaonna nó teachtaireachtaí SMS laistigh den Aontas ar tháille fhosaithe mhíosúil (tairiscintí forlíontacha) nó cuirfear san áireamh líon áirithe nóiméad glaonna nó teachtaireachtaí SMS laistigh den Aontas sa liúntas míosúil nóiméad glaonna nó teachtaireachtaí SMS, gan aon fhormhuirear nó muirear beag. Mar sin féin, is minic nach mbíonn na téarmaí sna tairiscintí sin tarraingteach do thomhaltóirí a bhfuil cumarsáid laistigh den Aontas acu atá ócáideach, dothuartha nó de thoirt íseal. Dá bharr sin, bíonn na tomhaltóirí sin neamhchosanta ar riosca go n-íocfaidís praghsanna iomarcacha dá gcumarsáid laistigh den Aontas Eorpach agus ba cheart iad a chosaint.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_44",
+   "kind": "recital",
+   "number": "44",
+   "label": "(44)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Thairis sin, is bac ar fheidhmiú an mhargaidh inmheánaigh praghsanna arda ar chumarsáid laistigh den Aontas óir cuireann siad i gcoinne earraí agus seirbhísí ó sholáthraí atá lonnaithe i mBallstát eile a lorg agus a cheannach. Dá bhrí sin, is gá teorainneacha sonracha, comhréireacha a shocrú a fhéadfaidh soláthraithe seirbhísí cumarsáide idirphearsanta uimhirbhunaithe atá ar fail go poiblí a ghearradh ar thomhaltóirí le haghaidh cumarsáid laistigh den Aontas d’fhonn deireadh a chur le praghsanna arda den sórt sin.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_45",
+   "kind": "recital",
+   "number": "45",
+   "label": "(45)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Nuair a ghearrann soláthraithe seirbhísí cumarsáide idirphearsanta uimhirbhunaithe atá ar fáil go poiblí rátaí atá bunaithe go hiomlán nó go páirteach ar thomhaltas seirbhísí den sórt sin ar a gcuid tomhaltóirí, lena n-áirítear i gcásanna asbhainte atá tomhaltas-bhunaithe ó liúntas míosúil nó réamhíoctha seirbhísí den chineál sin, níor cheart go gcosnódh na seirbhísí sin os cionn EUR 0,19 in aghaidh an nóiméid do ghlaonna agus EUR 0,06 in aghaidh na teachtaireachta SMS. Comhfhreagraíonn na huasteorainneacha sin leis na praghsanna uasta a bhfuil feidhm acu faoi láthair maidir le glaonna fánaíochta rialáilte agus teachtaireachtaí SMS, faoi seach. Agus fánaíocht á déanamh san Aontas, baineann tomhaltóirí tairbhe as cosaint na taraife eora-ghuthghlao agus na taraife eora-SMS ar tháinig táillí fánaíochta “is ionann agus táillí intíre” isteach ina n-áit de réir a chéile. Meastar gur tagarmharc oiriúnach iad na huasteorainneacha sin freisin chun ráta uasta a shocrú le haghaidh cumarsáid rialáilte laistigh den Aontas ar feadh 5 bliana ag tosú ar an 15 Bealtaine 2019. Is ionann leibhéal reatha na huasteorann agus líontán sábhála atá simplí, trédhearcach, cruthaithe a bheidh ina chosaint i gcoinne praghsanna arda agus a bheidh oiriúnach mar uasteorainn do na praghsanna miondíola de chumarsáid rialáilte uile laistigh den Aontas. Roinneann glaonna fánaíochta laistigh den Aontas agus glaonna laistigh den Aontas araon struchtúr costais comhchosúil.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_46",
+   "kind": "recital",
+   "number": "46",
+   "label": "(46)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Leis na huasteorainneacha, ba cheart do sholáthraithe seirbhísí cumarsáide idirphearsanta uimhirbhunaithe atá ar fáil go poiblí a bheith in ann a gcuid costas a fhorchúiteamh agus ar an gcaoi sin idirghabháil chomhréireach ar mhargadh glaonna fosaithe agus soghluaiste araon a áirithiú. Ní bheidh feidhm dhíreach ag na huasteorainneacha ach amháin ar rátaí bunaithe ar thomhaltas iarbhír. Ba cheart éifeacht smachta a bheith acu freisin ar na tairiscintí sin ina n-áirítear toirt áirithe cumarsáide laistigh den Aontas gan táillí a bheith á ngearradh ar leithligh ina leith mar tá an rogha ag tomhaltóirí athrú chuig taraif atá bunaithe ar thomhaltas dá gcumarsáid laistigh den Aontas. Ba cheart toirteanna cumarsáide laistigh den Aontas atá níos airde ná iad a áirítear i mbeart agus a ngearrtar táille ar leithligh ina leith a bheith faoi réir na huasteorann. Ba cheart, leis an mbeart sin, a áirithiú ar mhodh comhréireach go ndéanfar tomhaltóirí ag a bhfuil leibhéal íseal tomhaltais chumarsáide laistigh den Aontas a chosaint i gcoinne praghsanna arda agus ag an am céanna níor cheart ach iarmhairt mheasartha a bheith ar sholáthraithe.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_47",
+   "kind": "recital",
+   "number": "47",
+   "label": "(47)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ba cheart do sholáthraithe seirbhísí cumarsáide idirphearsanta uimhirbhunaithe atá ar fáil go poiblí a bheith in ann moladh dá dtomhaltóirí tairiscintí taraife malartacha le haghaidh cumarsáid idirnáisiúnta le rátaí éagsúla le haghaidh cumarsáid laistigh den Aontas agus ba cheart do thomhaltóirí a bheith in ann tairiscintí den sórt sin a roghnú go sainráite, agus in ann athrú ar ais tráth ar bith agus saor in aisce, fiú i gcás tairiscintí a bhfuil síntiús glactha acu sula dtiocfaidh forálacha den sórt sin i bhfeidhm. Maidir le tairiscintí malartacha le haghaidh cumarsáid idirnáisiúnta, amhail lena gcumhdaítear gach tír nó roinnt tríú tíortha, i gcás ina nglacann an tomhaltóir leis sin, ba cheart do sholáthraí a bheith saor mar thoradh orthu ón oibleagáid atá aige gan dul thar na huasteorainneacha do chumarsáid rialáilte laistigh den Aontas. Is gnáthchuid den idirghníomhaíocht iomaíocha iad buntáistí eile, amhail trealamh teirminéil fóirdheontais nó lascainí ar sheirbhísí cumarsáide leictreonaí eile, arna dtairiscint ag soláthraithe do thomhaltóirí, agus níor cheart éifeacht a bheith acu siúd ar uasteorainneacha le haghaidh cumarsáid rialáilte laistigh den Aontas.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_48",
+   "kind": "recital",
+   "number": "48",
+   "label": "(48)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "D’fhéadfadh éifeacht i bhfad níos suntasaí a bheith ann do roinnt soláthraithe seirbhísí cumarsáide idirphearsanta uimhirbhunaithe atá ar fáil go poiblí ná formhór na soláthraithe eile san Aontas mar thoradh ar uasteorainn le haghaidh cumarsáid rialáilte laistigh den Aontas. D’fhéadfadh an cás a bheith amhlaidh, go háirithe, i gcás na soláthraithe sin a ghineann sciar ard dá n-ioncam nó brabúis oibriúcháin le cumarsáid rialáilte laistigh den Aontas nó a bhfuil corrlaigh intíre acu atá íseal i gcomparáid le tagarmharcanna sa tionscal. Mar thoradh ar chomhbhrú corrlaigh i ndáil le cumarsáid rialáilte laistigh den Aontas, d’fhéadfaí nach mbeadh soláthraí in ann a shamhail praghsála intíre a choimeád. Is fíorbheag seans go dtarlódh cásanna mar sin mar is léir go bhfuil na praghsanna uasta níos airde ná an costas maidir le cumarsáid laistigh den Aontas a chur ar fáil. Mar sin féin, d’fhonn aghaidh a thabhairt ar na cásanna fíoreisceachtúla sin ar mhodh comhréireach, ba cheart an chumhacht a bheith ag na húdaráis náisiúnta rialála maolú a dheonú arna iarraidh sin ag soláthraí den sórt sin i gcásanna eisceachtúla a bhfuil údar maith leo.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_49",
+   "kind": "recital",
+   "number": "49",
+   "label": "(49)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Níor cheart maolú a dheonú ach amháin i gcás ina bhfuil soláthraí in ann a léiriú, i gcomparáid le tagarmharc ábhartha arna bhunú ag BEREC, go bhfuil éifeacht i bhfad níos mó air ná ar fhormhór na soláthraithe eile san Aontas agus go bhfuil cumas an tsoláthraí sin a shamhail mhuirearaithe le haghaidh cumarsáid intíre a choimeád i bhfad níos laige dá bharr sin. I gcás ina ndeonaíonn ÚNR maolú, ba cheart dó an praghas uasta a shocrú ar leibhéal a d’fhéadfadh soláthraí rialáilte a chur i bhfeidhm le haghaidh cumarsáid rialáilte laistigh den Aontas agus a chuirfeadh ar a chumas leibhéal praghais iomaíoch a choimeád le haghaidh cumarsáid intíre. Ba cheart aon mhaolú den chineál sin a bheith teoranta do 1 bhliain amháin agus a bheith inathnuaite má léiríonn an soláthraí go bhfuil na coinníollacha i gcomhair an mhaolaithe á gcomhlíonadh i gcónaí.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_50",
+   "kind": "recital",
+   "number": "50",
+   "label": "(50)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "I bhfianaise phrionsabal na comhréireachta, ba cheart infheidhmeacht na huasteorainneacha praghais le haghaidh cumarsáid rialáilte laistigh den Aontas a bheith teoranta ó thaobh ama agus ba cheart go rachadh sé in éag 5 bliana tar éis dó teacht i bhfeidhm. Le ré teoranta den sórt sin, ba cheart gur féidir measúnú ceart a dhéanamh ar éifeachtaí na mbeart agus meastóireacht a dhéanamh ar a mhéid atá gá leanúnach ann tomhaltóirí a chosaint.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_51",
+   "kind": "recital",
+   "number": "51",
+   "label": "(51)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "D’fhonn cosaint ar fud an Aontais atá comhsheasmhach, tráthúil agus éifeachtach do thomhaltóirí ar a mbíonn éifeacht dhiúltach mar thoradh ar na difríochtaí praghais suntasacha le haghaidh cumarsáid laistigh den Aontas, ba cheart go mbeadh na forálacha sin infheidhme go díreach trína cur isteach i rialachán. Ba cheart go mbeadh Rialachán (AE) 2015/2120 ar an rialachán is oiriúnaí chun na críche sin, a glacadh tar éis measúnú tionchair a bheith déanta inar moladh inter alia foráil maidir le cumarsáid laistigh den Aontas mar bhealach riachtanach chun an margadh inmheánach don chumarsáid leictreonach a chur i gcrích. Maolófar na tionchair ar dócha iad ar ioncam soláthraithe a ghintear trí chumarsáid laistigh den Aontas a chur ar fáil trí tharaife eora-ghuthghlao agus trí tharaif eora-SMS fánaíochta a chur i bhfeidhm mar uasteorainn le haghaidh cumarsáid fhosaithe agus shoghluaiste araon, a fhónann mar shásra shábháilte; agus maolófar arís iad leis an bhfianaise, a thugtar in anailís 2018 BEREC, go bhfuil laghdú suntasach i dtoirteanna tráchta fosaithe ábhartha a ndéanfaidh an beart difear dóibh san idirthréimhse. Ba cheart, mar sin, na forálacha sin a thabhairt isteach mar leasú ar Rialachán (AE) 2015/2120, ar cheart é a oiriúnú freisin chun a áirithiú go nglacfaidh na Ballstáit rialacha maidir le pionóis mar thoradh ar an bhforáil sin a shárú.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_52",
+   "kind": "recital",
+   "number": "52",
+   "label": "(52)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ós rud é nach féidir leis na Ballstáit cuspóirí an Rialacháin seo, eadhon cur chun feidhme comhsheasmhach an chreata rialála do chumarsáid leictreonach a áirithiú go háirithe i dtaca le gnéithe trasteorann agus trí bhíthin nósanna imeachta éifeachtúla an mhargaidh inmheánaigh le haghaidh dréachtbhearta náisiúnta, agus a áirithiú nach ndéantar praghsanna iomarcacha a ghearradh ar thomhaltóirí as cumarsáid idirphearsanta uimhirbhunaithe a dhéanamh de thionscnamh Bhallstát sholáthraí baile an tomhaltóra agus a chríochnaíonn ag aon uimhir líne thalún nó fón póca i mBallstát eile, ós rud é nach féidir leis na Ballstáit na cuspóirí sin a ghnóthú go leordhóthanach ach gur fearr is féidir, de bharr fhairsinge agus éifeachtaí na gníomhaíochta, iad a ghnóthú ar leibhéal an Aontais, féadfaidh an tAontas bearta a ghlacadh i gcomhréir le prionsabal na coimhdeachta a leagtar amach in Airteagal 5 den Chonradh ar an Aontas Eorpach. I gcomhréir le prionsabal na comhréireachta a leagtar amach san Airteagal sin, ní théann an rialachán seo thar a bhfuil riachtanach chun na cuspóirí sin a ghnóthú.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_53",
+   "kind": "recital",
+   "number": "53",
+   "label": "(53)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Leis an Rialachán seo, déantar raon feidhme Rialachán (CE) 1211/2009 a leasú agus a leathnú. Ós rud é gur suntasach na leasuithe atá le déanamh ó thaobh a gcineáil, ba cheart, ar mhaithe le breis soiléireachta, an gníomh sin a aisghairm. Forléireofar tagairtí a dhéanfar don rialachán aisghairthe mar thagairtí don Rialachán seo.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_1",
+   "kind": "article",
+   "number": "1",
+   "label": "Airteagal 1",
+   "title": "Ábhar agus raon feidhme",
+   "path": [
+    "CAIBIDIL I — ÁBHAR AGUS RAON FEIDHME"
+   ],
+   "blocks": [
+    {
+     "text": "1. Bunaítear leis an Rialachán seo Comhlacht na Rialálaithe Eorpacha um Chumarsáid Leictreonach (“BEREC”) agus Gníomhaireacht Tacaíochta BEREC (“Oifig BEREC”).",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Tiocfaidh BEREC agus Oifig BEREC, faoi seach, in áit agus i gcomharbas ar Chomhlacht na Rialtóirí Eorpacha um Chumarsáid Leictreonach agus ar an Oifig, a bunaíodh le Rialachán (AE) Uimh. 1211/2009.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_2",
+   "kind": "article",
+   "number": "2",
+   "label": "Airteagal 2",
+   "title": "Pearsantacht dhlítheanach Oifig BEREC",
+   "path": [
+    "CAIBIDIL I — ÁBHAR AGUS RAON FEIDHME"
+   ],
+   "blocks": [
+    {
+     "text": "1. Is comhlacht de chuid an Aontais a bheidh in Oifig BEREC. Beidh pearsantacht dhlítheanach aige.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. I ngach ceann de na Ballstáit, beidh an inniúlacht dhlíthiúil is fairsinge dá dtugtar do dhaoine dlítheanacha faoina ndlíthe náisiúnta ag Oifig BEREC. Beidh sí in ann, go háirithe, maoin shochorraithe agus maoin dhochorraithe a fháil agus a dhiúscairt agus a bheith ina páirtí in imeachtaí dlíthiúla.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Beidh Stiúrthóir Oifig BEREC ina ionadaí ar Oifig BEREC.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Is í Oifig BEREC, agus Oifig BEREC amháin, a bheidh freagrach as na feidhmeanna agus na cumhachtaí a shannfar di.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Is i Ríge a bheidh suíomh Oifig BEREC.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_3",
+   "kind": "article",
+   "number": "3",
+   "label": "Airteagal 3",
+   "title": "Cuspóirí BEREC",
+   "path": [
+    "CAIBIDIL II — CUSPÓIRÍ AGUS CÚRAIMÍ BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Feidhmeoidh BEREC laistigh de raon feidhme Rialachán (AE) Uimh. 531/2012 agus Rialachán (AE) 2015/2120 agus Treoir (AE) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Saothróidh BEREC na cuspóirí a leagtar amach in Airteagal 3 de Threoir (AE) 2018/1972. Go háirithe, beidh sé d’aidhm ag BEREC cur chun feidhme comhsheasmhach an chreata rialála do chumarsáid leictreonach a áirithiú laistigh den raon feidhme dá dtagraítear i mír 1 den Airteagal seo.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Cuirfidh BEREC a chúraimí i gcrích go neamhspleách, go neamhchlaonta, go trédhearcach agus ar bhealach tráthúil.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Tarraingeoidh BEREC ar an saineolas atá ar fáil sna húdaráis náisiúnta rialála (ÚNRanna).",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. I gcomhréir le hAirteagal 9(3) de Threoir (AE) 2018/1972, déanfaidh gach Ballstát a áirithiú go bhfuil a ÚNRanna in ann a bheith iomlán rannpháirteach in obair chomhlachtaí eagraíochtúla BEREC.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. I mBallstáit ina bhfuil níos mó ná ÚNR freagrach amháin de réir Threoir (AE) 2018/1972, comhordóidh na ÚNRanna sin le chéile de réir mar is gá.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_4",
+   "kind": "article",
+   "number": "4",
+   "label": "Airteagal 4",
+   "title": "Cúraimí rialála BEREC",
+   "path": [
+    "CAIBIDIL II — CUSPÓIRÍ AGUS CÚRAIMÍ BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Beidh na cúraimí rialála seo a leanas ar BEREC:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(a) cúnamh agus comhairle a thabhairt do na ÚNRanna, do Pharlaimint na hEorpa, don Chomhairle agus don Choimisiún agus comhoibriú leis na ÚNRanna agus leis an gCoimisiún, arna n-iarraidh sin dóibh nó ar a tionscnamh féin, i ndáil le haon ábhar teicniúil a bhaineann leis an gcumarsáid leictreonach laistigh dá raon inniúlachta;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(b) cúnamh agus comhairle a thabhairt don Choimisiún, arna iarraidh sin dó, i ndáil le tograí reachtacha a ullmhú i réimse na cumarsáide leictreonaí, lena n-áirítear aon leasú a bheartófaí ar an Rialachán seo nó ar Threoir (AE) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(c) tuairimí dá dtagraítear i Rialachán (AE) Uimh. 531/2012 agus i dTreoir (AE) 2018/1972 a eisiúint, go háirithe maidir leis an méid a leanas: (i) díospóidí trasteorann a réiteach i gcomhréir le hAirteagal 27 de Threoir (AE) 2018/1972; (ii) dréachtbhearta náisiúnta a bhaineann le nósanna imeachta an mhargaidh inmheánaigh le haghaidh rialáil an mhargaidh i gcomhréir le hAirteagail 32, 33 agus 68 de Threoir (AE) 2018/1972; (iii) dréachtchinntí agus dréachtmholtaí faoin gcomhchuibhiú i gcomhréir le hAirteagail 38 agus 93 de Threoir (AE) 2018/1972; (iv) nascacht ceann go ceann idir úsáideoirí deiridh, i gcomhréir le hAirteagal 61(2) de Threoir (AE) 2018/1972; (v) uasráta foirceanta aonair uile-Aontais do ghuthghlaonna soghluaiste agus uasráta foirceanta aonair uile-Aontais do ghuthghlaonna seasta a shocrú i gcomhréir le hAirteagal 75 de Threoir (AE) 2018/1972; (vi) teimpléad don chonradh achomair i gcomhréir le hAirteagal 102 de Threoir (AE) 2018/1972; (vii) cur chun feidhme agus feidhmiú ar bhonn náisiúnta an údaraithe ghinearálta, agus a dtionchar ar fheidhmiú an mhargaidh inmheánaigh i gcomhréir le hAirteagal 122(3) de Threoir (AE) 2018/1972; (viii) i gcás inarbh ábhartha, faireachán a dhéanamh ar an margadh agus ar fhorbairtí teicneolaíochta maidir leis na cineálacha éagsúla seirbhísí cumarsáide leictreonaí agus an tionchar atá acu ar fheidhmiú Theideal III de Chuid III de Threoir (AE) 2018/1972 i gcomhréir le hAirteagal 123(1) den Treoir sin;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(d) treoirlínte maidir le cur chun feidhme chreat rialála an Aontais don chumarsáid leictreonach, go háirithe mar a thagraítear dóibh i Rialachán (AE) Uimh. 531/2012 agus i Rialachán (AE) 2015/2120 agus i dTreoir (AE) 2018/1972 a eisiúint maidir leis an méid a leanas: (i) teimpléad fógra i gcomhréir le hAirteagal 12 de Threoir (AE) 2018/1972; (ii) cur chun feidhme go comhsheasmhach na n-oibleagáidí maidir le suirbhéanna agus réamhaisnéisí geografacha i gcomhréir le hAirteagal 22 de Threoir (AE) 2018/1972; (iii) critéir ábhartha d’fhonn cur i bhfeidhm comhsheasmhach Airteagal 61(3) de Threoir (AE) 2018/1972 a chothú; (iv) cineálacha cur chuige coiteann i leith pointe foirceanta an líonra a shainaithint i dtoipeolaíochtaí líonra éagsúla i gcomhréir le hAirteagal 61(7) de Threoir (AE) 2018/1972; (v) cuir chuige choiteanna i leith freastal a dhéanamh ar éileamh trasteorann na n-úsáideoirí deiridh i gcomhréir le hAirteagal 66 de Threoir (AE) 2018/1972; (vi) critéir íosta le haghaidh tairiscint tagartha i gcomhréir le hAirteagal 69 de Threoir (AE) 2018/1972; (vii) cur i bhfeidhm comhsheasmhach ag na ÚNRanna de na coinníollacha atá leagtha amach in Airteagal 76(1) agus na critéir atá leagtha amach in Iarscríbhinn IV de Threoir (AE) 2018/1972 a chothú; (viii) critéir faoina bhféadfar líonra a mheas mar líonra fíor-ardacmhainne i gcomhréir le hAirteagal 82 de Threoir (AE) 2018/1972; (ix) critéir choiteanna maidir le measúnú a dhéanamh ar an gcumas acmhainní uimhriúcháin a bhainistiú agus ar an riosca atá ann na hacmhainní uimhriúcháin sin a ídiú i gcomhréir le hAirteagal 93 de Threoir (AE) 2018/1972; (x) paraiméadair ábhartha i leith cáilíocht seirbhíse, agus modhanna tomhais infheidhme, ábhar agus formáid foilseacháin na faisnéise, agus sásraí deimhnithe cáilíochta i gcomhréir le hAirteagal 104 de Threoir (AE) 2018/1972; (xi) conas measúnú a dhéanamh an bhfuil éifeachtacht na gcóras rabhaidh poiblí faoi Airteagal 110(2) de Threoir (AE) 2018/1972 coibhéiseach le éifeachtacht leo siúd faoi mhír 1 den Airteagal sin; (xii) rochtain fánaíochta mórdhíola, i gcomhréir le hAirteagal 3(8) de Rialachán (AE) Uimh. 531/2012; (xiii) cur chun feidhme oibleagáidí ÚNRanna maidir le rochtain oscailte ar an idirlíon i gcomhréir le hAirteagal 5(3) de Rialachán (AE) 2015/2120; (xiv) na paraiméadair a bheidh le cur san áireamh ag na ÚNRanna ina measúnú ar inbhuanaitheacht an mhúnla muirearaithe bhaile, i gcomhréir le hAirteagal 5a(6) de Rialachán (AE) 2015/2120;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(e) treoirlínte eile a eisiúint ar a tionscnamh féin nó arna n-iarraidh sin do ÚNR, do Pharlaimint na hEorpa, don Chomhairle nó don Choimisiún, lena n-áiritheofar go ndéanfaí an creat rialála do chumarsáid leictreonach a chur chun feidhme ar bhealach comhsheasmhach agus go ndéanfadh na ÚNRanna cinntí comhsheasmhacha rialála, go háirithe i dtaca le saincheisteanna rialála a dhéanfadh difear do líon suntasach de na Ballstáit nó a bhfuil eilimint trasteorann ag baint leo;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(f) i gcás inarb ábhartha, páirt a ghlacadh san Fhóram Athbhreithnithe Piaraí i ndáil le dréachtbhearta maidir le nósanna imeachta roghnúcháin, i gcomhréir le hAirteagal 35 de Threoir (AE) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(g) páirt a ghlacadh sna saincheisteanna i dtaca leis na hinniúlachtaí atá aige maidir le rialáil margaidh agus leis an iomaíocht a bhaineann le speictream raidió, i gcomhréir le hAirteagal 4 de Threoir (AE) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(h) anailís a dhéanamh ar mhargaí trasnáisiúnta a d’fhéadfadh a bheith ann i gcomhréir le hAirteagal 65 de Threoir (AE) 2018/1972 agus ar éileamh trasnáisiúnta an úsáideora deiridh, i gcomhréir le hAirteagal 66 den treoir sin;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(i) faireachán a dhéanamh agus faisnéis a bhailiú agus, i gcás inarb ábhartha, faisnéis nuashonraithe a chur ar fáil go poiblí maidir le cur i bhfeidhm Rialachán (AE) Uimh 531/2012 i gcomhréir le hAirteagal 16 agus le hAirteagal 19 de;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(j) tuairisc a thabhairt ar ábhair theicniúla a chuimsítear faoi réim a inniúlachta, go háirithe maidir leis an méid a leanas: (i) cur i bhfeidhm praiticiúil na dtuairimí agus na dtreoirlínte dá dtagraítear i bpointí (c), (d) agus (e); (ii) dea-chleachtais na mBallstáit chun tacú le seirbhís leordhóthanach rochtana idirlín leathanbhanda a shainiú, i gcomhréir le hAirteagal 84 de Threoir (AE) 2018/1972; (iii) forás na bpatrún praghsála agus tomhaltais do sheirbhísí baile agus fánaíochta araon, forás rátaí iarbhír fánaíochta mórdhíola do thrácht neamhchothrom, an gaol idir praghsanna miondíola, na muirir mhórdhíola agus na costais mhórdhíola a ghabhann le seirbhísí fánaíochta chomh maith le trédhearcacht agus inchomparáideacht na dtaraifí, i gcomhréir le hAirteagal 19 de Rialachán (AE) Uimh. 531/2012; (iv) torthaí na dtuarascálacha bliantúla a chuirfidh ÚNRanna ar fáil i gcomhréir le hAirteagal 5 de Rialachán (AE) 2015/2120, trí thuarascáil sintéise bhliantúil a fhoilsiú; (v) na forbairtí sa mhargadh in earnáil na cumarsáide leictreonaí, ar bhonn bliantúil;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(k) moltaí agus comhsheasaimh a eisiúint agus dea-chleachtais rialála a scaipeadh do ÚNRanna d’fhonn cur chun feidhme níos comhleanúnaí agus níos fearr a spreagadh i ndáil leis an gcreat rialála don chumarsáid leictreonach;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(l) bunachar a bhunú agus a choinneáil ina mbeidh an méid seo a leanas; (i) na fógraí arna dtarchur chuig na húdaráis inniúla ag gnóthais atá faoi réir údarú ginearálta, i gcomhréir le hAirteagal 12 de Threoir (AE) 2018/1972; (ii) na hacmhainní uimhriúcháin ag a bhfuil ceart úsáide allchríche laistigh den Aontas, i gcomhréir leis an gceathrú fomhír d’Airteagal 93(4) de Threoir (AE) 2018/1972; (iii) i gcás inarb iomchuí, uimhreacha E.164 de chuid sheirbhísí éigeandála na mBallstát, i gcomhréir leis an tríú fomhír d’Airteagal 109(8) de Threoir (AE) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(m) meastóireacht a dhéanamh ar na riachtanais ó thaobh nuálaíocht rialála, agus gníomhaíochtaí a chomhordú idir ÚNRanna le go mbeifear in ann cumarsáid leictreonach nuálaíoch nua a fhorbairt;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(n) chun nuachóiriú, comhordú agus caighdeánú a chur chun cinn i dtaca leis an mbailiú sonraí a dhéanann ÚNRanna, cuirfear sonraí den sórt sin ar fáil don phobal i bhformáid oscailte, in-athúsáidte agus inléite ag meaisín ar shuíomh gréasáin BEREC agus ar an tairseach sonraí Eorpach, gan dochar do chearta maoine intleachtúla, do rialacha maidir le cosaint sonraí pearsanta agus don leibhéal rúndachta is gá;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(o) na cúraimí a dhéanamh a shanntar dó le gníomhartha reachtacha an Aontais, go háirithe, le Rialachán (AE) Uimh. 531/2012 agus le Rialachán (AE) 2015/2120 agus le Treoir (AE) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Poibleoidh BEREC a chúraimí rialála agus déanfaidh sé an fhaisnéis sin a uasdátú nuair a shanntar cúraimí nua do BEREC.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Foilseoidh BEREC a cuid tuairimí, treoirlínte, tuarascálacha, moltaí, comhsheasaimh agus dea-chleachtais deiridh, agus aon staidéir a dhéantar a choimisiúnú, chomh maith leis na dréachtdoiciméid ábhartha chun críche na gcomhairliúchán poiblí dá dtagraítear i mír 5 den Airteagal seo.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Gan dochar do chomhlíonadh dhlí ábhartha an Aontais, déanfaidh ÚNRanna agus an Coimisiún aon treoirlíne, aon tuairim, aon mholadh, aon chomhsheasamh agus na dea-chleachtais a ghlacfaidh BEREC a chur san áireamh go huile agus go hiomlán d’fhonn cur chun feidhme comhsheasmhach an chreata rialála do chumarsáid leictreonach a áirithiú laistigh den raon feidhme dá dtagraítear in Airteagal 3(1). I gcás ina n-imíonn ÚNR ó na treoirlínte dá dtagraítear i bpointe (e) de mhír 1, tabharfaidh sé na cúiseanna leis sin.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Rachaidh BEREC, i gcás inarb iomchuí, i gcomhairle le páirtithe leasmhara agus tabharfaidh sé an deis dóibh a mbarúlacha a thabhairt laistigh de thréimhse réasúnta — ag féachaint do chastacht an ábhair. Ní bheidh an tréimhse sin níos giorra ná 30 lá, ach amháin in imthosca eisceachtúla. Gan dochar d’Airteagal 38, cuirfidh BEREC torthaí na gcomhairliúchán poiblí ar fáil don phobal. Beidh na comhairliúcháin sin ar siúl a luaithe is féidir sa phróiseas cinnteoireachta.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. I gcás inarb iomchuí, déanfaidh BEREC comhairliúchán agus comhoibriú le húdaráis ábhartha náisiúnta amhail iad siúd atá inniúil sna réimsí a leanas: an t-iomaíochas, cosaint tomhaltóirí agus cosaint sonraí.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. I gcás inarb iomchuí, féadfaidh BEREC oibriú i gcomhar le comhlachtaí inniúla, oifigí, gníomhaireachtaí agus grúpaí comhairleacha de chuid an Aontais chomh maith le húdaráis inniúla tríú tíortha agus le heagraíochtaí idirnáisiúnta a údarú i gcomhréir le hAirteagal 35(1).",
+     "para": "7",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_5",
+   "kind": "article",
+   "number": "5",
+   "label": "Airteagal 5",
+   "title": "Cúraimí Oifig BEREC",
+   "path": [
+    "CAIBIDIL III — CÚRAIMÍ OIFIG BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Beidh na cúraimí seo a leanas ar Oifig BEREC:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(a) seirbhísí tacaíochta gairmiúla agus riaracháin a chur ar fáil do BEREC, go háirithe agus a chúraimí rialála á gcomhlíonadh aige de bhun Airteagal 4;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(b) faisnéis a bhailiú ó ÚNRanna agus faisnéis a mhalartú agus a tharchur maidir leis na cúraimí rialála a shanntar do BEREC de bhun Airteagal 4;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(c) dréacht-tuarascálacha rialta a chur ar fáil, ar bhonn na faisnéise dá dtagraítear i bpointe (b), maidir le gnéithe sonracha de na forbairtí ar mhargadh cumarsáide leictreonaí na hEorpa amhail tuarascálacha ar fhánaíocht agus ar thagarmharcáil, a chuirfear faoi bhráid BEREC;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(d) dea-chleachtais rialála a scaipeadh i measc ÚNRanna, i gcomhréir le pointe (k) d’Airteagal 4(1);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(e) cúnamh a thabhairt do BEREC clárlanna agus bunachair sonraí a bhunú agus a choinneail ar siúl i gcomhréir le pointe (l) d’Airteagal 4(1);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(f) cúnamh a thabhairt do BEREC córas faisnéise agus cumarsáide a bhunú agus a bhainistiú, i gcomhréir le hAirteagal 41;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(g) cúnamh a thabhairt do BEREC agus é i mbun comhairliúcháin phoiblí, i gcomhréir le hAirteagal 4(5);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(h) cabhrú chun an obair a ullmhú agus tacaíocht eile riaracháin agus tacaíocht a bhaineann le hábhar chun dea-fheidhmiú an Bhoird Rialálaithe a áirithiú;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(i) cúnamh a thabhairt maidir le meithleacha a chur ar bun, arna iarraidh sin ag an mBord Rialálaithe, rannchuidiú leis an obair rialála agus tacaíocht riaracháin a sholáthar chun dea-fheidhmiú na ngrúpaí sin a áirithiú;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(j) cúraimí eile a shanntar dó faoin Rialachán seo nó faoi ghníomhartha dlíthiúla eile de chuid an Aontais a dhéanamh.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_6",
+   "kind": "article",
+   "number": "6",
+   "label": "Airteagal 6",
+   "title": "Struchtúr Eagrúcháin BEREC",
+   "path": [
+    "CAIBIDIL IV — EAGRÚCHÁN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Is éard a bheidh in BEREC:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(a) Bord Rialálaithe;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(b) meithleacha.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_7",
+   "kind": "article",
+   "number": "7",
+   "label": "Airteagal 7",
+   "title": "Comhdhéanamh an Bhoird Rialálaithe",
+   "path": [
+    "CAIBIDIL IV — EAGRÚCHÁN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ar an mBord Rialálaithe, beidh comhalta amháin ó gach Ballstát. Beidh cearta vótála ag gach comhalta acu sin. Is é an ÚNR ar a bhfuil an phríomhfhreagracht as maoirseacht a dhéanamh ar oibriú laethúil na margaí le haghaidh líonraí agus seirbhísí cumarsáide leictreonaí faoin Treoir (AE) 2018/1972 a cheapfaidh gach comhalta. Ceannaire ar an ÚNR sin, nó comhalta ar chomhlacht coláisteach an ÚNR sin, nó duine atá ag ionadaíocht do cheachtar acu sin, a bheidh sa chomhalta a cheapfar.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Ceapfaidh ÚNR comhalta malartach do gach comhalta ar an mBord Rialálaithe. Déanfaidh an comhalta malartach ionadaíocht do chomhalta atá as láthair. Ceannaire ar an ÚNR sin, nó comhalta ar chomhlacht coláisteach an ÚNR sin, duine atá ag ionadaíocht do cheachtar acu sin, nó ball foirne an ÚNR nó ceachtar acu sin a bheidh sa chomhalta malartach a cheapfar.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Ceapfar comhaltaí an Bhoird Rialálaithe, agus a gcomhaltaí malartacha sin, ar bhonn a gcuid eolais i réimse na cumarsáide leictreonaí, agus scileanna ábhartha bainistíochta, riaracháin agus buiséadacha á gcur san áireamh. Chun leanúnachas obair an Bhoird Rialálaithe a áirithiú, déanfaidh gach ÚNR ceapacháin iarrachtaí ráta athraithe a gcomhaltaí a theorannú agus, i gcás inar féidir, ráta athraithe a gcomhaltaí malartacha a theorannú chomh maith, agus beidh sé mar aidhm aige ionadaíocht chothrom idir fir agus mná a bhaint amach.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Beidh an Coimisiún rannpháirteach i bplé uile an Bhoird Rialálaithe cé nach mbeidh ceart vótála aige agus déanfar ionadaíocht dó ar ardleibhéal iomchuí.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Poibleofar liosta atá cothrom le dáta de chomhaltaí an Bhoird Rialálaithe, agus na comhaltaí malartacha, mar aon lena ndearbhuithe maidir le leasanna.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_8",
+   "kind": "article",
+   "number": "8",
+   "label": "Airteagal 8",
+   "title": "Neamhspleáchas an Bhoird Rialálaithe",
+   "path": [
+    "CAIBIDIL IV — EAGRÚCHÁN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Agus na cúraimí a thugtar air á gcur i gcrích aige agus gan dochar dá chomhaltaí agus iad ag gníomhú thar ceann a ÚNR féin faoi seach, gníomhóidh an Bord Rialálaithe go neamhspleách agus go hoibiachtúil ar leas an Aontais, beag beann ar aon leas náisiúnta nó pearsanta ar leith.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Gan dochar do chomhordú dá dtagraítear in Airteagal 3(6), ní iarrfaidh agus ní ghlacfaidh comhaltaí an Bhoird Rialálaithe agus a gcomhaltaí malartacha treoracha aon rialtais, aon institiúide, aon duine ná aon chomhlachta.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_9",
+   "kind": "article",
+   "number": "9",
+   "label": "Airteagal 9",
+   "title": "Feidhmeanna an Bhoird Rialálaithe",
+   "path": [
+    "CAIBIDIL IV — EAGRÚCHÁN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Beidh na feidhmeanna seo a leanas ag an mBord Rialálaithe:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(a) cúraimí rialála BEREC a leagtar amach in Airteagal 4 a chomhlíonadh, eadhon, na tuairimí, na treoracha, na tuarascálacha, na moltaí agus na comhsheasaimh a ghlacadh agus na dea-chleachtais a scaipeadh dá dtagraítear san Airteagal sin, agus é ag dul i muinín, ag déanamh amhlaidh, ar an obair ullmhúcháin a rinne na meithleacha;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(b) cinntí riaracháin a dhéanamh a bhaineann le heagrúchán obair BEREC;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(c) clár oibre bliantúil BEREC dá dtagraítear in Airteagal 21 a ghlacadh;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(d) tuarascáil bhliantúil BEREC maidir lena ghníomhaíochtaí dá dtagraítear in Airteagal 22 a ghlacadh;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(e) rialacha a ghlacadh chun coinbhleachtaí leasa, dá dtagraítear in Airteagal 42, mar aon le coinbhleachtaí leasa i dtaca le comhaltaí na meithleacha, a chosc agus a bhainistiú;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(f) i gcomhréir le hAirteagal 36, na rialacha mionsonraithe a ghlacadh maidir le ceart rochtana ar dhoiciméid arna sealbhú ag BEREC;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(g) na pleananna cumarsáide agus scaipthe dá dtagraítear in Airteagal 37(2) a ghlacadh agus a thabhairt cothrom le dáta ar bhonn rialta, bunaithe ar anailís ar na riachtanais;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(h) a rialacha nós imeachta a ghlacadh, ag gníomhú dó trí thromlach dhá thrian dá chomhaltaí, agus na rialacha sin a phoibliú freisin;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(i) a údarú, i gcomhar leis an Stiúrthóir agus i gcomhréir le hAirteagal 35, go dtabharfaí chun críche socruithe oibre le comhlachtaí inniúla, oifigí, gníomhaireachtaí, agus grúpaí comhairleacha de chuid an Aontais mar aon le húdaráis inniúla tríú tíortha agus eagraíochtaí idirnáisiúnta;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(j) meithleacha a bhunú agus a gCathaoirligh sin a ainmniú;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(k) treoir a sholáthar do Stiúrthóir oifig BEREC i dtaca le cúraimí Oifig BEREC a chur i gcrích.",
+     "para": "1",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_10",
+   "kind": "article",
+   "number": "10",
+   "label": "Airteagal 10",
+   "title": "Cathaoirleach agus Leas-Chathaoirligh an Bhoird Rialálaithe",
+   "path": [
+    "CAIBIDIL IV — EAGRÚCHÁN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ceapfaidh an Bord Rialálaithe, ag gníomhú dó trí thromlach dhá thrian dá chomhaltaí, Cathaoirleach amháin agus beirt Leas-Chathaoirleach, ar a laghad, as líon a chomhaltaí.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Tabharfar cúraimí an Chathaoirligh do dhuine amháin de na Leas-Chathaoirligh go huathoibríoch mura bhfuil an Cathaoirleach in ann na cúraimí sin a chomhlíonadh.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Bliain amháin a mhairfidh téarma oifige an Chathaoirligh agus féadfar an téarma oifige a athnuachan aon uair amháin. Chun leanúnachas obair BEREC a áirithiú, fónfaidh an Cathaoirleach inteachta, i gcás inar féidir, ar feadh bliain iomlán mar Leas-Chathaoirleach sula dtosóidh téarma na Cathaoirleachta aige nó aici. I gcás nach féidir leis an gCathaoirleach inteachta fónamh mar Leas-Chathaoirleach ar feadh bliain iomlán sula dtosóidh téarma na Cathaoirleachta aige nó aici, déanfar foráil sna rialacha nós imeachta do théarma is giorra ná sin.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Gan dochar do ról an Bhoird Rialálaithe maidir le cúraimí an Chathaoirligh, ní iarrfaidh agus ní ghlacfaidh an Cathaoirleach treoracha ó rialtas, institiúid, duine nó comhlacht.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Tabharfaidh an Cathaoirleach tuairisc do Pharlaimint na hEorpa agus don Chomhairle maidir le comhlíonadh chúraimí BEREC nuair a iarrfar sin air.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_11",
+   "kind": "article",
+   "number": "11",
+   "label": "Airteagal 11",
+   "title": "Cruinnithe an Bhoird Rialálaithe",
+   "path": [
+    "CAIBIDIL IV — EAGRÚCHÁN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Is é an Cathaoirleach a chomórfaidh cruinnithe an Bhoird Rialálaithe agus is é an Cathaoirleach a leagfaidh síos na cláir do na cruinnithe sin agus a phoibleoidh na cláir sin.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Tionólfar ar a laghad dhá ghnáthchruinniú de chuid an bhoird rialálaithe in aghaidh na bliana. Tionólfar cruinnithe urghnácha ar thionscnamh an Chathaoirligh arna iarraidh sin ag triúr comhaltaí dá chuid nó arna iarraidh sin ag an gCoimisiún.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Glacfaidh Stiúrthóir Oifig BEREC páirt sa phlé uile cé nach mbeidh ceart vótála aige nó aici.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Féadfaidh an Bord Rialálaithe cuireadh a thabhairt d’aon duine páirt a ghlacadh mar bhreathnóir i gcruinnithe an Bhoird a d’fhéadfadh sé gur díol suime don Bhord tuairimí an duine sin.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Féadfaidh comhairleoirí de chuid chomhaltaí nó de chuid chomhaltaí malartacha an Bhoird Rialálaithe, a bheith de chúnamh acu ag na cruinnithe, nó féadfaidh saineolaithe eile a bheith de chúnamh acu, faoi réir rialacha nós imeachta an Bhoird.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Cuirfidh Oifig BEREC an rúnaíocht ar fáil don Bhord Rialálaithe.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_12",
+   "kind": "article",
+   "number": "12",
+   "label": "Airteagal 12",
+   "title": "Rialacha vótála an Bhoird Rialálaithe",
+   "path": [
+    "CAIBIDIL IV — EAGRÚCHÁN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Déanfaidh an Bord Rialálaithe cinntí trí thromlach simplí dá chomhaltaí ach amháin mura bhforáiltear dá mhalairt sin sa Rialachán seo nó i ngníomh dlí eile de chuid an Aontais. Beidh gá le tromlach dhá thrian de chomhaltaí an Bhoird Rialálaithe le haghaidh na dtuairimí dá dtagraítear i bpointe (c)(ii) agus pointe (c)(v) de mhír (1) d’Airteagal 4 agus le haghaidh na dtreoirlínte dá dtagraítear i bpointí (d)(i) go (iv), (vi), (vii) agus (x) de mhír (1) d’Airteagal 4. In ainneoin an dara fomhír den mhír seo, féadfaidh an Bord Rialálaithe cinneadh, trí thromlach simplí, agus ar bhonn cás ar chás, tuairimí a ghlacadh dá dtagraítear i bpointe (c)(ii) d’Airteagal 4(1) den Rialachán seo, ar tuairimí iad a bhaineann le dréachtbhearta a thagann faoi Airteagal 76(2) de Threoir (AE) 2018/1972 agus as a dtagann seoladh an nós imeachta atá faoi Airteagal 33(5) den Treoir sin. Poibleofar cinntí an Bhoird Rialálaithe agus léireofar iontu forchoimeádais aon chomhalta arna iarraidh sin dó nó di.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Beidh vóta amháin ag gach comhalta. I gcás ina bhfuil comhalta as láthair, beidh comhalta malartach an duine sin i dteideal ceart vótála an chomhalta áirithe sin a fheidhmiú. Má tá comhalta agus comhalta malartach an chomhalta sin as láthair, féadfar an ceart sin vótála a tharmligean chuig comhalta eile. Féadfaidh an Cathaoirleach cearta vótála a tharmligean i gcás ar bith. Glacfaidh an Cathaoirleach páirt sa vótáil murar rud é gur tarmligeadh sé nó sí cearta vótála.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. I rialacha nós imeachta an Bhoird Rialálaithe leagfar amach, go mionsonraithe, na socruithe lena rialaítear vótáil, lena n-áirítear na coinníollacha faoina bhféadfaidh comhalta amháin gníomhú thar ceann comhalta eile, an córam, agus na spriocdhátaí maidir le fógra a thabhairt faoi chruinnithe. Ina theannta sin, áiritheofar leis na rialacha nós imeachta go ndéanfar cláir oibre iomlána agus dréacht-tograí a sholáthar do chomhaltaí an Bhoird Rialálaithe roimh gach cruinniú chun deis a thabhairt dóibh leasuithe a mholadh roimh an vótáil. Féadfaidh na rialacha nós imeachta, inter alia, nós imeachta a leagan amach le haghaidh vótáil maidir le cúrsaí práinneacha agus socruithe praiticiúla eile maidir le feidhmiú an Bhoird Rialálaithe.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_13",
+   "kind": "article",
+   "number": "13",
+   "label": "Airteagal 13",
+   "title": "Meithleacha",
+   "path": [
+    "CAIBIDIL IV — EAGRÚCHÁN BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. I gcás ina bhfuil údar cuí leis agus go háirithe i gcás inar gá sin chun clár oibre BEREC a chur chun feidhme, féadfaidh an Bord Rialálaithe meithleacha a bhunú.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Ceapfaidh an Bord Rialálaithe Cathaoirligh na meithleacha, agus ionadaíocht á déanamh aige, nuair is féidir, ar na ÚNRanna éagsúla.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Beidh cead ag saineolaithe de chuid na ÚNRanna uile sin a bhíonn rannpháirteach in obair BEREC agus in obair an Choimisiúin a bheith rannpháirteach sna meithleacha. Beidh cead ag baill foirne Oifig BEREC a bheith rannpháirteach sna meithleacha. Is iad a rannchuideoidh le hobair rialála na meithleacha, agus a chuirfidh tacaíocht riaracháin ar fáil dóibh. I gcás na meithleacha a bhunaítear chun na cúraimí a dhéanamh dá dtagraítear i bpointe (c)(ii) d’Airteagal 4(1), ní bheidh na saineolaithe ón gCoimisiún rannpháirteach iontu. Sna meithleacha a bhunaítear chun na cúraimí dá dtagraítear dá dtagraítear i bpointí (c) (iv), (vi) (vii) agus (viii), pointí (d) (i), (ii), (ix), (x) agus (xi), pointe (j)(ii) agus pointe (l) d’Airteagal 4(1) den Rialachán seo agus, más ábhartha, pointe (c)(iii) agus pointe (j)(i) d’Airteagal 4(1) den Rialachán seo, cuirfear san áireamh na tuairimí ó na saineolaithe ó údaráis inniúla ábhartha eile dá dtugtar fógra de bhun Airteagal 5(4) de Threoir (AE) 2018/1972. De réir an cháis, féadfaidh an Bord Rialálaithe nó cathaoirligh na meithleacha cuireadh a thabhairt do shaineolaithe aonair, atá aitheanta mar shaineolaithe atá inniúil sa réimse ábhartha, páirt a ghlacadh i gcruinnithe na meithleacha, más gá sin.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Glacfaidh an Bord Rialálaithe rialacha nós imeachta lena leagtar síos na socruithe praiticiúla maidir le feidhmiú na meithleacha.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_14",
+   "kind": "article",
+   "number": "14",
+   "label": "Airteagal 14",
+   "title": "Struchtúr eagrúcháin Oifig BEREC",
+   "path": [
+    "CAIBIDIL V — EAGRÚCHÁN Oifig BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Is éard a bheidh in Oifig BEREC:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(a) Bord Bainistíochta;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(b) Stiúrthóir.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_15",
+   "kind": "article",
+   "number": "15",
+   "label": "Airteagal 15",
+   "title": "Comhdhéanamh an Bhoird Bainistíochta",
+   "path": [
+    "CAIBIDIL V — EAGRÚCHÁN Oifig BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ar an mBord Bainistíochta, beidh na daoine a ceapadh mar chomhaltaí ar an mBord Rialálaithe agus ionadaí ardleibhéil amháin ón gCoimisiún. Beidh cearta vótála ag gach comhalta den Bhord Bainistíochta. Féadfaidh gach ÚNR ceapacháin, dá dtagraítear sa dara fomhír d’Airteagal 7(1), duine seachas an comhalta ar an mBord Rialálaithe a cheapadh mar chomhalta ar an mBord Bainistíochta. Ceannaire ar an ÚNR sin, comhalta ar chomhlacht coláisteach an ÚNR sin, nó duine a dhéanann ionadaíocht do cheachtar acu sin, a bheidh sa duine sin.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Beidh comhalta malartach ag gach comhalta ar an mBord Bainistíochta a dhéanfaidh ionadaíocht don chomhalta agus an comhalta sin as láthair. Is iad na daoine a ceapadh mar chomhaltaí malartacha do chomhaltaí an Bhoird Rialálaithe a bheith ina gcomhaltaí malartacha ar an mBord Bainistíochta. Beidh comhalta malartach ag ionadaí an Choimisiúin freisin. Féadfaidh gach údarás rialála náisiúnta ceapacháin, dá dtagraítear sa dara fomhír d’Airteagal 7(1), duine seachas an comhalta malartach don chomhalta ar an mBord Rialálaithe a cheapadh mar chomhalta malartach ar an mBord Bainistíochta. Ceannaire ar ÚNRanna, comhalta ar chomhlacht coláisteach an ÚNR sin, duine a dhéanann ionadaíocht ar cheachtar acu sin nó ball foirne de chuid an ÚNR nó ceachtar acu sin a bheidh sa duine sin.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Ní iarrfaidh comhaltaí an Bhoird Rialálaithe nó a gcomhaltaí malartacha treoracha ar aon rialtas, aon institiúid, aon duine ná ar aon chomhlacht agus ní ghlacfaidh siad treoracha aon cheann acu sin.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Poibleofar liosta cothrom le dáta de chomhaltaí an Bhoird Bainistíochta, agus a gcomhaltaí malartacha, mar aon lena dearbhuithe leasanna.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_16",
+   "kind": "article",
+   "number": "16",
+   "label": "Airteagal 16",
+   "title": "Feidhmeanna Riaracháin an Bhoird Bainistíochta",
+   "path": [
+    "CAIBIDIL V — EAGRÚCHÁN Oifig BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Beidh na feidhmeanna riaracháin seo a leanas ag an mBord Bainistíochta:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(a) treoracha ginearálta i dtaca le gníomhaíochtaí Oifig BEREC a sholáthar agus doiciméad aonair clársceidealaithe Oifig BEREC a ghlacadh ar bhonn bliantúil trí thromlach dhá thrian dá chomhaltaí, i gcomhréir le hAirteagal 23 agus an tuairim ón gCoimisiún á cur san áireamh aige;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(b) buiséad bliantúil Oifig BEREC a ghlacadh trí thromlach dhá thrian dá chomhaltaí, agus feidhmeanna eile a fheidhmiú i dtaobh bhuiséad Oifig BEREC de bhun Chaibidil VII;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(c) measúnú ar an tuarascáil ghníomhaíochta bhliantúil chomhdhlúite ar ghníomhaíochtaí Oifig BEREC dá dtagraítear in Airteagal 27 a ghlacadh, a phoibliú agus dul ar aghaidh leis an measúnú sin freisin, agus an tuarascáil agus an measúnú araon a thíolacadh, faoin 1 Iúil gach bliain, chuig Parlaimint na hEorpa, chuig an gComhairle, chuig an gCoimisiún agus chuig an gCúirt Iniúchóirí;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(d) na rialacha airgeadais is infheidhme maidir le hOifig BEREC a ghlacadh i gcomhréir le hAirteagal 29;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(e) straitéis frithchalaoise a ghlacadh atá comhréireach leis na rioscaí calaoise agus costais agus tairbhí na mbeart atá le cur chun feidhme á gcur san áireamh;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(f) obair leantach leordhóthanach a áirithiú i dtaca leis na torthaí agus na moltaí a eascróidh as na tuarascálacha iniúchóireachta inmheánacha nó seachtracha agus as na meastóireachtaí inmheánacha nó seachtracha, agus as imscrúduithe de chuid na hOifige Eorpaí Frithchalaoise (OLAF);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(g) rialacha a ghlacadh chun coinbhleachtaí leasanna a chosc agus a bhainistiú dá dtagraítear in Airteagal 42(3);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(h) na pleananna cumarsáide agus scaipthe dá dtagraítear in Airteagal 37(2) a ghlacadh agus a thabhairt cothrom le dáta ar bhonn rialta, bunaithe ar anailís ar na riachtanais;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(i) a rialacha nós imeachta a ghlacadh;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(j) rialacha cur chun feidhme a ghlacadh chun feidhm a thabhairt do Rialacháin Foirne Oifigigh an Aontais Eorpaigh agus do Choinníollacha Fostaíochta Seirbhíseach Eile an Aontais Eorpaigh i gcomhréir le hAirteagal 110 de na Rialacháin Foirne;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(k) gan dochar don chinneadh dá dtagraítear sa chéad fhomhír de mhír 2, na cumhachtaí a tugadh don Údarás Ceapacháin faoi na Rialacháin Foirne agus don Údarás atá Cumhachtaithe Conradh Fostaíochta a Thabhairt i gCrích faoi Choinníollacha Fostaíochta Seirbhíseach Eile (“cumhachtaí an údaráis ceapacháin”), na cumhachtaí sin a fheidhmiú i leith bhaill foirne Oifig BEREC;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(l) an Stiúrthóir a cheapadh agus, más iomchuí, síneadh a chur lena théarma oifige nó lena téarma oifige nó é nó í a chur as oifig i gcomhréir le hAirteagal 32;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(m) Oifigeach Cuntasaíochta a cheapadh, faoi réir na Rialachán Foirne agus Coinníollacha Fostaíochta Seirbhíseach Eile, a bheidh go hiomlán neamhspleách agus é ag comhlíonadh a chuid nó a cuid dualgas;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(n) gach cinneadh a dhéanamh maidir le bunú struchtúir inmheánacha Oifig BEREC agus, más gá, maidir le modhnú na struchtúr sin, agus riachtanais ghníomhaíochtaí Oifig BEREC á gcur san áireamh chomh maith le haird a thabhairt ar bhainistiú buiséadach fónta. Maidir le pointe (m) den chéad fhomhír, féadfaidh Oifig BEREC an tOifigeach Cuntasaíochta céanna a cheapadh arb é nó arb í an t-oifigeach cuntasaíochta atá ag comhlacht nó institiúid Aontais eile. Féadfaidh Oifig BEREC agus an Coimisiún go háirithe aontú go ngníomhóidh oifigeach cuntasaíochta an Choimisiúin mar Oifigeach Cuntasaíochta Oifig BEREC freisin;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Glacfaidh an Bord Bainistíochta, i gcomhréir le hAirteagal 110 de na Rialacháin Foirne, cinneadh bunaithe ar Airteagal 2(1) de na Rialacháin Foirne agus ar Airteagal 6 de Choinníollacha Fostaíochta Seirbhíseach Eile, lena ndéanfar cumhachtaí ábhartha an údaráis ceapacháin a tharmligean chuig an Stiúrthóir agus lena sonrófar na coinníollacha faoinar féidir an tarmligean cumhachtaí sin a chur ar fionraí. Beidh údarás ag an Stiúrthóir na cumhachtaí sin a fho-tharmligean. Más rud é gur gá sin de dheasca imthosca eisceachtúla, féadfaidh an Bord Bainistíochta, trí bhíthin cinnidh, tarmligean chumhachtaí an údaráis ceapacháin chuig an Stiúrthóir, chomh maith leis na cumhachtaí arna bhfo-tharmligean ag an Stiúrthóir sin, a chur ar fionraí go sealadach agus na cumhachtaí sin a fheidhmiú é féin, nó iad a tharmligean chuig duine dá chomhaltaí nó chuig ball foirne eile seachas an Stiúrthóir.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_17",
+   "kind": "article",
+   "number": "17",
+   "label": "Airteagal 17",
+   "title": "Cathaoirleach agus Leas-Chathaoirleach an Bhoird Bainistíochta",
+   "path": [
+    "CAIBIDIL V — EAGRÚCHÁN Oifig BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Is iad na daoine a ceapadh mar Chathaoirleach agus Leas-Chathaoirligh an Bhoird Bainistíochta a cheapfar mar Chathaoirleach agus Leas-Chathaoirligh an Bhoird Rialálaithe. Bainfidh an téarma céanna oifige leis an dá phost. De mhaolú ón gcéad fhomhír, féadfaidh an Bord Bainistíochta, trí thromlach dhá thrian dá chomhaltaí, comhaltaí eile den Bhord Bainistíochta a thoghadh mar Chathaoirleach nó Leas-Chathaoirleach nó Leas-Chathaoirligh as measc na gcomhaltaí sin aige a dhéanann ionadaíocht do na Ballstáit. Beidh an téarma oifige céanna acu agus atá ag Cathaoirleach agus Leas-Chathaoirligh an Bhoird Rialálaithe.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Tabharfar cúraimí an Chathaoirligh do dhuine de na Leas-Chathaoirligh go huathoibríoch mura bhfuil an Cathaoirleach in ann na cúraimí sin a chomhlíonadh.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Tabharfaidh Cathaoirleach an Bhoird Bainistíochta tuairisc do Pharlaimint na hEorpa agus don Chomhairle maidir le comhlíonadh chúraimí Oifig BEREC nuair a iarrfar sin air.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_18",
+   "kind": "article",
+   "number": "18",
+   "label": "Airteagal 18",
+   "title": "Cruinnithe an Bhoird Bainistíochta",
+   "path": [
+    "CAIBIDIL V — EAGRÚCHÁN Oifig BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Déanfaidh an Cathaoirleach cruinnithe an Bhoird Bainistíochta a thionól.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Glacfaidh Stiúrthóir Oifig BEREC páirt sa phlé uile, seachas an plé a bhainfidh le hAirteagal 32, cé nach mbeidh ceart vótála aige.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Tionólfar ar a laghad dhá ghnáthchruinniú de chuid an Bhoird Bainistíochta in aghaidh na bliana. Ina theannta sin, ar thionscnamh an Chathaoirligh, tionólfar cruinnithe urghnácha, ar iarraidh ón gCoimisiún, nó ar iarraidh ó thriúr comhaltaí, ar a laghad, de chuid an Bhoird.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Féadfaidh an Bord Bainistíochta cuireadh a thabhairt d’aon duine a d’fhéadfadh sé gur díol suime a thuairimí nó a tuairimí freastal ar chruinnithe an bhoird mar bhreathnóir.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Faoi réir a rialacha nós imeachta, féadfaidh comhairleoirí nó saineolaithe a bheith de chúnamh ag comhaltaí an Bhoird Bainistíochta agus comhaltaí malartacha ag na cruinnithe.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Cuirfidh Oifig BEREC an rúnaíocht ar fáil don Bhord Bainistíochta.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_19",
+   "kind": "article",
+   "number": "19",
+   "label": "Airteagal 19",
+   "title": "Rialacha vótála an Bhoird Bainistíochta",
+   "path": [
+    "CAIBIDIL V — EAGRÚCHÁN Oifig BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Déanfaidh an Bord Bainistíochta a chuid cinntí trí thromlach simplí dá chomhaltaí, mura bhforáiltear dá mhalairt sin sa Rialachán seo.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Beidh vóta amháin ag gach comhalta. I gcás ina bhfuil comhalta as láthair, beidh comhalta malartach an duine sin i dteideal an ceart sin vótála a fheidhmiú. Má tá comhalta agus comhalta malartach an chomhalta sin as láthair, féadfar an ceart sin vótála a tharmligean chuig comhalta eile.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Féadfaidh an Cathaoirleach cearta vótála a tharmligean i gcás ar bith. Glacfaidh sé nó sí páirt sa vótáil murar rud é go bhfuil a chearta nó a cearta vótála tarmligthe aige nó aici.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. I rialacha nós imeachta an Bhoird Bainistíochta, bunófar socruithe vótála níos mionsonraithe, go háirithe an nós imeachta maidir le vótáil ar chúrsaí práinneacha agus na cúinsí ina bhféadfadh comhalta gníomhú thar ceann comhalta eile.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_20",
+   "kind": "article",
+   "number": "20",
+   "label": "Airteagal 20",
+   "title": "Freagrachtaí an Stiúrthóra",
+   "path": [
+    "CAIBIDIL V — EAGRÚCHÁN Oifig BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Beidh an Stiúrthóir i gceannas ar bhainistiú riaracháin Oifig BEREC. Beidh an Stiúrthóir freagrach don Bhord Bainistíochta.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Tabharfaidh an Stiúrthóir cúnamh do Chathaoirleach an Bhoird Rialálaithe agus Cathaoirleach an Bhoird Bainistíochta chun na cruinnithe dá gcuid comhlachtaí faoi seach a ullmhú.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Gan dochar do chumhachtaí an Bhoird Rialálaithe, an Bhoird Bainistíochta agus an Choimisiúin, beidh an Stiúrthóir neamhspleách i gcomhlíonadh a chuid nó a cuid cúraimí agus ní iarrfaidh sé treoracha ar aon rialtas, aon institiúid, aon duine ná aon chomhlacht ná ní ghlacfaidh sé treoracha aon cheann acu sin.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Tabharfaidh an Stiúrthóir tuairisc do Pharlaimint na hEorpa agus don Chomhairle maidir le comhlíonadh a chuid nó a cuid cúraimí nuair a iarrfar sin air.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Is é an Stiúrthóir a ghníomhóidh mar ionadaí dlíthiúil Oifig BEREC.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Beidh an Stiúrthóir freagrach as cúraimí Oifig BEREC a chur chun feidhme bunaithe ar an treoir a chuirtear ar fáil ón mBord Rialálaithe agus ón mBord Bainistíochta. Beidh an Stiúrthóir freagrach go háirithe as na nithe seo a leanas:",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(a) riarachán Oifig BEREC ó lá go lá;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(b) cinntí riaracháin arna nglacadh ag an mBord Rialálaithe agus ag an mBord Bainistíochta a chur chun feidhme;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(c) an doiciméad aonair clársceidealaithe dá dtagraítear in Airteagal 23 a ullmhú agus é a thíolacadh chuig an mBord Bainistíochta;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(d) cúnamh a thabhairt don Bhord Rialálaithe chun tuarascáil bhliantúil ar ghníomhaíochtaí BEREC dá dtagraítear in Airteagal 22 a ullmhú;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(e) cúnamh a thabhairt don Bhord Rialálaithe maidir le clár oibre bliantúil BEREC dá dtagraítear in Airteagal 21 a ullmhú;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(f) an doiciméad aonair clársceidealaithe a chur chun feidhme, agus tuairisc a thabhairt don Bhord Bainistíochta maidir lena chur chun feidhme;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(g) an dréacht-tuarascáil bhliantúil chomhdhlúite maidir le gníomhaíochtaí Oifig BEREC dá dtagraítear in Airteagal 27 a ullmhú agus í a chur faoi bhráid an Bhoird Bainistíochta lena measúnú agus lena glacadh;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(h) plean gníomhaíochta a ullmhú ag féachaint do chonclúidí na dtuarascálacha agus na meastóireachtaí iniúchóireachta inmheánacha nó seachtracha, agus d’imscrúduithe de chuid OLAF, mar aon le tuairisc ar dhul chun cinn a thabhairt don Bhord Bainistíochta uair sa bhliain ar a laghad;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(i) leasanna airgeadais an Aontais a chosaint trí bhearta coisctheacha in aghaidh calaoise, éilliú agus aon ghníomhaíochtaí mídhleathacha eile a chur i bhfeidhm, trí sheiceálacha éifeachtacha a dhéanamh agus, má aimsítear neamhrialtachtaí, trí mhéideanna a íocadh go mícheart a aisghabháil agus, más iomchuí, trí bhearta riaracháin a bheidh éifeachtach, comhréireach agus athchomhairleach a chur i bhfeidhm, lena n-áirítear pionóis airgeadais;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(j) straitéis frithchalaoise le haghaidh Oifig BEREC a ullmhú agus í a chur faoi bhráid an Bhoird Bainistíochta lena faomhadh;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(k) dréachtrialacha airgeadais is infheidhme maidir le hOifig BEREC a ullmhú;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(l) dréachtráiteas Oifig BEREC faoi mheastacháin ar ioncam agus caiteachas a ullmhú agus a buiséad a chur chun feidhme;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(m) a údarú, i gcomhar leis an mBord Rialálaithe, go dtabharfaí chun críche socruithe oibre le comhlachtaí inniúla, oifigí, gníomhaireachtaí agus grúpaí comhairleacha de chuid an Aontais agus le húdaráis inniúla tríú tíortha agus le heagraíochtaí idirnáisiúnta, i gcomhréir le hAirteagal 35.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Déanfaidh an Stiúrthóir, faoi mhaoirsiú an Bhoird Bainistíochta, na bearta is gá chun feidhmiú Oifig BEREC a áirithiú i gcomhréir leis an Rialachán seo, go háirithe i ndáil le treoracha inmheánacha riaracháin a ghlacadh agus fógraí a fhoilsiú.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Faoi réir réamhthoiliú a fháil ón gCoimisiún, ón mBord Bainistíochta agus ó na Ballstáit lena mbaineann, cinnfidh an Stiúrthóir an gá ball foirne amháin, nó níos mó, a lonnú i mBallstát amháin, nó níos mó, chun cúraimí Oifig BEREC a dhéanamh ar dhóigh éifeachtúil agus éifeachtach. Leis an gcinneadh sin, sonrófar raon feidhme na ngníomhaíochtaí a dhéanfar ar dhóigh a sheachnóidh costais neamhriachtanacha agus a sheachnóidh feidhmeanna riaracháin Oifig BEREC a dhéanamh faoi dhó. Sula ndéanfar cinneadh den chineál sin, déanfar a thionchar i dtaca le leithdháileadh foirne agus buiséid a leagan amach sa doiciméad clársceidealaithe ilbhliantúil dá dtagraítear in Airteagal 23(4).",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_21",
+   "kind": "article",
+   "number": "21",
+   "label": "Airteagal 21",
+   "title": "Clár Oibre Bliantúil BEREC",
+   "path": [
+    "CAIBIDIL VI — CLÁRSCEIDEALÚ BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Glacfaidh an Bord Rialálaithe achoimre ar an gclár oibre bliantúil faoin 31 Eanáir, an bhliain roimh an mbliain lena mbaineann an clár oibre bliantúil. Tar éis dul i gcomhairle le Parlaimint na hEorpa, an Chomhairle agus an Coimisiún maidir lena dtosaíochtaí, chomh maith le páirtithe leasmhara eile i gcomhréir le hAirteagal 4(5), glacfaidh an Bord Rialálaithe an clár oibre bliantúil deiridh faoi 31 Nollaig na bliana sin.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Tarchuirfidh an Bord Rialálaithe an clár oibre bliantúil chuig Parlaimint na hEorpa, chuig an gComhairle agus chuig an gCoimisiún a luaithe a ghlacfar é.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_22",
+   "kind": "article",
+   "number": "22",
+   "label": "Airteagal 22",
+   "title": "Tuarascáil Bhliantúil Gníomhaíochtaí BEREC",
+   "path": [
+    "CAIBIDIL VI — CLÁRSCEIDEALÚ BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Glacfaidh an Bord Rialálaithe tuarascáil bhliantúil gníomhaíochtaí BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Déanfaidh an Bord Rialálaithe an tuarascáil bhliantúil gníomhaíochtaí a tharchur chuig Parlaimint na hEorpa, chuig an gComhairle, chuig an gCoimisiún agus chuig Coiste Eacnamaíoch agus Sóisialta na hEorpa faoin 15 Meitheamh gach bliain.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_23",
+   "kind": "article",
+   "number": "23",
+   "label": "Airteagal 23",
+   "title": "Clársceidealú bliantúil agus ilbhliantúil",
+   "path": [
+    "CAIBIDIL VII — BUISÉAD AGUS CLÁR OIBRE OIFIG BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Gach bliain, déanfaidh an Stiúrthóir dréachtdoiciméad clársceidealaithe a tharraingt suas ina mbeidh clársceidealú bliantúil agus ilbhliantúil (“doiciméad aonair clársceidealaithe”) i gcomhréir le hAirteagal 32 de Rialachán Tarmligthe (AE) Uimh. 1271/2013, treoirlínte a shocróidh an Coimisiún á gcur san áireamh. Faoin 31 Eanáir gach bliain, glacfaidh an Bord Bainistíochta an dréachtdoiciméad aonair clársceidealaithe agus seolfaidh sé chuig an gCoimisiún é chun go dtabharfaidh an Coimisiún a thuairim ina leith. Cuirfear an dréachtdoiciméad aonair clársceidealaithe freisin faoi bhráid Pharlaimint na hEorpa agus na Comhairle. Glacfaidh an Bord Bainistíochta an dréachtdoiciméad aonair clársceidealaithe ina dhiaidh sin, agus an tuairim ón gCoimisiún á cur san áireamh aige. Cuirfidh sé an doiciméad aonair clársceidealaithe, chomh maith le haon nuashonrú den doiciméad faoi bhráid Pharlaimint na hEorpa, na Comhairle agus an Choimisiúin é. Measfar an doiciméad aonair clársceidealaithe a bheith críochnaitheach tar éis ghlacadh bhuiséad ghinearálta an Aontais agus déanfar coigeartú air dá réir, más gá sin.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Cuimseofar sa doiciméad clársceidealaithe bliantúil cuspóirí sonracha agus torthaí ionchais lena n-áirítear táscairí feidhmíochta. Beidh tuairisc ann freisin ar na gníomhaíochtaí atá le maoiniú agus léiriú ar na hacmhainní airgeadais agus daonna a bheidh sannta do gach gníomhaíocht, i gcomhréir le prionsabail an bhuiséadaithe agus an bhainistithe de réir gníomhaíochtaí, dá dtagraítear in Airteagal 31. Beidh an doiciméad clársceidealaithe bliantúil comhsheasmhach leis an achoimre ó BEREC ar an gclár oibre bliantúil agus leis an gclár oibre bliantúil deiridh dá dtagraítear in Airteagal 21 agus le doiciméad clársceidealaithe ilbhliantúil Oifig BEREC dá dtagraítear i mír 4 den Airteagal seo. Sonrófar go soiléir na cúraimí a cuireadh leis, a athraíodh ann nó a scriosadh ann, i gcomparáid leis an mbliain airgeadais roimhe sin.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Déanfaidh an Bord Bainistíochta, i gcás inar gá, an clár oibre bliantúil a leasú tar éis doiciméad clársceidealaithe bliantúil deiridh BEREC, dá dtagraítear in Airteagal 21, a ghlacadh agus i gcás ina sanntar cúraim nua do BEREC nó d’Oifig BEREC. Glacfar le haon leasú mór ar an doiciméad clársceidealaithe bliantúil leis an nós imeachta céanna a úsáideadh chun an doiciméad clársceidealaithe bliantúil tosaigh a ghlacadh. Féadfaidh an Bord Bainistíochta an chumhacht leasuithe neamhshubstainteacha a dhéanamh ar an doiciméad clársceidealaithe bliantúil a tharmligean chuig an Stiúrthóir.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Leagfar amach sa doiciméad clársceidealaithe ilbhliantúil an clársceidealú straitéiseach foriomlán lena n-áirítear cuspóirí, torthaí ionchais agus táscairí feidhmíochta. Leagfar amach clársceidealú acmhainní ann freisin, lena n-áirítear an buiséad ilbhliantúil agus an fhoireann. Tabharfar an clársceidealú acmhainní cothrom le dáta go bliantúil. Tabharfar an clársceidealú straitéiseach cothrom le dáta nuair is iomchuí, agus go háirithe chun dul i ngleic le toradh na meastóireachta dá dtagraítear in Airteagal 48.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. I ndoiciméad aonair clársceidealaithe Oifig BEREC, áireofar cur chun feidhme straitéis BEREC le haghaidh caidreamh le comhlachtaí, oifigí, gníomhaireachtaí agus grúpaí comhairleacha inniúla de chuid an Aontais, le húdaráis inniúla ó thríú tíortha agus le heagraíochtaí idirnáisiúnta dá dtagraítear in Airteagal 35(3), na gníomhaíochtaí a bhaineann leis an straitéis sin, agus sonrú ar na hacmhainní comhlacha.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_24",
+   "kind": "article",
+   "number": "24",
+   "label": "Airteagal 24",
+   "title": "An buiséad a bhunú",
+   "path": [
+    "CAIBIDIL VII — BUISÉAD AGUS CLÁR OIBRE OIFIG BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Gach bliain, ullmhóidh an Stiúrthóir dréachtmheastachán sealadach ar ioncam agus caiteachas (“an dréachtmheastachán”) Oifig BEREC don bhliain airgeadais dár gcionn, lena n-áirítear an plean bunaíochta, agus cuirfidh sé faoi bhráid an Bhoird Bhainistíochta é. Beidh an fhaisnéis sa dréachtmheastachán comhsheasmhach leis an bhfaisnéis sa dréachtdoiciméad aonair clársceidealaithe dá dtagraítear in Airteagal 23(1).",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Cuirfidh an Stiúrthóir an dréachtmheastachán faoi bhráid an Choimisiúin faoin 31 Eanáir gach bliain.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Cuirfidh an Coimisiún an dréachtmheastachán mar aon le dréachtbhuiséad ginearálta an Aontais faoi bhráid an údaráis bhuiséadaigh.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Ar bhonn an dréachtmheastacháin, cuirfidh an Coimisiún i ndréachtbhuiséad ginearálta an Aontais na meastacháin sin a mheasfaidh sé a bheith riachtanach don phlean bunaíochta agus do mhéid an fhóirdheontais a dhéanfar a mhuirearú ar an mbuiséad ginearálta, agus cuirfidh sé faoi bhráid an údaráis bhuiséadaigh é i gcomhréir le hAirteagal 313 agus le hAirteagal 314 den Chonradh ar Fheidhmiú an Aontais Eorpaigh (CFAE).",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Údaróidh an t-údarás buiséadach na leithreasuithe don ranníocaíocht a dhéanfar le hOifig BEREC.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Glacfaidh an t-údarás buiséadach plean bunaíochta Oifig BEREC.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Glacfaidh an Bord Bainistíochta buiséad Oifig BEREC. Measfar an buiséad a bheith críochnaitheach tar éis ghlacadh deiridh bhuiséad ginearálta an Aontais Eorpaigh. I gcás inar gá, coigeartófar é dá réir.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. I dtaca le haon tionscadal tógála ar cosúil go mbeidh impleachtaí móra aige ar bhuiséad Oifig BEREC, beidh feidhm ag Rialachán Tarmligthe (AE) Uimh. 1271/2013.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_25",
+   "kind": "article",
+   "number": "25",
+   "label": "Airteagal 25",
+   "title": "Struchtúr an bhuiséid",
+   "path": [
+    "CAIBIDIL VII — BUISÉAD AGUS CLÁR OIBRE OIFIG BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ullmhófar meastacháin ar ioncam agus caiteachas uile Oifig BEREC gach bliain airgeadais, de réir na bliana féilire, agus léireofar i mbuiséad Oifig BEREC iad.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Beidh buiséad Oifig BEREC comhordaithe ó thaobh ioncaim agus caiteachais de.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Gan dochar d’acmhainní eile, beidh na nithe seo leanas ar áireamh in ioncam Oifig BEREC: (a) ranníocaíocht ón Aontas; (b) aon ranníocaíocht dheonach airgeadais ó na Ballstáit nó ó na ÚNRanna; (c) táillí ar fhoilseacháin agus ar aon seirbhísí eile a sholáthraíonn Oifig BEREC; (d) aon ranníocaíocht ó thríú tíortha nó ó údaráis rialála tríú tíortha atá inniúil i réimse na cumarsáide leictreonaí agus atá rannpháirteach in obair Oifig BEREC, dá bhforáiltear in Airteagal 35.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Cuirfear pá foirne, costais riaracháin agus bonneagair, agus caiteachas oibríochtúil san áireamh i gcaiteachas Oifig BEREC.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_26",
+   "kind": "article",
+   "number": "26",
+   "label": "Airteagal 26",
+   "title": "An buiséad a chur chun feidhme",
+   "path": [
+    "CAIBIDIL VII — BUISÉAD AGUS CLÁR OIBRE OIFIG BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Is é an Stiúrthóir a chuirfidh buiséad Oifig BEREC i ngníomh.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Gach bliain, déanfaidh an Stiúrthóir gach faisnéis ábhartha a bhaineann le torthaí na nósanna imeachta meastóireachta a chur faoi bhráid Pharlaimint na hEorpa agus na Comhairle.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_27",
+   "kind": "article",
+   "number": "27",
+   "label": "Airteagal 27",
+   "title": "Tuarascáil Bhliantúil Chomhdhlúite Gníomhaíochta",
+   "path": [
+    "CAIBIDIL VII — BUISÉAD AGUS CLÁR OIBRE OIFIG BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Glacfaidh an Bord Bainistíochta tuarascála bliantúla comhdhlúite gníomhaíochta i gcomhréir le hAirteagal 47 de Rialachán Tarmligthe (AE) Uimh. 1271/2013, ag tabhairt san áireamh na treoirlínte arna leagan síos ag an gCoimisiún.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_28",
+   "kind": "article",
+   "number": "28",
+   "label": "Airteagal 28",
+   "title": "Na cuntais a thíolacadh agus a urscaoileadh",
+   "path": [
+    "CAIBIDIL VII — BUISÉAD AGUS CLÁR OIBRE OIFIG BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Cuirfidh oifigeach cuntasaíochta Oifig BEREC na cuntais shealadacha don bhliain airgeadais faoi bhráid oifigigh cuntasaíochta an Choimisiúin agus chuig an gCúirt Iniúchóirí faoin 1 Márta, an bhliain airgeadais dár gcionn.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Cuirfidh Oifig BEREC an tuarascáil ar an mbainistiú buiséadach agus airgeadais faoi bhráid Pharlaimint na hEorpa, na Comhairle agus na Cúirte Iniúchóirí faoin 31 Márta, an bhliain airgeadais dár gcionn.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Nuair a gheobhaidh sé nó sí na barúlacha ón gCúirt Iniúchóirí maidir le cuntais shealadacha Oifig BEREC ullmhóidh oifigeach cuntasaíochta Oifig BEREC cuntais chríochnaitheacha Oifig BEREC a bhfuil sé nó sí freagrach astu. Cuirfidh an Stiúrthóir na cuntais chríochnaitheacha faoi bhráid an Bhoird Bainistíochta chun tuairim a fháil.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Tabharfaidh an Bord Bainistíochta tuairim uaidh maidir le cuntais chríochnaitheacha Oifig BEREC.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Déanfaidh an Stiúrthóir na cuntais chríochnaitheacha sin, in éineacht le tuairim an Bhoird Bainistíochta, a chur faoi bhráid Pharlaimint na hEorpa, na Comhairle, an Choimisiúin agus na Cúirte Iniúchóirí faoin 1 Iúil tar éis gach bliana airgeadais.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Foilseoidh Oifig BEREC na cuntais chríochnaitheacha in Iris Oifigiúil an Aontais Eorpaigh faoin 15 Samhain, an bhliain dár gcionn.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Cuirfidh an Stiúrthóir freagra faoi bhráid na Cúirte Iniúchóirí maidir lena barúlacha faoin 30 Meán Fómhair, an bhliain sin tar éis na bliana airgeadais atá i gceist. Cuirfidh an Stiúrthóir an freagra sin faoi bhráid an Bhoird Bainistíochta freisin.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Cuirfidh an Stiúrthóir aon fhaisnéis is gá chun go bhfeidhmeoidh an nós imeachta um urscaoileadh don bhliain airgeadais i gceist go réidh i gcomhréir le hAirteagal 165(3) de Rialachán (CE, Euratom) 2018/1046 ó Pharlaimint na hEorpa agus ón gComhairle faoi bhráid Pharlaimint na hEorpa arna hiarraidh sin di.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Déanfaidh Parlaimint na hEorpa, ar mholadh ón gComhairle ag gníomhú di trí thromlach cáilithe, urscaoileadh a dheonú don Stiúrthóir roimh an 15 Bealtaine, an bhliain N + 2, i dtaca le cur chun feidhme an bhuiséid don bhliain N.",
+     "para": "9",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_29",
+   "kind": "article",
+   "number": "29",
+   "label": "Airteagal 29",
+   "title": "Rialacha airgeadais",
+   "path": [
+    "CAIBIDIL VII — BUISÉAD AGUS CLÁR OIBRE OIFIG BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Déanfaidh an Bord Bainistíochta na rialacha airgeadais is infheidhme maidir le hOifig BEREC a ghlacadh tar éis dó dul i gcomhairle leis an gCoimisiún. Ní bheidh siad éagsúil ó Rialachán Tarmligthe (AE) Uimh. 1271/2013 mura mbeidh gá leis an éagsúlacht sin chun go bhfeidhmeoidh Oifig BEREC mar is ceart agus mura dtabharfaidh an Coimisiún toiliú roimh ré.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_30",
+   "kind": "article",
+   "number": "30",
+   "label": "Airteagal 30",
+   "title": "Foráil ghinearálta",
+   "path": [
+    "CAIBIDIL VIII — FOIREANN OIFIG BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "Beidh feidhm maidir le foireann Oifig BEREC ag na Rialacháin Foirne agus ag Coinníollacha Fostaíochta Seirbhíseach Eile agus ag na rialacha arna nglacadh trí chomhaontú idir institiúidí an Aontais chun éifeacht a thabhairt do na Rialacháin Foirne sin agus do Choinníollacha Fostaíochta Seirbhíseach Eile.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_31",
+   "kind": "article",
+   "number": "31",
+   "label": "Airteagal 31",
+   "title": "Líon foirne Oifig BEREC",
+   "path": [
+    "CAIBIDIL VIII — FOIREANN OIFIG BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. I gcomhréir le prionsabal an bhainistithe acmhainní daonna de réir gníomhaíochtaí, beidh an fhoireann is gá ag Oifig BEREC chun dualgais na hoifige a chur i gcrích.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Molfar an líon foirne agus na hacmhainní airgeadais comhfhreagracha i gcomhréir le hAirteagal 23(2) agus (4) agus Airteagal 24(1), lena gcuirfear san áireamh pointe (a) d’Airteagal 5 agus na cúraimí eile a shanntar d’Oifig BEREC leis an Rialachán seo nó le gníomhartha dlí eile de chuid an Aontais, mar aon leis an ngá atá le comhlíonadh na rialachán is infheidhme maidir le gníomhaireachtaí díláraithe uile an Aontais.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_32",
+   "kind": "article",
+   "number": "32",
+   "label": "Airteagal 32",
+   "title": "An Stiúrthóir a cheapadh",
+   "path": [
+    "CAIBIDIL VIII — FOIREANN OIFIG BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ceapfar an Stiúrthóir mar ghníomhaire sealadach de chuid Oifig BEREC i gcomhréir le pointe (a) d’Airteagal 2 de Choinníollacha Fostaíochta Seirbhíseach Eile.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Roghnóidh an Bord Bainistíochta an Stiúrthóir tar éis nós imeachta roghnúcháin oscailte agus trédhearcach ar bhonn tuillteanais, scileanna bainistíochta, riaracháin agus buiséadacha agus na scileanna agus an taithí atá ábhartha maidir le líonraí agus seirbhísí cumarsáide leictreonaí. Maidir leis an liosta iarrthóirí ní mholfaidh an Cathaoirleach nó an Leas-Chathaoirleach an liosta sin as a stuaim féin. Leagfar amach go mionsonrach i rialacha nós imeachta an Bhoird Bainistíochta na socruithe lena rialaítear an nós imeachta chun líon na n-iarrthóirí incháilithe a ghearrliostú agus nós imeachta vótála.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Chun an conradh a thabhairt chun críche leis an Stiúrthóir, déanfaidh Cathaoirleach an Bhoird Bainistíochta ionadaíocht d’Oifig BEREC.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Sula ndéanfar an ceapachán, iarrfar ar an iarrthóir a roghnaigh an Bord Bainistíochta ráiteas a dhéanamh os comhair choiste inniúil Pharlaimint na hEorpa agus ceisteanna ó chomhaltaí an choiste sin a fhreagairt.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Cúig bliana a mhairfidh téarma oifige an Stiúrthóra. Roimh dheireadh na tréimhse sin, tabharfaidh Cathaoirleach an Bhoird Bainistíochta faoi mheasúnú ina mbeidh meastóireacht ar fheidhmíocht an Stiúrthóra agus ar chúraimí agus dúshláin Oifig BEREC. Cuirfear an measúnú sin faoi bhráid Pharlaimint na hEorpa agus na Comhairle.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Féadfaidh an Bord Bainistíochta, ag cur san áireamh dó an measúnú dá dtagraítear i mír 5, síneadh a chur le téarma oifige an Stiúrthóra uair amháin, ar feadh 5 bliana ar a mhéad.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Cuirfidh an Bord Bainistíochta in iúl do Pharlaimint na hEorpa má tá sé ar intinn aige síneadh a chur le téarma oifige an Stiúrthóra. Sa mhí sula mbeartaítear síneadh a chur leis an téarma oifige, féadfar cuireadh a thabhairt don Stiúrthóir ráiteas a dhéanamh os comhair choiste inniúil na Parlaiminte agus ceisteanna ó chomhaltaí an choiste a fhreagairt.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Ní bheidh Stiúrthóir ar cuireadh síneadh lena théarma nó lena téarma oifige rannpháirteach i nós imeachta roghnúcháin eile don phost céanna tar éis dheireadh na tréimhse carnaí.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. I gcás nach gcuirtear síneadh leis an tréimhse oifige, fanfaidh an Stiúrthóir in oifig, ar chinneadh ón mBord Bainistíochta, tar éis don thréimhse oifige dul in éag, go dtí go gceapfar a chomharba nó a comharba.",
+     "para": "9",
+     "point": ""
+    },
+    {
+     "text": "10. Ní fhéadfar an Stiúrthóir a chur as oifig ach amháin ar chinneadh ón mBord Bainistíochta ag gníomhú dó ar thogra ó chomhalta.",
+     "para": "10",
+     "point": ""
+    },
+    {
+     "text": "11. Tiocfaidh an Bord Bainistíochta ar chinntí faoi cheapachán, faoi shíneadh téarma oifige agus faoi chur as oifig an Stiúrthóra ar bhonn vótáil tromlaigh dhá thrian de na comhaltaí.",
+     "para": "11",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_33",
+   "kind": "article",
+   "number": "33",
+   "label": "Airteagal 33",
+   "title": "Saineolaithe náisiúnta ar iasacht agus baill foirne eile",
+   "path": [
+    "CAIBIDIL VIII — FOIREANN OIFIG BEREC"
+   ],
+   "blocks": [
+    {
+     "text": "1. Féadfaidh Oifig BEREC leas a bhaint as saineolaithe náisiúnta ar iasacht nó as baill foirne eile nach bhfuil fostaithe aici. Ní bheidh feidhm ag na Rialacháin Foirne agus Coinníollacha Fostaíochta Seirbhíseach Eile maidir leis an bhfoireann sin.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Glacfaidh an Bord Bainistíochta cinneadh lena leagfar síos rialacha maidir le saineolaithe náisiúnta a thabhairt ar iasacht d’Oifig BEREC.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_34",
+   "kind": "article",
+   "number": "34",
+   "label": "Airteagal 34",
+   "title": "Pribhléidí agus díolúintí",
+   "path": [
+    "CAIBIDIL IX — FORÁLACHA GINEARÁLTA"
+   ],
+   "blocks": [
+    {
+     "text": "Beidh feidhm ag an bPrótacal ar Phribhléidí agus Díolúintí an Aontais Eorpaigh maidir le hOifig BEREC agus maidir lena foireann.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_35",
+   "kind": "article",
+   "number": "35",
+   "label": "Airteagal 35",
+   "title": "Comhar le comhlachtaí de chuid an Aontais, le tríú tíortha agus le heagraíochtaí idirnáisiúnta",
+   "path": [
+    "CAIBIDIL IX — FORÁLACHA GINEARÁLTA"
+   ],
+   "blocks": [
+    {
+     "text": "1. A mhéid is gá chun na cuspóirí a leagtar amach sa Rialachán seo a bhaint amach agus chun a chúraimí a chur i gcrích, agus gan dochar d’inniúlachtaí na mBallstát agus institiúidí an Aontais, féadfaidh BEREC agus Oifig BEREC oibriú i gcomhar le comhlachtaí inniúla, oifigí, gníomhaireachtaí agus grúpaí comhairleacha de chuid an Aontais, le húdaráis inniúla tríú tíortha agus le heagraíochtaí idirnáisiúnta. Chuige sin, féadfaidh BEREC agus Oifig BEREC, tar éis dóibh réamhúdarú a fháil ón gCoimisiún, socruithe oibre a bhunú. Ní chruthófar oibleagáidí dlí de bharr na socruithe sin.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Beidh an Bord Rialálaithe, na meithleacha agus an Bord Bainistíochta oscailte do rannpháirtíocht údarás rialála tríú tíortha a bhfuil an phríomhfhreagracht orthu i réimse na cumarsáide leictreonaí, i gcásanna ina bhfuil comhaontuithe chuige sin déanta ag na tríú tíortha sin leis an Aontas. Faoi fhorálacha ábhartha na gcomhaontuithe sin, forbrófar socruithe oibre lena sonrófar, go háirithe, cineál, méid agus modh rannpháirtíochta údaráis rialála na dtríú tíortha sin lena mbaineann gan ceart vótála a bheith acu in obair BEREC agus Oifig BEREC, lena n-áirítear forálacha a bhaineann lena rannpháirtíocht i dtionscnaimh a chuireann BEREC i gcrích, le ranníocaíochtaí airgeadais agus le cúrsaí foirne Oifig BEREC. I dtaca le cúrsaí foirne, comhlíonfaidh na socruithe sin na Rialacháin Foirne ar aon nós.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Mar chuid den chlár oibre bliantúil dá dtagraítear in Airteagal 21, glacfaidh an Bord Rialálaithe straitéis BEREC i dtaca le caidreamh le comhlachtaí inniúla, oifigí, gníomhaireachtaí agus grúpaí comhairleacha de chuid an Aontais, le húdaráis inniúla tríú tíortha agus le heagraíochtaí idirnáisiúnta a bhaineann le cúrsaí a mbeidh inniúlacht ag BEREC ina leith. Tabharfaidh an Coimisiún, BEREC agus Oifig BEREC socrú oibre iomchuí chun críche agus é mar chuspóir aige a áirithiú go bhfeidhmeoidh BEREC agus Oifig BEREC laistigh dá sainordú agus den chreat institiúideach atá ann faoi láthair.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_36",
+   "kind": "article",
+   "number": "36",
+   "label": "Airteagal 36",
+   "title": "Rochtain ar dhoiciméid agus cosaint sonraí",
+   "path": [
+    "CAIBIDIL IX — FORÁLACHA GINEARÁLTA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Beidh feidhm ag Rialachán (CE) Uimh. 1049/2001 ó Pharlaimint na hEorpa agus ón gComhairle maidir le doiciméid i seilbh BEREC agus Oifig BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Faoin 21 Meitheamh 2019 , glacfaidh an Bord Rialálaithe agus an Bord Bainistíochta na rialacha mionsonraithe chun Rialachán (CE) Uimh. 1049/2001 a chur i bhfeidhm.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Déanfaidh BEREC agus Oifig BEREC sonraí pearsanta a phróiseáil faoi réir Rialachán (AE) 2018/1725 ó Pharlaimint na hEorpa agus ón gComhairle.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Faoi cheann 21 Meitheamh 2019, leagfaidh an bord rialálaithe agus an Bord Bainistíochta síos bearta maidir le Rialachán (AE) 2018/1725 a chur i bhfeidhm ag BEREC agus ag Oifig BEREC, lena n-áirítear bearta a bhaineann le hoifigeach um chosaint sonraí a cheapadh d’Oifig BEREC. Déanfar na bearta sin a leagan síos tar éis don bhord bainistíochta dul i gcomhairle leis an Maoirseoir Eorpach ar Chosaint Sonraí.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_37",
+   "kind": "article",
+   "number": "37",
+   "label": "Airteagal 37",
+   "title": "Trédhearcacht agus cumarsáid",
+   "path": [
+    "CAIBIDIL IX — FORÁLACHA GINEARÁLTA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Cuirfidh BEREC agus Oifig BEREC a gcuid gníomhaíochtaí i gcrích ar bhealach lena ngabhann ardleibhéal trédhearcachta. Áiritheoidh BEREC agus Oifig BEREC go ndéanfar faisnéis, go háirithe faisnéis faoina gcúraimí agus faoi thorthaí a gcuid oibre, a thabhairt don phobal agus d’aon pháirtithe leasmhara, ar faisnéis í atá iomchuí, oibiachtúil agus iontaofa agus ar furasta teacht uirthi.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Féadfaidh BEREC, le tacaíocht ó Oifig BEREC, tabhairt faoi ghníomhaíochtaí cumarsáide ar a thionscnamh féin laistigh dá réimse inniúlachta féin i gcomhréir le pleananna ábhartha maidir le cumarsáid agus scaipeadh arna nglacadh ag an mBord Bainistíochta. Ní dhéanfaidh leithdháileadh acmhainní do thacaíocht den chineál sin do ghníomhaíochtaí cumarsáide faoi chuimsiú bhuiséad Oifig BEREC aon díobháil d’fheidhmiú éifeachtach na gcúraimí dá dtagraítear in Airteagal 4 ná do chúraimí Oifig BEREC dá dtagraítear in Airteagal 5. Déanfar gníomhaíochtaí cumarsáide de chuid Oifig BEREC i chur i gcrích i gcomhréir le pleananna ábhartha cumarsáide agus scaipthe arna nglacadh ag an mBord Bainistíochta.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_38",
+   "kind": "article",
+   "number": "38",
+   "label": "Airteagal 38",
+   "title": "Rúndacht",
+   "path": [
+    "CAIBIDIL IX — FORÁLACHA GINEARÁLTA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Gan dochar d’Airteagal 36(1) agus Airteagal 40(2), ní sceithfidh BEREC ná Oifig BEREC le tríú páirtithe aon fhaisnéis arna próiseáil acu ná arna tabhairt dóibh a bhfuil iarraidh réasúnaithe déileáil go rúnda ina leith déanta, go hiomlán nó go páirteach.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Comhaltaí agus rannpháirtithe eile i gcruinnithe den Bhord Rialálaithe, den Bhord Bainistíochta agus de na meithleacha, an Stiúrthóir, saineolaithe náisiúnta ar iasacht agus baill foirne eile nach bhfuil fostaithe ag Oifig BEREC, comhlíonfaidh siad na ceanglais rúndachta faoi Airteagal 339 CFAE, fiú nuair a bheidh deireadh lena gcuid dualgas.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Leagfaidh an Bord Rialálaithe agus an Bord Bainistíochta síos na socruithe praiticiúla d’fhonn na rialacha rúndachta dá dtagraítear i mír 1 agus mír 2 a chur chun feidhme.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_39",
+   "kind": "article",
+   "number": "39",
+   "label": "Airteagal 39",
+   "title": "Rialacha slándála maidir le faisnéis rúnaicmithe agus faisnéis íogair neamh-rúnaicmithe a chosaint",
+   "path": [
+    "CAIBIDIL IX — FORÁLACHA GINEARÁLTA"
+   ],
+   "blocks": [
+    {
+     "text": "Glacfaidh BEREC agus Oifig BEREC a rialacha slándála féin a bheidh coibhéiseach le rialacha slándála an Choimisiúin chun Faisnéis Rúnaicmithe an Aontais Eorpaigh agus faisnéis íogair neamh-rúnaicmithe a chosaint, inter alia na forálacha maidir leis an bhfaisnéis sin a mhalartú, a phróiseáil agus a stóráil, mar a leagtar amach i gCinneadh (AE, Euratom) 2015/443 ón gCoimisiún agus i gCinneadh 2015/444 ón gCoimisiún. De rogha air sin, féadfaidh BEREC nó Oifig BEREC cinneadh a ghlacadh chun rialacha an Choimisiúin a chur i bhfeidhm mutatis mutandis.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_40",
+   "kind": "article",
+   "number": "40",
+   "label": "Airteagal 40",
+   "title": "Malartú faisnéise",
+   "path": [
+    "CAIBIDIL IX — FORÁLACHA GINEARÁLTA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Tar éis dó iarraidh réasúnaithe a fháil ó BEREC nó ó Oifig BEREC, cuirfidh an Coimisiún agus na ÚNRanna a ndéantar ionadaíocht orthu ar an mBord Rialálaithe agus údaráis inniúla eile ar fáil do BEREC nó d’Oifig BEREC go pras beacht an fhaisnéis uile is gá chun a gcuid cúraimí a dhéanamh, ar choinníoll go bhfuil rochtain dhlíthiúil acu ar an bhfaisnéis ábhartha agus go bhfuil an iarraidh ar fhaisnéis riachtanach don chineál cúraim atá i gceist. Féadfaidh BEREC nó Oifig BEREC a iarraidh freisin go soláthrófaí faisnéis den chineál sin go tráthrialta agus i bhformáidí sonraithe. Más féidir, déanfar na hiarrataí sin trí úsáid a bhaint as formáidí coiteanna tuairiscithe.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Tar éis dó iarraidh réasúnaithe a fháil ón gCoimisiún nó ó ÚNR, cuirfidh BEREC nó Oifig BEREC ar fáil dóibh go pras beacht an fhaisnéis uile is gá chun a chur ar a chumas don Choimisiún do ÚNR, nó d’údarás inniúil eile, a gcuid cúraimí a dhéanamh, de bhun phrionsabal an chomhair dhílis. Maidir le faisnéis a measann BEREC nó Oifig BEREC gur faisnéis rúnda atá inti, áiritheoidh an Coimisiún, an ÚNR nó an t-údarás inniúil eile an rúndacht sin i gcomhréir le dlí an Aontais agus leis an dlí náisiúnta lena n-áirítear Rialachán (CE) Uimh. 1049/2001. Ní chuirfear bac de bharr rúndacht gnó ar fhaisnéis a roinnt go pras.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Sula n-iarrfaidh BEREC nó Oifig BEREC faisnéis i gcomhréir leis an Airteagal seo agus chun dúbailt ar na hoibleagáidí tuairiscithe a sheachaint, cuirfidh sé san áireamh aon fhaisnéis ábhartha atá ar fáil don phobal cheana.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. I gcás nach gcuireann ÚNRanna faisnéis ar fáil go pras, féadfaidh BEREC nó Oifig BEREC iarraidh a bhfuil údar réasúnaithe léi agus í a dhéanamh ar ÚNRanna eile agus ar údaráis inniúla eile de chuid na mBallstát lena mbaineann, nó go díreach ar na gnóthais ábhartha a sholáthraíonn líonraí cumarsáide leictreonaí, seirbhísí agus na saoráidí a ghabhann leo. Cuirfidh BEREC nó Oifig BEREC na ÚNRanna, nach mbeidh an fhaisnéis curtha ar fáil acu, ar an eolas faoi iarrataí i gcomhréir leis an gcéad fhomhír seo. Arna iarraidh sin do BEREC nó d’Oifig BEREC, tabharfaidh na ÚNRanna cúnamh do BEREC chun an fhaisnéis a bhailiú.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Áiritheoidh na Ballstáit go mbeidh de chumhacht ag ÚNRanna agus ag údaráis inniúla eile a chur de cheangal ar údaráis náisiúnta eile atá freagrach nó ar ghnóthais a sholáthraíonn líonraí agus seirbhísí cumarsáide leictreonaí, saoráidí nó seirbhísí a ghabhann leo, an fhaisnéis uile is gá a thíolacadh chun na cúraimí atá orthu dá dtagraítear san Airteagal seo a chur i gcrích. Maidir le húdaráis náisiúnta fhreagracha eile nó gnóthais dá dtagraítear sa chéad fhomhír, cuirfidh siad faisnéis ar fáil go pras arna iarraidh sin orthu agus i gcomhréir leis na hamscálaí agus leis an leibhéal sonraí is gá. Áiritheoidh na Ballstáit go dtabharfar de chumhacht do ÚNRanna agus do na húdaráis inniúla eile iarrataí den chineál sin ar fhaisnéis a fhorfheidhmiú trí phionóis a ghearradh a bheidh iomchuí, éifeachtach, comhréireach agus athchomhairleach.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_41",
+   "kind": "article",
+   "number": "41",
+   "label": "Airteagal 41",
+   "title": "Córas faisnéise agus cumarsáide",
+   "path": [
+    "CAIBIDIL IX — FORÁLACHA GINEARÁLTA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Déanfaidh Oifig BEREC córas faisnéise agus cumarsáide a bhunú agus a bhainistiú a mbeidh ar a laghad na feidhmeanna seo a leanas aige: (a) ardán coiteann le haghaidh malartaithe faisnéise, lena gcuirfí an fhaisnéis is gá ar fáil do BEREC, don Choimisiún agus do ÚNRanna chun creat rialála an Aontais don chumarsáid leictreonach a chun feidhme ar bhonn comhsheasmhach; (b) comhéadan tiomnaithe chun iarrataí a dhéanamh ar fhaisnéis agus chun na hiarrataí sin a fhógairt dá dtagraítear in Airteagal 40 do BEREC, d’Oifig BEREC, don Choimisiún agus do ÚNRanna; (c) ardán chun riachtanais chomhordúcháin idir na ÚNRanna a shainaithint go luath.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Glacfaidh an Bord Bainistíochta na sonraíochtaí teicniúla agus feidhmiúla chun críche an córas faisnéise agus cumarsáide dá dtagraítear i mír 1 a bhunú. Beidh an córas sin faoi réir chearta maoine intleachtúla agus an leibhéil rúndachta is gá.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Beidh an córas faisnéise agus cumarsáide oibríochtúil faoin 21 Meitheamh 2020.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_42",
+   "kind": "article",
+   "number": "42",
+   "label": "Airteagal 42",
+   "title": "Dearbhuithe leasanna",
+   "path": [
+    "CAIBIDIL IX — FORÁLACHA GINEARÁLTA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Maidir le comhaltaí an Bhoird Rialálaithe agus an Bhoird Bainistíochta, an Stiúrthóir, saineolaithe náisiúnta ar iasacht, agus baill foirne eile nach bhfuil fostaithe ag Oifig BEREC, déanfaidh gach duine acu dearbhú i scríbhinn ina léirítear a dtiomantas agus ina léirítear nach ann nó gurb ann d’aon leasanna díreach nó indíreach a bhféadfaí a mheas ina thaobh go mbainfeadh sé dá neamhspleáchas. Nuair a bheidh a gcúraimí á nglacadh chucu féin ag daoine, beidh orthu dearbhú den chineál sin a dhéanamh. Beidh na dearbhuithe sin beacht agus iomlán, agus déanfar iad a nuashonrú i gcás ina mbeadh baol ann go bhféadfaí a mheas go mbeadh aon leas díreach nó indíreach ann a bheadh dochrach do neamhspleáchas an duine a dhéanfaidh an dearbhú. Cuirfear ar fáil don phobal na dearbhuithe a dhéanfaidh comhaltaí an Bhoird Rialálaithe, comhaltaí an Bhoird Bainistíochta agus an Stiúrthóir.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Maidir le comhaltaí an Bhoird Rialálaithe, an Bhoird Bainistíochta, agus na meithleacha, agus rannpháirtithe eile ina gcruinnithe, an Stiúrthóir, saineolaithe náisiúnta ar iasacht agus baill foirne eile nach bhfuil fostaithe ag Oifig BEREC, déanfaidh gach duine acu dearbhú iomlán ag tús gach cruinnithe ar a dhéanaí, ar dearbhú é ina léireofar aon leas a d’fhéadfaí a mheas go mbainfeadh sé dá neamhspleáchas i ndáil leis na hítimí atá ar an gclár oibre agus staonfaidh siad ó pháirt a ghlacadh sa phlé ar na pointí sin agus ó vótáil ar na pointí sin.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Leagfaidh an Bord Rialálaithe agus an Bord Bainistíochta síos na rialacha chun coinbhleachtaí leasanna a chosc agus a bhainistiú agus, go háirithe, maidir leis na socruithe praiticiúla chun mír 1 agus mír 2 a chur i bhfeidhm.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_43",
+   "kind": "article",
+   "number": "43",
+   "label": "Airteagal 43",
+   "title": "Calaois a chomhrac",
+   "path": [
+    "CAIBIDIL IX — FORÁLACHA GINEARÁLTA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Chun gur fusa calaois, éilliú agus gníomhaíochtaí neamhdhleathacha eile a chomhrac faoi Rialachán (AE, Euratom) Uimh. 883/2013 ó Pharlaimint na hEorpa agus ón gComhairle, faoin 21 Meitheamh 2019, aontóidh Oifig BEREC don Chomhaontú Idirinstitiúideach an 25 Bealtaine 1999 idir Parlaimint na hEorpa, Comhairle an Aontais Eorpaigh agus an Coimisiún Eorpach maidir le himscrúduithe inmheánacha a bheith á ndéanamh ag an Oifig Eorpach Frith-Chalaoise (OLAF), agus glacfaidh sé na forálacha iomchuí is infheidhme d’fhoireann uile Oifig BEREC agus an teimpléad a leagtar amach san Iarscríbhinn a ghabhann leis an gComhaontú á úsáid aige.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Beidh cumhacht iniúchóireachta ag an Chúirt Iniúchóirí, ar bhonn doiciméad agus cigireachtaí ar an láthair, ar gach tairbhí de dheontais, gach conraitheoir agus gach fochonraitheoir a fuair cistí de chuid an Aontais ó Oifig BEREC.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Féadfaidh OLAF imscrúduithe a dhéanamh, lena n-áirítear seiceálacha agus cigireachtaí ar an láthair, i gcomhréir leis na forálacha agus na nósanna imeachta a leagtar síos i Rialachán (AE, Euratom) Uimh. 883/2013 agus Rialachán (Euratom, CE) Uimh. 2185/96 ón gComhairle d’fhonn a shuí ar tharla calaois, éilliú nó aon ghníomhaíocht neamhdhleathach eile a dhéanann difear do leasanna airgeadais an Aontais i ndáil le comhaontú deontais nó le cinneadh deontais nó le conradh a mhaoiníonn Oifig BEREC.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Gan dochar do mhír 1, do mhír 2 agus do mhír 3, beidh i gcomhaontuithe comhair le tríú tíortha nó le heagraíochtaí idirnáisiúnta, i gconarthaí, i gcomhaontuithe deontais agus i gcinntí deontais forálacha a thugann de chumhacht go sainráite don Chúirt Iniúchóirí agus do OLAF na hiniúchtaí agus na himscrúduithe sin a dhéanamh, i gcomhréir lena gcuid inniúlachtaí féin.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_44",
+   "kind": "article",
+   "number": "44",
+   "label": "Airteagal 44",
+   "title": "Dliteanas",
+   "path": [
+    "CAIBIDIL IX — FORÁLACHA GINEARÁLTA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Beidh dliteanas conarthach Oifig BEREC faoi rialú ag an dlí is infheidhme maidir leis an gconradh i dtrácht.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Beidh dlínse ag Cúirt Bhreithiúnais an Aontais Eorpaigh (An Chúirt Bhreithiúnais) breith a thabhairt de bhun aon chlásail eadrána a bheidh i gconradh arna thabhairt i gcrích ag Oifig BEREC.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. I gcás dliteanas neamhchonarthach, slánóidh Oifig BEREC, i gcomhréir leis na prionsabail ghinearálta is coiteann do dhlíthe na mBallstát, aon damáiste arbh iad a ranna nó a bhaill foirne féin ba chúis leis agus a ndualgais á gcomhlíonadh acu.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Beidh dlínse ag an gCúirt Bhreithiúnais i ndíospóidí a bhaineann leis an gcúiteamh as damáiste dá dtagraítear i mír 3.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Beidh dliteanas pearsanta na mball foirne i leith Oifig BEREC faoi rialú ag na forálacha a leagtar síos sna Rialacháin Foirne nó sna Coinníollacha Fostaíochta Seirbhíseach Eile is infheidhme maidir leo.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_45",
+   "kind": "article",
+   "number": "45",
+   "label": "Airteagal 45",
+   "title": "Imscrúduithe riaracháin",
+   "path": [
+    "CAIBIDIL IX — FORÁLACHA GINEARÁLTA"
+   ],
+   "blocks": [
+    {
+     "text": "Beidh gníomhaíochtaí BEREC agus Oifig BEREC faoi réir fhiosrúcháin an Ombudsman Eorpaigh i gcomhréir le hAirteagal 228 CFAE.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_46",
+   "kind": "article",
+   "number": "46",
+   "label": "Airteagal 46",
+   "title": "Socruithe teanga",
+   "path": [
+    "CAIBIDIL IX — FORÁLACHA GINEARÁLTA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Beidh feidhm maidir le hOifig BEREC i Rialachán Uimh. 1.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Soláthróidh Ionad Aistriúcháin Chomhlachtaí an Aontais Eorpaigh na seirbhísí aistriúcháin is gá chun go bhfeidhmeoidh Oifig BEREC.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_47",
+   "kind": "article",
+   "number": "47",
+   "label": "Airteagal 47",
+   "title": "Comhaontú maidir le ceanncheathrú agus coinníollacha oibriúcháin",
+   "path": [
+    "CAIBIDIL X — FORÁLACHA CRÍOCHNAITHEACHA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Maidir leis na socruithe a bhaineann leis an gcóiríocht atá le cur ar fáil d’Oifig BEREC sa Bhallstát aíochta agus na saoráidí atá le cur ar fáil ag an mBallstát sin mar aon leis na rialacha sonracha is infheidhme sa Bhallstát aíochta maidir leis an Stiúrthóir, le comhaltaí an Bhoird Bainistíochta, le baill foirne Oifig BEREC agus le baill dá dteaghlaigh, leagfar síos iad i gComhaontú Ceanncheathrún idir Oifig BEREC agus an Ballstát óstach, tar éis faomhadh an Bhoird Bainistíochta a fháil agus faoin 21 Nollaig 2020.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Cuirfidh an Ballstát aíochta na dálaí is gá ar fáil chun a áirithiú go bhfeidhmeoidh Oifig BEREC go rianúil éifeachtúil, lena n-áirítear scolaíocht ilteangach a bhfuil béim ar an ngné Eorpach inti agus naisc iomchuí iompair.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_48",
+   "kind": "article",
+   "number": "48",
+   "label": "Airteagal 48",
+   "title": "Meastóireacht",
+   "path": [
+    "CAIBIDIL X — FORÁLACHA CRÍOCHNAITHEACHA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Faoi cheann 21 Nollaig 2023, agus gach 5 bliana ina dhiaidh sin, cuirfidh an Coimisiún, i gcomhréir le treoirlínte an Choimisiúin, meastóireacht i gcrích chun feidhmíocht BEREC agus Oifig BEREC a mheasúnú ó thaobh a gcuspóirí, a sainordú, a gcúraimí agus a láthair de. Tabharfar aghaidh sa mheastóireacht sin, go háirithe, ar an ngá a d’fhéadfadh a bheith ann struchtúr nó sainordú BEREC agus Oifig BEREC a mhodhnú agus ar na himpleachtaí airgeadais a d’fhéadfadh a bheith ag aon mhodhnú den sórt sin.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. I gcás ina measann an Coimisiún nach bhfuil bonn cirt a thuilleadh le BEREC nó le hOifig BEREC a choinneáil ar bun ag féachaint dá chuspóirí, dá shainordú agus dá chúraimí sannta, féadfaidh sé a mholadh go ndéanfaí an Rialachán seo a leasú nó a aisghairm dá réir.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Déanfaidh an Coimisiún torthaí na meastóireachta a thuairisciú do Pharlaimint na hEorpa, don Chomhairle agus don Bhord Bainistíochta agus cuirfear na torthaí sin ar fáil don phobal.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_49",
+   "kind": "article",
+   "number": "49",
+   "label": "Airteagal 49",
+   "title": "Forálacha idirthréimhseacha",
+   "path": [
+    "CAIBIDIL X — FORÁLACHA CRÍOCHNAITHEACHA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Tiocfaidh Oifig BEREC i gcomharbas ar an Oifig a bunaíodh le Rialachán (CE) Uimh. 1211/2009 i ndáil le gach úinéireacht, comhaontú, oibleagáid dhlíthiúil, conradh fostaíochta, ceangaltas airgeadais agus dliteanas. Go háirithe, ní dhéanfaidh an Rialachán seo difear do chearta ná d’oibleagáidí bhaill foirne na hOifige. Féadfar a gconarthaí a athnuachan faoin Rialachán seo i gcomhréir leis na Rialacháin Foirne agus Coinníollacha Fostaíochta Seirbhíseach Eile agus i gcomhréir le srianta buiséadacha Oifig BEREC.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Amhail ón 20 Nollaig 2018 feidhmeoidh an Bainisteoir Riaracháin a ceapadh ar bhonn Rialachán (CE) Uimh. 1211/2009 mar Stiúrthóir ag a mbeidh na feidhmeanna dá bhforáiltear sa Rialachán seo. Ní athrófar coinníollacha eile chonradh an Bhainisteora Riaracháin.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Féadfaidh an Bord Bainistíochta cinneadh téarma oifige an Stiúrthóra dá dtagraítear i mír 2 den Airteagal seo a athnuachan ar feadh tréimhse breise. Beidh feidhm ag Airteagal 32(5) agus (6) mutatis mutandis. Ní bheidh téarma carnach oifige an Stiúrthóra níos mó ná 10 mbliana ag an Stiúrthóir.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Beidh an Bord Rialálaithe agus an Bord Bainistíochta dá dtagraítear in Airteagal 7 agus Airteagal 15 den Rialachán seo comhdhéanta de chomhaltaí an Bhoird Bainistíochta agus comhaltaí an Choiste Bainistíochta dá dtagraítear in Airteagal 4 agus Airteagal 7 de Rialachán (CE) Uimh. 1211/2009 go dtí go gceapfar ionadaithe nua.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Maidir le Cathaoirligh agus Leas-Chathaoirligh an Bhoird Rialálaithe agus an Choiste Bainistíochta, a ceapadh ar bhonn Rialachán (CE) Uimh. 1211/2009, fanfaidh siad in oifig mar Cathaoirligh agus Leas-Chathaoirligh an Bhoird Rialálaithe agus an Choiste Bainistíochta dá dtagraítear in Airteagal 10 den Rialachán seo, agus mar Cathaoirleach agus Leas-Chathaoirleach an Bhoird Bainistíochta dá dtagraítear in Airteagal 17 den Rialachán seo go mbeidh a dtéarma bliana istigh. Urramófar ceapacháin an Chathaoirleach agus an Leas-Chathaoirleach a dhéanfar ag an mBord Rialálaithe agus ag an gCoiste Bainistíochta ar bhonn Rialacháin (CE) Uimh. 1211/2009, a dhéantar roimh 20 Nollaig 2018, ach a leanann níos faide ar aghaidh ná an dáta sin.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Is i gcomhréir leis na rialacha a bunaíodh le Rialachán (CE) Uimh. 1211/2009 a chuirfear an nós imeachta urscaoilte maidir leis an mbuiséad arna fhormheas ar bhonn Airteagal 11 den Rialachán sin i gcrích.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_50",
+   "kind": "article",
+   "number": "50",
+   "label": "Airteagal 50",
+   "title": "Leasuithe ar Rialachán (AE) Uimh. 2015/2120",
+   "path": [
+    "CAIBIDIL X — FORÁLACHA CRÍOCHNAITHEACHA"
+   ],
+   "blocks": [
+    {
+     "text": "Leasaítear Rialachán (AE) Uimh. 2015/2120 mar a leanas:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(1) cuirtear an méid seo a leanas in ionad an teidil: “Rialachán (AE) 2015/2120 ó Pharlaimint na hEorpa agus ón gComhairle an 25 Samhain 2015 lena leagtar síos bearta maidir le rochtain oscailte ar an idirlíon agus muirir mhiondíola ar chumarsáid rialáilte laistigh den Aontas agus lena leasaítear Treoir 2002/22/CE agus Rialachán (AE) Uimh. 531/2012”;",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) in Airteagal 1, cuirtear an mhír seo a leanas leis: “3. Leagtar síos freisin leis an Rialachán seo rialacha coiteanna lena n-airithítear nach ndéantar praghsanna iomarcacha a ghearradh ar thomhaltóirí as cumarsáid idirphearsanta uimhirbhunaithe a dhéanamh ar cumarsáid í a thosaíonn i mBallstát sholáthraí baile an tomhaltóra agus a chríochnaíonn ag aon uimhir líne thalún nó fón póca i mBallstát eile.”;",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) cuirtear na pointí seo a leanas isteach leis an dara mír d’Airteagal 2: “(3) ciallaíonn ‘cumarsáid rialáilte laistigh den Aontas’ aon seirbhís cumarsáide idirphearsanta uimhirbhunaithe a thosaíonn i mBallstát sholáthraí baile an tomhaltóra agus a chríochnaíonn ag aon uimhir líne thalún nó fón póca ar cuid de phlean uimhríochta náisiúnta Ballstáit eile í, agus dá ngearrtar muirir atá bunaithe go hiomlán nó go páirteach ar thomhaltas iarbhír; (4) ciallaíonn ‘seirbhís cumarsáide idirphearsanta uimhirbhunaithe’ seirbhís cumarsáide idirphearsanta uimhirbhunaithe mar a shainmhínítear i bpointe (6) d'Airteagal 2 de Threoir (AE) 2018/1972 ó Pharlaimint na hEorpa agus ón gComhairle. (*1) Treoir (AE) 2018/1972 ó Pharlaimint na hEorpa agus ón gComhairle an 11 Nollaig 2018 lena mbunaítear an Cód um Chumarsáid Leictreonach Eorpach (IO L 321, 17.12.2018, lch. 36).”;\"",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) cuirtear an t-Airteagal seo a leanas isteach: “Airteagal 5a Muirir mhiondíola ar chumarsáid rialáilte laistigh den Aontas 1. Ón 15 Bealtaine 2019, ní rachaidh aon phraghas miondíola (gan CBL a áireamh) a ghearrtar ar thomhaltóirí as cumarsáid rialáilte a dhéanamh laistigh den Aontas thar EUR 0,19 in aghaidh an nóiméid ar ghlaonna agus EUR 0,06 in aghaidh na teachtaireachta SMS. 2. Ina theannta sin agus d'ainneoin na n-oibleagáidí a leagtar síos i mír 1, féadfaidh soláthraithe cumarsáide rialáilte laistigh den Aontas taraif le haghaidh cumarsáid idirnáisiúnta, ina gcuimsítear cumarsáid rialáilte laistigh den Aontas nach ionann é agus taraif a socraíodh i gcomhréir le mír 1, a thairiscint (agus féadfaidh tomhaltóirí an taraif sin a roghnú go sainráite), ar de bhua na taraife sin a bhainfeadh tomhaltóirí tairbhe as taraif eile le haghaidh cumarsáid rialáilte laistigh den Aontas seachas an ceann a thabharfaí dóibh ina héagmais. Sula roghnaíonn tomhaltóirí taraif atá chomh difriúil sin, cuirfidh soláthraí na cumarsáide rialáilte laistigh den Aontas iad ar an eolas maidir le cineál na mbuntáistí a chaillfí dá ndéanfaí amhlaidh. 3. I gcás ina sáraíonn taraif le haghaidh cumarsáide rialáilte laistigh den AE dá dtagraítear i mír 2 na huasteorainneacha atá leagtha síos i mír 1, cuirfear na taraifí a leagtar síos i mír 1 ar fáil go huathoibríoch do na tomhaltóirí sin nár dheimhnigh rogha nó nár chuir rogha in iúl i dtaobh aon taraife a leagtar amach i mír 2 laistigh de thréimhse 2 mhí ón 15 Bealtaine 2019. 4. Féadfaidh tomhaltóirí athrú, saor in aisce, ó tharaifí nó ar ais chuig na taraifí mar a leagtar síos i mír 1 laistigh d’aon lá oibre amháin tar éis don soláthróir an iarraidh a fháil agus áiritheoidh soláthraithe nach bhfuil i gceist leis an athrú sin coinníollacha ná srianta a bhaineann le heilimintí de na síntiúis seachas leis an gcumarsáid rialáilte laistigh den Aontas. 5. I gcás ina n-ainmnítear na muirir uasta dá dtagraítear i mír 1 in airgeadra eile seachas an euro, déanfar na teorainneacha tosaigh a chinneadh sna hairgeadraí sin trí na rátaí malairte tagartha a chur i bhfeidhm a fhoilseoidh an Banc Ceannais Eorpach an 15 Eanáir, an 15 Feabhra agus an 15 Márta 2019 in Iris Oifigiúil an Aontais Eorpaigh. Déanfar athbhreithniú ar bhonn bliantúil ó 2020 ar na teorainneacha in airgeadraí seachas an euro. Beidh feidhm ag na teorainneacha sna hairgeadraí sin (ar teorainneacha iad a athbhreithneofar go bliantúil) ón 15 Bealtaine agus meán na rátaí malairte tagartha a fhoilseofar an 15 Eanáir, an 15 Feabhra, agus an 15 Márta an bhliain chéanna á úsáid. 6. Déanfaidh na húdaráis rialála náisiúnta faireachán ar an margadh agus ar fhorbairtí praghais i gcás cumarsáid rialáilte laistigh den Aontas agus déanfaidh siad tuairisciú air chuig an gCoimisiún. I gcás ina mbunaíonn soláthraí cumarsáide rialáilte laistigh den Aontas, mar gheall ar imthosca sonracha agus eisceachtúla lena n-idirdhealaítear an soláthraí sin ó fhormhór sholáthraithe eile an Aontais, go mbeadh tionchar suntasach ar a chumas na praghsanna a ghearrann sé cheana féin le haghaidh cumarsáid náisiúnta a choinneáil dá gcuirfí an mhír sin i bhfeidhm, féadfaidh údarás rialáilte náisiúnta maolú a dheonú ar mhír 1, ar iarraidh ón soláthraí, ach amháin a mhéid is gá agus ar feadh tréimhse inathnuaite de 1 bhliain amháin, do sholáthraí cumarsáide rialáilte laistigh den Aontas. Bunófar an measúnú ar inbhuanaitheacht an mhúnla muirearaithe baile ar ghnéithe oibiachtúla ábhartha a bhaineann go sonrach leis an soláthraí cumarsáide rialáilte laistigh den Aontas, chomh maith le leibhéal na bpraghsanna náisiúnta agus na n-ioncam náisiúnta. I gcás ina ndéanann an soláthraí iarrthach an dualgas cruthúnais is infheidhme a urscaoileadh, cinnfidh an t-údarás rialála náisiúnta an t-uasleibhéal praghsanna. ar mó é ná ceann amháin nó an dá cheann de na uasteorainneacha a leagtar amach i mír 1, nach bhféadfaí inbhuanaitheacht shamhail muirearaithe baile an tsoláthraí a áirithiú dá uireasa. Foilseoidh BEREC treoirlínte maidir leis na paraiméadair a bheidh le cur san áireamh ag údaráis rialála náisiúnta i measúnúithe a dhéanfaidh siad.”;",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) in Airteagal 6, cuirtear an mhír seo a leanas leis: “Déanfaidh na Ballstáit na rialacha a bhaineann leis na pionóis is infheidhme maidir le sáruithe ar Airteagal 5a seo a leagan síos agus glacfaidh siad gach beart is gá lena áirithiú go gcuirfear chun feidhme iad. Beidh na pionóis dá bhforáiltear éifeachtach, comhréireach agus athchomhairleach. Tabharfaidh Ballstáit fógra don Choimisiún faoin 15 Bealtaine 2019 faoi na rialacha agus na bearta a leagfar síos chun cur chun feidhme Airteagal 5a a áirithiú agus tabharfaidh siad fógra don Choimisiún gan mhoill faoi aon leasú ina dhiaidh sin lena ndéantar difear dóibh.”;",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) in Airteagal 10, cuirtear an mhír seo a leanas leis: “5. Rachaidh Airteagal 5a in éag an 14 Bealtaine 2024.”.",
+     "para": "",
+     "point": "6"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_51",
+   "kind": "article",
+   "number": "51",
+   "label": "Airteagal 51",
+   "title": "Aisghairm",
+   "path": [
+    "CAIBIDIL X — FORÁLACHA CRÍOCHNAITHEACHA"
+   ],
+   "blocks": [
+    {
+     "text": "Aisghairtear Rialachán (CE) Uimh. 1211/2009.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Déanfar tagairtí don Rialachán aisghairthe a fhorléiriú mar thagairtí don Rialachán seo agus léifear iad i gcomhréir leis an tábla comhghaoil san Iarscríbhinn.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_52",
+   "kind": "article",
+   "number": "52",
+   "label": "Airteagal 52",
+   "title": "Teacht i bhfeidhm",
+   "path": [
+    "CAIBIDIL X — FORÁLACHA CRÍOCHNAITHEACHA"
+   ],
+   "blocks": [
+    {
+     "text": "Tiocfaidh an Rialachán seo i bhfeidhm an tríú lá tar éis lá a fhoilsithe in Iris Oifigiúil an Aontais Eorpaigh.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "anx_1",
+   "kind": "annex",
+   "number": "1",
+   "label": "IARSCRÍBHINN",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Tábla Comhghaoil",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Rialachán (CE) Uimh. 1211/2009 An Rialachán seo Airteagal 1(1) Airteagal 1 Airteagal 1(2) Airteagal 3(1) Airteagal 1(3) Airteagal 3(2) agus (3) Airteagal 1(4) Airteagal 3(4) agus pointí (a) agus (b) d’Airteagal 4(1) Airteagal 2 Airteagal 4 Airteagal 3 Airteagal 4 Airteagal 4(1) Airteagal 6 Airteagal 4(2) Airteagal 7(1), (2) agus (4), Airteagal 8(1) agus (2) Airteagal 4(3) Airteagal 11(4) agus (5) agus Airteagal 36 Airteagal 4(4) Airteagal 10(1), (2) agus (3) Airteagal 4(5) Airteagal 10(4) Airteagal 4(6) Airteagal 11 Airteagal 4(7) Airteagal 13 Airteagal 4(8) Airteagal 7(4) Airteagal 4(9) Airteagal 12(1) agus (2) Airteagal 4(10) Airteagal 12(3) Airteagal 4(11) Airteagal 5 Airteagal 5 Airteagal 4 Airteagal 6(1) Airteagal 2(1) Airteagal 6(2) Airteagal 5 Airteagal 6(3) Airteagal 14(1) Airteagal 6(4) Airteagal 2(2) Airteagal 6(5) Airteagal 20 agus Airteagal 31 Airteagal 7(1) Airteagal 15(1) Airteagal 7(2) Airteagal 32 Airteagal 7(3) Airteagal 20(6) Airteagal 7(4) Pointe (k) d’Airteagal 16(1) Airteagal 7(5) Airteagal 13 Airteagal 8 Airteagal 32 Airteagal 9 Airteagal 20 Airteagal 10(1) Airteagal 30 agus Airteagal 34 Airteagal 10(2) Pointe (j) d’Airteagal 16(1) Airteagal 10(3) Airteagal 16(2) Airteagal 10(4) Airteagal 33 Airteagal 11 Airteagal 25 Airteagal 12 Airteagal 24 Airteagal 13 Airteagal 26 Airteagal 14 — Airteagal 15 Airteagal 29 Airteagal 16 Airteagal 43 Airteagal 17 Airteagal 4(5) Airteagal 18 Airteagal 37 Airteagal 19 Airteagal 39 agus Airteagal 40 Airteagal 20 Airteagal 38 Airteagal 21 Airteagal 42 Airteagal 22 Airteagal 36 Airteagal 23 Airteagal 34 Airteagal 24 Airteagal 44 Airteagal 25 Airteagal 48 Airteagal 26 Airteagal 52",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  }
+ ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "berec",
+  "short_name": "BEREC Regulation",
+  "title": "Regulation (EU) 2018/1971 of the European Parliament and of the Council of 11 December 2018 establishing the Body of European Regulators for Electronic Communications (BEREC) and the Agency for Support for BEREC (BEREC Office)",
+  "citation": "Regulation (EU) 2018/1971",
+  "scope": "The Body of European Regulators for Electronic Communications (BEREC) and the BEREC Office: objectives, regulatory and advisory tasks, Board of Regulators, working groups, the BEREC Office's tasks, management board, director, budget, staff, transparency, access to documents and cooperation with Union bodies and third countries.",
+  "source": "eurlex",
+  "reference_language": "EN",
+  "active_version": "latest",
+  "recitals_from_original": false,
+  "examples": [
+    "Which opinions must BEREC adopt under the European Electronic Communications Code, and how are they adopted by the Board of Regulators?",
+    "How is the Board of Regulators composed and what voting rules apply to its decisions?"
+  ],
+  "versions": [
+    {
+      "id": "original",
+      "celex": "32018R1971",
+      "kind": "original",
+      "date": "2018-12-11",
+      "note": "Text as adopted on 2018-12-11 and published in the Official Journal.",
+      "url": "",
+      "path": "",
+      "format": ""
+    }
+  ]
+}

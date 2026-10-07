@@ -1,0 +1,2822 @@
+{
+ "document": "berec",
+ "version": "original",
+ "lang": "DA",
+ "meta": {
+  "source": "eurlex",
+  "celex": "32018R1971",
+  "kind": "original",
+  "date": "2018-12-11",
+  "built_at": "2026-10-07T10:10:09+00:00",
+  "sources_sha256": {
+   "32018R1971": "a9259f379cec2f0daa63ecb499f02c4883f04d57d81fb9e013e77a050e567311"
+  },
+  "counts": {
+   "article": 52,
+   "recital": 53,
+   "annex": 1
+  }
+ },
+ "provisions": [
+  {
+   "id": "rct_1",
+   "kind": "recital",
+   "number": "1",
+   "label": "(1)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Europa-Parlamentets og Rådets direktiv (EU) 2018/1972 sigter mod at skabe et indre marked for elektronisk kommunikation i Unionen, samtidig med at der sikres et højt niveau af investeringer, innovation og forbrugerbeskyttelse gennem øget konkurrence. Dette direktiv indfører også et betydeligt antal nye opgaver for Sammenslutningen af Europæiske Tilsynsmyndigheder inden for Elektronisk Kommunikation (»BEREC«) såsom at udstede retningslinjer om en række emner, at rapportere om tekniske spørgsmål, at føre registre, fortegnelser eller databaser og afgive udtalelser om det indre markeds procedurer for udkast til nationale foranstaltninger til markedsregulering.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_2",
+   "kind": "recital",
+   "number": "2",
+   "label": "(2)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Europa-Parlamentets og Rådets forordning (EU) nr. 531/2012 supplerer og understøtter, for så vidt angår EU-dækkende roaming, rammebestemmelserne for elektronisk kommunikation og fastlægger visse opgaver for BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_3",
+   "kind": "recital",
+   "number": "3",
+   "label": "(3)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Europa-Parlamentets og Rådets forordning (EU) 2015/2120 fastlægger yderligere opgaver for BEREC med hensyn til adgang til det åbne internet. Desuden er BEREC-retningslinjerne af 30. august 2016 for de nationale tilsynsmyndigheders gennemførelse af de europæiske netneutralitetsbestemmelser blevet hilst velkommen som værdifulde præciseringer for at garantere et stærkt, frit og åbent internet ved at sørge for en ensartet anvendelse af bestemmelserne for at sikre lige og ikkediskriminerende behandling af trafikken ved levering af internetadgangstjenester og beskytte slutbrugeres hertil hørende rettigheder.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_4",
+   "kind": "recital",
+   "number": "4",
+   "label": "(4)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Begrundet i behovet for at sikre udvikling af en konsekvent reguleringspraksis og en ensartet anvendelse af EU's rammebestemmelser for elektronisk kommunikation oprettede Kommissionen ved afgørelse 2002/627/EF de europæiske tilsynsmyndigheders gruppe vedrørende elektroniske kommunikationsnet og -tjenester (ERG), der skulle rådgive og bistå Kommissionen i konsolideringen af det indre marked for elektroniske kommunikationsnet og -tjenester og mere generelt tjene som mellemled mellem nationale tilsynsmyndigheder og Kommissionen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_5",
+   "kind": "recital",
+   "number": "5",
+   "label": "(5)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC og støttekontoret blev oprettet ved Europa-Parlamentets og Rådets forordning (EF) nr. 1211/2009. BEREC afløste ERG og havde til formål på den ene side at bidrage til at udvikle det indre marked for elektroniske kommunikationsnet og -tjenester og på den anden side gøre det mere velfungerende ved at sikre den konsekvente gennemførelse af rammebestemmelserne for elektronisk kommunikation. BEREC fungerer som et forum for samarbejde mellem nationale tilsynsmyndigheder og mellem disse myndigheder og Kommissionen i udførelsen af samtlige deres opgaver i medfør af Unionens rammebestemmelser. BEREC blev oprettet med henblik på at yde ekspertise og handle uafhængigt og gennemsigtigt.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_6",
+   "kind": "recital",
+   "number": "6",
+   "label": "(6)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC fungerer også som et organ for refleksion, debat og rådgivning for Europa-Parlamentet, Rådet og Kommissionen inden for elektronisk kommunikation.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_7",
+   "kind": "recital",
+   "number": "7",
+   "label": "(7)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Støttekontoret blev oprettet som et fællesskabsorgan med status som juridisk person for at udføre de opgaver, der er omhandlet i forordning (EF) nr. 1211/2009, navnlig faglig og administrativ støtte til BEREC. Støttekontoret blev givet retlig, administrativ og finansiel selvstændighed for effektivt at kunne yde støtte til BEREC.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_8",
+   "kind": "recital",
+   "number": "8",
+   "label": "(8)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ved afgørelse 2010/349/EU besluttede repræsentanterne for medlemsstaternes regeringer, at støttekontoret skulle have hjemsted i Riga. Hjemstedsaftalen mellem Republikken Letlands regering og støttekontoret trådte i kraft den 5. august 2011.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_9",
+   "kind": "recital",
+   "number": "9",
+   "label": "(9)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "I sin meddelelse af 6. maj 2015 med titlen »En strategi for et digitalt indre marked i EU« bebudede Kommissionen, at den ville fremlægge forslag i 2016 om en ambitiøs gennemgang af rammebestemmelserne for elektronisk kommunikation, bl.a. med fokus på en mere effektiv institutionel reguleringsramme for at gøre reglerne for elektronisk kommunikation formålstjenlige som led i skabelsen af de rette vilkår for det digitale indre marked. Disse omfatter udbredelsen af net med meget høj kapacitet, mere koordineret forvaltning af radiofrekvenser til trådløse net og skabelse af lige vilkår for avancerede digitale net og innovative tjenester. Det blev understreget i nævnte meddelelse, at der med teknologiske og markedsmæssige vilkår, der hele tiden ændrer sig, bliver behov for styrkede institutionelle rammer, og at det også bliver nødvendigt at styrke BEREC's rolle.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_10",
+   "kind": "recital",
+   "number": "10",
+   "label": "(10)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "I sin beslutning af 19. januar 2016 med titlen »På vej mod en akt for det digitale indre marked« opfordrede Europa-Parlamentet Kommissionen til med henblik på en yderligere integration af det digitale indre marked at sikre, at mere effektive institutionelle rammer er på plads.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_11",
+   "kind": "recital",
+   "number": "11",
+   "label": "(11)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC og støttekontoret har bidraget positivt til den konsekvente gennemførelse af rammebestemmelserne for elektronisk kommunikation. Der er dog stadig betydelige forskelle mellem medlemsstaterne med hensyn til reguleringspraksis, hvilket berører virksomheder, der udøver grænseoverskridende virksomhed eller er aktive i et betydeligt antal medlemsstater, herunder i områder, hvor BEREC-retningslinjerne findes, men kunne udvikles yderligere. For yderligere at bidrage til udviklingen af det indre marked for elektronisk kommunikation i hele Unionen samt til fremme af adgang til og anvendelse af net med meget høj kapacitet, konkurrencen inden for udbud af elektroniske kommunikationsnet, -tjenester og dertil hørende faciliteter og EU-borgernes interesser har denne forordning til formål at styrke BEREC's rolle. En sådan styrket rolle vil styrke den større rolle, som BEREC spiller som følge af forordning (EU) nr. 531/2012 og (EU) 2015/2120 og direktiv (EU) 2018/1972.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_12",
+   "kind": "recital",
+   "number": "12",
+   "label": "(12)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "På baggrund af markedsudviklingen og den teknologiske udvikling, som ofte medfører en øget grænseoverskridende dimension, og af de hidtidige erfaringer, der er opnået med at forsøge at sikre konsekvent gennemførelse inden for elektronisk kommunikation, er det nødvendigt at bygge videre på BEREC's og støttekontorets arbejde. Deres styring og aktiviteter bør være strømlinede og egnede til de opgaver, de skal udføre. Under hensyntagen til de faste procedurer og de nye opgaver, som BEREC og støttekontoret tildeles, og for at styrke deres effektivitet bør der planlægges øget stabilitet i forvaltningen heraf, og beslutningsprocessen bør forenkles.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_13",
+   "kind": "recital",
+   "number": "13",
+   "label": "(13)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC bør yde ekspertise og skabe tillid på grund af sin uafhængighed, kvaliteten af sin rådgivning og information, gennemsigtigheden i de procedurer og metoder, den opererer efter, og den omhu, hvormed den udfører sine opgaver. BEREC's uafhængighed bør ikke forhindre dens repræsentantskab i at føre drøftelser på grundlag af udkast udarbejdet af arbejdsgrupper.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_14",
+   "kind": "recital",
+   "number": "14",
+   "label": "(14)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kontorets nye officielle navn bør være »Agenturet for Støtte til BEREC« (»BEREC-kontoret«). Betegnelsen »BEREC-kontoret« bør benyttes som agenturets navn i kort form. BEREC-kontoret bør have retlig, administrativ og finansiel selvstændighed. Med henblik herpå er det nødvendigt og hensigtsmæssigt, at BEREC-kontoret bliver et EU-organ, der har status som juridisk person, og som udøver de beføjelser, det tillægges. BEREC-kontoret bør som et decentraliseret EU-agentur arbejde inden for sit mandat og den eksisterende institutionelle ramme. Det bør ikke anses for at repræsentere Unionens holdning udadtil eller for at forpligte Unionen retligt.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_15",
+   "kind": "recital",
+   "number": "15",
+   "label": "(15)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Endvidere bør reglerne for ledelse og drift af BEREC-kontoret, hvor det er relevant, bringes i overensstemmelse med principperne i den fælles erklæring fra Europa-Parlamentet, Rådet og Europa-Kommissionen af 19. juli 2012 om decentraliserede agenturer.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_16",
+   "kind": "recital",
+   "number": "16",
+   "label": "(16)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "EU-institutionerne og de nationale tilsynsmyndigheder bør kunne drage fordel af BEREC's bistand og rådgivning, herunder om de relevante reguleringsmæssige konsekvenser af ethvert anliggende vedrørende den overordnede dynamik på de digitale markeder eller med hensyn til deres forbindelser, drøftelser og udvekslinger med og formidlingen af bedste reguleringspraksis til tredjemand. BEREC bør ud over sit bidrag til Kommissionens offentlige høring efter anmodning rådgive Kommissionen om udarbejdelsen af lovforslag. BEREC bør også kunne yde Europa-Parlamentet og Rådet rådgivning på deres anmodning eller på eget initiativ.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_17",
+   "kind": "recital",
+   "number": "17",
+   "label": "(17)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC har som teknisk organ med ekspertise inden for elektronisk kommunikation, der er sammensat af repræsentanter for de nationale tilsynsmyndigheder og Kommissionen, de bedste forudsætninger for at få overdraget opgaver såsom at bidrage til effektive procedurer på det indre marked for udkast til nationale foranstaltninger for så vidt angår markedsregulering at give de nationale tilsynsmyndigheder og andre kompetente myndigheder de nødvendige retningslinjer til at sikre fælles kriterier og en konsekvent reguleringstilgang og at føre visse registre, databaser og fortegnelser på EU-plan. Dette berører ikke de opgaver, der er fastlagt for de nationale tilsynsmyndigheder, som er tættest på de elektroniske kommunikationsmarkeder og deres lokale forhold.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_18",
+   "kind": "recital",
+   "number": "18",
+   "label": "(18)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "For at udføre sine opgaver bør BEREC fortsætte med at samle ekspertise fra de nationale tilsynsmyndigheder. BEREC bør sigte mod at sikre, at alle nationale tilsynsmyndigheder deltager i udførelsen af dets reguleringsopgaver og dets funktion. Med henblik på at styrke BEREC, gøre det mere repræsentativt og sikre dets ekspertise, erfaring og kendskab til den konkrete situation på alle de nationale markeder bør hver medlemsstat sikre, at dens nationale tilsynsmyndighed har de nødvendige økonomiske og menneskelige ressourcer til at kunne deltage fuldt ud i BEREC's arbejde.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_19",
+   "kind": "recital",
+   "number": "19",
+   "label": "(19)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "I lyset af den stigende konvergens mellem sektorer, der yder elektroniske kommunikationstjenester, og den horisontale dimension af de reguleringsspørgsmål, som er relateret til deres udvikling, bør BEREC og BEREC-kontoret have mulighed for at samarbejde med nationale tilsynsmyndigheder, andre EU-organer, -kontorer, -agenturer og rådgivende grupper, uanset deres rolle, navnlig Frekvenspolitikgruppen, der blev nedsat ved Kommissionens afgørelse 2002/622/EF, Den Europæiske Tilsynsførende for Databeskyttelse, der blev oprettet ved Europa-Parlamentets og Rådets forordning (EU) 2018/1725, Det Europæiske Databeskyttelsesråd, der blev oprettet ved Europa-Parlamentets og Rådets forordning (EU) 2016/679, Gruppen af Europæiske Tilsynsmyndigheder for Audiovisuelle Medietjenester, der blev nedsat ved Europa-Parlamentets og Rådets direktiv 2010/13/EU, Den Europæiske Unions Agentur for Net- og Informationssikkerhed, der blev oprettet ved Europa-Parlamentets og Rådets forordning (EU) nr. 526/2013, Det Europæiske GNSS-Agentur, der blev oprettet ved Europa-Parlamentets og Rådets forordning (EU) nr. 912/2010, netværket for forbrugerbeskyttelsessamarbejde, der blev oprettet i medfør af Europa-Parlamentets og Rådets forordning (EF) nr. 2006/2004, Det Europæiske Konkurrencenetværk og de europæiske standardiseringsorganisationer samt med eksisterende udvalg (f.eks. Kommunikationsudvalget og Radiofrekvensudvalget). BEREC og BEREC-kontoret bør også kunne samarbejde med medlemsstaternes relevante kompetente myndigheder, der har ansvar for konkurrence, forbrugerbeskyttelse og databeskyttelse, og med tredjelandes kompetente myndigheder, navnlig tilsynsmyndigheder, der er kompetente inden for elektronisk kommunikation, eller grupper af disse myndigheder samt med internationale organisationer, hvis det er nødvendigt for udførelsen af deres opgaver. BEREC bør også kunne konsultere interesserede parter ved hjælp af offentlige høringer.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_20",
+   "kind": "recital",
+   "number": "20",
+   "label": "(20)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC bør have beføjelser til at etablere samarbejdsordninger med kompetente EU-organer, -kontorer, -agenturer og rådgivende grupper, med kompetente myndigheder i tredjelande og med internationale organisationer, som ikke bør skabe retlige forpligtelser. Målet for sådanne samarbejdsordninger kunne f.eks. være at udvikle samarbejdsforhold og udveksle synspunkter om reguleringsspørgsmål. Kommissionen bør sikre, at de nødvendige samarbejdsordninger er i overensstemmelse med Unionens politik og prioriteter, og at BEREC arbejder inden for sit mandat og den eksisterende institutionelle ramme og ikke anses for at repræsentere Unionens holdning udadtil eller for at forpligte Unionen internationalt.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_21",
+   "kind": "recital",
+   "number": "21",
+   "label": "(21)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC bør bestå af repræsentantskabet og arbejdsgrupper. Det roterende formandskab for repræsentantskabet skal sikre kontinuiteten i BEREC's arbejde. Endvidere tilskyndes der til rotation af næstformænd, som repræsenterer forskellige nationale tilsynsmyndigheder.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_22",
+   "kind": "recital",
+   "number": "22",
+   "label": "(22)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC bør kunne handle i Unionens interesse uafhængigt af indblanding udefra, herunder politisk pres og kommerciel indblanding. Det er derfor vigtigt at sikre, at medlemmerne af repræsentantskabet nyder de højeste garantier for personlig og funktionel uafhængighed. Lederen af en national tilsynsmyndighed eller et medlem af dens kollegiale organ eller en af disses stedfortrædere nyder et sådant niveau af personlig og funktionel uafhængighed. Mere konkret bør de handle uafhængigt og objektivt, bør hverken søge eller modtage instrukser i udøvelsen af deres funktioner, og de bør beskyttes mod vilkårlige afskedigelser. Funktionen for suppleanterne i repræsentantskabet kan også udøves af lederen af den nationale tilsynsmyndighed, et medlem af dens kollegiale organ, en af deres stedfortræder eller et andet medlem af personalet i den nationale tilsynsmyndighed, der under handler på vegne af og i overensstemmelse med omfanget af mandatet for medlemmet af repræsentantskabet, der er blevet erstattet.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_23",
+   "kind": "recital",
+   "number": "23",
+   "label": "(23)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Erfaringen har vist, at de fleste af BEREC's opgaver udføres bedst i arbejdsgrupper, som altid bør sikre ens hensyntagen til alle de nationale tilsynsmyndigheders synspunkter og bidrag. Repræsentantskabet bør derfor nedsætte arbejdsgrupper og udnævne deres formænd. De nationale tilsynsmyndigheder bør reagere omgående på en anmodning om udnævnelse for at sikre en hurtig nedsættelse af visse arbejdsgrupper, navnlig dem, der beskæftiger sig med procedurer med frister. Arbejdsgrupperne bør være åbne for deltagelse af eksperter fra Kommissionen. BEREC-kontorets personale bør støtte og bidrage til arbejdsgruppernes aktiviteter.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_24",
+   "kind": "recital",
+   "number": "24",
+   "label": "(24)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Repræsentantskabet og bestyrelsen bør om nødvendigt fra sag til sag kunne invitere enhver, hvis synspunkt kan være af interesse, til at deltage i deres møder som observatør.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_25",
+   "kind": "recital",
+   "number": "25",
+   "label": "(25)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Hvor det er relevant, og afhængigt af tildelingen af opgaver til myndigheder i hver medlemsstat, bør der i den relevante arbejdsgruppe tages hensyn til andre kompetente myndigheders synspunkter, f.eks. gennem høring på nationalt plan eller ved at indbyde disse andre myndigheder til de relevante møder, hvor der er behov for deres ekspertise. Under alle omstændigheder bør BEREC's uafhængighed opretholdes.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_26",
+   "kind": "recital",
+   "number": "26",
+   "label": "(26)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Repræsentantskabet og bestyrelsen bør fungere parallelt, idet førstnævnte hovedsageligt træffer afgørelser i reguleringsmæssige spørgsmål, og sidstnævnte i administrative spørgsmål såsom budget, personale og revision. I princippet og i tillæg til repræsentanterne for Kommissionen bør repræsentanterne for de nationale tilsynsmyndigheder i bestyrelsen være de samme som dem, der er udpeget til repræsentantskabet, men de nationale tilsynsmyndigheder bør kunne udpege andre repræsentanter, der opfylder de samme krav.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_27",
+   "kind": "recital",
+   "number": "27",
+   "label": "(27)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Tidligere blev ansættelsesmyndighedsbeføjelserne udøvet af næstformanden for kontorets forvaltningsudvalg. Denne forordning fastsætter, at bestyrelsen delegerer relevante ansættelsesmyndighedsbeføjelser til direktøren, som bemyndiges til at videredelegere disse beføjelser. Dette skal bidrage til en effektiv forvaltning af BEREC-kontorets personale.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_28",
+   "kind": "recital",
+   "number": "28",
+   "label": "(28)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Repræsentantskabet og bestyrelsen bør afholde mindst to ordinære møder om året. På baggrund af tidligere erfaringer og BEREC's styrkede rolle kan repræsentantskabet eller bestyrelsen være nødt til at afholde yderligere møder.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_29",
+   "kind": "recital",
+   "number": "29",
+   "label": "(29)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Direktøren bør fortsat være BEREC-kontorets repræsentant for så vidt angår retlige og administrative spørgsmål. Bestyrelsen bør udnævne direktøren efter en åben og gennemsigtig udvælgelsesprocedure for at sikre en streng evaluering af kandidaterne og et højt niveau af uafhængighed. Mandatperioden for kontorets administrerende direktør var tidligere på tre år. Det er nødvendigt for direktøren at have en tilstrækkelig lang mandatperiode for at kunne sikre stabilitet og gennemføre en langsigtet strategi for BEREC-kontoret.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_30",
+   "kind": "recital",
+   "number": "30",
+   "label": "(30)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kommissionens delegerede forordning (EU) nr. 1271/2013 bør finde anvendelse på BEREC-kontoret.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_31",
+   "kind": "recital",
+   "number": "31",
+   "label": "(31)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC-kontoret bør yde den nødvendige faglige og administrative bistand til BEREC's arbejde, herunder finansiel, organisatorisk og logistisk bistand, og bør bidrage til BEREC's lovgivningsarbejde.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_32",
+   "kind": "recital",
+   "number": "32",
+   "label": "(32)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "For at sikre BEREC-kontorets selvstændighed og uafhængighed og for at yde bistand til BEREC's arbejde bør BEREC-kontoret råde over sit eget budget, hvor indtægterne hovedsagelig bør komme fra et EU-bidrag. Budgettet bør være tilstrækkeligt og bør afspejle de yderligere opgaver, der er tildelt, og BEREC's og BEREC-kontorets styrkede rolle. Finansieringen af BEREC-kontoret bør ske på grundlag af en aftale med budgetmyndigheden som fastlagt i punkt 31 i den interinstitutionelle aftale af 2. december 2013 mellem Europa-Parlamentet, Rådet og Kommissionen om budgetdisciplin, om samarbejde om budgetmæssige anliggender og om forsvarlig økonomisk forvaltning.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_33",
+   "kind": "recital",
+   "number": "33",
+   "label": "(33)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC-kontoret bør have tilstrækkeligt personale til at udføre sine opgaver. Alle opgaver, som BEREC-kontoret tildeles, herunder faglige og administrative tjenester, der bistår BEREC med at udføre sine reguleringsopgaver, sammen med overholdelse af finansforordningen, personalevedtægten og andre gældende forskrifter, og den øgede vægt af driftsmæssige opgaver, som BEREC-kontoret skal løse i forhold til de administrative opgaver, bør vurderes og afspejles behørigt i ressourceplanen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_34",
+   "kind": "recital",
+   "number": "34",
+   "label": "(34)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "For yderligere at udvide den konsekvente gennemførelse af rammebestemmelserne for elektronisk kommunikation bør repræsentantskabet, arbejdsgrupperne og bestyrelsen være åbne over for deltagelse af tilsynsmyndigheder fra tredjelande, der er kompetente inden for elektronisk kommunikation, hvor disse tredjelande har indgået aftaler med Unionen herom, såsom EØS/EFTA-lande og kandidatlande.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_35",
+   "kind": "recital",
+   "number": "35",
+   "label": "(35)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "I overensstemmelse med princippet om gennemsigtighed bør BEREC og BEREC-kontoret, hvor det er relevant, offentliggøre informationer om deres arbejde på deres webside. BEREC bør navnlig offentliggøre alle endelige dokumenter, der er udarbejdet under udførelsen af dets opgaver, f.eks. udtalelser, retningslinjer, rapporter, henstillinger, fælles holdninger og bedste praksisser samt alle undersøgelser, der bestilles for at støtte dets opgaver. BEREC og BEREC-kontoret bør også offentliggøre ajourførte lister over deres opgaver og ajourførte lister over medlemmer, suppleanter og andre deltagere i deres organisatoriske organers møder og interesseerklæringer fra medlemmerne af repræsentantskabet, medlemmer af bestyrelsen og direktøren.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_36",
+   "kind": "recital",
+   "number": "36",
+   "label": "(36)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC, understøttet af BEREC-kontoret, bør kunne deltage i kommunikationsaktiviteter inden for sit kompetenceområde, som ikke er til skade for BEREC's kerneopgaver. Indholdet i og gennemførelsen af BEREC's kommunikationsstrategi bør være konsekvent, objektivt, relevant og koordineret med Kommissionens og de øvrige institutioners strategier og aktiviteter for at tage hensyn til Unionens image. BEREC-kontorets kommunikationsaktiviteter bør gennemføres i henhold til relevante kommunikations- og formidlingsplaner, som bestyrelsen har vedtaget.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_37",
+   "kind": "recital",
+   "number": "37",
+   "label": "(37)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC og BEREC-kontoret bør for at kunne udføre deres opgaver effektivt have ret til at anmode om alle nødvendige informationer fra Kommissionen, de nationale tilsynsmyndigheder og som en sidste udvej andre myndigheder og virksomheder. Anmodninger om informationer bør begrundes, bør stå i et rimeligt forhold til formålet og bør ikke påføre adressaterne urimelige byrder. De nationale tilsynsmyndigheder bør samarbejde med BEREC og BEREC-kontoret og levere rettidige og nøjagtige informationer for at sikre, at BEREC og BEREC-kontoret er i stand til at opfylde deres opgaver. BEREC og BEREC-kontoret bør også ud fra princippet om loyalt samarbejde give Kommissionen, de nationale tilsynsmyndigheder og andre kompetente myndigheder de nødvendige informationer. Der bør, hvor det er relevant, sikres en fortrolig behandling af informationerne. Når BEREC vurderer, om en anmodning er behørigt begrundet, bør det tage hensyn til, om de informationer, der anmodes om, vedrører udførelsen af opgaver, der udelukkende er tillagt de relevante myndigheder.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_38",
+   "kind": "recital",
+   "number": "38",
+   "label": "(38)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC-kontoret bør oprette et fælles informations- og kommunikationssystem for at undgå overlappende anmodninger om informationer og lette kommunikationen mellem alle involverede myndigheder.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_39",
+   "kind": "recital",
+   "number": "39",
+   "label": "(39)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "For at sikre et højt niveau af fortrolighed og undgå interessekonflikter bør de regler om disse forhold, der gælder for medlemmerne af BEREC's og BEREC-kontorets organisatoriske organer, finde anvendelse på deres suppleanter.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_40",
+   "kind": "recital",
+   "number": "40",
+   "label": "(40)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Da denne forordning pålægger BEREC og BEREC-kontoret nye opgaver, og de kan blive pålagt yderligere opgaver ved andre EU-retsakter, bør Kommissionen foretage en regelmæssig evaluering af BEREC's og BEREC-kontorets virksomhed og effektiviteten af deres institutionelle struktur i et skiftende digitalt miljø. Hvis Kommissionen som følge resultatet af evalueringen finder, at den institutionelle struktur ikke er hensigtsmæssig for udførelsen af BEREC's og BEREC-kontorets opgaver, og navnlig for at sikre den konsekvente gennemførelse af rammebestemmelserne for elektronisk kommunikation, bør den undersøge alle muligheder for at forbedre denne struktur.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_41",
+   "kind": "recital",
+   "number": "41",
+   "label": "(41)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Støttekontoret, der blev oprettet som et fællesskabsorgan med status som juridisk person ved forordning (EF) nr. 1211/2009, afløses af det BEREC-kontor, der oprettes ved nærværende forordning, for så vidt angår ethvert ejendomsforhold, enhver aftale, herunder hjemstedsaftalen, enhver retlig forpligtelse, enhver ansættelseskontrakt, enhver økonomisk forpligtelse og ethvert økonomisk ansvar. BEREC-kontoret bør overtage støttekontorets personale, hvis rettigheder og pligter ikke bør påvirkes. For at sikre kontinuiteten i BEREC's og støttekontorets arbejde bør deres repræsentanter, dvs. formanden og næstformændene for repræsentantskabet, forvaltningsudvalget og den administrerende direktør, fortsætte i embedet indtil deres mandatperiode udløber.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_42",
+   "kind": "recital",
+   "number": "42",
+   "label": "(42)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Et betydeligt antal forbrugere i de fleste medlemsstater forlader sig stadig på traditionel international kommunikation som f.eks. telefonopkald og SMS-beskeder, trods det at et stigende antal af forbrugerne har adgang til nummeruafhængige interpersonelle kommunikationstjenester til deres internationale telefonibehov til lavere priser end traditionelle tjenester eller uden pengebetaling.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_43",
+   "kind": "recital",
+   "number": "43",
+   "label": "(43)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kommissionen foreslog i 2013 en konsekvensanalyseret forordning, som omfattede en bestemmelse med reguleringsmæssige foranstaltninger gældende for EU-intern kommunikation. Supplerende data om markedet for EU-intern kommunikation blev indsamlet fra 2017 til 2018 af BEREC og af Kommissionen gennem en kommissionsundersøgelse og Eurobarometer. Som det fremgår af disse oplysninger, hersker der stadigvæk betydelige prisforskelle, både inden for fastnet- og mobilkommunikation, mellem indenlandsk tale- og SMS-kommunikation og kommunikation, der terminerer i en anden medlemsstat, med betragtelige prisudsving mellem lande, udbydere og tarifpakker og mellem talekommunikation i mobil- og fastnet. Udbydere af offentligt tilgængelige nummerbaserede interpersonelle kommunikationstjenester tager ofte forbrugsbaserede priser for EU-intern kommunikation, der langt overstiger de indenlandske tariffer, plus supplerende omkostninger. I gennemsnit synes standardprisen for et EU-internt fastnet- eller mobilopkald at være tre gange højere end standardprisen for et indenlandsk opkald, og standardprisen for en EU-intern SMS-besked mere end to gange højere end en indenlandsk SMS. Disse aritmetiske gennemsnit dækker dog over betydelige forskelle medlemsstaterne imellem. I nogle tilfælde kan standardprisen for et EU-internt opkald være op til otte gange højere end standardprisen for indenlandske opkald. Som følge heraf er forbrugerne i flere medlemsstater udsat for meget høje priser for EU-intern kommunikation. Disse høje priser påvirker hovedsageligt forbrugerne, navnlig dem, der foretager sådanne opkald sjældent eller har et lavt forbrug, hvilket udgør det store flertal af forbrugere, der anvender EU-intern kommunikation. Samtidig udbyder flere udbydere særtilbud, der er specielt attraktive for erhvervskunder og forbrugere med et betydeligt forbrug af EU-intern kommunikation. Sådanne tilbud beregnes ofte ikke på grundlag af et faktisk forbrug og kan bestå af et vist antal EU-interne taleminutter eller SMS-beskeder til et fast månedligt beløb (tillægstilbud), eller at et vist antal EU-interne taleminutter eller SMS-beskeder inkluderes i den månedlige ydelse for taleminutter eller SMS-beskeder, enten uden noget tillæg eller med et mindre tillæg. Betingelserne for disse tilbud er dog ofte ikke attraktive for forbrugere med et kun lejlighedsvist, uforudsigeligt eller relativt lavt forbrug af EU-intern kommunikation. Disse forbrugere risikerer derfor at betale urimeligt høje priser for deres EU-interne kommunikation og bør beskyttes.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_44",
+   "kind": "recital",
+   "number": "44",
+   "label": "(44)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Desuden udgør høje priser for EU-intern kommunikation en hindring for det indre markeds funktion, eftersom de modvirker søgning efter og køb af varer og tjenesteydelser hos en udbyder beliggende i en anden medlemsstat. Det er derfor nødvendigt at fastsætte specifikke og forholdsmæssige grænser for den pris, som udbydere af offentligt tilgængelige nummerbaserede interpersonelle kommunikationstjenester kan kræve af forbrugere for EU-intern kommunikation, for at fjerne sådanne høje priser.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_45",
+   "kind": "recital",
+   "number": "45",
+   "label": "(45)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Når udbydere af offentligt tilgængelige nummerbaserede interpersonelle kommunikationstjenester opkræver betaling fra deres forbrugere for EU-intern kommunikation med takster, der helt eller delvist er baseret på forbrug af sådanne tjenester, også i tilfælde af forbrugsbaseret modregning i en månedlig eller forudbetalt ydelse for sådanne tjenester, bør disse takster ikke overstige 0,19 EUR pr. minut for opkald og 0,06 EUR pr. SMS-besked. Disse lofter svarer til de maksimumpriser, der i øjeblikket gælder for henholdsvis regulerede roamingopkald og SMS-beskeder. Når forbrugerne roamer i Unionen, nyder de godt af beskyttelsen fra taleeurotariffen og SMS-eurotariffen, der gradvis er blevet erstattet af roaming til hjemmetakst. Disse lofter betragtes også som et passende benchmark for fastsættelsen af maksimumtaksten for reguleret EU-intern kommunikation i fem år med start den 15. maj 2019. Loftets nuværende niveau udgør et enkelt, gennemsigtigt og gennemprøvet sikkerhedsnet for beskyttelse mod høje priser og er passende som et loft for detailpriserne på al reguleret EU-intern kommunikation. Både roamingopkald i hele Unionen og EU-interne opkald deler lignende omkostningsstruktur.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_46",
+   "kind": "recital",
+   "number": "46",
+   "label": "(46)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Lofterne bør give udbyderne af offentligt tilgængelige nummerbaserede interpersonelle kommunikationstjenester mulighed for at få dækket deres omkostninger og således sikre en forholdsmæssig intervention på markedet for både mobil- og fastnetopkald. Lofterne vil kun finde direkte anvendelse på takster baseret på faktisk forbrug. De bør have en disciplinerende virkning også på de tilbud, hvor en vis mængde EU-intern kommunikation er inkluderet, uden at der opkræves særskilt betaling herfor, eftersom forbrugerne kan vælge at gå over til en forbrugsbaseret tarif for deres EU-interne kommunikation. Lofterne bør gælde for EU-interne kommunikationsmængder, der går ud over dem, der er inkluderet i en pakke, og for hvilke der opkræves særskilt betaling. Foranstaltningen bør på forholdsmæssig vis sikre, at forbrugere med et lavt forbrug af EU-intern kommunikation er beskyttet mod høje priser, og bør samtidig kun have behersket indvirkning på udbyderne.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_47",
+   "kind": "recital",
+   "number": "47",
+   "label": "(47)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Udbydere af offentligt tilgængelige nummerbaserede interpersonelle kommunikationstjenester bør være i stand til at foreslå deres forbrugere alternative tariftilbud for international kommunikation med forskellige takster for reguleret EU-intern kommunikation, og forbrugere bør frit kunne vælge sådanne tilbud udtrykkeligt og når som helst og uden betaling skifte tilbage, selv ved tilbud, som forbrugeren indgik inden sådanne bestemmelsers ikrafttræden. Kun alternative tilbud om international kommunikation, der f.eks. dækker alle eller nogle tredjelande, bør, når de accepteres af en forbruger, kunne frigøre en udbyder fra dennes forpligtelse til ikke at overskride lofterne for reguleret EU-intern kommunikation. Andre fordele som f.eks. subsidieret terminaludstyr eller nedslag i forbindelse med andre elektroniske kommunikationstjenester, der tilbydes af udbydere til forbrugere, er del af den normale konkurrencemæssige interaktion og bør ikke påvirke anvendeligheden af prislofter for reguleret EU-intern kommunikation.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_48",
+   "kind": "recital",
+   "number": "48",
+   "label": "(48)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Nogle udbydere af offentligt tilgængelige nummerbaserede interpersonelle kommunikationstjenester kan blive betydeligt mere påvirket end flertallet af andre udbydere i Unionen af et prisloft for reguleret EU-intern kommunikation. Dette kan navnlig være tilfældet for de udbydere, der genererer en særlig stor del af deres indtægter eller driftsoverskud ved EU-intern kommunikation, eller hvis indenlandske marginer er lave i forhold til branchebenchmarks. Som en følge af marginkomprimering for så vidt angår reguleret EU-intern kommunikation vil en udbyder måske ikke kunne bevare sin indenlandske afregningsmodel. Sådanne scenarier er højst usandsynlige, eftersom maksimumpriserne klart ligger over omkostningerne ved at udbyde EU-intern kommunikation. For at tackle sådanne ekstraordinære scenarier på en forholdsmæssig måde bør de nationale tilsynsmyndigheder dog kunne indrømme en undtagelse efter anmodning fra denne udbyder i begrundede og ekstraordinære tilfælde.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_49",
+   "kind": "recital",
+   "number": "49",
+   "label": "(49)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "En undtagelse bør kun indrømmes, når en udbyder i forhold til et relevant benchmark fastlagt af BEREC kan vise, at denne er betydeligt mere påvirket end de fleste andre udbydere i Unionen, og at denne påvirkning i betragtelig grad svækker udbyderens kapacitet til at bevare sin afregningsmodel for indenlandsk kommunikation. Når en national tilsynsmyndighed indrømmer en undtagelse, skal den fastlægge det maksimumprisniveau, som en udbyder kan anvende for reguleret EU-intern kommunikation, og som gør det muligt for den at bevare et konkurrencedygtigt prisniveau for indenlandsk kommunikation. En sådan undtagelse bør begrænses til et år og kan fornys, hvis udbyderen viser, at betingelserne for en undtagelse fortsat er opfyldt.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_50",
+   "kind": "recital",
+   "number": "50",
+   "label": "(50)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "I lyset af proportionalitetsprincippet bør anvendeligheden af prisloftet for reguleret EU-intern kommunikation være tidsbegrænset og bør udløbe fem år efter dets ikrafttræden. En sådan begrænset varighed bør gøre det muligt at foretage en passende vurdering af virkningerne af foranstaltningerne og evaluering af, i hvilket omfang der fortsat er behov for at beskytte forbrugerne.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_51",
+   "kind": "recital",
+   "number": "51",
+   "label": "(51)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "For at sikre en EU-dækkende konsekvent, rettidig og yderst effektiv beskyttelse af forbrugere, der er negativt påvirket af de betydelige prisforskelle for EU-intern kommunikation, bør sådanne bestemmelser finde direkte anvendelse ved at blive fastsat i en forordning. Den mest passende forordning med henblik herpå er forordning (EU) 2015/2120, som blev vedtaget efter en konsekvensanalyse, som bl.a. foreslog en bestemmelse om EU-intern kommunikation som et nødvendigt middel til at gennemføre det indre marked for elektronisk kommunikation. De sandsynlige virkninger på udbyderes indkomst genereret af udbud af EU-intern kommunikation er yderligere begrænset som følge af anvendelsen af taleeurotariffen og sms-eurotariffen for roaming, som loft for både fastnet- og mobilkommunikation, der fungerer som en sikkerhedsmekanisme, og af det bevis, der fremgår af BEREC's analyse fra 2018, på et betydeligt fald i de relevante mængder af fastnettrafik, der er påvirket af foranstaltningen i den mellemliggende periode. Disse bestemmelser bør derfor indføres som en ændring til forordning (EU) 2015/2120, der også bør tilpasses for at sikre, at medlemsstaterne vedtager regler om sanktioner for overtrædelse af sådanne bestemmelser.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_52",
+   "kind": "recital",
+   "number": "52",
+   "label": "(52)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Målene for denne forordning, nemlig at sikre den konsekvente gennemførelse af rammebestemmelserne for elektronisk kommunikation, navnlig i forbindelse med grænseoverskridende aspekter og gennem effektive procedurer på det indre marked for udkast til nationale foranstaltninger, og at sikre, at forbrugerne ikke opkræves urimeligt høje priser for at foretage nummerbaseret interpersonel kommunikation, der originerer i forbrugerens indenlandske udbyders medlemsstat og terminerer ved et fastnet- eller mobilnummer i en anden medlemsstat, kan ikke i tilstrækkelig grad opfyldes af medlemsstaterne, men kan på grund af foranstaltningens omfang og virkninger bedre nås på EU-plan; Unionen kan derfor vedtage foranstaltninger i overensstemmelse med nærhedsprincippet, jf. artikel 5 i traktaten om Den Europæiske Union. I overensstemmelse med proportionalitetsprincippet, jf. nævnte artikel, går denne forordning ikke videre, end hvad der er nødvendigt for at nå disse mål.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_53",
+   "kind": "recital",
+   "number": "53",
+   "label": "(53)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Denne forordning ændrer og udvider bestemmelserne i forordning (EF) nr. 1211/2009. Eftersom der skal foretages væsentlige ændringer, bør nævnte retsakt af klarhedshensyn ophæves. Henvisninger til den ophævede forordning bør betragtes som henvisninger til nærværende forordning —",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_1",
+   "kind": "article",
+   "number": "1",
+   "label": "Artikel 1",
+   "title": "Genstand og anvendelsesområde",
+   "path": [
+    "KAPITEL I — GENSTAND OG ANVENDELSESOMRÅDE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ved denne forordning oprettes Sammenslutningen af Europæiske Tilsynsmyndigheder inden for Elektronisk Kommunikation (»BEREC«) og Agenturet for Støtte til BEREC (»BEREC-kontoret«).",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC og BEREC-kontoret skal henholdsvis erstatte og efterfølge Sammenslutningen af Europæiske Tilsynsmyndigheder inden for Elektronisk Kommunikation og kontoret, som blev oprettet ved forordning (EF) nr. 1211/2009.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_2",
+   "kind": "article",
+   "number": "2",
+   "label": "Artikel 2",
+   "title": "BEREC-kontoret som juridisk person",
+   "path": [
+    "KAPITEL I — GENSTAND OG ANVENDELSESOMRÅDE"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC-kontoret er et EU-organ. Det har status som juridisk person.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC-kontoret har i hver medlemsstat den videstgående rets- og handleevne, som vedkommende stats nationale ret tillægger juridiske personer. Det kan navnlig erhverve og afhænde løsøre og fast ejendom og optræde som part i retssager.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC-kontoret repræsenteres af sin direktør.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. BEREC-kontoret har eneansvar for de opgaver, det er blevet tildelt, og de beføjelser, det er blevet tillagt.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. BEREC-kontoret har hjemsted i Riga.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_3",
+   "kind": "article",
+   "number": "3",
+   "label": "Artikel 3",
+   "title": "BEREC's mål",
+   "path": [
+    "KAPITEL II — BEREC's MÅL OG OPGAVER"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC handler inden for anvendelsesområdet for forordning (EU) nr. 531/2012 og (EU) 2015/2120 og direktiv (EU) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC forfølger de mål, der er fastsat i artikel 3 i direktiv (EU) 2018/1972. BEREC tilstræber navnlig at sikre den konsekvente gennemførelse af rammebestemmelserne for elektronisk kommunikation inden for det i stk. 1 i denne artikel omhandlede anvendelsesområde.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC udfører sine opgaver uafhængigt, upartisk, gennemsigtigt og rettidigt.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. BEREC trækker på den ekspertise, der findes hos de nationale tilsynsmyndigheder.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. I overensstemmelse med artikel 9, stk. 3, i direktiv (EU) 2018/1972 sikrer hver medlemsstat, at dens nationale tilsynsmyndighed er i stand til at deltage fuldt ud i arbejdet i BEREC's organisatoriske organer.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. I de medlemsstater, hvor mere end én national tilsynsmyndighed er ansvarlig i henhold til direktiv (EU) 2018/1972, koordinerer disse nationale tilsynsmyndigheder med hinanden efter behov.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_4",
+   "kind": "article",
+   "number": "4",
+   "label": "Artikel 4",
+   "title": "BEREC's reguleringsopgaver",
+   "path": [
+    "KAPITEL II — BEREC's MÅL OG OPGAVER"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC har følgende reguleringsopgaver:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) at bistå og rådgive de nationale tilsynsmyndigheder, Europa- Parlamentet, Rådet og Kommissionen og samarbejde med de nationale tilsynsmyndigheder og Kommissionen, efter anmodning eller på eget initiativ, i forbindelse med ethvert teknisk anliggende vedrørende elektronisk kommunikation inden for sit kompetenceområde.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) at bistå og rådgive Kommissionen efter anmodning i forbindelse med udarbejdelse af forslag til lovgivning inden for elektronisk kommunikation, herunder vedrørende alle foreslåede ændringer af denne forordning eller direktiv (EU) 2018/1972",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) at afgive udtalelser, jf. forordning (EU) nr. 531/2012 og direktiv (EU) 2018/1972, navnlig om: i) bilæggelse af grænseoverskridende tvister i overensstemmelse med artikel 27 i direktiv (EU) 2018/1972 ii) udkast til nationale foranstaltninger vedrørende det indre markeds procedurer for markedsregulering i overensstemmelse med artikel 32, 33 og 68 i direktiv (EU) 2018/1972 iii) udkast til afgørelser og henstillinger om harmonisering i overensstemmelse med artikel 38 og 93 i direktiv (EU) 2018/1972 iv) end-to-end-forbindelse mellem slutbrugere i overensstemmelse med artikel 61, stk. 2, i direktiv (EU) 2018/1972 v) fastsættelse af en fælles maksimal EU-dækkende termineringstakst for taleopkald i mobilnet og en fælles maksimal EU-dækkende termineringstakst for taleopkald i fastnet i overensstemmelse med artikel 75 i direktiv (EU) 2018/1972 vi) en skabelon til aftaleresumé i overensstemmelse med artikel 102 i direktiv (EU) 2018/1972 vii) den generelle tilladelses nationale gennemførelse og funktion og virkningen heraf på det indre markeds funktion i overensstemmelse med artikel 122, stk. 3, i direktiv (EU) 2018/1972 viii) hvor det er relevant, markedsudviklingen og den teknologiske udvikling vedrørende de forskellige typer elektroniske kommunikationstjenester og deres indvirkning på anvendelsen af afsnit III i del III i direktiv (EU) 2018/1972 i overensstemmelse med nævnte direktivs artikel 123, stk. 1",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) at opstille retningslinjer for gennemførelsen af Unionens rammebestemmelser om elektronisk kommunikation, navnlig som omhandlet i forordning (EU) nr. 531/2012 og (EU) 2015/2120 og direktiv (EU) 2018/1972, hvad angår: i) skabelonen for anmeldelser i overensstemmelse med artikel 12 i direktiv (EU) 2018/1972 ii) den konsekvente gennemførelse af forpligtelser for så vidt angår geografiske undersøgelser og prognoser i overensstemmelse med artikel 22 i direktiv (EU) 2018/1972 iii) relevante kriterier for at fremme en ensartet anvendelse af artikel 61, stk. 3, i direktiv (EU) 2018/1972 iv) fælles tilgange til identifikation af nettermineringspunktet i forskellige nettopologier i overensstemmelse med artikel 61, stk. 7, i direktiv (EU) 2018/1972 v) fælles tilgange til at imødekomme transnational efterspørgsel blandt slutbrugere i overensstemmelse med artikel 66 i direktiv (EU) 2018/1972 vi) minimumskriterier for et standardtilbud i overensstemmelse med artikel 69 i direktiv (EU) 2018/1972 vii) fremme af de nationale tilsynsmyndigheders ensartede anvendelse af betingelserne i artikel 76, stk. 1, og kriterierne i bilag IV til direktiv (EU) 2018/1972 viii) kriterierne for, at et net anses for at være et net med meget høj kapacitet i overensstemmelse med artikel 82 i direktiv (EU) 2018/1972 ix) fælles kriterier for vurdering af evnen til at forvalte nummerressourcer og af risikoen for udtømning af nummerressourcer i overensstemmelse med artikel 93 i direktiv (EU) 2018/1972 x) relevante tjenestekvalitetsparametre, anvendte målemetoder, indhold og form af de oplysninger, der offentliggøres, og kvalitetscertificeringsordninger i overensstemmelse med artikel 104 i direktiv (EU) 2018/1972 xi) hvordan det vurderes, om effektiviteten af offentlige varslingssystemer i henhold til artikel 110, stk. 2, i direktiv (EU) 2018/1972 svarer til effektiviteten den i nævnte artikels stk. 1 xii) engrosadgang til roamingtjenester i overensstemmelse med artikel 3, stk. 8, i forordning (EU) nr. 531/2012 xiii) gennemførelsen af de nationale tilsynsmyndigheders forpligtelser for så vidt angår adgang til det åbne internet i overensstemmelse med artikel 5, stk. 3, i forordning (EU) 2015/2120 xiv) de kriterier, som de nationale tilsynsmyndigheder skal tage i betragtning ved vurderingen af bæredygtigheden af indenlandske afregningsmodeller i overensstemmelse med artikel 5a, stk. 6, i forordning (EU) 2015/2120.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) at udstede andre retningslinjer for at sikre den konsekvente gennemførelse af rammebestemmelserne for elektronisk kommunikation og konsekvente reguleringsmæssige afgørelser fra de nationale tilsynsmyndigheder på eget initiativ eller efter anmodning fra en national tilsynsmyndighed, Europa-Parlamentet, Rådet eller Kommissionen, navnlig angående reguleringsmæssige spørgsmål, der berører et betydeligt antal medlemsstater eller har et grænseoverskridende element",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) hvor det er relevant, at deltage i peer review-forummet vedrørende udkast til foranstaltninger om udvælgelsesprocedurer i overensstemmelse med artikel 35 i direktiv (EU) 2018/1972",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) at deltage i spørgsmål vedrørende dens kompetence for så vidt angår markedsregulering og konkurrence i forbindelse med radiofrekvenser i overensstemmelse med artikel 4 i direktiv (EU) 2018/1972",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) at foretage analyser af potentielle transnationale markeder i overensstemmelse med artikel 65 i direktiv (EU) 2018/1972 og af den transnationale efterspørgsel blandt slutbrugere i overensstemmelse med artikel 66 i nævnte direktiv.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) at overvåge og indsamle oplysninger og, hvor det er relevant, gøre ajourførte oplysninger om anvendelsen af forordning (EU) nr. 531/2012 offentligt tilgængelige i overensstemmelse med nævnte forordnings artikel 16 og 19",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) at aflægge rapport om tekniske anliggender inden for sit kompetenceområde, navnlig om: i) den praktiske anvendelse af de udtalelser og retningslinjer, der er omhandlet i litra c), d) og e) ii) medlemsstaternes bedste praksis for at understøtte definitionen af en passende bredbåndsinternetadgangstjeneste i overensstemmelse med artikel 84 i direktiv (EU) 2018/1972 iii) udviklingen i pris- og forbrugsmønstre for både indenlandske tjenester og roamingtjenester, udviklingen i de faktiske engrosroamingtakster for ubalanceret trafik, forholdet mellem detailpriser, engrostakster og engrosomkostninger for roamingtjenester samt tariffers gennemskuelighed og sammenlignelighed i overensstemmelse med artikel 19 i forordning (EU) nr. 531/2012 iv) resultaterne af de årlige rapporter, som de nationale tilsynsmyndigheder skal forelægge i overensstemmelse med artikel 5 i forordning (EU) 2015/2120 ved offentliggørelse af en årlig sammenfattende rapport v) markedsudviklingen inden for den elektroniske kommunikationssektor en gang om året",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) at fremsætte henstillinger og fælles holdninger og formidle bedste reguleringspraksis til de nationale tilsynsmyndigheder for at tilskynde til en konsekvent og bedre gennemførelse af reguleringsrammen for elektronisk kommunikation",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) at etablere og vedligeholde en database over i) anmeldelser sendt til de nationale tilsynsmyndigheder fra virksomheder, som er omfattet af en generel tilladelse i overensstemmelse med artikel 12 i direktiv (EU) 2018/1972 ii) nummerressourcer med ret til ekstraterritorial anvendelse i Unionen i overensstemmelse med artikel 93, stk. 4, fjerde afsnit, i direktiv (EU) 2018/1972 iii) hvor det er relevant, medlemsstaternes E.164-alarmnumre i overensstemmelse med artikel 109, stk. 8, tredje afsnit, i direktiv (EU) 2018/1972",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) at vurdere behovet for reguleringsmæssig nyskabelse og koordinere tiltag mellem de nationale tilsynsmyndigheder for at muliggøre udviklingen af ny innovativ elektronisk kommunikation",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) at fremme moderniseringen, koordineringen og standardiseringen af de nationale tilsynsmyndigheders indsamling af data, ved at sådanne data gøres tilgængelige for offentligheden i et åbent, genanvendeligt og maskinlæsbart format på BEREC's websted og den europæiske dataportal, med forbehold af intellektuelle ejendomsrettigheder, reglerne om beskyttelse af personoplysninger og den påkrævede fortrolighedsgrad",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "o) at udføre andre opgaver, som det tildeles ved EU-retsakter, navnlig ved forordning (EU) nr. 531/2012 og (EU) 2015/2120 og direktiv (EU) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC offentliggør sine reguleringsopgaver og ajourfører disse oplysninger, når den tildeles nye opgaver.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC offentliggør alle sine endelige udtalelser, retningslinjer, rapporter, henstillinger, fælles holdninger og bedste praksisser og alle bestilte undersøgelser samt relevante dokumentudkast med henblik på de offentlige høringer, der er omhandlet i stk. 5.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Uden at dette berører overensstemmelse med relevant EU-ret, tager de nationale tilsynsmyndigheder og Kommissionen størst muligt hensyn til alle retningslinjer, udtalelser, henstillinger, fælles holdninger og bedste praksisser vedtaget af BEREC med det formål at sikre den konsekvente gennemførelse af rammebestemmelserne for elektronisk kommunikation inden for det anvendelsesområde, der er omhandlet i artikel 3, stk. 1. Hvis en national tilsynsmyndighed fraviger retningslinjerne i stk. 1, litra e), skal dette begrundes.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. BEREC hører, hvor det er relevant, interesserede parter og giver dem lejlighed til at fremsætte bemærkninger inden for en rimelig frist, der fastsættes under hensyn til sagens kompleksitet. Bortset fra under helt ekstraordinære omstændigheder må denne frist ikke være kortere end 30 dage. BEREC offentliggør resultaterne af sådanne offentlige høringer, jf. dog artikel 38. Sådanne høringer skal finde sted så tidligt som muligt i beslutningsprocessen.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. BEREC kan, hvor det er relevant, høre og samarbejde med relevante nationale myndigheder, f.eks. dem, der er kompetente inden for konkurrence, forbrugerbeskyttelse og databeskyttelse.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. BEREC kan, hvor det er relevant, samarbejde med kompetente EU-organer, -kontorer, -agenturer og rådgivende grupper, og med kompetente myndigheder i tredjelande og med internationale organisationer i overensstemmelse med artikel 35, stk. 1.",
+     "para": "7",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_5",
+   "kind": "article",
+   "number": "5",
+   "label": "Artikel 5",
+   "title": "BEREC-kontorets opgaver",
+   "path": [
+    "KAPITEL III — BEREC-KONTORETS OPGAVER"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC-kontoret har følgende opgaver:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) at yde faglig og administrativ bistand til BEREC, navnlig i forbindelse med dets reguleringsopgaver i henhold til artikel 4",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) at indsamle oplysninger fra nationale tilsynsmyndigheder og at udveksle og videregive oplysninger vedrørende de reguleringsopgaver, som BEREC er tildelt i henhold til artikel 4",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) at udarbejde regelmæssige udkast til rapporter på baggrund af de oplysninger, der er omhandlet i litra b), om specifikke aspekter af udviklingen på det europæiske elektroniske kommunikationsmarked, f.eks. roaming- og benchmarkingrapporter, som skal aflægges til BEREC",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) at formidle bedste reguleringspraksis blandt nationale tilsynsmyndigheder i overensstemmelse med artikel 4, stk. 1, litra k)",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) at bistå BEREC i at oprette og vedligeholde registre og databaser i overensstemmelse med artikel 4, stk. 1, litra l)",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) at bistå BEREC med at oprette og forvalte et informations- og kommunikationssystem i overensstemmelse med artikel 41",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) at bistå BEREC med at udføre offentlige høringer i overensstemmelse med artikel 4, stk. 5",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) at bistå ved forberedelsen af arbejdet og yde anden administrativ og indholdsrelateret støtte for at sikre, at repræsentantskabet fungerer problemfrit",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) at bistå med at oprette arbejdsgrupper efter anmodning fra repræsentantskabet, bidrage til reguleringsarbejdet og yde administrativ bistand for at sikre, at disse grupper fungerer problemfrit",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) at udføre andre opgaver, det er tildelt ved denne forordning eller ved andre EU-retsakter.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_6",
+   "kind": "article",
+   "number": "6",
+   "label": "Artikel 6",
+   "title": "BEREC's organisatoriske struktur",
+   "path": [
+    "KAPITEL IV — BEREC's ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC omfatter:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) et repræsentantskab",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) arbejdsgrupper.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_7",
+   "kind": "article",
+   "number": "7",
+   "label": "Artikel 7",
+   "title": "Repræsentantskabets sammensætning",
+   "path": [
+    "KAPITEL IV — BEREC's ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Repræsentantskabet består af et medlem fra hver medlemsstat. Hvert medlem har stemmeret. Hvert medlem udpeges af den nationale tilsynsmyndighed, der har hovedansvaret for det løbende tilsyn med markedet for elektroniske kommunikationsnet og -tjenester i henhold til direktiv/EU) 2018/1972. Medlemmet udpeges blandt lederen af den nationale tilsynsmyndighed, et medlem af dens kollegiale organ eller en af deres stedfortrædere.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Hvert medlem af repræsentantskabet har en suppleant, der er udpeget af den nationale tilsynsmyndighed. Suppleanten er medlemmets stedfortræder i vedkommendes fravær. Suppleanten udpeges blandt lederen af den nationale tilsynsmyndighed, et medlem af dens kollegiale organ, en af deres stedfortrædere eller den nationale tilsynsmyndigheds personale.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Medlemmerne af repræsentantskabet og deres suppleanter udpeges på grundlag af deres viden inden for elektronisk kommunikation og under hensyntagen til relevante ledelsesmæssige, administrative og budgetmæssige kvalifikationer. Med henblik på at sikre kontinuiteten i repræsentantskabets arbejde bestræber alle nationale tilsynsmyndigheder med udpegelsesbeføjelser sig på at begrænse udskiftningen af deres medlemmer og, hvor det er muligt, også deres suppleanter og tilstræber at opnå en ligelig repræsentation af mænd og kvinder.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Kommissionen deltager uden stemmeret i alle repræsentantskabets drøftelser og skal være repræsenteret på et passende højt niveau.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Der offentliggøres en ajourført liste over medlemmerne af repræsentantskabet og deres suppleanter, sammen med deres interesseerklæringer.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_8",
+   "kind": "article",
+   "number": "8",
+   "label": "Artikel 8",
+   "title": "Repræsentantskabets uafhængighed",
+   "path": [
+    "KAPITEL IV — BEREC's ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Uden at det berører dets medlemmer, der handler på vegne af deres respektive nationale tilsynsmyndigheder handler repræsentantskabet, når det udfører de opgaver, det er pålagt, uafhængigt og objektivt i Unionens interesser uanset eventuelle særlige nationale eller personlige interesser.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Uden at dette berører koordineringen i henhold til artikel 3, stk. 6, må medlemmerne af repræsentantskabet og deres suppleanter hverken søge eller modtage instrukser fra nogen regering, institution, person eller noget andet organ.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_9",
+   "kind": "article",
+   "number": "9",
+   "label": "Artikel 9",
+   "title": "Repræsentantskabets funktioner",
+   "path": [
+    "KAPITEL IV — BEREC's ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "Repræsentantskabet har følgende funktioner:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) at udføre BEREC's reguleringsopgaver, jf. artikel 4, nemlig at vedtage de udtalelser, retningslinjer, rapporter, henstillinger og fælles holdninger og formidle bedste praksisser, der er omhandlet i nævnte artikel, og i den forbindelse basere sig på det arbejde, der udføres af arbejdsgrupperne",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) at træffe administrative afgørelser vedrørende tilrettelæggelsen af BEREC's arbejde",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) at vedtage BEREC's årlige arbejdsprogram som omhandlet i artikel 21",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) at vedtage årsrapporten om BEREC's virksomhed som omhandlet i artikel 22",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) at vedtage regler for forebyggelse og håndtering af interessekonflikter som omhandlet i artikel 42 samt blandt medlemmerne af arbejdsgrupperne",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) at vedtage detaljerede regler om aktindsigt i BEREC's dokumenter i overensstemmelse med artikel 36",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) at vedtage og ajourføre regelmæssigt de kommunikations- og formidlingsplaner, der er omhandlet i artikel 37, stk. 2, baseret på en behovsanalyse",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) at vedtage med et flertal på to tredjedele af sine medlemmer og offentliggøre sin forretningsorden",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) at bemyndige sammen med direktøren indgåelsen af samarbejdsordninger med de kompetente EU-organer, -kontorer, -agenturer og rådgivende grupper og med kompetente myndigheder i tredjelande og internationale organisationer i overensstemmelse med artikel 35",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) at nedsætte arbejdsgrupper og udnævne deres formænd",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "k) at bistå direktøren for BEREC-kontoret med vejledning vedrørende udførelsen af BEREC-kontorets opgaver.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_10",
+   "kind": "article",
+   "number": "10",
+   "label": "Artikel 10",
+   "title": "Repræsentantskabets formand og næstformænd",
+   "path": [
+    "KAPITEL IV — BEREC's ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Repræsentantskabet udnævner med et flertal på to tredjedele af sine medlemmer en formand og mindst to næstformænd blandt sine medlemmer.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. En af næstformændene påtager sig automatisk formandens opgaver, hvis denne er forhindret i at udføre sit hverv.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Formandens mandatperiode er på et år og kan forlænges én gang. Med henblik på at sikre kontinuitet af BEREC's arbejde fungerer den kommende formand, hvor det er muligt, som næstformand i et år inden sin mandatperiode som formand. Forretningsordenen skal give mulighed for en kortere periode, hvis den kommende formand ikke kan fungere som næstformand i et år inden sin mandatperiode som formand.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Uden at det berører repræsentantskabets rolle i forhold til formandens opgaver, må formanden hverken søge eller modtage instrukser fra nogen regering, institution, person eller noget andet organ.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Formanden aflægger rapport til Europa-Parlamentet og Rådet om udførelsen af BEREC's opgaver efter anmodning herom.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_11",
+   "kind": "article",
+   "number": "11",
+   "label": "Artikel 11",
+   "title": "Repræsentantskabets møder",
+   "path": [
+    "KAPITEL IV — BEREC's ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Formanden indkalder til repræsentantskabets møder og udarbejder dagsordenerne for disse møder, som offentliggøres.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Repræsentantskabet afholder mindst to ordinære møder om året. Der indkaldes til ekstraordinære møder på formandens initiativ efter anmodning fra mindst tre af dets medlemmer eller efter anmodning fra Kommissionen.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC-kontorets direktør deltager i alle drøftelserne, men har ikke stemmeret.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Repræsentantskabet kan invitere enhver, hvis udtalelser kan være af interesse, til at deltage i møderne som observatør.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Repræsentantskabets medlemmer og suppleanter kan, såfremt forretningsordenen tillader det, bistås af deres rådgivere eller andre eksperter under møderne.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. BEREC-kontoret varetager sekretariatsopgaverne for repræsentantskabet.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_12",
+   "kind": "article",
+   "number": "12",
+   "label": "Artikel 12",
+   "title": "Repræsentantskabets afstemningsregler",
+   "path": [
+    "KAPITEL IV — BEREC's ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Repræsentantskabet træffer afgørelser med simpelt flertal blandt sine medlemmer, medmindre andet er fastsat i denne forordning eller i en anden EU-retsakt. Der kræves et flertal på to tredjedele af medlemmerne af repræsentantskabet for udtalelser, jf. artikel 4, stk. 1, litra c, nr. ii) og v), og retningslinjer, jf. artikel 4, stk. 1, litra d), nr. i)- iv), vi), vii) og xi). Uanset dette stykkes andet afsnit kan repræsentantskabet med simpelt flertal og fra sag til sag beslutte at vedtage udtalelser, jf. nærværende forordnings artikel 4, stk. 1, litra c, nr. ii), i forbindelse med udkast til foranstaltninger, der er omfattet af artikel 76, stk. 2, i direktiv (EU) 2018/1972, der fører til iværksættelse af proceduren i direktivets artikel 33, stk. 5. Repræsentantskabets afgørelser offentliggøres og skal angive ethvert forbehold fra ethvert medlem efter vedkommendes anmodning.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Hvert medlem har én stemme. Hvis et medlem ikke er til stede, er suppleanten berettiget til at udøve dette medlems stemmeret. Hvis et medlem eller suppleanten ikke er til stede, kan afstemningsrettighederne delegeres til et andet medlem. Formanden kan delegere stemmeretten i alle tilfælde. Formanden deltager i afstemningen, medmindre denne har delegeret stemmeretten.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. De nærmere afstemningsregler, herunder reglerne for, hvornår et medlem kan handle på vegne af et andet medlem, samt reglerne for beslutningsdygtighed og fristerne for mødeindkaldelse fastsættes i repræsentantskabets forretningsorden. Endvidere sikrer forretningsordenen, at medlemmerne af repræsentantskabet modtager fuldstændige dagsordener og udkast til forslag forud for hvert møde, så de har mulighed for at stille ændringsforslag inden afstemningen. Forretningsordenen kan bl.a. fastsætte en procedure for afstemning i hastesager og andre praktiske arrangementer for repræsentantskabets arbejde.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_13",
+   "kind": "article",
+   "number": "13",
+   "label": "Artikel 13",
+   "title": "Arbejdsgrupper",
+   "path": [
+    "KAPITEL IV — BEREC's ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Repræsentantskabet kan, når det er begrundet, og navnlig for at gennemføre BEREC's årlige arbejdsprogram, nedsætte arbejdsgrupper.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Repræsentantskabet udnævner formændene for arbejdsgrupperne, der repræsenterer forskellige nationale tilsynsmyndigheder, når det er muligt.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Arbejdsgrupperne skal være åbne for deltagelse af eksperter fra alle de nationale tilsynsmyndigheder, der deltager i BEREC's arbejde, og Kommissionen. Arbejdsgrupperne skal også være åbne for deltagelse af BEREC-kontorets personale, der skal bidrage til lovgivningsarbejdet i og yde administrativ støtte til arbejdsgrupperne. For så vidt angår de arbejdsgrupper, som er nedsat for at varetage de opgaver, der er omhandlet i artikel 4, stk. 1, litra c), nr. ii), deltager eksperterne fra Kommissionen ikke. For så vidt angår de arbejdsgrupper, som er nedsat for at varetage de opgaver, der er omhandlet i denne forordnings artikel 4, stk. 1, litra c), nr. iv), vi), vii) og viii), litra d), nr. i), ii), ix) x) og xi), litra j), nr. ii), og litra l), samt, hvor det er relevant, denne forordnings artikel 4, stk. 1, litra c), nr. iii), og litra j), nr. i), skal der tages hensyn til synspunkterne fra eksperter fra andre kompetente myndigheder, der er meddelt i henhold til artikel 5, stk. 4, i direktiv (EU) 2018/1972. Repræsentantskabet eller formændene for arbejdsgrupperne kan om nødvendigt fra sag til sag invitere individuelle eksperter, der er anerkendt som kompetente på det pågældende område, til at deltage i arbejdsgruppernes møder.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Repræsentantskabet vedtager en forretningsorden, hvor den praktiske gennemførelse af arbejdsgruppernes arbejde fastlægges.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_14",
+   "kind": "article",
+   "number": "14",
+   "label": "Artikel 14",
+   "title": "BEREC-kontorets organisatoriske struktur",
+   "path": [
+    "KAPITEL V — BEREC-KONTORETS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC-kontoret omfatter:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) en bestyrelse",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) en direktør.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_15",
+   "kind": "article",
+   "number": "15",
+   "label": "Artikel 15",
+   "title": "Bestyrelsens sammensætning",
+   "path": [
+    "KAPITEL V — BEREC-KONTORETS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Bestyrelsen består af de personer, der er udpeget som medlemmer af repræsentantskabet, og én højtstående repræsentant for Kommissionen. Hver medlem af bestyrelsen har stemmeret. Hver enkelt national tilsynsmyndighed med udpegelsesbeføjelser, jf. artikel 7, stk. 1, andet afsnit, må udpege en anden person end medlemmet af repræsentantskabet som medlem af bestyrelsen. Denne person skal være lederen af den nationale tilsynsmyndighed, et medlem af dens kollegiale organ eller en af deres stedfortrædere.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Hvert medlem af bestyrelsen har en suppleant, som er medlemmets stedfortræder i vedkommendes fravær. Suppleanterne for hvert medlem er de personer, der er udpeget som suppleanter for repræsentantskabets medlemmer. Kommissionens repræsentant har også en suppleant. Hver enkelt national tilsynsmyndighed med udpegelsesbeføjelser, jf. artikel 7, stk. 1, andet afsnit, må udpege en anden person end suppleanten for medlemmet af repræsentantskabet som suppleant for medlemmet af bestyrelsen. Denne person skal være lederen af den nationale tilsynsmyndighed, et medlem af dens kollegiale organ, en af deres stedfortræder eller den nationale tilsynsmyndigheds personale.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Medlemmerne af bestyrelsen og deres suppleanter må hverken søge eller modtage instrukser fra nogen regering, institution, person eller noget organ.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Der offentliggøres en ajourført liste over medlemmer af bestyrelsen og deres suppleanter, sammen med deres interesseerklæringer.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_16",
+   "kind": "article",
+   "number": "16",
+   "label": "Artikel 16",
+   "title": "Bestyrelsens administrative funktioner",
+   "path": [
+    "KAPITEL V — BEREC-KONTORETS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Bestyrelsen har følgende administrative funktioner:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) at fastsætte overordnede retningslinjer for BEREC-kontorets virksomhed og en gang om året vedtage BEREC-kontorets samlede programmeringsdokument med et flertal på to tredjedele af medlemmerne under hensyntagen til udtalelse fra Kommissionen og i overensstemmelse med artikel 23",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) at vedtage med et flertal på to tredjedele af sine medlemmer BEREC-kontorets årsbudget og varetage andre funktioner i relation til BEREC-kontorets budget i henhold til kapitel VII",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) at vedtage, offentliggøre og foretagere en vurdering af den konsoliderede årlige aktivitetsrapport om BEREC-kontorets aktiviteter, jf. artikel 27 og senest den 1. juli hvert år forelægge Europa-Parlamentet, Rådet, Kommissionen og Revisionsretten både rapporten og sin vurdering",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) at vedtage de finansielle bestemmelser, der gælder for BEREC-kontoret i henhold til artikel 29",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) at vedtage en strategi til bekæmpelse af svig, som står i et rimeligt forhold til de relevante risici for svig under hensyntagen til en cost-benefit-analyse af de foranstaltninger, der skal iværksættes",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) at sikre passende opfølgning på resultater og henstillinger fra interne eller eksterne revisionsrapporter og evalueringer samt fra undersøgelser foretaget af Det Europæiske Kontor for Bekæmpelse af Svig (OLAF)",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) at vedtage regler for forebyggelse og håndtering af interessekonflikter som omhandlet i artikel 42, stk. 3",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) at vedtage og regelmæssigt ajourføre de kommunikations- og formidlingsplaner, der er omhandlet i artikel 37, stk. 2, baseret på en behovsanalyse",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) at vedtage sin forretningsorden",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) at vedtage gennemførelsesbestemmelser til vedtægten for tjenestemænd i Den Europæiske Union og ansættelsesvilkårene for de øvrige ansatte i Den Europæiske Union i overensstemmelse med artikel 110 deri",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) at udøve med hensyn til BEREC-kontorets personale de beføjelser, som vedtægten for tjenestemænd tillægger ansættelsesmyndigheden, og som ansættelsesvilkårene for de øvrige ansatte tillægger den myndighed, der har kompetence til at indgå ansættelseskontrakter (»ansættelsesmyndighedsbeføjelser«), jf. dog afgørelsen i stk. 2, første afsnit",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) at udnævne direktøren og, hvis det er relevant, forlænge direktørens ansættelsesperiode eller afskedige vedkommende i overensstemmelse med artikel 32",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) at udpege en regnskabsfører, som skal være fuldstændig uafhængig i udøvelsen af sit hverv, og som vedtægten for tjenestemænd og ansættelsesvilkårene for de øvrige ansatte finder anvendelse på.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) at træffe alle afgørelser vedrørende etablering af BEREC-kontorets interne strukturer og om nødvendigt ændring heraf under hensyntagen til BEREC-kontorets aktivitetsbehov og forsvarlig budgetforvaltning. For så vidt angår første afsnit, litra n), kan BEREC-kontoret udpege den samme regnskabsfører som et andet EU-organ eller en anden EU-institution. Navnlig kan BEREC-kontoret og Kommissionen aftale, at Kommissionens regnskabsfører også skal fungere som BEREC-kontorets regnskabsfører.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. I overensstemmelse med personalevedtægtens artikel 110 vedtager bestyrelsen i medfør af artikel 2, stk. 1, i vedtægten for tjenestemænd og artikel 6 i ansættelsesvilkårene for de øvrige ansatte en afgørelse om at delegere de relevante ansættelsesmyndighedsbeføjelser til direktøren og fastlægger betingelserne for at suspendere denne delegation af beføjelser. Direktøren bemyndiges til at videredelegere disse beføjelser. Under helt særlige omstændigheder kan bestyrelsen ved en afgørelse midlertidigt suspendere de ansættelsesmyndighedsbeføjelser, der er delegeret til direktøren, og de beføjelser, denne måtte have videredelegeret, og selv udøve dem eller delegere dem til et af sine medlemmer eller en anden ansat end direktøren.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_17",
+   "kind": "article",
+   "number": "17",
+   "label": "Artikel 17",
+   "title": "Bestyrelsens formand og næstformænd",
+   "path": [
+    "KAPITEL V — BEREC-KONTORETS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Bestyrelsens formand og næstformænd er de personer, der er udnævnt som repræsentantskabets formand og næstformænd. Der gælder samme mandatperiode. Uanset første afsnit kan bestyrelsen med et flertal på to tredjedele af sine medlemmer vælge andre af bestyrelsens medlemmer som formand eller næstformand/næstformænd blandt dens medlemmer, der repræsenterer medlemsstaterne. Mandatperioden er den samme som for repræsentantskabets formand og næstformænd.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. En af næstformændene påtager sig automatisk formandens opgaver, hvis denne er forhindret i at udføre sit hverv.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Bestyrelsens formand aflægger rapport til Europa-Parlamentet og Rådet om udførelsen af BEREC-kontorets opgaver efter anmodning herom.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_18",
+   "kind": "article",
+   "number": "18",
+   "label": "Artikel 18",
+   "title": "Bestyrelsens møder",
+   "path": [
+    "KAPITEL V — BEREC-KONTORETS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Bestyrelsesformanden indkalder til bestyrelsesmøder.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktøren for BEREC-kontoret deltager i alle drøftelserne, med undtagelse af dem, der vedrører artikel 32, men har ikke stemmeret.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Bestyrelsen afholder mindst to ordinære møder om året. Formanden indkalder til ekstraordinære møder på eget initiativ, efter anmodning fra Kommissionen eller mindst tre af bestyrelsesmedlemmerne.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Bestyrelsen kan invitere enhver, hvis udtalelser kan være af interesse, til at deltage i møderne som observatør.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Medlemmerne af bestyrelsen og deres suppleanter kan, såfremt forretningsordenen tillader det, bistås af rådgivere eller eksperter under møderne.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. BEREC-kontoret varetager sekretariatsopgaverne for bestyrelsen.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_19",
+   "kind": "article",
+   "number": "19",
+   "label": "Artikel 19",
+   "title": "Bestyrelsens afstemningsregler",
+   "path": [
+    "KAPITEL V — BEREC-KONTORETS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Bestyrelsen træffer afgørelse med simpelt flertal blandt sine medlemmer, medmindre andet er fastsat i denne forordning.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Hvert medlem har én stemme. Hvis et medlem ikke er til stede, er suppleanten berettiget til at udøve stemmeretten. Hvis et medlem og suppleanten ikke er til stede, kan afstemningsrettighederne delegeres til et andet medlem.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Formanden kan delegere stemmeretten i alle tilfælde. Formanden deltager i afstemningen i dennes egenskab af medlem, medmindre denne har delegeret stemmeretten.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. I bestyrelsens forretningsorden fastsættes mere detaljerede afstemningsregler, navnlig reglerne for en procedure for afstemning i hastesager og betingelserne for, at et medlem kan handle på et andet medlems vegne.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_20",
+   "kind": "article",
+   "number": "20",
+   "label": "Artikel 20",
+   "title": "Direktørens ansvarsområder",
+   "path": [
+    "KAPITEL V — BEREC-KONTORETS ORGANISATION"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktøren har ansvaret for den administrative forvaltning af BEREC-kontoret. Direktøren står til ansvar over for bestyrelsen.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktøren bistår formanden for repræsentantskabet og formanden for bestyrelsen ved forberedelsen af møderne i deres respektive organer.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Uden at det berører repræsentantskabets, bestyrelsens og Kommissionens beføjelser, er direktøren uafhængig i udførelsen af sit hverv og må hverken søge eller modtage instrukser fra nogen regering, institution, person eller noget organ.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Direktøren aflægger rapport til Europa-Parlamentet og Rådet om udførelsen af sit hverv efter anmodning herom.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Direktøren er BEREC-kontorets juridiske repræsentant.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Direktøren er ansvarlig for gennemførelsen af BEREC-kontorets opgaver efter vejledning fra repræsentantskabet og bestyrelsen. Direktøren er navnlig ansvarlig for:",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "a) den daglige forvaltning af BEREC-kontoret",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "b) gennemførelse af repræsentantskabets og bestyrelsens administrative afgørelser",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "c) udarbejdelse og forelæggelse for bestyrelsen af det samlede programmeringsdokument, jf. artikel 23",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "d) bistand til repræsentantskabet ved forberedelsen af BEREC's årlige aktivitetsrapport, jf. artikel 22",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "e) bistand til repræsentantskabet ved udarbejdelsen af BEREC's årlige arbejdsprogram, jf. artikel 21",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "f) gennemførelse af det samlede programmeringsdokument og aflæggelse af rapport til bestyrelsen om dets gennemførelse",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "g) udarbejdelse af et udkast til konsolideret årsberetning om BEREC-kontorets virksomhed, jf. artikel 27, og forelæggelse heraf for bestyrelsen til vurdering og godkendelse",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "h) udarbejdelse af en handlingsplan som opfølgning på konklusioner i interne eller eksterne revisionsrapporter og evalueringer samt undersøgelser foretaget af OLAF og aflæggelse af statusrapport mindst en gang om året til bestyrelsen",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "i) beskyttelse af Unionens finansielle interesser gennem forholdsregler til at forebygge svig, korruption og enhver anden ulovlig aktivitet, gennem effektiv kontrol og, hvis der konstateres uregelmæssigheder, inddrivelse af uretmæssigt udbetalte beløb, om nødvendigt gennem administrative foranstaltninger, der er effektive og forholdsmæssige og har en afskrækkende virkning, herunder finansielle sanktioner",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "j) udarbejdelse af BEREC-kontorets strategi for bekæmpelse af svig og forelæggelse heraf for bestyrelsen til godkendelse",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "k) udarbejdelse af udkast til finansielle bestemmelser for BEREC-kontoret",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "l) udarbejdelse af udkast til overslag over indtægter og udgifter for BEREC-kontoret og gennemførelse af dets budget",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "m) bemyndiger sammen med repræsentantskabet indgåelsen af samarbejdsordninger med de kompetente EU-organer, -kontorer, -agenturer og rådgivende grupper og med kompetente myndigheder i tredjelande og internationale organisationer i overensstemmelse med artikel 35.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Direktøren træffer under tilsyn af bestyrelsen de nødvendige foranstaltninger, navnlig med hensyn til fastsættelse af interne administrative instrukser, for at sikre, at BEREC-kontoret fungerer i overensstemmelse med denne forordning.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Direktøren beslutter, med forbehold af forudgående samtykke fra Kommissionen, bestyrelsen og de pågældende medlemsstater, om det er nødvendigt at placere en eller flere ansatte i en eller flere medlemsstater med henblik på at udføre BEREC-kontorets opgaver på en effektiv måde. Afgørelsen fastsætter omfanget af de aktiviteter, der skal udføres, således at unødige omkostninger og overlapning af BEREC-kontorets administrative funktioner undgås. Inden der træffes en sådan afgørelse, angives dens virkninger med hensyn til personaletildeling og budget i det flerårige programmeringsdokument, der er omhandlet i artikel 23, stk. 4.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_21",
+   "kind": "article",
+   "number": "21",
+   "label": "Artikel 21",
+   "title": "BEREC's årlige arbejdsprogram",
+   "path": [
+    "KAPITEL VI — BEREC-PROGRAMMERING"
+   ],
+   "blocks": [
+    {
+     "text": "1. Repræsentantskabet vedtager udkastet til det årlige arbejdsprogram senest den 31. januar i det år, der går forud for det år, som arbejdsprogrammet vedrører. Repræsentantskabet vedtager efter at have hørt Europa-Parlamentet, Rådet og Kommissionen om deres prioriteter og efter at have hørt andre interesserede parter i overensstemmelse med artikel 4, stk. 5, det endelige årlige arbejdsprogram senest den 31. december i det pågældende år.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Repræsentantskabet fremsender det årlige arbejdsprogram til Europa-Parlamentet, Rådet og Kommissionen, så snart det er vedtaget.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_22",
+   "kind": "article",
+   "number": "22",
+   "label": "Artikel 22",
+   "title": "Årsrapport om BEREC's virksomhed",
+   "path": [
+    "KAPITEL VI — BEREC-PROGRAMMERING"
+   ],
+   "blocks": [
+    {
+     "text": "1. Repræsentantskabet vedtager årsrapporten om BEREC's virksomhed.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Repræsentantskabet fremsender årsrapporten til Europa-Parlamentet, Rådet, Kommissionen og Det Europæiske Økonomiske og Sociale Udvalg senest den 15. juni hvert år.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_23",
+   "kind": "article",
+   "number": "23",
+   "label": "Artikel 23",
+   "title": "Årlig og flerårig programmering",
+   "path": [
+    "KAPITEL VII — BEREC-KONTORETS BUDGET OG PROGRAMMERING"
+   ],
+   "blocks": [
+    {
+     "text": "1. Hvert år udarbejder direktøren et udkast til programmeringsdokument, der indeholder den årlige og flerårige programmering (»samlet programmeringsdokument«), jf. artikel 32 i delegeret forordning (EU) nr. 1271/2013, under hensyntagen til Kommissionens retningslinjer. Senest den 31. januar hvert år vedtager bestyrelsen udkastet til samlet programmeringsdokument og sender det til Kommissionen med henblik på dennes udtalelse. Udkastet til samlet programmeringsdokument sendes også til Europa-Parlamentet og til Rådet. Bestyrelsen vedtager derefter det samlede programmeringsdokument under hensyntagen til Kommissionens udtalelse. Den fremsender det samlede programmeringsdokument samt eventuelle efterfølgende ajourføringer til Europa-Parlamentet, Rådet og Kommissionen. Det samlede programmeringsdokument bliver endeligt efter vedtagelse af Unionens almindelige budget, og om nødvendigt justeres det i overensstemmelse hermed.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Det årlige programmeringsdokument skal indeholde detaljerede mål og forventede resultater, herunder resultatindikatorer. Det skal også indeholde en beskrivelse af de foranstaltninger, der skal finansieres, og oplysninger om de finansielle ressourcer og de menneskelige ressourcer, der afsættes til hver foranstaltning, i overensstemmelse med principperne om aktivitetsbaseret budgetlægning og -forvaltning, der er omhandlet i artikel 31. Det årlige programmeringsdokument skal være i overensstemmelse med BEREC's udkast til det årlige arbejdsprogram og det endelige årlige arbejdsprogram som omhandlet i artikel 21 og med BEREC-kontorets flerårige programmeringsdokument, der er omhandlet i nærværende artikels stk. 4. Det skal klart anføres i programmet, hvilke opgaver der er blevet tilføjet, ændret eller slettet i forhold til det foregående finansår.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Bestyrelsen ændrer om nødvendigt det årlige programmeringsdokument efter vedtagelsen af BEREC's endelige årlige arbejdsprogram, jf. artikel 21, og når BEREC eller BEREC-kontoret får tildelt nye opgaver. Væsentlige ændringer af det årlige programmeringsdokument vedtages efter samme procedure som den, der anvendes til at vedtage det oprindelige årlige programmeringsdokument. Bestyrelsen kan delegere beføjelsen til at foretage ikkevæsentlige ændringer i det årlige programmeringsdokument til direktøren.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Det flerårige programmeringsdokument skal indeholde den overordnede strategiske programmering, herunder mål, forventede resultater og resultatindikatorer. Det skal også indeholde ressourceplanen, herunder det flerårige budget og personale. Ressourceplanen ajourføres hvert år. Den strategiske programmering ajourføres efter behov, særlig med henblik på at tage højde for resultatet af den evaluering, der er omhandlet i artikel 48.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. BEREC-kontorets samlede programmeringsdokument skal omfatte gennemførelsen af BEREC's strategi for forbindelser med de kompetente EU-organer, -kontorer, -agenturer og rådgivende grupper, med kompetente myndigheder i tredjelande og med internationale organisationer som omhandlet i artikel 35, stk. 3, foranstaltningerne vedrørende denne strategi og en angivelse af de tilhørende ressourcer.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_24",
+   "kind": "article",
+   "number": "24",
+   "label": "Artikel 24",
+   "title": "Opstilling af budgettet",
+   "path": [
+    "KAPITEL VII — BEREC-KONTORETS BUDGET OG PROGRAMMERING"
+   ],
+   "blocks": [
+    {
+     "text": "1. Hvert år udarbejder direktøren et foreløbigt udkast til overslag over BEREC-kontorets indtægter og udgifter (»udkastet til overslag«) for det følgende regnskabsår, herunder stillingsfortegnelsen, og sender det til bestyrelsen. Oplysningerne i udkastet til overslag skal være i overensstemmelse med det udkast til samlet programmeringsdokument, der er omhandlet i artikel 23, stk. 1.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktøren sender udkastet til overslag til Kommissionen senest den 31. januar hvert år.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Kommissionen sender udkastet til overslag til budgetmyndigheden sammen med forslaget til Unionens almindelige budget.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. På grundlag af udkastet til overslag opfører Kommissionen de beløb, som den anser for nødvendige på baggrund af stillingsfortegnelsen, og det tilskud, der skal ydes over det almindelige budget, i forslaget til Unionens almindelige budget, som forelægges for budgetmyndigheden i henhold til artikel 313 og 314 i traktaten om Den Europæiske Unions funktionsmåde (TEUF).",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Budgetmyndigheden godkender bevillingerne til bidraget til BEREC-kontoret.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Budgetmyndigheden godkender BEREC-kontorets stillingsfortegnelse.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Bestyrelsen vedtager BEREC-kontorets budget. Budgettet bliver endeligt efter den endelige vedtagelse af Unionens almindelige budget. Det tilpasses om nødvendigt i overensstemmelse hermed.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Delegeret forordning (EU) nr. 1271/2013 finder anvendelse på ethvert ejendomsprojekt, hvor det er sandsynligt, at der vil være en væsentlig indvirkning på BEREC-kontorets budget.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_25",
+   "kind": "article",
+   "number": "25",
+   "label": "Artikel 25",
+   "title": "Opstilling af budgettet",
+   "path": [
+    "KAPITEL VII — BEREC-KONTORETS BUDGET OG PROGRAMMERING"
+   ],
+   "blocks": [
+    {
+     "text": "1. Der udarbejdes et overslag over alle BEREC-kontorets indtægter og udgifter for hvert regnskabsår svarende til kalenderåret, og de opføres i BEREC-kontorets budget.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Indtægterne og udgifterne på BEREC-kontorets budget skal balancere.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Med forbehold af andre ressourcer udgøres BEREC-kontorets indtægter af: a) et bidrag fra Unionen b) frivillige finansielle bidrag fra medlemsstaterne eller de nationale tilsynsmyndigheder c) gebyrer for publikationer og andre tjenester leveret af BEREC-kontoret d) bidrag fra tredjelande eller tilsynsmyndigheder med ansvar for elektronisk kommunikation i tredjelande, der deltager i arbejdet i BEREC-kontoret, jf. artikel 35.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. BEREC-kontorets udgifter omfatter bl.a. vederlag til personale, administrations- og infrastrukturudgifter samt driftsudgifter.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_26",
+   "kind": "article",
+   "number": "26",
+   "label": "Artikel 26",
+   "title": "Gennemførelse af budgettet",
+   "path": [
+    "KAPITEL VII — BEREC-KONTORETS BUDGET OG PROGRAMMERING"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktøren gennemfører BEREC-kontorets budget.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktøren sender hvert år Europa-Parlamentet og Rådet alle relevante oplysninger om resultaterne af evalueringsprocedurerne.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_27",
+   "kind": "article",
+   "number": "27",
+   "label": "Artikel 27",
+   "title": "Konsolideret årlig aktivitetsrapport",
+   "path": [
+    "KAPITEL VII — BEREC-KONTORETS BUDGET OG PROGRAMMERING"
+   ],
+   "blocks": [
+    {
+     "text": "Bestyrelsen vedtager den konsoliderede årlige aktivitetsrapport i overensstemmelse med artikel 47 i delegeret forordning (EU) nr. 1271/2013 under hensyntagen til Kommissionens retningslinjer.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_28",
+   "kind": "article",
+   "number": "28",
+   "label": "Artikel 28",
+   "title": "Regnskabsaflæggelse og decharge",
+   "path": [
+    "KAPITEL VII — BEREC-KONTORETS BUDGET OG PROGRAMMERING"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC-kontorets regnskabsfører sender det foreløbige årsregnskab for regnskabsåret til Kommissionens regnskabsfører og Revisionsretten senest den 1. marts i det følgende regnskabsår.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC-kontoret sender en beretning om den budgetmæssige og økonomiske forvaltning til Europa-Parlamentet, Rådet og Revisionsretten senest den 31. marts i det følgende regnskabsår.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Ved modtagelsen af Revisionsrettens bemærkninger til BEREC-kontorets foreløbige regnskab opstiller BEREC-kontorets regnskabsfører på eget ansvar BEREC-kontorets endelige regnskab. Direktøren forelægger det endelige årsregnskab til udtalelse for bestyrelsen.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Bestyrelsen afgiver udtalelse om BEREC-kontorets endelige årsregnskab.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Direktøren sender det endelige årsregnskab ledsaget af bestyrelsens udtalelse til Europa-Parlamentet, Rådet, Kommissionen og Revisionsretten senest den 1. juli efter det afsluttede regnskabsår.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. BEREC-kontoret offentliggør det endelige regnskab i Den Europæiske Unions Tidende senest den 15. november i det følgende år.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Direktøren sender et svar til Revisionsretten på dennes bemærkninger senest den 30. september i det følgende regnskabsår. Direktøren sender ligeledes dette svar til bestyrelsen.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Hvis Europa-Parlamentet anmoder derom, forelægger direktøren det alle de oplysninger, der er nødvendige for, at dechargeproceduren vedrørende det pågældende regnskabsår kan forløbe tilfredsstillende, jf. artikel 165, stk. 3, i Europa-Parlamentets og Rådets forordning (EU, Euratom) 2018/1046.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Efter henstilling fra Rådet, der træffer afgørelse med kvalificeret flertal, meddeler Europa-Parlamentet inden den 15. maj i år N + 2 direktøren decharge for gennemførelsen af budgettet for regnskabsår N.",
+     "para": "9",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_29",
+   "kind": "article",
+   "number": "29",
+   "label": "Artikel 29",
+   "title": "Finansielle regler",
+   "path": [
+    "KAPITEL VII — BEREC-KONTORETS BUDGET OG PROGRAMMERING"
+   ],
+   "blocks": [
+    {
+     "text": "De finansielle regler for BEREC-kontoret vedtages af bestyrelsen efter høring af Kommissionen. De må ikke afvige fra delegeret forordning (EU) nr. 1271/2013, medmindre en sådan afvigelse er nødvendig for BEREC-kontorets drift, og Kommissionen på forhånd har givet sit samtykke.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_30",
+   "kind": "article",
+   "number": "30",
+   "label": "Artikel 30",
+   "title": "Almindelige bestemmelser",
+   "path": [
+    "KAPITEL VIII — BEREC-KONTORETS PERSONALE"
+   ],
+   "blocks": [
+    {
+     "text": "Vedtægten for tjenestemænd og ansættelsesvilkårene for de øvrige ansatte og de regler, som EU-institutionerne i fællesskab har vedtaget for anvendelsen af denne vedtægt og disse ansættelsesvilkår, gælder for BEREC-kontorets personale.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_31",
+   "kind": "article",
+   "number": "31",
+   "label": "Artikel 31",
+   "title": "Antallet af ansatte i BEREC-kontoret",
+   "path": [
+    "KAPITEL VIII — BEREC-KONTORETS PERSONALE"
+   ],
+   "blocks": [
+    {
+     "text": "1. I overensstemmelse med princippet om aktivitetsbaseret forvaltning af menneskelige ressourcer skal BEREC-kontoret have det fornødne personale for at udføre opgaverne.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Antallet af ansatte og de tilhørende finansielle midler foreslås i overensstemmelse med artikel 23, stk. 2 og 4, og artikel 24, stk. 1, under hensyntagen til artikel 5, litra a), og alle andre opgaver, som BEREC-kontoret tildeles ved denne forordning eller andre EU-retsakter, samt nødvendigheden af at overholde de regler, der finder anvendelse på alle Unionens decentraliserede agenturer.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_32",
+   "kind": "article",
+   "number": "32",
+   "label": "Artikel 32",
+   "title": "Udnævnelse af direktøren",
+   "path": [
+    "KAPITEL VIII — BEREC-KONTORETS PERSONALE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktøren ansættes i en stilling som midlertidigt ansat ved BEREC-kontoret i henhold til artikel 2, litra a), i ansættelsesvilkårene for de øvrige ansatte.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktøren udnævnes af bestyrelsen efter en åben og gennemsigtig udvælgelsesprocedure på grundlag af sine kvalifikationer, ledelsesmæssige, administrative og budgetmæssige kompetencer samt relevante kompetencer og erfaringer vedrørende elektroniske kommunikationsnet og -tjenester. Listen over kandidater må ikke foreslås af formanden eller en næstformand alene. De nærmere regler for en procedure til at udvælge antallet af egnede ansøgere og en afstemningsprocedure fastsættes i bestyrelsens forretningsorden.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Ved indgåelsen af kontrakten med direktøren repræsenteres BEREC-kontoret af formanden for bestyrelsen.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Før udnævnelsen opfordres den ansøger, bestyrelsen har valgt, til at afgive en udtalelse til det kompetente udvalg i Europa-Parlamentet og besvare spørgsmål fra udvalgsmedlemmerne.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Direktøren ansættes for en periode på fem år. Ved udgangen af denne periode foretager formanden for bestyrelsen en vurdering, i hvilken der indgår en evaluering af direktørens arbejde og BEREC-kontorets opgaver og udfordringer. Vurderingen sendes til Europa-Parlamentet og Rådet.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Bestyrelsen, der tager udgangspunkt i den i stk. 5 omhandlede vurdering, kan forlænge direktørens ansættelsesperiode én gang, dog højst for en periode på fem år.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Bestyrelsen underretter Europa-Parlamentet, hvis den har til hensigt at forlænge direktørens ansættelsesperiode. I måneden inden en sådan forlængelse kan direktøren opfordres til at afgive en udtalelse til det kompetente udvalg i Europa-Parlamentet og besvare spørgsmål fra udvalgsmedlemmerne.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. En direktør, hvis ansættelsesperiode er blevet forlænget, må ikke deltage i endnu en udvælgelsesprocedure til samme stilling efter udløbet af den samlede periode.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Hvis ansættelsesperioden ikke forlænges, forbliver direktøren ved en afgørelse truffet af bestyrelsen i embedet efter den oprindelige ansættelsesperiodes ophør, indtil der er udnævnt en efterfølger.",
+     "para": "9",
+     "point": ""
+    },
+    {
+     "text": "10. Direktøren kan kun afskediges ved en afgørelse truffet af bestyrelsen efter forslag fra et medlem.",
+     "para": "10",
+     "point": ""
+    },
+    {
+     "text": "11. Afgørelser om udnævnelse af direktøren, forlængelse af dennes ansættelsesperiode og afskedigelse træffes af bestyrelsen ved en afstemning med et flertal på to tredjedele af dens medlemmer.",
+     "para": "11",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_33",
+   "kind": "article",
+   "number": "33",
+   "label": "Artikel 33",
+   "title": "Udstationerede nationale eksperter og andet personale",
+   "path": [
+    "KAPITEL VIII — BEREC-KONTORETS PERSONALE"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC-kontoret kan gøre brug af udstationerede nationale eksperter og andet personale, der ikke er ansat af det. Vedtægten for tjenestemænd og ansættelsesvilkårene for de øvrige ansatte gælder ikke for dette personale.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Bestyrelsen vedtager en afgørelse, der fastsætter bestemmelser for udstationering af nationale eksperter til BEREC-kontoret.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_34",
+   "kind": "article",
+   "number": "34",
+   "label": "Artikel 34",
+   "title": "Privilegier og immuniteter",
+   "path": [
+    "KAPITEL IX — ALMINDELIGE BESTEMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "Protokollen vedrørende Den Europæiske Unions privilegier og immuniteter gælder for BEREC-kontoret og dets personale.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_35",
+   "kind": "article",
+   "number": "35",
+   "label": "Artikel 35",
+   "title": "Samarbejde med EU-organer, tredjelande og internationale organisationer",
+   "path": [
+    "KAPITEL IX — ALMINDELIGE BESTEMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. I det omfang det er nødvendigt for at nå de i denne forordning fastsatte mål og udføre dens opgaver, og uden at det berører medlemsstaternes og EU-institutionernes beføjelser, kan BEREC og BEREC-kontoret samarbejde med de kompetente EU-organer, -kontorer, -agenturer og rådgivende grupper, med kompetente myndigheder i tredjelande og med internationale organisationer. I det øjemed kan BEREC og BEREC-kontoret, forudsat at Kommissionen giver sin forhåndsgodkendelse, etablere samarbejdsordninger. Disse ordninger må ikke skabe retlige forpligtelser.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Repræsentantskabet, arbejdsgrupperne og bestyrelsen skal være åbne over for deltagelse af tilsynsmyndigheder fra tredjelande med hovedansvar inden for elektronisk kommunikation, når disse tredjelande har indgået aftaler med Unionen herom. Der udarbejdes i henhold til de relevante bestemmelser i disse aftaler samarbejdsordninger, hvori det navnlig fastlægges, hvilken art og hvilket omfang de pågældende tredjelandes tilsynsmyndigheders deltagelse uden stemmeret i BEREC's og BEREC-kontorets arbejde skal have, samt på hvilken måde deltagelsen skal ske, herunder bestemmelser om deltagelse i initiativer udført af BEREC, økonomiske bidrag og BEREC-kontorets personale. For så vidt angår personaleanliggender skal disse ordninger under alle omstændigheder være i overensstemmelse med personalevedtægten.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Som led i det årlige arbejdsprogram omhandlet i artikel 21 vedtager repræsentantskabet BEREC's strategi for forbindelser med de kompetente EU-organer, -kontorer, -agenturer og rådgivende grupper, med de kompetente myndigheder i tredjelande og med internationale organisationer vedrørende spørgsmål inden for BEREC's kompetenceområde. Kommissionen, BEREC og BEREC-kontoret indgår en relevant samarbejdsordning med det formål at sikre, at BEREC og BEREC-kontoret arbejder inden for deres mandat og den eksisterende institutionelle ramme.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_36",
+   "kind": "article",
+   "number": "36",
+   "label": "Artikel 36",
+   "title": "Aktindsigt og databeskyttelse",
+   "path": [
+    "KAPITEL IX — ALMINDELIGE BESTEMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Europa-Parlamentets og Rådets forordning (EF) nr. 1049/2001 finder anvendelse på dokumenter, som BEREC og BEREC-kontoret ligger inde med.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Repræsentantskabet og bestyrelsen vedtager senest den 21. juni 2019 de nærmere regler for anvendelse af forordning (EF) nr. 1049/2001.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC's og BEREC-kontorets behandling af personoplysninger er omfattet af forordning (EU) 2018/1725.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Repræsentantskabet og bestyrelsen fastlægger senest den 21. juni 2019 foranstaltninger med henblik på BEREC's og BEREC-kontorets anvendelse af forordning (EU) 2018/1725, herunder foranstaltninger vedrørende udnævnelse af en databeskyttelsesansvarlig for BEREC-kontoret. Disse foranstaltninger fastsættes efter høring af Den Europæiske Tilsynsførende for Databeskyttelse.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_37",
+   "kind": "article",
+   "number": "37",
+   "label": "Artikel 37",
+   "title": "Åbenhed og kommunikation",
+   "path": [
+    "KAPITEL IX — ALMINDELIGE BESTEMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC og BEREC-kontoret udøver deres virksomhed i fuld åbenhed. BEREC og BEREC-kontoret sikrer, at offentligheden og alle interesserede parter modtager passende, objektive, pålidelige og let tilgængelige informationer, navnlig om deres opgaver og resultaterne af deres arbejde.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC, understøttet af BEREC-kontoret, kan deltage i kommunikationsaktiviteter på eget initiativ inden for sit kompetenceområde i henhold til de relevante kommunikations- og formidlingsplaner, som repræsentantskabet har vedtaget. Tildelingen af ressourcer til en sådan støtte til kommunikationsaktiviteter under BEREC-kontorets budget må ikke være til skade for en effektiv udførelse af BEREC's opgaver omhandlet i artikel 4 eller BEREC-kontorets opgaver omhandlet i artikel 5. BEREC-kontorets kommunikationsaktiviteter gennemføres i henhold til de relevante kommunikations- og formidlingsplaner, som bestyrelsen har vedtaget.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_38",
+   "kind": "article",
+   "number": "38",
+   "label": "Artikel 38",
+   "title": "Fortrolighed",
+   "path": [
+    "KAPITEL IX — ALMINDELIGE BESTEMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Med forbehold af artikel 36, stk. 1, og artikel 40, stk. 2, må BEREC og BEREC-kontoret ikke til tredjemand videregive oplysninger, som de behandler eller modtager, og for hvilke der foreligger en begrundet begæring om, at de holdes helt eller delvist fortrolige.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Medlemmerne af repræsentantskabet, bestyrelsen og arbejdsgrupperne samt andre deltagere i deres møder, direktøren, udstationerede nationale eksperter og andet personale, der ikke er ansat af BEREC-kontoret, er, selv efter at deres hverv er ophørt, undergivet fortrolighedskrav som fastsat i artikel 339 i TEUF.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Repræsentantskabet og bestyrelsen fastsætter bestemmelser om, hvordan de i stk. 1 og 2 omhandlede regler om fortrolighed gennemføres i praksis.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_39",
+   "kind": "article",
+   "number": "39",
+   "label": "Artikel 39",
+   "title": "Regler for sikkerhedsbeskyttelse af klassificerede informationer og følsomme ikkeklassificerede informationer",
+   "path": [
+    "KAPITEL IX — ALMINDELIGE BESTEMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC og BEREC-kontoret vedtager deres egne sikkerhedsregler, der svarer til Kommissionens sikkerhedsforskrifter til beskyttelse af EU-klassificerede informationer og følsomme ikkeklassificerede informationer, bl.a. bestemmelser om udveksling, behandling og opbevaring af sådanne informationer, som fastsat i Kommissionens afgørelse (EU, Euratom) 2015/443 og (EU, Euratom) 2015/444. Alternativt kan BEREC eller BEREC-kontoret vedtage en afgørelse om at anvende Kommissionens regler med de fornødne ændringer.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_40",
+   "kind": "article",
+   "number": "40",
+   "label": "Artikel 40",
+   "title": "Udveksling af informationer",
+   "path": [
+    "KAPITEL IX — ALMINDELIGE BESTEMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Efter en begrundet anmodning fra BEREC eller BEREC-kontoret giver Kommissionen og de nationale tilsynsmyndigheder, der er repræsenteret i repræsentantskabet, og andre kompetente myndigheder på en rettidig og præcis måde BEREC eller BEREC-kontoret alle de informationer, der er nødvendige for udførelsen af deres opgaver, forudsat at de har lovlig adgang til de relevante informationer, og at anmodningen om informationer er nødvendig i forhold til arten af den pågældende opgave. BEREC eller BEREC-kontoret kan også anmode om at få leveret sådanne informationer med regelmæssige mellemrum og i nærmere angivne formater. Sådanne anmodninger fremsættes, hvis det er muligt, med anvendelse af fælles indberetningsformater.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Efter en begrundet anmodning fra Kommissionen eller en national tilsynsmyndighed giver BEREC eller BEREC-kontoret på en rettidig og præcis måde alle de informationer, der er nødvendige for, at Kommissionen, den nationale tilsynsmyndighed eller anden kompetent myndighed kan udføre deres opgaver, i henhold til princippet om loyalt samarbejde. Hvis BEREC eller BEREC-kontoret betragter informationerne som fortrolige, skal Kommissionen, den nationale tilsynsmyndighed eller enhver anden berørt kompetent myndighed sikre denne fortrolighed i overensstemmelse med EU-retten og national ret, herunder forordning (EF) nr. 1049/2001. Forretningshemmeligheder må ikke hindre rettidig udveksling af informationer.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Inden BEREC eller BEREC-kontoret anmoder om informationer i henhold til denne artikel og for at undgå overlapning af indberetningsforpligtelserne, skal de tage hensyn til alle relevante eksisterende informationer, der er offentligt tilgængelige.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Hvis de nationale tilsynsmyndigheder ikke stiller informationerne til rådighed rettidigt, kan BEREC eller BEREC-kontoret rette en begrundet anmodning enten til andre nationale tilsynsmyndigheder og andre kompetente myndigheder i den pågældende medlemsstat eller direkte til de berørte virksomheder, der udbyder elektroniske kommunikationsnet og -tjenester samt dertilhørende faciliteter. BEREC eller BEREC-kontoret underretter de nationale tilsynsmyndigheder, der har undladt at give informationerne, om anmodninger i henhold til første afsnit. Efter anmodning fra BEREC eller BEREC-kontoret bistår de nationale tilsynsmyndigheder BEREC i forbindelse med indsamlingen af informationer.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Medlemsstaterne sikrer, at nationale tilsynsmyndigheder og andre kompetente myndigheder har beføjelse til at pålægge andre ansvarlige nationale myndigheder eller virksomheder, der udbyder elektroniske kommunikationsnet og -tjenester, tilhørende faciliteter eller tilknyttede tjenester, at forelægge alle de informationer, der er nødvendige for at udføre deres opgaver som omhandlet i denne artikel. Andre ansvarlige nationale myndigheder eller virksomheder som omhandlet i første afsnit afgiver informationerne, så snart de anmodes herom, under overholdelse af de fastsatte frister og den krævede detaljeringsgrad. Medlemsstaterne sikrer, at de nationale tilsynsmyndigheder og andre kompetente myndigheder har beføjelse til at håndhæve sådanne informationskrav ved at pålægge sanktioner, der er hensigtsmæssige, effektive, står i rimeligt forhold til overtrædelsen og har afskrækkende virkning.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_41",
+   "kind": "article",
+   "number": "41",
+   "label": "Artikel 41",
+   "title": "Informations- og kommunikationssystem",
+   "path": [
+    "KAPITEL IX — ALMINDELIGE BESTEMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC-kontoret opretter og forvalter et informations- og kommunikationssystem, der mindst har følgende funktioner: a) en fælles informationsudvekslingsplatform, der forsyner BEREC, Kommissionen og de nationale tilsynsmyndigheder med de informationer, der er nødvendige for den konsekvente gennemførelse af Unionens rammebestemmelserne for elektronisk kommunikation b) en særlig grænseflade til anmodninger om informationer og meddelelse af disse anmodninger, jf. artikel 40, for adgangen for BEREC, BEREC-kontoret, Kommissionen og de nationale tilsynsmyndigheder c) en platform til tidlig identifikation af behovet for koordinering mellem nationale tilsynsmyndigheder.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Bestyrelsen vedtager de tekniske og funktionelle specifikationer med henblik på indførelse af det informations- og kommunikationssystem, der er omhandlet i stk. 1. Dette system er med forbehold af de intellektuelle ejendomsrettigheder og den nødvendige fortrolighedsgrad.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Det pågældende informations- og kommunikationssystem skal være operationelt senest den 21. juni 2020.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_42",
+   "kind": "article",
+   "number": "42",
+   "label": "Artikel 42",
+   "title": "Interesseerklæringer",
+   "path": [
+    "KAPITEL IX — ALMINDELIGE BESTEMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Medlemmerne af repræsentantskabet og bestyrelsen, direktøren, udstationerede nationale eksperter og andet personale, der ikke er ansat af BEREC-kontoret, afgiver hver især en skriftlig loyalitetserklæring og en interesseerklæring, hvori de anfører, hvorvidt der foreligger direkte eller indirekte interesser, der kan anses for at berøre deres uafhængighed. Sådanne erklæringer udfærdiges ved indtrædelsen, skal være præcise og fuldstændige og ajourføres, når der er risiko for, at der foreligger direkte eller indirekte interesser, der kan anses for at berøre uafhængigheden for den person, der udfærdiger erklæringen. Erklæringerne fra medlemmerne af repræsentantskabet, medlemmerne af bestyrelsen og direktøren offentliggøres.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Medlemmerne af repræsentantskabet, bestyrelsen og arbejdsgrupperne samt andre deltagere i deres møder, direktøren, udstationerede nationale eksperter og andet personale, der ikke er ansat af BEREC-kontoret, gør hver især på præcis og fyldestgørende vis senest ved hvert mødes start opmærksom på eventuelle interesser, som kan anses for at berøre deres uafhængighed med hensyn til de punkter, der er på dagsordenen, og afholder sig fra at deltage i drøftelserne af og afstemningen om de pågældende punkter.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Repræsentantskabet og bestyrelsen vedtager regler for forebyggelse og håndtering af interessekonflikter, og navnlig for den praktiske anvendelse af stk. 1 og 2.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_43",
+   "kind": "article",
+   "number": "43",
+   "label": "Artikel 43",
+   "title": "Bekæmpelse af svig",
+   "path": [
+    "KAPITEL IX — ALMINDELIGE BESTEMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. For at lette bekæmpelsen af svig, korruption og andre retsstridige handlinger i henhold til Europa-Parlamentets og Rådets forordning (EU, Euratom) nr. 883/2013 tiltræder BEREC-kontoret senest den 21. juni 2019 den interinstitutionelle aftale af 25. maj 1999 mellem Europa-Parlamentet, Rådet for Den Europæiske Union og Kommissionen for De Europæiske Fællesskaber om de interne undersøgelser, der foretages af Det Europæiske Kontor for Bekæmpelse af Svig (OLAF), og vedtager de nødvendige bestemmelser, som skal finde anvendelse på alt personale i BEREC-kontoret, ved anvendelse af den model, der findes i bilaget til nævnte aftale.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Revisionsretten har beføjelse til gennem bilagskontrol og inspektion på stedet at kontrollere alle tilskudsmodtagere, kontrahenter og underkontrahenter, der har modtaget EU-midler gennem BEREC-kontoret.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. OLAF kan foretage undersøgelser, herunder kontrol på stedet, i overensstemmelse med de bestemmelser og procedurer, der er fastsat i forordning (EU, Euratom) nr. 883/2013 og Rådets forordning (Euratom, EF) nr. 2185/96, for at fastslå, om der har været tale om svig, korruption eller andre ulovlige aktiviteter, der berører Unionens finansielle interesser, i forbindelse med en aftale om tilskud, en afgørelse om ydelse af tilskud eller en kontrakt finansieret af BEREC-kontoret.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Samarbejdsaftaler med tredjelande og internationale organisationer, kontrakter, aftaler om tilskud og afgørelser om ydelse af tilskud skal indeholde bestemmelser, der udtrykkeligt giver Revisionsretten og OLAF beføjelse til at foretage denne kontrol og disse undersøgelser i overensstemmelse med deres respektive kompetencer, uden at dette berører stk. 1, 2 og 3.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_44",
+   "kind": "article",
+   "number": "44",
+   "label": "Artikel 44",
+   "title": "Ansvar",
+   "path": [
+    "KAPITEL IX — ALMINDELIGE BESTEMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC-kontorets ansvar i kontraktforhold er underlagt den ret, der finder anvendelse på den pågældende kontrakt.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Den Europæiske Unions Domstol (EU-Domstolen) har kompetence til at træffe afgørelse i henhold til en voldgiftsbestemmelse i en kontrakt, som BEREC-kontoret har indgået.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. For så vidt angår ansvar uden for kontraktforhold erstatter BEREC-kontoret i overensstemmelse med de almindelige retsgrundsætninger, der er fælles for medlemsstaternes retssystemer, skader forvoldt af dets tjenestegrene eller af dets ansatte under udførelsen af deres hverv.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. EU-Domstolen har kompetence til at afgøre tvister vedrørende erstatning for de i stk. 3 omhandlede skader.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. De ansattes personlige ansvar over for BEREC-kontoret er underlagt de bestemmelser i vedtægten eller ansættelsesvilkårene for øvrige ansatte, der gælder for de ansatte.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_45",
+   "kind": "article",
+   "number": "45",
+   "label": "Artikel 45",
+   "title": "Administrative undersøgelser",
+   "path": [
+    "KAPITEL IX — ALMINDELIGE BESTEMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC's og BEREC-kontorets virksomhed er underlagt Den Europæiske Ombudsmands undersøgelser i overensstemmelse med artikel 228 i TEUF.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_46",
+   "kind": "article",
+   "number": "46",
+   "label": "Artikel 46",
+   "title": "Sprogordning",
+   "path": [
+    "KAPITEL IX — ALMINDELIGE BESTEMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Forordning nr. 1 finder anvendelse på BEREC-kontoret.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. De oversættelsesopgaver, der er nødvendige af hensyn til BEREC-kontorets funktion, udføres af Oversættelsescentret for Den Europæiske Unions Organer.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_47",
+   "kind": "article",
+   "number": "47",
+   "label": "Artikel 47",
+   "title": "Hjemstedsaftale og driftsvilkår",
+   "path": [
+    "KAPITEL X — AFSLUTTENDE BESTEMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Bestemmelserne vedrørende de lokaler, der skal stilles til rådighed for BEREC-kontoret i værtsmedlemsstaten, og de faciliteter, der skal stilles til rådighed af værtsmedlemsstaten, samt de særlige regler, der finder anvendelse på direktøren, bestyrelsesmedlemmerne, BEREC-kontorets personale og deres familiemedlemmer i værtsmedlemsstaten, fastsættes i en hjemstedsaftale mellem BEREC-kontoret og værtsmedlemsstaten; aftalen indgås med bestyrelsens godkendelse senest den 21. december 2020.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Værtsmedlemsstat sikrer de nødvendige vilkår for, at BEREC-kontoret kan fungere smidigt og effektivt, herunder tilbud om skoleundervisning på flere sprog med et europæisk indhold og hensigtsmæssige transportforbindelser.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_48",
+   "kind": "article",
+   "number": "48",
+   "label": "Artikel 48",
+   "title": "Evaluering",
+   "path": [
+    "KAPITEL X — AFSLUTTENDE BESTEMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. Senest den 21. december 2023 og hvert femte år herefter gennemfører Kommissionen en evaluering i overensstemmelse med Kommissionens retningslinjer for at vurdere BEREC's og BEREC-kontorets resultater i forhold til deres mål, mandat, opgaver og beliggenhed. Ved evalueringen undersøges navnlig eventuelle behov for at ændre BEREC's og BEREC-kontorets struktur eller mandat og de finansielle følger af en sådan ændring.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Hvis Kommissionen finder, at der ikke længere er grund til at videreføre BEREC eller BEREC-kontoret med de mål, det mandat og de opgaver, BEREC er tildelt, kan den foreslå, at denne forordning ændres eller ophæves.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Kommissionen aflægger rapport til Europa-Parlamentet, Rådet og bestyrelsen om resultaterne af evalueringen og skal offentliggøres disse resultater.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_49",
+   "kind": "article",
+   "number": "49",
+   "label": "Artikel 49",
+   "title": "Overgangsbestemmelser",
+   "path": [
+    "KAPITEL X — AFSLUTTENDE BESTEMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC-kontoret afløser det støttekontor, der blev oprettet ved forordning (EF) nr. 1211/2009, for så vidt angår ethvert ejendomsforhold, enhver aftale, enhver retlig forpligtelse, enhver ansættelseskontrakt, enhver økonomisk forpligtelse og ethvert økonomisk ansvar. Nærværende forordning berører ikke rettigheder og forpligtelser for personalet på støttekontoret. Dette personales kontrakter kan forlænges i henhold til nærværende forordning i overensstemmelse med vedtægten for tjenestemænd og ansættelsesvilkårene for de øvrige ansatte og i overensstemmelse med BEREC-kontorets budgetmæssige begrænsninger.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Med virkning fra den 20. december 2018 fungerer den administrerende direktør, der er udnævnt på grundlag af forordning (EF) nr. 1211/2009, som direktør med de funktioner, der er fastsat i nærværende forordning. De øvrige vilkår i den administrerende direktørs kontrakt fortsætter uændret.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Bestyrelsen kan beslutte at forlænge den i nærværende artikels stk. 2 nævnte direktørs ansættelsesperiode for en yderligere periode. Artikel 32, stk. 5 og 6, finder tilsvarende anvendelse. Direktørens samlede ansættelsesperiode må ikke overstige ti år.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Det repræsentantskab og den bestyrelse, der er omhandlet i artikel 7 og 15 i nærværende forordning, sammensættes af medlemmer af det repræsentantskab og det forvaltningsudvalg, der er omhandlet i artikel 4 og 7 i forordning (EF) nr. 1211/2009, indtil der er udpeget nye repræsentanter.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Formændene og næstformændene for repræsentantskabet og forvaltningsudvalget, der er blevet udnævnt på grundlag af forordning (EF) nr. 1211/2009, forbliver i embedet som formand og næstformænd for repræsentantskabet som omhandlet i nærværende forordnings artikel 10 og som formand og næstformænd for bestyrelsen som omhandlet i nærværende forordnings artikel 17 i resten af deres mandatperiode på et år. Udnævnelser af formændene og næstformændene for repræsentantskabet og for forvaltningsudvalget på grundlag af forordning (EF) nr. 1211/2009, der er foretaget før den 20. december 2018, men som strækker sig ud over nævnte dato, respekteres.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Dechargeproceduren med hensyn til det budget, der er godkendt på grundlag af artikel 11 i forordning (EF) nr. 1211/2009, gennemføres i overensstemmelse med reglerne i nævnte forordning.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_50",
+   "kind": "article",
+   "number": "50",
+   "label": "Artikel 50",
+   "title": "Ændring af forordning (EU) 2015/2120",
+   "path": [
+    "KAPITEL X — AFSLUTTENDE BESTEMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "I forordning (EU) 2015/2120 foretages følgende ændringer:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "1) Overskriften affattes således: »Europa-Parlamentets og Rådets forordning (EU) 2015/2120 af 25. november 2015 om foranstaltninger vedrørende adgang til det åbne internet og detailtakster for reguleret EU-intern kommunikation og om ændring af direktiv 2002/22/EF og forordning (EU) nr. 531/2012«.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "2) I artikel 1 indsættes følgende stykke: »3. Ved denne forordning fastsættes også fælles regler med henblik på at sikre, at forbrugerne ikke opkræves urimeligt høje priser for at foretage nummerbaseret interpersonel kommunikation, der originerer i forbrugerens indenlandske udbyders medlemsstat og terminerer ved et fastnet- eller mobilnummer i en anden medlemsstat.«",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "3) I artikel 2, stk. 2, indsættes følgende numre: »3) »reguleret EU-intern kommunikation«: enhver nummerbaseret interpersonel kommunikationstjeneste, der originerer i forbrugerens indenlandske udbyders medlemsstat og terminerer ved et fastnet- eller mobilnummer i den nationale nummerplan i en anden medlemsstat, og for hvilken der opkræves betaling helt eller delvist på grundlag af faktisk forbrug 4) »nummerbaseret interpersonel kommunikationstjeneste« nummerbaseret interpersonel kommunikationstjeneste som defineret i artikel 2, nr. 6), i Europa-Parlamentets og Rådets direktiv (EU) 2018/1972. (*1) Europa-Parlamentets og Rådets direktiv (EU) 2018/1972 af 11. december 2018 om oprettelse af en europæisk kodeks for elektronisk kommunikation (EUT L 321 af 17.12.2018, s. 36).« \"",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "4) Følgende artikel indsættes: »Artikel 5a Detailtakster for reguleret EU-intern kommunikation 1. Fra den 15. maj 2019 må enhver detailpris (eksklusive moms), som forbrugerne skal betale for reguleret EU-intern kommunikation, højst udgøre EUR 0,19 pr. minut for opkald og EUR 0,06 pr. SMS. 2. Uanset forpligtelserne i stk. 1 kan udbydere af reguleret EU-intern kommunikation derudover tilbyde, og forbrugere kan udtrykkeligt vælge, en anden tarif for international kommunikation, herunder reguleret EU-intern kommunikation, end den, der er fastsat i overensstemmelse med stk. 1, hvorved forbrugerne nyder fordel af en anden tarif for reguleret EU-intern kommunikation end den tarif, de ville blive opkrævet, hvis de ikke havde foretaget et sådant valg. Inden forbrugerne vælger en sådan anden tarif, skal udbyderen af reguleret EU-intern kommunikation informere dem om de fordele, de herved går glip af. 3. Hvis en tarif for reguleret EU-intern kommunikation, som omhandlet i stk. 2, overstiger takstlofterne i stk. 1, skal forbrugere, som inden for en frist på to måneder fra den 15. maj 2019 ikke har bekræftet eller bekendtgjort et valg af en tarif, som omhandlet i stk. 2, automatisk tildeles de i stk. 1 fastsatte tariffer. 4. Forbrugere kan gratis skifte fra eller tilbage til en tarif, der er fastsat i stk. 1, inden for én arbejdsdag efter modtagelsen af anmodningen hos udbyderen, og udbyderne skal sikre, at et sådant skifte ikke indebærer betingelser eller begrænsninger med hensyn til andre elementer i abonnementerne end reguleret EU-intern kommunikation. 5. Hvis maksimumpriserne som omhandlet i stk. 1 angives i en anden valuta end euroen, fastsættes de indledende takstlofter i disse valutaer under anvendelse af gennemsnittet af de referencevalutakurser, der offentliggøres den 15. januar, den 15. februar og den 15. marts 2019 af Den Europæiske Centralbank i Den Europæiske Unions Tidende. Takstlofterne i andre valutaer end euroen ændres årligt fra 2020. De årligt ændrede takstlofter i disse valutaer gælder fra den 15. maj under anvendelse af gennemsnittet af de referencevalutakurser, der offentliggøres den 15. januar, den 15. februar og den 15. marts samme år. 6. De nationale tilsynsmyndigheder overvåger markedet og prisudviklingen i reguleret EU-intern kommunikation og rapporterer til Kommissionen. Såfremt en udbyder af reguleret EU-intern kommunikation fastslår, at anvendelsen af det i stk. 1 omhandlede loft på grund af særlige og ekstraordinære omstændigheder, der adskiller udbyderen fra de fleste andre udbydere i Unionen, vil have en væsentlig indvirkning på denne udbyders evne til at fastholde sine eksisterende priser for indenlandsk kommunikation, kan en national tilsynsmyndighed på udbyderens anmodning indrømme en undtagelse fra stk. 1, alene i det omfang det er nødvendigt og i en periode på et år, som kan forlænges. Vurderingen af bæredygtigheden af den indenlandske afregningsmodel baseres på relevante objektive faktorer, der er specifikke for udbyderen af reguleret EU-intern kommunikation samt det indenlandske pris- og indtægtsniveau. Hvis den ansøgende udbyder har løftet den gældende bevisbyrde, fastlægger den nationale tilsynsmyndighed det maksimumprisniveau, der overstiger en eller begge lofter i stk. 1, og som er absolut nødvendig for at sikre, at udbyderens indenlandske afregningsmodel er bæredygtig. BEREC offentliggør retningslinjer vedrørende de kriterier, der skal tages i betragtning af de nationale tilsynsmyndigheder i deres vurderinger.«",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "5) I artikel 6 indsættes følgende stykke: »Medlemsstaterne fastsætter regler for, hvilke sanktioner der skal anvendes ved overtrædelse af artikel 5a, og træffer alle nødvendige foranstaltninger for at sikre, at de iværksættes. Sanktionerne skal være effektive, stå i rimeligt forhold til overtrædelsen og have afskrækkende virkning. Medlemsstaterne giver Kommissionen meddelelse om de regler og foranstaltninger, der er fastsat for at sikre gennemførelsen af artikel 5a, senest den 15. maj 2019 og underretter straks Kommissionen om alle senere ændringer af dem.«",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "6) I artikel 10 tilføjes følgende stykke: »5. Artikel 5a udløber den 14. maj 2024.«",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_51",
+   "kind": "article",
+   "number": "51",
+   "label": "Artikel 51",
+   "title": "Ophævelse",
+   "path": [
+    "KAPITEL X — AFSLUTTENDE BESTEMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "Forordning (EF) nr. 1211/2009 ophæves.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Henvisninger til den ophævede forordning gælder som henvisninger til nærværende forordning og læses i overensstemmelse med sammenligningstabellen i bilaget.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_52",
+   "kind": "article",
+   "number": "52",
+   "label": "Artikel 52",
+   "title": "Ikrafttræden",
+   "path": [
+    "KAPITEL X — AFSLUTTENDE BESTEMMELSER"
+   ],
+   "blocks": [
+    {
+     "text": "Denne forordning træder i kraft på tredjedagen efter offentliggørelsen i Den Europæiske Unions Tidende.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "anx_1",
+   "kind": "annex",
+   "number": "1",
+   "label": "BILAG",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Sammenligningstabel",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Forordning (EF) nr. 1211/2009 Nærværende forordning Artikel 1, stk. 1 Artikel 1 Artikel 1, stk. 2 Artikel 3, stk. 1 Artikel 1, stk. 3 Artikel 3, stk. 2 og 3 Artikel 1, stk. 4 Artikel 3, stk. 4, og artikel 4, stk. 1, litra a) og b) Artikel 2 Artikel 4 Artikel 3 Artikel 4 Artikel 4, stk. 1 Artikel 6 Artikel 4, stk. 2 Artikel 7, stk. 1, 2 og 4, og artikel 8, stk. 1 og 2 Artikel 4, stk. 3 Artikel 11, stk. 4 og 5, og artikel 36 Artikel 4, stk. 4 Artikel 10, stk. 1, 2 og 3 Artikel 4, stk. 5 Artikel 10, stk. 4 Artikel 4, stk. 6 Artikel 11 Artikel 4, stk. 7 Artikel 13 Artikel 4, stk. 8 Artikel 7, stk. 4 Artikel 4, stk. 9 Artikel 12, stk. 1 og 2 Artikel 4, stk. 10 Artikel 12, stk. 3 Artikel 4, stk. 11 Artikel 5 Artikel 5 Artikel 4 Artikel 6, stk. 1 Artikel 2, stk. 1 Artikel 6, stk. 2 Artikel 5 Artikel 6, stk. 3 Artikel 14, stk. 1 Artikel 6, stk. 4 Artikel 2, stk. 2 Artikel 6, stk. 5 Artikel 20 og 31 Artikel 7, stk. 1 Artikel 15, stk. 1 Artikel 7, stk. 2 Artikel 32 Artikel 7, stk. 3 Artikel 20, stk. 6 Artikel 7, stk. 4 Artikel 16, stk. 1, litra k) Artikel 7, stk. 5 Artikel 13 Artikel 8 Artikel 32 Artikel 9 Artikel 20 Artikel 10, stk. 1 Artikel 30 og 34 Artikel 10, stk. 2 Artikel 16, stk. 1, litra j) Artikel 10, stk. 3 Artikel 16, stk. 2 Artikel 10, stk. 4 Artikel 33 Artikel 11 Artikel 25 Artikel 12 Artikel 24 Artikel 13 Artikel 26 Artikel 14 — Artikel 15 Artikel 29 Artikel 16 Artikel 43 Artikel 17 Artikel 4, stk. 5 Artikel 18 Artikel 37 Artikel 19 Artikel 39 og 40 Artikel 20 Artikel 38 Artikel 21 Artikel 42 Artikel 22 Artikel 36 Artikel 23 Artikel 34 Artikel 24 Artikel 44 Artikel 25 Artikel 48 Artikel 26 Artikel 52",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  }
+ ]
+}

@@ -1,0 +1,2822 @@
+{
+ "document": "berec",
+ "version": "original",
+ "lang": "LT",
+ "meta": {
+  "source": "eurlex",
+  "celex": "32018R1971",
+  "kind": "original",
+  "date": "2018-12-11",
+  "built_at": "2026-10-07T10:10:19+00:00",
+  "sources_sha256": {
+   "32018R1971": "590f8e5626249be9c5290accb34f6979dbc431bbfb988d83782c67f56a94065d"
+  },
+  "counts": {
+   "article": 52,
+   "recital": 53,
+   "annex": 1
+  }
+ },
+ "provisions": [
+  {
+   "id": "rct_1",
+   "kind": "recital",
+   "number": "1",
+   "label": "(1)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Europos Parlamento ir Tarybos direktyva (ES) 2018/1972 siekiama Sąjungoje sukurti elektroninių ryšių vidaus rinką ir, padidinus konkurenciją, užtikrinti aukšto lygio investicijas, inovacijas ir vartotojų apsaugą. Ta direktyva taip pat nustatoma daug naujų Europos elektroninių ryšių reguliuotojų institucijos (toliau – BEREC) užduočių, kaip antai priimti gaires tam tikromis temomis, teikti ataskaitas techniniais klausimais, tvarkyti registrus, sąrašus arba duomenų bazes ir teikti nuomones dėl vidaus rinkos procedūrų, susijusių su nacionalinių priemonių dėl rinkos reguliavimo projektais;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_2",
+   "kind": "recital",
+   "number": "2",
+   "label": "(2)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Europos Parlamento ir Tarybos reglamentu (ES) Nr. 531/2012 papildomos ir remiamos, kiek tai susiję su tarptinkliniu ryšiu visoje Sąjungoje, taisyklės, nustatytos elektroninių ryšių reguliavimo sistemoje, ir nustatomos tam tikros BEREC užduotys;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_3",
+   "kind": "recital",
+   "number": "3",
+   "label": "(3)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Europos Parlamento ir Tarybos reglamentu (ES) 2015/2120 BEREC nustatomos papildomos užduotys, susijusios su atvira interneto prieiga. Be to, 2016 m. rugpjūčio 30 d. BEREC gairės dėl nacionalinių reguliavimo institucijų vykdomo Europos tinklo neutralumo taisyklių įgyvendinimo buvo palankiai įvertintos, nes suteikė naudingą paaiškinimą siekiant garantuoti patikimą, laisvą ir atvirą internetą, užtikrinant nuoseklų taisyklių taikymą, kad būtų užtikrintos vienodos ir nediskriminacinės sąlygos srauto atžvilgiu teikiant interneto prieigos paslaugas ir susijusios galutinių paslaugų gavėjų teisės;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_4",
+   "kind": "recital",
+   "number": "4",
+   "label": "(4)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "atsižvelgdama į tai, kad reikia užtikrinti nuoseklios reguliavimo praktikos plėtotę ir nuoseklų Sąjungos elektroninių ryšių reguliavimo sistemos taikymą, Komisijos sprendimu 2002/627/EB Komisija įsteigė Europos elektroninių ryšių tinklų ir paslaugų reguliuotojų grupę, kurios užduotis – patarti ir padėti Komisijai elektroninių ryšių tinklų ir paslaugų vidaus rinkos sutelkimo klausimais ir, žvelgiant plačiau, užtikrinti sąveiką tarp nacionalinių reguliavimo institucijų (toliau – NRI) ir Komisijos;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_5",
+   "kind": "recital",
+   "number": "5",
+   "label": "(5)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC ir Biuras buvo įsteigti Europos Parlamento ir Tarybos reglamentu (EB) Nr. 1211/2009. BEREC pakeitė Europos reguliuotojų grupę ir buvo skirta tam, kad prisidėtų, pirma, prie elektroninių ryšių tinklų ir paslaugų vidaus rinkos plėtros ir, antra, vidaus rinkos veikimo gerinimo siekiant užtikrinti nuoseklų elektroninių ryšių reguliavimo sistemos įgyvendinimą. BEREC veikia kaip NRI tarpusavio ir NRI bei Komisijos bendradarbiavimo forumas, joms vykdant įvairias pareigas pagal Sąjungos reguliavimo sistemą. BEREC buvo įsteigta tam, kad teiktų ekspertines žinias ir veiktų nepriklausomai ir skaidriai;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_6",
+   "kind": "recital",
+   "number": "6",
+   "label": "(6)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC taip pat yra įstaiga, su kuria vyksta Europos Parlamento, Tarybos ir Komisijos svarstymai bei diskusijos elektroninių ryšių srityje, ir yra jų patariamoji įstaiga šioje srityje;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_7",
+   "kind": "recital",
+   "number": "7",
+   "label": "(7)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Biuras buvo įsteigtas kaip juridinio asmens statusą turinti Bendrijos įstaiga, kad vykdytų Reglamente (EB) Nr. 1211/2009 nurodytas užduotis, visų pirma teiktų BEREC profesinės ir administracinės paramos paslaugas. Kad parama BEREC būtų teikiama veiksmingai, BEREC biurui buvo suteikta teisinė, administracinė ir finansinė autonomija;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_8",
+   "kind": "recital",
+   "number": "8",
+   "label": "(8)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Sprendimu 2010/349/ES valstybių narių Vyriausybių atstovai nusprendė, kad Biuro buveinė bus Rygoje. Latvijos Respublikos Vyriausybės ir Biuro susitarimas dėl buveinės įsigaliojo 2011 m. rugpjūčio 5 d.;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_9",
+   "kind": "recital",
+   "number": "9",
+   "label": "(9)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Komisija savo 2015 m. gegužės 6 d. komunikate „Europos bendrosios skaitmeninės rinkos strategija“ numatė, kad 2016 m. pateiks pasiūlymus dėl didelio užmojo elektroninių ryšių reguliavimo sistemos pertvarkymo, kurio tikslas, inter alia, yra užtikrinti veiksmingesnę reguliavimo institucinę struktūrą, kad kuriant tinkamas sąlygas bendrajai skaitmeninei rinkai būtų galima elektroninių ryšių taisykles pritaikyti pagal paskirtį. Tos sąlygos apima itin didelio pralaidumo tinklų diegimą, geriau koordinuotą radijo spektro, skirto belaidžio ryšio tinklams, valdymą ir vienodų sąlygų pažangiems skaitmeniniams tinklams ir novatoriškoms paslaugoms sukūrimą. Tame komunikate buvo nurodyta, kad kintanti rinka ir technologinė aplinka verčia stiprinti institucinę struktūrą didinant BEREC vaidmenį;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_10",
+   "kind": "recital",
+   "number": "10",
+   "label": "(10)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "2016 m. sausio 19 d. rezoliucijoje dėl kuriamo Bendrosios skaitmeninės rinkos akto Europos Parlamentas paragino Komisiją toliau vykdyti bendrosios skaitmeninės rinkos integraciją kartu užtikrinant, kad būtų įdiegta efektyvesnė institucinė struktūra;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_11",
+   "kind": "recital",
+   "number": "11",
+   "label": "(11)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC ir Biuras daug prisidėjo prie to, kad elektroninių ryšių reguliavimo sistema būtų įgyvendinama nuosekliai. Tačiau valstybių narių reguliavimo praktika vis dar labai skiriasi, o tai daro neigiamą poveikį bendrovėms, vykdančioms tarpvalstybinį verslą arba veikiančioms dideliame valstybių narių skaičiuje, įskaitant tas sritis, kuriose BEREC gairės parengtos, tačiau galėtų būti labiau išplėtotos. Šiuo reglamentu siekiama sustiprinti BEREC vaidmenį, kad toliau būtų prisidedama siekiant Sąjungoje plėsti elektroninių ryšių vidaus rinką ir skatinti prieigą prie itin didelio pralaidumo tinklų ir tų tinklų naudojimą, konkurenciją elektroninių ryšių tinklų, paslaugų ir susijusių priemonių teikimo srityje ir Sąjungos piliečių interesų apsaugą. Toks sustiprintas vaidmuo papildytų svarbesnį BEREC vaidmenį, kurį jis atlieka priėmus reglamentus (ES) Nr. 531/2012 ir (ES) Nr. 2015/2120 ir Direktyvą (ES) 2018/1972;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_12",
+   "kind": "recital",
+   "number": "12",
+   "label": "(12)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "atsižvelgiant į rinkos bei technologinius pokyčius, kurie dažnai įgauna vis didesnį tarpvalstybinį mastą, ir į iki šiol įgytą patirtį siekiant užtikrinant nuoseklų reguliavimo sistemos įgyvendinimą elektroninių ryšių srityje, būtina remtis BEREC ir Biuro atliktu darbu. Jų valdymas ir veikla turėtų būti racionalizuoti ir pritaikyti jų užduotims vykdyti. Atsižvelgiant į nustatytas procedūras ir naujas BEREC ir Biurui pavestas užduotis bei siekiant padidinti jų efektyvumą, turėtų būti numatyta daugiau stabilumo jų valdymo atžvilgiu ir turėtų būti supaprastintas sprendimų priėmimo procesas;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_13",
+   "kind": "recital",
+   "number": "13",
+   "label": "(13)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC turėtų teikti ekspertines žinias ir įgyti pasitikėjimą dėl savo nepriklausomumo, savo teikiamų konsultacijų ir informacijos kokybės, savo procedūrų ir veiklos metodų skaidrumo bei atidumo vykdant savo užduotis. BEREC nepriklausomumas neturėtų trukdyti jo Reguliuotojų valdybai priimti sprendimus remiantis darbo grupių pateiktais projektais;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_14",
+   "kind": "recital",
+   "number": "14",
+   "label": "(14)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "naujas oficialus BEREC biuro pavadinimas turėtų būti BEREC paramos agentūra (toliau – BEREC biuras). Pavadinimas „BEREC biuras“ turėtų būti vartojamas kaip sutrumpintas agentūros pavadinimas. BEREC biuras turėtų turėti teisinę, administracinę ir finansinę autonomiją. Tuo tikslu būtina ir tikslinga, kad BEREC biuras būtų Sąjungos įstaiga, turinti juridinio asmens statusą ir besinaudojanti jai suteiktais įgaliojimais. Kadangi ji yra Sąjungos decentralizuota agentūra, BEREC biuras turėtų veikti pagal savo įgaliojimus ir esamą institucinę struktūrą. Neturėtų būti laikoma, kad jis atstovauja Sąjungos pozicijai išorėje ar kad įpareigoja Sąjungą prisiimti teisinių įsipareigojimų;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_15",
+   "kind": "recital",
+   "number": "15",
+   "label": "(15)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "be to, BEREC biurą ir jo veiklą reglamentuojančios taisyklės turėtų, kai tinkama, būti suderintos su 2012 m. liepos 19 d. Europos Parlamento, Tarybos ir Europos Komisijos bendro pareiškimo dėl decentralizuotų agentūrų principais;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_16",
+   "kind": "recital",
+   "number": "16",
+   "label": "(16)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Sąjungos institucijos ir NRI turėtų naudotis BEREC teikiama pagalba ir konsultacijomis, be kita ko, dėl bet kokio su bendra skaitmeninių rinkų dinamika susijusio klausimo atitinkamo reguliuojamojo poveikio arba kiek tai susiję su jų santykiais, diskusijomis ir keitimusi geriausia reguliavimo praktika su trečiosiomis šalimis bei jų sklaida. Be indėlio į Komisijos atliekamas viešas konsultacijas, BEREC turėtų, kai prašoma, konsultuoti Komisiją rengiant pasiūlymus dėl teisėkūros procedūra priimamų aktų. BEREC taip pat turėtų galėti konsultuoti Europos Parlamentą ir Tarybą jų prašymu arba savo iniciatyva;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_17",
+   "kind": "recital",
+   "number": "17",
+   "label": "(17)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC, kaip techninei įstaigai, turinčiai ekspertinių žinių elektroninių ryšių srityje, sudarytai iš NRI ir Komisijos atstovų, tinkamiausia patikėti tokias užduotis, kaip antai prisidėti prie efektyvių vidaus rinkos procedūrų, susijusių su nacionalinių priemonių dėl rinkos reguliavimo projektais, teikti reikiamas gaires NRI ir kitoms kompetentingoms institucijoms, siekiant užtikrinti bendrus kriterijus ir nuoseklų reguliavimo požiūrį, bei Sąjungos lygmeniu tvarkyti tam tikrus registrus, duomenų bazes ir sąrašus. Visa tai nedaro poveikio užduotims, pavestoms NRI, kurios yra arčiausiai elektroninių ryšių rinkų ir jų vietos sąlygų;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_18",
+   "kind": "recital",
+   "number": "18",
+   "label": "(18)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "kad galėtų vykdyti jai pavestas užduotis, BEREC turėtų ir toliau kaupti NRI ekspertines žinias. BEREC, vykdydama savo reguliavimo užduotis ir užtikrindama savo veikimą, turėtų siekti užtikrinti visų NRI dalyvavimą. Kad BEREC būtų sustiprinta, užtikrintas geresnis jos atstovavimas ir išsaugotos jos turimos visų nacionalinių rinkų ekspertinės žinios, patirtis ir žinios apie konkrečią padėtį, kiekviena valstybė narė turėtų užtikrinti, kad jos NRI turėtų tinkamų finansinių ir žmogiškųjų išteklių, kurių reikia norint visapusiškai dalyvauti BEREC darbe;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_19",
+   "kind": "recital",
+   "number": "19",
+   "label": "(19)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "atsižvelgiant į didėjančią elektroninių ryšių paslaugas teikiančių sektorių konvergenciją ir į horizontalųjį su jų plėtra susijusio reguliavimo aspektą, BEREC ir BEREC biurui turėtų būti leidžiama bendradarbiauti, nedarant poveikio jų vaidmeniui, su NRI, kitais Sąjungos organais, įstaigomis, agentūromis ir patariamosiomis grupėmis, visų pirma su Radijo spektro politikos grupe, įsteigta Komisijos sprendimu 2002/622/EB, Europos duomenų apsaugos priežiūros pareigūnu, įsteigtu Europos Parlamento ir Tarybos reglamentu (ES) 2018/1725, Europos duomenų apsaugos valdyba, įsteigta Europos Parlamento ir Tarybos reglamentu (ES) 2016/679, Europos audiovizualinės žiniasklaidos paslaugų reguliuotojų grupe, įsteigta Europos Parlamento ir Tarybos direktyva 2010/13/ES,Europos Sąjungos tinklų ir informacijos apsaugos agentūra, įsteigta Europos Parlamento ir Tarybos reglamentu (ES) Nr. 526/2013, Europos GNSS agentūra, įsteigta Europos Parlamento ir Tarybos reglamentu (ES) Nr. 912/2010, Vartotojų apsaugos bendradarbiavimo tinklu, įsteigtu pagal Europos Parlamento ir Tarybos reglamentą (EB) Nr. 2006/2004, Europos konkurencijos įstaigų tinklu ir Europos standartizacijos organizacijomis, taip pat su esamais komitetais (pavyzdžiui, Ryšių komitetu ir Radijo spektro komitetu). BEREC ir BEREC biuras taip pat turėtų galėti bendradarbiauti su atitinkamomis valstybių narių kompetentingomis institucijomis, atsakingomis už konkurenciją, vartotojų apsaugą ir duomenų apsaugą, trečiųjų valstybių kompetentingomis institucijomis, visų pirma reguliavimo institucijomis, kompetentingomis elektroninių ryšių srityje, arba šių institucijų grupėmis bei tarptautinėmis organizacijomis, kai to reikia jų užduotims atlikti. BEREC taip pat turėtų galėti konsultuotis su suinteresuotosiomis šalimis, vykdydama viešąsias konsultacijas;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_20",
+   "kind": "recital",
+   "number": "20",
+   "label": "(20)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC turėtų būti leidžiama sudaryti darbo susitarimus su kompetentingais Sąjungos organais, įstaigomis, agentūromis, patariamosiomis grupėmis, su trečiųjų valstybių kompetentingomis institucijomis ir su tarptautinėmis organizacijomis, kuriais neturėtų būti nustatoma teisinių įpareigojimų. Tokiais darbo susitarimais galėtų būti, pavyzdžiui, siekiama plėtoti bendradarbiavimo santykius ir keistis nuomonėmis reguliavimo klausimais. Komisija turėtų užtikrinti, kad būtini darbo susitarimai neprieštarautų Sąjungos politikai ir prioritetams, ir kad BEREC veiktų pagal savo įgaliojimus ir esamą institucinę struktūrą ir kad ji nebūtų laikoma atstovaujančia Sąjungos pozicijai išorėje arba įpareigojančia Sąjungą prisiimti tarptautinių įsipareigojimų;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_21",
+   "kind": "recital",
+   "number": "21",
+   "label": "(21)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC turėtų sudaryti Reguliuotojų valdyba ir darbo grupės. Pirmininkavimo Reguliuotojų valdybai rotacija siekiama užtikrinti BEREC veiklos tęstinumą. Taip pat turėtų būti skatinama pirmininko pavaduotojų, atstovaujančių įvairias NRI, rotacija;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_22",
+   "kind": "recital",
+   "number": "22",
+   "label": "(22)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC turėtų turėti galimybę veikti vadovaudamasi Sąjungos interesais, nepriklausomai nuo bet kokios intervencijos iš išorės, įskaitant politinį spaudimą ar verslo kišimąsi. Todėl svarbu užtikrinti, kad asmenims, kurie yra paskirti Reguliuotojų valdybos nariais, būtų užtikrintos didžiausios asmeninio ir veiklos nepriklausomumo garantijos. NRI vadovui, jos kolegialaus organo nariui arba juos pakeičiantiems asmenims užtikrinamas toks pats asmeninio ir veiklos nepriklausomumo lygis. Konkrečiau, jie turėtų veikti nepriklausomai ir objektyviai, vykdydami savo funkcijas neturėtų siekti gauti nurodymų ar jais vadovautis ir turėtų būti apsaugoti nuo savavališko atleidimo iš pareigų. Reguliuotojų valdybos pakaitinio nario funkcijas taip pat galėtų vykdyti NRI vadovas, jos kolegialaus organo narys, juos pakeičiantis asmuo ar kitas NRI personalo narys, kuris veikia, atsižvelgiant į Reguliuotojų valdybos nario mandatą, jo vardu ir pagal jo įgaliojimus;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_23",
+   "kind": "recital",
+   "number": "23",
+   "label": "(23)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "patirtis parodė, kad dauguma BEREC užduočių geriau vykdomos pasitelkiant darbo grupes; tokiu būdu visada turėtų būti užtikrinama, kad būtų vienodai atsižvelgiama į visų NRI nuomones ir indėlius. Todėl Reguliuotojų valdyba turėtų sudaryti darbo grupes ir paskirti jų pirmininkus. NRI turėtų nedelsdamos reaguoti į paskyrimo prašymą, kad būtų galima greitai sudaryti darbo grupes, visų pirma tas darbo grupes, kurių veikla susijusi su terminuotomis procedūromis. Darbo grupėse turėtų galėti dalyvauti ekspertai iš Komisijos. BEREC biuro darbuotojai turėtų padėti darbo grupėms ir prisidėti prie jų veiklos;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_24",
+   "kind": "recital",
+   "number": "24",
+   "label": "(24)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "prireikus ir atsižvelgiant į kiekvieną konkretų atvejį, Reguliuotojų valdyba ir Valdančioji taryba turėtų turėti galimybę pakviesti bet kurį asmenį, kurio nuomonė gali būti svarbi, dalyvauti jų posėdžiuose stebėtojo teisėmis;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_25",
+   "kind": "recital",
+   "number": "25",
+   "label": "(25)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "kai tikslinga ir priklausomai nuo institucijų užduočių paskirstymo kiekvienoje valstybėje narėje, atitinkamoje darbo grupėje turėtų būtų atsižvelgta į kitų kompetentingų institucijų nuomones, pavyzdžiui, konsultuojantis nacionaliniu lygmeniu arba tų kitų institucijų atstovus kviečiant į atitinkamus posėdžius, kuriuose reikalingos jų ekspertinės žinios. Bet kuriuo atveju turėtų būti išlaikytas BEREC nepriklausomumas;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_26",
+   "kind": "recital",
+   "number": "26",
+   "label": "(26)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Reguliuotojų valdyba ir Valdančioji taryba turėtų veikti lygiagrečiai – pirmoji sprendžia daugiausia reguliavimo, o antroji – administracinius klausimus, pavyzdžiui, susijusius su biudžetu, darbuotojais ir auditu. Iš principo, be Komisijos atstovų Valdančiojoje taryboje, NRI atstovai turėtų būti tie patys asmenys kaip ir paskirtieji Reguliuotojų valdyboje, bet NRI turėtų turėti galimybę paskirti kitus atstovus, atitinkančius tuos pačius reikalavimus;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_27",
+   "kind": "recital",
+   "number": "27",
+   "label": "(27)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "anksčiau paskyrimų tarnybos įgaliojimus vykdė Biuro valdymo komiteto pirmininko pavaduotojas. Šiame reglamente numatyta, kad Valdančioji taryba deleguoja atitinkamus paskyrimų tarnybos įgaliojimus direktoriui, o jam leidžiama tuos įgaliojimus perdeleguoti. Tuo siekiama padėti efektyviai vadovauti BEREC biuro darbuotojams;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_28",
+   "kind": "recital",
+   "number": "28",
+   "label": "(28)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Reguliuotojų valdyba ir Valdančioji taryba į eilinius posėdžius turėtų rinktis bent du kartus per metus. Remiantis įgyta patirtimi ir atsižvelgiant į didesnį BEREC vaidmenį, Reguliuotojų valdybai arba Valdančiajai tarybai gali tekti rengti papildomų posėdžių;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_29",
+   "kind": "recital",
+   "number": "29",
+   "label": "(29)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "direktorius turėtų likti BEREC biuro atstovas teisiniais ir administraciniais klausimais. Valdančioji taryba turėtų paskirti direktorių surengus atvirą ir skaidrią atrankos procedūrą, kad būtų užtikrintas griežtas kandidatų vertinimas ir aukštas nepriklausomumo lygis. Anksčiau Biuro administracijos vadovo kadencija buvo treji metai. Kad būtų galima užtikrinti stabilumą ir ilgalaikės BEREC biuro strategijos įgyvendinimą, reikia, kad direktoriaus kadencija būtų pakankamai ilga;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_30",
+   "kind": "recital",
+   "number": "30",
+   "label": "(30)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC biurui turėtų būti taikomas Komisijos deleguotasis reglamentas (ES) Nr. 1271/2013;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_31",
+   "kind": "recital",
+   "number": "31",
+   "label": "(31)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC biuras turėtų teikti visą BEREC darbui reikalingą profesinę ir administracinę paramą, įskaitant finansinę, organizacinę ir logistinę paramą, ir turėtų prisidėti prie BEREC darbo reguliavimo srityje;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_32",
+   "kind": "recital",
+   "number": "32",
+   "label": "(32)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "siekiant užtikrinti BEREC biuro autonomiškumą ir nepriklausomumą bei siekiant teikti paramą BEREC darbui, BEREC biuras turėtų turėti nuosavą biudžetą, kurio didžiąją lėšų dalį turėtų sudaryti Sąjungos įnašas. Biudžetas turėtų būti pakankamas ir juo turėtų būti atsižvelgiama į papildomas paskirtas užduotis ir didesnį BEREC ir BEREC biuro vaidmenį. Kaip nurodyta 2013 m. gruodžio 2 d. Europos Parlamento, Tarybos ir Komisijos tarpinstitucinio susitarimo dėl biudžetinės drausmės, bendradarbiavimo biudžeto klausimais ir patikimo finansų valdymo 31 punkte, BEREC biuro finansavimui turėtų pritarti biudžeto valdymo institucija;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_33",
+   "kind": "recital",
+   "number": "33",
+   "label": "(33)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "kad galėtų vykdyti savo pareigas, BEREC biuras turėtų turėti pakankamai darbuotojų. Visos BEREC biurui pavestos užduotys, įskaitant profesines ir administracines paslaugas, kuriomis teikiama parama BEREC šiai vykdant reguliavimo užduotis, taip pat atitiktis finansinėms, personalo ir kitoms taikytinoms taisyklėms ir padidėjęs veiklos užduočių, kurias turi atlikti BEREC biuras, palyginti su administracinėmis užduotimis, sudėtingumas turėtų būti tinkamai įvertinti ir į juos turėtų būti tinkamai atsižvelgta programuojant išteklius;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_34",
+   "kind": "recital",
+   "number": "34",
+   "label": "(34)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "siekiant dar labiau išplėsti nuoseklų elektroninių ryšių reguliavimo sistemos įgyvendinimą, Reguliuotojų valdybos, darbo grupių ir Valdančiosios tarybos veikloje turėtų galėti dalyvauti trečiųjų valstybių reguliavimo institucijos, kompetentingos elektroninių ryšių srityje, kai tos trečiosios valstybės yra sudariusios atitinkamus susitarimus su Sąjunga, kaip antai EEE ELPA valstybės ir šalys kandidatės;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_35",
+   "kind": "recital",
+   "number": "35",
+   "label": "(35)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "vadovaujantis skaidrumo principu BEREC ir BEREC biuras turėtų, kai aktualu, skelbti informaciją apie savo darbą savo interneto svetainėje. Visų pirma, BEREC turėtų viešai skelbti visus galutinius dokumentus, parengtus vykdant savo užduotis, pavyzdžiui, nuomones, gaires, ataskaitas, rekomendacijas, bendrąsias pozicijas ir geriausią praktiką, taip pat visus tyrimus, užsakytus siekiant padėti jai vykdyti savo užduotis. BEREC ir BEREC biuras taip pat turėtų viešai skelbti atnaujintus savo užduočių sąrašus ir atnaujintus narių, pakaitinių narių bei kitų jų organizacinių organų posėdžių nuolatinių dalyvių sąrašus, kartu su Reguliuotojų valdybos narių, Valdančiosios tarybos narių ir direktoriaus pateiktomis interesų deklaracijomis;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_36",
+   "kind": "recital",
+   "number": "36",
+   "label": "(36)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC biuro remiama BEREC turėtų galėti pagal savo kompetenciją vykdyti komunikacijos veiklą, kuri netrukdo BEREC atlikti pagrindinių užduočių. Siekiant atsižvelgti į bendresnį Sąjungos įvaizdį, BEREC komunikacijos strategijos turinys ir įgyvendinimas turėtų būti nuoseklūs, objektyvūs, aktualūs ir suderinti su Komisijos ir kitų institucijų strategijomis bei veikla. BEREC biuro komunikacijos veikla turėtų būti vykdoma laikantis atitinkamų Valdančiosios tarybos priimtų komunikacijos ir sklaidos planų;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_37",
+   "kind": "recital",
+   "number": "37",
+   "label": "(37)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "kad galėtų veiksmingai vykdyti savo užduotis, BEREC ir BEREC biuras turėtų turėti teisę prašyti visos reikalingos informacijos iš Komisijos, NRI ir, kraštutiniu atveju, kitų institucijų ir įmonių. Prašymuose pateikti informaciją turėtų būti nurodytos priežastys, prašymai turėtų būti proporcingi ir neturėtų sudaryti adresatams nepagrįstos naštos. NRI turėtų bendradarbiauti su BEREC ir BEREC biuru ir laiku bei tiksliai teikti informaciją, siekdamos užtikrinti, kad BEREC ir BEREC biuras galėtų vykdyti savo užduotis. Remdamiesi lojalaus bendradarbiavimo principu, BEREC ir BEREC biuras būtina informacija taip pat turėtų dalytis su Komisija, NRI ir kitomis kompetentingomis institucijomis. Kai aktualu, turėtų būti užtikrintas informacijos konfidencialumas. Vertindama, ar prašymas yra tinkamai pagrįstas, BEREC turėtų atsižvelgti į tai, ar prašoma informacija yra susijusi su išimtinai atitinkamoms institucijoms pavestų užduočių vykdymu;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_38",
+   "kind": "recital",
+   "number": "38",
+   "label": "(38)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC biuras, siekdamas išvengti prašymų pateikti informaciją dubliavimo ir palengvinti komunikaciją tarp visų atitinkamų institucijų, turėtų nustatyti bendrą informacijos ir komunikacijos sistemą;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_39",
+   "kind": "recital",
+   "number": "39",
+   "label": "(39)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "siekiant užtikrinti aukšto lygio konfidencialumą ir išvengti interesų konfliktų, BEREC ir BEREC biuro organizacinių organų nariams taikomos taisyklės tais klausimais turėtų būti taikomos jų pakaitiniams nariams;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_40",
+   "kind": "recital",
+   "number": "40",
+   "label": "(40)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "kadangi šiuo reglamentu BEREC ir BEREC biurui pavedamos naujos užduotys, o kitais Sąjungos teisės aktais gali būti pavestos papildomos užduotys, Komisija turėtų atlikti reguliarų BEREC ir BEREC biuro veiklos ir jų institucinės struktūros veiksmingumo kintančioje skaitmeninėje aplinkoje vertinimą. Jeigu, atlikusi vertinimą, Komisija padaro išvadą, kad ši institucinė struktūra netinka BEREC ir BEREC biuro užduotims vykdyti, visų pirma nuosekliam elektroninių ryšių reguliavimo sistemos įgyvendinimui užtikrinti, ji turėtų išnagrinėti visas įmanomas galimybes patobulinti tą struktūrą;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_41",
+   "kind": "recital",
+   "number": "41",
+   "label": "(41)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Biuro, kuris buvo įsteigtas Reglamentu (EB) Nr. 1211/2009 kaip juridinio asmens statusą turinti Bendrijos įstaiga, teises ir pareigas, susijusias su nuosavybe, susitarimais, įskaitant Susitarimą dėl būstinės, teisiniais įsipareigojimais, darbo sutartimis, finansiniais įsipareigojimais ir atsakomybe, perima šiuo reglamentu įsteigtas BEREC biuras. BEREC biuras turėtų perimti Biuro darbuotojus, kurių teisėms ir pareigoms neturėtų būti padarytas poveikis. Siekiant užtikrinti BEREC ir Biuro darbo tęstinumą, jų atstovai, t. y. Reguliuotojų valdybos pirmininkas ir pirmininkų pavaduotojai, Valdymo komiteto nariai ir administracijos direktorius, turėtų toliau eiti pareigas iki jų kadencijos pabaigos;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_42",
+   "kind": "recital",
+   "number": "42",
+   "label": "(42)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "daugumoje valstybių narių didelis vartotojų skaičius ir toliau pasikliauja tradicinėmis tarptautinio ryšio paslaugomis, pavyzdžiui, telefonijos skambučiais ir SMS žinučių paslauga SMS, nepaisant to, kad vis daugiau vartotojų turi galimybę naudotis su numeriu nesiejamo asmenų tarpusavio ryšio paslaugomis savo tarptautinio skambinimo reikmėms mažesniais tarifais nei tradicinių paslaugų ar be piniginio atsiskaitymo;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_43",
+   "kind": "recital",
+   "number": "43",
+   "label": "(43)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "2013 m. Komisija pasiūlė poveikio vertinimu grindžiamą reglamentą, kuriame buvo įtraukta nuostata dėl reguliavimo priemonių, taikytinų ryšio paslaugoms ES viduje. Nuo 2017 iki 2018 m. BEREC ir Komisija surinko papildomus duomenis apie ryšio paslaugų ES viduje rinką atliekant Komisijos ir „Eurobarometro“ tyrimus. Kaip rodo šie duomenys, toliau vyrauja dideli kainų skirtumai tarp fiksuotojo ir judriojo ryšio, kalbinio ryšio ir SMS ryšio paslaugų savojoje šalyje ir paslaugų, kurios užbaigiamos kitoje valstybėje narėje, didelių kainų skirtumų tarp valstybių, paslaugų teikėjų ir tarifų paketų kontekste, taip pat tarp judriojo ir fiksuotojo kalbinio ryšio paslaugų. Viešai prieinamų tarpasmeninių komunikacijų paslaugų teikėjai dažnai apmokestina suvartojimą remdamiesi ryšio paslaugų ES viduje kainomis, kurios gerokai viršija savosios šalies tarifų kainas ir papildomas išlaidas. Vidutiniškai standartinė skambučio ES viduje naudojant fiksuotąjį ar judrųjį ryšį kaina yra tris kartus didesnė negu standartinė skambučio savojoje šalyje kaina, o standartinė SMS žinutės ES viduje kaina yra du kartus didesnė negu kaina savojoje šalyje. Tačiau šie aritmetiniai vidurkiai slepia didelius skirtumus tarp valstybių narių. Kai kuriais atvejais standartinė skambučių ES viduje kaina gali būti iki aštuonių kartų didesnė už standartinę skambučių savojoje šalyje kainą. Todėl vartotojai keliose valstybėse narėse yra priversti mokėti labai aukštas ryšio paslaugų ES viduje kainas. Tos aukštos kainos daugiausia daro poveikį vartotojams, – visų pirma tiems, kurie tokiomis ryšio paslaugomis naudojasi ne dažnai arba kurių suvartojimas yra mažas, – kurie atstovauja didžiajai daugumai vartotojų, besinaudojančių ryšio paslaugomis ES viduje. Tuo pačiu metu keli paslaugų teikėjai siūlo specialius pasiūlymus, visų pirma patrauklius verslo klientams ir klientams, kurių ryšio paslaugų ES viduje suvartojimas yra didelis. Dažnai tokie pasiūlymai nėra apmokestinami remiantis faktiniu suvartojimu ir juos gali sudaryti tam tikras pokalbio minučių ar SMS žinučių ES viduje skaičius už fiksuotą mėnesinį mokestį (papildomi pasiūlymai) arba tam tikras pokalbio minučių ar SMS žinučių ES viduje skaičius, įtrauktas į per mėnesį suteikiamas pokalbių minutes ar SMS žinutes, netaikant jokio papildomo mokesčio arba taikant nedidelį papildomą mokestį. Tačiau dažnai tų pasiūlymų sąlygos nėra patrauklios vartotojams, kurie ryšio paslaugomis ES viduje naudojasi kartais, nenumatytai arba sunaudoja santykinai mažą ryšio paslaugų ES viduje kiekį. Todėl tie vartotojai rizikuoja mokėti pernelyg dideles ryšio paslaugų ES viduje kainas ir turėtų būti apsaugoti;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_44",
+   "kind": "recital",
+   "number": "44",
+   "label": "(44)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "be to, didelės ryšio paslaugų ES viduje kainos yra kliūtis vidaus rinkos veikimui, nes jos mažina paskatas kreiptis dėl prekių ir paslaugų į kitoje valstybėje narėje esantį paslaugų teikėją ir jas iš jo pirkti. Todėl būtina nustatyti konkrečias ir proporcingas kainos, kurią viešai prieinamų tarpasmeninių komunikacijų paslaugų teikėjai gali nustatyti vartotojams už ryšio paslaugas ES viduje, ribas, kad tokios didelės kainos būtų panaikintos;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_45",
+   "kind": "recital",
+   "number": "45",
+   "label": "(45)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "kai viešųjų su numeriu siejamo asmenų tarpusavio ryšio paslaugų teikėjai nustato vartotojams tokius tarifus už ryšio paslaugas ES viduje, kurie yra visiškai arba iš dalies grindžiami tokių paslaugų suvartojimu, be kita ko, tais atvejais, kai remiantis suvartojimu atliekamas atskaitymas iš suteikto mėnesinio arba iš anksto apmokėto tokių paslaugų kiekio, tie tarifai turėtų neviršyti 0,19 EUR/min. sumos už skambučius ir didžiausios 0,06 EUR sumos už SMS žinutę. Tos viršutinės ribos atitinka didžiausias kainas, kurios šiuo metu taikomos atitinkamai reguliuojamiems tarptinklinio ryšio skambučiams ir SMS žinutėms. Kai vartotojai naudojasi tarptinkliniu ryšiu Sąjungoje, jiems taikoma apsauga, susijusi su europiniu balso skambučių tarifu ir europiniu SMS žinučių tarifu – jie palaipsniui pakeisti tarptinkliniu ryšiu „savo šalies kainomis“. Tos viršutinės ribos taip pat laikomos tinkamu lyginamuoju rodikliu siekiant nustatyti didžiausią reguliuojamų ryšio paslaugų ES viduje tarifą penkerių metų laikotarpiui, kuris prasideda nuo 2019 m. gegužės 15 d. Dabartinis viršutinės ribos dydis yra paprasta, skaidri ir pasitvirtinusi minimalios apsaugos nuo didelių kainų priemonė ir jis yra tinkamas kaip viršutinė riba, taikytina visų reguliuojamų ryšio paslaugų ES viduje mažmeninėms kainoms. Ir tarptinklinio ryšio skambučių Sąjungoje, ir skambučių ES viduje sąnaudų struktūra yra panaši;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_46",
+   "kind": "recital",
+   "number": "46",
+   "label": "(46)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "viršutinės ribos turėtų viešai prieinamų tarpasmeninių komunikacijų paslaugų teikėjams leisti susigrąžinti savo sąnaudas, taip užtikrinant proporcingą intervenciją tiek skambučių judriojo ryšio tinkle, tiek skambučių fiksuotojo ryšio tinkle rinkoje. Viršutinės ribos bus taikomos tiesiogiai tik faktiniu suvartojimu grindžiamiems tarifams. Jie turėtų daryti drausminamąjį poveikį ir tiems pasiūlymams, kurių atveju be atskiro mokesčio įtraukiamas tam tikras ryšio paslaugų ES viduje kiekis, nes vartotojai gali pasirinkti, kad už jų ryšio paslaugas ES viduje jiems būtų pradėtas taikyti suvartojimu grindžiamas tarifas. Ryšio paslaugų ES viduje kiekiams, kurie viršija į paslaugų paketą įtrauktus ryšio paslaugų kiekius ir už kuriuos taikomas atskiras mokestis, turėtų būti taikomos viršutinės ribos. Priemone turėtų būti proporcingai užtikrinta, kad vartotojai, kurių ryšio paslaugų ES viduje suvartojimo lygis yra žemas, būtų apsaugoti nuo didelių kainų, ir kartu ji turėtų daryti tik nedidelį poveikį paslaugų teikėjams;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_47",
+   "kind": "recital",
+   "number": "47",
+   "label": "(47)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "viešai prieinamų tarpasmeninių komunikacijų paslaugų teikėjai turėtų turėti galimybę pateikti savo vartotojams alternatyvius pasiūlymus dėl tarptautinių ryšio paslaugų tarifų, nustatant skirtingus reguliuojamų ryšio paslaugų ES viduje tarifus, o vartotojai turėtų turėti galimybę aiškiai pasirinkti tokius pasiūlymus ir bet kuriuo metu nemokamai grįžti prie ankstesnių tarifų net ir tų pasiūlymų, kuriuos vartotojai užsisakė prieš įsigaliojant tokioms nuostatoms, atveju. Paslaugų teikėjo pareiga neviršyti reguliuojamų ryšio paslaugų ES viduje viršutinių ribų galėtų būti nevykdoma tik tuo atveju, jeigu pateikiami alternatyvūs pasiūlymai dėl tarptautinių ryšio paslaugų, pavyzdžiui, apimantys visas arba kai kurias trečiąsias valstybes, su sąlyga, kad vartotojas su šiais pasiūlymais sutinka. Kiti privalumai, pavyzdžiui, subsidijuojami galiniai įrenginiai arba nuolaidos už kitas elektroninių ryšių paslaugas, kurias paslaugų teikėjai siūlo vartotojams, yra normali konkurencinės sąveikos dalis ir turėtų nedaryti poveikio kainų viršutinių ribų taikymui reguliuojamoms ryšio paslaugoms ES viduje;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_48",
+   "kind": "recital",
+   "number": "48",
+   "label": "(48)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "nustačius reguliuojamų ryšio paslaugų ES viduje kainos viršutinę ribą, kai kuriems viešai prieinamų tarpasmeninių komunikacijų paslaugų teikėjams gali būti padarytas daug didesnis poveikis nei daugumai kitų Sąjungos paslaugų teikėjų. Taip galėtų būti visų pirma tų paslaugų teikėjų, kurių pajamų arba veiklos pelno ypač didelė dalis gaunama teikiant ryšio paslaugas ES viduje arba kurių marža savojoje šalyje yra maža, palyginti su šio sektoriaus lyginamaisiais rodikliais, atveju. Dėl sumažėjusios pelno maržos, kiek tai susiję su reguliuojamomis ryšio paslaugomis ES viduje, paslaugų teikėjui gali nepavykti išlaikyti kainų nustatymo savojoje šalyje modelio. Labai mažai tikėtina, kad tokie scenarijai įvyktų, nes didžiausios kainos akivaizdžiai viršija ryšio paslaugų ES viduje teikimo sąnaudas. Vis dėlto, kad su tokiais labai išimtiniais scenarijais susiję klausimai būtų sprendžiami proporcingai, NRI turėtų galėti tokio paslaugų teikėjo prašymu, pagrįstais ir išimtiniais atvejais, leisti taikyti nukrypti leidžiančią nuostatą;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_49",
+   "kind": "recital",
+   "number": "49",
+   "label": "(49)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "nukrypti leidžiančias nuostatas turėtų būti leidžiama taikyti tik tuo atveju, jeigu paslaugų teikėjas gali įrodyti, remdamasis BEREC nustatytu atitinkamu lyginamuoju rodikliu, kad jam daromas daug didesnis poveikis nei daugumai kitų Sąjungos paslaugų teikėjų ir kad tas poveikis gerokai susilpnintų to paslaugų teikėjo pajėgumą išlaikyti jo savojoje šalyje taikomą ryšio paslaugų mokesčių modelį. Jeigu NRI leidžia taikyti nukrypti leidžiančią nuostatą, ji turėtų nustatyti didžiausią kainų lygį, kurį paslaugų teikėjas galėtų taikyti reguliuojamoms ryšio paslaugoms ES viduje ir kuris jam sudarytų sąlygas išlaikyti konkurencingą ryšio paslaugų savojoje šalyje kainų lygį. Tokios nukrypti leidžiančios nuostatos turėtų galioti tik vienus metus ir jų galiojimą turėtų būti galima pratęsti, jeigu teikėjas įrodo, kad toliau tenkinamos nukrypti leidžiančiai nuostatai taikomos sąlygos;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_50",
+   "kind": "recital",
+   "number": "50",
+   "label": "(50)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "atsižvelgiant į proporcingumo principą, kainų viršutinių ribų taikymo reguliuojamoms ryšio paslaugoms ES viduje laikotarpis turėtų būti apribotas ir turėtų nustoti galioti praėjus penkeriems metams po šių ribų įsigaliojimo. Tokia ribota trukmė turėtų sudaryti sąlygas atlikti tinkamą priemonių poveikio vertinimą ir nustatyti, kokiu mastu vis dar esama poreikio apsaugoti vartotojus;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_51",
+   "kind": "recital",
+   "number": "51",
+   "label": "(51)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "siekiant užtikrinti nuoseklią, laiku teikiamą ir kuo veiksmingesnę vartotojų, kuriems dideli ryšio paslaugų ES viduje kainų skirtumai daro neigiamą poveikį, apsaugą Sąjungos lygmeniu, tokios nuostatos turėtų būti taikomos tiesiogiai ir įtrauktos į reglamentą. Tam tikslui tinkamiausias reglamentas yra Reglamentas (ES) 2015/2120, kuris buvo priimtas atlikus poveikio vertinimą, kuriame pasiūlyta, inter alia, nuostata dėl ryšio paslaugų ES viduje kaip būtina priemonė siekiant baigti kurti vidaus elektroninių ryšių rinką. Tikėtinas poveikis paslaugų teikėjų pajamoms, gaunamoms teikiant ryšio paslaugas ES viduje, dar labiau sumažinamas taikant tarptinklinio ryšio europinio balso skambučių tarifo ir europinio SMS žinučių tarifo dydžius kaip viršutines ribas, tiek fiksuotojo, tiek judriojo ryšio paslaugoms, kuri yra apsaugos mechanizmas; ir remiantis 2018 m. BEREC atliktoje analizėje pateiktais įrodymais, kad tarpiniu laikotarpiu gerokai sumažėjo atitinkami fiksuotojo ryšio srauto, kuriam būtų taikoma ši priemonė, kiekiai. Todėl šios nuostatos turėtų būti įtrauktos kaip Reglamento (ES) 2015/2120 dalinis pakeitimas, o tas reglamentas taip pat turėtų būti pritaikytas siekiant užtikrinti, kad valstybės narės priimtų taisykles dėl sankcijų už tokių nuostatų pažeidimus;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_52",
+   "kind": "recital",
+   "number": "52",
+   "label": "(52)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "kadangi šio reglamento tikslų, t. y. užtikrinti nuoseklų elektroninių ryšių reguliavimo sistemos įgyvendinimą, visų pirma, kiek tai susiję su tarpvalstybiniais aspektais ir taikant efektyvias vidaus rinkos procedūras, susijusias su nacionalinių priemonių projektais, ir užtikrinti, kad vartotojai nebūtų apmokestinami pernelyg didelėmis kainomis už naudojimąsi su numeriu siejamu asmenų tarpusavio ryšiu, pradedamu vartotojo paslaugų savojoje šalyje teikėjo valstybėje narėje ir baigiamu bet kuriuo fiksuoto ar mobiliojo telefono numeriu kitoje valstybėje narėje, valstybės narės negali deramai pasiekti, o dėl siūlomo veiksmo masto ir poveikio tų tikslų būtų geriau siekti Sąjungos lygmeniu, laikydamasi Europos Sąjungos sutarties 5 straipsnyje nustatyto subsidiarumo principo Sąjunga gali patvirtinti priemones. Pagal tame straipsnyje nustatytą proporcingumo principą šiuo reglamentu neviršijama to, kas būtina nurodytiems tikslams pasiekti;",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_53",
+   "kind": "recital",
+   "number": "53",
+   "label": "(53)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "šiuo reglamentu iš dalies pakeičiama ir išplečiama Reglamento (EB) Nr. 1211/2009 taikymo sritis. Būsimi pakeitimai yra esminiai, todėl siekiant aiškumo tas aktas turėtų būti panaikintas. Nuorodos į panaikintą reglamentą turėtų būti laikomos nuorodomis į šį reglamentą,",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_1",
+   "kind": "article",
+   "number": "1",
+   "label": "1 straipsnis",
+   "title": "Dalykas ir taikymo sritis",
+   "path": [
+    "I SKYRIUS — DALYKAS IR TAIKYMO SRITIS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Šiuo reglamentu įsteigiama Europos elektroninių ryšių reguliuotojų institucija (toliau – BEREC) ir BEREC paramos agentūra (toliau – BEREC biuras).",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC ir BEREC biuras atitinkamai pakeičia Europos elektroninių ryšių reguliuotojų tarnybą ir biurą, įsteigtus Reglamentu (EB) Nr. 1211/2009, ir perima jų teises ir įsipareigojimus.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_2",
+   "kind": "article",
+   "number": "2",
+   "label": "2 straipsnis",
+   "title": "BEREC biuro teisinis subjektiškumas",
+   "path": [
+    "I SKYRIUS — DALYKAS IR TAIKYMO SRITIS"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC biuras yra Sąjungos organas. Jis turi juridinio asmens statusą.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Kiekvienoje valstybėje narėje BEREC biuras naudojasi plačiausiu teisnumu, suteikiamu juridiniams asmenims pagal nacionalinę teisę. Visų pirma jis turi turėti galimybę įsigyti kilnojamąjį ir nekilnojamąjį turtą, juo disponuoti ir būti šalimi teismo procese.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC biurui atstovauja jo direktorius.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Tik pats BEREC biuras atsako už jam pavestų užduočių ir suteiktų įgaliojimų vykdymą.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. BEREC biuro buveinė yra Rygoje.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_3",
+   "kind": "article",
+   "number": "3",
+   "label": "3 straipsnis",
+   "title": "BEREC tikslai",
+   "path": [
+    "II SKYRIUS — BEREC TIKSLAI IR UŽDUOTYS"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC veikia reglamentų (EB) Nr. 531/2012 ir (ES) 2015/2120 ir Direktyvos (ES) 2018/1972 taikymo srityje.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC siekia Direktyvos (ES) 2018/1972 3 straipsnyje išdėstytų tikslų. Visų pirma BEREC siekia užtikrinti nuoseklų elektroninių ryšių reguliavimo sistemos įgyvendinimą šio straipsnio 1 dalyje nurodytoje taikymo srityje.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC savo užduotis vykdo nepriklausomai, nešališkai, skaidriai ir laiku.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. BEREC remiasi nacionalinių reguliavimo institucijų (toliau – NRI) turimomis ekspertinėmis žiniomis.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Pagal Direktyvos (ES) 2018/1972 9 straipsnio 3 dalį kiekviena valstybė narė užtikrina, kad jos NRI galėtų visapusiškai dalyvauti BEREC organizacinių organų darbe.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Valstybėse narėse, kuriose yra daugiau nei viena pagal Direktyvą (ES) 2018/1972 atsakinga NRI, tos NRI reikiamu mastu koordinuoja savo veiklą tarpusavyje.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_4",
+   "kind": "article",
+   "number": "4",
+   "label": "4 straipsnis",
+   "title": "BEREC reguliavimo užduotys",
+   "path": [
+    "II SKYRIUS — BEREC TIKSLAI IR UŽDUOTYS"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC reguliavimo užduotys yra šios:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) gavus prašymą arba savo iniciatyva padėti NRI, Europos Parlamentui, Tarybai ir Komisijai, juos konsultuoti, taip pat bendradarbiauti su NRI ir Komisija visais jos kompetencijai priklausančiais techniniais klausimais, susijusiais su elektroniniais ryšiais;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) gavus prašymą padėti Komisijai ir ją konsultuoti klausimais, susijusiais su pasiūlymų dėl teisėkūros procedūra priimamų aktų elektroninių ryšių srityje rengimu, įskaitant visus siūlomus šio reglamento arba Direktyvos (ES) 2018/1972 pakeitimus;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) teikti nuomones, kaip nurodyta Reglamente (ES) Nr. 531/2012 ir Direktyvoje (ES) 2018/1972, visų pirma dėl: i) tarpvalstybinių ginčų sprendimo pagal Direktyvos (ES) 2018/1972 27 straipsnį; ii) nacionalinių priemonių, susijusių su rinkos reguliavimo vidaus rinkos procedūromis, projektų pagal Direktyvos (ES) 2018/1972 32, 33 ir 68 straipsnius; iii) sprendimų ir rekomendacijų dėl suderinimo projektų pagal Direktyvos (ES) 2018/1972 38 ir 93 straipsnius; iv) galutinių paslaugų gavėjų tiesioginio sujungimo pagal Direktyvos (ES) 2018/1972 61 straipsnio 2 dalį; v) bendro didžiausio balso skambučių užbaigimo judriojo ryšio tinkle Sąjungos tarifo ir bendro didžiausio balso skambučių užbaigimo fiksuotojo ryšio tinkle Sąjungos tarifo nustatymo pagal Direktyvos (ES) 2018/1972 75 straipsnį; vi) sutarties santraukos šablono pagal Direktyvos (ES) 2018/1972 102 straipsnį; vii) bendrojo leidimo įgyvendinimo ir veikimo nacionaliniu lygmeniu ir jų poveikio vidaus rinkos veikimui pagal Direktyvos (ES) 2018/1972 122 straipsnio 3 dalį; viii) kai aktualu, rinkos ir technologinių pokyčių, susijusių su įvairių rūšių elektroninių ryšių paslaugomis, ir jų poveikio Direktyvos (ES) 2018/1972 III dalies III antraštinės dalies taikymui pagal tos direktyvos 123 straipsnio 1 dalį;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) rengti gaires dėl Sąjungos elektroninių ryšių reguliavimo sistemos įgyvendinimo, visų pirma, kaip nurodyta reglamentuose (ES) Nr. 531/2012 ir (ES) 2015/2120 ir Direktyvoje (ES) 2018/1972, dėl: i) pranešimo šablono pagal Direktyvos (ES) 2018/1972 12 straipsnį; ii) pareigų, susijusių su geografiniais tyrimais ir prognozėmis, nuoseklaus vykdymo pagal Direktyvos (ES) 2018/1972 22 straipsnį; iii) atitinkamų kriterijų siekiant skatinti nuosekliai taikyti Direktyvos (ES) 2018/1972 61 straipsnio 3 dalį; iv) tinklo galinio taško identifikavimo skirtingose tinklo topologijose bendrų metodų pagal Direktyvos (ES) 2018/1972 61 straipsnio 7 dalį; v) bendrų metodų, kaip patenkinti transnacionalinę galutinių paslaugų gavėjų sukurtą paklausą pagal Direktyvos (ES) 2018/1972 66 straipsnį; vi) minimalių standartinio pasiūlymo kriterijų pagal Direktyvos (ES) 2018/1972 69 straipsnį; vii) skatinimo, kad NRI nuosekliai taikytų Direktyvos (ES) 2018/1972 76 straipsnio 1 dalyje išdėstytas sąlygas ir IV priede išdėstytus kriterijus; viii) kriterijų, kuriuos turi atitikti tinklas, kad būtų laikomas itin didelio pralaidumo tinklu pagal Direktyvos (ES) 2018/1972 82 straipsnį; ix) bendrųjų gebėjimo valdyti numeracijos išteklius ir numeracijos išteklių išnaudojimo rizikos vertinimo kriterijų pagal Direktyvos (ES) 2018/1972 93 straipsnį; x) atitinkamų paslaugų kokybės parametrų, taikytinų matavimo metodų, skelbiamos informacijos turinio bei formato ir kokybės sertifikavimo mechanizmų pagal Direktyvos (ES) 2018/1972 104 straipsnį; xi) vertinimo, ar viešųjų perspėjimų sistemų pagal Direktyvos (ES) 2018/1972 110 straipsnio 2 dalį efektyvumas yra lygiavertis to straipsnio 1 dalyje numatytų viešųjų perspėjimų sistemų efektyvumui, būdų; xii) didmeninės tarptinklinio ryšio prieigos pagal Reglamento (ES) Nr. 531/2012 3 straipsnio 8 dalį; xiii) NRI pareigų, susijusių su atvira interneto prieiga, vykdymo pagal Reglamento (ES) 2015/2120 5 straipsnio 3 dalį; xiv) parametrų, į kuriuos NRI turi atsižvelgti vertindamos vidaus apmokestinimo modelio tvarumą pagal Reglamento (ES) 2015/2120 5a straipsnio 6 dalį;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) savo iniciatyva arba NRI, Europos Parlamento, Tarybos ar Komisijos prašymu rengti kitas gaires, kuriomis užtikrinamas nuoseklus elektroninių ryšių reguliavimo sistemos įgyvendinimas ir NRI priimamų reguliavimo sprendimų nuoseklumas, visų pirma reguliavimo klausimais, kurie daro poveikį daugeliui valstybių narių arba apima tarpvalstybinį elementą;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) kai aktualu, dalyvauti Tarpusavio peržiūros forume dėl priemonių, susijusių su atrankos procedūromis pagal Direktyvos (ES) 2018/1972 35 straipsnį, projektų;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) dalyvauti svarstant klausimus dėl savo kompetencijos sričių, susijusių su rinkos reguliavimu ir konkurencija radijo spektro srityje pagal Direktyvos (ES) 2018/1972 4 straipsnį;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) vykdyti potencialių transnacionalinių rinkų pagal Direktyvos (ES) 2018/1972 65 straipsnį ir transnacionalinės galutinių paslaugų gavėjų sukurtos paklausos pagal tos direktyvos 66 straipsnį analizes;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) stebėti ir rinkti informaciją ir, kai aktualu, viešai skelbti naujausią informaciją apie Reglamento (ES) Nr. 531/2012 taikymą pagal jo 16 ir 19 straipsnius;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) teikti ataskaitas jos kompetencijai priklausančiais techniniais klausimais, visų pirma dėl: i) c, d ir e punktuose nurodytų nuomonių ir gairių praktinio taikymo; ii) valstybių narių geriausios praktikos, padedant apibrėžti tinkamą plačiajuosčio interneto prieigos paslaugą pagal Direktyvos (ES) 2018/1972 84 straipsnį; iii) tiek savojoje šalyje teikiamų, tiek tarptinklinio ryšio paslaugų kainų nustatymo ir vartojimo modelių pokyčių, faktinių didmeninių tarptinklinio ryšio tarifų už nesubalansuotą srautą pokyčių, tarptinklinio ryšio paslaugų mažmeninių kainų, didmeninių kainų ir didmeninių sąnaudų santykio, taip pat tarifų skaidrumo ir palyginamumo pagal Reglamento (ES) Nr. 531/2012 19 straipsnį; iv) metinių ataskaitų, kurias NRI teikia pagal Reglamento (ES) 2015/2120 5 straipsnį, rezultatų, paskelbiant metinę apibendrinamąją ataskaitą; v) rinkos pokyčių elektroninių ryšių sektoriuje, jas teikiant kasmet;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) rengia NRI skirtas rekomendacijas bei bendrąsias pozicijas ir skleidžia geriausią reguliavimo praktiką, kad paskatintų nuoseklų ir geresnį elektroninių ryšių reguliavimo sistemos įgyvendinimą;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) sukurti ir prižiūrėti duomenų bazę, kurioje saugomi: i) pranešimai, kuriuos įmonės, kurioms taikomas bendrasis leidimas, pateikė kompetentingoms institucijoms pagal Direktyvos (ES) 2018/1972 12 straipsnį; ii) numeracijos ištekliai, kurie gali būti naudojami Sąjungoje už šalies teritorijos ribų pagal Direktyvos (ES) 2018/1972 93 straipsnio 4 dalies ketvirtą pastraipą; iii) kai aktualu, valstybių narių skubios pagalbos tarnybų E.164 numeriai pagal Direktyvos (ES) 2018/1972 109 straipsnio 8 dalies trečią pastraipą;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) vertinti reguliavimo naujovių poreikį ir koordinuoti NRI veiksmus, siekiant sudaryti sąlygas naujų novatoriškų elektroninių ryšių paslaugų plėtojimui;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) skatinti modernizuoti, koordinuoti ir standartizuoti NRI vykdomą duomenų rinkimą; tokie duomenys skelbiami visuomenei atvira, pakartotinai panaudojama ir kompiuterio skaitoma forma BEREC interneto svetainėje ir Europos duomenų portale nedarant poveikio intelektinės nuosavybės teisėms, asmens duomenų apsaugos taisyklėms ir reikiamam konfidencialumo lygiui;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "o) vykdo kitas užduotis, pavestas jai Sąjungos teisės aktais, visų pirma, reglamentais (ES) Nr. 531/2012 ir (ES) 2015/2120 ir Direktyva (ES) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC savo reguliavimo užduotis skelbia viešai ir atnaujina tą informaciją, kai jai pavedamos naujos užduotys.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC viešai skelbia visas savo galutines nuomones, gaires, ataskaitas, rekomendacijas, bendrąsias pozicijas bei geriausią praktiką ir visus užsakytus tyrimus, taip pat atitinkamus dokumentų projektus, parengtus 5 dalyje nurodytų viešų konsultacijų tikslu.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Nedarant poveikio pareigai laikytis atitinkamos Sąjungos teisės, NRI ir Komisija kuo labiau atsižvelgia į visas gaires, nuomones, rekomendacijas, bendrąsias pozicijas ir geriausią praktiką, kuriuos BEREC priima siekdama užtikrinti nuoseklų elektroninių ryšių reguliavimo sistemos įgyvendinimą 3 straipsnio 1 dalyje nurodytoje taikymo srityje. Jeigu NRI nukrypsta nuo 1 dalies e punkte nurodytų gairių, ji pateikia tokį nukrypimą pagrindžiančias priežastis.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Kai tikslinga, BEREC konsultuojasi su suinteresuotosiomis šalimis ir suteikia joms galimybę per pagrįstą laikotarpį, kuris nustatomas atsižvelgiant į klausimo sudėtingumą, pateikti pastabas. Išskyrus išimtinių aplinkybių atvejus, tas laikotarpis turi būti ne trumpesnis kaip 30 dienų. Nedarant poveikio 38 straipsniui, BEREC tokių viešų konsultacijų rezultatus skelbia viešai. Tokios konsultacijos surengiamos kuo ankstesniu sprendimų priėmimo proceso etapu.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Kai tikslinga, BEREC gali konsultuotis ir bendradarbiauti su atitinkamomis nacionalinėmis institucijomis, pavyzdžiui, su institucijomis, kompetentingomis konkurencijos, vartotojų apsaugos ir duomenų apsaugos srityse.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Kai tikslinga, pagal 35 straipsnio 1 dalį BEREC gali bendradarbiauti su kompetentingais Sąjungos organais, tarnybomis, agentūromis ir patariamosiomis grupėmis, taip pat su trečiųjų valstybių kompetentingomis institucijomis ir su tarptautinėmis organizacijomis.",
+     "para": "7",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_5",
+   "kind": "article",
+   "number": "5",
+   "label": "5 straipsnis",
+   "title": "BEREC biuro užduotys",
+   "path": [
+    "III SKYRIUS — BEREC BIURO UŽDUOTYS"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC biuro užduotys yra šios:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) teikti profesinės ir administracinės paramos paslaugas BEREC, visų pirma vykdant jos reguliavimo užduotis pagal 4 straipsnį;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) rinkti iš NRI informaciją, susijusią su pagal 4 straipsnį BEREC pavestomis reguliavimo užduotimis, ja keistis ir ją perduoti;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) remiantis b punkte nurodyta informacija, reguliariai rengti ataskaitų dėl konkrečių Europos elektroninių ryšių rinkos pokyčių aspektų, pavyzdžiui, tarptinklinio ryšio ir lyginamosios analizės ataskaitų, projektus, kurie turi būti teikiami BEREC;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) skleisti tarp NRI geriausią reguliavimo praktiką pagal 4 straipsnio 1 dalies k punktą;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) padėti BEREC kuriant ir prižiūrint registrus ir duomenų bazes pagal 4 straipsnio 1 dalies l punktą;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) padėti BEREC kuriant ir valdant informacijos ir komunikacijos sistemą pagal 41 straipsnį;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) padėti BEREC vesti viešąsias konsultacijas pagal 4 straipsnio 5 dalį;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) padėti atlikti parengiamuosius darbus ir teikti kitą administracinę ir su turiniu susijusią paramą, siekiant užtikrinti sklandžią Reguliuotojų valdybos veiklą;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) Reguliuotojų valdybos prašymu padėti sudaryti darbo grupes, prisidėti prie darbo reguliavimo srityje ir teikti administracinę paramą, kad būtų užtikrintas sklandus tų grupių veikimas;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) vykdyti kitas jam šiuo reglamentu arba kitais Sąjungos teisės aktais pavestas užduotis.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_6",
+   "kind": "article",
+   "number": "6",
+   "label": "6 straipsnis",
+   "title": "BEREC organizacinė struktūra",
+   "path": [
+    "IV SKYRIUS — BEREC ORGANIZACINĖ STRUKTŪRA"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC sudaro:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) Reguliuotojų valdyba;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) darbo grupės.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_7",
+   "kind": "article",
+   "number": "7",
+   "label": "7 straipsnis",
+   "title": "Reguliuotojų valdybos sudėtis",
+   "path": [
+    "IV SKYRIUS — BEREC ORGANIZACINĖ STRUKTŪRA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Reguliuotojų valdybą sudaro po vieną narį iš kiekvienos valstybės narės. Kiekvienas narys turi teisę balsuoti. Kiekvieną narį paskiria NRI, kuriai tenka pagrindinė atsakomybė už kasdienio elektroninių ryšių tinklų ir paslaugų rinkų veikimo priežiūrą pagal Direktyvą (ES) 2018/1972. Narys skiriamas iš šių asmenų: NRI vadovo, jos kolegialaus organo nario arba juos pakeičiančio asmens.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Kiekvienas Reguliuotojų valdybos narys turi pakaitinį narį, kurį paskiria NRI. Pakaitinis narys atstovauja nariui, kai šis negali dalyvauti. Pakaitinis narys skiriamas iš šių asmenų: NRI vadovo, jos kolegialaus organo nario, juos pakeičiančio asmens arba NRI darbuotojų.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Reguliuotojų valdybos nariai ir jų pakaitiniai nariai skiriami atsižvelgiant į jų žinias elektroninių ryšių srityje ir į atitinkamus vadybos, administravimo ir biudžeto valdymo įgūdžius. Kad būtų užtikrintas Reguliuotojų valdybos darbo tęstinumas, visos skiriančiosios NRI deda pastangas, kad jų nariai ir, kai įmanoma, taip pat jų pakaitiniai nariai keistųsi kuo rečiau, ir siekia, kad būtų užtikrinta tinkama vyrų ir moterų pusiausvyra.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Komisija dalyvauja visuose Reguliuotojų valdybos svarstymuose be balsavimo teisės ir jai atstovaujama atitinkamai aukštu lygiu.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Atnaujintas Reguliuotojų valdybos narių ir jų pakaitinių narių sąrašas kartu su jų interesų deklaracijomis skelbiamas viešai.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_8",
+   "kind": "article",
+   "number": "8",
+   "label": "8 straipsnis",
+   "title": "Reguliuotojų valdybos nepriklausomumas",
+   "path": [
+    "IV SKYRIUS — BEREC ORGANIZACINĖ STRUKTŪRA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Vykdydama jai pavestas užduotis ir nedarydama poveikio savo nariams, veikiantiems savo atitinkamų NRI vardu, Reguliuotojų valdyba veikia nepriklausomai ir objektyviai, vadovaudamasi Sąjungos interesais, nepaisant jokių konkrečių nacionalinių ar asmeninių interesų.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Nedarant poveikio koordinavimui, kaip nurodyta 3 straipsnio 6 dalyje, Reguliuotojų valdybos nariai ir jų pakaitiniai nariai nesiekia gauti jokios Vyriausybės, institucijos, asmens ar įstaigos nurodymų ir jais nesivadovauja.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_9",
+   "kind": "article",
+   "number": "9",
+   "label": "9 straipsnis",
+   "title": "Reguliuotojų valdybos funkcijos",
+   "path": [
+    "IV SKYRIUS — BEREC ORGANIZACINĖ STRUKTŪRA"
+   ],
+   "blocks": [
+    {
+     "text": "Reguliuotojų valdyba atlieka šias funkcijas:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) vykdo BEREC reguliavimo užduotis, išdėstytas 4 straipsnyje, t. y. priima tame straipsnyje nurodytas nuomones, gaires, ataskaitas, rekomendacijas ir bendrąsias pozicijas bei skleidžia geriausią praktiką; tai darydama, ji remiasi darbo grupių atliktu parengiamuoju darbu;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) priima administracinius sprendimus dėl BEREC darbo organizavimo;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) priima BEREC metinę darbo programą, kaip nurodyta 21 straipsnyje;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) priima BEREC veiklos metinę ataskaitą, kaip nurodyta 22 straipsnyje;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) priima interesų konfliktų prevencijos ir valdymo taisykles, kaip nurodyta 42 straipsnyje, taip pat taisykles, taikomas darbo grupių nariams;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) priima išsamias taisykles dėl teisės susipažinti su BEREC turimais dokumentais pagal 36 straipsnį;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) remdamasi poreikių analize, priima ir reguliariai atnaujina komunikacijos ir sklaidos planus, kaip nurodyta 37 straipsnio 2 dalyje;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) dviejų trečdalių savo narių balsų dauguma priima ir viešai paskelbia savo darbo tvarkos taisykles;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) kartu su direktoriumi leidžia sudaryti darbo susitarimus su kompetentingais Sąjungos organais, įstaigomis, agentūromis ir patariamosiomis grupėmis bei su trečiųjų valstybių kompetentingomis institucijomis ir su tarptautinėmis organizacijomis pagal 35 straipsnį;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) sudaro darbo grupes ir skiria jų pirmininkus;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "k) teikia BEREC biuro direktoriui gaires dėl BEREC biuro užduočių vykdymo.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_10",
+   "kind": "article",
+   "number": "10",
+   "label": "10 straipsnis",
+   "title": "Reguliuotojų valdybos pirmininkas ir pirmininko pavaduotojai",
+   "path": [
+    "IV SKYRIUS — BEREC ORGANIZACINĖ STRUKTŪRA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Reguliuotojų valdyba dviejų trečdalių savo narių balsų dauguma iš savo narių paskiria pirmininką ir bent du pirmininko pavaduotojus.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Vienas iš pirmininko pavaduotojų automatiškai perima pirmininko pareigas, jei pirmininkas tų pareigų negali vykdyti.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Pirmininkas skiriamas vienų metų kadencijai ir jo kadencija gali būti vieną kartą pratęsta. Siekiant užtikrinti BEREC darbo tęstinumą, būsimas pirmininkas, kai įmanoma, vienus metus iki jo, kaip pirmininko, kadencijos pradžios eina pirmininko pavaduotojo pareigas. Darbo tvarkos taisyklėse numatomas trumpesnis laikotarpis tais atvejais, kai būsimas pirmininkas negali vienus metus iki jo, kaip pirmininko, kadencijos pradžios eiti pirmininko pavaduotojo pareigų.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Nedarant poveikio Reguliuotojų valdybos vaidmeniui, susijusiam su pirmininko vykdomomis užduotimis, pirmininkas nesiekia gauti jokios Vyriausybės, institucijos, asmens ar įstaigos nurodymų ir jais nesivadovauja.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Gavęs kvietimą, pirmininkas pateikia Europos Parlamentui ir Tarybai BEREC užduočių vykdymo ataskaitą.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_11",
+   "kind": "article",
+   "number": "11",
+   "label": "11 straipsnis",
+   "title": "Reguliuotojų valdybos posėdžiai",
+   "path": [
+    "IV SKYRIUS — BEREC ORGANIZACINĖ STRUKTŪRA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Pirmininkas sušaukia Reguliuotojų valdybos posėdžius ir nustato tų posėdžių darbotvarkę, kuri paskelbiama viešai.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Reguliuotojų valdyba į eilinius posėdžius renkasi bent du kartus per metus. Neeiliniai posėdžiai šaukiami pirmininko iniciatyva, bent trijų Reguliuotojų valdybos narių prašymu arba Komisijos prašymu.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC biuro direktorius dalyvauja visuose svarstymuose be balsavimo teisės.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Reguliuotojų valdyba gali pakviesti bet kurį asmenį, kurio nuomonė gali būti jai svarbi, dalyvauti jos posėdžiuose stebėtojo teisėmis.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Laikantis darbo tvarkos taisyklių, Reguliuotojų valdybos nariams ir pakaitiniams nariams posėdžiuose gali padėti jų patarėjai arba kiti ekspertai.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. BEREC biuras teikia Reguliuotojų valdybai sekretoriato paslaugas.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_12",
+   "kind": "article",
+   "number": "12",
+   "label": "12 straipsnis",
+   "title": "Reguliuotojų valdybos balsavimo taisyklės",
+   "path": [
+    "IV SKYRIUS — BEREC ORGANIZACINĖ STRUKTŪRA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Reguliuotojų valdyba sprendimus priima paprasta savo narių balsų dauguma, nebent šiame reglamente arba kitame Sąjungos teisės akte būtų numatyta kitaip. 4 straipsnio 1 dalies c punkto ii ir v papunkčiuose nurodytas nuomones ir 4 straipsnio 1 dalies d punkto i-iv, vi, vii ir xi papunkčiuose nurodytas gaires Reguliuotojų valdyba turi priimti dviejų trečdalių savo narių balsų dauguma. Nepaisant šios dalies antros pastraipos, Reguliuotojų valdyba gali paprasta balsų dauguma ir atsižvelgdama į kiekvieną konkretų atvejį nuspręsti priimti šio reglamento 4 straipsnio 1 dalies c punkto ii papunktyje nurodytas nuomones paprasta balsų dauguma, kiek tai susiję su priemonių projektais, kuriems taikoma Direktyvos (ES) 2018/1972 76 straipsnio 2 dalis ir dėl kurių pradedama tos direktyvos 33 straipsnio 5 dalyje numatyta procedūra. Reguliuotojų valdybos sprendimai skelbiami viešai ir juose bet kurio iš narių prašymu nurodomos pareikštos išlygos.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Kiekvienas narys turi vieną balsą. Nariui nedalyvaujant, to nario balsavimo teise gali naudotis jo pakaitinis narys. Nariui ir jo pakaitiniam nariui nedalyvaujant, balsavimo teisės gali būti deleguojamos kitam nariui. Bet kuriuo atveju pirmininkas gali deleguoti balsavimo teisę. Pirmininkas balsuoja, išskyrus atvejus, kai jis yra delegavęs savo balsavimo teisę.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Reguliuotojų valdybos darbo tvarkos taisyklėse nustatoma išsami balsavimą reglamentuojanti tvarka, įskaitant sąlygas, kuriomis vienas narys gali veikti kito nario vardu, kvorumą ir pranešimo apie posėdžius terminus. Be to, darbo tvarkos taisyklėmis užtikrinama, kad Reguliuotojų valdybos nariams prieš kiekvieną posėdį būtų pateikiamos išsamios darbotvarkės ir pasiūlymų projektai, kad jie, prieš balsuojant, turėtų galimybę pasiūlyti pakeitimų. Darbo tvarkos taisyklėse, inter alia, gali būti nustatyta balsavimo dėl skubių klausimų procedūra ir kita praktinė Reguliuotojų valdybos veiklos tvarka.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_13",
+   "kind": "article",
+   "number": "13",
+   "label": "13 straipsnis",
+   "title": "Darbo grupės",
+   "path": [
+    "IV SKYRIUS — BEREC ORGANIZACINĖ STRUKTŪRA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Pagrįstais atvejais, visų pirma BEREC metinės darbo programos įgyvendinimo tikslais, Reguliuotojų valdyba gali įsteigti darbo grupes.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Reguliuotojų valdyba paskiria darbo grupių pirmininkus, kurie, jei įmanoma, atstovauja skirtingoms NRI.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Darbo grupėse gali dalyvauti visų BEREC darbe dalyvaujančių NRI ekspertai ir Komisija. Darbo grupėse taip pat gali dalyvauti BEREC biuro darbuotojai, kurie prisideda prie darbo grupių reguliavimo darbo ir teikia joms administracinę paramą. Jeigu darbo grupės buvo sudarytos 4 straipsnio 1 dalies c punkto ii papunktyje nurodytoms užduotims atlikti, Komisijos ekspertai jose nedalyvauja. Darbo grupėse, sudarytose šio reglamento 4 straipsnio 1 dalies c punkto iv, vi, vii ir viii papunkčiuose, d punkto i, ii, ix, x ir xi papunkčiuose, j punkto ii papunktyje ir l punkte, taip pat, kai tinkama, 4 straipsnio 1 dalies c punkto iii papunktyje ir j punkto i papunktyje nurodytoms užduotims atlikti, atsižvelgiama į ekspertų iš kitų kompetentingų institucijų, apie kurias pranešta pagal Direktyvos (ES) 2018/1972 5 straipsnio 4 dalį, nuomones. Reguliuotojų valdyba arba darbo grupių pirmininkai, atsižvelgdami į konkretų atvejį, prireikus gali pakviesti dalyvauti darbo grupės posėdžiuose atskirus ekspertus, kurie pripažįstami kompetentingais atitinkamoje srityje.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Reguliuotojų valdyba priima darbo tvarkos taisykles, kuriose nustatoma praktinė darbo grupių veikimo tvarka.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_14",
+   "kind": "article",
+   "number": "14",
+   "label": "14 straipsnis",
+   "title": "BEREC biuro organizacinė struktūra",
+   "path": [
+    "V SKYRIUS — BEREC BIURO DARBO ORGANIZAVIMAS"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC biurą sudaro:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) Valdančioji taryba;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) direktorius.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_15",
+   "kind": "article",
+   "number": "15",
+   "label": "15 straipsnis",
+   "title": "Valdančiosios tarybos sudėtis",
+   "path": [
+    "V SKYRIUS — BEREC BIURO DARBO ORGANIZAVIMAS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Valdančiąją tarybą sudaro Reguliuotojų valdybos nariais paskirti asmenys ir vienas aukšto lygmens Komisijos atstovas. Kiekvienas valdybos narys turi balsavimo teisę. Kiekviena skiriančioji NRI, kaip nurodyta 7 straipsnio 1 dalies antroje pastraipoje, Valdančiosios tarybos nariu gali paskirti asmenį, kuris nėra Reguliuotojų valdybos narys. Tas asmuo turi būti NRI vadovas, jos kolegialaus organo narys arba juos pakeičiantis asmuo.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Kiekvienas Valdančiosios tarybos narys turi pakaitinį narį, kuris atstovauja nariui, kai šis negali dalyvauti. Kiekvieno nario pakaitiniai nariai yra Reguliuotojų valdybos narių pakaitiniais nariais paskirti asmenys. Komisijos atstovas taip pat turi pakaitinį narį. Kiekviena skiriančioji NRI, kaip nurodyta 7 straipsnio 1 dalies antroje pastraipoje, Valdančiosios tarybos nario pakaitiniu nariu gali paskirti asmenį, kuris nėra Reguliuotojų valdybos nario pakaitinis narys. Tas asmuo turi būti NRI vadovas, jos kolegialaus organo narys, juos pakeičiantis asmuo arba NRI darbuotojas.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Valdančiosios tarybos nariai ir jų pakaitiniai nariai nesiekia gauti jokios Vyriausybės, institucijos, asmens ar įstaigos nurodymų ir jais nesivadovauja.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Valdančiosios tarybos narių ir jų pakaitinių narių atnaujintas sąrašas kartu su jų interesų deklaracijomis skelbiamas viešai.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_16",
+   "kind": "article",
+   "number": "16",
+   "label": "16 straipsnis",
+   "title": "Valdančiosios tarybos administracinės funkcijos",
+   "path": [
+    "V SKYRIUS — BEREC BIURO DARBO ORGANIZAVIMAS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Valdančioji taryba vykdo šias administracines funkcijas:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) teikia bendras BEREC biuro veiklos gaires ir kasmet dviejų trečdalių narių balsų dauguma priima BEREC biuro bendrąjį programavimo dokumentą, atsižvelgdama į Komisijos nuomonę ir laikantis 23 straipsnio;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) dviejų trečdalių narių balsų dauguma priima metinį BEREC biuro biudžetą ir vykdo kitas funkcijas, susijusias su BEREC biuro biudžetu, pagal VII skyrių;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) priima, viešai paskelbia 27 straipsnyje nurodytą konsoliduotąją metinę BEREC biuro veiklos ataskaitą ir imasi jos vertinimo bei ne vėliau kaip kiekvienų metų liepos 1 d. pateikia ataskaitą ir jos vertinimą Europos Parlamentui, Tarybai, Komisijai ir Audito Rūmams;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) priima BEREC biurui taikytinas finansines taisykles pagal 29 straipsnį;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) atsižvelgdama į įgyvendintinų priemonių sąnaudas ir naudą, priima sukčiavimo rizikai proporcingą kovos su sukčiavimu strategiją;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) gavusi vidaus ar išorės audito ataskaitas ir vertinimus, taip pat Europos kovos su sukčiavimu tarnybos (toliau – OLAF) tyrimų rezultatus, užtikrina tinkamus tolesnius veiksmus, susijusius su išvadomis ir rekomendacijomis;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) priima interesų konfliktų prevencijos ir valdymo taisykles, kaip nurodyta 42 straipsnio 3 dalyje;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) remdamasi poreikių analize, priima ir reguliariai atnaujina komunikacijos ir sklaidos planus, nurodytus 37 straipsnio 2 dalyje;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) priima savo darbo tvarkos taisykles;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) priima Europos Sąjungos pareigūnų tarnybos nuostatų ir kitų Europos Sąjungos tarnautojų įdarbinimo sąlygų įgyvendinimo taisykles vadovaudamasi Tarnybos nuostatų 110 straipsniu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) nedarant poveikio 2 dalies pirmoje pastraipoje nurodytam sprendimui, BEREC biuro darbuotojų atžvilgiu naudojasi įgaliojimais, kurie Tarnybos nuostatais yra suteikti paskyrimų tarnybai, o Kitų tarnautojų įdarbinimo sąlygomis – tarnybai, įgaliotai sudaryti darbo sutartis (toliau – paskyrimų tarnybos įgaliojimai);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) vadovaudamasi 32 straipsniu, skiria direktorių ir, prireikus, pratęsia jo kadenciją arba atleidžia jį iš pareigų;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) laikydamasi Tarnybos nuostatų ir Kitų tarnautojų įdarbinimo sąlygų, skiria apskaitos pareigūną, kuris vykdo savo pareigas visiškai savarankiškai;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) atsižvelgdama į BEREC biuro veiklos poreikius ir laikydamasi patikimo biudžeto valdymo principo, priima visus sprendimus dėl BEREC biuro vidaus struktūrų sukūrimo ir, prireikus, jų keitimo. Atsižvelgiant į pirmos pastraipos m punktą, BEREC biuras gali paskirti tą patį apskaitos pareigūną, kaip ir kitas Sąjungos organas ar institucija. Visų pirma BEREC biuras ir Komisija gali susitarti, kad Komisijos apskaitos pareigūnas eitų ir BEREC biuro apskaitos pareigūno pareigas.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Vadovaudamasi Tarnybos nuostatų 110 straipsniu, Valdančioji taryba priima Tarnybos nuostatų 2 straipsnio 1 dalimi ir Kitų tarnautojų įdarbinimo sąlygų 6 straipsniu grindžiamą sprendimą, kuriuo direktoriui deleguojami atitinkami paskyrimų tarnybos įgaliojimai ir nustatomos sąlygos, kuriomis šis įgaliojimų delegavimas gali būti sustabdytas. Direktoriui leidžiama tuos įgaliojimus perdeleguoti. Prireikus dėl išimtinių aplinkybių Valdančioji taryba gali priimti sprendimą laikinai sustabdyti paskyrimų tarnybos įgaliojimų delegavimą direktoriui bei direktoriaus perdeleguotus įgaliojimus, ir jais naudotis pati arba deleguoti juos vienam iš savo narių arba darbuotojui, kuris nėra direktorius.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_17",
+   "kind": "article",
+   "number": "17",
+   "label": "17 straipsnis",
+   "title": "Valdančiosios tarybos pirmininkas ir pirmininko pavaduotojai",
+   "path": [
+    "V SKYRIUS — BEREC BIURO DARBO ORGANIZAVIMAS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Valdančiosios tarybos pirmininkas ir pirmininko pavaduotojai yra asmenys, paskirti Reguliuotojų valdybos pirmininku ir pirmininko pavaduotojais. Jų kadencijos trukmė yra tokia pati. Nukrypstant nuo pirmos pastraipos, Valdančioji taryba gali dviejų trečdalių narių balsų dauguma pirmininku arba pirmininko pavaduotoju (-ais) iš valstybėms narėms atstovaujančių savo narių išrinkti kitus Valdančiosios tarybos narius. Jų kadencijos trukmė yra tokia pati kaip ir Reguliuotojų valdybos pirmininko ir pirmininko pavaduotojų.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Vienas iš pirmininko pavaduotojų automatiškai perima pirmininko pareigas, jei pirmininkas tų pareigų negali vykdyti.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Gavęs kvietimą, Valdančiosios tarybos pirmininkas Europos Parlamentui ir Tarybai pateikia BEREC biuro užduočių vykdymo ataskaitą.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_18",
+   "kind": "article",
+   "number": "18",
+   "label": "18 straipsnis",
+   "title": "Valdančiosios tarybos posėdžiai",
+   "path": [
+    "V SKYRIUS — BEREC BIURO DARBO ORGANIZAVIMAS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Pirmininkas sušaukia Valdančiosios tarybos posėdžius.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC biuro direktorius dalyvauja svarstymuose, išskyrus susijusius su 32 straipsniu, be balsavimo teisės.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Valdančioji taryba į eilinius posėdžius renkasi bent du kartus per metus. Be to, pirmininkas savo iniciatyva, Komisijos arba ne mažiau kaip trijų Valdančiosios tarybos narių prašymu sušaukia neeilinius posėdžius.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Valdančioji taryba gali pakviesti bet kurį asmenį, kurio nuomonė gali būti svarbi, dalyvauti jos posėdžiuose stebėtojo teisėmis.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Valdančiosios tarybos nariams ir pakaitiniams nariams posėdžiuose gali padėti patarėjai arba ekspertai, laikantis jos darbo tvarkos taisyklių.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. BEREC biuras teikia Valdančiajai tarybai sekretoriato paslaugas.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_19",
+   "kind": "article",
+   "number": "19",
+   "label": "19 straipsnis",
+   "title": "Valdančiosios tarybos balsavimo taisyklės",
+   "path": [
+    "V SKYRIUS — BEREC BIURO DARBO ORGANIZAVIMAS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Valdančioji taryba sprendimus priima paprasta savo narių balsų dauguma, nebent šiame reglamente būtų numatyta kitaip.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Kiekvienas narys turi vieną balsą. Nariui nedalyvaujant, balsavimo teise gali naudotis jo pakaitinis narys. Nedalyvaujant nariui ir pakaitiniam nariui, balsavimo teisės gali būti deleguojamos kitam nariui.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Pirmininkas bet kuriuo atveju gali deleguoti balsavimo teisę. Pirmininkas balsuoja, išskyrus atvejus, kai jis yra delegavęs savo balsavimo teisę.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Valdančiosios tarybos darbo tvarkos taisyklėse nustatoma išsamesnė balsavimo tvarka, visų pirma balsavimo dėl skubių klausimų procedūra ir aplinkybės, kuriomis vienas narys gali veikti kito nario vardu.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_20",
+   "kind": "article",
+   "number": "20",
+   "label": "20 straipsnis",
+   "title": "Direktoriaus pareigos",
+   "path": [
+    "V SKYRIUS — BEREC BIURO DARBO ORGANIZAVIMAS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktorius atsako už administracinį BEREC biuro valdymą. Direktorius yra atskaitingas Valdančiajai tarybai.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktorius padeda Reguliuotojų valdybos pirmininkui ir Valdančiosios tarybos pirmininkui pasirengti atitinkamų organų posėdžiams.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Nedarant poveikio Reguliuotojų valdybos, Valdančiosios tarybos ir Komisijos įgaliojimams, direktorius savo pareigas vykdo nepriklausomai ir nesiekia gauti jokios Vyriausybės, institucijos, asmens ar įstaigos nurodymų ir jais nesivadovauja.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Gavęs kvietimą, direktorius Europos Parlamentui ir Tarybai pateikia savo pareigų vykdymo ataskaitą.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Direktorius yra BEREC biuro teisinis atstovas.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Direktorius atsako už BEREC biuro užduočių įgyvendinimą ir vadovaujasi Reguliuotojų valdybos ir Valdančiosios tarybos pateiktomis gairėmis. Visų pirma direktorius atsako už:",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "a) kasdienį BEREC biuro administravimą;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "b) Reguliuotojų valdybos ir Valdančiosios tarybos priimtų administracinių sprendimų įgyvendinimą;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "c) 23 straipsnyje nurodyto bendrojo programavimo dokumento rengimą ir pateikimą Valdančiajai tarybai;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "d) pagalbą Reguliuotojų valdybai rengiant BEREC metinę veiklos ataskaitą, kaip nurodyta 22 straipsnyje;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "e) pagalbą Reguliuotojų valdybai rengiant BEREC metinę darbo programą, kaip nurodyta 21 straipsnyje;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "f) bendrojo programavimo dokumento įgyvendinimą ir atsiskaitymą už jo įgyvendinimą Valdančiajai tarybai;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "g) BEREC biuro konsoliduotosios metinės veiklos ataskaitos projekto rengimą, kaip nurodyta 27 straipsnyje, ir pateikimą Valdančiajai tarybai vertinti ir priimti;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "h) veiksmų plano rengimą, atsižvelgiant į vidaus arba išorės audito ataskaitų bei vertinimų ir OLAF tyrimų išvadas, ir pažangos ataskaitų teikimą Valdančiajai tarybai ne rečiau kaip kartą per metus;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "i) Sąjungos finansinių interesų apsaugą taikant sukčiavimo, korupcijos ir kitos neteisėtos veiklos prevencijos priemones, atliekant veiksmingus patikrinimus, ir, jeigu nustatoma pažeidimų, susigrąžinant netinkamai išmokėtas sumas ir, kai tinkama, imantis veiksmingų, proporcingų ir atgrasomų administracinių priemonių, įskaitant finansines sankcijas;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "j) BEREC biuro kovos su sukčiavimu strategijos rengimą ir jos pateikimą Valdančiajai tarybai tvirtinti;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "k) BEREC biurui taikomų finansinių taisyklių projekto rengimą;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "l) BEREC biuro pajamų ir išlaidų sąmatos projekto rengimą ir jo biudžeto vykdymą;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "m) kartu su Reguliuotojų valdyba – leidimą sudaryti darbo susitarimus su kompetentingais Sąjungos organais, įstaigomis, agentūromis ir patariamosiomis grupėmis bei su trečiųjų valstybių kompetentingomis institucijomis ir su tarptautinėmis organizacijomis pagal 35 straipsnį.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Direktorius, prižiūrint Valdančiajai tarybai, imasi būtinų priemonių, visų pirma susijusių su vidaus administracinių nurodymų priėmimu ir pranešimų skelbimu, siekdamas užtikrinti, kad BEREC biuras veiktų pagal šį reglamentą.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Direktorius, gavęs išankstinį Komisijos, Valdančiosios tarybos ir atitinkamos (-ų) valstybės (-ių) narės (-ių) sutikimą, sprendžia, ar būtina vienoje arba daugiau valstybių narių turėti vieną ar daugiau darbuotojų, kad BEREC biuro uždaviniai būtų vykdomi efektyviai ir veiksmingai. Vykdytinos veiklos sritis sprendime nustatoma taip, kad būtų išvengta nebūtinų išlaidų ir administracinių BEREC biuro funkcijų dubliavimo. Prieš priimant tokį sprendimą, 23 straipsnio 4 dalyje nurodytame daugiamečio programavimo dokumente išdėstomas jo poveikis darbuotojų skyrimo ir biudžeto atžvilgiu.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_21",
+   "kind": "article",
+   "number": "21",
+   "label": "21 straipsnis",
+   "title": "BEREC metinė darbo programa",
+   "path": [
+    "VI SKYRIUS — BEREC VEIKLOS PROGRAMAVIMAS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Reguliuotojų valdyba priima metinės darbo programos pagrindinius principus ne vėliau kaip kiekvienų metų, einančių prieš metus, su kuriais susijusi ta metinė darbo programa, sausio 31 d. Pasikonsultavusi su Europos Parlamentu, Taryba ir Komisija dėl jų prioritetų ir pasikonsultavusi su kitomis suinteresuotosiomis šalimis pagal 4 straipsnio 5 dalį, Reguliuotojų valdyba priima galutinę metinę darbo programą ne vėliau kaip tų metų gruodžio 31 d.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Priėmusi metinę darbo programą, Reguliuotojų valdyba perduoda ją Europos Parlamentui, Tarybai ir Komisijai.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_22",
+   "kind": "article",
+   "number": "22",
+   "label": "22 straipsnis",
+   "title": "BEREC metinė veiklos ataskaita",
+   "path": [
+    "VI SKYRIUS — BEREC VEIKLOS PROGRAMAVIMAS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Reguliuotojų valdyba priima metinę ataskaitą dėl BEREC veiklos.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Reguliuotojų valdyba perduoda metinę veiklos ataskaitą Europos Parlamentui, Tarybai, Komisijai ir Europos ekonomikos ir socialinių reikalų komitetui ne vėliau kaip kiekvienų metų birželio 15 d.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_23",
+   "kind": "article",
+   "number": "23",
+   "label": "23 straipsnis",
+   "title": "Metinis ir daugiametis programavimas",
+   "path": [
+    "VII SKYRIUS — BEREC BIURO BIUDŽETAS IR PROGRAMAVIMAS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktorius kasmet parengia programavimo dokumento projektą, kuriame, vadovaujantis Deleguotojo reglamento (ES) Nr. 1271/2013 32 straipsniu, atsižvelgiant į Komisijos nustatytas gaires, nustatomas metinis ir daugiametis programavimas (toliau – bendrasis programavimo dokumentas). Ne vėliau kaip kiekvienų metų sausio 31 d. Valdančioji taryba priima bendrojo programavimo dokumento projektą ir jį pateikia Komisijai, kad ši pateiktų savo nuomonę. Bendrojo programavimo dokumento projektas taip pat perduodamas Europos Parlamentui ir Tarybai. Po to Valdančioji taryba priima bendrąjį programavimo dokumentą, atsižvelgdama į Komisijos nuomonę. Ji pateikia bendrojo programavimo dokumentą, taip pat visus vėlesnius atnaujinimus Europos Parlamentui, Tarybai ir Komisijai. Priėmus Sąjungos bendrąjį biudžetą bendrasis programavimo dokumentas tampa galutiniu ir prireikus atitinkamai koreguojamas.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Metinio programavimo dokumente nustatomi išsamūs tikslai ir numatomi rezultatai, įskaitant veiklos rezultatų rodiklius. Į ją taip pat įtraukiamas finansuotinų veiksmų aprašas ir nurodomi kiekvienam veiksmui skiriami finansiniai ir žmogiškieji ištekliai, vadovaujantis veikla grindžiamo biudžeto sudarymo ir valdymo principais, kaip nurodyta ir 31 straipsnyje. Metinio programavimo dokumentas turi būti suderintas su BEREC metinės darbo programos pagrindiniais principais ir galutine metine darbo programa, kaip nurodyta 21 straipsnyje, ir su šio straipsnio 4 dalyje nurodytu BEREC biuro programavimo dokumentu. Joje aiškiai nurodoma, kokie uždaviniai buvo pridėti, pakeisti arba išbraukti, palyginti su ankstesniais finansiniais metais.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Valdančioji taryba, kai reikia, iš dalies pakeičia metinio programavimo dokumentą priėmus 21 straipsnyje nurodytą BEREC galutinę metinę darbo programą, kai BEREC arba BEREC biurui pavedama nauja užduotis. Bet kokie esminiai metinio programavimo dokumento pakeitimai priimami taikant tą pačią procedūrą, kuri buvo naudojama priimant pirminį metinio programavimo dokumentą. Valdančioji taryba gali deleguoti direktoriui įgaliojimus daryti neesminius metinio programavimo dokumento pakeitimus.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Daugiamečio programavimo dokumente nustatomas bendras strateginis programavimas, įskaitant tikslus, numatomus rezultatus ir veiksmingumo rodiklius. Joje taip pat nustatomas išteklių programavimas, įskaitant daugiametį biudžetą ir darbuotojus. Išteklių programavimas atnaujinamas kasmet. Strateginis programavimas atnaujinamas kai tinkama ir visų pirma siekiant atsižvelgti į 48 straipsnyje nurodyto vertinimo rezultatus.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Į BEREC biuro bendrojo programavimo dokumentą įtraukiamas BEREC strategijos dėl santykių su kompetentingais Sąjungos organais, įstaigomis, agentūromis ir patariamosiomis grupėmis, su trečiųjų valstybių kompetentingomis institucijomis ir su tarptautinėmis organizacijomis, kaip nurodyta 35 straipsnio 3 dalyje, įgyvendinimas bei su ta strategija susiję veiksmai ir nurodomi su ja susiję ištekliai.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_24",
+   "kind": "article",
+   "number": "24",
+   "label": "24 straipsnis",
+   "title": "Biudžeto sudarymas",
+   "path": [
+    "VII SKYRIUS — BEREC BIURO BIUDŽETAS IR PROGRAMAVIMAS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktorius kasmet parengia preliminarų kitų finansinių metų BEREC biuro pajamų ir išlaidų sąmatos projektą (toliau – sąmatos projektas), įskaitant etatų planą, ir pateikia jį Valdančiajai tarybai. Sąmatos projekte pateikta informacija turi būti suderinta su 23 straipsnio 1 dalyje nurodytame bendrojo programavimo dokumento projekte pateikta informacija.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Sąmatos projektą direktorius pateikia Komisijai kiekvienais metais ne vėliau kaip sausio 31 d.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Komisija sąmatos projektą kartu su Sąjungos bendrojo biudžeto projektu pateikia biudžeto valdymo institucijai.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Remdamasi sąmatos projektu, Komisija į Sąjungos bendrojo biudžeto projektą įtraukia sąmatas, jos nuomone, reikalingas etatų planui ir iš bendrojo biudžeto mokėtino įnašo sumai bei pagal Sutarties dėl Europos Sąjungos veikimo (toliau – SESV) 313 ir 314 straipsnius teikia bendrojo biudžeto projektą biudžeto valdymo institucijai.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Biudžeto valdymo institucija tvirtina BEREC biurui skiriamo įnašo asignavimus.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Biudžeto valdymo institucija priima BEREC biuro etatų planą.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. BEREC biuro biudžetą priima Valdančioji taryba. Biudžetas tampa galutiniu po to, kai galutinai priimamas Sąjungos bendrasis biudžetas. Prireikus, jis atitinkamai koreguojamas.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Bet kuriam su statyba susijusiam projektui, kuris gali turėti didelį poveikį BEREC biuro biudžetui, taikomas Deleguotasis reglamentas (ES) Nr. 1271/2013.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_25",
+   "kind": "article",
+   "number": "25",
+   "label": "25 straipsnis",
+   "title": "Biudžeto struktūra",
+   "path": [
+    "VII SKYRIUS — BEREC BIURO BIUDŽETAS IR PROGRAMAVIMAS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Visų BEREC biuro pajamų ir išlaidų sąmatos parengiamos kiekvieniems finansiniams metams, kurie sutampa su kalendoriniais metais, ir įtraukiamos į BEREC biuro biudžetą.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC biuro biudžeto pajamos ir išlaidos turi būti subalansuotos.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Nedarant poveikio kitiems ištekliams, BEREC biuro pajamas sudaro: a) Sąjungos įnašas; b) bet kokie savanoriški valstybių narių arba NRI finansiniai įnašai; c) rinkliavos už leidinius ir visas kitas BEREC biuro teikiamas paslaugas; d) bet kokie trečiųjų valstybių arba pagal 35 straipsnį BEREC biuro darbe dalyvaujančių trečiųjų valstybių reguliavimo institucijų, kompetentingų elektroninių ryšių srityje, įnašai.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. BEREC biuro išlaidas sudaro darbuotojų darbo užmokestis, administracinės bei infrastruktūros išlaidos ir veiklos išlaidos.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_26",
+   "kind": "article",
+   "number": "26",
+   "label": "26 straipsnis",
+   "title": "Biudžeto vykdymas",
+   "path": [
+    "VII SKYRIUS — BEREC BIURO BIUDŽETAS IR PROGRAMAVIMAS"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC biuro biudžetą vykdo direktorius.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktorius kasmet pateikia Europos Parlamentui ir Tarybai visą su vertinimo procedūrų išvadomis susijusią informaciją.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_27",
+   "kind": "article",
+   "number": "27",
+   "label": "27 straipsnis",
+   "title": "Konsoliduotoji metinė veiklos ataskaita",
+   "path": [
+    "VII SKYRIUS — BEREC BIURO BIUDŽETAS IR PROGRAMAVIMAS"
+   ],
+   "blocks": [
+    {
+     "text": "Valdančioji taryba priima konsoliduotąją metinę veiklos ataskaitą pagal Deleguotojo reglamento (ES) Nr. 1271/2013 47 straipsnį, atsižvelgdama į Komisijos nustatytas gaires.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_28",
+   "kind": "article",
+   "number": "28",
+   "label": "28 straipsnis",
+   "title": "Ataskaitų teikimas ir biudžeto įvykdymo patvirtinimas",
+   "path": [
+    "VII SKYRIUS — BEREC BIURO BIUDŽETAS IR PROGRAMAVIMAS"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC biuro apskaitos pareigūnas pateikia laikinąsias finansinių metų finansines ataskaitas Komisijos apskaitos pareigūnui ir Audito Rūmams ne vėliau kaip kitų finansinių metų kovo 1 d.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC biuras pateikia biudžeto ir finansų valdymo ataskaitą Europos Parlamentui, Tarybai ir Audito Rūmams ne vėliau kaip kitų finansinių metų kovo 31 d.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Gavęs Audito Rūmų pastabas dėl BEREC biuro preliminarių finansinių ataskaitų, BEREC biuro apskaitos pareigūnas savo atsakomybe parengia BEREC biuro galutines finansines ataskaitas. Direktorius pateikia galutines finansines ataskaitas Valdančiajai tarybai, kad ši pareikštų savo nuomonę.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Valdančioji taryba pateikia nuomonę dėl BEREC biuro galutinių finansinių ataskaitų.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Direktorius pateikia galutines finansines ataskaitas kartu su Valdančiosios tarybos nuomone Europos Parlamentui, Tarybai, Komisijai ir Audito Rūmams ne vėliau kaip kitų finansinių metų liepos 1 d.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. BEREC biuras paskelbia galutines finansines ataskaitas Europos Sąjungos oficialiajame leidinyje ne vėliau kaip kitų metų lapkričio 15 d.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Direktorius pateikia Audito Rūmams atsakymą į jų pastabas ne vėliau kaip kitų finansinių metų rugsėjo 30 d. Tą atsakymą direktorius taip pat pateikia Valdančiajai tarybai.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Europos Parlamento prašymu direktorius pateikia jam visą informaciją, kurios reikia, kad būtų užtikrinta sklandi atitinkamų finansinių metų biudžeto įvykdymo patvirtinimo procedūra pagal Europos Parlamento ir Tarybos reglamento (ES, Euratomas) 2018/1046 165 straipsnio 3 dalį.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Anksčiau nei N + 2 metų gegužės 15 d. Europos Parlamentas, remdamasis Tarybos kvalifikuota balsų dauguma priimta rekomendacija, patvirtina, kad direktorius N metų biudžetą įvykdė.",
+     "para": "9",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_29",
+   "kind": "article",
+   "number": "29",
+   "label": "29 straipsnis",
+   "title": "Finansinės taisyklės",
+   "path": [
+    "VII SKYRIUS — BEREC BIURO BIUDŽETAS IR PROGRAMAVIMAS"
+   ],
+   "blocks": [
+    {
+     "text": "Pasikonsultavusi su Komisija, Valdančioji taryba priima BEREC biurui taikomas finansines taisykles. Jos neturi skirtis nuo Deleguotojo reglamento (ES) Nr. 1271/2013, nebent toks skirtumas yra reikalingas dėl BEREC biuro veiklos ir yra gautas išankstinis Komisijos sutikimas.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_30",
+   "kind": "article",
+   "number": "30",
+   "label": "30 straipsnis",
+   "title": "Bendroji nuostata",
+   "path": [
+    "VIII SKYRIUS — BEREC BIURO DARBUOTOJAI"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC biuro darbuotojams taikomi Tarnybos nuostatai ir Kitų tarnautojų įdarbinimo sąlygos bei Sąjungos institucijų susitarimu priimtos tų Tarnybos nuostatų ir Kitų tarnautojų įdarbinimo sąlygų įgyvendinimo taisyklės.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_31",
+   "kind": "article",
+   "number": "31",
+   "label": "31 straipsnis",
+   "title": "BEREC biuro darbuotojų skaičius",
+   "path": [
+    "VIII SKYRIUS — BEREC BIURO DARBUOTOJAI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Laikantis žmogiškųjų išteklių valdymo pagal BEREC biuro veiklą principo, BEREC biuras turi turėti savo užduotims vykdyti reikiamus darbuotojus.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Darbuotojų skaičius ir atitinkami finansiniai ištekliai siūlomi pagal 23 straipsnio 2 ir 4 dalis ir 24 straipsnio 1 dalį, atsižvelgiant į 5 straipsnio a punktą ir į visas kitas BEREC biurui šiuo reglamentu arba kitais Sąjungos teisės aktais pavestas užduotis, taip pat į poreikį laikytis visoms Sąjungos decentralizuotoms agentūroms taikytinų taisyklių.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_32",
+   "kind": "article",
+   "number": "32",
+   "label": "32 straipsnis",
+   "title": "Direktoriaus skyrimas",
+   "path": [
+    "VIII SKYRIUS — BEREC BIURO DARBUOTOJAI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktorius įdarbinamas kaip BEREC biuro laikinasis darbuotojas pagal Kitų tarnautojų įdarbinimo sąlygų 2 straipsnio a punktą.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktorių skiria Valdančioji taryba, atlikusi atvirą ir skaidrią atrankos procedūrą, remdamasi nuopelnais, valdymo, administraciniais ir biudžeto valdymo įgūdžiais, taip pat įgūdžiais bei patirtimi elektroninių ryšių tinklų ir paslaugų srityje. Kandidatų sąrašo negali siūlyti vien pirmininkas arba pirmininko pavaduotojas. Valdančiosios tarybos darbo tvarkos taisyklėse nustatoma išsami tvarka, kuria reglamentuojama reikalavimus atitinkančių kandidatų galutinio sąrašo pateikimo procedūra ir balsavimo procedūra.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Sudarant sutartį su direktoriumi, BEREC biurui atstovauja Valdančiosios tarybos pirmininkas.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Valdančiosios tarybos atrinktas kandidatas, prieš jį paskiriant direktoriumi, kviečiamas padaryti pareiškimą Europos Parlamento kompetentingam komitetui ir atsakyti į jo narių klausimus.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Direktoriaus kadencija – penkeri metai. Iki to laikotarpio pabaigos Valdančiosios tarybos pirmininkas atlieka įvertinimą, kuriame atsižvelgiama į direktoriaus darbo rezultatus ir į BEREC biuro užduotis bei iššūkius. Tas įvertinimas pateikiamas Europos Parlamentui ir Tarybai.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Atsižvelgdama į 5 dalyje nurodytą įvertinimą, Valdančioji taryba gali pratęsti direktoriaus kadenciją vieną kartą, ne ilgiau kaip penkeriems metams.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Jei Valdančioji taryba ketina pratęsti direktoriaus kadenciją, ji apie tai informuoja Europos Parlamentą. Per vieną mėnesį iki tokio kadencijos pratęsimo direktorius gali būti kviečiamas padaryti pareiškimą kompetentingame Europos Parlamento komitete ir atsakyti į jo narių klausimus.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Direktorius, kurio kadencija buvo pratęsta, pasibaigus sudėtam laikotarpiui negali dalyvauti kitoje atrankos į tas pačias pareigas procedūroje.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Jei direktoriaus kadencija nepratęsiama, pasibaigus pradiniam jo kadencijos laikui Valdančiosios tarybos sprendimu jis toliau eina pareigas tol, kol paskiriamas naujas direktorius.",
+     "para": "9",
+     "point": ""
+    },
+    {
+     "text": "10. Direktorius gali būti atleistas iš pareigų tik Valdančiosios tarybos sprendimu, priimtu remiantis nario pasiūlymu.",
+     "para": "10",
+     "point": ""
+    },
+    {
+     "text": "11. Sprendimus dėl direktoriaus skyrimo, kadencijos pratęsimo arba atleidimo iš pareigų Valdančioji taryba priima dviejų trečdalių savo narių balsų dauguma.",
+     "para": "11",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_33",
+   "kind": "article",
+   "number": "33",
+   "label": "33 straipsnis",
+   "title": "Deleguotieji nacionaliniai ekspertai ir kiti darbuotojai",
+   "path": [
+    "VIII SKYRIUS — BEREC BIURO DARBUOTOJAI"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC biuras gali naudotis deleguotųjų nacionalinių ekspertų ar kitų darbuotojų, kurie nėra jame įdarbinti, paslaugomis. Tokiems darbuotojams netaikomi Pareigūnų tarnybos nuostatai ir Kitų tarnautojų įdarbinimo sąlygos.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Valdančioji taryba priima sprendimą, kuriame nustatomos nacionalinių ekspertų delegavimo į BEREC biurą taisyklės.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_34",
+   "kind": "article",
+   "number": "34",
+   "label": "34 straipsnis",
+   "title": "Privilegijos ir imunitetai",
+   "path": [
+    "IX SKYRIUS — BENDROSIOS NUOSTATOS"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC biurui ir jo darbuotojams taikomas Protokolas dėl Europos Sąjungos privilegijų ir imunitetų.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_35",
+   "kind": "article",
+   "number": "35",
+   "label": "35 straipsnis",
+   "title": "Bendradarbiavimas su Sąjungos organais, trečiosiomis valstybėmis ir tarptautinėmis organizacijomis",
+   "path": [
+    "IX SKYRIUS — BENDROSIOS NUOSTATOS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Tiek, kiek būtina šiame reglamente išdėstytiems tikslams pasiekti ir jiems pavestoms užduotims atlikti ir nedarant poveikio valstybių narių ir Sąjungos institucijų kompetencijai, BEREC ir BEREC biuras gali bendradarbiauti su kompetentingais Sąjungos organais, įstaigomis, agentūromis ir patariamosiomis grupėmis, su trečiųjų valstybių kompetentingomis institucijomis ir su tarptautinėmis organizacijomis. Tuo tikslu BEREC ir BEREC biuras, gavę išankstinį Komisijos patvirtinimą, gali sudaryti darbo susitarimus. Tais susitarimais nesukuriamos teisinės pareigos.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Reguliuotojų valdybos, darbo grupių ir Valdančiosios tarybos veikloje gali dalyvauti trečiųjų valstybių reguliavimo institucijos, kurioms tenka pagrindinė atsakomybė elektroninių ryšių srityje, kai tos trečiosios valstybės tuo tikslu yra sudariusios susitarimus su Sąjunga. Remiantis atitinkamomis tų susitarimų nuostatomis parengiami darbo susitarimai, kuriuose visų pirma nurodomas atitinkamų trečiųjų valstybių reguliavimo institucijų dalyvavimo be balsavimo teisės BEREC ir BEREC biuro darbe pobūdis, mastas ir būdas, įtraukiant su dalyvavimu BEREC vykdomose iniciatyvose, finansiniais įnašais ir į BEREC biurą skiriamais darbuotojais susijusias nuostatas. Tų darbo susitarimų nuostatos dėl darbuotojų bet kuriuo atveju turi atitikti Tarnybos nuostatus.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Priimdama 21 straipsnyje nurodytą metinę darbo programą Reguliuotojų valdyba priima BEREC strategiją dėl santykių su kompetentingais Sąjungos organais, įstaigomis, agentūromis ir patariamosiomis grupėmis, su trečiųjų valstybių kompetentingomis institucijomis ir su tarptautinėmis organizacijomis BEREC kompetencijai priklausančiais klausimais. Komisija, BEREC ir BEREC biuras sudaro atitinkamą darbo susitarimą, siekiant užtikrinti, kad BEREC ir BEREC biuras veiktų pagal savo įgaliojimus ir esamoje institucinėje struktūroje.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_36",
+   "kind": "article",
+   "number": "36",
+   "label": "36 straipsnis",
+   "title": "Galimybė susipažinti su dokumentais ir duomenų apsauga",
+   "path": [
+    "IX SKYRIUS — BENDROSIOS NUOSTATOS"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC ir BEREC biuro turimiems dokumentams taikomas Europos Parlamento ir Tarybos reglamentas (EB) Nr. 1049/2001.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Ne vėliau kaip 2019 m. birželio 21 d. Reguliuotojų valdyba ir Valdančioji taryba priima išsamias Reglamento (EB) Nr. 1049/2001 taikymo taisykles.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC ir BEREC biuro vykdomam asmens duomenų tvarkymui taikomas Reglamentas (ES) 2018/1725.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Ne vėliau kaip 2019 m. birželio 21 d. Reguliuotojų valdyba ir Valdančioji taryba nustato priemones, kuriomis BEREC ir BEREC biuras taiko Reglamentą (ES) 2018/1725, įskaitant priemones, susijusias su BEREC biuro duomenų apsaugos pareigūno paskyrimu. Tos priemonės nustatomos pasikonsultavus su Europos duomenų apsaugos priežiūros pareigūnu.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_37",
+   "kind": "article",
+   "number": "37",
+   "label": "37 straipsnis",
+   "title": "Skaidrumas ir komunikacija",
+   "path": [
+    "IX SKYRIUS — BENDROSIOS NUOSTATOS"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC ir BEREC biuras savo veiklą turi vykdyti labai skaidriai. BEREC ir BEREC biuras užtikrina, kad visuomenei ir visoms suinteresuotosioms šalims būtų pateikiama tinkama, objektyvi, patikima ir lengvai prieinama informacija, ypač informacija, susijusi su jų užduotimis ir jų darbo rezultatais.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC, padedant BEREC biurui, gali savo iniciatyva savo kompetencijos srityje vykdyti komunikacijos veiklą, laikydamasi atitinkamų Reguliuotojų valdybos priimtų komunikacijos ir sklaidos planų. Išteklių tokiam komunikacijos veiklos rėmimui skyrimas, neviršijant BEREC biuro biudžeto, turi netrukdyti veiksmingai vykdyti 4 straipsnyje nurodytų BEREC užduočių arba 5 straipsnyje nurodytų BEREC biuro užduočių. BEREC biuro komunikacijos veikla vykdoma laikantis atitinkamų Valdančiosios tarybos priimtų komunikacijos ir sklaidos planų.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_38",
+   "kind": "article",
+   "number": "38",
+   "label": "38 straipsnis",
+   "title": "Konfidencialumas",
+   "path": [
+    "IX SKYRIUS — BENDROSIOS NUOSTATOS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Nedarant poveikio 36 straipsnio 1 daliai ir 40 straipsnio 2 daliai, BEREC ir BEREC biuras neatskleidžia trečiosioms šalims informacijos, kurią jie tvarko arba gauna ir kurią pateiktame pagrįstame prašyme prašoma laikyti visiškai ar iš dalies konfidencialia.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Reguliuotojų valdybos, Valdančiosios tarybos ir darbo grupių nariai bei kiti jų posėdžių dalyviai, direktorius, deleguotieji nacionaliniai ekspertai ir kiti darbuotojai, kurie nėra įdarbinti BEREC biure, turi laikytis konfidencialumo reikalavimų pagal SESV 339 straipsnį netgi nustoję eiti savo pareigas.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Reguliuotojų valdyba ir Valdančioji taryba nustato praktinę 1 ir 2 dalyse nurodytų konfidencialumo taisyklių įgyvendinimo tvarką.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_39",
+   "kind": "article",
+   "number": "39",
+   "label": "39 straipsnis",
+   "title": "Saugumo taisyklės dėl įslaptintos informacijos ir neskelbtinos neįslaptintos informacijos apsaugos",
+   "path": [
+    "IX SKYRIUS — BENDROSIOS NUOSTATOS"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC ir BEREC biuras priima savo saugumo taisykles, kurios yra lygiavertės Komisijos saugumo taisyklėms, skirtoms Europos Sąjungos įslaptintos informacijos ir neskelbtinos neįslaptintos informacijos apsaugai užtikrinti, inter alia, priima keitimosi tokia informacija, jos tvarkymo ir saugojimo nuostatas, kaip nustatyta Komisijos sprendimuose (ES, Euratomas) 2015/443 ir (ES, Euratomas) 2015/444. Alternatyviai, BEREC arba BEREC biuras gali priimti sprendimą, kad Komisijos taisyklės taikomos mutatis mutandis.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_40",
+   "kind": "article",
+   "number": "40",
+   "label": "40 straipsnis",
+   "title": "Keitimasis informacija",
+   "path": [
+    "IX SKYRIUS — BENDROSIOS NUOSTATOS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Gavusios motyvuotą BEREC arba BEREC biuro prašymą, Komisija ir NRI, kurioms atstovaujama Reguliuotojų valdyboje, ir kitos kompetentingos institucijos laiku ir tiksliai teikia BEREC arba BEREC biurui visą būtiną informaciją, kad jie galėtų vykdyti jų užduotis, su sąlyga, kad jos turi teisėtą prieigą prie atitinkamos informacijos, o prašymas pateikti informaciją yra būtinas dėl konkrečios užduoties pobūdžio. BEREC arba BEREC biuras taip pat gali prašyti teikti tokią informaciją periodiškai ir nustatyta forma. Tokiems prašymams, jei įmanoma, naudojamos bendros ataskaitų teikimo formos.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Gavę motyvuotą Komisijos arba NRI prašymą, BEREC arba BEREC biuras, remdamiesi lojalaus bendradarbiavimo principu, laiku ir tiksliai teikia informaciją, kuri yra būtina, kad Komisija, NRI ar kita kompetentinga institucija galėtų vykdyti savo užduotis. Jeigu BEREC arba BEREC biuras informaciją laiko konfidencialia, Komisija, NRI ir bet kuri kita atitinkama kompetentinga institucija tokį konfidencialumą užtikrina pagal Sąjungos ir nacionalinę teisę, įskaitant Reglamentą (EB) Nr. 1049/2001. Verslo konfidencialumas neturi kliudyti laiku keistis informacija.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Prieš prašydami pateikti informaciją pagal šį straipsnį ir siekdami išvengti ataskaitų teikimo pareigų dubliavimo, BEREC arba BEREC biuras atsižvelgia į bet kokią viešai prieinamą esamą aktualią informaciją.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Jei NRI informacijos nepateikia laiku, BEREC arba BEREC biuras gali pateikti motyvuotą prašymą kitoms NRI ir kitoms atitinkamos valstybės narės kompetentingoms institucijoms arba tiesiogiai atitinkamoms įmonėms, teikiančioms elektroninių ryšių tinklus, paslaugas ir susijusias priemones. BEREC arba BEREC biuras praneša NRI, kurios nepateikė informacijos, apie prašymus, pateiktus pagal pirmą pastraipą. BEREC arba BEREC biuro prašymu NRI padeda BEREC rinkti informaciją.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Valstybės narės užtikrina, kad NRI ir kitos kompetentingos institucijos turėtų įgaliojimus reikalauti, kad kitos atsakingos nacionalinės institucijos arba įmonės, teikiančios elektroninių ryšių tinklus ir paslaugas, susijusias priemones arba susijusias paslaugas, teiktų visą informaciją, būtiną, kad jos galėtų vykdyti šiame straipsnyje nurodytas savo užduotis. Kitos nurodytos atsakingos nacionalinės institucijos arba įmonės, kai nurodyta pirmoje pastraipoje, gavusios prašymą, nedelsdamos pateikia tokią informaciją, laikydamosi terminų ir taip išsamiai, kaip prašoma. Valstybės narės užtikrina, kad NRI ir kitos kompetentingos institucijos turėtų įgaliojimus užtikrinti tokių informacijos prašymų vykdymą, nustatydamos tinkamas, veiksmingas, proporcingas ir atgrasomas sankcijas.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_41",
+   "kind": "article",
+   "number": "41",
+   "label": "41 straipsnis",
+   "title": "Informacijos ir komunikacijos sistema",
+   "path": [
+    "IX SKYRIUS — BENDROSIOS NUOSTATOS"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC biuras sukuria ir valdo informacijos ir komunikacijos sistemą, kurioje veiktų bent šios funkcijos: a) bendra keitimosi informacija platforma, teikianti BEREC, Komisijai ir NRI informaciją, būtiną nuosekliam Sąjungos elektroninių ryšių reguliavimo sistemos įgyvendinimui; b) speciali sąsaja, skirta prašymams pateikti informaciją ir tiems pranešimams apie prašymus, kaip nurodyta 40 straipsnyje, kad BEREC, BEREC biuras, Komisija ir NRI galėtų su jais susipažinti; c) platforma, skirta ankstyvam koordinavimo tarp NRI poreikio nustatymui.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Valdančioji taryba priima technines ir funkcines specifikacijas, siekiant sukurti 1 dalyje nurodytos informacijos ir komunikacijos sistemą. Tai sistemai taikomos intelektinės nuosavybės teisės ir reikiamo lygio konfidencialumas.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Informacijos ir komunikacijos sistema turi pradėti veikti ne vėliau kaip 2020 m. birželio 21 d.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_42",
+   "kind": "article",
+   "number": "42",
+   "label": "42 straipsnis",
+   "title": "Interesų deklaravimas",
+   "path": [
+    "IX SKYRIUS — BENDROSIOS NUOSTATOS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Reguliuotojų valdybos ir Valdančiosios tarybos nariai, direktorius, deleguotieji nacionaliniai ekspertai ir kiti darbuotojai, neįdarbinti BEREC biure, pateikia deklaraciją raštu, kurioje nurodomi jų įsipareigojimai ir tai, ar jie turi, ar neturi tiesioginių arba netiesioginių interesų, kurie galėtų būti laikomi darančiais poveikį jų nepriklausomumui. Tokios deklaracijos pateikiamos, kai pradedamos vykdyti pareigos ir jos turi būti tikslios ir išsamios bei atnaujinamos, jei kyla rizika, kad yra tiesioginių arba netiesioginių interesų, kurie galėtų būti laikomi darančiais poveikį deklaraciją pateikusio asmens nepriklausomumui. Reguliuotojų valdybos narių, Valdančiosios tarybos narių ir direktoriaus deklaracijos skelbiamos viešai.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Reguliuotojų valdybos nariai, Valdančiosios tarybos ir darbo grupių nariai ir kiti jų posėdžių dalyviai, direktorius, deleguotieji nacionaliniai ekspertai ir kiti darbuotojai, neįdarbinti BEREC biure, ne vėliau kaip kiekvieno posėdžio pradžioje tiksliai ir išsamiai deklaruoja visus su darbotvarkėje numatytais klausimais susijusius interesus, kurie galėtų būti laikomi darančiais poveikį jų nepriklausomumui, ir nedalyvauja diskusijose bei balsavime dėl tokių klausimų.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Reguliuotojų valdyba ir Valdančioji taryba nustato interesų konfliktų prevencijos bei valdymo taisykles ir ypač praktinės tvarkos, susijusios su 1 ir 2 dalių taikymu, taisykles.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_43",
+   "kind": "article",
+   "number": "43",
+   "label": "43 straipsnis",
+   "title": "Kova su sukčiavimu",
+   "path": [
+    "IX SKYRIUS — BENDROSIOS NUOSTATOS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Siekiant palengvinti kovą su sukčiavimu, korupcija ir kita neteisėta veikla laikantis Europos Parlamento ir Tarybos reglamento (ES, Euratomas) Nr. 883/2013, ne vėliau kaip iki 2019 m. birželio 21 d. BEREC biuras prisijungia prie 1999 m. gegužės 25 d. Europos Parlamento, Europos Sąjungos Tarybos ir Europos Bendrijų Komisijos tarpinstitucinio susitarimo dėl Europos kovos su sukčiavimu tarnybos (OLAF) atliekamų vidaus tyrimų ir priima atitinkamas visiems BEREC biuro darbuotojams taikytinas nuostatas naudodamas to susitarimo priede pateiktą šabloną.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Audito Rūmams suteikiami įgaliojimai atlikti visų dotacijų gavėjų, rangovų ir subrangovų, gavusių Sąjungos lėšų iš BEREC biuro, dokumentų auditą ir inspektavimus vietoje.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. OLAF gali, laikydamasi Reglamente (ES, Euratomas) Nr. 883/2013 ir Tarybos reglamente (Euratomas, EB) Nr. 2185/96 nustatytų nuostatų ir procedūrų, atlikti tyrimus, įskaitant patikras ir inspektavimus vietoje, siekdama nustatyti, ar vykdant BEREC biuro finansuojamą dotacijos susitarimą, dotacijos sprendimą ar sutartį nebūta sukčiavimo, korupcijos ar kitos neteisėtos veiklos atvejų, kenkiančių Sąjungos finansiniams interesams.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Nedarant poveikio 1, 2 ir 3 dalims, į bendradarbiavimo susitarimus su trečiosiomis valstybėmis ir tarptautinėmis organizacijomis, sutartis, dotacijų susitarimus ir dotacijų sprendimus įtraukiamos nuostatos, kuriomis Audito Rūmams ir OLAF aiškiai suteikiami įgaliojimai atlikti tokį auditą ir tyrimus, atsižvelgiant į jų atitinkamą kompetenciją.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_44",
+   "kind": "article",
+   "number": "44",
+   "label": "44 straipsnis",
+   "title": "Atsakomybė",
+   "path": [
+    "IX SKYRIUS — BENDROSIOS NUOSTATOS"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC biuro sutartinę atsakomybę reglamentuoja atitinkamai sutarčiai taikytina teisė.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Sprendimo pagal bet kurią BEREC biuro sudarytos sutarties arbitražinę išlygą priėmimas priklauso Europos Sąjungos Teisingumo Teismo (toliau – Teisingumo Teismas) jurisdikcijai.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Nesutartinės atsakomybės atveju BEREC biuras pagal valstybių narių teisės aktams būdingus bendruosius principus atlygina bet kokią žalą, kurią jo padaliniai ar darbuotojai padaro vykdydami savo pareigas.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Ginčų dėl 3 dalyje nurodytos žalos atlyginimo sprendimai priklauso Teisingumo Teismo jurisdikcijai.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. BEREC biuro darbuotojų asmeninė atsakomybė BEREC biuro atžvilgiu reglamentuojama jiems taikytinomis Tarnybos nuostatų ar Kitų tarnautojų įdarbinimo sąlygų nuostatomis.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_45",
+   "kind": "article",
+   "number": "45",
+   "label": "45 straipsnis",
+   "title": "Administraciniai tyrimai",
+   "path": [
+    "IX SKYRIUS — BENDROSIOS NUOSTATOS"
+   ],
+   "blocks": [
+    {
+     "text": "Europos ombudsmenas atlieka BEREC ir BEREC biuro veiklos tyrimus pagal SESV 228 straipsnį.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_46",
+   "kind": "article",
+   "number": "46",
+   "label": "46 straipsnis",
+   "title": "Kalbų vartojimo tvarka",
+   "path": [
+    "IX SKYRIUS — BENDROSIOS NUOSTATOS"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC biurui taikomas Reglamentas Nr. 1.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC biuro veiklai reikalingas vertimo raštu paslaugas teikia Europos Sąjungos įstaigų vertimo centras.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_47",
+   "kind": "article",
+   "number": "47",
+   "label": "47 straipsnis",
+   "title": "Susitarimas dėl būstinės ir veiklos sąlygos",
+   "path": [
+    "X SKYRIUS — BAIGIAMOSIOS NUOSTATOS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Susitarime dėl būstinės, kurį BEREC biuras, pritarus Valdančiajai tarybai, ne vėliau kaip 2020 m. gruodžio 21 d. sudaro su priimančiąja valstybe nare, nustatomos nuostatos dėl BEREC biuro įkurdinimo priimančiojoje valstybėje narėje ir patalpų, kurias turi suteikti ta valstybė narė, taip pat specialiosios taisyklės, priimančiojoje valstybėje narėje taikytinos direktoriui, Valdančiosios tarybos nariams, BEREC biuro darbuotojams ir jų šeimų nariams.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Priimančioji valstybė narė sudaro būtinas sąlygas, kad būtų užtikrintas sklandus ir efektyvus BEREC biuro veikimas, įskaitant daugiakalbį europinį mokymą ir tinkamą transporto infrastruktūrą.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_48",
+   "kind": "article",
+   "number": "48",
+   "label": "48 straipsnis",
+   "title": "Vertinimas",
+   "path": [
+    "X SKYRIUS — BAIGIAMOSIOS NUOSTATOS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ne vėliau kaip 2023 m. gruodžio 21 d., o vėliau – kas penkerius metus Komisija pagal Komisijos gaires atlieka BEREC ir BEREC biuro veiklos rezultatų, susijusių su jų tikslais, įgaliojimais, užduotimis ir vieta, vertinimą. Visų pirma vertinama, ar reikia keisti BEREC ir BEREC biuro struktūrą arba įgaliojimus ir, jei taip, koks būtų tokių pakeitimų finansinis poveikis.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Komisijai nusprendus, kad, atsižvelgiant į BEREC arba BEREC biuro tikslus, įgaliojimus ir užduotis, tolesnė jų veikla yra nepateisinama, ji gali siūlyti šį reglamentą atitinkamai iš dalies pakeisti arba panaikinti.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Komisija savo vertinimo išvadas pateikia Europos Parlamentui, Tarybai ir Valdančiajai tarybai ir viešai jas paskelbia.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_49",
+   "kind": "article",
+   "number": "49",
+   "label": "49 straipsnis",
+   "title": "Pereinamojo laikotarpio nuostatos",
+   "path": [
+    "X SKYRIUS — BAIGIAMOSIOS NUOSTATOS"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC biuras perima visas Reglamentu (EB) Nr. 1211/2009 įsteigto Biuro teises ir pareigas, susijusias su nuosavybe, susitarimais, teisinėmis pareigomis, darbo sutartimis, finansiniais įsipareigojimais ir atsakomybe. Visų pirma, šiuo reglamentu nedaromas poveikis Biuro darbuotojų teisėms ir pareigoms. Jų sutartys pagal šį reglamentą gali būti atnaujintos laikantis Tarnybos nuostatus ir Kitų tarnautojų įdarbinimo sąlygų bei atsižvelgiant į BEREC biuro biudžeto apribojimus.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Nuo 2018 m. gruodžio 20 d. pagal Reglamentą (EB) Nr. 1211/2009 paskirtas Administracijos vadovas eina direktoriaus pareigas ir vykdo šiame reglamente numatytas funkcijas. Kitos Administracijos vadovo sutarties sąlygos nesikeičia.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Valdančioji taryba gali nuspręsti pratęsti šio straipsnio 2 dalyje nurodytą direktoriaus kadencijos trukmę dar vienai kadencijai. 32 straipsnio 5 ir 6 dalys taikomos mutatis mutandis. Direktoriaus kadencijos jas kartu sudėjus negali viršyti dešimties metų.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Šio reglamento 7 ir 15 straipsniuose nurodytas Reguliuotojų valdybą ir Valdančiąją tarybą sudaro Reglamento (EB) Nr. 1211/2009 4 ir 7 straipsniuose nurodytų Reguliuotojų valdybos ir Valdymo komiteto nariai, kol bus paskirti nauji atstovai.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Reguliuotojų valdybos ir Valdymo komiteto pirmininkai ir pirmininko pavaduotojai, kurie buvo paskirti remiantis Reglamentu (EB) Nr. 1211/2009, toliau eina pareigas likusiu savo vienų metų kadencijos laikotarpiu kaip Reguliuotojų valdybos pirmininkas ir pirmininko pavaduotojai, kaip nurodyta šio reglamento 10 straipsnyje, ir Valdančiosios tarybos pirmininkas ir pirmininko pavaduotojai, kaip nurodyta šio reglamento 17 straipsnyje. Turėtų būti gerbiami Reguliuotojų valdybos ir Valdymo komiteto pirmininkų ir pirmininko pavaduotojų paskyrimai remiantis Reglamentu (EB) Nr. 1211/2009, atlikti anksčiau nei 2018 m. gruodžio 20 d., bet kurių galiojimas buvo pratęstas po tos datos.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Remiantis Reglamento (EB) Nr. 1211/2009 11 straipsniu patvirtinto biudžeto įvykdymo patvirtinimo procedūra vykdoma pagal to reglamento nustatytas taisykles.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_50",
+   "kind": "article",
+   "number": "50",
+   "label": "50 straipsnis",
+   "title": "Reglamento (ES) 2015/2120 pakeitimai",
+   "path": [
+    "X SKYRIUS — BAIGIAMOSIOS NUOSTATOS"
+   ],
+   "blocks": [
+    {
+     "text": "Reglamentas (ES) 2015/2120 iš dalies keičiamas taip:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "1. pavadinimas pakeičiamas taip: „ 2015 m. lapkričio 25 d. Europos Parlamento ir Tarybos reglamentas (ES) 2015/2120, kuriuo nustatomos priemonės, susijusios su atvira interneto prieiga ir mažmeninėmis reguliuojamų ryšio paslaugų ES viduje kainomis, ir kuriuo iš dalies keičiama Direktyva 2002/22/EB ir Reglamentas (ES) Nr. 531/2012“;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. 1 straipsnis papildomas šia dalimi: „3. Šiuo reglamentu taip pat nustatomos bendros taisyklės, siekiant užtikrinti, kad vartotojams nebūtų taikomos pernelyg didelės kainos už su numeriu siejamo asmenų tarpusavio ryšio paslaugas, inicijuojamas vartotojo paslaugų savojoje šalyje teikėjo valstybėje narėje ir užbaigiamas bet kuriuo fiksuotojo arba judriojo ryšio numeriu kitoje valstybėje narėje.“;",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. 2 straipsnio antra pastraipa papildoma šiais punktais: „3. reguliuojamos ryšio paslaugos ES viduje – bet kurios su numeriu siejamo asmenų tarpusavio ryšio paslaugos, kurios inicijuojamos vartotojo paslaugų savojoje šalyje teikėjo valstybėje narėje ir užbaigiamos bet kuriuo kitos valstybės narės nacionalinio numeracijos plano fiksuotojo arba judriojo ryšio numeriu ir kurios visiškai ar iš dalies apmokestinamos remiantis faktiniu suvartojimu; 4. su numeriu siejamo asmenų tarpusavio ryšio paslauga – su numeriu siejamo asmenų tarpusavio ryšio paslauga, kaip apibrėžta Europos Parlamento ir Tarybos direktyvos (ES) 2018/1972 2 straipsnio 6 punkte. (*1) 2018 m. gruodžio 11 d. Europos Parlamento ir Tarybos direktyva (ES) 2018/1972, kuria nustatomas Europos elektroninių ryšių kodeksas (OL L 321, 2018 12 17, p. 36).“;\"",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. įterpiamas šis straipsnis: „5a straipsnis Mažmeninės reguliuojamų ryšio paslaugų ES viduje kainos 1. Nuo 2019 m. gegužės 15 d. bet kuri mažmeninė kaina (išskyrus PVM), taikoma vartotojams už reguliuojamas ryšio paslaugas ES viduje, negali viršyti 0,19 EUR/min. sumos už skambučius ir 0,06 EUR sumos už SMS žinutę. 2. Nepaisant 1 dalyje nustatytų pareigų, reguliuojamų ryšio paslaugų ES viduje teikėjai gali papildomai pasiūlyti tarptautinių ryšio paslaugų, įskaitant reguliuojamas ryšio paslaugas ES viduje, tarifą, kuris skirtųsi nuo nustatytojo pagal 1 dalį, o vartotojai gali tokį tarifą aiškiai pasirinkti, taip pasinaudodami skirtingu reguliuojamų ryšio paslaugų ES viduje tarifu nei tarifas, kuris jiems būtų buvęs nustatytas, jei tokio pasirinkimo nebūtų. Prieš vartotojams pasirenkant tokį skirtingą tarifą, reguliuojamų ryšio paslaugų ES viduje teikėjas informuoja juos apie privalumų, kuriais jie tokiu atveju negalėtų pasinaudoti, pobūdį. 3. Jeigu reguliuojamų ryšio paslaugų ES viduje tarifas, kaip nurodyta 2 dalyje, viršija 1 dalyje nustatytas ribas, vartotojams, kurie per du mėnesius nuo 2019 m. gegužės 15 d. nepatvirtino ar nepranešė, kad renkasi kurį nors tarifą, kaip nurodyta 2 dalyje, automatiškai taikomi 1 dalyje nustatyti tarifai. 4. Vartotojai gali prašyti, kad 1 dalyje nustatyti tarifai jiems būtų nemokamai išjungti arba vėl įjungti per vieną darbo dieną po to, kai paslaugų teikėjas gauna prašymą, o paslaugų teikėjai užtikrina, kad tokiam perjungimui nebūtų nustatomos sąlygos ar apribojimai, susiję su kitais abonentinės sutarties aspektais nei reguliuojamų ryšio paslaugų ES viduje. 5. Jeigu didžiausios leistinos kainos, nurodytos 1 dalyje, išreiškiamos kita valiuta nei euro, pradinės ribos nustatomos tomis valiutomis taikant Europos Centrinio Banko 2019 m. sausio 15 d., vasario 15 d. ir kovo 15 d. Europos Sąjungos oficialiajame leidinyje paskelbtų pagrindinių valiutos keitimo kursų vidurkį. Kitomis valiutomis nei euro nustatytos ribos nuo 2020 m. peržiūrimos kasmet. Kasmet peržiūrimos ribos tomis valiutomis taikomos nuo gegužės 15 d., remiantis tų pačių metų sausio 15 d., vasario 15 d. ir kovo 15 d. paskelbtų pagrindinių valiutos keitimo kursų vidurkiu. 6. Nacionalinės reguliavimo institucijos stebi rinką ir kainų pokyčius, susijusius su reguliuojamomis ryšio paslaugomis ES viduje, ir praneša Komisijai. Kai reguliuojamų ryšio paslaugų ES viduje teikėjas įrodo, kad dėl ypatingų ir išimtinių aplinkybių, dėl kurių jis išsiskiria iš daugumos kitų Sąjungos paslaugų teikėjų, 1 dalyje nurodytos ribos taikymas turėtų didelį poveikį jo pajėgumui išlaikyti esamas ryšio paslaugų savoje šalyje kainas, nacionalinė reguliavimo institucija, gavusi to paslaugų teikėjo prašymą, gali leisti taikyti nuo 1 dalies nukrypti leidžiančią nuostatą tik tiek, kiek tai būtina, vienų metų laikotarpiui, kuris gali būti pratęstas. Savoje šalyje imamų mokesčių modelio tvarumo įvertinimas grindžiamas atitinkamais objektyviais reguliuojamų ryšio paslaugų ES viduje teikėjui būdingais veiksniais, taip pat kainų ir pajamų lygiu savoje šalyje. Kai prašymą pateikiantis paslaugų teikėjas pateikia reikalingus įrodymus, nacionalinė reguliavimo institucija nustato didžiausią kainų lygį, viršijantį vieną ar abi 1 dalyje nurodytas aukščiausias kainų ribas, kuris būtų būtinas siekiant užtikrinti paslaugų teikėjo savoje šalyje imamų mokesčių modelio tvarumą. BEREC paskelbia gaires dėl parametrų, į kuriuos nacionalinės reguliavimo institucijos turi atsižvelgti atlikdamos vertinimus.“;",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. 6 straipsnis papildomas šia dalimi: „Valstybės narės nustato sankcijų, taikomų pažeidus 5a straipsnį, taisykles ir imasi visų būtinų priemonių užtikrinti, kad šios sankcijos būtų įgyvendinamos. Numatytos sankcijos turi būti veiksmingos, proporcingos ir atgrasomos. Valstybės narės ne vėliau kaip 2019 m. gegužės 15 d. praneša Komisijai apie taisykles ir priemones, nustatytas siekiant užtikrinti 5a straipsnio įgyvendinimą, ir nedelsdamos praneša Komisijai apie visus vėlesnius joms įtakos turinčius pakeitimus.“;",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. 10 straipsnis papildomas šia dalimi: „5. 5a straipsnis netenka galios 2024 m. gegužės 14 d.“",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_51",
+   "kind": "article",
+   "number": "51",
+   "label": "51 straipsnis",
+   "title": "Panaikinimas",
+   "path": [
+    "X SKYRIUS — BAIGIAMOSIOS NUOSTATOS"
+   ],
+   "blocks": [
+    {
+     "text": "Reglamentas (EB) Nr. 1211/2009 panaikinamas.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Nuorodos į panaikintąjį reglamentą laikomos nuorodomis į šį reglamentą ir skaitomos pagal priede pateiktą atitikties lentelę.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_52",
+   "kind": "article",
+   "number": "52",
+   "label": "52 straipsnis",
+   "title": "Įsigaliojimas",
+   "path": [
+    "X SKYRIUS — BAIGIAMOSIOS NUOSTATOS"
+   ],
+   "blocks": [
+    {
+     "text": "Šis reglamentas įsigalioja trečią dieną po jo paskelbimo Europos Sąjungos oficialiajame leidinyje.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "anx_1",
+   "kind": "annex",
+   "number": "1",
+   "label": "PRIEDAS",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Atitikties lentelė",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Reglamentas (EB) Nr. 1211/2009 Šis reglamentas 1 straipsnio 1 dalis 1 straipsnis 1 straipsnio 2 dalis 3 straipsnio 1 dalis 1 straipsnio 3 dalis 3 straipsnio 2 ir 3 dalys 1 straipsnio 4 dalis 3 straipsnio 4 dalis ir 4 straipsnio 1 dalies a ir b punktai 2 straipsnis 4 straipsnis 3 straipsnis 4 straipsnis 4 straipsnio 1 dalis 6 straipsnis 4 straipsnio 2 dalis 7 straipsnio 1, 2 ir 4 dalys, 8 straipsnio 1 ir 2 dalys 4 straipsnio 3 dalis 11 straipsnio 4 ir 5 dalys ir 36 straipsnis 4 straipsnio 4 dalis 10 straipsnio 1, 2 ir 3 dalys 4 straipsnio 5 dalis 10 straipsnio 4 dalis 4 straipsnio 6 dalis 11 straipsnis 4 straipsnio 7 dalis 13 straipsnis 4 straipsnio 8 dalis 7 straipsnio 4 dalis 4 straipsnio 9 dalis 12 straipsnio 1 ir 2 dalys 4 straipsnio 10 dalis 12 straipsnio 3 dalis 4 straipsnio 11 dalis 5 straipsnis 5 straipsnis 4 straipsnis 6 straipsnio 1 dalis 2 straipsnio 1 dalis 6 straipsnio 2 dalis 5 straipsnis 6 straipsnio 3 dalis 14 straipsnio 1 dalis 6 straipsnio 4 dalis 2 straipsnio 2 dalis 6 straipsnio 5 dalis 20 ir 31 straipsniai 7 straipsnio 1 dalis 15 straipsnio 1 dalis 7 straipsnio 2 dalis 32 straipsnis 7 straipsnio 3 dalis 20 straipsnio 6 dalis 7 straipsnio 4 dalis 16 straipsnio 1 dalies k punktas 7 straipsnio 5 dalis 13 straipsnis 8 straipsnis 32 straipsnis 9 straipsnis 20 straipsnis 10 straipsnio 1 dalis 30 ir 34 straipsniai 10 straipsnio 2 dalis 16 straipsnio 1 dalies j punktas 10 straipsnio 3 dalis 16 straipsnio 2 dalis 10 straipsnio 4 dalis 33 straipsnis 11 straipsnis 25 straipsnis 12 straipsnis 24 straipsnis 13 straipsnis 26 straipsnis 14 straipsnis — 15 straipsnis 29 straipsnis 16 straipsnis 43 straipsnis 17 straipsnis 4 straipsnio 5 dalis 18 straipsnis 37 straipsnis 19 straipsnis 39 ir 40 straipsniai 20 straipsnis 38 straipsnis 21 straipsnis 42 straipsnis 22 straipsnis 36 straipsnis 23 straipsnis 34 straipsnis 24 straipsnis 44 straipsnis 25 straipsnis 48 straipsnis 26 straipsnis 52 straipsnis",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  }
+ ]
+}

@@ -1,0 +1,2822 @@
+{
+ "document": "berec",
+ "version": "original",
+ "lang": "LV",
+ "meta": {
+  "source": "eurlex",
+  "celex": "32018R1971",
+  "kind": "original",
+  "date": "2018-12-11",
+  "built_at": "2026-10-07T10:10:20+00:00",
+  "sources_sha256": {
+   "32018R1971": "c6ff0b5726d558e55c017105fc85c380408ceedbe73665844f7f126e66936536"
+  },
+  "counts": {
+   "article": 52,
+   "recital": 53,
+   "annex": 1
+  }
+ },
+ "provisions": [
+  {
+   "id": "rct_1",
+   "kind": "recital",
+   "number": "1",
+   "label": "(1)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Eiropas Parlamenta un Padomes Direktīvas (ES) 2018/1972 mērķis ir Savienībā radīt elektronisko sakaru iekšējo tirgu, vienlaikus ar uzlabotu konkurenci nodrošinot augsta līmeņa investīcijas, inovāciju un patērētāju aizsardzību. Ar minēto direktīvu tiek paredzēts būtisks skaits jaunu uzdevumu Eiropas Elektronisko sakaru regulatoru iestādei (“BEREC”), piemēram, pamatnostādņu izdošana par vairākām tēmām, ziņošana par tehniskiem jautājumiem, reģistru, sarakstu vai datubāžu uzturēšana un atzinumu sniegšana par iekšējā tirgus procedūrām valstu pasākumu projektiem attiecībā uz tirgus regulēšanu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_2",
+   "kind": "recital",
+   "number": "2",
+   "label": "(2)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Eiropas Parlamenta un Padomes Regula (ES) Nr. 531/2012, ciktāl tas attiecas uz Savienības mēroga viesabonēšanu, papildina un atbalsta elektronisko sakaru tiesiskā regulējuma noteikumus un nosaka BEREC konkrētus uzdevumus.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_3",
+   "kind": "recital",
+   "number": "3",
+   "label": "(3)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ar Eiropas Parlamenta un Padomes Regulu (ES) 2015/2120 BEREC tiek noteikti papildu uzdevumi saistībā ar piekļuvi atvērtam internetam. Turklāt ir atzinīgi novērtētas BEREC 2016. gada 30. augusta pamatnostādnes valstu regulatoriem par to, kā īstenot Eiropas tīkla neitralitātes noteikumus, jo tās sniedz vērtīgu skaidrojumu brīva un atvērta interneta, kurš ir stabils, garantijai, nodrošinot, ka konsekventi tiek piemēroti noteikumi, ar ko garantē informācijas plūsmas taisnīgu un nediskriminējošu apstrādi interneta piekļuves pakalpojumu sniegšanas procesā un ar to saistītās galalietotāja tiesības.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_4",
+   "kind": "recital",
+   "number": "4",
+   "label": "(4)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Tā kā ir jāpanāk, lai veidotos konsekventa regulatīvā prakse, un ir jānodrošina elektronisko sakaru Savienības tiesiskā regulējuma konsekventa piemērošana, Komisija ar Komisijas Lēmumu 2002/627/EK izveidoja elektronisko sakaru tīklu un pakalpojumu Eiropas reglamentējošo iestāžu grupu (ERG), kuras uzdevums ir sniegt Komisijai konsultācijas un palīdzēt tai konsolidēt elektronisko sakaru tīklu un pakalpojumu iekšējo tirgu un plašākā nozīmē pildīt saskarnes funkciju attiecībās starp valstu regulatīvajām iestādēm (VRI) un Komisiju.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_5",
+   "kind": "recital",
+   "number": "5",
+   "label": "(5)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC un Birojs tika izveidoti ar Eiropas Parlamenta un Padomes Regulu (EK) Nr. 1211/2009. BEREC aizstāja ERG, un BEREC izveides mērķis bija veicināt elektronisko sakaru tīklu un pakalpojumu iekšējā tirgus attīstību, no vienas puses, un labāku darbību, no otras puses, par mērķi izvirzot elektronisko sakaru tiesiskā regulējuma konsekventas īstenošanas nodrošināšanu. BEREC darbojas kā forums VRI savstarpējai sadarbībai un VRI sadarbībai ar Komisiju, palīdzot tām pildīt visus pienākumus saskaņā ar Savienības tiesisko regulējumu. BEREC tika izveidota, lai nodrošinātu īpašas zināšanas un lai darbotos neatkarīgi un pārredzami.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_6",
+   "kind": "recital",
+   "number": "6",
+   "label": "(6)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC arī kalpo par struktūru, kas Eiropas Parlamentam, Padomei un Komisijai sniedza vērtējumu, apspriešanās iespējas un padomus elektronisko sakaru jomā.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_7",
+   "kind": "recital",
+   "number": "7",
+   "label": "(7)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Birojs tika izveidots kā Kopienas struktūra, kas ir tiesību subjekts, lai veiktu Regulā (EK) Nr. 1211/2009 minētos uzdevumus, jo īpaši, lai sniegtu profesionālā un administratīvā atbalsta pakalpojumus BEREC. Lai varētu sniegt efektīvu atbalstu BEREC, Birojam piešķīra juridisko, administratīvo un finansiālo autonomiju.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_8",
+   "kind": "recital",
+   "number": "8",
+   "label": "(8)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ar Lēmumu 2010/349/ES dalībvalstu valdību pārstāvji nolēma, ka Biroja mītne būs Rīgā. Mītnes līgums starp Latvijas Republikas valdību un Biroju stājās spēkā 2011. gada 5. augustā.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_9",
+   "kind": "recital",
+   "number": "9",
+   "label": "(9)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Komisija 2015. gada 6. maija paziņojumā “Digitālā vienotā tirgus stratēģija Eiropai” plānoja 2016. gadā nākt klajā ar priekšlikumiem vērienīgai elektronisko sakaru tiesiskā regulējuma uzlabošanai, cita starpā galveno uzmanību vēršot uz iestāžu sistēmas efektīvāku regulējumu, lai, veidojot pareizos apstākļus digitālajam vienotajam tirgum, elektronisko sakaru noteikumus padarītu piemērotus mērķim. Minētais aptver ļoti augstas veiktspējas tīklu izvietošanu, koordinētāku radiofrekvenču spektra pārvaldību bezvadu tīkliem un vienlīdzīgu konkurences apstākļu radīšanu moderniem digitālajiem tīkliem un inovatīviem pakalpojumiem. Paziņojumā norādīts, ka mainīgais tirgus un tehnoloģiskie apstākļi liek stiprināt iestāžu sistēmu, palielinot BEREC lomu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_10",
+   "kind": "recital",
+   "number": "10",
+   "label": "(10)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Eiropas Parlaments 2016. gada 19. janvāra rezolūcijā “Virzība uz digitālā vienotā tirgus aktu” aicināja Komisiju turpināt integrēt digitālo vienoto tirgu, nodrošinot efektīvāku iestāžu sistēmu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_11",
+   "kind": "recital",
+   "number": "11",
+   "label": "(11)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC un Birojs ir snieguši pozitīvu ieguldījumu, elektronisko sakaru tiesiskā regulējuma konsekventā īstenošanā. Tomēr dalībvalstu regulatīvā prakse vēl joprojām būtiski atšķiras, un tas ietekmē uzņēmumus, kas iesaistās pārrobežu darījumos vai veic savu darījumdarbību ievērojamā skaitā dalībvalstu, tostarp tur, kur BEREC pamatnostādnes jau ir, bet kur tās vēl varētu pilnveidot. Lai vēl vairāk sekmētu iekšējā elektronisko sakaru tirgus attīstību visā Savienībā, kā arī veicinātu piekļuvi ļoti augstas veiktspējas tīkliem un šādas datu savienojamības izplatību, konkurenci elektronisko sakaru tīklu, pakalpojumu un saistīto iekārtu nodrošināšanā, kā arī Savienības iedzīvotāju interešu aizsardzību, šīs regulas mērķis ir stiprināt BEREC lomu. Šāda stiprināta loma arī papildinātu BEREC paplašināto lomu, kāda tam noteikta ar Regulu (ES) Nr. 531/2012 un (ES) 2015/2120 un Direktīvu (ES) 2018/1972.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_12",
+   "kind": "recital",
+   "number": "12",
+   "label": "(12)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ņemot vērā tirgus un tehnoloģisko attīstību, kas bieži ir saistīta ar pastiprinātu pārrobežu dimensiju, un līdzšinējo gūto pieredzi, cenšoties nodrošināt konsekventu īstenošanu elektronisko sakaru jomā, ir jāizmanto BEREC un Biroja darbs. To pārvaldībai un darbībām vajadzētu būt racionālām un pielāgotām to uzdevumu veikšanai, kas tiem jāpilda. Ņemot vērā jau noteiktās procedūras un jaunos uzdevumus, kas uzticēti BEREC un Birojam, un lai stiprinātu to efektivitāti, būtu jāparedz papildu stabilitāte to vadībai, un jāvienkāršo lēmumu pieņemšanas process.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_13",
+   "kind": "recital",
+   "number": "13",
+   "label": "(13)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC būtu jānodrošina īpašas zināšanas un jāpanāk – ar savu neatkarību, kvalitatīviem padomiem un informāciju, pārredzamām procedūrām un darbības metodēm un neatlaidību savu uzdevumu izpildē –, lai tai uzticētos. BEREC neatkarībai nebūtu jāliedz tās regulatoru valdei apspriest darba grupās sagatavotos projektus.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_14",
+   "kind": "recital",
+   "number": "14",
+   "label": "(14)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Biroja jaunajam oficiālajam nosaukumam vajadzētu būt “BEREC atbalsta aģentūra” (“BEREC birojs”). Apzīmējums “BEREC birojs” būtu jālieto kā Biroja īsais nosaukums. BEREC birojam vajadzētu būt juridiski, administratīvi un finansiāli autonomam. Tālab ir nepieciešami un lietderīgi, lai BEREC birojs būtu Savienības struktūra, kas ir tiesību subjekts un kas izmanto tai piešķirtās pilnvaras. Kā decentralizētai Savienības aģentūrai BEREC birojam būtu jādarbojas savu pilnvaru un esošās iestāžu sistēmas ietvaros. Nebūtu jāuzskata, ka tas pauž Savienības nostāju sabiedrībā vai rada Savienībai juridiskas saistības.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_15",
+   "kind": "recital",
+   "number": "15",
+   "label": "(15)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Turklāt noteikumi par BEREC biroja pārvaldību un darbību attiecīgā gadījumā būtu jāsaskaņo ar principiem, kas paredzēti Eiropas Parlamenta, Padomes un Komisijas 2012. gada 19. jūlija kopīgajā paziņojumā par decentralizētajām aģentūrām.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_16",
+   "kind": "recital",
+   "number": "16",
+   "label": "(16)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Savienības iestādēm un VRI būtu jāgūst labums no BEREC palīdzības un padomiem, tostarp par to, kāda būtu konkrēta ar digitālo tirgu kopējo dinamiku saistīta jautājuma attiecīgā regulatīvā ietekme, vai par to attiecībām, diskusijām un apmaiņu ar labāko regulatīvo praksi un šīs prakses izplatīšanu trešām personām. Papildus ieguldījumam Komisijas sabiedriskās apspriešanas procesā BEREC pēc pieprasījuma būtu jāsniedz padomi Komisijai leģislatīvo priekšlikumu sagatavošanā. BEREC būtu arī jāspēj sniegt padomus Eiropas Parlamentam un Padomei – pēc to pieprasījuma vai pēc pašas iniciatīvas.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_17",
+   "kind": "recital",
+   "number": "17",
+   "label": "(17)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC kā tehniska iestāde, kurai ir īpašas zināšanas elektronisko sakaru jomā un kuru veido VRI un Komisijas pārstāvji, ir vislabākajā pozīcijā, lai tai tiktu uzticēti tādi uzdevumi kā efektīvu iekšējā tirgus procedūru veicināšana valstu pasākumu projektiem attiecībā uz tirgus regulēšanu, nepieciešamo pamatnostādņu sniegšana VRI un citām kompetentajām iestādēm nolūkā nodrošināt kopīgus kritērijus un konsekventu regulatīvo pieeju un atsevišķu reģistru, datubāžu un sarakstu glabāšana Savienības līmenī. Iepriekš minētais neskar tām VRI noteiktos uzdevumus, kuras ir vistuvāk elektronisko sakaru tirgiem un to vietējiem apstākļiem.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_18",
+   "kind": "recital",
+   "number": "18",
+   "label": "(18)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Lai BEREC spētu pildīt savus uzdevumus, tai arī turpmāk būtu jāizmanto VRI īpašās zināšanas. BEREC būtu jācenšas savu regulatīvo uzdevumu izpildē un savā darbībā nodrošināt visu VRI dalību. Lai stiprinātu BEREC, padarītu to reprezentatīvāku un saglabātu tās īpašās zināšanas, pieredzi un konkrētās situācijas pārzināšanu visos dažādu valstu tirgos, katrai dalībvalstij būtu jānodrošina savas VRI ar adekvātiem finanšu resursiem un cilvēkresursiem, kas ir vajadzīgi, lai pilnībā piedalītos BEREC darbā.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_19",
+   "kind": "recital",
+   "number": "19",
+   "label": "(19)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ņemot vērā aizvien lielāko konverģenci starp nozarēm, kas sniedz elektronisko sakaru pakalpojumus, un ar to attīstību saistīto regulatīvo jautājumu horizontālo dimensiju, BEREC un BEREC birojam būtu jāatļauj sadarboties ar VRI, citām Savienības struktūrām, birojiem, aģentūrām un padomdevējām grupām, jo īpaši ar Radiofrekvenču spektra politikas grupu, kura izveidota ar Komisijas Lēmumu 2002/622/EK, Eiropas Datu aizsardzības uzraudzītāju, kurš izveidots ar Eiropas Parlamenta un Padomes Regulu (ES) 2018/1725, Eiropas Datu aizsardzības kolēģiju, kas izveidota ar Eiropas Parlamenta un Padomes Regulu (ES) 2016/679, Eiropas Audiovizuālo mediju pakalpojumu regulatoru grupu, kura izveidota ar Eiropas Parlamenta un Padomes Direktīvu 2010/13/ES, Eiropas Savienības Tīklu un informācijas drošības aģentūru, kura izveidota ar Regulu (ES) Nr. 526/2013, Eiropas GNSS aģentūru, kura izveidota ar Regulu (ES) Nr. 912/2010, Patērētāju tiesību aizsardzības sadarbības tīklu, kurš izveidots, ievērojot Eiropas Parlamenta un Padomes Regulu (EK) Nr. 2006/2004, Eiropas konkurences iestāžu tīklu un Eiropas standartizācijas organizācijām, kā arī ar esošajām komitejām (piemēram, Sakaru komiteju un Radiofrekvenču spektra komiteju), neskarot uzskaitīto struktūru lomu. Ja tas nepieciešams BEREC un BEREC biroja uzdevumu izpildei, tiem būtu arī jāspēj sadarboties ar dalībvalstu attiecīgajām kompetentajām iestādēm, kuras ir atbildīgas par konkurenci, patērētāju tiesību aizsardzību un datu aizsardzību, un ar trešo valstu kompetentajām iestādēm, jo īpaši ar elektronisko sakaru jomā kompetentajām regulatīvajām iestādēm vai minēto iestāžu grupām, kā arī ar starptautiskām organizācijām. BEREC būtu arī jāspēj apspriesties ar ieinteresētajām personām, rīkojot sabiedrisku apspriešanu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_20",
+   "kind": "recital",
+   "number": "20",
+   "label": "(20)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC vajadzētu būt tiesībām izveidot tādus darba mehānismus ar kompetentām Savienības struktūrām, birojiem, aģentūrām un padomdevējām grupām, ar kompetentām trešo valstu iestādēm un ar starptautiskām organizācijām, kam nebūtu jārada juridiskas saistības. Šādu darba mehānismu mērķis varētu būt, piemēram, sadarbības attiecību izveide un viedokļu apmaiņa par regulatīviem jautājumiem. Komisijai būtu jānodrošina, lai nepieciešamie darba mehānismi atbilstu Savienības politikai un prioritātēm, un lai BEREC darbotos savu pilnvaru un esošās iestāžu sistēmas ietvaros, un lai netiktu uzskatīts, ka tā pārstāv Savienības nostāju sabiedrībā vai rada Savienībai starptautiskas saistības.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_21",
+   "kind": "recital",
+   "number": "21",
+   "label": "(21)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC būtu jāsastāv no regulatoru valdes un darba grupām. Ar regulatoru valdes priekšsēdētāja rotāciju plānots nodrošināt BEREC darba nepārtrauktību. Tiek atbalstīta arī dažādas VRI pārstāvošu priekšsēdētāja vietnieku rotācija.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_22",
+   "kind": "recital",
+   "number": "22",
+   "label": "(22)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC būtu jāspēj rīkoties Savienības interesēs neatkarīgi no jebkādas ārējas iejaukšanās, tostarp politiska spiediena vai komerciālas iejaukšanās. Tāpēc ir svarīgi nodrošināt, lai personām, kuras ir ieceltas regulatoru valdē, būtu garantēta augstākā līmeņa personīgā un funkcionālā neatkarība. Šāda līmeņa personīgā un funkcionālā neatkarība ir VRI vadītājam, tās koleģiālās struktūras loceklim, vai abu aizvietotājiem. Konkrētāk, viņiem būtu jārīkojas neatkarīgi un objektīvi, savu funkciju izpildē nebūtu jāprasa vai jāpieņem norādījumi, un viņiem vajadzētu būt aizsargātiem pret patvaļīgu atlaišanu. Regulatoru valdes aizstājēju funkciju varētu pildīt arī VRI vadītājs, tās koleģiālās struktūras loceklis, abu aizvietotāji vai cits VRI darbinieks, kas rīkojas aizstātā regulatoru valdes locekļa vārdā un saskaņā ar aizstātā valdes locekļa noteikto pilnvarojumu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_23",
+   "kind": "recital",
+   "number": "23",
+   "label": "(23)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Pieredze liecina, ka lielākā daļa BEREC uzdevumu tiek veikta labāk, ja darbs notiek darba grupās, un tām vienmēr būtu jānodrošina, ka vienādā mērā tiek ņemts vērā ikvienas VRI viedoklis un ieguldījums. Tāpēc regulatoru valdei būtu jāizveido darba grupas un jāieceļ to priekšsēdētāji. VRI būtu ātri jāreaģē uz nominācijas pieprasījumiem, lai nodrošinātu ātru darba grupu izveidi, jo īpaši to, kas saistītas ar tādām procedūrām, kurām noteikti laika ierobežojumi. Darba grupās vajadzētu ļaut piedalīties ekspertiem no Komisijas. BEREC biroja personālam būtu jāatbalsta darba grupas un jāveicina to darbības.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_24",
+   "kind": "recital",
+   "number": "24",
+   "label": "(24)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ja nepieciešams un izvērtējot katru gadījumu atsevišķi, regulatoru valdei un valdei vajadzētu būt iespējai uzaicināt jebkuru personu, kuras viedoklis varētu to interesēt, piedalīties savās sanāksmēs novērotāja statusā.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_25",
+   "kind": "recital",
+   "number": "25",
+   "label": "(25)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Attiecīgā gadījumā un atkarībā no katrā dalībvalstī iestādēm noteiktajiem uzdevumiem attiecīgajā darba grupā būtu jāņem vērā citu kompetento iestāžu viedoklis, piemēram, apspriežoties valsts līmenī vai uzaicinot minētās citas iestādes piedalīties attiecīgajās sanāksmēs, ja ir vajadzīgas to īpašās zināšanas. Jebkurā gadījumā būtu jāsaglabā BEREC neatkarība.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_26",
+   "kind": "recital",
+   "number": "26",
+   "label": "(26)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Regulatoru valdei un valdei būtu jādarbojas paralēli: regulatoru valde galvenokārt lemj par regulatīviem jautājumiem, valde – par administratīviem jautājumiem, piemēram, par budžetu, personālu un revīziju. Principā un papildus Komisijas pārstāvjiem VRI pārstāvjiem valdē vajadzētu būt tām pašām personām, kas ir ieceltas regulatoru valdes sastāvā, bet VRI būtu jāspēj iecelt citus pārstāvjus, kas atbilst tām pašām prasībām.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_27",
+   "kind": "recital",
+   "number": "27",
+   "label": "(27)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Iepriekš iecēlējiestādes pilnvaras bija Biroja pārvaldības komitejas priekšsēdētāja vietniekam. Šajā regulā paredzēts, ka valde attiecīgās iecēlējiestādes pilnvaras deleģē direktoram, kuram ir tiesības minētās pilnvaras deleģēt tālāk. Tam vajadzētu palīdzēt efektīvi pārvaldīt BEREC biroja personālu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_28",
+   "kind": "recital",
+   "number": "28",
+   "label": "(28)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Regulatoru valdei un valdei būtu jāsanāk regulārajās sanāksmēs vismaz divreiz gadā. Ņemot vērā līdzšinējo pieredzi un BEREC paplašināto lomu, regulatoru valdei vai valdei var rasties vajadzība rīkot papildu sanāksmes.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_29",
+   "kind": "recital",
+   "number": "29",
+   "label": "(29)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Direktoram arī turpmāk vajadzētu būt BEREC biroja pārstāvim attiecībā uz juridiskiem un administratīviem jautājumiem. Valdei direktors būtu jāieceļ pēc atklātas un pārredzamas atlases procedūras, lai nodrošinātu stingru kandidātu novērtēšanu un augsta līmeņa neatkarību. Iepriekš Biroja administratīvā vadītāja pilnvaru laiks bija trīs gadi. Ir nepieciešams, lai direktoram būtu pietiekami ilgas pilnvaras, kas nodrošinātu BEREC biroja stabilitāti un ilgtermiņa stratēģijas īstenošanu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_30",
+   "kind": "recital",
+   "number": "30",
+   "label": "(30)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC birojam būtu jāpiemēro Komisijas Deleģētā regula (ES) Nr. 1271/2013.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_31",
+   "kind": "recital",
+   "number": "31",
+   "label": "(31)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC birojam būtu jāsniedz viss BEREC darbam vajadzīgais profesionālais un administratīvais atbalsts, tostarp finansiāls, organizatorisks un ar loģistiku saistīts atbalsts, un tam būtu jāsniedz ieguldījums BEREC regulatīvajā darbā.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_32",
+   "kind": "recital",
+   "number": "32",
+   "label": "(32)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Lai nodrošinātu BEREC biroja autonomiju un neatkarību un lai atbalstītu BEREC darbu, BEREC birojam būtu vajadzīgs savs budžets, kura lielāko daļu būtu jāveido Savienības iemaksai. Budžetam vajadzētu būt adekvātam, un tajā būtu jāņem vērā BEREC un BEREC birojam uzticētie papildu uzdevumi un to paplašinātā loma. Uz BEREC biroja finansējumu būtu jāattiecina budžeta lēmējinstitūcijas vienošanās, kā izklāstīts 31. punktā Eiropas Parlamenta, Padomes un Komisijas 2013. gada 2. decembra Iestāžu nolīgumā par budžeta disciplīnu, sadarbību budžeta jautājumos un pareizu finanšu pārvaldību.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_33",
+   "kind": "recital",
+   "number": "33",
+   "label": "(33)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Lai BEREC birojs varētu pildīt savus pienākumus, tam vajadzētu būt adekvātam personāla nodrošinājumam. Visi BEREC birojam uzticētie uzdevumi, tostarp profesionālie un administratīvie pakalpojumi, ar kuriem tiek sniegts atbalsts BEREC regulatīvo uzdevumu veikšanai un atbilstības nodrošināšanai attiecībā uz finanšu, personāla un citu piemērojamo regulējumu, kā arī BEREC biroja veicamo operatīvo uzdevumu palielinātā nozīme salīdzinājumā ar administratīvajiem uzdevumiem būtu pienācīgi jāizvērtē un jāatspoguļo resursu plānošanas procesā.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_34",
+   "kind": "recital",
+   "number": "34",
+   "label": "(34)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Lai vēl vairāk paplašinātu elektronisko sakaru tiesiskā regulējuma konsekventu īstenošanu, regulatoru valdē, darba grupās un valdē būtu jāļauj piedalīties trešo valstu, piemēram, EEZ/EBTA valstu un kandidātvalstu, regulatīvajām iestādēm, kas ir kompetentas elektronisko sakaru jomā, ja minētās trešās valstis ir noslēgušas attiecīgus nolīgumus ar Savienību.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_35",
+   "kind": "recital",
+   "number": "35",
+   "label": "(35)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Saskaņā ar pārredzamības principu BEREC un BEREC birojam savā tīmekļa lapā attiecīgā gadījumā būtu jāpublicē informācija par savu darbu. Jo īpaši BEREC būtu jāpublisko visi galīgie dokumenti, ko tā izdevusi, pildot savus uzdevumus, piemēram, atzinumi, pamatnostādnes, ziņojumi, ieteikumi, kopējās nostājas un labākā prakse, kā arī jebkādi pētījumi, kas pasūtīti tās uzdevumu izpildes atbalstam. BEREC un BEREC birojam būtu arī jāpublisko savu uzdevumu aktuālie saraksti un aktuālie saraksti ar locekļiem, aizstājējiem un citiem dalībniekiem, kuri piedalās to organizatoriskajās struktūrās, un Regulatoru valdes locekļu, valdes locekļu un direktora interešu deklarācijas.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_36",
+   "kind": "recital",
+   "number": "36",
+   "label": "(36)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC savā kompetences jomā ar BEREC biroja atbalstu būtu jāspēj iesaistīties tādos komunikācijas pasākumos, kuri netraucē BEREC pamatuzdevumu izpildei. BEREC komunikācijas stratēģijas saturam un īstenošanai vajadzētu būt konsekventai, objektīvai, atbilstīgai un koordinētai ar Komisijas un pārējo iestāžu stratēģijām un darbībām, lai ņemtu vērā Savienības kopējo tēlu. BEREC biroja komunikācijas darbības būtu jāīsteno saskaņā ar attiecīgiem komunikācijas un izplatīšanas plāniem, ko pieņem valde.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_37",
+   "kind": "recital",
+   "number": "37",
+   "label": "(37)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Lai efektīvi veiktu savus uzdevumus, BEREC un BEREC birojam vajadzētu būt tiesībām pieprasīt visu nepieciešamo informāciju no Komisijas, VRI un – galējas nepieciešamības gadījumā – no citām iestādēm un uzņēmumiem. Informācijas pieprasījumiem vajadzētu būt pamatotiem, proporcionāliem, un tiem nebūtu nevajadzīgi jāapgrūtina saņēmējus. VRI būtu jāsadarbojas ar BEREC un BEREC biroju un laikus tiem jāsniedz precīza informācija, lai nodrošinātu, ka BEREC un BEREC birojs spēj izpildīt savus uzdevumus. BEREC un BEREC birojam, ievērojot lojālas sadarbības principu, būtu arī jākopīgo visa vajadzīgā informācija ar Komisiju, VRI un citām kompetentajām iestādēm. Attiecīgā gadījumā būtu jānodrošina informācijas konfidencialitāte. Izvērtējot, vai informācijas pieprasījums ir pienācīgi pamatots, BEREC būtu jāņem vērā tas, vai pieprasītā informācija ir saistīta ar tādu uzdevumu izpildi, kas uzticēti vienīgi attiecīgajām iestādēm.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_38",
+   "kind": "recital",
+   "number": "38",
+   "label": "(38)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC birojam būtu jāizveido vienota informācijas un saziņas sistēma, lai nepieļautu informācijas pieprasījumu dublēšanos un atvieglotu saziņu starp visām iesaistītajām iestādēm.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_39",
+   "kind": "recital",
+   "number": "39",
+   "label": "(39)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Lai nodrošinātu augstu konfidencialitātes līmeni un nepieļautu interešu konfliktus, noteikumi, ko minētajos jautājumos piemēro BEREC un BEREC biroja organizatorisko struktūru locekļiem, būtu jāpiemēro attiecīgo locekļu aizstājējiem.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_40",
+   "kind": "recital",
+   "number": "40",
+   "label": "(40)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ņemot vērā to, ka ar šo regulu BEREC un BEREC birojam ir uzticēti jauni uzdevumi, un ar citiem Savienības tiesību aktiem var uzticēt vēl arī citu uzdevumu izpildi, tāpēc Komisijai būtu regulāri jānovērtē BEREC un BEREC biroja darbība un to iestāžu struktūras efektivitāte mainīgas digitālās vides apstākļos. Ja minētās novērtēšanas rezultātā Komisija secina, ka iestāžu struktūra nav piemērota, lai izpildītu BEREC un BEREC biroja uzdevumus un jo īpaši lai panāktu elektronisko sakaru tiesiskā regulējuma konsekventu īstenošanu, tai būtu jāapsver visi iespējamie risinājumi, kā minēto struktūru uzlabot.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_41",
+   "kind": "recital",
+   "number": "41",
+   "label": "(41)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Biroju, kas ar Regulu (EK) Nr. 1211/2009 tika izveidots kā Kopienas struktūra, kura ir tiesību subjekts, ar šo regulu izveidotais BEREC birojs aizstāj attiecībā uz visām īpašumtiesībām, nolīgumiem, tostarp mītnes līgumu, juridiskajām saistībām, darba līgumiem, finanšu saistībām un pienākumiem. BEREC birojam būtu jāpārņem Biroja darbinieki, kuru tiesībām un pienākumiem būtu jāpaliek neskartiem. Lai nodrošinātu nepārtrauktu BEREC un Biroja darbu, to pārstāvjiem, proti, regulatoru valdes priekšsēdētājam un priekšsēdētāja vietniekiem, pārvaldības komitejai un administratīvajam vadītājam savi pienākumi būtu jāturpina pildīt līdz savu pilnvaru laika beigām.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_42",
+   "kind": "recital",
+   "number": "42",
+   "label": "(42)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ievērojams skaits patērētāju lielākajā daļā dalībvalstu turpina paļauties uz tādiem tradicionāliem starptautiskajiem sakariem kā telefonijas zvani un SMS ziņas, lai gan arvien lielākam patērētāju skaitam ir pieejami numurneatkarīgi starppersonu sakaru pakalpojumi starptautisko zvanu vajadzībām par zemākam maksām nekā tradicionālie pakalpojumi vai bez samaksas naudā.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_43",
+   "kind": "recital",
+   "number": "43",
+   "label": "(43)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Komisija 2013. gadā ierosināja regulu ar ietekmes novērtējumu, kurā tika ietverts noteikums ar regulatīviem pasākumiem, kas piemērojami ES iekšzemes sakariem. 2017.–2018. gadā BEREC un Komisija ar Komisijas pētījuma un Eirobarometra palīdzību apkopoja papildu datus par ES iekšzemes sakaru tirgu. Kā rāda minētie dati, joprojām pastāv ievērojamas cenu atšķirības gan starp fiksētajiem un mobilajiem sakariem, gan starp iekšzemes balss un SMS sakariem un tiem sakariem, kurus pabeidz citā dalībvalstī, jo cenas būtiski atšķiras starp valstīm, pakalpojumu sniedzējiem un tarifu paketēm un starp mobilajiem un fiksētajiem balss sakariem. Publiski pieejamu numuratkarīgu starppersonu sakaru pakalpojumu sniedzēji bieži uzliek maksu par patēriņu, balstoties uz ES iekšzemes sakaru cenām, kuras ievērojami pārsniedz iekšzemes tarifus, kam pieskaitītas papildu izmaksas. Vidēji standarta cena par fiksētu vai mobilu ES iekšzemes zvanu mēdz būt trīs reizes augstāka nekā standarta cena par iekšzemes zvanu un standarta cena par ES iekšzemes SMS ziņu vairāk nekā divas reizes pārsniedz cenu par iekšzemes SMS ziņu. Tomēr minētie aritmētiskie vidējie neuzrāda būtiskas atšķirības starp dalībvalstīm. Dažos gadījumos standarta cena par ES iekšzemes zvanu var būt pat līdz astoņām reizēm augstāka par standarta cenu par iekšzemes zvaniem. Līdz ar to klienti vairākās dalībvalstīs sastopas ar ļoti augstām cenām par ES iekšzemes sakariem. Minētās augstās cenas galvenokārt ietekmē patērētājus, jo īpaši tos, kas šādus sakarus izmanto neregulāri vai nelielos apmēros, proti, tā ir lielākā daļa no patērētājiem, kas izmanto ES iekšzemes sakarus. Tajā pašā laikā vairāki pakalpojumu sniedzēji piedāvā speciālus piedāvājumus, kas ir īpaši pievilcīgi komercklientiem un patērētājiem, kas izmanto ES iekšzemes sakarus lielos apmēros. Šādiem piedāvājumiem bieži vien nepiemēro uz reālu patēriņu balstītu maksu, un tajos var ietvert konkrētu skaitu ES iekšzemes zvanu minūšu vai SMS ziņu par fiksētu mēneša maksu (papildpiedāvājumi) vai iekļaut konkrētu skaitu ES iekšzemes zvanu minūšu vai SMS ziņu mēnesī atļautajās zvanu minūtēs vai SMS ziņās vai nu bez papildu maksas, vai par nelielu papildu samaksu. Tomēr šādu pakalpojumu noteikumi bieži vien nav pievilcīgi patērētājiem, kas ES iekšzemes sakarus izmanto reti, neparedzamos vai salīdzinoši mazos apmēros. Līdz ar to minētie patērētāji riskē maksāt pārlieku augstu cenu par saviem ES iekšzemes sakariem un tie būtu jāaizsargā.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_44",
+   "kind": "recital",
+   "number": "44",
+   "label": "(44)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Turklāt augstas cenas par ES iekšzemes sakariem ir šķērslis iekšējā tirgus darbībai, jo tās attur meklēt un iegadāties preces un pakalpojumus no pakalpojumu sniedzēja, kas atrodas citā dalībvalstī. Tādēļ nolūkā izskaust šādas augstas cenas ir jānosaka konkrēti un samērīgi tās cenas ierobežojumi, kuru publiski pieejamu numuratkarīgu starppersonu sakaru pakalpojumu sniedzēji var iekasēt no patērētājiem par ES iekšzemes sakariem.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_45",
+   "kind": "recital",
+   "number": "45",
+   "label": "(45)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ja publiski pieejamu numuratkarīgu starppersonu sakaru pakalpojumu sniedzēji par ES iekšzemes sakariem patērētājiem piemēro maksu, daļēji vai pilnībā balstoties uz šādu pakalpojumu patēriņu, tostarp uz patēriņu balstītus atvilkumus no šādu pakalpojumu ikmēneša vai priekšapmaksas piešķīruma, minētajām maksām nevajadzētu pārsniegt 0,19 EUR par minūti attiecībā uz zvaniem un 0,06 EUR par SMS ziņu. Minētās maksimālās vērtības atbilst maksimālajām cenām, kas šobrīd tiek piemērotas attiecīgi regulētiem viesabonēšanas zvaniem un SMS ziņām. Veicot viesabonēšanu Savienībā, patērētāji bauda aizsardzību, ko sniedz balss zvanu Eiropas tarifs un SMS Eiropas tarifs, ko pamazām aizstāj ar viesabonēšanu “kā mājās”. Minētās maksimālās vērtības uzskata arī par atbilstošu robežlielumu tam, lai noteiktu maksimālo likmi regulētiem ES iekšzemes sakariem uz pieciem gadiem, sākot no 2019. gada 15. maija. Pašreizējā maksimālā vērtība ir vienkāršs, pārredzams un pierādīts drošības tīkls, kas sniedz aizsardzību pret augstām cenām un ir piemērots kā mazumtirdzniecības cenu maksimālā vērtība visiem regulētiem ES iekšzemes sakariem. Gan viesabonēšanas zvaniem Savienības iekšienē, gan ES iekšzemes zvaniem ir līdzīga izmaksu struktūra.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_46",
+   "kind": "recital",
+   "number": "46",
+   "label": "(46)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Maksimālajām vērtībām būtu jādod iespēja publiski pieejamu numuratkarīgu starppersonu sakaru pakalpojumu sniedzējiem atgūt savas izmaksas, tādējādi nodrošinot samērīgu iejaukšanos gan mobilo, gan fiksēto zvanu tirgū. Maksimālās vērtības tiks tieši piemērotas vienīgi likmēm, kas ir balstītas uz reālo patēriņu. Tiem vajadzētu nodrošināt disciplinējošu ietekmi arī uz tiem piedāvājumiem, kur konkrēts apjoms ES iekšzemes sakaru ir iekļauts, nepiemērojot atsevišķu samaksu, jo patērētājiem ir tiesības savām ES iekšzemes sakaru vajadzībām pāriet uz tarifu, kas balstās uz patēriņu. Maksimālajām vērtībām būtu jāattiecas uz tiem ES iekšzemes sakaru apjomiem, kuri pārsniedz komplektā iekļautos un par kuriem piestāda atsevišķu maksu. Ar šo pasākumu samērīgā veidā būtu jānodrošina tas, ka patērētāji ar zemu ES iekšzemes sakaru patēriņa līmeni tiek aizsargāti pret augstam cenām un tajā pašā laikā tam vajadzētu būt ar mērenu ietekmi uz pakalpojumu sniedzējiem.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_47",
+   "kind": "recital",
+   "number": "47",
+   "label": "(47)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Publiski pieejamu numuratkarīgu starppersonu sakaru pakalpojumu sniedzējiem vajadzētu būt iespējai piedāvāt saviem patērētājiem alternatīvus tarifu piedāvājumus starptautiskajiem sakariem ar dažādām likmēm attiecībā uz regulētiem ES iekšzemes sakariem, un patērētājiem vajadzētu būt iespējai skaidri izvēlēties šādus piedāvājumus un jebkurā laikā un bez maksas pārslēgties atpakaļ, pat attiecībā uz tiem piedāvājumiem, kurus patērētāji abonēja pirms šādu noteikumu spēkā stāšanās. Tikai alternatīviem piedāvājumiem attiecībā uz starptautiskajiem sakariem, piemēram tādiem, kas aptver visas vai dažas trešās valstis, ja patērētājs tos ir pieņēmis, vajadzētu būt iespējai atbrīvot pakalpojumu sniedzēju no pienākuma nepārsniegt maksimālās regulēto ES iekšzemes sakaru vērtības. Citas priekšrocības, piemēram subsidētas galiekārtas vai atlaides par citiem elektronisko sakaru pakalpojumiem, kuras pakalpojumu sniedzēji piedāvā patērētājiem, ir daļa no parastas konkurences mijiedarbības, un tām nebūtu jāietekmē regulēto ES iekšzemes sakaru cenu maksimālo vērtību piemērojamība.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_48",
+   "kind": "recital",
+   "number": "48",
+   "label": "(48)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Dažus publiski pieejamu numuratkarīgu starppersonu sakaru pakalpojumu sniedzējus regulēto ES iekšzemes sakaru cenas maksimālā vērtība var ietekmēt daudz vairāk nekā lielāko daļu citus pakalpojumu sniedzējus Savienībā. Tas jo īpaši varētu attiekties uz tiem pakalpojumu sniedzējiem, kuri sevišķi lielu daļu no saviem ieņēmumiem vai darbības peļņas vai iegūst no ES iekšzemes sakariem vai kuru iekšzemes peļņas daļa ir zema salīdzinājumā ar nozares robežvērtībām. Saistībā ar peļņas samazināšanos par regulētajiem ES iekšzemes sakariem pakalpojumu sniedzējs varētu nespēt uzturēt savu iekšzemes pakalpojumu cenu modeli. Visticamāk, šādi scenāriji īstenotos ļoti retos gadījumos, jo maksimālās cenas ir nepārprotami augstākas par ES iekšzemes sakaru nodrošināšanas izmaksām. Tomēr, lai samērīgi risinātu šādus ļoti ārkārtējus scenārijus, VRI būtu jāspēj pamatotos izņēmuma gadījumos pēc šāda pakalpojumu sniedzēja lūguma piešķirt atkāpi.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_49",
+   "kind": "recital",
+   "number": "49",
+   "label": "(49)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Jebkāda atkāpe būtu jāpiešķir vienīgi tad, ja pakalpojumu sniedzējs, izmantojot BEREC noteiktu robežvērtību, var pierādīt, ka ietekme uz to ir ievērojami lielāka nekā uz lielāko daļu citus pakalpojumu sniedzējus Savienībā un ka minētā ietekme būtiski pavājinātu minētā pakalpojumu sniedzēja spēju uzturēt savu iekšzemes sakaru tarifikācijas modeli. Ja VRI piešķir atkāpi, tai būtu jānosaka maksimālais cenas līmenis, kuru pakalpojumu sniedzējs varētu piemērot regulētiem ES iekšzemes sakariem un ar kura palīdzību pakalpojumu sniedzējs varētu saglabāt konkurētspējīgu cenu līmeni par iekšzemes sakariem. Jebkura šāda atkāpe būtu jāierobežo uz vienu gadu, un to var atjaunot, ja pakalpojumu sniedzējs var pierādīt, ka nosacījumi atkāpes piešķiršanai joprojām tiek izpildīti.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_50",
+   "kind": "recital",
+   "number": "50",
+   "label": "(50)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ņemot vērā proporcionalitātes principu, regulēto ES iekšzemes sakaru cenu maksimālo vērtību piemērojamība būtu jāierobežo laikā un tai vajadzētu beigties piecus gadus pēc tās stāšanās spēkā. Šādam ierobežotam darbības ilgumam būtu jāļauj pienācīgi izvērtēt pasākumu ietekmi un novērtēt, ciktāl vēl arvien pastāv vajadzība aizsargāt patērētājus.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_51",
+   "kind": "recital",
+   "number": "51",
+   "label": "(51)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Lai nodrošinātu, ka visā Savienībā konsekventi, savlaicīgi un visefektīvākajā veidā tiek aizsargāti patērētāji, kurus negatīvi ietekmē būtiskas ES iekšzemes sakaru cenu atšķirības, šādiem noteikumiem vajadzētu būt tieši piemērojamam un iekļautam regulā. Minētajam nolūkam vispiemērotākajam tiesību aktam ir Regula (ES) 2015/2120, kas tika pieņemta pēc ietekmes novērtējuma, kurā cita starpā bija ierosināts noteikums par ES iekšzemes sakariem kā vajadzīgu līdzekli telesakaru iekšējā tirgus pabeigšanai. Iespējamā ietekme uz pakalpojumu sniedzēju ieņēmumiem no ES iekšzemes sakariem ir vēl vairāk samazināta, piemērojot viesabonēšanas balss zvanu Eiropas tarifu un SMS Eiropas tarifu kā maksimālās vērtības gan fiksētajiem, gan mobilajiem sakariem, kas kalpo par drošības mehānismu; un ar BEREC 2018. gada analīzes sniegtajiem pierādījumiem, ka ievērojami ir samazinājušies attiecīgie fiksētās datplūsmas apjomi, kurus ietekmē noteikums iejaukšanās laikposmā. Tādēļ minētie noteikumi būtu grozījuma veidā jāievieš Regulā (ES) 2015/2120, kura būtu arī jāpielāgo, lai nodrošinātu, ka dalībvalstis pieņem noteikumus attiecībā uz sodiem par šādu noteikumu pārkāpšanu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_52",
+   "kind": "recital",
+   "number": "52",
+   "label": "(52)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ņemot vērā to, ka šīs regulas mērķus, proti, nodrošināt elektronisko sakaru tiesiskā regulējuma konsekventu īstenošanu, jo īpaši attiecībā uz pārrobežu aspektiem un ar efektīvām iekšējā tirgus procedūrām valstu pasākumu projektiem, un nodrošināt, lai patērētājiem netiktu piemērotas pārmērīgas cenas par numuratkarīgiem starppersonu sakariem, kad savienojumu uzsāk klienta iekšzemes pakalpojumu sniedzēja dalībvalstī un pabeidz uz jebkuru fiksētā vai mobilā tīkla numuru citā dalībvalstī, nevar pietiekami labi sasniegt atsevišķās dalībvalstīs, bet darbības mēroga un ietekmes dēļ tos var labāk sasniegt Savienības līmenī, Savienība var pieņemt pasākumus saskaņā ar Līguma par Eiropas Savienību 5. pantā noteikto subsidiaritātes principu. Saskaņā ar minētajā pantā noteikto proporcionalitātes principu šajā regulā paredz vienīgi tos pasākumus, kas ir vajadzīgi minēto mērķu sasniegšanai.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_53",
+   "kind": "recital",
+   "number": "53",
+   "label": "(53)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Šī regula groza un paplašina Regulas (EK) Nr. 1211/2009 darbības jomu. Tā kā izdarāmie grozījumi ir būtiski, minētais akts skaidrības labad būtu jāatceļ. Atsauces uz atcelto regulu būtu jāuzskata par atsaucēm uz šo regulu,",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_1",
+   "kind": "article",
+   "number": "1",
+   "label": "1. pants",
+   "title": "Priekšmets un piemērošanas joma",
+   "path": [
+    "I NODAĻA — PRIEKŠMETS UN PIEMĒROŠANAS JOMA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ar šo regulu izveido Eiropas Elektronisko sakaru regulatoru iestādi (“BEREC”) un BEREC atbalsta aģentūru (“BEREC birojs”).",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC un BEREC birojs attiecīgi aizstāj Eiropas Elektronisko komunikāciju regulatoru iestādi un Biroju, kas tika izveidoti ar Regulu (EK) Nr. 1211/2009, un ir to pēcteči.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_2",
+   "kind": "article",
+   "number": "2",
+   "label": "2. pants",
+   "title": "BEREC biroja tiesībsubjektība",
+   "path": [
+    "I NODAĻA — PRIEKŠMETS UN PIEMĒROŠANAS JOMA"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC birojs ir Savienības struktūra. Tā ir tiesību subjekts.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Katrā dalībvalstī BEREC birojam ir visplašākā tiesībspēja un rīcībspēja, ko attiecīgās valsts tiesību akti piešķir juridiskām personām. Tam jo īpaši ir spēja pirkt un pārdot kustamu un nekustamu īpašumu un būt par pusi tiesas procesos.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC biroju pārstāv tā direktors.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Tikai BEREC birojs ir atbildīgs par tam noteikto uzdevumu un uzticēto pilnvaru īstenošanu.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. BEREC biroja galvenā mītne ir Rīgā.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_3",
+   "kind": "article",
+   "number": "3",
+   "label": "3. pants",
+   "title": "BEREC mērķi",
+   "path": [
+    "II NODAĻA — BEREC MĒRĶI un uzdevumi"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC rīkojas Regulas (ES) Nr. 531/2012 un Regulas (ES) 2015/2120 un Direktīvas (ES) 2018/1972 darbības jomā.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC tiecas sasniegt Direktīvas (ES) 2018/1972 3. pantā izklāstītos mērķus. BEREC jo īpaši cenšas nodrošināt elektronisko sakaru tiesiskā regulējuma konsekventu īstenošanu šā panta 1. punktā minētajā darbības jomā.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC veic savus uzdevumus neatkarīgi, objektīvi, pārredzami un savlaicīgi.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. BEREC izmanto īpašās zināšanas, kas ir pieejamas valstu regulatīvajās iestādēs (VRI).",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Saskaņā ar Direktīvas (ES) 2018/1972 9. panta 3. punktu katra dalībvalsts nodrošina, ka tās VRI spēj pilnā mērā piedalīties BEREC organizatorisko struktūru darbā.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Dalībvalstīs, kurās ir vairāk par vienu VRI, kas atbildīgas saskaņā ar Direktīvu (ES) 2018/1972, minētās VRI īsteno savstarpēju koordināciju pēc nepieciešamības.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_4",
+   "kind": "article",
+   "number": "4",
+   "label": "4. pants",
+   "title": "BEREC regulatīvie uzdevumi",
+   "path": [
+    "II NODAĻA — BEREC MĒRĶI un uzdevumi"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC ir šādi regulatīvie uzdevumi:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) pēc pieprasījuma vai pēc savas iniciatīvas un savas kompetences robežās palīdzēt VRI, Eiropas Parlamentam, Padomei un Komisijai sniegt tiem padomus un sadarboties ar VRI un Komisiju visos tehniskajos jautājumos saistībā ar elektroniskajiem sakariem;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) pēc pieprasījuma palīdzēt Komisijai un sniegt tai padomus saistībā ar leģislatīvo priekšlikumu sagatavošanu elektronisko sakaru jomā, tostarp saistībā ar jebkādiem ierosinātiem grozījumiem šajā regulā vai Direktīvā (ES) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) sniegt atzinumus, kā minēts Regulā (ES) Nr. 531/2012 un Direktīvā (ES) 2018/1972, jo īpaši par: i) pārrobežu strīdu izšķiršanu saskaņā ar Direktīvas (ES) 2018/1972 27. pantu; ii) valstu pasākumu projektiem saistībā ar iekšējā tirgus procedūrām tirgus regulēšanai saskaņā ar Direktīvas (ES) 2018/1972 32., 33. un 68. pantu; iii) lēmumu projektiem un saskaņošanas ieteikumiem saskaņā ar Direktīvas (ES) 2018/1972 38. un 93. pantu; iv) gala-gala savienojamību starp galalietotājiem saskaņā ar Direktīvas (ES) 2018/1972 61. pantu; v) vienotu maksimālo Savienības mēroga mobilā balss savienojuma pabeigšanas tarifu un vienotu maksimālo Savienības mēroga fiksētā balss savienojuma pabeigšanas tarifu noteikšanu saskaņā ar Direktīvas (ES) 2018/1972 75. pantu; vi) līguma kopsavilkuma veidni saskaņā ar Direktīvas (ES) 2018/1972 102. pantu; vii) vispārējās atļaujas īstenošanu un darbību valsts līmenī un par tās ietekmi uz iekšējā tirgus darbību saskaņā ar Direktīvas (ES) 2018/1972 122. panta 3. punktu; viii) attiecīgā gadījumā tirgus un tehnoloģiju attīstību attiecībā uz dažādajiem elektronisko sakaru pakalpojumu veidiem un to ietekmi uz Direktīvas (ES) 2018/1972 III daļas III sadaļas piemērošanu saskaņā ar minētās direktīvas 123. panta 1. punktu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) izdot pamatnostādnes par elektronisko sakaru Savienības tiesiskā regulējuma īstenošanu, kā minēts Regulās (ES) Nr. 531/2012 un (ES) 2015/2120 un Direktīvā (ES) 2018/1972, jo īpaši par: i) paziņojuma veidlapu saskaņā ar Direktīvas (ES) 2018/1972 12. pantu; ii) konsekventu pienākumu īstenošanu attiecībā uz ģeogrāfiskajiem apsekojumiem un prognozēm saskaņā ar Direktīvas (ES) 2018/1972 22. pantu; iii) attiecīgajiem kritērijiem, lai veicinātu Direktīvas (ES) 2018/1972 61. panta 3. punkta konsekventu piemērošanu; iv) kopīgām pieejām tīkla pieslēgumpunkta noteikšanai dažādās tīkla topoloģijās saskaņā ar Direktīvas (ES) 2018/1972 61. panta 7. punktu; v) kopīgām pieejām transnacionālu galalietotāju pieprasījuma apmierināšanai saskaņā ar Direktīvas (ES) 2018/1972 66. pantu; vi) minimālajiem standartpiedāvājuma kritērijiem saskaņā ar Direktīvas (ES) 2018/1972 69. pantu; vii) to, kā veicināt, lai VRI konsekventi piemērotu Direktīvas (ES) 2018/1972 76. panta 1. punktā izklāstītos nosacījumus un tās IV pielikumā izklāstītos kritērijus; viii) kritērijiem, saskaņā ar kuriem tīkls tiek uzskatīts par ļoti augstas veiktspējas tīklu saskaņā ar Direktīvas (ES) 2018/1972 82. pantu; ix) kopīgiem kritērijiem numerācijas resursu pārvaldības spēju un numerācijas resursu izsmelšanas riska novērtēšanai saskaņā ar Direktīvas (ES) 2018/1972 93. pantu; x) attiecīgiem pakalpojumu kvalitātes parametriem, piemērojamām mērījumu metodēm, informācijas publikāciju saturu un formātu un kvalitātes sertifikācijas mehānismiem saskaņā ar Direktīvas (ES) 2018/1972 104. pantu; xi) to, kā novērtēt, vai sabiedrības brīdināšanas sistēmas saskaņā ar Direktīvas (ES) 2018/1972 110. panta 2. punktu ir vienlīdz efektīvas ar tām, kas paredzētas saskaņā ar minētā panta 1. punktu; xii) vairumtirdzniecības viesabonēšanas piekļuvi saskaņā ar Regulas (ES) Nr. 531/2012 3. panta 8. punktu; xiii) VRI pienākumu īstenošanu attiecībā uz piekļuvi atvērtam internetam saskaņā ar Regulas (ES) 2015/2120 5. panta 3. punktu; xiv) parametriem, kas VRI jāņem vērā, izvērtējot iekšzemes tarifikācijas modeļa ilgtspējību saskaņā ar Regulas (ES) 2015/2120 5.a panta 6. punktu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) pēc savas iniciatīvas vai pēc VRI, Eiropas Parlamenta, Padomes vai Komisijas pieprasījuma izdot citas pamatnostādnes, ar ko nodrošina, ka konsekventi tiek īstenots elektronisko sakaru tiesiskais regulējums un ka VRI pieņem konsekventus regulatīvos lēmumus, jo īpaši regulatīvajos jautājumos, kuri skar ievērojamu skaitu dalībvalstu vai kuriem ir pārrobežu elements;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) attiecīgā gadījumā piedalīties salīdzinošās izvērtēšanas forumā par pasākumu projektiem saistībā ar atlases procedūrām saskaņā ar Direktīvas (ES) 2018/1972 35. pantu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) piedalīties saistībā ar jautājumiem par tās kompetenci attiecībā uz tirgus regulēšanu un konkurenci saistībā ar radio spektru saskaņā ar Direktīvas (ES) 2018/1972 4. pantu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) veikt analīzi par iespējamiem transnacionāliem tirgiem saskaņā ar Direktīvas (ES) 2018/1972 65. pantu un par transnacionālu galalietotāju pieprasījumu saskaņā ar minētās direktīvas 66. pantu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) pārraudzīt un vākt informāciju un attiecīga gadījumā darīt publiski pieejamu atjauninātu informāciju par Regulas (ES) Nr. 531/2012 piemērošanu saskaņā ar tās 16. un 19. pantu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) ziņot par tehniskiem jautājumiem savā kompetencē, jo īpaši par: i) šā punkta c), d) un e) apakšpunktā minēto atzinumu un pamatnostādņu praktisko piemērošanu; ii) dalībvalstu paraugpraksi, lai palīdzētu definēt atbilstīgu platjoslas interneta piekļuves pakalpojumu saskaņā ar Direktīvas (ES) 2018/1972 84. pantu; iii) cenu un patēriņa ieradumu izmaiņām saistībā gan ar iekšzemes, gan viesabonēšanas pakalpojumiem, par to, kā mainās faktiskie vairumtirdzniecības viesabonēšanas tarifi attiecībā uz nelīdzsvarotu datplūsmu, par saikni starp mazumtirdzniecības cenām, vairumtirdzniecības maksām un vairumtirdzniecības izmaksām par viesabonēšanas pakalpojumiem, kā arī par tarifu pārredzamību un salīdzināmību saskaņā ar Regulas (ES) Nr. 531/2012 19. pantu; iv) gada pārskatu, ko VRI sniedz saskaņā ar Regulas (ES) 2015/2120 5. pantu, rezultātiem, publicējot gada kopsavilkuma ziņojumu; v) tirgus norisēm elektronisko sakaru nozarē – reizi gadā;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) sniegt ieteikumus un kopējās nostājas un izplatīt VRI paredzēto labāko regulatīvo praksi, lai sekmētu elektronisko sakaru tiesiskā regulējuma konsekventu un labāku īstenošanu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) izveidot un uzturēt datubāzi, kurā ietver šādu informāciju: i) paziņojumi, ko kompetentajām iestādēm nosūtījuši uzņēmumi, uz kuriem attiecas vispārēja atļauja, saskaņā ar Direktīvas (ES) 2018/1972 12. punktu; ii) numerācijas resursi ar tiesībām uz lietošanu ārpus teritorijas Savienības iekšienē saskaņā ar Direktīvas (ES) 2018/1972 93. panta 4. punkta ceturto daļu; iii) attiecīgā gadījumā E.164 dalībvalstu neatliekamās palīdzības dienestu numuri saskaņā ar Direktīvas (ES) 2018/1972 109. panta 8. punkta trešo daļu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) izvērtēt nepieciešamību pēc inovācijas regulējuma jomā un koordinēt VRI darbības nolūkā nodrošināt iespēju izstrādāt jaunus un inovatīvus elektroniskos sakarus;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) veicināt to, ka VRI modernizē, koordinē un standartizē datu vākšanu, šādus datus atklātā, atkārtoti izmantojamā un mašīnlasāmā formātā darīt publiski pieejamus BEREC tīmekļa vietnē un Eiropas datu portālā, neskarot intelektuālā īpašuma tiesības, personas datu aizsardzības noteikumus un nepieciešamo konfidencialitātes līmeni;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "o) veikt citus uzdevumus, kas tai uzticēti ar Savienības tiesību aktiem, jo īpaši ar Regulu (ES) Nr. 531/2012 un (ES) 2015/2120 un Direktīvu (ES) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC publisko savus regulatīvos uzdevumus un atjaunina minēto informāciju, kad tai tiek uzticēti jauni uzdevumi.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC publisko visus tās galīgos atzinumus, pamatnostādnes, ziņojumus, ieteikumus, kopējās nostājas un paraugpraksi un jebkādus pasūtītos pētījumus, kā arī attiecīgo dokumentu projektus 5. punktā minētās sabiedriskās apspriešanas nolūkā.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Neskarot atbilstības nodrošināšanu attiecīgajiem Savienības tiesību aktiem, VRI un Komisija rūpīgi ņem vērā visas pamatnostādnes, atzinumus, ieteikumus, kopējās nostājas, paraugpraksi, ko BEREC pieņēmusi, lai nodrošinātu elektronisko sakaru tiesiskā regulējuma konsekventu īstenošanu 3. panta 1. punktā noteiktās darbības jomas ietvaros. Ja VRI atkāpjas no 1. punkta e) apakšpunktā minētajām pamatnostādnēm, tā sniedz šādas atkāpšanās iemeslus.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Attiecīgā gadījumā BEREC apspriežas ar ieinteresētajām personām un dod tām iespēju paust viedokli saprātīgā laikposmā, ko nosaka, ņemot vērā jautājuma sarežģītību. Izņemot ārkārtas apstākļus, minētais laikposms nav īsāks par 30 dienām. Neskarot 39. pantu, BEREC nodrošina, lai šādas sabiedriskās apspriešanas rezultāti būtu publiski pieejami. Šādu apspriešanos rīko pēc iespējas agrākā lēmumu pieņemšanas procesa posmā.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. BEREC attiecīgā gadījumā apspriežas un sadarbojas ar attiecīgajām valsts iestādēm, piemēram, ar tām, kas ir kompetentas konkurences, patērētāju tiesību aizsardzības un datu aizsardzības jomā.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. BEREC attiecīgā gadījumā var sadarboties ar kompetentajām Savienības struktūrām, birojiem, aģentūrām un padomdevējām grupām, kā arī ar trešo valstu kompetentajām iestādēm un ar starptautiskām organizācijām saskaņā ar 36. panta 1. punktu.",
+     "para": "7",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_5",
+   "kind": "article",
+   "number": "5",
+   "label": "5. pants",
+   "title": "BEREC biroja uzdevumi",
+   "path": [
+    "III NODAĻA — BEREC BIROJA UZDEVUMI"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC birojam ir šādi uzdevumi:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) sniegt BEREC profesionāla un administratīva atbalsta pakalpojumus, jo īpaši atbalstu tās regulatīvo uzdevumu izpildei, ievērojot 4. pantu;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) vākt informāciju no VRI un nodrošināt informācijas apmaiņu un nosūtīšanu saistībā ar regulatīvajiem uzdevumiem, kas BEREC uzticēti, ievērojot 4. pantu;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) pamatojoties uz b) punktā minēto informāciju, sagatavot regulārus ziņojuma projektus par konkrētiem Eiropas elektronisko sakaru tirgus attīstības aspektiem (piemēram, ziņojumus par viesabonēšanu un salīdzinošas analīzes ziņojumus), kas tam ir jāiesniedz BEREC;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) saskaņā ar 4. panta 1. punkta k) apakšpunktu VRI vidū izplatīt labāko regulatīvo praksi;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) palīdzēt BEREC izveidot un uzturēt reģistrus un datubāzes saskaņā ar 4. panta 1. punkta l) apakšpunktu;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) palīdzēt BEREC izveidot un pārvaldīt informācijas un saziņas sistēmu saskaņā ar 41. pantu;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) palīdzēt BEREC īstenot sabiedrisko apspriešanu saskaņā ar 4. panta 5. punktu;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) palīdzēt sagatavot regulatoru valdes darbu un sniegt citu administratīvu un saturisku atbalstu, kas ir vajadzīgs, lai nodrošinātu regulatoru valdes netraucētu darbību;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) pēc regulatoru valdes pieprasījuma palīdzēt izveidot darba grupas, sniegt ieguldījumu regulatīvajā darbā un sniegt administratīvo atbalstu, kas vajadzīgs, lai nodrošinātu minēto grupu netraucētu darbību;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) veikt citus uzdevumus, kas tam uzticēti ar šo regulu un citiem Savienības tiesību aktiem.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_6",
+   "kind": "article",
+   "number": "6",
+   "label": "6. pants",
+   "title": "BEREC organizatoriskā struktūra",
+   "path": [
+    "IV NODAĻA — BEREC ORGANIZATORISKĀ STRUKTŪRA"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC sastāvā ir:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) regulatoru valde;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) darba grupas.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_7",
+   "kind": "article",
+   "number": "7",
+   "label": "7. pants",
+   "title": "Regulatoru valdes sastāvs",
+   "path": [
+    "IV NODAĻA — BEREC ORGANIZATORISKĀ STRUKTŪRA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Regulatoru valdes sastāvā ir viens loceklis no katras dalībvalsts. Katram loceklim ir tiesības balsot. Katru locekli ieceļ VRI, un viņa pamatuzdevums ir pārraudzīt elektronisko sakaru tīklu un pakalpojumu tirgu ikdienas darbību saskaņā ar Direktīvu (ES) 2018/1972. Locekli ieceļ no VRI vadītāju, tās koleģiālās struktūras locekļu vai arī viena vai otra aizvietotāju vidus.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Katram regulatoru valdes loceklim ir aizstājējs, kuru ieceļ VRI. Aizstājējs pārstāv valdes locekli viņa prombūtnes laikā. Aizstājēju ieceļ no VRI vadītāju, tās koleģiālās struktūras locekļu, viena vai otra aizvietotāju, vai VRI darbinieku vidus.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Regulatoru valdes locekļus un viņu aizstājējus ieceļ, ņemot vērā gan viņu zināšanas elektronisko sakaru jomā, gan attiecīgās vadītāja, administratīvās un budžeta veidošanas prasmes. Lai nodrošinātu regulatoru valdes darba nepārtrauktību, visas VRI, kas ieceļ locekļus, cenšas ierobežot savu locekļu un, ja iespējams, arī to aizstājēju mainību, un tiecas panākt sieviešu un vīriešu līdzsvarotu pārstāvību.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Komisija bez balsstiesībām piedalās visu jautājumu apspriešanā regulatoru valdē, un tā ir pārstāvēta pienācīgi augstā līmenī.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Tiek publiskots regulatoru valdes locekļu un viņu aizstājēju aktuāls saraksts un viņu interešu deklarācijas.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_8",
+   "kind": "article",
+   "number": "8",
+   "label": "8. pants",
+   "title": "Regulatoru valdes neatkarība",
+   "path": [
+    "IV NODAĻA — BEREC ORGANIZATORISKĀ STRUKTŪRA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Pildot tai uzticētos uzdevumus un neskarot to, ka tās locekļi darbojas attiecīgās VRI vārdā, regulatoru valde darbojas neatkarīgi un objektīvi, Savienības interesēs un neņemot vērā nekādas noteiktas valsts vai personīgās intereses.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Neskarot koordināciju, kā minēts 3. panta 6. punktā, regulatoru valdes locekļi un viņu aizstājēji neprasa un nepieņem norādījumus ne no vienas valdības, iestādes, personas vai struktūras.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_9",
+   "kind": "article",
+   "number": "9",
+   "label": "9. pants",
+   "title": "Regulatoru valdes funkcijas",
+   "path": [
+    "IV NODAĻA — BEREC ORGANIZATORISKĀ STRUKTŪRA"
+   ],
+   "blocks": [
+    {
+     "text": "Regulatoru valdei ir šādas funkcijas:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) pildīt 4. pantā izklāstītos BEREC regulatīvos uzdevumus, proti, pieņemt minētajā pantā minētos atzinumus, pamatnostādnes, ziņojumus, ieteikumus un kopējās nostājas, un izplatīt paraugpraksi; to darot, valde paļaujas uz darba grupu paveikto sagatavošanas darbu;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) pieņemt administratīvus lēmumus, kas saistīti ar BEREC darba organizēšanu;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) pieņemt BEREC gada darba programmu, kā minēts 21. pantā;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) pieņemt BEREC gada darbības pārskatu, kā minēts 22. pantā;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) pieņemt noteikumus par interešu konfliktu novēršanu un pārvaldību, kā minēts 42. pantā, kā arī attiecībā uz darba grupu locekļiem;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) saskaņā ar 36. pantu pieņemt sīki izstrādātus noteikumus par tiesībām piekļūt BEREC rīcībā esošiem dokumentiem;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) pamatojoties uz vajadzību analīzi, pieņemt un regulāri atjaunināt 37. panta 2. punktā minētos komunikācijas un izplatīšanas plānus;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) ar locekļu divu trešdaļu balsu vairākumu pieņemt un publiskot savu reglamentu;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) kopīgi ar direktoru sniegt atļauju noslēgt vienošanos par darba mehānismiem ar kompetentajām Savienības struktūrām, birojiem, aģentūrām un padomdevējām grupām, un ar trešo valstu kompetentajām iestādēm un ar starptautiskām organizācijām saskaņā ar 35. pantu;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) izveidot darba grupas un iecelt to priekšsēdētājus;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "k) sniegt norādes BEREC biroja direktoram attiecībā uz BEREC biroja uzdevumu veikšanu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_10",
+   "kind": "article",
+   "number": "10",
+   "label": "10. pants",
+   "title": "Regulatoru valdes priekšsēdētājs un priekšsēdētāja vietnieki",
+   "path": [
+    "IV NODAĻA — BEREC ORGANIZATORISKĀ STRUKTŪRA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Regulatoru valde no savu locekļu vidus ar locekļu divu trešdaļu balsu vairākumu ieceļ priekšsēdētāju un vismaz divus priekšsēdētāja vietniekus.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Viens no priekšsēdētāja vietniekiem automātiski uzņemas priekšsēdētāja pienākumus, ja priekšsēdētājs šos pienākumus nespēj pildīt.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Priekšsēdētāja pilnvaru laiks ir viens gads, un to var vienreiz atjaunot. Lai nodrošinātu BEREC darba nepārtrauktību, par priekšsēdētāju kļūst persona, kas, ja iespējams, līdz priekšsēdētāja pilnvaru laika sākumam vienu gadu ir pildījusi priekšsēdētāja vietnieka pienākumus. Reglamentā paredz īsāku termiņu gadījumam, ja nav iespējams nodrošināt, ka par priekšsēdētāju kļūst persona, kas līdz priekšsēdētāja pilnvaru laika sākumam vienu gadu ir pildījusi priekšsēdētāja vietnieka pienākumus.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Neskarot regulatoru valdes funkcijas, kas saistītas ar priekšsēdētāja uzdevumiem, priekšsēdētājs neprasa un nepieņem norādījumus ne no vienas valdības, iestādes, personas vai struktūras.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Priekšsēdētājs pēc uzaicinājuma ziņo Eiropas Parlamentam un Padomei par BEREC uzdevumu izpildi.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_11",
+   "kind": "article",
+   "number": "11",
+   "label": "11. pants",
+   "title": "Regulatoru valdes sanāksmes",
+   "path": [
+    "IV NODAĻA — BEREC ORGANIZATORISKĀ STRUKTŪRA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Regulatoru valdes sanāksmes sasauc tās priekšsēdētājs, kas nosaka minēto sanāksmju darba kārtību, kura ir publiski pieejama.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Regulatoru valde sanāk regulārajās sanāksmēs vismaz divreiz gadā. Ārkārtas sanāksmes sasauc pēc priekšsēdētāja iniciatīvas, pēc vismaz trīs regulatoru valdes locekļu pieprasījuma vai pēc Komisijas pieprasījuma.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC biroja direktors bez balsstiesībām piedalās visās apspriedēs.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Regulatoru valde var uzaicināt jebkuru personu, kuras viedoklis varētu to interesēt, piedalīties savās sanāksmēs novērotāja statusā.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Regulatoru valdes locekļiem un aizstājējiem sanāksmēs var palīdzēt viņu padomdevēji vai citi eksperti, ievērojot reglamenta noteikumus.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. BEREC birojs nodrošina regulatoru valdes sekretariātu.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_12",
+   "kind": "article",
+   "number": "12",
+   "label": "12. pants",
+   "title": "Regulatoru valdes balsošanas noteikumi",
+   "path": [
+    "IV NODAĻA — BEREC ORGANIZATORISKĀ STRUKTŪRA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Regulatoru valde lēmumus pieņem ar vienkāršu tās locekļu balsu vairākumu, ja vien šajā regulā vai citā Savienības tiesību aktā nav noteikts citādi. Divu trešdaļu regulatoru valdes locekļu balsu vairākums ir vajadzīgs atzinumiem, kas minēti 4. panta 1. punkta c) apakšpunkta ii) un v) punktā, un pamatnostādnēm, kas minētas 4. panta 1. punkta d) apakšpunkta i) līdz iv), vi), vii) un xi) punktā. Neatkarīgi no šā punkta otrās daļas, regulatoru valde ar vienkāršu balsu vairākumu un katrā gadījumā atsevišķi var nolemt pieņemt šīs regulas 4. panta 1. punkta c) apakšpunkta ii) punktā minētos atzinumus ar vienkāršu balsu vairākumu saistībā ar pasākumu projektiem, uz kuriem attiecas Direktīvas (ES) 2018/1972 76. panta 2. vai 3. punkts un kuru rezultātā tiek sākta procedūra saskaņā ar minētās direktīvas 33. panta 5. punktu. Regulatoru valdes lēmumi ir publiski pieejami, un tajos norāda jebkura locekļa visas atrunas, ja viņš to ir pieprasījis.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Katram loceklim ir viena balss. Ja kāda locekļa nav klāt, minētā locekļa balsstiesības ir tiesīgs izmantot viņa aizstājējs. Ja nav klāt loceklis un aizstājējs, balsstiesības var deleģēt citam loceklim. Priekšsēdētājs balsstiesības var deleģēt jebkurā gadījumā. Priekšsēdētājs piedalās balsošanā, ja vien viņš balsstiesības nav deleģējis.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Regulatoru valdes reglamentā sīki izklāsta balsošanas kārtību, tostarp arī precizējot, ar kādiem nosacījumiem viens loceklis drīkst rīkoties cita locekļa vārdā, izklāsta noteikumus par kvorumu un norāda, kādā termiņā ir jāizziņo sanāksmes. Turklāt ar reglamentu nodrošina, ka regulatoru valdes locekļi pirms katras sanāksmes laicīgi saņem pilnu darba kārtību un priekšlikumu projektus, lai viņi pirms balsošanas varētu iesniegt grozījumus. Reglamentā cita starpā var noteikt arī balsošanas kārtību par steidzamiem jautājumiem un citus regulatoru valdes darbības praktiskos aspektus.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_13",
+   "kind": "article",
+   "number": "13",
+   "label": "13. pants",
+   "title": "Darba grupas",
+   "path": [
+    "IV NODAĻA — BEREC ORGANIZATORISKĀ STRUKTŪRA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Pamatotos gadījumos un jo īpaši, lai īstenotu BEREC gada darba programmu, regulatoru valde var izveidot darba grupas.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Regulatoru valde ieceļ darba grupu priekšsēdētājus, kuri, ja iespējams, pārstāv dažādas VRI.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Darba grupās var piedalīties eksperti no visām VRI, kuras piedalās BEREC darbā, un no Komisijas. Darba grupās var piedalīties arī BEREC biroja darbinieki, kas sniedz ieguldījumu darba grupu regulatīvajā darbā un administratīvo atbalstu tām. Tādu darba grupu gadījumā, kuras ir izveidotas 4. panta 1. punkta c) apakšpunkta ii) punktā minēto uzdevumu veikšanai, eksperti no Komisijas nepiedalās. Darba grupās, kuras ir izveidotas, lai veiktu šīs regulas 4. panta 1. punkta c) apakšpunkta iv), vi), vii) un viii) punktā, d) apakšpunkta i), ii), ix), x) un xi) punktā, j) apakšpunkta ii) punktā un l) apakšpunktā, kā arī attiecīgā gadījumā 4. panta 1. punkta c) apakšpunkta iii) punktā un j) apakšpunkta i) punktā minētos uzdevumus, ņem vērā to citu kompetento iestāžu ekspertu viedokļus, par kurām paziņots, ievērojot Direktīvas (ES) 2018/1972 5. panta 4. punktu. Ja tas ir nepieciešams, regulatoru valde vai darba grupu priekšsēdētāji, izvērtējot katru gadījumu atsevišķi, darba grupu sanāksmēs var uzaicināt piedalīties atsevišķus ekspertus, kas atzīti par kompetentiem attiecīgajā jomā.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Regulatoru valde pieņem reglamentu, nosakot darba grupu darbības praktisko kārtību.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_14",
+   "kind": "article",
+   "number": "14",
+   "label": "14. pants",
+   "title": "BEREC biroja organizatoriskā struktūra",
+   "path": [
+    "V NODAĻA — BEREC BIROJA ORGANIZĀCIJA"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC biroja sastāvā ir:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) valde;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) direktors.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_15",
+   "kind": "article",
+   "number": "15",
+   "label": "15. pants",
+   "title": "Valdes sastāvs",
+   "path": [
+    "V NODAĻA — BEREC BIROJA ORGANIZĀCIJA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Valdes sastāvā ir personas, kas ieceltas par regulatoru valdes locekļiem, un viens augsta līmeņa Komisijas pārstāvis. Katram valdes loceklim ir tiesības balsot. Katra ieceļošā VRI, kā minēts 7. panta 1. punkta otrajā daļā, var par valdes locekli iecelt personu, kas nav regulatoru valdes loceklis. Minētā persona ir VRI vadītājs, tās koleģiālās struktūras loceklis vai arī viena vai otra aizvietotājs.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Katram valdes loceklim ir aizstājējs, kas pārstāv valdes locekli viņa prombūtnes laikā. Katra locekļa aizstājēji ir personas, kas ir ieceltas par regulatoru valdes locekļu aizstājējiem. Komisijas pārstāvim arī ir aizstājējs. Katra ieceļošā VRI, kā minēts 7. panta 1. punkta otrajā daļā, var par valdes locekļa aizstājēju iecelt personu, kas nav regulatoru valdes locekļa aizstājējs. Minētā persona ir VRI vadītājs, tās koleģiālās struktūras loceklis, viena vai otra aizvietotājs vai VRI darbinieks.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Valdes locekļi un to aizstājēji neprasa un nepieņem norādījumus ne no vienas valdības, iestādes, personas vai struktūras.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Valdes locekļu un viņu aizstājēju atjaunināts saraksts tiek publiskots kopā ar viņu interešu deklarācijām.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_16",
+   "kind": "article",
+   "number": "16",
+   "label": "16. pants",
+   "title": "Valdes administratīvās funkcijas",
+   "path": [
+    "V NODAĻA — BEREC BIROJA ORGANIZĀCIJA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Valdei ir šādas administratīvās funkcijas:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) noteikt BEREC biroja darbību vispārīgo virzienu un katru gadu ar divu trešdaļu tā locekļu balsu vairākumu, ņemot vērā Komisijas atzinumu un saskaņā ar 23. pantu, pieņemt BEREC biroja vienoto programmdokumentu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) ar divu trešdaļu tā locekļu balsu vairākumu pieņemt BEREC biroja gada budžetu un pildīt citas funkcijas saistībā ar BEREC biroja budžetu, ievērojot VII nodaļu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) pieņemt un publiskot 27. pantā minēto konsolidēto gada pārskatu par BEREC biroja darbībām, veikt tā izvērtējumu un līdz katra gada 1. jūlijam gan pārskatu, gan tā izvērtējumu iesniegt Eiropas Parlamentam, Padomei, Komisijai un Revīzijas palātai;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) pieņemt BEREC birojam piemērojamos finanšu noteikumus saskaņā ar 29. pantu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) pieņemt krāpšanas apkarošanas stratēģiju, kas, ņemot vērā ar īstenojamajiem pasākumiem saistītās izmaksas un ieguvumus, ir samērīga ar krāpšanas riskiem;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) nodrošināt atbilstīgus pēcpasākumus konstatējumiem un ieteikumiem, kas izriet no iekšējās vai ārējās revīzijas ziņojumiem un novērtējumiem, kā arī no Eiropas Biroja krāpšanas apkarošanai (OLAF) veiktām izmeklēšanām;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) pieņemt noteikumus par interešu konfliktu novēršanu un pārvaldību, kā minēts 42. panta 3. punktā;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) pamatojoties uz vajadzību analīzi, pieņemt un regulāri atjaunināt 37. panta 2. punktā minētos komunikācijas un izplatīšanas plānus;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) pieņemt savu reglamentu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) saskaņā ar Civildienesta noteikumu 110. pantu pieņemt Eiropas Savienības ierēdņu Civildienesta noteikumu un Savienības pārējo darbinieku nodarbināšanas kārtības īstenošanas noteikumus, kas vajadzīgi, lai tie varētu stāties spēkā;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) neskarot 2. punkta pirmajā daļā minēto lēmumu, attiecībā uz BEREC biroja personālu īstenot pilnvaras, kas Civildienesta noteikumos piešķirtas iecēlējiestādei un kas Pārējo darbinieku nodarbināšanas kārtībā piešķirtas iestādei, kura pilnvarota slēgt darba līgumu (“iecēlējiestādes pilnvaras”);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) iecelt direktoru un attiecīgā gadījumā pagarināt viņa pilnvaru laiku vai atcelt viņu no amata saskaņā ar 32. pantu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) saskaņā ar Civildienesta noteikumiem un Savienības pārējo darbinieku nodarbināšanas kārtību iecelt grāmatvedi, kas savus pienākumus veic pilnīgi neatkarīgi;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) ņemot vērā BEREC biroja darbības vajadzības un ievērojot pareizu budžeta pārvaldību, pieņemt visus lēmumus par BEREC biroja iekšējo struktūru izveidi un vajadzības gadījumā to pārveidi. Saistībā ar pirmās daļas m) punktu, BEREC birojs var iecelt to pašu grāmatvedi, ko cita Savienības struktūra vai iestāde. Konkrēti – BEREC birojs un Komisija var vienoties, ka Komisijas grāmatvedis ir arī BEREC biroja grāmatvedis.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Valde saskaņā ar Civildienesta noteikumu 110. pantu, par pamatu ņemot Civildienesta noteikumu 2. panta 1. punktu un Pārējo darbinieku nodarbināšanas kārtības 6. pantu, pieņem lēmumu, ar kuru tā direktoram deleģē attiecīgas iecēlējiestādes pilnvaras un precizē nosacījumus, ar kādiem šo pilnvaru deleģējumu var apturēt. Direktoram ir atļauts minētās pilnvaras deleģēt citai personai. Īpašu izņēmuma apstākļu dēļ valde var ar lēmumu uz laiku apturēt iecēlējiestādes pilnvaru deleģējumu direktoram un direktora pilnvaru deleģējumu citai personai un izpildīt tās pati vai deleģēt tās kādam no saviem locekļiem vai darbiniekam, kas nav direktors.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_17",
+   "kind": "article",
+   "number": "17",
+   "label": "17. pants",
+   "title": "Valdes priekšsēdētājs un priekšsēdētāja vietnieki",
+   "path": [
+    "V NODAĻA — BEREC BIROJA ORGANIZĀCIJA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Valdes priekšsēdētājs un priekšsēdētāja vietnieki ir personas, kuras ieceltas par regulatoru valdes priekšsēdētāju un priekšsēdētāja vietniekiem. Piemēro tādu pašu pilnvaru termiņu. Atkāpjoties no pirmās daļas, valde no savu locekļu vidus, kuri pārstāv dalībvalstis, var ar divu trešdaļu savu locekļu balsu vairākumu ievēlēt citus valdes locekļus par priekšsēdētāju vai priekšsēdētāja vietnieku(-iem). To pilnvaru termiņš ir tāds pats kā regulatoru valdes priekšsēdētāja un priekšsēdētāja vietnieku pilnvaru termiņš.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Viens no priekšsēdētāja vietniekiem automātiski uzņemas priekšsēdētāja pienākumus, ja priekšsēdētājs minētos pienākumus nespēj pildīt.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Valdes priekšsēdētājs pēc uzaicinājuma ziņo Eiropas Parlamentam un Padomei par BEREC biroja uzdevumu izpildi.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_18",
+   "kind": "article",
+   "number": "18",
+   "label": "18. pants",
+   "title": "Valdes sanāksmes",
+   "path": [
+    "V NODAĻA — BEREC BIROJA ORGANIZĀCIJA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Priekšsēdētājs sasauc valdes sanāksmes.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC biroja direktors bez balsstiesībām piedalās apspriedēs, izņemot tās, kuras saistītas ar 32. pantu.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Valde sanāk regulārajās sanāksmēs vismaz divreiz gadā. Turklāt priekšsēdētājs pēc savas iniciatīvas, pēc Komisijas vai pēc vismaz trīs valdes locekļu pieprasījuma sasauc ārkārtas sanāksmes.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Valde uz savām sanāksmēm novērotāja statusā var uzaicināt jebkuru personu, kuras viedoklis varētu to interesēt.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Ievērojot valdes reglamentu, valdes locekļiem un to aizstājējiem sanāksmēs var palīdzēt padomdevēji vai eksperti.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. BEREC birojs nodrošina valdes sekretariātu.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_19",
+   "kind": "article",
+   "number": "19",
+   "label": "19. pants",
+   "title": "Valdes balsošanas noteikumi",
+   "path": [
+    "V NODAĻA — BEREC BIROJA ORGANIZĀCIJA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Valde pieņem lēmumus ar vienkāršu savu locekļu balsu vairākumu, ja vien šajā regulā nav paredzēts citādi.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Katram loceklim ir viena balss. Ja kāda locekļa nav klāt, balsstiesības ir tiesīgs izmantot aizstājējs. Ja kāda locekļa un viņa aizstājēja nav klāt, balsstiesības var deleģēt citam loceklim.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Priekšsēdētājs var deleģēt balsstiesības jebkurā gadījumā. Viņš piedalās balsošanā, ja vien viņš balsstiesības nav deleģējis.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Valdes reglamentā detalizē balsošanas kārtību, jo īpaši procedūru balsošanai par steidzamiem jautājumiem, un apstākļus, kādos loceklis var darboties cita locekļa vārdā.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_20",
+   "kind": "article",
+   "number": "20",
+   "label": "20. pants",
+   "title": "Direktora pienākumi",
+   "path": [
+    "V NODAĻA — BEREC BIROJA ORGANIZĀCIJA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktors atbild par BEREC biroja administratīvo vadību. Direktors atskaitās valdei.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktors palīdz regulatoru valdes priekšsēdētājam un valdes priekšsēdētājam sagatavoties attiecīgo struktūru sanāksmēm.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Neskarot regulatoru valdes, valdes un Komisijas pilnvaras, direktors, pildot savus pienākumus, ir neatkarīgs, neprasa un nepieņem norādījumus ne no vienas valdības, iestādes, personas vai struktūras.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Direktors pēc uzaicinājuma ziņo Eiropas Parlamentam un Padomei par savu pienākumu izpildi.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Direktors ir BEREC biroja juridiskais pārstāvis.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Direktors ir atbildīgs par BEREC biroja uzdevumu īstenošanu un regulatoru valdes un valdes sniegto norāžu ievērošanu. Direktors jo īpaši ir atbildīgs par šādiem uzvedumiem:",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "a) BEREC biroja ikdienas administratīvā vadība;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "b) regulatoru valdes un valdes pieņemto administratīvo lēmumu īstenošana;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "c) regulas 23. pantā minētā vienotā programmdokumenta sagatavošana un tā iesniegšana valdei;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "d) palīdzība regulatoru valdei BEREC gada darbības pārskata sagatavošanā, kā minēts 22. pantā;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "e) palīdzība regulatoru valdei BEREC gada darba programmas sagatavošanā, kā minēts 21. pantā;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "f) vienotā programmdokumenta īstenošana un ziņošana valdei par tā īstenošanu;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "g) konsolidētā gada pārskata par BEREC biroja darbībām, kā minēts 27. pantā, projekta sagatavošana un tā iesniegšana valdei izvērtēšanai un pieņemšanai;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "h) rīcības plāna sagatavošana, reaģējot uz secinājumiem, kas izriet no iekšējās vai ārējās revīzijas ziņojumiem un novērtējumiem, kā arī OLAF izmeklēšanām, un ziņošana valdei par progresu vismaz reizi gadā;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "i) Savienības finansiālo interešu aizsardzība, piemērojot aizsargpasākumus pret krāpšanu, korupciju un jebkādām citām nelikumīgām darbībām, veicot faktiskas kontrolpārbaudes un, ja tiek atklāti pārkāpumi, atgūstot nepamatoti izmaksātās summas un attiecīgā gadījumā piemērojot iedarbīgus, samērīgus un atturošus administratīvus pasākumus, arī finansiālas sankcijas;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "j) BEREC biroja krāpšanas apkarošanas stratēģijas sagatavošana un tās iesniegšana valdei apstiprināšanai;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "k) BEREC birojam piemērojamo finanšu noteikumu projekta sagatavošana;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "l) BEREC biroja ieņēmumu un izdevumu tāmes projekta sagatavošana un tā budžeta izpilde;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "m) ar regulatoru valdi kopīgi sniegta atļauja noslēgt vienošanos par darba mehānismiem ar kompetentajām Savienības struktūrām, birojiem, aģentūrām un padomdevējām grupām un ar trešo valstu kompetentajām iestādēm un ar starptautiskām organizācijām saskaņā ar 35. pantu.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Valdes uzraudzībā direktors veic visus vajadzīgos pasākumus un jo īpaši pieņem iekšējus administratīvos rīkojumus un publicē paziņojumus, lai nodrošinātu BEREC biroja darbību saskaņā ar šīs regulas noteikumiem.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Direktors, pēc iepriekšējas Komisijas, valdes un attiecīgo dalībvalstu piekrišanas, lemj, vai BEREC biroja uzdevumu efektīvas un rezultatīvas izpildes nolūkā vienā vai vairākās dalībvalstīs jānodrošina viens vai vairāki vietējie darbinieki. Lēmumā norāda darbību tvērumu, kuras veicamas, izvairoties no liekām izmaksām un BEREC biroja administratīvo funkciju dublēšanās. Pirms šāda lēmuma pieņemšanas daudzgadu programmdokumentā, kas minēts 23. panta 4. punktā, izklāsta tā ietekmi personāla piešķiršanas un budžeta ziņā.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_21",
+   "kind": "article",
+   "number": "21",
+   "label": "21. pants",
+   "title": "BEREC gada darba programma",
+   "path": [
+    "VI NODAĻA — BEREC PLĀNOŠANA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Regulatoru valde gada darba programmas uzmetumu pieņem līdz tā gada 31. janvārim, kas ir pirms gada, uz kuru gada darba programma attiecas. Pēc apspriešanās ar Eiropas Parlamentu, Padomi un Komisiju par to prioritātēm, kā arī ar citām ieinteresētajām pusēm saskaņā ar 4. panta 5. punktu, regulatoru valde pieņem galīgo gada darba programmu līdz minētā gada 31. decembrim.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Tiklīdz gada darba programma ir pieņemta, regulatoru valde to nosūta Eiropas Parlamentam, Padomei un Komisijai.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_22",
+   "kind": "article",
+   "number": "22",
+   "label": "22. pants",
+   "title": "BEREC gada darbības pārskats",
+   "path": [
+    "VI NODAĻA — BEREC PLĀNOŠANA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Regulatoru valde pieņem gada pārskatu par BEREC darbībām.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Regulatoru valde gada darbības pārskatu līdz katra gada 15. jūnijam nosūta Eiropas Parlamentam, Padomei, Komisijai un Eiropas Ekonomikas un sociālo lietu komitejai.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_23",
+   "kind": "article",
+   "number": "23",
+   "label": "23. pants",
+   "title": "Gada un daudzgadu plānošana",
+   "path": [
+    "VII NODAĻA — BEREC BIROJA BUDŽETS UN PLĀNOŠANA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktors katru gadu sagatavo programmdokumenta projektu, kas ietver gada un daudzgadu plānošanu (“vienotais programmdokuments”) saskaņā ar Deleģētās regulas (ES) Nr. 1271/2013 32. pantu, ņemot vērā Komisijas noteiktās pamatnostādnes. Valde līdz katra gada 31. janvārim pieņem vienotā programmdokumenta projektu un nosūta to Komisijai, lai tā sniegtu atzinumu. Vienotā programmdokumenta projektu iesniedz arī Eiropas Parlamentam un Padomei. Pēc tam valde pieņem vienoto programmdokumentu, ņemot vērā Komisijas atzinumu. Valde to, kā arī visas vēlāk atjauninātās dokumenta versijas iesniedz Eiropas Parlamentam, Padomei un Komisijai. Vienotais programmdokuments kļūst galīgs pēc Savienības vispārējā budžeta pieņemšanas, un vajadzības gadījumā to attiecīgi koriģē.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Gada programmdokumentā ir ietverti sīki izstrādāti mērķi un gaidāmie rezultāti, tostarp izpildes rādītāji. Ievērojot tādus principus kā budžeta līdzekļu sadalīšana pa darbības jomām un budžeta pārvaldība pa darbības jomām, kā tas minēts 31. pantā, programmā ir ietverts arī finansējamo darbību apraksts un norāde par katrai darbībai piešķirtajiem finanšu līdzekļiem un cilvēkresursiem. Gada programmdokuments ir saskaņots ar 21. pantā minēto BEREC gada darba programmas uzmetumu un galīgo gada darba programmu, un ar BEREC biroja daudzgadu programmdokumentu, kas minēts šā panta 4. punktā. Tajā skaidri norāda, kādi uzdevumi ir pievienoti, mainīti vai svītroti salīdzinājumā ar iepriekšējo finanšu gadu.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Valde vajadzības gadījumā groza gada programmdokumentu pēc tam, kad ir pieņemta 21. pantā minētā BEREC galīgā gada darba programma, un ja BEREC vai BEREC birojam tiek piešķirts jauns uzdevums. Visus būtiskos gada programmdokumenta grozījumus pieņem tādā pašā procedūrā, kādā pieņēma sākotnējo gada programmdokumentu. Valde var deleģēt direktoram pilnvaras izdarīt nebūtiskus grozījumus gada programmdokumentā.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Daudzgadu programmdokumentā izklāsta vispārējo stratēģisko plānu, ietverot mērķus, gaidāmos rezultātus un izpildes rādītājus. Tajā apraksta arī resursu plānu, ietverot daudzgadu budžeta un personāla plānojumu. Resursu plānu atjaunina reizi gadā. Stratēģisko plānu atjaunina vajadzības gadījumā, un jo īpaši lai reaģētu uz 48. pantā minētās novērtēšanas iznākumu.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. BEREC biroja vienotajā programmdokumentā apraksta to, kā īsteno BEREC stratēģiju attiecībām ar kompetentajām Savienības struktūrām, birojiem, aģentūrām un padomdevējām grupām, trešo valstu kompetentajām iestādēm un ar starptautiskām organizācijām, kā minēts 35. panta 3. punktā, ar minēto stratēģiju saistītās darbības un informāciju par saistītajiem resursiem.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_24",
+   "kind": "article",
+   "number": "24",
+   "label": "24. pants",
+   "title": "Budžeta izveide",
+   "path": [
+    "VII NODAĻA — BEREC BIROJA BUDŽETS UN PLĀNOŠANA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktors katru gadu sagatavo un iesniedz valdei provizorisku BEREC biroja ieņēmumu un izdevumu tāmes projektu (“tāmes projekts”) nākamajam finanšu gadam, tajā iekļaujot štatu sarakstu. Tāmes projektā iekļautā informācija ir saskaņota ar 23. panta 1. punktā minēto vienoto programmdokumenta projektu.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktors tāmes projektu līdz katra gada 31. janvārim iesniedz Komisijai.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Komisija tāmes projektu kopā ar Savienības vispārējā budžeta projektu iesniedz budžeta lēmējinstitūcijai.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Uz tāmes projekta pamata Komisija Savienības vispārējā budžeta projektā iekļauj aplēses, ko tā uzskata par vajadzīgām attiecībā uz štatu sarakstu, un tās iemaksas apjomu, kas attiecināma uz vispārējo budžetu, un saskaņā ar Līgumu par Eiropas Savienības darbību (LESD) 313. un 314. pantu tās iesniedz budžeta lēmējinstitūcijai.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Budžeta lēmējinstitūcija apstiprina BEREC birojam paredzētās iemaksas apropriācijas.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Budžeta lēmējinstitūcija pieņem BEREC biroja štatu sarakstu.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. BEREC biroja budžetu pieņem valde. Par galīgo budžetu tas kļūst pēc Savienības vispārējā budžeta galīgās pieņemšanas. Vajadzības gadījumā to attiecīgi koriģē.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Visiem būvprojektiem, kas varētu būtiski ietekmēt BEREC biroja budžetu, piemēro Deleģēto regulu (ES) Nr. 1271/2013.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_25",
+   "kind": "article",
+   "number": "25",
+   "label": "25. pants",
+   "title": "Budžeta struktūra",
+   "path": [
+    "VII NODAĻA — BEREC BIROJA BUDŽETS UN PLĀNOŠANA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Katram finanšu gadam, kas atbilst kalendārajam gadam, sagatavo BEREC biroja visu ieņēmumu un izdevumu tāmi un to iekļauj BEREC biroja budžetā.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC biroja budžeta ieņēmumi un izdevumi ir līdzsvarā.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Neskarot citus resursus, BEREC biroja ieņēmumus veido: a) Savienības iemaksa; b) visas brīvprātīgās finansiālās iemaksas no dalībvalstīm vai VRI; c) maksas par publikācijām un visiem citiem BEREC biroja sniegtiem pakalpojumiem; d) visas iemaksas, ko veic trešās valstis vai elektronisko sakaru jomā kompetentās trešo valstu regulatīvās iestādes, kuras piedalās BEREC biroja darbā, kā noteikts 35. pantā.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. BEREC biroja izdevumos ietilpst darbinieku atalgojums, administratīvās un infrastruktūras izmaksas un darbības izdevumi.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_26",
+   "kind": "article",
+   "number": "26",
+   "label": "26. pants",
+   "title": "Budžeta izpilde",
+   "path": [
+    "VII NODAĻA — BEREC BIROJA BUDŽETS UN PLĀNOŠANA"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC biroja budžeta izpildi nodrošina direktors.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Ik gadu direktors Eiropas Parlamentam un Padomei iesniedz visu informāciju, kas attiecas uz novērtēšanas procedūru konstatējumiem.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_27",
+   "kind": "article",
+   "number": "27",
+   "label": "27. pants",
+   "title": "Konsolidētais gada darbības pārskats",
+   "path": [
+    "VII NODAĻA — BEREC BIROJA BUDŽETS UN PLĀNOŠANA"
+   ],
+   "blocks": [
+    {
+     "text": "Valde pieņem konsolidēto gada darbības pārskatu saskaņā ar Deleģētās regulas (ES) Nr. 1271/2013 47. pantu, ņemot vērā Komisijas noteiktās pamatnostādnes.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_28",
+   "kind": "article",
+   "number": "28",
+   "label": "28. pants",
+   "title": "Pārskatu sniegšana un budžeta izpildes apstiprināšana",
+   "path": [
+    "VII NODAĻA — BEREC BIROJA BUDŽETS UN PLĀNOŠANA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Provizoriskos pārskatus par finanšu gadu BEREC biroja grāmatvedis līdz nākamā finanšu gada 1. martam iesniedz Komisijas grāmatvedim un Revīzijas palātai.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Ziņojumu par budžeta un finanšu pārvaldību BEREC birojs līdz nākamā finanšu gada 31. martam iesniedz Eiropas Parlamentam, Padomei un Revīzijas palātai.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Saņemot Revīzijas palātas apsvērumus par BEREC biroja provizoriskajiem pārskatiem, BEREC biroja grāmatvedis uz savu atbildību sagatavo BEREC biroja galīgos pārskatus. Galīgos pārskatus direktors iesniedz valdei atzinuma sniegšanai.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Valde sniedz atzinumu par BEREC biroja galīgajiem pārskatiem.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Pēc katra finanšu gada beigām direktors līdz 1. jūlijam galīgos pārskatus kopā ar valdes atzinumu iesniedz Eiropas Parlamentam, Padomei, Komisijai un Revīzijas palātai.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Galīgos pārskatus BEREC birojs publicē Eiropas Savienības Oficiālajā Vēstnesī līdz nākamā gada 15. novembrim.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Līdz nākamā finanšu gada 30. septembrim direktors Revīzijas palātai iesniedz atbildi par tās apsvērumiem. Minēto atbildi direktors iesniedz arī valdei.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Saskaņā ar Eiropas Parlamenta un Padomes Regulas (ES, Euratom) 2018/1046 165. panta 3. punktu pēc Eiropas Parlamenta pieprasījuma direktors tam iesniedz visu informāciju, kas vajadzīga netraucētai attiecīgā finanšu gada budžeta izpildes apstiprinājuma procedūras piemērošanai.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Pēc Padomes ieteikuma, kas pieņemts ar kvalificētu balsu vairākumu, Eiropas Parlaments direktoram līdz (N + 2) gada 15. maijam sniedz apstiprinājumu par N gada budžeta izpildi.",
+     "para": "9",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_29",
+   "kind": "article",
+   "number": "29",
+   "label": "29. pants",
+   "title": "Finanšu noteikumi",
+   "path": [
+    "VII NODAĻA — BEREC BIROJA BUDŽETS UN PLĀNOŠANA"
+   ],
+   "blocks": [
+    {
+     "text": "Finanšu noteikumus, kas piemērojami BEREC birojam, pieņem valde pēc apspriešanās ar Komisiju. Tie neatkāpjas no Deleģētās regulas (ES) Nr. 1271/2013, ja vien šāda atkāpšanās nav nepieciešama BEREC biroja darbībai un Komisija iepriekš nav devusi piekrišanu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_30",
+   "kind": "article",
+   "number": "30",
+   "label": "30. pants",
+   "title": "Vispārīgs noteikums",
+   "path": [
+    "VIII NODAĻA — BEREC BIROJA PERSONĀLS"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC biroja personālam piemēro Civildienesta noteikumus un Savienības pārējo darbinieku nodarbināšanas kārtību, kā arī noteikumus, kas pieņemti pēc Savienības iestāžu vienošanās, ar kuru piemēro minētos Civildienesta noteikumus un Savienības pārējo darbinieku nodarbināšanas kārtību.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_31",
+   "kind": "article",
+   "number": "31",
+   "label": "31. pants",
+   "title": "BEREC biroja darbinieku skaits",
+   "path": [
+    "VIII NODAĻA — BEREC BIROJA PERSONĀLS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Saskaņā ar principu par cilvēkresursu pārvaldību pa darbības jomām BEREC biroja rīcībā ir personāls, kas vajadzīgs tā pienākumu izpildei.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Darbinieku skaitu un atbilstošos finanšu resursus ierosina saskaņā ar 23. panta 2. un 4. punktu un 24. panta 1. punktu, ņemot vērā 6. panta a) punktu un visus citus uzdevumus, kas BEREC birojam piešķirti ar šo regulu vai citiem Savienības tiesību aktiem, kā arī nepieciešamību ievērot atbilstību noteikumiem, kuri piemērojami visām Savienības decentralizētajām aģentūrām.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_32",
+   "kind": "article",
+   "number": "32",
+   "label": "32. pants",
+   "title": "Direktora iecelšana",
+   "path": [
+    "VIII NODAĻA — BEREC BIROJA PERSONĀLS"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktoru pieņem darbā kā BEREC biroja pagaidu darbinieku saskaņā ar Savienības pārējo darbinieku nodarbināšanas kārtības 2. panta a) punktu.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktoru atklātas un pārredzamas atlases procedūras rezultātā ieceļ valde, pamatojoties uz nopelniem, vadītāja, administratīvajām un budžeta veidošanas prasmēm un prasmēm un pieredzi, kas ir būtiskas saistībā ar elektronisko sakaru tīkliem un pakalpojumiem. Kandidātu sarakstu neierosina priekšsēdētājs vai priekšsēdētāja vietnieks atsevišķi. Valdes reglamentā sīki izklāsta kārtību, ar ko reglamentē procedūru, kurā atlasa atbilstīgos kandidātus, un balsošanas procedūru.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Lai noslēgtu līgumu ar direktoru, BEREC biroju pārstāv valdes priekšsēdētājs.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Pirms iecelšanas amatā valdes izraudzīto kandidātu uzaicina uz Eiropas Parlamenta kompetento komiteju sniegt paziņojumu un atbildēt uz komitejas locekļu uzdotajiem jautājumiem.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Direktora pilnvaru laiks ir pieci gadi. Līdz minētā termiņa beigām valdes priekšsēdētājs veic izvērtējumu, kurā ņem vērā direktora darbības novērtējumu un BEREC biroja uzdevumus un risināmos jautājumus. Minēto izvērtējumu iesniedz Eiropas Parlamentam un Padomei.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Valde, ņemot vērā 5. punktā minēto izvērtējumu, var vienu reizi pagarināt direktora pilnvaru laiku ne ilgāk kā uz pieciem gadiem.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Valde informē Eiropas Parlamentu, ja tā plāno pagarināt direktora pilnvaru laiku. Viena mēneša laikā pirms šādas pagarināšanas direktoru var uzaicināt sniegt paziņojumu Eiropas Parlamenta kompetentajā komitejā un atbildēt uz komitejas locekļu uzdotajiem jautājumiem.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Direktors, kura pilnvaru laiks ir pagarināts, pēc kopējā laikposma beigām nepiedalās citā atlases procedūrā uz to pašu amatu.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Ja pilnvaru laiku nepagarina, direktors pēc valdes lēmuma paliek amatā pēc sākotnējā pilnvaru laika beigām, līdz tiek iecelts viņa pilnvaru pārņēmējs.",
+     "para": "9",
+     "point": ""
+    },
+    {
+     "text": "10. Direktoru no amata var atcelt tikai ar valdes lēmumu, pamatojoties uz locekļa iesniegtu priekšlikumu.",
+     "para": "10",
+     "point": ""
+    },
+    {
+     "text": "11. Valde savus lēmumus par direktora iecelšanu amatā, viņa pilnvaru laika pagarināšanu vai atbrīvošanu no amata pieņem ar divu trešdaļu tās locekļu balsu vairākumu.",
+     "para": "11",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_33",
+   "kind": "article",
+   "number": "33",
+   "label": "33. pants",
+   "title": "Norīkotie valstu eksperti un citi darbinieki",
+   "path": [
+    "VIII NODAĻA — BEREC BIROJA PERSONĀLS"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC birojs var izmantot norīkotos valstu ekspertus vai citus darbiniekus, ko tas nenodarbina. Uz šādiem darbiniekiem neattiecas Civildienesta noteikumi un Savienības pārējo darbinieku nodarbināšanas kārtība.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Valde pieņem lēmumu, ar ko nosaka, kādā kārtībā darbam BEREC birojā tiek norīkoti valstu eksperti.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_34",
+   "kind": "article",
+   "number": "34",
+   "label": "34. pants",
+   "title": "Privilēģijas un imunitāte",
+   "path": [
+    "IX NODAĻA — VISPĀRĪGI NOTEIKUMI"
+   ],
+   "blocks": [
+    {
+     "text": "Uz BEREC biroju un tā personālu attiecas Protokols par privilēģijām un imunitāti Eiropas Savienībā.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_35",
+   "kind": "article",
+   "number": "35",
+   "label": "35. pants",
+   "title": "Sadarbība ar Savienības struktūrām, trešām valstīm un starptautiskajām organizācijām",
+   "path": [
+    "IX NODAĻA — VISPĀRĪGI NOTEIKUMI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Tiktāl, ciktāl nepieciešams, lai sasniegtu šajā regulā izklāstītos mērķus un veiktu savus uzdevumus, un neskarot dalībvalstu un Savienības iestāžu kompetenci, BEREC un BEREC birojs var sadarboties ar kompetentajām Savienības struktūrām, birojiem, aģentūrām un padomdevējām grupām, ar trešo valstu kompetentajām iestādēm un ar starptautiskām organizācijām. Minētajā nolūkā BEREC un BEREC birojs pēc Komisijas iepriekšēja apstiprinājuma saņemšanas var izveidot darba mehānismus. Minētie mehānismi nerada juridiskus pienākumus.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Regulatoru valdē, darba grupās un valdē var piedalīties tādas trešo valstu regulatīvās iestādes, kuru primārā atbildība ir elektronisko sakaru jomā, ja minētās trešās valstis ir noslēgušas attiecīgus nolīgumus ar Savienību. Saskaņā ar attiecīgajiem minēto nolīgumu noteikumiem tiek izstrādāti darba mehānismi, kuros jo īpaši nosaka būtību, apmēru un veidu, kādā attiecīgo trešo valstu regulatīvās iestādes bez balsstiesībām piedalās BEREC un BEREC biroja darbā, tostarp noteikumi par dalību BEREC īstenotās iniciatīvās, finanšu iemaksām un BEREC birojam paredzēto personālu. Attiecībā uz personāla jautājumiem minētie mehānismi visos gadījumos atbilst Civildienesta noteikumiem.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Gada darba programmas ietvaros, kas minēta 21. pantā, regulatoru valde pieņem BEREC stratēģiju attiecībām ar kompetentajām Savienības struktūrām, birojiem, aģentūrām un padomdevējām grupām, ar trešo valstu kompetentajām iestādēm un ar starptautiskām organizācijām jautājumos, kas ir BEREC kompetencē. Komisija, BEREC un BEREC birojs vienojas par atbilstošu darba mehānismu, kura nolūks ir nodrošināt, lai BEREC un BEREC birojs darbotos savu pilnvaru un esošās iestāžu sistēmas ietvaros.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_36",
+   "kind": "article",
+   "number": "36",
+   "label": "36. pants",
+   "title": "Piekļuve dokumentiem un datu aizsardzība",
+   "path": [
+    "IX NODAĻA — VISPĀRĪGI NOTEIKUMI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Uz BEREC un BEREC biroja rīcībā esošajiem dokumentiem attiecas Eiropas Parlamenta un Padomes Regula (EK) Nr. 1049/2001.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Līdz 2019. gada 21. jūnijam regulatoru valde un valde pieņem sīki izstrādātus noteikumus par to, kā piemērot Regulu (EK) Nr. 1049/2001.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Uz personas datu apstrādi, ko veic BEREC un BEREC birojs, attiecas Regula (ES) 2018/1725.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Līdz 2019. gada 21. jūnijam regulatoru valde un valde nosaka pasākumus, kā BEREC un BEREC birojs piemēro Regulu (ES) 2018/1725, tostarp tos, kuri saistīti ar BEREC biroja datu aizsardzības inspektora iecelšanu. Minētos pasākumus izstrādā pēc apspriešanās ar Eiropas Datu aizsardzības uzraudzītāju.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_37",
+   "kind": "article",
+   "number": "37",
+   "label": "37. pants",
+   "title": "Pārredzamība un komunikācija",
+   "path": [
+    "IX NODAĻA — VISPĀRĪGI NOTEIKUMI"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC un BEREC birojs savas darbības veic, nodrošinot augstu pārredzamības līmeni. BEREC un BEREC birojs nodrošina, lai sabiedrība un visas ieinteresētās puses saņemtu atbilstošu, objektīvu, ticamu un viegli pieejamu informāciju, jo īpaši par BEREC un BEREC biroja uzdevumiem un darba rezultātiem.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC, ko atbalsta BEREC birojs, pēc savas ierosmes var savas kompetences jomā iesaistīties komunikācijas pasākumos saskaņā ar attiecīgajiem komunikācijas un izplatīšanas plāniem, kurus pieņem regulatoru valde. Resursu piešķiršana šādam komunikācijas pasākumu atbalstam BEREC biroja budžeta ietvaros netraucē efektīvi pildīt 4. pantā minētos BEREC uzdevumus vai 5. pantā minētos BEREC biroja uzdevumus. BEREC biroja komunikācijas pasākumus īsteno saskaņā ar attiecīgajiem komunikācijas un izplatīšanas plāniem, kurus pieņem valde.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_38",
+   "kind": "article",
+   "number": "38",
+   "label": "38. pants",
+   "title": "Konfidencialitāte",
+   "path": [
+    "IX NODAĻA — VISPĀRĪGI NOTEIKUMI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Neskarot 36. panta 1. punktu un 40. panta 2. punktu, BEREC un BEREC birojs neizpauž trešām personām informāciju, ko tie apstrādā vai saņem, ja attiecībā uz visu šādu informāciju vai daļu no tās ir izteikts pamatots pieprasījums to uzskatīt par konfidenciālu.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Valdes, regulatoru valdes un darba grupu sanāksmju locekļi un citi dalībnieki, direktors, norīkotie valstu eksperti un citi darbinieki, kas nav BEREC biroja darbinieki, konfidencialitātes prasības saskaņā ar LESD 339. pantu ievēro pat pēc tam, kad ir beiguši pildīt attiecīgos amata pienākumus.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Regulatoru valde un valde nosaka kārtību, kādā praktiski tiek īstenoti 1. un 2. punktā minētie konfidencialitātes noteikumi.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_39",
+   "kind": "article",
+   "number": "39",
+   "label": "39. pants",
+   "title": "Drošības noteikumi par klasificētas informācijas un sensitīvas neklasificētas informācijas aizsardzību",
+   "path": [
+    "IX NODAĻA — VISPĀRĪGI NOTEIKUMI"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC un BEREC birojs pieņem savus drošības noteikumus, kas ir līdzvērtīgi Komisijas drošības noteikumiem par Eiropas Savienības klasificētās informācijas un sensitīvas neklasificētas informācijas aizsardzību un cita starpā pieņem arī noteikumus par apmaiņu ar šādu informāciju, tās apstrādi un uzglabāšanu, kā noteikts Komisijas Lēmumos (ES, Euratom) 2015/443 un (ES, Euratom) 2015/444. BEREC vai BEREC birojs var arī pieņemt lēmumu piemērot Komisijas noteikumus mutatis mutandis.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_40",
+   "kind": "article",
+   "number": "40",
+   "label": "40. pants",
+   "title": "Informācijas apmaiņa",
+   "path": [
+    "IX NODAĻA — VISPĀRĪGI NOTEIKUMI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Pēc pamatota pieprasījuma saņemšanas no BEREC vai BEREC biroja Komisija un VRI, kas ir pārstāvētas regulatoru valdē, un citas kompetentās iestādes savlaicīgi un precīzi sniedz BEREC vai BEREC birojam visu informāciju, kas nepieciešama, lai tie veiktu savus uzdevumus, ar noteikumu, ka attiecīgā informācija tām ir likumīgi pieejama un informācijas pieprasīšana ir nepieciešama saistībā ar attiecīgo uzdevumu. BEREC vai BEREC birojs var arī pieprasīt, lai šāda informācija tiktu sniegta regulāri un konkrētos formātos. Ja iespējams, šādus pieprasījumus iesniedz, izmantojot vienotus ziņojuma formātus.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC vai BEREC birojs pēc pamatota pieprasījuma saņemšanas no Komisijas vai VRI visu Komisijas, VRI vai citas kompetentās iestādes uzdevumu veikšanai nepieciešamo informāciju sniedz savlaicīgi un precīzi, ievērojot lojālas sadarbības principu. Ja BEREC vai BEREC birojs informāciju uzskata par konfidenciālu, Komisija, VRI vai cita kompetentā iestāde nodrošina šādu konfidencialitāti saskaņā ar Savienības un valsts tiesību aktiem, tostarp Regulu (EK) Nr. 1049/2001. Darījumdarbības konfidencialitāte neliedz savlaicīgi veikt informācijas apmaiņu.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Lai nepieļautu ziņošanas pienākumu dublēšanos, pirms informācijas pieprasīšanas saskaņā ar šo pantu BEREC vai BEREC birojs ņem vērā visu attiecīgo esošo informāciju, kas ir publiski pieejama.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Ja VRI informāciju nav savlaicīgi darījušas pieejamu, BEREC vai BEREC birojs var nosūtīt pamatotu pieprasījumu vai nu citām VRI un citām kompetentajām iestādēm attiecīgajā dalībvalstī, vai tieši attiecīgajiem uzņēmumiem, kas sniedz elektronisko sakaru pakalpojumus un nodrošina elektronisko sakaru tīklus un saistītās iekārtas. BEREC vai BEREC birojs paziņo VRI, kuras nav sniegušas informāciju, par pieprasījumiem, kas veikti saskaņā ar pirmo daļu. Pēc BEREC vai BEREC biroja pieprasījuma VRI palīdz BEREC vākt informāciju.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Dalībvalstis nodrošina, ka VRI un citām kompetentajām iestādēm ir pilnvaras prasīt citām atbildīgajām valsts iestādēm vai uzņēmumiem, kas nodrošina elektronisko sakaru tīklus un pakalpojumus, saistītās iekārtas vai saistītos pakalpojumus, iesniegt visu informāciju, kas nepieciešama, lai tās varētu veikt savus uzdevumus, kuri minēti šajā pantā. Citas atbildīgās valstu iestādes vai uzņēmumi, kā minēts pirmajā daļā, pēc pieprasījuma šādu informāciju sniedz nekavējoties un saskaņā ar noteiktajiem termiņiem un detalizētības pakāpi. Dalībvalstis nodrošina, ka VRI un citas kompetentās iestādes ir pilnvarotas prasīt šādu informācijas pieprasījumu izpildi, nosakot sankcijas, kas ir atbilstošas, iedarbīgas, samērīgas un atturošas.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_41",
+   "kind": "article",
+   "number": "41",
+   "label": "41. pants",
+   "title": "Informācijas un saziņas sistēma",
+   "path": [
+    "IX NODAĻA — VISPĀRĪGI NOTEIKUMI"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC birojs izveido un pārvalda informācijas un saziņas sistēmu, kura pilda vismaz šādas funkcijas: a) tā ir kopīga informācijas apmaiņas platforma, kas BEREC, Komisijai un VRI sniedz vajadzīgo informāciju par to, kā konsekventi īstenot Savienības regulējumu elektronisko sakaru jomā; b) tā ir specializēta saskarne saistībā ar 40. pantā minētajiem informācijas pieprasījumiem un paziņošanu par minētajiem pieprasījumiem, kas pieejama BEREC, BEREC birojam, Komisijai un VRI; c) tā ir platforma, ar kuras palīdzību laikus apzināt gadījumus, kad vajadzīga koordināciju starp VRI.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Valde pieņem tehniskās un darbības specifikācijas, lai izveidotu 1. punktā minēto informācijas un saziņas sistēmu. Uz minēto sistēmu attiecas intelektuālā īpašuma tiesības un vajadzīgais konfidencialitātes līmenis.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Informācijas un saziņas sistēma sāk darboties līdz 2020. gada 21. jūnijam.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_42",
+   "kind": "article",
+   "number": "42",
+   "label": "42. pants",
+   "title": "Interešu deklarācijas",
+   "path": [
+    "IX NODAĻA — VISPĀRĪGI NOTEIKUMI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Regulatoru valdes un valdes locekļi, direktors, norīkotie valstu eksperti un citi darbinieki, kas nav BEREC biroja darbinieki, katrs sagatavo rakstisku deklarāciju, kurā norāda savas saistības un to, vai pastāv vai nepastāv kādas tiešas vai netiešas intereses, kuras varētu uzskatīt par tādām, kas ietekmē viņu neatkarību. Šādas deklarācijas sagatavo, uzņemoties pienākumus, tās ir precīzas un pilnīgas, un tās atjaunina, ja pastāv risks, ka ir kādas tiešas vai netiešas intereses, kuras varētu uzskatīt par tādām, kas ietekmē deklarācijas sagatavotāja neatkarību. Regulatoru valdes locekļu, valdes locekļu un direktora deklarācijas ir publiski pieejamas.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Regulatoru valdes, valdes un darba grupu locekļi un citi to sanāksmju dalībnieki, direktors, norīkotie valstu eksperti un citi darbinieki, kuri nav BEREC biroja darbinieki, vēlākais katras sanāksmes sākumā katrs precīzi un pilnīgi deklarē jebkādas intereses, ko varētu uzskatīt par tādām, kas ietekmē viņu neatkarību attiecībā uz darba kārtībā iekļautajiem jautājumiem, un nepiedalās šādu jautājumu apspriešanā un balsošanā par tiem.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Regulatoru valde un valde paredz noteikumus par interešu konfliktu novēršanu un pārvaldību un jo īpaši par 1. un 2. punkta piemērošanas praktisko kārtību.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_43",
+   "kind": "article",
+   "number": "43",
+   "label": "43. pants",
+   "title": "Krāpšanas apkarošana",
+   "path": [
+    "IX NODAĻA — VISPĀRĪGI NOTEIKUMI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Lai būtu vieglāk saskaņā ar Eiropas Parlamenta un Padomes Regulu (ES, Euratom) Nr. 883/2013 apkarot krāpšanu, korupciju un citas nelikumīgas darbības, BEREC birojs līdz 2019. gada 21. jūnijam pievienojas Eiropas Parlamenta, Eiropas Savienības Padomes un Eiropas Kopienu Komisijas 1999. gada 25. maija Iestāžu nolīgumam par iekšējo izmeklēšanu, ko veic Eiropas Birojs krāpšanas apkarošanai (OLAF), un, izmantojot minētā nolīguma pielikumā pievienoto veidni, pieņem atbilstošus noteikumus, kas piemērojami visiem BEREC biroja darbiniekiem.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Revīzijas palātai ir pilnvaras, pamatojoties uz dokumentiem un apskatēm uz vietas, veikt revīziju attiecībā uz visiem dotāciju saņēmējiem, uzņēmējiem un apakšuzņēmējiem, kas no BEREC biroja ir saņēmuši Savienības līdzekļus.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Saskaņā ar noteikumiem un procedūrām, kas noteiktas Regulā (ES, Euratom) Nr. 883/2013 un Padomes Regulā (Euratom, EK) Nr. 2185/96, OLAF var veikt izmeklēšanas, tostarp pārbaudes un apskates uz vietas, lai noskaidrotu, vai ir notikusi krāpšana, korupcija vai kāda cita nelikumīga darbība, kas skar Savienības finanšu intereses, saistībā ar dotāciju nolīgumu vai dotāciju piešķiršanas lēmumu, vai līgumu, kuru finansē BEREC birojs.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Neskarot 1., 2. un 3. punktu, sadarbības nolīgumos ar trešām valstīm un starptautiskām organizācijām, līgumos, dotāciju nolīgumos un dotāciju piešķiršanas lēmumos ietver noteikumus, kas skaidri pilnvaro Revīzijas palātu un OLAF veikt šādas revīzijas un izmeklēšanas saskaņā ar to attiecīgo kompetenci.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_44",
+   "kind": "article",
+   "number": "44",
+   "label": "44. pants",
+   "title": "Atbildība",
+   "path": [
+    "IX NODAĻA — VISPĀRĪGI NOTEIKUMI"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC biroja līgumisko atbildību reglamentē tiesību akti, ko piemēro attiecīgiem līgumiem.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Eiropas Savienības Tiesai (Tiesa) ir jurisdikcija taisīt spriedumu, ievērojot jebkuru šķīrējklauzulu, kas ietverta BEREC biroja noslēgtā līgumā.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Attiecībā uz ārpuslīgumisko atbildību BEREC birojs saskaņā ar vispārīgiem principiem, kas ir kopīgi visu dalībvalstu tiesību aktiem, atlīdzina visus zaudējumus, ko radījuši tā struktūrvienības vai darbinieki, pildot savus pienākumus.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Tiesas kompetencē ir strīdi, kas saistīti ar jebkādu 3. punktā minēto zaudējumu atlīdzināšanu.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Darbinieku personīgo atbildību pret BEREC biroju reglamentē darbiniekiem piemērojamie Civildienesta vai Savienības pārējo darbinieku nodarbināšanas kārtības noteikumi.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_45",
+   "kind": "article",
+   "number": "45",
+   "label": "45. pants",
+   "title": "Administratīvā izmeklēšana",
+   "path": [
+    "IX NODAĻA — VISPĀRĪGI NOTEIKUMI"
+   ],
+   "blocks": [
+    {
+     "text": "Uz BEREC un BEREC biroja darbībām saskaņā ar LESD 228. pantu attiecas Eiropas Ombuda izmeklēšana.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_46",
+   "kind": "article",
+   "number": "46",
+   "label": "46. pants",
+   "title": "Valodu lietojums",
+   "path": [
+    "IX NODAĻA — VISPĀRĪGI NOTEIKUMI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Uz BEREC biroju attiecas Regula Nr. 1/58.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC biroja darbībai nepieciešamos tulkošanas pakalpojumus nodrošina Eiropas Savienības iestāžu Tulkošanas centrs.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_47",
+   "kind": "article",
+   "number": "47",
+   "label": "47. pants",
+   "title": "Mītnes nolīgums un darbības nosacījumi",
+   "path": [
+    "X NODAĻA — NOBEIGUMA NOTEIKUMI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Pasākumus attiecībā uz BEREC biroja izvietošanu uzņēmējā dalībvalstī un aprīkojumu, kas minētajai dalībvalstij ir jādara pieejams, kā arī īpašos noteikumus, ko uzņēmējā dalībvalstī piemēro direktoram, valdes locekļiem, BEREC biroja darbiniekiem un viņu ģimenes locekļiem, nosaka mītnes nolīgumā starp BEREC biroju un uzņēmēju dalībvalsti, kas noslēgts pēc tam, kad saņemts valdes apstiprinājums, bet ne vēlāk kā 2020. gada 21. decembrī.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Uzņēmēja dalībvalsts nodrošina nepieciešamos apstākļus netraucētai un efektīvai BEREC biroja darbībai, cita starpā nodrošinot arī uz Eiropu vērstu daudzvalodu izglītību un piemērotus transporta savienojumus.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_48",
+   "kind": "article",
+   "number": "48",
+   "label": "48. pants",
+   "title": "Novērtēšana",
+   "path": [
+    "X NODAĻA — NOBEIGUMA NOTEIKUMI"
+   ],
+   "blocks": [
+    {
+     "text": "1. Līdz 2023. gada 21. decembrim un pēc tam reizi piecos gados Komisija veic novērtēšanu saskaņā ar Komisijas pamatnostādnēm, lai izvērtētu BEREC un BEREC biroja rezultātus attiecībā uz to mērķiem, pilnvarām, uzdevumiem un atrašanās vietu. Novērtējumā īpašu uzmanību pievērš iespējamai vajadzībai mainīt BEREC un BEREC biroja struktūru vai pilnvaras un jebkādu šādu izmaiņu finansiālajām sekām.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Ja Komisija uzskata, ka BEREC vai BEREC biroja turpmākai pastāvēšanai vairs nav pamata, ņemot vērā tiem nospraustos mērķus, piešķirtās pilnvaras un uzticētos uzdevumus, tā var ierosināt šo regulu attiecīgi grozīt vai atcelt.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Par novērtēšanā gūtajiem konstatējumiem Komisija ziņo Eiropas Parlamentam, Padomei un valdei, un publisko minētos konstatējumus.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_49",
+   "kind": "article",
+   "number": "49",
+   "label": "49. pants",
+   "title": "Pārejas noteikumi",
+   "path": [
+    "X NODAĻA — NOBEIGUMA NOTEIKUMI"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC birojs aizstāj Biroju, kas izveidots ar Regulu (EK) Nr. 1211/2009, attiecībā uz visām īpašumtiesībām, nolīgumiem, juridiskajām saistībām, darba līgumiem un finanšu saistībām un pienākumiem. Jo īpaši, šī regula neskar Biroja darbinieku tiesības un pienākumus. Viņu līgumus var atjaunot, piemērojot šo regulu saskaņā ar Civildienesta noteikumiem un Savienības pārējo darbinieku nodarbināšanas kārtību un atbilstoši BEREC biroja budžeta iespējām.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Sākot no 2018. gada 20. decembra administratīvais vadītājs, kurš iecelts, pamatojoties uz Regulu (EK) Nr. 1211/2009, rīkojas kā direktors, pildot šajā regulā noteiktās funkcijas. Pārējie administratīvā vadītāja līguma nosacījumi paliek nemainīgi.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Valde var nolemt uz turpmāku termiņu atjaunot šā panta 2. punktā minētā direktora pilnvaru laiku. 32. panta 5. un 6. punktu piemēro mutatis mutandis. Direktora kopējais pilnvaru laiks nepārsniedz desmit gadus.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Regulatoru valdi un valdi, kas minētas šīs regulas 7. un 15. pantā, līdz jauno pārstāvju iecelšanai veido Regulas (EK) Nr. 1211/2009 4. un 7. pantā minētās regulatoru valdes un pārvaldības komitejas locekļi.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Regulatoru valdes un valdes priekšsēdētāji un priekšsēdētāju vietnieki, kas iecelti, pamatojoties uz Regulu (EK) Nr. 1211/2009, turpina pildīt Regulatoru valdes priekšsēdētāja un priekšsēdētāja vietnieka amata pienākumus, kā minēts šīs regulas 10. pantā, un valdes priekšsēdētāja un priekšsēdētāja vietnieka amata pienākumus, kā minēts šīs regulas 17. pantā, atlikušo sava viena gada pilnvaru laikposmu. Regulatoru valdes un valdes priekšsēdētāji un priekšsēdētāju vietnieki, kas, pamatojoties uz Regulu (EK) Nr. 1211/2009, iecelti pirms 2018. gada 20. decembra uz laiku pēc minētā datuma, tiek respektēti.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Izpildes apstiprinājuma procedūru attiecībā uz budžetu, kas apstiprināts, pamatojoties uz Padomes Regulas (EK) Nr. 1211/2009 11. pantu, veic saskaņā ar noteikumiem, kas paredzēti minētajā regulā.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_50",
+   "kind": "article",
+   "number": "50",
+   "label": "50. pants",
+   "title": "Grozījumi Regulā (ES) 2015/2120",
+   "path": [
+    "X NODAĻA — NOBEIGUMA NOTEIKUMI"
+   ],
+   "blocks": [
+    {
+     "text": "Regulu (ES) 2015/2120 groza šādi:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "1) regulas nosaukumu aizstāj ar šādu: “Eiropas Parlamenta un Padomes Regula (ES) 2015/2120 (2015. gada 25. novembris), ar ko nosaka pasākumus sakarā ar piekļuvi atvērtam internetam un mazumtirdzniecības maksu par regulētiem ES iekšzemes sakariem un groza Direktīvu 2002/22/EK un Regulu (ES) Nr. 531/2012”;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "2) regulas 1. pantam pievieno šādu punktu: “3. Ar šo regulu paredz arī kopīgus noteikumus, lai nodrošinātu, ka patērētājiem netiek piemērotas pārmērīgas cenas par numuratkarīgiem starppersonu sakariem, kad savienojumu uzsāk patērētāja iekšzemes pakalpojumu sniedzēja dalībvalstī un pabeidz uz jebkuru fiksētā vai mobilā tīkla numuru citā dalībvalstī.”;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "3) regulas 2. panta otrajai daļai pievieno šādus punktus: “3) “regulēti ES iekšzemes sakari” ir jebkurš numuratkarīgs starppersonu sakaru pakalpojums, kad savienojumu uzsāk patērētāja iekšzemes pakalpojumu sniedzēja dalībvalstī un pabeidz uz jebkuru fiksētā vai mobilā tīkla valsts numerācijas plāna numuru citā dalībvalstī un kam piemēro pilnu vai daļēju maksu, pamatojoties uz faktisko patēriņu; 4) “numuratkarīgs starppersonu sakaru pakalpojums” ir numuratkarīgs starppersonu sakaru pakalpojums kā noteikts Eiropas Parlamenta un Padomes Direktīvas (ES) 2018/1972 2. panta 6. punktā. (*1) Eiropas Parlamenta un Padomes Direktīva (ES) 2018/1972 (2018. gada 11. decembris) par Eiropas Elektronisko sakaru kodeksa izveidi (OV L 321, 17.12.2018., 36. lpp.).”;\"",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "4) iekļauj šādu pantu: “5.a pants Mazumtirdzniecības maksa par regulētiem ES iekšzemes sakariem 1. No 2019. gada 15. maija mazumtirdzniecības cena (bez PVN), ko piemēro patērētājiem par regulētiem ES iekšzemes sakariem, nepārsniedz 0,19 EUR par minūti zvaniem un 0,06 EUR par SMS īsziņu. 2. Neatkarīgi no 1. punktā noteiktā pienākuma, regulētu ES iekšzemes sakaru pakalpojumu sniedzēji var papildus piedāvāt – un patērētāji var skaidri izvēlēties – starptautisko sakaru, tostarp regulētu ES iekšzemes sakaru, tarifu, kas atšķiras no saskaņā ar 1. punktu noteiktā tarifa un kas patērētājiem dod iespēju regulētiem ES iekšzemes sakariem izmantot citu tarifu, nevis to, kas viņiem būtu noteikts, ja šādas izvēles nebūtu. Pirms patērētāji izvēlas šādu atšķirīgu tarifu, regulētu ES iekšzemes sakaru pakalpojumu sniedzējs viņus informē par to, kāda veida priekšrocības tie šādā gadījumā zaudētu. 3. Ja regulētu ES iekšzemes sakaru tarifs, kā minēts 2. punktā, pārsniedz 1. punktā noteiktās robežvērtības, patērētājiem, kuri divu mēnešu laikā no 2019. gada 15. maija nav apstiprinājuši vai pauduši gribu izvēlēties kādu no 2. punktā noteiktajiem tarifiem, automātiski piemēro 1. punktā noteiktos tarifus. 4. Patērētāji var atteikties no tarifa, kas noteikts 1. punktā, vai pāriet atpakaļ uz to bez maksas vienas darbdienas laikā pēc pakalpojumu sniedzēja pieprasījuma saņemšanas, un pakalpojumu sniedzēji nodrošina, lai šāda pāreja nebūtu saistīta ar nosacījumiem vai ierobežojumiem attiecībā uz tādiem abonēšanas elementiem, kas nav regulētie ES iekšzemes sakari. 5. Ja maksimālās cenas, kas minētas 1. punktā, ir denominētas valūtā, kas nav euro, sākotnējās robežvērtības izsaka minētajās valūtās, piemērojot vidējo atsauces maiņas kursu, ko Eiropas Centrālā banka publicējusi Eiropas Savienības Oficiālajā Vēstnesī 2019. gada 15. janvārī, 15. februārī un 15. martā. Robežvērtības, kuras izteiktas valūtās, kas nav euro, no 2020. gada pārskata katru gadu. Katru gadu pārskatītās robežvērtības attiecīgajās valūtās piemēro no 15. maija, izmantojot vidējo atsauces maiņas kursu, kas publicēts tā paša gada 15. janvārī, 15. februārī un 15. martā. 6. Valstu regulatīvās iestādes pārrauga regulētu ES iekšzemes sakaru tirgu un cenu attīstību un ziņo Komisijai. Ja regulētu ES iekšzemes sakaru pakalpojumu sniedzējs pierāda, ka īpašu un ārkārtēju apstākļu dēļ, kas ir iemesls tā atšķirībai no lielākās daļas citu Savienības pakalpojumu sniedzēju, 1. pantā minētās robežvērtības piemērošana būtiski ietekmētu tā spēju saglabāt esošās iekšzemes pakalpojumu cenas, valstu regulatīvās iestādes pēc minētā pakalpojumu sniedzēja pieprasījuma var piešķirt atkāpi no 1. punkta tikai tiktāl, ciktāl tas ir nepieciešams, un uz viena gada atjaunojamu termiņu. Iekšzemes tarifikācijas modeļa ilgtspējības izvērtējums tiek pamatots uz attiecīgiem objektīvajiem faktoriem, kas ir raksturīgi regulētu ES iekšzemes sakaru pakalpojumu sniedzējam, kā arī uz iekšzemes cenu un ienākumu līmeni. Ja pieprasījumu iesniegušais sakaru pakalpojumu sniedzējs ir izpildījis piemērojamo pierādīšanas pienākumu, valsts regulatīvā iestāde nosaka maksimālo cenas līmeni, kas pārsniedz vienu vai abas 1. punktā noteiktās robežvērtības un kas būtu noteikti nepieciešams, lai nodrošinātu sakaru pakalpojumu sniedzēja iekšzemes tarifikācijas modeļa ilgtspējību. BEREC publicē pamatnostādnes par parametriem, kuri valstu regulatīvajām iestādēm jāņem vērā to veiktajos izvērtējumos.”;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "5) regulas 6. pantam pievieno šādu punktu: “Dalībvalstis pieņem noteikumus par sankcijām, kas piemērojamas par 5.a panta pārkāpumiem, un veic visus vajadzīgos pasākumus, lai nodrošinātu to īstenošanu. Paredzētās sankcijas ir iedarbīgas, samērīgas un atturošas. Dalībvalstis līdz 2019. gada 15. maijam paziņo Komisijai noteikumus un pasākumus, kas pieņemti, lai nodrošinātu 5.a panta īstenošanu, un nekavējoties paziņo Komisijai par jebkādiem attiecīgiem turpmākiem grozījumiem.”;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "6) regulas 10. pantam pievieno šādu punktu: “5. Regulas 5.a pants zaudē spēku 2024. gada 14. maijā.”",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_51",
+   "kind": "article",
+   "number": "51",
+   "label": "51. pants",
+   "title": "Atcelšana",
+   "path": [
+    "X NODAĻA — NOBEIGUMA NOTEIKUMI"
+   ],
+   "blocks": [
+    {
+     "text": "Regulu (EK) Nr. 1211/2009 atceļ.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Atsauces uz atcelto regulu uzskata par atsaucēm uz šo regulu, un tās lasa saskaņā ar atbilstības tabulu pielikumā.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_52",
+   "kind": "article",
+   "number": "52",
+   "label": "52. pants",
+   "title": "Stāšanās spēkā",
+   "path": [
+    "X NODAĻA — NOBEIGUMA NOTEIKUMI"
+   ],
+   "blocks": [
+    {
+     "text": "Šī regula stājas spēkā trešajā dienā pēc tās publicēšanas Eiropas Savienības Oficiālajā Vēstnesī.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "anx_1",
+   "kind": "annex",
+   "number": "1",
+   "label": "PIELIKUMS",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Atbilstības tabula",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Regula (EK) Nr. 1211/2009 Šī regula 1. panta 1. punkts 1. pants 1. panta 2. punkts 3. panta 1. punkts 1. panta 3. punkts 3. panta 2. un 3. punkts 1. panta 4. punkts 3. panta 4. punkts un 4. panta 1.punkta a) un b) apakšpunkts 2. pants 4. pants 3. pants 4. pants 4. panta 1. punkts 6. pants 4. panta 2. punkts 7. panta 1., 2. un 4. punkts, 8. panta 1. un 2. punkts 4. panta 3. punkts 11. panta 4. un 5. punkts un 36. pants 4. panta 4. punkts 10. panta 1., 2. un 3. punkts 4. panta 5. punkts 10. panta 4. punkts 4. panta 6. punkts 11. pants 4. panta 7. punkts 13. pants 4. panta 8. punkts 7. panta 4. punkts 4. panta 9. punkts 12. panta 1. un 2. punkts 4. panta 10. punkts 12. panta 3. punkts 4. panta 11. punkts 5. pants 5. pants 4. pants 6. panta 1. punkts 2. panta 1. punkts 6. panta 2. punkts 5. pants 6. panta 3. punkts 14. panta 1. punkts 6. panta 4. punkts 2. panta 2. punkts 6. panta 5. punkts 20. un 31. pants 7. panta 1. punkts 15. panta 1. punkts 7. panta 2. punkts 32. pants 7. panta 3. punkts 20. panta 6. punkts 7. panta 4. punkts 16. panta 1. punkta k) apakšpunkts 7. panta 5. punkts 13. pants 8. pants 32. pants 9. pants 20. pants 10. panta 1. punkts 30. un 34. pants 10. panta 2. punkts 16. panta 1.punkta j) apakšpunkts 10. panta 3. punkts 16. panta 2. punkts 10. panta 4. punkts 33. pants 11. pants 25. pants 12. pants 24. pants 13. pants 26. pants 14. pants — 15. pants 29. pants 16. pants 43. pants 17. pants 4. panta 5. punkts 18. pants 37. pants 19. pants 39. un 40. pants 20. pants 38. pants 21. pants 42. pants 22. pants 36. pants 23. pants 34. pants 24. pants 44. pants 25. pants 48. pants 26. pants 52. pants",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  }
+ ]
+}

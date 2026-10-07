@@ -1,0 +1,2822 @@
+{
+ "document": "berec",
+ "version": "original",
+ "lang": "DE",
+ "meta": {
+  "source": "eurlex",
+  "celex": "32018R1971",
+  "kind": "original",
+  "date": "2018-12-11",
+  "built_at": "2026-10-07T10:10:10+00:00",
+  "sources_sha256": {
+   "32018R1971": "9eb84c8364a94ea44945d5e0c1896c6ef779d9382e93c0146139822bc6cd57eb"
+  },
+  "counts": {
+   "article": 52,
+   "recital": 53,
+   "annex": 1
+  }
+ },
+ "provisions": [
+  {
+   "id": "rct_1",
+   "kind": "recital",
+   "number": "1",
+   "label": "(1)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Die Richtlinie (EU) 2018/1972 des Europäischen Parlaments und des Rates dient dem Ziel, in der Union einen Binnenmarkt für die elektronische Kommunikation zu schaffen, wobei durch stärkeren Wettbewerb ein hohes Niveau an Investitionen, Innovation und Verbraucherschutz gewährleistet werden soll. Mit jener Richtlinie werden für das Gremium europäischer Regulierungsstellen für elektronische Kommunikation (im Folgenden „GEREK“) auch eine Reihe neuer Aufgaben festgelegt, wie beispielsweise der Veröffentlichung von Leitlinien zu verschiedenen Themen, der Berichterstattung zu technischen Fragen, dem Führen von Registern, Listen oder Datenbanken und der Abgabe von Stellungnahmen zu den Binnenmarktverfahren für Entwürfe nationaler Maßnahmen zur Marktregulierung.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_2",
+   "kind": "recital",
+   "number": "2",
+   "label": "(2)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Mit der Verordnung (EU) Nr. 531/2012 des Europäischen Parlaments und des Rates werden in Bezug auf das unionsweite Roaming die Regeln, die mit dem Rechtsrahmen für die elektronische Kommunikation geschaffen wurden, ergänzt und flankiert und bestimmte Aufgaben für das GEREK festgelegt.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_3",
+   "kind": "recital",
+   "number": "3",
+   "label": "(3)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Mit der Verordnung (EU) 2015/2120 des Europäischen Parlaments und des Rates werden überdies zusätzliche Aufgaben für das GEREK in Bezug auf den Zugang zum offenen Internet festgelegt. Darüber hinaus wurden die Leitlinien des GEREK vom 30. August 2016 für die Umsetzung der europäischen Vorschriften zur Netzneutralität durch die nationalen Regulierungsstellen begrüßt, weil sie wertvolle Klarstellungen zur Wahrung eines starken, freien und offenen Internets enthalten, indem dafür gesorgt wird, dass die Regeln zur Wahrung der gleichberechtigten und nichtdiskriminierenden Behandlung des Datenverkehrs bei der Bereitstellung von Internetzugangsdiensten und zur Wahrung der damit verbundenen Rechte der Endnutzer kohärent angewendet werden.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_4",
+   "kind": "recital",
+   "number": "4",
+   "label": "(4)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Da die Entwicklung einer einheitlichen Regulierungspraxis und die kohärente Anwendung des Rechtsrahmens der Union für die elektronische Kommunikation sichergestellt werden müssen, hat die Kommission mit dem Beschluss 2002/627/EG der Kommission die Gruppe Europäischer Regulierungsstellen für elektronische Kommunikationsnetze und -dienste (ERG) eingerichtet, um die Kommission bei der Konsolidierung des Binnenmarkts für elektronische Kommunikationsnetze und -dienste zu beraten und zu unterstützen und, auf einer allgemeineren Ebene, als Schnittstelle zwischen den nationalen Regulierungsbehörden (im Folgenden „NRB“) und der Kommission zu fungieren.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_5",
+   "kind": "recital",
+   "number": "5",
+   "label": "(5)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Das GEREK und das Büro wurden mit der Verordnung (EG) Nr. 1211/2009 des Europäischen Parlaments und des Rates eingerichtet. Das GEREK hat die ERG ersetzt und sollte zum einen zur Entwicklung und zum anderen zum besseren Funktionieren des Binnenmarkts für elektronische Kommunikationsnetze und -dienste beitragen, indem es für die einheitliche Umsetzung des Rechtsrahmens für elektronische Kommunikation sorgt. Das GEREK fungiert als Forum für die Zusammenarbeit zwischen den NRB untereinander und zwischen den NRB und der Kommission bei der Wahrnehmung aller ihrer Aufgaben gemäß dem Rechtsrahmen der Union. Das GEREK wurde eingerichtet, um Fachwissen einzubringen und unabhängig und transparent zu handeln.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_6",
+   "kind": "recital",
+   "number": "6",
+   "label": "(6)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Das GEREK dient außerdem als Reflexions- und Diskussionsforum sowie zur Beratung des Europäischen Parlaments, des Rates und der Kommission auf dem Gebiet der elektronischen Kommunikation.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_7",
+   "kind": "recital",
+   "number": "7",
+   "label": "(7)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Das Büro wurde als Gemeinschaftseinrichtung mit eigener Rechtspersönlichkeit eingerichtet, um die in der Verordnung (EG) Nr. 1211/2009 genannten Aufgaben wahrzunehmen und insbesondere das GEREK in administrativer und professioneller Hinsicht zu unterstützen. Dem Büro wurde rechtliche, verwaltungstechnische und finanzielle Autonomie gewährt, um das GEREK wirksam unterstützen zu können.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_8",
+   "kind": "recital",
+   "number": "8",
+   "label": "(8)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Mit dem Beschluss 2010/349/EU haben die Vertreter der Regierungen der Mitgliedstaaten Riga als Sitz des Büros bestimmt. Das Sitzabkommen zwischen der Regierung der Republik Lettland und dem Büro ist am 5. August 2011 in Kraft getreten.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_9",
+   "kind": "recital",
+   "number": "9",
+   "label": "(9)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "In ihrer Mitteilung „Strategie für einen digitalen Binnenmarkt für Europa“ vom 6. Mai 2015 äußerte die Kommission die Absicht, im Jahr 2016 Vorschläge für eine ambitionierte Reform des Rechtsrahmens für die elektronische Kommunikation vorzulegen, deren Schwerpunkt unter anderem auf einem wirksameren institutionellen Rechtsrahmen liegen sollte, um, im Zuge der Schaffung der richtigen Bedingungen für den digitalen Binnenmarkt, für bedarfsgerechte Vorschriften für die elektronische Kommunikation zu sorgen. Dazu gehören der Ausbau von Netzen mit sehr hoher Kapazität, die besser koordinierte Verwaltung der Funkfrequenzen für Drahtlosnetze und die Schaffung gleicher Voraussetzungen für moderne digitale Netze und innovative Dienste. In der Mitteilung wurde hervorgehoben, dass aufgrund der sich verändernden Marktgegebenheiten und des sich wandelnden technologischen Umfelds der institutionelle Rahmen durch eine Aufwertung der Rolle des GEREK gestärkt werden muss.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_10",
+   "kind": "recital",
+   "number": "10",
+   "label": "(10)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "In seiner Entschließung mit dem Titel „Auf dem Weg zu einer Akte zum digitalen Binnenmarkt“ vom 19. Januar 2016 forderte das Europäische Parlament die Kommission auf, zur weiteren Integration des digitalen Binnenmarkts dafür Sorge zu tragen, dass ein effizienterer institutioneller Rahmen geschaffen wird..",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_11",
+   "kind": "recital",
+   "number": "11",
+   "label": "(11)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Das GEREK und das Büro haben einen positiven Beitrag zur einheitlichen Anwendung des Rechtsrahmens für die elektronische Kommunikation geleistet. Dennoch bestehen zwischen den Mitgliedstaaten nach wie vor erhebliche Unterschiede im Hinblick auf die Regulierungspraxis, was nachteilige Auswirkungen auf grenzüberschreitend oder in einer erheblichen Anzahl von Mitgliedstaaten tätige Unternehmen hat, auch in dem Fall, dass es zwar GEREK-Leitlinien gibt, diese aber weiterentwickelt werden könnten. Um weiterhin einen Beitrag zur Entwicklung des Binnenmarkts für elektronische Kommunikation in der gesamten Union wie auch zur Förderung des Zugangs zu Netzen mit sehr hoher Kapazität und ihrer Nutzung, des Wettbewerbs bei der Bereitstellung elektronischer Kommunikationsnetze und -dienste und zugehöriger Einrichtungen sowie zur Förderung der Interessen der Bürgerinnen und Bürger der Union zu leisten, zielt diese Verordnung darauf ab, die Rolle des GEREK zu stärken. Eine solche stärkere Rolle würde die größere Rolle des GEREK gemäß den Verordnungen (EU) Nr. 531/2012 und (EU) 2015/2120, sowie der Richtlinie (EU) 2018/1972 ergänzen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_12",
+   "kind": "recital",
+   "number": "12",
+   "label": "(12)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "In Anbetracht der Markt- und Technologieentwicklung, die häufig eine zunehmend grenzübergreifende Dimension mit sich bringt, sowie angesichts der bisher gemachten Erfahrungen im Rahmen der Bemühungen, die einheitliche Umsetzung auf dem Gebiet der elektronischen Kommunikation zu gewährleisten, ist es erforderlich, auf die Arbeit des GEREK und des Büros aufzubauen. Ihre Verwaltung und ihre Tätigkeiten sollten gestrafft und an die Aufgaben angepasst werden, die sie erfüllen. In Anbetracht der bereits festgelegten Verfahren und des neuen Aufgabenpakets, das dem GEREK und dem Büro übertragen wird, und um deren Wirksamkeit zu stärken, sollte zusätzliche Stabilität für das Management geschaffen und der Entscheidungsprozess vereinfacht werden.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_13",
+   "kind": "recital",
+   "number": "13",
+   "label": "(13)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Das GEREK sollte Fachwissen einbringen und durch seine Unabhängigkeit, die Qualität seiner Beratung und seiner Informationen, die Transparenz seiner Verfahren und Arbeitsmethoden sowie die Sorgfalt, mit der es seine Aufgaben erfüllt, Vertrauen schaffen. Die Unabhängigkeit des GEREK sollte seinen Regulierungsrat nicht daran hindern, auf der Grundlage von Entwürfen von Arbeitsgruppen zu beraten.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_14",
+   "kind": "recital",
+   "number": "14",
+   "label": "(14)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Der neue amtliche Name des Büros sollte „Agentur zur Unterstützung des GEREK“ (im Folgenden „GEREK-Büro“) lauten. Die Bezeichnung „GEREK-Büro“ sollte als Kurzbezeichnung für die Agentur verwendet werden. Das GEREK-Büro sollte rechtlich, administrativ und finanziell autonom sein. Daher ist es notwendig und sinnvoll, das GEREK-Büro als Einrichtung der Union mit eigener Rechtspersönlichkeit zu errichten, die die ihr übertragenen Befugnisse ausübt. Als dezentrale Agentur der Union sollte das GEREK-Büro im Rahmen seines Mandats und des vorhandenen institutionellen Rahmens handeln. Es sollte nicht davon ausgegangen werden, dass es nach außen hin einen Standpunkt der Union vertritt oder im Namen der Union rechtliche Verpflichtungen eingeht.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_15",
+   "kind": "recital",
+   "number": "15",
+   "label": "(15)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Außerdem sollten die Regelungen für die Leitung und Geschäftstätigkeit des GEREK-Büros, wo dies angemessen ist, mit den Grundsätzen der Gemeinsamen Erklärung des Europäischen Parlaments, des Rates und der Europäischen Kommission vom 19. Juli 2012 zu den dezentralen Agenturen in Einklang gebracht werden.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_16",
+   "kind": "recital",
+   "number": "16",
+   "label": "(16)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Die Organe der Union und die NRB sollten die Unterstützung und Beratung des GEREK nutzen können, unter anderem zu den einschlägigen regulatorischen Auswirkungen sämtlicher Angelegenheiten im Zusammenhang mit der allgemeinen Dynamik der digitalen Märkte oder in den Beziehungen und bei Gesprächen und dem Austausch mit Dritten sowie bei der Verbreitung bewährter Regulierungsverfahren an Dritte. Zusätzlich zu ihrem Beitrag zur öffentlichen Konsultation der Kommission sollte das GEREK die Kommission auf Antrag bei der Ausarbeitung von Gesetzgebungsvorschlägen beraten. Das GEREK sollte außerdem das Europäische Parlament und den Rat auf Antrag oder von Amts wegen beraten können.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_17",
+   "kind": "recital",
+   "number": "17",
+   "label": "(17)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Als technisches Gremium mit Fachwissen auf dem Gebiet der elektronischen Kommunikation, das sich aus Vertretern der NRB und der Kommission zusammensetzt, ist das GEREK für bestimmte Aufgaben am besten geeignet, beispielsweise, um zu effizienten Binnenmarktverfahren für Entwürfe nationaler Maßnahmen zur Marktregulierung beizutragen, um den NRB und anderen maßgeblichen zuständigen Behörden die erforderlichen Leitlinien bereitzustellen und so für gemeinsame Kriterien und einen kohärenten Regulierungsansatz zu sorgen und um auf Unionsebene bestimmte Register, Datenbanken und Listen zu führen. Nicht dazu gehören jedoch die Aufgaben der NRB, die mit den Märkten für elektronische Kommunikation und ihren lokalen Gegebenheiten am engsten verbunden sind.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_18",
+   "kind": "recital",
+   "number": "18",
+   "label": "(18)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Zur Wahrnehmung seiner Aufgaben sollte das GEREK weiterhin das Fachwissen der NRB bündeln. Das GEREK sollte die Beteiligung aller NRB an der Wahrnehmung seiner Regulierungsaufgaben und seinem Betrieb sicherstellen. Um das GEREK zu stärken und repräsentativer zu gestalten und um sein Fachwissen, seine Erfahrung und seine Kenntnisse bezüglich der besonderen Lage im gesamten Spektrum der nationalen Märkte zu bewahren, sollten alle Mitgliedstaaten sicherstellen, dass ihre NRB über angemessene finanzielle und personelle Ressourcen verfügen, die für die umfassende Beteiligung an der Arbeit des GEREK erforderlich sind.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_19",
+   "kind": "recital",
+   "number": "19",
+   "label": "(19)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "In Anbetracht der zunehmenden Konvergenz zwischen den Branchen, die elektronische Kommunikationsdienste anbieten, und angesichts der horizontalen Dimension der Regulierungsfragen bezüglich ihrer Entwicklung sollten das GEREK und das GEREK-Büro, unbeschadet der Rolle der NRB, anderer Einrichtungen, sonstiger Stellen und Beratungsgruppen der Union, mit diesen zusammenarbeiten dürfen, insbesondere mit der durch den Beschluss 2002/622/EG der Kommission eingerichteten Gruppe für Funkfrequenzpolitik, dem durch die Verordnung (EU) 2018/1725 des Europäischen Parlaments und des Rates eingesetzten Europäischen Datenschutzbeauftragten, dem durch die Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates eingerichteten Europäischen Datenschutzausschuss, der durch die Richtlinie 2010/13/EU des Europäischen Parlaments und des Rates eingesetzten Gruppe europäischer Regulierungsstellen für audiovisuelle Mediendienste, der durch die Verordnung (EU) Nr. 526/2013 des Europäischen Parlaments und des Rates eingerichteten Agentur der Europäischen Union für Netz- und Informationssicherheit, der durch die Verordnung (EU) Nr. 912/2010 des Europäischen Parlaments und des Rates eingerichteten Agentur für das Europäische GNSS, dem durch die Verordnung (EG) Nr. 2006/2004 des Europäischen Parlaments und des Rates eingerichteten Netzwerk für die Zusammenarbeit im Verbraucherschutz, dem Europäischen Wettbewerbsnetz, den europäischen Normungsorganisationen sowie auch mit bestehenden Ausschüssen (wie dem Kommunikationsausschuss und dem Funkfrequenzausschuss). Soweit dies zur Erfüllung ihrer Aufgaben erforderlich ist, sollten das GEREK und das GEREK-Büro außerdem mit den maßgeblichen für Wettbewerb, Verbraucherschutz und Datenschutz zuständigen Behörden der Mitgliedstaaten und den zuständigen Behörden von Drittländern zusammenarbeiten können, insbesondere mit den für den Bereich der elektronischen Kommunikation zuständigen Regulierungsbehörden oder Gruppen dieser Behörden, sowie mit internationalen Organisationen. Das GEREK sollte außerdem im Wege öffentlicher Anhörungen interessierte Parteien konsultieren können.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_20",
+   "kind": "recital",
+   "number": "20",
+   "label": "(20)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Das GEREK sollte befugt sein, Arbeitsvereinbarungen mit den Einrichtungen, sonstigen Stellen und Beratungsgruppen der Union, den zuständigen Behörden von Drittländern und mit internationalen Organisationen zu treffen, die keine rechtlichen Verpflichtungen begründen sollten. Ziel dieser Arbeitsvereinbarungen könnte beispielsweise die Entwicklung kooperativer Beziehungen und ein Gedankenaustausch über Regulierungsfragen sein. Die Kommission sollte sicherstellen, dass die erforderlichen Arbeitsvereinbarungen mit der Politik und den Prioritäten der Union im Einklang stehen, und dass das GEREK innerhalb seines Mandats und des bestehenden institutionellen Rahmens handelt und dass nicht der Eindruck entsteht, dass es nach außen hin einen Standpunkt der Union vertritt oder für die Union internationale Verpflichtungen eingeht.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_21",
+   "kind": "recital",
+   "number": "21",
+   "label": "(21)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Das GEREK sollte sich aus dem Regulierungsrat und den Arbeitsgruppen zusammensetzen. Der turnusmäßig wechselnde Vorsitz des Regulierungsrats soll die Kontinuität der Arbeit des GEREK sicherstellen. Ein turnusmäßiger Wechsel der stellvertretenden Vorsitzenden, die verschiedene NRB vertreten, wird ebenfalls gefördert werden.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_22",
+   "kind": "recital",
+   "number": "22",
+   "label": "(22)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Das GEREK sollte unabhängig von jeglicher Einmischung von außen — einschließlich politischen Drucks oder kommerzieller Einflussnahme — im Interesse der Union handeln können. Daher ist es wichtig sicherzustellen, dass den Personen, die zu Mitgliedern des Regulierungsrats ernannt werden, ein Höchstmaß an persönlicher und funktioneller Unabhängigkeit garantiert wird. Der Vorsitzende einer NRB, ein Mitglied eines NRB-Kollegiums oder der Stellvertreter einer dieser Personen genießen ein solches Maß an persönlicher und funktioneller Unabhängigkeit. Konkret sollten sie unabhängig und objektiv handeln, bei der Wahrnehmung ihrer Aufgaben keine Weisungen anfordern oder entgegennehmen und vor willkürlicher Entlassung geschützt sein. Die Funktion des Stellvertreters im Regulierungsrat könnte auch von dem Vorsitzenden der NRB, einem Mitglied des NRB-Kollegiums, dem Stellvertreter einer dieser Personen oder von einem anderen Mitglied des Personals der NRB ausgeübt werden, wobei die betreffende Person im Namen des Mitglieds des Regulierungsrates, das sie vertritt, und im Rahmen des diesem erteilten Mandats handelt.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_23",
+   "kind": "recital",
+   "number": "23",
+   "label": "(23)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Die Erfahrung zeigt, dass die meisten Aufgaben des GEREK besser in Arbeitsgruppen ausgeführt werden können, die stets eine gleichwertige Berücksichtigung der Ansichten und Beiträge aller NRB gewährleisten sollten. Der Regulierungsrat sollte daher die Arbeitsgruppen einrichten und ihre Vorsitzende ernennen. Zur raschen Einrichtung von Arbeitsgruppen, insbesondere der Arbeitsgruppen im Zusammenhang mit Verfahren, für die Fristen gelten, sollten die NRB auf Ernennungsgesuche umgehend reagieren. Die Arbeitsgruppen sollten Sachverständigen der Kommission zur Teilnahme offenstehen. Das Personal des GEREK-Büros sollte die Tätigkeiten der Arbeitsgruppen unterstützen und zu ihnen beitragen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_24",
+   "kind": "recital",
+   "number": "24",
+   "label": "(24)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Bei Bedarf und auf Einzelfallbasis sollten der Regulierungsrat und der Verwaltungsrat jede Person, deren Stellungnahme von Interesse sein könnte, einladen können, an ihren Sitzungen als Beobachter teilzunehmen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_25",
+   "kind": "recital",
+   "number": "25",
+   "label": "(25)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Gegebenenfalls sollten je nach der Zuweisung der Aufgaben an die Behörden in den einzelnen Mitgliedstaaten in der betreffenden Arbeitsgruppe die Ansichten anderer zuständiger Behörden berücksichtigt werden, indem diese anderen Behörden beispielsweise auf nationaler Ebene konsultiert oder zu den entsprechenden Sitzungen, in denen ihr Fachwissen benötigt wird, eingeladen werden. Die Unabhängigkeit des GEREK sollte in jedem Fall gewahrt werden.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_26",
+   "kind": "recital",
+   "number": "26",
+   "label": "(26)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Der Regulierungsrat und der Verwaltungsrat sollten parallel zueinander arbeiten, wobei der Regulierungsrat hauptsächlich über regulatorische Fragen und der Verwaltungsrat über Verwaltungsangelegenheiten wie etwa Haushalt, Personal und Rechnungsprüfungen entscheidet. Neben den Vertretern der Kommission sollten die Vertreter der NRB im Verwaltungsrat grundsätzlich zugleich deren Vertreter im Regulierungsrat sein, wobei die NRB andere Vertreter benennen können sollten, soweit diese die gleichen Anforderungen erfüllen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_27",
+   "kind": "recital",
+   "number": "27",
+   "label": "(27)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Die Befugnisse der Anstellungsbehörde wurden in der Vergangenheit vom stellvertretenden Vorsitz des Verwaltungsausschusses des Büros ausgeübt. Diese Verordnung legt fest, dass der Verwaltungsrat die entsprechenden Befugnisse der Anstellungsbehörde dem Direktor überträgt, der zur Weiterübertragung dieser Befugnisse ermächtigt ist. Dies soll zur effizienten Verwaltung des Personals des GEREK-Büros beitragen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_28",
+   "kind": "recital",
+   "number": "28",
+   "label": "(28)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Der Regulierungsrat und der Verwaltungsrat sollten jährlich mindestens zwei ordentliche Sitzungen abhalten. Ausgehend von den bisherigen Erfahrungen und aufgrund der größeren Rolle des GEREK werden der Regulierungsrat oder der Verwaltungsrat möglicherweise zusätzliche Sitzungen abhalten müssen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_29",
+   "kind": "recital",
+   "number": "29",
+   "label": "(29)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Der Direktor sollte das GEREK-Büro in rechtlichen und administrativen Angelegenheiten weiterhin vertreten. Der Verwaltungsrat sollte den Direktor im Anschluss an ein offenes und transparentes Auswahlverfahren ernennen, um eine strenge Bewertung der Bewerber und ein hohes Maß an Unabhängigkeit zu gewährleisten. Die Amtszeit des Verwaltungsdirektors des Büros betrug in der Vergangenheit drei Jahre. Das Mandat des Direktors muss hinreichend lang sein, um Stabilität und die Umsetzung einer langfristigen Strategie für das GEREK-Büro zu gewährleisten.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_30",
+   "kind": "recital",
+   "number": "30",
+   "label": "(30)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Die Delegierte Verordnung (EU) Nr. 1271/2013 der Kommission sollte auf das GEREK-Büro Anwendung finden.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_31",
+   "kind": "recital",
+   "number": "31",
+   "label": "(31)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Das GEREK-Büro sollte sämtliche für die Arbeit des GEREK erforderliche fachliche und administrative Unterstützung — einschließlich finanzieller, organisatorischer und logistischer Unterstützung — leisten und zu den Regulierungstätigkeiten des GEREK beitragen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_32",
+   "kind": "recital",
+   "number": "32",
+   "label": "(32)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Um die Eigenständigkeit und Unabhängigkeit des GEREK-Büros zu gewährleisten und die Arbeit des GEREK zu unterstützen, sollte das GEREK-Büro mit einem eigenständigen Haushalt ausgestattet werden, der im Wesentlichen aus einem Beitrag der Union bestehen sollte. Der Haushalt sollte angemessen sein und die zusätzlichen Aufgaben und die größere Rolle des GEREK und des GEREK-Büros widerspiegeln. Die Finanzierung des GEREK-Büros sollte einer Einigung gemäß Nummer 31 der Interinstitutionellen Vereinbarung vom 2. Dezember 2013 zwischen dem Europäischen Parlament, dem Rat und der Europäischen Kommission über die Haushaltsdisziplin, die Zusammenarbeit im Haushaltsbereich und die wirtschaftliche Haushaltsführung unterliegen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_33",
+   "kind": "recital",
+   "number": "33",
+   "label": "(33)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Das GEREK-Büro sollte über eine für die Erfüllung seiner Aufgaben angemessene Personalausstattung verfügen. Alle dem GEREK-Büro übertragenen Aufgaben — einschließlich der fachlichen und administrativen Unterstützung des GEREK bei der Wahrnehmung seiner Regulierungsaufgaben sowie der Einhaltung der einschlägigen finanziellen, arbeitsrechtlichen und sonstigen Vorschriften — und die stärkere Gewichtung der dem GEREK-Büro übertragenen operativen Aufgaben im Vergleich zu administrativen Aufgaben sollten im Rahmen der Ressourcenplanung gebührend bewertet und berücksichtigt werden.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_34",
+   "kind": "recital",
+   "number": "34",
+   "label": "(34)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Um die einheitliche Umsetzung des Rechtsrahmens für die elektronische Kommunikation weiter auszuweiten, sollten der Regulierungsrat, die Arbeitsgruppen und der Verwaltungsrat den für den Bereich der elektronischen Kommunikation zuständigen Regulierungsbehörden von Drittländern, die entsprechende Übereinkünfte mit der Union getroffen haben, wie etwa die EWR/EFTA-Staaten und die Kandidatenländer, zur Teilnahme offenstehen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_35",
+   "kind": "recital",
+   "number": "35",
+   "label": "(35)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Entsprechend dem Grundsatz der Transparenz sollten das GEREK und das GEREK-Büro, soweit angebracht, Informationen über ihre Arbeit auf ihrer Webseite veröffentlichen. Insbesondere sollte das GEREK alle endgültigen Dokumente veröffentlichen, die im Zuge der Wahrnehmung seiner Aufgaben erstellt werden, wie beispielsweise Stellungnahmen, Leitlinien, Berichte, Empfehlungen, gemeinsame Standpunkte, bewährte Verfahren sowie alle zur Unterstützung seiner Aufgaben in Auftrag gegebenen Untersuchungen. Zudem sollten das GEREK und das GEREK-Büro aktuelle Listen ihrer Aufgaben und aktuelle Listen der Mitglieder, Stellvertreter und anderen Teilnehmer an den Sitzungen ihrer organisatorischen Gremien sowie die Interessenerklärungen der Mitglieder des Regulierungsrats, der Mitglieder des Verwaltungsrats und des Direktors veröffentlichen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_36",
+   "kind": "recital",
+   "number": "36",
+   "label": "(36)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Das GEREK sollte mit Unterstützung des GEREK-Büros innerhalb seines Zuständigkeitsbereichs Kommunikationstätigkeiten durchführen können, die sich nicht nachteilig auf die Hauptaufgaben des GEREK auswirken. Der Inhalt und die Umsetzung der Kommunikationsstrategie des GEREK sollten kohärent, objektiv, sachdienlich und mit den Strategien und Tätigkeiten der Kommission und der anderen Organe abgestimmt sein, um dem Bild der Union in seiner Gesamtheit gerecht zu werden. Die Kommunikationstätigkeiten des GEREK-Büros sollten mit den einschlägigen Kommunikations- und Verbreitungsplänen des Verwaltungsrats im Einklang stehen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_37",
+   "kind": "recital",
+   "number": "37",
+   "label": "(37)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Zur wirksamen Wahrnehmung ihrer Aufgaben sollten das GEREK und das GEREK-Büro das Recht haben, bei der Kommission, den NRB und als letzte Möglichkeit bei anderen Behörden und Unternehmen alle erforderlichen Informationen einzuholen. Informationsersuchen sollten Gründe enthalten, verhältnismäßig sein und für die Adressaten keine unzumutbare Belastung darstellen. Die NRB sollten mit dem GEREK und dem GEREK-Büro zusammenarbeiten und ihnen zeitnah präzise Informationen bereitstellen, um zu gewährleisten, dass das GEREK und das GEREK-Büro in der Lage sind, ihre Aufgaben zu erfüllen. Das GEREK und das GEREK-Büro sollten alle erforderlichen Informationen außerdem nach dem Grundsatz der loyalen Zusammenarbeit an die Kommission, die NRB und andere zuständige Behörden weitergeben. Gegebenenfalls sollte die Vertraulichkeit der Informationen gewährleistet werden. Bei der Bewertung der Frage, ob ein Ersuchen ausreichend begründet ist, sollte das GEREK berücksichtigen, ob die angeforderten Informationen im Zusammenhang mit der Wahrnehmung von Aufgaben stehen, mit denen ausschließlich die zuständigen Behörden betraut sind.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_38",
+   "kind": "recital",
+   "number": "38",
+   "label": "(38)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Das GEREK-Büro sollte zur Vermeidung doppelter Informationsersuchen und zur Erleichterung der Kommunikation zwischen allen beteiligten Behörden ein gemeinsames Informations- und Kommunikationssystem einrichten.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_39",
+   "kind": "recital",
+   "number": "39",
+   "label": "(39)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Um ein hohes Maß an Vertraulichkeit zu gewährleisten und um Interessenkonflikten vorzubeugen, sollten die für die Mitglieder der organisatorischen Gremien des GEREK und des GEREK-Büros geltenden diesbezüglichen Vorschriften auch für ihre Stellvertreter gelten.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_40",
+   "kind": "recital",
+   "number": "40",
+   "label": "(40)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Da dem GEREK und dem GEREK-Büro mit dieser Verordnung neue Aufgaben übertragen werden und ihnen durch andere Rechtsakte der Union zusätzliche Aufgaben übertragen werden können, sollte die Kommission die Tätigkeit des GEREK und des GEREK-Büros und die Wirksamkeit ihrer institutionellen Struktur in einem sich wandelnden digitalen Umfeld einer regelmäßigen Bewertung unterziehen. Sollte die Kommission anhand dieser Bewertung zu dem Schluss kommen, dass die institutionelle Struktur nicht geeignet ist, um die Aufgaben des BEREK und des BEREK-Büros durchzuführen und insbesondere die einheitliche Umsetzung des Rechtsrahmens für die elektronische Kommunikation zu gewährleisten, so sollte sie alle denkbaren Optionen zur Verbesserung dieser Struktur prüfen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_41",
+   "kind": "recital",
+   "number": "41",
+   "label": "(41)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Das mit der vorliegenden Verordnung errichtete GEREK-Büro ist in Bezug auf das Eigentum und alle Übereinkünfte — einschließlich des Sitzabkommens —, rechtlichen Verpflichtungen, Beschäftigungsverträge, finanziellen Verpflichtungen und Verbindlichkeiten Rechtsnachfolger des durch die Verordnung (EG) Nr. 1211/2009 als Gemeinschaftseinrichtung mit eigener Rechtspersönlichkeit errichteten Büros. Das GEREK-Büro sollte das Personal des Büros übernehmen, dessen Rechte und Pflichten nicht beeinträchtigt werden sollten. Damit die Kontinuität der Arbeit des GEREK und des Büros sichergestellt ist, sollten die derzeit amtierenden Vertreter dieser Einrichtungen, d. h. der Vorsitzende und die stellvertretenden Vorsitzenden des Regulierungsrats, der Verwaltungsrat und der Verwaltungsdirektor, ihre Funktionen bis zum Ablauf ihrer Amtszeit weiterhin ausüben.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_42",
+   "kind": "recital",
+   "number": "42",
+   "label": "(42)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Eine beträchtliche Anzahl von Verbrauchern in den meisten Mitgliedstaaten bedient sich weiterhin herkömmlicher Arten der internationalen Kommunikation wie Telefongespräche und SMS-Nachrichten, obwohl immer mehr Verbraucher Zugang zu nummernunabhängigen interpersonellen Kommunikationsdiensten haben, mit denen ihrem Bedarf an Auslandsgesprächen zu niedrigeren Entgelten als bei herkömmlichen Diensten oder ohne Zahlung von Geldbeträgen entsprochen wird.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_43",
+   "kind": "recital",
+   "number": "43",
+   "label": "(43)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Die Kommission hat 2013 einen Vorschlag für eine Verordnung mit dazugehöriger Folgenabschätzung vorgelegt, der eine Bestimmung enthält, in der Regulierungsmaßnahmen für intra-EU-Kommunikation vorgesehen sind. Das GEREK und die Kommission haben im Rahmen einer Studie der Kommission und von Eurobarometer im Zeitraum von 2017 bis 2018 zusätzliche Daten zum Markt für intra-EU-Kommunikation. Aus diesen Daten geht hervor, dass sowohl in der Festnetz- als auch in der Mobilfunkkommunikation erhebliche Preisunterschiede bei der inländischen Sprach- und SMS-Kommunikation und bei der Zustellung in andere Mitgliedstaaten bestehen, die im Zusammenhang mit erheblichen Preisunterschieden zwischen einzelnen Ländern, Anbietern und Tarifpaketen sowie zwischen Mobilfunk- und Festnetzkommunikation stehen. Die Anbieter von öffentlich zugänglichen nummerngebundenen interpersonellen Kommunikationsdiensten setzen häufig nutzungsabhängige Preise für intra-EU-Kommunikation an, die die inländischen Tarife plus Zusatzkosten weit übersteigen. Im Durchschnitt und tendenziell ist der Standardpreis für einen intra-EU-Festnetz- oder -Mobilfunkanruf drei Mal höher als der Standardpreis für einen Inlandsanruf und der Standardpreis für eine intra-EU-SMS-Nachricht doppelt so hoch wie für eine SMS-Nachricht im Inland. Hinter diesen arithmetischen Mittelwerten verbergen sich jedoch beträchtliche Unterschiede zwischen den Mitgliedstaaten. In manchen Fällen kann der Standardpreis für einen intra-EU-Anruf bis zu acht Mal höher ausfallen als der Standardpreis für Inlandsanrufe. Daher sind die Kunden in einigen Mitgliedstaaten mit sehr hohen Preisen für intra-EU-Kommunikation konfrontiert. Von diesen hohen Preisen sind hauptsächlich Verbraucher betroffen — vor allem solche Verbraucher, die sich dieser Kommunikation selten oder in geringem Umfang bedienen —, die die überwiegende Mehrheit der Verbraucher ausmachen, die intra-EU-Kommunikation verwenden. Gleichzeitig stellen einige Anbieter Sonderangebote bereit, die für Geschäftskunden und Verbraucher mit beträchtlicher intra-EU-Kommunikation besonders attraktiv sind. Solche Angebote werden häufig nicht auf der Grundlage der tatsächlichen Nutzung abgerechnet und können darin bestehen, dass eine bestimmte Anzahl an Gesprächsminuten oder intra-EU-SMS-Nachrichten gegen eine feste monatliche Gebühr (Zusatzangebote) zur Verfügung gestellt wird oder eine bestimmte Anzahl an Gesprächsminuten oder intra-EU-SMS-Nachrichten in die Monatspauschale für Gesprächsminuten oder SMS-Nachrichten ohne Aufpreis oder nur mit geringem Aufpreis einbezogen wird. Allerdings sind die Bedingungen dieser Angebote für Verbraucher mit nur gelegentlicher, unvorhersehbarer oder relativ geringer intra-EU-Kommunikation oft nicht attraktiv. Folglich sind diese Verbraucher dem Risiko ausgesetzt, überhöhte Preise für ihre intra-EU-Kommunikation zu zahlen, und sollten geschützt werden.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_44",
+   "kind": "recital",
+   "number": "44",
+   "label": "(44)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Darüber hinaus stellen hohe Preise für intra-EU-Kommunikation ein Hemmnis für das Funktionieren des Binnenmarktes dar, da sie die Verbraucher davon abhalten, bei einem in einem anderen Mitgliedstaat ansässigen Anbieter nach Waren und Diensten zu suchen und diese zu kaufen. Daher müssen spezifische und angemessene Obergrenzen für die Preise, die die Anbieter von öffentlich zugänglichen nummerngebundenen interpersonellen Kommunikationsdiensten den Verbrauchern für intra-EU-Kommunikation in Rechnung stellen können, festgelegt werden, um solche hohen Preise zu beseitigen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_45",
+   "kind": "recital",
+   "number": "45",
+   "label": "(45)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Wenn Anbieter von öffentlich zugänglichen nummerngebundenen interpersonellen Kommunikationsdiensten den Verbrauchern für intra-EU-Kommunikation Entgelte berechnen, deren Höhe ganz oder teilweise von der Nutzung dieser Dienste abhängig ist, einschließlich in Fällen eines nutzungsabhängigen Abzugs von einer monatlichen oder vorausbezahlten Pauschale für solche Dienste, sollten diese Entgelte 0,19 EUR pro Minute für Anrufe und 0,06 EUR je SMS-Nachricht nicht überschreiten. Diese Obergrenzen entsprechen den Preisobergrenzen, die zurzeit für regulierte Roaminganrufe bzw. SMS-Roamingnachrichten gelten. Beim Roaming in der Union kommt den Verbrauchern der Schutz des Euro-Tarifs für Sprachanrufe und des Euro-Tarifs für SMS zugute, der schrittweise durch das Roaming zu Inlandspreisen ersetzt wurde. Diese Obergrenzen werden auch als geeigneter Richtwert für die Festlegung der Höchstentgelte für regulierte intra-EU-Kommunikation angesehen, die ab dem 15. Mai 2019 für einen Zeitraum von fünf Jahren gelten werden. Die derzeitige Höhe der Obergrenze stellt eine einfache, transparente und bewährte Sicherung zum Schutz vor hohen Preisen dar und eignet sich als Obergrenze für die Endkundenpreise für jegliche regulierte intra-EU-Kommunikation. Roaminganrufe innerhalb der Union und intra-EU-Anrufe weisen eine ähnliche Kostenstruktur auf.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_46",
+   "kind": "recital",
+   "number": "46",
+   "label": "(46)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Mit den Obergrenzen sollte es den Anbietern von öffentlich zugänglichen nummerngebundenen interpersonellen Kommunikationsdiensten möglich sein, ihre Kosten zu decken, sodass ein angemessenes Eingreifen sowohl auf dem Mobilfunk- als auch auf dem Festnetzmarkt gewährleistet ist. Die Obergrenzen werden unmittelbar nur für Entgelte gelten, die auf der tatsächlichen Nutzung beruhen. Sie sollten aber auch eine disziplinierende Wirkung auf solche Angebote haben, bei denen ein bestimmtes Volumen an intra-EU-Kommunikation einbezogen ist, ohne gesondert berechnet zu werden, weil die Verbraucher die Möglichkeit haben, in einen nutzungsabhängigen Tarif für ihre intra-EU-Kommunikation zu wechseln. Die Obergrenzen sollten für das Volumen an intra-EU-Kommunikation gelten, das über das in einem Paket enthaltene Volumen hinausgeht und gesondert berechnet wird. Diese Maßnahme sollte in verhältnismäßiger Weise gewährleisten, dass Verbraucher mit nur geringer Nutzung der intra-EU-Kommunikation vor hohen Preisen geschützt sind, und sollte gleichzeitig nur mäßige Auswirkungen auf die Anbieter haben.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_47",
+   "kind": "recital",
+   "number": "47",
+   "label": "(47)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Die Anbieter von öffentlich zugänglichen nummerngebundenen interpersonellen Kommunikationsdiensten sollten den Verbrauchern alternative Tarifangebote für internationale Kommunikation mit unterschiedlichen Entgelten für regulierte intra-EU-Kommunikation unterbreiten können, und die Verbraucher sollten die Möglichkeit haben, sich bewusst für solche Angebote zu entscheiden und jederzeit kostenlos zurück zu wechseln, selbst bei Verträgen, die die Verbraucher vor Inkrafttreten solcher Bestimmungen abgeschlossen haben. Nur bei alternativen Angeboten für internationale Kommunikation wie jene, die alle oder einige Drittländer abdecken, sollte es, sofern vom Verbraucher akzeptiert, möglich sein, den Anbieter von seiner Verpflichtung zu befreien, die Obergrenzen für regulierte intra-EU-Kommunikation nicht zu überschreiten. Andere Vorteile, etwa subventionierte Endgeräte oder Rabatte auf andere elektronische Kommunikationsdienste, die den Verbrauchern von den Anbietern angeboten werden, sind ein normaler Bestandteil des Wettbewerbs und dürften sich nicht auf die Anwendbarkeit der Preisobergrenzen für regulierte intra-EU-Kommunikation auswirken.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_48",
+   "kind": "recital",
+   "number": "48",
+   "label": "(48)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Einige Anbieter von öffentlich zugänglichen nummerngebundenen interpersonellen Kommunikationsdiensten können in einem weitaus stärkeren Maße von der Preisobergrenze für regulierte intra-EU-Kommunikation betroffen sein als die Mehrheit der Anbieter in der Union. Dies könnte insbesondere bei Anbietern der Fall sein, die einen besonders hohen Anteil ihrer Einnahmen oder ihres Betriebsgewinns durch intra-EU-Kommunikation erzielen oder deren inländische Gewinnspannen im Vergleich zu branchenüblichen Richtwerten gering sind. Aufgrund der verringerten Gewinnspannen im Bereich der regulierte intra-EU-Kommunikation könnte für einen Anbieter sein inländisches Preismodell nicht mehr tragfähig sein. Solche Szenarien sind äußerst unwahrscheinlich, weil die Höchstpreise weit über den Kosten für die Bereitstellung von intra-EU-Kommunikation liegen. Um dennoch solchen äußerst seltenen Szenarien in verhältnismäßiger Weise zu begegnen, sollte es den NRB möglich sein, auf Antrag eines solchen Anbieters in begründeten außergewöhnlichen Fällen Ausnahmen zu gewähren.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_49",
+   "kind": "recital",
+   "number": "49",
+   "label": "(49)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Eine Ausnahme sollte jedoch nur dann gewährt werden, wenn ein Anbieter nachweisen kann, dass er bezogen auf einen vom GEREK festgelegten entsprechenden Richtwert in weitaus stärkerem Maße als die anderen Anbieter in der Union betroffen ist und aufgrund dieser Auswirkungen seine Fähigkeit, sein Entgeltmodell für inländische Kommunikation beizubehalten, erheblich beeinträchtigt wäre. Gewährt die NRB eine Ausnahme, so sollte sie den Höchstpreis festlegen, den ein Anbieter bei regulierter intra-EU-Kommunikation anwenden kann und der ihn in die Lage versetzt, ein wettbewerbsfähiges Preisniveau für inländische Kommunikation beizubehalten. Diese Ausnahmen sollten auf ein Jahr begrenzt sein und verlängert werden können, wenn der Anbieter nachweist, dass die Bedingungen für eine Ausnahme weiterhin erfüllt werden.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_50",
+   "kind": "recital",
+   "number": "50",
+   "label": "(50)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Im Sinne des Grundsatzes der Verhältnismäßigkeit sollte die Geltung der Preisobergrenzen für die regulierte intra-EU-Kommunikation befristet sein und nach fünf Jahre nach deren Inkrafttreten enden. Mit dieser Frist sollte es möglich sein, die Maßnahmen ordnungsgemäß zu bewerten und zu prüfen, inwieweit es weiterhin erforderlich ist, die Verbraucher zu schützen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_51",
+   "kind": "recital",
+   "number": "51",
+   "label": "(51)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Um einen unionsweit einheitlichen, rechtzeitigen und wirksamen Schutz der von den erheblichen Preisunterschieden bei intra-EU-Kommunikation negativ betroffenen Verbraucher zu gewährleisten, sollten solche Bestimmungen unmittelbar gelten, indem sie in einer Verordnung verankert werden. Der zu diesem Zweck am besten geeignete Rechtsakt ist die Verordnung (EU) 2015/2120, die nach einer Folgenabschätzung angenommen wurde, in der u. a. eine Bestimmung über intra-EU-Kommunikation als erforderliches Mittel zur Vollendung des Binnenmarkts für die elektronische Kommunikation vorgeschlagen worden war. Die wahrscheinlichen Auswirkungen auf die Einnahmen der Anbieter aus intra-EU-Kommunikation werden, durch die Anwendung des Euro-Roaming-Tarifs für Sprachanrufe und des Euro-Roaming-Tarifs für SMS als Obergrenze für die Festnetz- und Mobilfunkkommunikation, die als Sicherheitsmechanismus dient, und weil aus der GEREK-Analyse von 2018 hervorgeht, dass bei den relevanten Festnetzverbindungen, die von der Maßnahme in der Zwischenzeit betroffen waren, ein erheblicher Rückgang des Anrufaufkommens zu verzeichnen war, weiter abgeschwächt. Daher sollten diese Bestimmungen in Form einer Änderung der Verordnung (EU) 2015/2120 — die auch angepasst werden sollte, um sicherzustellen, dass die Mitgliedstaaten Vorschriften über Sanktionen für den Verstoß gegen solche Bestimmungen erlassen — aufgenommen werden.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_52",
+   "kind": "recital",
+   "number": "52",
+   "label": "(52)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Da die Ziele dieser Verordnung, nämlich die Gewährleistung der einheitlichen Umsetzung des Rechtsrahmens für die elektronische Kommunikation, insbesondere in Bezug auf grenzübergreifende Aspekte und durch effiziente Binnenmarktverfahren für Entwürfe nationaler Maßnahmen, und die Sicherstellung, dass den Verbrauchern keine überhöhten Preise für die nummerngebundene interpersonelle Kommunikation aus dem Mitgliedstaat des inländischen Anbieters des Verbrauchers zu einer Festnetz- oder Mobilfunknummer in einem anderen Mitgliedstaat in Rechnung gestellt werden, von den Mitgliedstaaten nicht in ausreichendem Maße erreicht werden können, sondern vielmehr wegen des Umfangs und der Wirkungen der Maßnahmen auf Unionsebene besser zu verwirklichen sind, kann die Union im Einklang mit dem in Artikel 5 des Vertrags über die Europäische Union verankerten Subsidiaritätsprinzip tätig werden. Entsprechend dem in demselben Artikel genannten Grundsatz der Verhältnismäßigkeit geht diese Verordnung nicht über das für die Verwirklichung dieser Ziele erforderliche Maß hinaus.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_53",
+   "kind": "recital",
+   "number": "53",
+   "label": "(53)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Die Bestimmungen der Verordnung (EG) Nr. 1211/2009 werden im Wege der vorliegenden Verordnung geändert und erweitert. Da es sich um wesentliche Änderungen handelt, sollte der genannte Rechtsakt aus Gründen der Klarheit aufgehoben werden. Verweise auf die aufgehobene Verordnung gelten als Verweise auf die vorliegende Verordnung —",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_1",
+   "kind": "article",
+   "number": "1",
+   "label": "Artikel 1",
+   "title": "Gegenstand und Geltungsbereich",
+   "path": [
+    "KAPITEL I — GEGENSTAND UND GELTUNGSBEREICH"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Mit dieser Verordnung werden das Gremium europäischer Regulierungsstellen für elektronische Kommunikation (im Folgenden „GEREK“) und die Agentur zur Unterstützung des GEREK (im Folgenden „GEREK-Büro“) eingerichtet.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) GEREK und das GEREK-Büro ersetzen das Gremium Europäischer Regulierungsstellen für elektronische Kommunikation (GEREK) und das Büro, welche mit der Verordnung (EG) Nr. 1211/2009 eingerichtet wurden, als Nachfolger.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_2",
+   "kind": "article",
+   "number": "2",
+   "label": "Artikel 2",
+   "title": "Rechtspersönlichkeit des GEREK-Büros",
+   "path": [
+    "KAPITEL I — GEGENSTAND UND GELTUNGSBEREICH"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Das GEREK-Büro ist eine Einrichtung der Union. Es besitzt Rechtspersönlichkeit.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Das GEREK-Büro besitzt in jedem Mitgliedstaat die weitestgehende Rechts- und Geschäftsfähigkeit, die juristischen Personen nach nationalen Rechtsvorschriften zuerkannt ist. Es besitzt insbesondere die Fähigkeit, das Eigentum an beweglichen und unbeweglichen Sachen zu erwerben und zu veräußern, und ist vor Gericht parteifähig.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Das GEREK-Büro wird von seinem Direktor vertreten.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Das GEREK-Büro verfügt über die alleinige Verantwortung für die ihm zugewiesenen Aufgaben und die ihm übertragenen Befugnisse.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Das GEREK-Büro hat seinen Sitz in Riga.",
+     "para": "",
+     "point": "5"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_3",
+   "kind": "article",
+   "number": "3",
+   "label": "Artikel 3",
+   "title": "Ziele des GEREK",
+   "path": [
+    "KAPITEL II — ZIELE UND AUFGABEN DES GEREK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Das GEREK wird im Geltungsbereich der Verordnungen (EU) Nr. 531/2012 und (EU) 2015/2120 sowie der Richtlinie (EU) 2018/1972 tätig.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Das GEREK verfolgt die in Artikel 3 der Richtlinie (EU) 2018/1972 genannten Ziele. Das GEREK verfolgt insbesondere das Ziel, eine einheitliche Umsetzung des Rechtsrahmens für die elektronische Kommunikation innerhalb des in Absatz 1 dieses Artikels genannten Geltungsbereichs zu gewährleisten.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Das GEREK übt seine Aufgaben unabhängig, unparteiisch, transparent und zeitnah aus.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Das GEREK greift auf das bei den nationalen Regulierungsbehörden (im Folgenden „NRB“) verfügbare Fachwissen zurück.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Gemäß Artikel 9 Absatz 3 der Richtlinie (EU) 2018/1972 muss jeder Mitgliedstaatsicherstellen, dass sich seine NRB uneingeschränkt an der Arbeit der organisatorischen Gremien des GEREK beteiligen können.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) In Mitgliedstaaten, in denen mehr als eine NRB im Rahmen der Richtlinie (EU) 2018/1972 zuständig ist, stimmen sich die betreffenden NRB erforderlichenfalls untereinander ab.",
+     "para": "",
+     "point": "6"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_4",
+   "kind": "article",
+   "number": "4",
+   "label": "Artikel 4",
+   "title": "Regulierungsaufgaben des GEREK",
+   "path": [
+    "KAPITEL II — ZIELE UND AUFGABEN DES GEREK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Das GEREK hat folgende Regulierungsaufgaben:",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "a) Unterstützung und Beratung der NRB, des Europäischen Parlaments, des Rates und der Kommission und Zusammenarbeit mit den NRB und der Kommission bei allen technischen Fragen, die in seine Zuständigkeit fallen und die elektronische Kommunikation betreffen, auf Antrag oder von Amts wegen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) Unterstützung und Beratung der Kommission auf Antrag im Zusammenhang mit der Erarbeitung von Gesetzgebungsvorschlägen im Bereich der elektronischen Kommunikation, einschließlich etwaiger Vorschläge zur Änderung dieser Verordnung oder der Richtlinie (EU) 2018/1972;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) Abgabe von Stellungnahmen gemäß der Verordnung (EU) Nr. 531/2012 und der Richtlinie (EU) 2018/1972, insbesondere i) zur Beilegung grenzüberschreitender Streitigkeiten gemäß Artikel 27 der Richtlinie (EU) 2018/1972; ii) zu Entwürfen nationaler Maßnahmen im Zusammenhang mit den Binnenmarktverfahren für die Marktregulierung gemäß den Artikeln 32, 33 und 66 der Richtlinie (EU) 2018/1972; iii) zu Entwürfen von Beschlüssen und Empfehlungen zur Harmonisierung gemäß den Artikeln 38 und 93 der Richtlinie (EU) 2018/1972; iv) über die durchgehende Konnektivität zwischen Endnutzern gemäß Artikel 61 Absatz 2 der Richtlinie (EU) 2018/1972; v) zur Festlegung eines unionsweit einheitlichen Mobilfunkzustellungshöchstentgelts und eines unionsweit einheitlichen Festnetzzustellungshöchstentgelts gemäß Artikel 75 der Richtlinie (EU) 2018/1972; vi) zu dem Muster für Vertragszusammenfassungen gemäß Artikel 102 der Richtlinie (EU) 2018/1972 vii) zur Umsetzung und zum Funktionieren der Allgemeingenehmigung auf nationaler Ebene und zu ihren Auswirkungen auf das Funktionieren des Binnenmarktes nach Artikel 122 Absatz 3 der Richtlinie (EU) 2018/1972; viii) gegebenenfalls zu den Marktentwicklungen und den technologischen Entwicklungen bei den verschiedenen Arten von elektronischen Kommunikationsdiensten und ihren Auswirkungen auf die Anwendung von Teil III Titel III der Richtlinie (EU) 2018/1972 nach Artikel 123 Absatz 1 jener Richtlinie;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) Erstellung von Leitlinien zur Umsetzung des Rechtsrahmens der Union zur elektronischen Kommunikation, insbesondere gemäß der Verordnungen (EU) Nr. 531/2012 und (EU) 2015/2120 sowie der Richtlinie (EU) 2018/1972 in Bezug auf i) das Meldemuster gemäß Artikel 12 der Richtlinie (EU) 2018/1972; ii) die einheitliche Umsetzung der Verpflichtungen hinsichtlich der geografischen Erhebungen und Vorausschauen gemäß Artikel 22 der Richtlinie (EU) 2018/1972; iii) die einschlägigen Kriterien zur Förderung der kohärenten Anwendung des Artikels 61 Absatz 3 der Richtlinie (EU) 2018/1972; iv) die gemeinsamen Vorgehensweisen bei der Ermittlung des Netzabschlusspunkts in verschiedenen Netztopologien gemäß Artikel 61 Absatz 7 der Richtlinie (EU) 2018/1972; v) die gemeinsamen Vorgehensweisen zur Deckung der länderübergreifenden Nachfrage der Endnutzer gemäß Artikel 66 der Richtlinie (EU) 2018/1972; vi) die Mindestkriterien für Standardangebote gemäß Artikel 69 der Richtlinie (EU) 2018/1972; vii) die Förderung einer einheitlichen Anwendung der Bedingungen gemäß Artikel 76 Absatz 1 und der Kriterien gemäß Anhang IV der Richtlinie (EU) 2018/1972 durch die NRB; viii) die Kriterien, nach denen ein Netz gemäß Artikel 82 der Richtlinie (EU) 2018/1972 als Netz mit sehr hoher Kapazität gilt; ix) die gemeinsamen Kriterien für die Bewertung der Fähigkeit zur Verwaltung von Nummerierungsressourcen sowie des Risikos einer Erschöpfung dieser Ressourcen gemäß Artikel 93 der Richtlinie (EU) 2018/1972; x) die einschlägigen Parameter für die Dienstqualität, die anzuwendenden Messverfahren, die Form und Art der Veröffentlichung der Angaben und die Qualitätszertifizierungsmechanismen gemäß Artikel 104 der Richtlinie (EU) 2018/1972; xi) die Frage, wie zu bewerten ist, ob die Wirksamkeit der öffentlichen Warnsysteme gemäß Artikel 110 Absatz 2 der Richtlinie (EU) 2018/1972 der Wirksamkeit der Warnungen gemäß Absatz 1 jenes Artikels entspricht; xii) den Großkundenroamingzugang gemäß Artikel 3 Absatz 8 der Verordnung (EU) Nr. 531/2012; xiii) die Umsetzung der Verpflichtungen der NRB hinsichtlich des Zugangs zum offenen Internet gemäß Artikel 5 Absatz 3 der Verordnung (EU) 2015/2120; xiv) die durch die NRB bei der Bewertung der Tragfähigkeit des inländischen Entgeltmodells zu berücksichtigenden Parameter gemäß Artikel 5a Absatz 6 der Verordnung (EU) 2015/2120;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) Erstellung weiterer Leitlinien zur Sicherstellung der einheitlichen Umsetzung des Rechtsrahmens für die elektronische Kommunikation und einheitlicher regulatorischer Entscheidungen der NRB von Amts wegen oder auf Antrag einer NRB, des Europäischen Parlaments, des Rates oder der Kommission, und zwar insbesondere zu Regulierungsfragen, die eine signifikante Anzahl von Mitgliedstaaten betreffen oder einen grenzüberschreitenden Bezug haben;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) gegebenenfalls Beteiligung an dem Peer-Review-Forum über Entwürfe von Maßnahmen betreffend die Auswahlverfahren gemäß Artikel 35 der Richtlinie (EU) 2018/1972;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) Mitwirkung in Fragen, die seine Zuständigkeit hinsichtlich Marktregulierung und Wettbewerb in Bezug auf Funkfrequenzen gemäß Artikel 4 der Richtlinie (EU) 2018/1972 betreffen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) Durchführung von Analysen der potenziellen länderübergreifenden Märkte gemäß Artikel 65 der Richtlinie (EU) 2018/1972 und der länderübergreifenden Endnutzernachfrage gemäß Artikel 66 jener Richtlinie;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) Beobachtung und Sammlung von Informationen und gegebenenfalls öffentliche Bereitstellung von aktuellen Informationen über die Anwendung der Verordnung (EU) 531/2012 gemäß den Artikeln 16 und 19 jener Verordnung;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) Berichterstattung über technische Fragen, die in seinen Zuständigkeitsbereich fallen, insbesondere i) über die praktische Anwendung der in Buchstaben c, d und e genannten Stellungnahmen und Leitlinien; ii) über bewährte Verfahren der Mitgliedstaaten zur Unterstützung der Bestimmung des angemessenen Breitbandinternetzugangsdienstes gemäß Artikel 84 der Richtlinie (EU) 2018/1972; iii) über die Entwicklung der Preise und Muster bei der Nutzung von Inlands- und Roamingdiensten, die Entwicklung der Großkunden-Roamingentgelte für unausgeglichenen Verkehr, das Verhältnis zwischen Endkundenpreisen, Großkundenentgelten und Großkundenkosten für Roamingdienste sowie die Transparenz und Vergleichbarkeit der Tarife gemäß Artikel 19 der Verordnung (EU) Nr. 531/2012; iv) über die Ergebnisse der gemäß Artikel 5 der Verordnung (EU) 2015/2120 von den NRB zu erstellenden jährlichen Berichte durch Veröffentlichung eines jährlichen Syntheseberichts; v) jährlich über die Marktentwicklungen im Bereich der elektronischen Kommunikation;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "k) Abfassung von Empfehlungen und gemeinsamen Standpunkten sowie Verbreitung bewährter Regulierungsverfahren für die NRB, um die bessere und kohärente Umsetzung des Rechtsrahmens für die elektronische Kommunikation zu fördern;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "l) Einrichtung und Pflege einer Datenbank für i) die den zuständigen Behörden von Unternehmen, die einer Allgemeingenehmigung unterliegen, übermittelten Meldungen gemäß Artikel 12 der Richtlinie (EU) 2018/1972; ii) die Nummerierungsressourcen mit Rechten zur exterritorialen Nutzung in der Union gemäß Artikel 93 Absatz 4 Unterabsatz 4 der Richtlinie (EU) 2018/1972; iii) gegebenenfalls E.164-Nummern der Notdienste der Mitgliedstaaten gemäß Artikel 109 Absatz 8 Unterabsatz 3 der Richtlinie (EU) 2018/1972;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "m) Beurteilung des Bedarfs an regulatorischen Innovationen und Koordinierung der Maßnahmen zwischen den NRB, um die Entwicklung neuer innovativer elektronischer Kommunikation zu ermöglichen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "n) Förderung der Modernisierung, Koordinierung und Standardisierung der Datenerfassung durch die NRB; solche Daten werden in einem offenen, wiederverwendbaren und maschinenlesbaren Format auf der Website des GEREK und dem europäischen Datenportal veröffentlicht, unbeschadet der Rechte des geistigen Eigentums, der Bestimmungen zum Schutz personenbezogener Daten und des erforderlichen Grads der Vertraulichkeit;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "o) Wahrnehmung anderer Aufgaben, die ihm durch Rechtsakte der Union, insbesondere die Verordnungen (EU) Nr. 531/2012 und (EU) 2015/2120 sowie die Richtlinie (EU) 2018/1972 zugewiesen werden.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(2) Das GEREK veröffentlicht seine Regulierungsaufgaben und aktualisiert diese Informationen, wenn ihm neue Aufgaben zugewiesen werden.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Das GEREK veröffentlicht alle seine abschließenden Stellungnahmen, Leitlinien, Berichte, Empfehlungen, gemeinsamen Standpunkte, bewährten Verfahren und alle in Auftrag gegebenen Untersuchungen sowie die relevanten Entwürfe von Dokumenten für den Zweck der in Absatz 5 genannten öffentlichen Anhörungen.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Unbeschadet der Einhaltung des einschlägigen Unionsrechts tragen die NRB und die Kommission allen Leitlinien, Stellungnahmen, Empfehlungen, gemeinsamen Standpunkten und bewährten Verfahren weitestgehend Rechnung, die vom GEREK mit dem Ziel verabschiedet wurden, eine einheitliche Umsetzung des Rechtsrahmens für die elektronische Kommunikation innerhalb des in Artikel 3 Absatz 1 genannten Geltungsbereichs zu gewährleisten. Weicht eine NRB von den in Absatz 1 Buchstabe e genannten Leitlinien ab, so begründet sie diese Abweichung.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Das GEREK konsultiert bei Bedarf die interessierten Parteien und gibt ihnen die Möglichkeit, innerhalb einer angemessenen Frist, die von der Komplexität der Angelegenheit abhängt, Stellung zu nehmen. Diese Frist beträgt, sofern nicht außergewöhnliche Umstände vorliegen, mindestens 30 Tage. Unbeschadet des Artikels 38 veröffentlicht das GEREK die Ergebnisse dieser öffentlichen Anhörungen. Derartige Anhörungen finden möglichst früh im Entscheidungsprozess statt.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) Das GEREK kann gegebenenfalls die jeweiligen nationalen Behörden wie etwa diejenigen, die für Wettbewerb, Verbraucherschutz und Datenschutz zuständig sind, konsultieren und mit ihnen zusammenarbeiten.",
+     "para": "",
+     "point": "6"
+    },
+    {
+     "text": "(7) Das GEREK kann gegebenenfalls gemäß Artikel 35 Absatz 1 mit den zuständigen Einrichtungen, sonstigen Stellen und Beratungsgruppen der Union sowie mit den zuständigen Behörden von Drittländern und mit internationalen Organisationen zusammenarbeiten.",
+     "para": "",
+     "point": "7"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_5",
+   "kind": "article",
+   "number": "5",
+   "label": "Artikel 5",
+   "title": "Aufgaben des GEREK-Büros",
+   "path": [
+    "KAPITEL III — AUFGABEN DES GEREK-BÜROS"
+   ],
+   "blocks": [
+    {
+     "text": "Das GEREK-Büro hat folgende Aufgaben:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) fachliche und administrative Unterstützung des GEREK, insbesondere bei der Erfüllung seiner Regulierungsaufgaben nach Artikel 4;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) Sammlung von Informationen von NRB und Austausch und Übermittlung von Informationen im Zusammenhang mit den Regulierungsaufgaben des GEREK nach Artikel 4;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) regelmäßige Erstellung von Entwürfen von Berichten zu bestimmten Aspekten der Entwicklung des europäischen elektronischen Kommunikationsmarkts auf der Grundlage der Informationen nach Buchstabe b, wie Berichte über das Roaming und die Aufstellung von Richtwerten, die an das GEREK übermittelt werden;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) Verbreitung bewährter Regulierungsverfahren unter den NRB gemäß Artikel 4 Absatz 1 Buchstabe k;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) Unterstützung des GEREK bei der Einrichtung und Pflege von Registern und Datenbanken gemäß Artikel 4 Absatz 1 Buchstabe l;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) Unterstützung des GEREK bei der Errichtung und Verwaltung eines Informations- und Kommunikationssystems gemäß Artikel 41;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) Unterstützung des GEREK bei der Durchführung öffentlicher Anhörungen gemäß Artikel 5 Absatz 4;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) Unterstützung bei der Vorbereitung der Arbeit und sonstige administrative sowie inhaltsbezogene Unterstützung zur Sicherstellung einer reibungslosen Tätigkeit des Regulierungsrats;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) Hilfe bei der Einrichtung von Arbeitsgruppen auf Antrag des Regulierungsrats, Beitrag zu den Regulierungstätigkeiten und administrative Unterstützung dieser Gruppen zur Sicherstellung ihres reibungslosen Funktionierens;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) Wahrnehmung anderer Aufgaben, die ihm durch diese Verordnung oder andere Rechtsakte der Union zugewiesen werden.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_6",
+   "kind": "article",
+   "number": "6",
+   "label": "Artikel 6",
+   "title": "Organisationsstruktur des GEREK",
+   "path": [
+    "KAPITEL IV — ORGANISATION DES GEREK"
+   ],
+   "blocks": [
+    {
+     "text": "Das GEREK besteht aus",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) einem Regulierungsrat;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) Arbeitsgruppen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_7",
+   "kind": "article",
+   "number": "7",
+   "label": "Artikel 7",
+   "title": "Zusammensetzung des Regulierungsrats",
+   "path": [
+    "KAPITEL IV — ORGANISATION DES GEREK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Der Regulierungsrat setzt sich aus je einem Mitglied pro Mitgliedstaat zusammen. Jedes Mitglied ist stimmberechtigt. Jedes Mitglied wird von der NRB benannt, die in erster Linie für die Beaufsichtigung des laufenden Marktgeschehens im Bereich der elektronischen Kommunikationsnetze und -dienste gemäß der Richtlinie (EU) 2018/1972 zuständig ist. Für die Benennung als Mitglied kommen der Vorsitzende der NRB oder ein Mitglied des NRB-Kollegiums bzw. deren Vertreter in Frage.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Jedes Mitglied des Regulierungsrats hat einen Stellvertreter, der von der NRB benannt wird. Der Stellvertreter vertritt das Mitglied in dessen Abwesenheit. Für die Benennung dieser Person kommen der Vorsitzende der NRB, ein Mitglied des NRB-Kollegiums, deren Vertreter oder ein Mitglied des Personals der NRB in Frage.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Die Mitglieder des Regulierungsrats und ihre Stellvertreter werden aufgrund ihrer Kenntnisse im Bereich der elektronischen Kommunikation unter Berücksichtigung einschlägiger Führungs-, Verwaltungs- und haushaltstechnischer Kompetenzen benannt. Um die Kontinuität der Arbeit des Regulierungsrats zu gewährleisten, bemühen sich alle NRB, die Benennungen vornehmen, um eine Begrenzung der Fluktuation ihrer Mitglieder, und nach Möglichkeit auch von deren Stellvertretern, und streben ein ausgewogenes Verhältnis zwischen Männern und Frauen an.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Die Kommission nimmt ohne Stimmrecht an allen Beratungen des Regulierungsrats teil und wird auf angemessen hoher Ebene vertreten.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Eine auf dem neuesten Stand befindliche Liste der Mitglieder des Regulierungsrats und ihrer Stellvertreter wird zusammen mit den jeweiligen Interessenerklärungen veröffentlicht.",
+     "para": "",
+     "point": "5"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_8",
+   "kind": "article",
+   "number": "8",
+   "label": "Artikel 8",
+   "title": "Unabhängigkeit des Regulierungsrats",
+   "path": [
+    "KAPITEL IV — ORGANISATION DES GEREK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Bei der Wahrnehmung der ihm übertragenen Aufgaben und unbeschadet dessen, dass seine Mitglieder im Namen ihrer jeweiligen NRB handeln, handelt der Regulierungsrat unabhängig und objektiv im Interesse der Union und lässt sich dabei nicht von bestimmten nationalen oder persönlichen Interessen leiten.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Unbeschadet der in Artikel 3 Absatz 6 genannten Koordinierung fordern die Mitglieder des Regulierungsrats und deren Vertreter keine Weisungen von Regierungen, Einrichtungen, Personen oder sonstigen Stellen an und nehmen auch keine Weisungen von diesen entgegen.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_9",
+   "kind": "article",
+   "number": "9",
+   "label": "Artikel 9",
+   "title": "Aufgaben des Regulierungsrats",
+   "path": [
+    "KAPITEL IV — ORGANISATION DES GEREK"
+   ],
+   "blocks": [
+    {
+     "text": "Der Regulierungsrat hat folgende Aufgaben:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) Erfüllung der Regulierungsaufgaben des GEREK gemäß Artikel 4, nämlich die Annahme der in diesem Artikel genannten Stellungnahmen, Leitlinien, Berichte, Empfehlungen und gemeinsamen Standpunkte sowie die Verbreitung bewährter Verfahren, wobei er sich auf die vorbereitende Arbeit der Arbeitsgruppen stützt;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) Treffen von Verwaltungsentscheidungen in Bezug auf die Organisation der Arbeit des GEREK;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) Annahme des in Artikel 21 genannten jährlichen Arbeitsprogramms des GEREK;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) Annahme des in Artikel 22 genannten Jahresberichts über die Tätigkeiten des GEREK;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) Annahme von Bestimmungen zur Vermeidung und Bewältigung von Interessenkonflikten gemäß Artikel 42, auch in Bezug auf die Mitglieder der Arbeitsgruppen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) Annahme von ausführlichen Bestimmungen über das Recht auf Zugang zu den im Besitz des GEREK befindlichen Dokumenten gemäß Artikel 36;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) Annahme der in Artikel 37 Absatz 2 genannten Kommunikations- und Verbreitungspläne und deren regelmäßige Aktualisierung auf der Grundlage einer Bedarfsanalyse;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) Annahme seiner Geschäftsordnung mit Zweidrittelmehrheit seiner Mitglieder und deren Veröffentlichung;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) Genehmigung des Abschlusses von Arbeitsvereinbarungen mit den zuständigen Einrichtungen, sonstigen Stellen und Beratungsgruppen der Union und mit den zuständigen Behörden von Drittländern und mit internationalen Organisationen, zusammen mit dem Direktor und gemäß Artikel 35;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) Einsetzung von Arbeitsgruppen und Ernennung der Vorsitzenden der Arbeitsgruppen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "k) Beratung des Direktors des GEREK-Büros hinsichtlich der Erfüllung der Aufgaben des GEREK-Büros.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_10",
+   "kind": "article",
+   "number": "10",
+   "label": "Artikel 10",
+   "title": "Vorsitzender und stellvertretende Vorsitzende des Regulierungsrats",
+   "path": [
+    "KAPITEL IV — ORGANISATION DES GEREK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Der Regulierungsrat ernennt mit Zweidrittelmehrheit seiner Mitglieder aus dem Kreis seiner Mitglieder einen Vorsitzenden und mindestens zwei stellvertretende Vorsitzende.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Einer der stellvertretenden Vorsitzenden tritt automatisch an die Stelle des Vorsitzenden, wenn dieser verhindert ist, seine Aufgaben zu erfüllen.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Die Amtszeit des Vorsitzenden beträgt ein Jahr und kann einmal verlängert werden. Damit die Kontinuität der Arbeit des GEREK gewahrt ist, übernimmt nach Möglichkeit der neue Vorsitzende vor Beginn seiner Amtszeit als Vorsitzender ein Jahr lang die Funktion eines stellvertretenden Vorsitzenden. Für den Fall, dass es dem neuen Vorsitzenden nicht möglich ist, vor Beginn seiner Amtszeit als Vorsitzender ein Jahr lang die Funktion eines stellvertretenden Vorsitzenden zu übernehmen, wird in der Geschäftsordnung ein kürzerer Zeitraum vorgesehen.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Unbeschadet der Rolle des Regulierungsrats in Bezug auf die Aufgaben des Vorsitzenden fordert der Vorsitzende keine Weisungen von Regierungen, Einrichtungen, Personen oder sonstigen Stellen an und nimmt auch keine Weisungen von diesen entgegen.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Der Vorsitzende erstattet dem Europäischen Parlament und dem Rat über die Erfüllung der Aufgaben des GEREK Bericht, wenn er dazu aufgefordert wird.",
+     "para": "",
+     "point": "5"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_11",
+   "kind": "article",
+   "number": "11",
+   "label": "Artikel 11",
+   "title": "Sitzungen des Regulierungsrats",
+   "path": [
+    "KAPITEL IV — ORGANISATION DES GEREK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Der Vorsitzende beruft die Sitzungen des Regulierungsrats ein und erstellt die Tagesordnungen dieser Sitzungen, die veröffentlicht werden.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Der Regulierungsrat hält jährlich mindestens zwei ordentliche Sitzungen ab. Außerordentliche Sitzungen werden auf Veranlassung des Vorsitzenden, auf Antrag von mindestens drei seiner Mitglieder oder auf Antrag der Kommission einberufen.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Der Direktor des GEREK-Büros nimmt an allen Beratungen teil, ist jedoch nicht stimmberechtigt.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Der Regulierungsrat kann jede Person, deren Stellungnahme von Interesse sein könnte, dazu einladen, als Beobachter an seinen Sitzungen teilzunehmen.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Die Mitglieder des Regulierungsrats und ihre Stellvertreter können nach Maßgabe seiner Geschäftsordnung bei den Sitzungen ihre Berater oder andere Sachverständige hinzuziehen.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) Die Sekretariatsgeschäfte des Regulierungsrats werden vom GEREK-Büro geführt.",
+     "para": "",
+     "point": "6"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_12",
+   "kind": "article",
+   "number": "12",
+   "label": "Artikel 12",
+   "title": "Abstimmungsregeln des Regulierungsrats",
+   "path": [
+    "KAPITEL IV — ORGANISATION DES GEREK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Der Regulierungsrat fasst Beschlüsse mit einfacher Mehrheit seiner Mitglieder, sofern in dieser Verordnung oder anderen Rechtsakten der Union nichts anderes festgelegt ist. Eine Mehrheit von zwei Dritteln der Mitglieder des Regulierungsrats ist für die Annahme der in Artikel 4 Absatz 1 Buchstabe c Ziffern ii und v genannten Stellungnahmen und der in Artikel 4 Absatz 1 Buchstabe d Ziffern i bis iv, vi, vii und x genannten Leitlinien erforderlich. Unbeschadet des Unterabsatzes 2 dieses Absatzes kann der Regulierungsrat mit einfacher Mehrheit im Einzelfall beschließen, mit einfacher Mehrheit die in Artikel 4 Absatz 1 Buchstabe c Ziffer ii dieser Verordnung genannten Stellungnahmen zu Maßnahmenentwürfen annehmen, die unter Artikel 73 Absatz 2 der Richtlinie (EU) 2018/1972 fallen und die zur Einleitung des Verfahrens gemäß Artikel 33 Absatz 5 jener Richtlinie führen. Die Beschlüsse des Regulierungsrats werden veröffentlicht, wobei alle Vorbehalte von Mitgliedern auf deren Antrag angegeben werden.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Jedes Mitglied hat eine Stimme. Bei Abwesenheit eines Mitglieds ist der Stellvertreter berechtigt, dessen Stimmrecht auszuüben. Bei Abwesenheit eines Mitglieds und des Stellvertreters kann das Stimmrecht einem anderen Mitglied übertragen werden. Der Vorsitzende kann das Stimmrecht jederzeit übertragen. Der Vorsitzende nimmt an der Abstimmung teil, sofern er das Stimmrecht nicht übertragen hat.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) In der Geschäftsordnung des Regulierungsrats werden die Abstimmungsmodalitäten, einschließlich der Bedingungen, unter denen ein Mitglied im Namen eines anderen Mitglieds handeln kann, die Beschlussfähigkeit und die Fristen für die Einberufung von Sitzungen im Einzelnen geregelt. Außerdem wird in der Geschäftsordnung sichergestellt, dass die Mitglieder des Regulierungsrats die vollständigen Tagesordnungen und Entwürfe von Vorschlägen vor jeder Sitzung erhalten, damit sie die Möglichkeit haben, vor der Abstimmung Änderungen vorzuschlagen. In der Geschäftsordnung können unter anderem auch ein Verfahren für Abstimmungen in Dringlichkeitsfällen sowie andere praktische Maßnahmen für die Arbeit des Regulierungsrats festgelegt werden.",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_13",
+   "kind": "article",
+   "number": "13",
+   "label": "Artikel 13",
+   "title": "Arbeitsgruppen",
+   "path": [
+    "KAPITEL IV — ORGANISATION DES GEREK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) In begründeten Fällen und insbesondere zur Umsetzung des jährlichen Arbeitsprogramms des GEREK kann der Regulierungsrat Arbeitsgruppen einrichten.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Der Regulierungsrat ernennt die Vorsitzenden der Arbeitsgruppen, die nach Möglichkeit verschiedene NRB vertreten.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Die Arbeitsgruppen stehen Sachverständigen aus allen NRB, die sich an der Arbeit des GEREK beteiligen, und der Kommission zur Teilnahme offen. Die Arbeitsgruppen stehen auch dem Personal des GEREK-Büros, das zu den Regulierungstätigkeiten der Arbeitsgruppen beiträgt und sie in administrativer Hinsicht unterstützt, zur Teilnahme offen. An den Arbeitsgruppen, die zur Ausführung der in Artikel 4 Absatz 1 Buchstabe c Ziffer ii genannten Aufgaben eingerichtet werden, nehmen die Sachverständigen der Kommission nicht teil. In Arbeitsgruppen, die zur Durchführung der Aufgaben gemäß Artikel 4 Absatz 1 Buchstabe c Ziffern iv, vi, vii und viii, Buchstabe d Ziffern i, ii, ix, x und xi, Buchstabe j Ziffern ii und iii, Buchstabe l, sowie gegebenenfalls Artikel 4 Absatz 1 Buchstabe c Ziffer iii und Buchstabe j Ziffer i, dieser Verordnung eingerichtet werden, werden die Standpunkte von Sachverständigen aus anderen gemäß Artikel 5 Absatz 4 der Richtlinie (EU) 2018/1972 gemeldeten zuständigen Behörden berücksichtigt. Bei Bedarf können der Regulierungsrat oder die Vorsitzenden der Arbeitsgruppen einzelne auf dem jeweiligen Gebiet als sachkundig anerkannte Sachverständige auffordern, im Einzelfall an den Sitzungen der Arbeitsgruppen teilzunehmen.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Der Regulierungsrat nimmt Verfahrensvorschriften an, in denen die praktischen Modalitäten für die Arbeit der Arbeitsgruppen festgelegt sind.",
+     "para": "",
+     "point": "4"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_14",
+   "kind": "article",
+   "number": "14",
+   "label": "Artikel 14",
+   "title": "Organisationsstruktur des GEREK-Büros",
+   "path": [
+    "KAPITEL V — ORGANISATION DES GEREK-BÜROS"
+   ],
+   "blocks": [
+    {
+     "text": "Das GEREK-Büro besteht aus:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) einem Verwaltungsrat;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) einem Direktor.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_15",
+   "kind": "article",
+   "number": "15",
+   "label": "Artikel 15",
+   "title": "Zusammensetzung des Verwaltungsrats",
+   "path": [
+    "KAPITEL V — ORGANISATION DES GEREK-BÜROS"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Der Verwaltungsrat setzt sich aus den als Mitglieder des Regulierungsrats benannten Personen und einem hochrangigen Vertreter der Kommission zusammen. Jedes Mitglied des Verwaltungsrats ist stimmberechtigt. Jede benennende NRB gemäß Artikel 7 Absatz 1 Unterabsatz 2 kann eine Person, die kein Mitglied des Regulierungsrats ist, als Mitglied des Verwaltungsrats benennen. Diese Person ist entweder der Vorsitzende der NRB oder ein Mitglied des NRB-Kollegiums, oder deren jeweilige Vertreter.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Jedes Mitglied des Verwaltungsrates hat einen Stellvertreter, der das Mitglied in dessen Abwesenheit vertritt. Die Stellvertreter der Mitglieder sind die als Stellvertreter der Mitglieder des Regulierungsrats benannten Personen. Auch der Vertreter der Kommission hat einen Stellvertreter. Jede benennende NRB gemäß Artikel 7 Absatz 1 Unterabsatz 2 kann eine Person, die kein Stellvertreter eines Mitglieds des Regulierungsrats ist, als Stellvertreter eines Mitglieds des Verwaltungsrats benennen. Bei dieser Person handelt es sich um den Vorsitzenden der NRB, ein Mitglied des NRB-Kollegiums, deren jeweilige Vertreter oder ein Mitglied des Personals der NRB.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Die Mitglieder des Verwaltungsrats und deren Vertreter fordern keine Weisungen von Regierungen, Einrichtungen, Personen oder sonstigen Stellen an und nehmen auch keine Weisungen von diesen entgegen.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Eine aktualisierte Liste der Mitglieder des Verwaltungsrats und ihrer Stellvertreter wird zusammen mit den jeweiligen Interessenerklärungen veröffentlicht.",
+     "para": "",
+     "point": "4"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_16",
+   "kind": "article",
+   "number": "16",
+   "label": "Artikel 16",
+   "title": "Verwaltungsfunktionen des Verwaltungsrats",
+   "path": [
+    "KAPITEL V — ORGANISATION DES GEREK-BÜROS"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Der Verwaltungsrat nimmt folgende Verwaltungsfunktionen wahr:",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "a) Zurverfügungstellung allgemeiner Leitlinien für die Tätigkeit des GEREK-Büros, und jährliche Annahme des einzigen Programmplanungsdokuments des GEREK-Büros mit Zweidrittelmehrheit seiner Mitglieder nach Artikel 23 und unter Berücksichtigung der Stellungnahme der Kommission;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) Annahme des jährlichen Haushaltsplans des GEREK-Büros mit Zweidrittelmehrheit seiner Mitglieder, und Wahrnehmung anderer Aufgaben in Bezug auf den Haushaltsplan des GEREK-Büros gemäß Kapitel VII;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) Annahme, Veröffentlichung und Bewertung des in Artikel 27 genannten konsolidierten jährlichen Tätigkeitsberichts des GEREK-Büros sowie die Übermittlung des Berichts zusammen mit der Bewertung bis spätestens 1. Juli jedes Jahres an das Europäische Parlament, den Rat, die Kommission und den Rechnungshof;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) Annahme der für das GEREK-Büro geltenden Finanzregelung nach Artikel 29;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) Annahme einer Betrugsbekämpfungsstrategie, die, unter Berücksichtigung der Kosten und des Nutzens der durchzuführenden Maßnahmen, den Betrugsrisiken angemessen ist;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) Gewährleistung angemessener Folgemaßnahmen zu den Feststellungen und Empfehlungen der internen oder externen Prüfberichte und Bewertungen sowie den Untersuchungen des Europäischen Amtes für Betrugsbekämpfung (OLAF);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) Annahme von Bestimmungen zur Vermeidung und Bewältigung von Interessenkonflikten gemäß Artikel 42 Absatz 3;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) Annahme und regelmäßige Aktualisierung der in Artikel 37 Absatz 2 genannten Kommunikations- und Verbreitungspläne auf Grundlage einer Bedarfsanalyse;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) Annahme seiner Geschäftsordnung;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) Annahme von Durchführungsbestimmungen zum Statut der Beamten der Europäischen Union und zu den Beschäftigungsbedingungen für die sonstigen Bediensteten der Europäischen Union nach Artikel 110 des Beamtenstatuts;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "k) Ausübung der Befugnisse, die im Beamtenstatut der Anstellungsbehörde und in den Beschäftigungsbedingungen für die sonstigen Bediensteten der zum Abschluss von Dienstverträgen ermächtigten Behörde übertragen werden (im Folgenden „Befugnisse der Anstellungsbehörde“), unbeschadet des in Absatz 2 Unterabsatz 1 genannten Beschlusses in Bezug auf das Personal des GEREK-Büros;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "l) Ernennung des Direktors und gegebenenfalls die Verlängerung seiner Amtszeit oder seine Amtsenthebung nach Artikel 32;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "m) Ernennung eines Rechnungsführers, der dem Beamtenstatut und den Beschäftigungsbedingungen für die sonstigen Bediensteten unterliegt und in der Wahrnehmung seiner Aufgaben gänzlich unabhängig ist;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "n) Treffung sämtlicher Entscheidungen zur Schaffung und, falls notwendig, Änderung der internen Strukturen des GEREK-Büros, unter Berücksichtigung der tätigkeitsbedingten Erfordernisse des GEREK-Büros sowie im Interesse einer wirtschaftlichen Haushaltsführung; Im Hinblick auf Unterabsatz 1 Buchstabe m kann das GEREK-Büro denselben Rechnungsführer ernennen wie eine andere Einrichtung oder ein anderes Organ der Union. Insbesondere können das GEREK-Büro und die Kommission vereinbaren, dass der Rechnungsführer der Kommission auch als Rechnungsführer des GEREK-Büros fungiert.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(2) Der Verwaltungsrat erlässt nach Artikel 110 des Beamtenstatuts einen Beschluss auf der Grundlage des Artikels 2 Absatz 1 des Beamtenstatuts und des Artikels 6 der Beschäftigungsbedingungen für die sonstigen Bediensteten, mit dem die einschlägigen Befugnisse der Anstellungsbehörde dem Direktor übertragen und die Voraussetzungen festgelegt werden, unter denen diese Befugnisübertragung ausgesetzt werden kann. Der Direktor kann diese Befugnisse weiterübertragen. Wenn außergewöhnliche Umstände es erfordern kann der Verwaltungsrat die Übertragung von Befugnissen der Anstellungsbehörde auf den Direktor sowie die von diesem weiterübertragenen Befugnisse durch einen Beschluss vorübergehend aussetzen und die Befugnisse selbst ausüben oder sie einem seiner Mitglieder oder einem anderen Bediensteten als dem Direktor übertragen.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_17",
+   "kind": "article",
+   "number": "17",
+   "label": "Artikel 17",
+   "title": "Vorsitzender und stellvertretende Vorsitzende des Verwaltungsrats",
+   "path": [
+    "KAPITEL V — ORGANISATION DES GEREK-BÜROS"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Der Vorsitzende und die stellvertretenden Vorsitzenden des Verwaltungsrats sind die als Vorsitzender und als stellvertretende Vorsitzende des Regulierungsrats benannten Personen. Es gilt die gleiche Amtszeit. Abweichend von Unterabsatz 1 kann der Verwaltungsrat aus dem Kreis seiner die Mitgliedstaaten vertretenden Mitglieder mit Zweidrittelmehrheit seiner Mitglieder andere Mitglieder des Verwaltungsrats zum Vorsitzenden oder zu(m) stellvertretenden Vorsitzenden wählen. Ihre Amtszeit entspricht derjenigen des Vorsitzenden und der stellvertretenden Vorsitzenden des Regulierungsrats.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Einer der stellvertretenden Vorsitzenden tritt automatisch an die Stelle des Vorsitzenden, wenn dieser verhindert ist, seine Aufgaben zu erfüllen.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Der Vorsitzende des Verwaltungsrats erstattet dem Europäischen Parlament und dem Rat über die Erfüllung der Aufgaben des GEREK-Büros Bericht, wenn er dazu aufgefordert wird.",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_18",
+   "kind": "article",
+   "number": "18",
+   "label": "Artikel 18",
+   "title": "Sitzungen des Verwaltungsrats",
+   "path": [
+    "KAPITEL V — ORGANISATION DES GEREK-BÜROS"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Der Vorsitzende beruft die Sitzungen des Verwaltungsrats ein.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Der Direktor des GEREK-Büros nimmt an den Beratungen mit Ausnahme der Beratungen im Zusammenhang mit Artikel 32 teil, ist jedoch nicht stimmberechtigt.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Der Verwaltungsrat hält jährlich mindestens zwei ordentliche Sitzungen ab. Darüber hinaus beruft der Vorsitzende auf eigene Veranlassung, auf Antrag der Kommission oder auf Antrag von mindestens drei seiner Mitglieder außerordentliche Sitzungen ein.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Der Verwaltungsrat kann jede Person, deren Stellungnahme von Interesse sein könnte, als Beobachter zu seinen Sitzungen einladen.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Die Mitglieder des Verwaltungsrats und ihre Stellvertreter können nach Maßgabe der Geschäftsordnung des Verwaltungsrats bei den Sitzungen Berater oder Sachverständige hinzuziehen.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) Die Sekretariatsgeschäfte des Verwaltungsrats werden vom GEREK-Büro geführt.",
+     "para": "",
+     "point": "6"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_19",
+   "kind": "article",
+   "number": "19",
+   "label": "Artikel 19",
+   "title": "Abstimmungsregeln des Verwaltungsrats",
+   "path": [
+    "KAPITEL V — ORGANISATION DES GEREK-BÜROS"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Sofern in dieser Verordnung nichts anderes bestimmt ist, fasst der Verwaltungsrat seine Beschlüsse mit einfacher Mehrheit seiner Mitglieder.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Jedes Mitglied hat eine Stimme. Bei Abwesenheit eines Mitglieds ist der Stellvertreter berechtigt, dessen Stimmrecht auszuüben. Bei Abwesenheit eines Mitglieds und des Stellvertreters können die Stimmrechte einem anderen Mitglied übertragen werden.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Der Vorsitzende kann sein Stimmrecht jederzeit übertragen. Er nimmt an der Abstimmung teil, sofern er seine Stimmrechte nicht übertragen hat.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) In der Geschäftsordnung des Verwaltungsrats werden detailliertere Abstimmungsmodalitäten festgelegt, insbesondere das Verfahren für Abstimmungen in Dringlichkeitsfällen und die Voraussetzungen, unter denen ein Mitglied im Namen eines anderen Mitglieds handeln kann.",
+     "para": "",
+     "point": "4"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_20",
+   "kind": "article",
+   "number": "20",
+   "label": "Artikel 20",
+   "title": "Zuständigkeiten des Direktors",
+   "path": [
+    "KAPITEL V — ORGANISATION DES GEREK-BÜROS"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Der Direktor ist für die Verwaltung des GEREK-Büros zuständig. Der Direktor ist gegenüber dem Verwaltungsrat rechenschaftspflichtig.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Der Direktor unterstützt den Vorsitzenden des Regulierungsrats und den Vorsitzenden des Verwaltungsrats bei der Vorbereitung der Sitzungen ihrer jeweiligen Gremien.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Unbeschadet der Befugnisse des Regulierungsrats, des Verwaltungsrats und der Kommission übt der Direktor sein Amt unabhängig aus; er fordert keine Weisungen von Regierungen, Einrichtungen, Personen oder sonstigen Stellen an und nimmt auch keine Weisungen von diesen entgegen.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Der Direktor erstattet dem Europäischen Parlament und dem Rat über seine Tätigkeit Bericht, wenn er dazu aufgefordert wird.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Der Direktor ist der gesetzliche Vertreter des GEREK-Büros.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) Der Direktor trägt gemäß den Maßgaben des Regulierungsrats und des Verwaltungsrats die Verantwortung für die Durchführung der Aufgaben des GEREK-Büros. Der Direktor ist insbesondere dafür zuständig,",
+     "para": "",
+     "point": "6"
+    },
+    {
+     "text": "a) die laufenden Geschäfte des GEREK-Büros zu führen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) die Verwaltungsbeschlüsse des Regulierungsrats und des Verwaltungsrats umzusetzen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) das einzige Programmplanungsdokument nach Artikel 23 auszuarbeiten und dem Verwaltungsrat vorzulegen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) den Regulierungsrat bei der Ausarbeitung des in Artikel 22 genannten Jahresberichts über die Tätigkeiten des GEREK zu unterstützen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) den Regulierungsrat bei der Ausarbeitung des in Artikel 21 genannten jährlichen Arbeitsprogramms des GEREK zu unterstützen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) das einzige Programmplanungsdokument umzusetzen und dem Verwaltungsrat über dessen Umsetzung Bericht zu erstatten;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) den Entwurf des in Artikel 27 genannten konsolidierten jährlichen Berichts über die Tätigkeit des GEREK-Büros auszuarbeiten und dem Verwaltungsrat zur Bewertung und Annahme vorzulegen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) einen Aktionsplan auf der Grundlage der Schlussfolgerungen interner oder externer Prüfberichte und Bewertungen sowie der Untersuchungen des OLAF zu erstellen und dem Verwaltungsrat mindestens einmal jährlich über die erzielten Fortschritte Bericht zu erstatten;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) die finanziellen Interessen der Union durch vorbeugende Maßnahmen gegen Betrug, Korruption und sonstige rechtswidrige Handlungen, durch wirksame Kontrollen sowie, falls Unregelmäßigkeiten festgestellt werden, durch Einziehung rechtsgrundlos gezahlter Beträge und gegebenenfalls durch Anwendung wirksamer, verhältnismäßiger und abschreckender verwaltungsrechtlicher Maßnahmen einschließlich finanzieller Sanktionen zu schützen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) eine Betrugsbekämpfungsstrategie für das GEREK-Büro auszuarbeiten und dem Verwaltungsrat zur Genehmigung vorzulegen;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "k) den Entwurf der für das GEREK-Büro geltenden Finanzregelung auszuarbeiten;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "l) einen Entwurf des Voranschlags der Einnahmen und Ausgaben des GEREK-Büros auszuarbeiten und den Haushaltsplan des GEREK-Büros auszuführen.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "m) zusammen mit dem Regulierungsrat nach Artikel 35 den Abschluss von Arbeitsvereinbarungen mit den zuständigen Einrichtungen, sonstigen Stellen und Beratungsgruppen der Union sowie mit den zuständigen Behörden von Drittländern und mit internationalen Organisationen zu genehmigen.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(7) Der Direktor trifft unter der Aufsicht des Verwaltungsrats die erforderlichen Maßnahmen, insbesondere im Hinblick auf den Erlass interner Verwaltungsanweisungen und die Veröffentlichung von Mitteilungen, damit das Funktionieren des GEREK-Büros gemäß dieser Verordnung sichergestellt ist.",
+     "para": "",
+     "point": "7"
+    },
+    {
+     "text": "(8) Der Direktor entscheidet vorbehaltlich der vorherigen Zustimmung der Kommission, des Verwaltungsrats und des betreffenden Mitgliedstaats bzw. der betreffenden Mitgliedstaaten darüber, ob es erforderlich ist, einen oder mehrere Bedienstete in einen oder mehrere Mitgliedstaaten zu entsenden, damit das GEREK-Büro seine Aufgaben in effizienter und wirksamer Weise wahrnehmen kann. In dem Beschluss wird der Umfang der durchzuführenden Tätigkeiten so festgelegt, dass unnötige Kosten und eine Überschneidung der Verwaltungsfunktionen mit denen des GEREK-Büros vermieden werden. Bevor ein solcher Beschluss gefasst wird, müssen seine Auswirkungen hinsichtlich der Personalzuweisung und des Haushalts in dem mehrjährigen Programmplanungsdokument nach Artikel 23 Absatz 4 dargelegt werden.",
+     "para": "",
+     "point": "8"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_21",
+   "kind": "article",
+   "number": "21",
+   "label": "Artikel 21",
+   "title": "Jährliches Arbeitsprogramms des GEREK",
+   "path": [
+    "KAPITEL VI — PROGRAMMPLANUNG DES GEREK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Der Regulierungsrat nimmt den Entwurf des jährlichen Arbeitsprogramms bis zum 31. Januar des Jahres an, das demjenigen vorausgeht, auf das sich das jährliche Arbeitsprogramm bezieht. Nach Anhörung des Europäischen Parlaments, des Rates und der Kommission zu den von ihnen als vorrangig betrachteten Aspekten und nach Anhörung weiterer interessierter Parteien gemäß Artikel 4 Absatz 5 nimmt der Regulierungsrat bis zum 31. Dezember jenes Jahres das endgültige jährliche Arbeitsprogramm an.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Der Regulierungsrat übermittelt das jährliche Arbeitsprogramm dem Europäischen Parlament, dem Rat und der Kommission, sobald es angenommen ist.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_22",
+   "kind": "article",
+   "number": "22",
+   "label": "Artikel 22",
+   "title": "Jährlicher Tätigkeitsbericht des GEREK",
+   "path": [
+    "KAPITEL VI — PROGRAMMPLANUNG DES GEREK"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Der Regulierungsrat nimmt den Jahresbericht über die Tätigkeiten des GEREK an.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Der Regulierungsrat übermittelt den jährlichen Tätigkeitsbericht bis spätestens 15. Juni jedes Jahres dem Europäischen Parlament, dem Rat, der Kommission und dem Europäischen Wirtschafts- und Sozialausschuss.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_23",
+   "kind": "article",
+   "number": "23",
+   "label": "Artikel 23",
+   "title": "Jährliche und mehrjährige Programmplanung",
+   "path": [
+    "KAPITEL VII — HAUSHALTSPLAN UND PROGRAMMPLANUNG DES GEREK-BÜROS"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Der Direktor erstellt jedes Jahr einen Entwurf des Programmplanungsdokuments mit der jährlichen und mehrjährigen Programmplanung (im Folgenden „einziges Programmplanungsdokument“) im Einklang mit Artikel 32 der Delegierten Verordnung (EU) Nr. 1271/2013, unter Berücksichtigung der von der Kommission festgelegten Leitlinien. Der Verwaltungsrat nimmt bis zum 31. Januar jedes Jahres den Entwurf des einzigen Programmplanungsdokuments an und leitet ihn zur Stellungnahme an die Kommission weiter. Der Entwurf des einzigen Programmplanungsdokuments wird auch dem Europäischen Parlament und dem Rat übermittelt. Unter Berücksichtigung der Stellungnahme der Kommission nimmt der Verwaltungsrat anschließend das einzige Programmplanungsdokument an. Der Verwaltungsrat übermittelt das einzige Programmplanungsdokument sowie jede aktualisierte Fassung dem Europäischen Parlament, dem Rat und der Kommission. Das einzige Programmplanungsdokument wird nach der Feststellung des Gesamthaushaltsplans der Union endgültig und ist, falls notwendig, entsprechend anzupassen.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Das jährliche Programmplanungsdokument umfasst die detaillierten Ziele und die erwarteten Ergebnisse sowie die Leistungsindikatoren. Ferner enthält es eine Beschreibung der zu finanzierenden Maßnahmen sowie eine Aufstellung der den einzelnen Maßnahmen zugewiesenen finanziellen und personellen Ressourcen gemäß den Grundsätzen der tätigkeitsbezogenen Aufstellung des Haushaltsplans und des maßnahmenbezogenen Managements gemäß Artikel 31. Das jährliche Programmplanungsdokument steht mit dem Entwurf des jährlichen Arbeitsprogramms des GEREK, mit dem endgültigen jährlichen Arbeitsprogramm nach Artikel 21 und mit dem mehrjährigen Programmplanungsdokument des GEREK-Büros nach Absatz 4 im Einklang. Im jährlichen Programmplanungsdokument wird klar angegeben, welche Aufgaben im Vergleich zum vorangegangenen Haushaltsjahr hinzugefügt, verändert oder gestrichen wurden.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Der Verwaltungsrat ändert erforderlichenfalls das jährliche Programmplanungsdokument nach Annahme des in Artikel 21 genannten endgültigen jährlichen Arbeitsprogramms des GEREK und jedes Mal, wenn dem GEREK oder dem GEREK-Büro eine neue Aufgabe zugewiesen wird. Wesentliche Änderungen des jährlichen Programmplanungsdokuments werden nach demselben Verfahren wie das ursprüngliche jährliche Programmplanungsdokument angenommen. Der Verwaltungsrat kann die Befugnis zur Vornahme nicht wesentlicher Änderungen am jährlichen Programmplanungsdokument dem Direktor übertragen.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Im mehrjährigen Programmplanungsdokument wird die strategische Gesamtplanung einschließlich Zielen, erwarteten Ergebnissen und Leistungsindikatoren festgelegt. Es umfasst auch die Ressourcenplanung, einschließlich der Mehrjahreshaushalts- und -personalplanung. Die Ressourcenplanung wird jährlich aktualisiert. Die strategische Programmplanung wird bei Bedarf aktualisiert, insbesondere zur Berücksichtigung der Ergebnisse der Bewertung nach Artikel 48.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Das einzige Programmplanungsdokument des GEREK-Büros umfasst die Umsetzung der Strategie des GEREK nach Artikel 35 Absatz 3 für die Beziehungen zu den zuständigen Einrichtungen, sonstigen Stellen und Beratungsgruppen der Union, den zuständigen Behörden von Drittländern und zu internationalen Organisationen, und die mit dieser Strategie verknüpften Maßnahmen, sowie eine Angabe der entsprechenden Ressourcen.",
+     "para": "",
+     "point": "5"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_24",
+   "kind": "article",
+   "number": "24",
+   "label": "Artikel 24",
+   "title": "Aufstellung des Haushaltsplans",
+   "path": [
+    "KAPITEL VII — HAUSHALTSPLAN UND PROGRAMMPLANUNG DES GEREK-BÜROS"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Der Direktor erstellt jedes Jahr einen vorläufigen Entwurf des Voranschlags der Einnahmen und Ausgaben des GEREK-Büros (im Folgenden „Entwurf des Voranschlags“) für das folgende Haushaltsjahr, einschließlich des Stellenplans, und übermittelt ihn dem Verwaltungsrat. Die Angaben im Entwurf des Voranschlags steht mit den Angaben im Entwurf des in Artikel 23 Absatz 1 genannten einzigen Programmplanungsdokuments im Einklang.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Der Direktor übermittelt den Entwurf des Voranschlags der Kommission bis zum 31. Januar jedes Jahres.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Die Kommission übermittelt den Entwurf des Voranschlags zusammen mit dem Entwurf des Gesamthaushaltsplans der Union der Haushaltsbehörde.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Auf der Grundlage des Entwurfs des Voranschlags setzt die Kommission die von ihr für erforderlich erachteten Mittelansätze für den Stellenplan und den Beitrag aus dem Gesamthaushaltsplan in den Entwurf des Gesamthaushaltsplans der Union ein, den sie gemäß den Artikeln 313 und 314 des Vertrags über die Arbeitsweise der Europäischen Union (AEUV) der Haushaltsbehörde vorlegt.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Die Haushaltsbehörde bewilligt die Mittel für den Beitrag für das GEREK-Büro.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) Die Haushaltsbehörde genehmigt den Stellenplan des GEREK-Büros.",
+     "para": "",
+     "point": "6"
+    },
+    {
+     "text": "(7) Der Verwaltungsrat erlässt den Haushaltsplan des GEREK-Büros. Der Haushaltsplan wird endgültig, wenn der Gesamthaushaltsplan der Union endgültig festgestellt ist. Gegebenenfalls wird er entsprechend angepasst.",
+     "para": "",
+     "point": "7"
+    },
+    {
+     "text": "(8) Für Immobilienvorhaben, die voraussichtlich erhebliche Auswirkungen auf den Haushalt des GEREK-Büros haben, gilt die Delegierte Verordnung (EU) Nr. 1271/2013.",
+     "para": "",
+     "point": "8"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_25",
+   "kind": "article",
+   "number": "25",
+   "label": "Artikel 25",
+   "title": "Gliederung des Haushaltsplans",
+   "path": [
+    "KAPITEL VII — HAUSHALTSPLAN UND PROGRAMMPLANUNG DES GEREK-BÜROS"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Für jedes Haushaltsjahr — das dem Kalenderjahr entspricht — wird ein Voranschlag aller Einnahmen und Ausgaben des GEREK-Büros erstellt und im Haushaltsplan des GEREK-Büros ausgewiesen.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Der Haushalt des GEREK-Büros muss in Bezug auf Einnahmen und Ausgaben ausgeglichen sein.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Unbeschadet anderer Finanzmittel umfassen die Einnahmen des GEREK-Büros a) einen Beitrag der Union; b) etwaige freiwillige Finanzbeiträge der Mitgliedstaaten oder der NRB; c) Entgelte für Veröffentlichungen und andere vom GEREK-Büro erbrachte Dienstleistungen; d) etwaige Beiträge von Drittländern oder von für den Bereich der elektronischen Kommunikation zuständigen Regulierungsbehörden von Drittländern, die sich nach Artikel 35 an der Arbeit des GEREK-Büros beteiligen.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Die Ausgaben des GEREK-Büros umfassen die Bezüge des Personals, die Verwaltungs- und Infrastrukturausgaben sowie die operativen Ausgaben.",
+     "para": "",
+     "point": "4"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_26",
+   "kind": "article",
+   "number": "26",
+   "label": "Artikel 26",
+   "title": "Ausführung des Haushaltsplans",
+   "path": [
+    "KAPITEL VII — HAUSHALTSPLAN UND PROGRAMMPLANUNG DES GEREK-BÜROS"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Der Direktor führt den Haushaltsplan des GEREK-Büros aus.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Jedes Jahr übermittelt der Direktor dem Europäischen Parlament und dem Rat alle Informationen, die für die Ergebnisse von Bewertungsverfahren von Belang sind.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_27",
+   "kind": "article",
+   "number": "27",
+   "label": "Artikel 27",
+   "title": "Konsolidierter jährlicher Tätigkeitsbericht",
+   "path": [
+    "KAPITEL VII — HAUSHALTSPLAN UND PROGRAMMPLANUNG DES GEREK-BÜROS"
+   ],
+   "blocks": [
+    {
+     "text": "Der Verwaltungsrat nimmt die konsolidierten jährlichen Tätigkeitsberichte im Einklang mit Artikel 47 der Delegierten Verordnung (EU) Nr. 1271/2013 unter Berücksichtigung der von der Kommission festgelegten Leitlinien an.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_28",
+   "kind": "article",
+   "number": "28",
+   "label": "Artikel 28",
+   "title": "Rechnungslegung und Entlastung",
+   "path": [
+    "KAPITEL VII — HAUSHALTSPLAN UND PROGRAMMPLANUNG DES GEREK-BÜROS"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Der Rechnungsführer des GEREK-Büros übermittelt dem Rechnungsführer der Kommission und dem Rechnungshof den vorläufigen Rechnungsabschluss für das laufende Haushaltsjahr bis zum 1. März des folgenden Haushaltsjahrs.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Das GEREK-Büro übermittelt dem Europäischen Parlament, dem Rat und dem Rechnungshof den Bericht über die Haushaltsführung und das Finanzmanagement bis zum 31. März des folgenden Haushaltsjahres.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Nach Eingang der Bemerkungen des Rechnungshofs zum vorläufigen Rechnungsabschluss des GEREK-Büros erstellt der Rechnungsführer des GEREK-Büros in eigener Verantwortung den endgültigen Rechnungsabschluss des GEREK-Büros. Der Direktor legt den endgültigen Rechnungsabschluss dem Verwaltungsrat zur Stellungnahme vor.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Der Verwaltungsrat gibt eine Stellungnahme zum endgültigen Rechnungsabschluss des GEREK-Büros ab.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Der Direktor übermittelt dem Europäischen Parlament, dem Rat, der Kommission und dem Rechnungshof den endgültigen Rechnungsabschluss zusammen mit der Stellungnahme des Verwaltungsrats bis zum 1. Juli nach dem Ende jedes Haushaltsjahrs.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) Das GEREK-Büro veröffentlicht den endgültigen Rechnungsabschluss bis zum 15. November des folgenden Jahres im Amtsblatt der Europäischen Union.",
+     "para": "",
+     "point": "6"
+    },
+    {
+     "text": "(7) Der Direktor übermittelt dem Rechnungshof bis zum 30. September des folgenden Haushaltsjahres eine Antwort auf dessen Bemerkungen. Der Direktor übermittelt diese Antwort auch dem Verwaltungsrat.",
+     "para": "",
+     "point": "7"
+    },
+    {
+     "text": "(8) Der Direktor unterbreitet dem Europäischen Parlament auf Anfrage alle Informationen, die für ein reibungsloses Entlastungsverfahren für das betreffende Haushaltsjahr im Einklang mit Artikel 165 Absatz 3 der Verordnung (EU, Euratom) 2018/1046 des Europäischen Parlaments und des Rates erforderlich sind.",
+     "para": "",
+     "point": "8"
+    },
+    {
+     "text": "(9) Auf Empfehlung des Rates, der mit qualifizierter Mehrheit beschließt, erteilt das Europäische Parlament dem Direktor vor dem 15. Mai des Jahres n+2 Entlastung für die Ausführung des Haushaltsplans des Haushaltsjahrs n.",
+     "para": "",
+     "point": "9"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_29",
+   "kind": "article",
+   "number": "29",
+   "label": "Artikel 29",
+   "title": "Finanzregelung",
+   "path": [
+    "KAPITEL VII — HAUSHALTSPLAN UND PROGRAMMPLANUNG DES GEREK-BÜROS"
+   ],
+   "blocks": [
+    {
+     "text": "Der Verwaltungsrat erlässt nach Anhörung der Kommission die für das GEREK-Büro geltende Finanzregelung. Diese darf von der Delegierten Verordnung (EU) Nr. 1271/2013 nur abweichen, wenn eine solche Abweichung für den Betrieb des GEREK-Büros erforderlich ist und die Kommission vorher ihre Zustimmung erteilt hat.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_30",
+   "kind": "article",
+   "number": "30",
+   "label": "Artikel 30",
+   "title": "Allgemeine Bestimmung",
+   "path": [
+    "KAPITEL VIII — PERSONAL DES GEREK-BÜROS"
+   ],
+   "blocks": [
+    {
+     "text": "Für das Personal des GEREK-Büros gelten das Beamtenstatut und die Beschäftigungsbedingungen für die sonstigen Bediensteten sowie die im gegenseitigen Einvernehmen der Organe der Union erlassenen Regelungen zur Durchführung dieser Bestimmungen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_31",
+   "kind": "article",
+   "number": "31",
+   "label": "Artikel 31",
+   "title": "Anzahl der Bediensteten des GEREK-Büros",
+   "path": [
+    "KAPITEL VIII — PERSONAL DES GEREK-BÜROS"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Entsprechend dem Grundsatz des maßnahmenbezogenen Personalmanagements wird das GEREK-Büro mit dem für die Erfüllung seiner Aufgaben notwendigen Personal ausgestattet.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Die Anzahl der Bediensteten und die entsprechenden finanziellen Ressourcen werden gemäß Artikel 23 Absätze 2 und 4 und Artikel 24 Absatz 1 vorgeschlagen, unter Berücksichtigung des Artikels 5 Buchstabe a und aller sonstigen Aufgaben, die dem GEREK-Büro durch diese Verordnung oder durch andere Unionsrechtsakte zugewiesen werden, sowie der Notwendigkeit, die für alle dezentralen Agenturen der Union geltenden Vorschriften einzuhalten.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_32",
+   "kind": "article",
+   "number": "32",
+   "label": "Artikel 32",
+   "title": "Ernennung des Direktors",
+   "path": [
+    "KAPITEL VIII — PERSONAL DES GEREK-BÜROS"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Der Direktor wird als Zeitbediensteter des GEREK-Büros gemäß Artikel 2 Buchstabe a der Beschäftigungsbedingungen für die sonstigen Bediensteten eingestellt.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Der Direktor wird vom Verwaltungsrat nach einem offenen, transparenten Auswahlverfahren aufgrund seiner Leistung, seiner Management-, Verwaltungs- und Haushaltsführungskompetenzen sowie seiner für elektronische Kommunikationsnetze und -dienste relevanten Fähigkeiten und Erfahrungen ernannt. Die Liste der Bewerber darf nicht vom Vorsitzenden oder einem stellvertretenden Vorsitzenden allein vorgeschlagen werden. In der Geschäftsordnung des Verwaltungsrats werden die Modalitäten für ein Verfahren zur Erstellung einer Auswahlliste der in die engere Wahl kommenden Bewerber und für ein Abstimmungsverfahren im Einzelnen geregelt.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Für den Abschluss des Vertrags mit dem Direktor wird das GEREK-Büro durch den Vorsitzenden des Verwaltungsrats vertreten.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Vor der Ernennung wird der vom Verwaltungsrat ausgewählte Bewerber aufgefordert, vor dem zuständigen Ausschuss des Europäischen Parlaments eine Erklärung abzugeben und Fragen der Ausschussmitglieder zu beantworten.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Die Amtszeit des Direktors beträgt fünf Jahre. Am Ende dieses Zeitraums nimmt der Vorsitzende des Verwaltungsrats unter Berücksichtigung einer Evaluierung der Leistung des Direktors und der Aufgaben und Herausforderungen des GEREK-Büros eine Bewertung vor. Diese Bewertung wird dem Europäischen Parlament und dem Rat übermittelt.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) Der Verwaltungsrat kann die Amtszeit des Direktors unter Berücksichtigung der Bewertung nach Absatz 5 einmal um höchstens fünf Jahre verlängern.",
+     "para": "",
+     "point": "6"
+    },
+    {
+     "text": "(7) Der Verwaltungsrat unterrichtet das Europäische Parlament, falls er beabsichtigt, die Amtszeit des Direktors zu verlängern. Innerhalb eines Monats vor der Verlängerung der Amtszeit kann der Direktor aufgefordert werden, vor dem zuständigen Ausschuss des Europäischen Parlaments eine Erklärung abzugeben und Fragen der Ausschussmitglieder zu beantworten.",
+     "para": "",
+     "point": "7"
+    },
+    {
+     "text": "(8) Ein Direktor, dessen Amtszeit verlängert wurde, darf am Ende des Gesamtzeitraums nicht an einem weiteren Auswahlverfahren für dieselbe Stelle teilnehmen.",
+     "para": "",
+     "point": "8"
+    },
+    {
+     "text": "(9) Wird die Amtszeit des Direktors nicht verlängert, so bleibt der Direktor auf Beschluss des Verwaltungsrats über die ursprüngliche Amtszeit hinaus bis zur Ernennung eines Nachfolgers im Amt.",
+     "para": "",
+     "point": "9"
+    },
+    {
+     "text": "(10) Der Direktor kann seines Amtes nur aufgrund eines Beschlusses des Verwaltungsrats auf Vorschlag eines Mitglieds enthoben werden.",
+     "para": "",
+     "point": "10"
+    },
+    {
+     "text": "(11) Der Verwaltungsrat beschließt über die Ernennung, die Verlängerung der Amtszeit und die Amtsenthebung des Direktors mit einer Abstimmung mit der Zweidrittelmehrheit seiner Mitglieder.",
+     "para": "",
+     "point": "11"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_33",
+   "kind": "article",
+   "number": "33",
+   "label": "Artikel 33",
+   "title": "Abgeordnete nationale Sachverständige und sonstiges Personal",
+   "path": [
+    "KAPITEL VIII — PERSONAL DES GEREK-BÜROS"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Das GEREK-Büro kann auf abgeordnete nationale Sachverständige oder sonstiges nicht vom GEREK-Büro selbst beschäftigtes Personal zurückgreifen. Für dieses Personal gelten das Statut der Beamten und die Beschäftigungsbedingungen für die sonstigen Bediensteten nicht.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Der Verwaltungsrat beschließt eine Regelung für die Abordnung nationaler Sachverständiger zum GEREK-Büro.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_34",
+   "kind": "article",
+   "number": "34",
+   "label": "Artikel 34",
+   "title": "Vorrechte und Befreiungen",
+   "path": [
+    "KAPITEL IX — ALLGEMEINE BESTIMMUNGEN"
+   ],
+   "blocks": [
+    {
+     "text": "Das Protokoll über die Vorrechte und Befreiungen der Europäischen Union findet auf das GEREK-Büro und sein Personal Anwendung.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_35",
+   "kind": "article",
+   "number": "35",
+   "label": "Artikel 35",
+   "title": "Zusammenarbeit mit Einrichtungen der Union, Drittländern und internationalen Organisationen",
+   "path": [
+    "KAPITEL IX — ALLGEMEINE BESTIMMUNGEN"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Unbeschadet der Zuständigkeiten der Mitgliedstaaten und der Organe der Union können das GEREK und das GEREK-Büro mit den zuständigen Einrichtungen, sonstigen Stellen und Beratungsgruppen der Union, den zuständigen Behörden von Drittländern und mit internationalen Organisationen zusammenarbeiten, sofern dies zur Verwirklichung der Ziele dieser Verordnung und zur Erfüllung ihrer Aufgaben erforderlich ist. Zu diesem Zweck können das GEREK und das GEREK-Büro nach vorheriger Genehmigung durch die Kommission Arbeitsvereinbarungen treffen. Diese Vereinbarungen schaffen keine rechtlichen Verpflichtungen.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Der Regulierungsrat, die Arbeitsgruppen und der Verwaltungsrat stehen der Beteiligung von primär für die elektronische Kommunikation zuständigen Regulierungsbehörden von Drittländern offen, wenn diese Drittländer entsprechende Übereinkünfte mit der Union getroffen haben. Gemäß den einschlägigen Bestimmungen dieser Übereinkünfte werden Arbeitsvereinbarungen geschlossen, die insbesondere Art, Ausmaß und Art und Weise der Beteiligung der Regulierungsbehörden der betreffenden Drittländer an der Arbeit des GEREK und des GEREK-Büros betreffen, wozu auch Bestimmungen über die Teilnahme an Initiativen des GEREK und über Finanzbeiträge und Personal für das GEREK-Büro gehören, wobei diese Behörden nicht stimmberechtigt sind. In Personalfragen müssen derartige Vereinbarungen in jedem Fall mit dem Beamtenstatut vereinbar sein.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) In Rahmen des jährlichen Arbeitsprogramms gemäß Artikel 21 verabschiedet der Regulierungsrat die Strategie des GEREK für die Beziehungen zu den zuständigen Einrichtungen, sonstigen Stellen und Beratungsgruppen der Union, den zuständigen Behörden von Drittländern und zu internationalen Organisationen in Angelegenheiten, für die das GEREK zuständig ist. Die Kommission, das GEREK und das GEREK-Büro schließen eine entsprechende Arbeitsvereinbarung, um zu gewährleisten, dass das GEREK und das GEREK-Büro im Rahmen ihres Mandats und des vorhandenen institutionellen Rahmens handeln.",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_36",
+   "kind": "article",
+   "number": "36",
+   "label": "Artikel 36",
+   "title": "Zugang zu Dokumenten und Datenschutz",
+   "path": [
+    "KAPITEL IX — ALLGEMEINE BESTIMMUNGEN"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Für Dokumente im Besitz des GEREK und des GEREK-Büros gilt die Verordnung (EG) Nr. 1049/2001 des Europäischen Parlaments und des Rates.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Der Regulierungsrat und der Verwaltungsrat erlassen bis zum 21. Juni 2019 ausführliche Bestimmungen für die Anwendung der Verordnung (EG) Nr. 1049/2001.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Die Verarbeitung personenbezogener Daten durch das GEREK und das GEREK-Büro unterliegt der Verordnung (EU) 2018/1725.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Der Regulierungsrat und der Verwaltungsrat treffen bis zum 21. Juni 2019 Maßnahmen für die Anwendung der Verordnung (EU) 2018/1725 durch das GEREK und das GEREK-Büro, einschließlich Maßnahmen zur Bestellung eines Datenschutzbeauftragten des GEREK-Büros. Diese Maßnahmen werden nach Anhörung des Europäischen Datenschutzbeauftragten getroffen.",
+     "para": "",
+     "point": "4"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_37",
+   "kind": "article",
+   "number": "37",
+   "label": "Artikel 37",
+   "title": "Transparenz und Kommunikation",
+   "path": [
+    "KAPITEL IX — ALLGEMEINE BESTIMMUNGEN"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Das GEREK und das GEREK-Büro üben ihre Tätigkeiten mit einem hohen Maß an Transparenz aus. Das GEREK und das GEREK-Büro stellen sicher, dass die Öffentlichkeit und interessierte Parteien angemessene, objektive, zuverlässige und leicht zugängliche Informationen erhalten, insbesondere in Bezug auf ihre Aufgaben und die Ergebnisse ihrer Arbeit.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Das GEREK kann mit Unterstützung des GEREK-Büros und im Einklang mit den einschlägigen Kommunikations- und Verbreitungsplänen des Regulierungsrats innerhalb seines Zuständigkeitsbereichs von sich aus Kommunikationstätigkeiten durchführen. Die Zuweisung von Mitteln für eine solche Unterstützung für Kommunikationstätigkeiten innerhalb des Haushalts des GEREK-Büros darf sich nicht nachteilig auf die wirksame Erfüllung der in Artikel 4 genannten Aufgaben des GEREK oder der in Artikel 5 genannten Aufgaben des GEREK-Büros auswirken. Die Kommunikationstätigkeiten des GEREK-Büros müssen mit den einschlägigen vom Verwaltungsrat angenommenen Kommunikations- und Verbreitungsplänen im Einklang stehen.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_38",
+   "kind": "article",
+   "number": "38",
+   "label": "Artikel 38",
+   "title": "Vertraulichkeit",
+   "path": [
+    "KAPITEL IX — ALLGEMEINE BESTIMMUNGEN"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Unbeschadet des Artikels 36 Absatz 1 und des Artikels 40 Absatz 2 geben das GEREK und das GEREK-Büro Informationen, die bei ihnen eingehen oder von ihnen verarbeitet werden und die auf begründetes Ersuchen ganz oder teilweise vertraulich behandelt werden sollen, nicht an Dritte weiter.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Die Mitglieder und andere Teilnehmer an den Sitzungen des Regulierungsrats, des Verwaltungsrats und der Arbeitsgruppen, der Direktor, die abgeordneten nationalen Sachverständigen und das sonstige nicht vom GEREK-Büro selbst beschäftigte Personal unterliegen auch nach Beendigung ihrer Tätigkeit den Vertraulichkeitsverpflichtungen nach Artikel 339 AEUV.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Der Regulierungsrat und der Verwaltungsrat legen die praktischen Maßnahmen für die Anwendung der in den Absätzen 1 und 2 enthaltenen Regelungen über die Vertraulichkeit fest.",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_39",
+   "kind": "article",
+   "number": "39",
+   "label": "Artikel 39",
+   "title": "Sicherheitsvorschriften für den Schutz von Verschlusssachen und nicht als Verschlusssache eingestuften vertraulichen Informationen",
+   "path": [
+    "KAPITEL IX — ALLGEMEINE BESTIMMUNGEN"
+   ],
+   "blocks": [
+    {
+     "text": "Das GEREK und das GEREK-Büro erlassen eigene Sicherheitsvorschriften, die den in den Beschlüssen (EU, Euratom) 2015/443 und (EU, Euratom) 2015/444 der Kommission festgelegten Sicherheitsvorschriften der Kommission zum Schutz von EU-Verschlusssachen und nicht als Verschlusssache eingestuften vertraulichen Informationen, zu denen unter anderem Bestimmungen über den Austausch, die Verarbeitung und die Speicherung solcher Informationen gehören, gleichwertig sind. Alternativ kann das GEREK oder das GEREK-Büro beschließen, die Vorschriften der Kommission sinngemäß anzuwenden.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_40",
+   "kind": "article",
+   "number": "40",
+   "label": "Artikel 40",
+   "title": "Informationsaustausch",
+   "path": [
+    "KAPITEL IX — ALLGEMEINE BESTIMMUNGEN"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Auf ein begründetes Ersuchen des GEREK oder des GEREK-Büros stellen die Kommission und die im Regulierungsrat vertretenen NRB sowie andere zuständige Behörden dem GEREK oder dem GEREK-Büro zeitnah und präzise alle Informationen zur Verfügung, die diese zur Wahrnehmung ihrer Aufgaben benötigen, vorausgesetzt, sie haben rechtmäßigen Zugang zu den einschlägigen Informationen und das Informationsersuchen ist angesichts der Art der betreffenden Aufgabe erforderlich. Das GEREK oder das GEREK-Büro kann außerdem darum ersuchen, dass ihnen diese Informationen in regelmäßigen Abständen und in vorgegebenen Formaten zur Verfügung gestellt werden. Für diese Ersuchen werden soweit möglich gemeinsame Berichtsformate verwendet.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Auf ein begründetes Ersuchen der Kommission oder einer NRB stellt das GEREK oder das GEREK-Büro nach dem Grundsatz der loyalen Zusammenarbeit zeitnah und präzise jegliche Informationen zur Verfügung, die die Kommission, die NRB oder eine andere zuständige Behörde zur Wahrnehmung ihrer Aufgaben benötigt. Werden Informationen vom GEREK oder vom GEREK-Büro als vertraulich angesehen, stellen die Kommission, die NRB oder die andere zuständige Behörde eine entsprechende vertrauliche Behandlung gemäß dem Unionsrecht und dem nationalen Recht, einschließlich der Verordnung (EG) Nr. 1049/2001, sicher. Durch die Wahrung des Geschäftsgeheimnisses wird eine rechtzeitige Weitergabe von Informationen nicht verhindert.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Das GEREK oder das GEREK-Büro berücksichtigt zur Vermeidung doppelter Berichtspflichten alle einschlägigen öffentlich zugänglichen Informationen, bevor Informationen gemäß diesem Artikel angefordert werden.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Werden die Informationen von den NRB nicht rechtzeitig zur Verfügung gestellt, kann das GEREK oder das GEREK-Büro ein begründetes Ersuchen entweder an andere NRB und andere zuständige Behörden des betreffenden Mitgliedstaats oder direkt an die betreffenden Unternehmen richten, die elektronische Kommunikationsnetze und -dienste sowie zugehörige Einrichtungen anbieten. Das GEREK oder das GEREK-Büro unterrichtet die NRB, die keine Informationen bereitgestellt haben, über Ersuchen nach Unterabsatz 1. Auf Ersuchen des GEREK oder des GEREK-Büros unterstützen die NRB das GEREK bei der Einholung der Informationen.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Die Mitgliedstaaten stellen sicher, dass die NRB und andere zuständige Behörden die Befugnis haben, andere zuständige nationale Behörden bzw. Unternehmen, die elektronische Kommunikationsnetze und -dienste, zugehörige Einrichtungen oder zugehörige Dienste anbieten, zur Vorlage aller Informationen aufzufordern, die sie für die Wahrnehmung ihrer Aufgaben gemäß diesem Artikel benötigen. Die anderen zuständigen nationalen Behörden bzw. Unternehmen gemäß Unterabsatz 1 stellen diese Informationen auf Anfrage umgehend sowie gemäß dem verlangten Zeitplan und Detaillierungsgrad zur Verfügung. Die Mitgliedstaaten stellen sicher, dass die NRB und andere zuständige Behörden befugt sind, solche Informationsersuchen durch die Verhängung angemessener, wirksamer, verhältnismäßiger und abschreckender Sanktionen durchzusetzen.",
+     "para": "",
+     "point": "5"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_41",
+   "kind": "article",
+   "number": "41",
+   "label": "Artikel 41",
+   "title": "Informations- und Kommunikationssystem",
+   "path": [
+    "KAPITEL IX — ALLGEMEINE BESTIMMUNGEN"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Das GEREK-Büro errichtet und verwaltet ein Informations- und Kommunikationssystem, das zumindest die folgenden Funktionen bietet: a) eine gemeinsame Plattform für den Austausch von Informationen, auf der dem GEREK, der Kommission und den NRB die für eine einheitliche Anwendung des Rechtsrahmens der Union für elektronische Kommunikation erforderlichen Informationen bereitgestellt werden; b) eine dedizierte Schnittstelle für Informationsersuchen und die Meldung solcher Ersuchen gemäß Artikel 40 für den Zugang durch das GEREK, das GEREK-Büro, die Kommission und die NRB; c) eine Plattform für die frühzeitige Feststellung des Koordinierungsbedarfs zwischen den NRB.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Der Verwaltungsrat erlässt die funktionellen und technischen Spezifikationen zum Zwecke der Errichtung des Informations- und Kommunikationssystems gemäß Absatz 1. Dieses System wird unter Beachtung der Rechte des geistigen Eigentums und der gebotenen Vertraulichkeit geführt.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Das Informations- und Kommunikationssystem ist spätestens bis zum 21. Juni 2020 einsatzbereit.",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_42",
+   "kind": "article",
+   "number": "42",
+   "label": "Artikel 42",
+   "title": "Interessenerklärung",
+   "path": [
+    "KAPITEL IX — ALLGEMEINE BESTIMMUNGEN"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Die Mitglieder des Regulierungsrats und des Verwaltungsrats, der Direktor, die abgeordneten nationalen Sachverständigen und das sonstige nicht vom GEREK-Büro selbst beschäftigte Personal geben eine schriftliche Verpflichtungserklärung ab, aus der auch hervorgeht, ob direkte oder indirekte Interessen bestehen, die ihre Unabhängigkeit beeinträchtigen könnten. Solche Erklärungen werden bei der Aufnahme einer Tätigkeit abgegeben, müssen der Wahrheit entsprechen und vollständig sein, und müssen aktualisiert werden, wenn die Gefahr besteht, dass ein direktes oder indirektes Interesse vorliegt, das die Unabhängigkeit der Person, die diese Erklärung abgibt, beeinträchtigen könnte. Die Erklärungen der Mitglieder des Regulierungsrats, der Mitglieder des Verwaltungsrats sowie des Direktors werden veröffentlicht.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Die Mitglieder des Regulierungsrats, des Verwaltungsrats und der Arbeitsgruppen sowie sonstige Teilnehmer an den Sitzungen, der Direktor, die abgeordneten nationalen Sachverständigen und das sonstige nicht vom GEREK-Büro selbst beschäftigte Personal geben spätestens zu Beginn jeder Sitzung eine wahrheitsgetreue und vollständige Erklärung über alle Interessen ab, die ihre Unabhängigkeit in Bezug auf die Tagesordnungspunkte beeinträchtigen könnten, und beteiligen sich nicht an den Diskussionen und den Abstimmungen über solche Punkte.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Der Regulierungsrat und der Verwaltungsrat legen die Regeln für die Vermeidung und Bewältigung von Interessenkonflikten und insbesondere die praktischen Maßnahmen für die Anwendung der in den Absätzen 1 und 2 enthaltenen Bestimmungen fest.",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_43",
+   "kind": "article",
+   "number": "43",
+   "label": "Artikel 43",
+   "title": "Betrugsbekämpfung",
+   "path": [
+    "KAPITEL IX — ALLGEMEINE BESTIMMUNGEN"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Zur Erleichterung der Bekämpfung von Betrug, Korruption und sonstigen rechtswidrigen Handlungen nach der Verordnung (EU, Euratom) Nr. 883/2013 des Europäischen Parlaments und des Rates tritt das GEREK-Büro spätestens bis zum 21. Juni 2019 der Interinstitutionellen Vereinbarung vom 25. Mai 1999 zwischen dem Europäischen Parlament, dem Rat der Europäischen Union und der Kommission der Europäischen Gemeinschaften über die internen Untersuchungen des Europäischen Amtes für Betrugsbekämpfung (OLAF) bei und verabschiedet nach dem Muster in der Anlage der Institutionellen Vereinbarung die entsprechenden Bestimmungen, die für das gesamt Personal des GEREK-Büros gelten.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Der Rechnungshof ist befugt, bei allen Empfängern, Auftragnehmern und Unterauftragnehmern, die vom GEREK-Büro Unionsmittel erhalten haben, anhand von Unterlagen und Überprüfungen vor Ort Rechnungsprüfungen durchzuführen.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Das OLAF kann gemäß den Bestimmungen und Verfahren der Verordnung (EU, Euratom) Nr. 883/2013 und der Verordnung (Euratom, EG) Nr. 2185/96 des Rates Untersuchungen einschließlich Kontrollen und Überprüfungen vor Ort durchführen, um festzustellen, ob im Zusammenhang mit vom GEREK-Büro finanzierten Finanzhilfevereinbarungen, Finanzhilfebeschlüssen oder Verträgen ein Betrugs- oder Korruptionsdelikt oder eine sonstige rechtswidrige Handlung zum Nachteil der finanziellen Interessen der Union vorliegt.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Unbeschadet der Absätze 1 bis 3 enthalten Kooperationsvereinbarungen mit Drittländern und internationalen Organisationen, Verträge, Finanzhilfevereinbarungen und Finanzhilfebeschlüsse Bestimmungen, die den Rechnungshof und das OLAF ausdrücklich ermächtigen, solche Rechnungsprüfungen und Untersuchungen gemäß ihren jeweiligen Zuständigkeiten durchzuführen.",
+     "para": "",
+     "point": "4"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_44",
+   "kind": "article",
+   "number": "44",
+   "label": "Artikel 44",
+   "title": "Haftung",
+   "path": [
+    "KAPITEL IX — ALLGEMEINE BESTIMMUNGEN"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Die vertragliche Haftung des GEREK-Büros bestimmt sich nach dem Recht, das auf den betreffenden Vertrag anzuwenden ist.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Für Entscheidungen aufgrund einer Schiedsklausel in einem vom GEREK-Büro geschlossenen Vertrag ist der Gerichtshof der Europäischen Union (im Folgenden „Gerichtshof“) zuständig.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Im Bereich der außervertraglichen Haftung ersetzt das GEREK-Büro die von seinen Dienststellen oder seinen Bediensteten in Ausübung ihrer Tätigkeit verursachten Schäden nach den allgemeinen Rechtsgrundsätzen, die den Rechtsordnungen der Mitgliedstaaten gemeinsam sind.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Für Streitigkeiten über den in Absatz 3 genannten Schadenersatz ist der Gerichtshof zuständig.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Die persönliche Haftung der Bediensteten gegenüber dem GEREK-Büro bestimmt sich nach den für sie geltenden Vorschriften des Beamtenstatuts bzw. der Beschäftigungsbedingungen für die sonstigen Bediensteten.",
+     "para": "",
+     "point": "5"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_45",
+   "kind": "article",
+   "number": "45",
+   "label": "Artikel 45",
+   "title": "Verwaltungsuntersuchungen",
+   "path": [
+    "KAPITEL IX — ALLGEMEINE BESTIMMUNGEN"
+   ],
+   "blocks": [
+    {
+     "text": "Die Tätigkeit des GEREK und des GEREK-Büros wird vom Europäischen Bürgerbeauftragten gemäß Artikel 228 AEUV kontrolliert.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_46",
+   "kind": "article",
+   "number": "46",
+   "label": "Artikel 46",
+   "title": "Sprachenregelung",
+   "path": [
+    "KAPITEL IX — ALLGEMEINE BESTIMMUNGEN"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Für das GEREK-Büro gilt die Verordnung Nr. 1.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Die für die Arbeit des GEREK-Büros erforderlichen Übersetzungsleistungen werden vom Übersetzungszentrum für die Einrichtungen der Europäischen Union erbracht.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_47",
+   "kind": "article",
+   "number": "47",
+   "label": "Artikel 47",
+   "title": "Sitzabkommen und Arbeitsbedingungen",
+   "path": [
+    "KAPITEL X — SCHLUSSBESTIMMUNGEN"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Die Regelungen über die Unterbringung des GEREK-Büros im Sitzmitgliedstaat und über die Einrichtungen, die von diesem Mitgliedstaat zur Verfügung zu stellen sind, sowie die besonderen Vorschriften, die im Sitzmitgliedstaat für den Direktor, die Mitglieder des Verwaltungsrats, das Personal des GEREK-Büros und die Familienangehörigen dieser Personen gelten, werden in einem Sitzabkommen festgelegt, das nach Genehmigung durch den Verwaltungsrat zwischen dem GEREK-Büro und dem Sitzmitgliedstaat spätestens am 21. Dezember 2020 geschlossen wird.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Der Sitzmitgliedstaat gewährleistet die erforderlichen Voraussetzungen für das reibungslose und effiziente Funktionieren des GEREK-Büros, einschließlich eines mehrsprachigen und europäisch ausgerichteten schulischen Angebots und geeigneter Verkehrsanbindungen.",
+     "para": "",
+     "point": "2"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_48",
+   "kind": "article",
+   "number": "48",
+   "label": "Artikel 48",
+   "title": "Bewertung",
+   "path": [
+    "KAPITEL X — SCHLUSSBESTIMMUNGEN"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Bis zum 21. Dezember 2023 und danach alle fünf Jahre führt die Kommission im Einklang mit den Leitlinien der Kommission eine Bewertung durch, um die Leistung des GEREK und des GEREK-Büros in Bezug auf ihre Ziele, ihr Mandat, ihre Aufgaben und ihren Standort zu beurteilen. Gegenstand der Bewertung sind insbesondere das etwaige Erfordernis, die Struktur oder das Mandat des GEREK und des GEREK-Büros zu ändern, und die finanziellen Auswirkungen einer solchen Änderung.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Kommt die Kommission zu dem Schluss, dass Ziele, Mandat und Aufgaben des GEREK oder des GEREK-Büros sein Fortbestehen nicht länger rechtfertigen, kann sie eine entsprechende Änderung oder Aufhebung dieser Verordnung vorschlagen.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Die Kommission legt dem Europäischen Parlament, dem Rat und dem Verwaltungsrat einen Bericht über die Ergebnisse ihrer Bewertung vor und veröffentlicht diese.",
+     "para": "",
+     "point": "3"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_49",
+   "kind": "article",
+   "number": "49",
+   "label": "Artikel 49",
+   "title": "Übergangsbestimmungen",
+   "path": [
+    "KAPITEL X — SCHLUSSBESTIMMUNGEN"
+   ],
+   "blocks": [
+    {
+     "text": "(1) Das GEREK-Büro ist in Bezug auf das Eigentum und alle Übereinkünfte, rechtlichen Verpflichtungen, Beschäftigungsverträge, finanziellen Verpflichtungen und Verbindlichkeiten Rechtsnachfolger des durch die Verordnung (EG) Nr. 1211/2009 errichteten Büros. Diese Verordnung berührt insbesondere nicht die Rechte und Pflichten des Personals des Büros. Die Arbeitsverträge des Personals können im Rahmen dieser Verordnung im Einklang mit dem Beamtenstatut und den Beschäftigungsbedingungen für die sonstigen Bediensteten sowie nach Maßgabe der verfügbaren Haushaltsmittel des GEREK-Büros verlängert werden.",
+     "para": "",
+     "point": "1"
+    },
+    {
+     "text": "(2) Mit Wirkung vom 20. Dezember 2018 fungiert der auf der Grundlage der Verordnung (EG) Nr. 1211/2009 ernannte Verwaltungsdirektor als Direktor und nimmt die Aufgaben gemäß dieser Verordnung wahr. Die sonstigen Bedingungen des Vertrags des Verwaltungsdirektors bleiben unverändert.",
+     "para": "",
+     "point": "2"
+    },
+    {
+     "text": "(3) Der Verwaltungsrat kann beschließen, die Amtszeit des in Absatz 2 dieses Artikels genannten Direktors um eine weitere Amtszeit zu verlängern. Artikel 32 Absätze 5 und 6 gelten sinngemäß. Die gesamte Amtsdauer des Direktors darf insgesamt zehn Jahre nicht überschreiten.",
+     "para": "",
+     "point": "3"
+    },
+    {
+     "text": "(4) Der Regulierungsrat und der Verwaltungsrat gemäß den Artikeln 7 und 15 der vorliegenden Verordnung setzen sich aus den Mitgliedern des Regulierungsrats und des Verwaltungsausschusses gemäß den Artikeln 4 und 7 der Verordnung (EG) Nr. 1211/2009 zusammen, bis neue Vertreter ernannt werden.",
+     "para": "",
+     "point": "4"
+    },
+    {
+     "text": "(5) Der Vorsitzende und die stellvertretenden Vorsitzenden des Regulierungsrats und des Verwaltungsrats, die auf der Grundlage der Verordnung (EG) Nr. 1211/2009 ernannt wurden, bleiben während der verbleibenden Dauer ihrer einjährigen Amtszeit als Vorsitzender und stellvertretende Vorsitzende des Regulierungsrats nach Artikel 10 der vorliegenden Verordnung bzw. als Vorsitzender und stellvertretende Vorsitzende des Verwaltungsrats nach Artikel 17 der vorliegenden Verordnung im Amt. Ernennungen von Vorsitzenden und stellvertretenden Vorsitzenden des Regulierungsrates und des Verwaltungsausschusses auf der Grundlage der Verordnung (EG) Nr. 1211/2009, die vor dem 20. Dezember 2018 vorgenommen wurden und über dieses Datum hinausreichen, behalten ihre Gültigkeit.",
+     "para": "",
+     "point": "5"
+    },
+    {
+     "text": "(6) Das Haushaltsentlastungsverfahren für den auf der Grundlage von Artikel 11 der Verordnung (EG) Nr. 1211/2009 genehmigten Haushaltsplan erfolgt gemäß den Bestimmungen jener Verordnung.",
+     "para": "",
+     "point": "6"
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_50",
+   "kind": "article",
+   "number": "50",
+   "label": "Artikel 50",
+   "title": "Änderung der Verordnung (EU) 2015/2120",
+   "path": [
+    "KAPITEL X — SCHLUSSBESTIMMUNGEN"
+   ],
+   "blocks": [
+    {
+     "text": "Die Verordnung (EU) 2015/2120 wird wie folgt geändert:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "1. Der Titel erhält folgende Fassung: „Verordnung (EU) 2015/2120 des Europäischen Parlaments und des Rates vom 25. November 2015 über Maßnahmen zum Zugang zum offenen Internet und zu Endkundenentgelten für regulierte intra-EU-Kommunikation sowie zur Änderung der Richtlinie 2002/22/EG und der Verordnung (EU) Nr. 531/2012“",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. In Artikel 1 wird folgender Absatz angefügt: „(3) Mit dieser Verordnung werden ferner gemeinsame Regeln festgelegt, um sicherzustellen, dass den Verbrauchern keine überhöhten Preise für die nummerngebundene interpersonelle Kommunikation in Rechnung gestellt werden, die der Verbraucher aus dem Mitgliedstaat seines inländischen Anbieters zu einer Festnetz- oder Mobilfunknummer in einem anderen Mitgliedstaat tätigt.“",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. In Artikel 2 Absatz 2 werden folgende Nummern angefügt: „3. ‚regulierte intra-EU-Kommunikation‘: ein nummerngebundener interpersoneller Kommunikationsdienst mit Kommunikation aus dem Mitgliedstaat des inländischen Anbieters des Verbrauchers zu einer Festnetz- oder Mobilfunknummer des nationalen Nummerierungsplans eines anderen Mitgliedstaats, der ganz oder teilweise auf der Grundlage der tatsächlichen Nutzung abgerechnet wird; 4. ‚nummerngebundener interpersoneller Kommunikationsdienst‘: ein nummerngebundener interpersoneller Kommunikationsdienst im Sinne des Artikels 2 Nummer 6 der Richtlinie (EU) 2018/1972 des Europäischen Parlaments und des Rates. (*1) Richtlinie (EU) 2018/1972 des Europäischen Parlaments und des Rates vom 11. Dezember 2018 zur Festlegung des Europäischen Kodex für die elektronische Kommunikation (ABl. L 321 vom 17.12.2018, S. 36).“ \"",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Folgender Artikel wird eingefügt: „Artikel 5a Endkundenentgelte für regulierte intra-EU-Kommunikation (1) Ab dem 15. Mai 2019 dürfen Endkundenpreise (ohne MwSt.), die Verbrauchern für regulierte intra-EU-Kommunikation berechnet werden, 0,19 EUR pro Minute für Anrufe und 0,06 EUR je SMS nicht überschreiten. (2) Ungeachtet der Verpflichtungen gemäß Absatz 1 können Anbieter regulierter intra-EU-Kommunikation zusätzlich einen den Verbrauchern alternativ zur ausdrücklich Wahl zur Verfügung stehenden Tarif für internationale Kommunikation, einschließlich regulierter intra-EU-Kommunikation, anbieten, bei dem es sich nicht um den Tarif gemäß Absatz 1 handelt und in dessen Rahmen Verbraucher einen anderen Tarif für regulierte intra-EU-Kommunikation nutzen können, als sie ohne diese Wahlmöglichkeit erhalten hätten. Bevor Verbraucher einen solchen anderen Tarif wählen, unterrichtet der Anbieter regulierter intra-EU-Kommunikation diese darüber, welcher Art die Vorteile sind, die sie dadurch verlieren würden. (3) Überschreitet ein Tarif für regulierte intra-EU-Kommunikation gemäß Absatz 2 die in Absatz 1 festgelegten Obergrenzen, so erhalten Verbraucher, die nicht innerhalb von zwei Monaten ab dem 15. Mai 2019 ihre Entscheidung für einen Tarif gemäß Absatz 2 bestätigt oder sich entsprechend geäußert haben, automatisch die in Absatz 1 vorgesehenen Tarife. (4) Verbraucher können innerhalb eines Arbeitstages nach Eingang des Antrags beim Anbieter aus einem oder in einen Tarif gemäß Absatz 1 kostenfrei wechseln, wobei die Anbieter sicherstellen, dass ein solcher Wechsel keine Bedingungen oder Einschränkungen in Bezug auf andere Bestandteile des Vertrags als die regulierte intra-EU-Kommunikation nach sich zieht. (5) Soweit die Höchstpreise gemäß Absatz 1 in einer anderen Währung als dem Euro angegeben werden, sind die zunächst geltenden Obergrenzen in diesen Währungen anhand der durchschnittlichen Referenzwechselkurse festzulegen, die am 15. Januar, 15. Februar und 15. März 2019 von der Europäischen Zentralbank im Amtsblatt der Europäischen Union veröffentlicht werden. Die in anderen Währungen als dem Euro angegebenen Obergrenzen werden ab 2020 jährlich überprüft. Die jährlich überprüften Obergrenzen gelten ab 15. Mai, wobei die am 15. Januar, 15. Februar und 15. März desselben Jahres veröffentlichten Referenzwechselkurse angewendet werden. (6) Die nationalen Regulierungsbehörden überwachen den Markt und die Preisentwicklungen für regulierte intra-EU-Kommunikation und erstatten der Kommission Bericht. Wenn der Anbieter einer regulierten intra-EU-Kommunikation nachweist, dass aufgrund besonderer und außergewöhnlicher Umstände, die ihn von den meisten anderen Anbietern in der Union unterscheiden, die Anwendung der in Absatz 1 genannten Obergrenzen erhebliche Auswirkungen auf seine Fähigkeit hätte, seine geltenden Preise für inländische Kommunikation aufrechtzuerhalten, kann eine nationale Regulierungsbehörde auf Antrag des Anbieters eine Ausnahme von Absatz 1 gewähren; dies ist auf das erforderliche Maß begrenzt und erfolgt für einen erneuerbaren Zeitraum von einem Jahr. Die Bewertung der Tragfähigkeit des inländischen Entgeltmodells muss sich auf relevante objektive Faktoren, die speziell für den Anbieter regulierter intra-EU-Kommunikation gelten, sowie auf das Niveau der Inlandspreise und -erlöse stützen. Hat sich der antragstellende Anbieter der betreffenden Beweislast entledigt, so bestimmt die nationale Regulierungsbehörde das maximale Preisniveau oberhalb eines oder beider Obergrenzen gemäß Absatz 1, welches unabdingbar ist, um die Tragfähigkeit des inländischen Entgeltmodells des Anbieters zu gewährleisten. Das GEREK veröffentlicht Leitlinien für die Parameter, die von den nationalen Regulierungsbehörden bei ihren Bewertungen zu berücksichtigen sind.“",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. In Artikel 6 wird folgender Absatz angefügt: „Die Mitgliedstaaten erlassen für Verstöße gegen Artikel 5a Vorschriften über Sanktionen und treffen alle zu deren Anwendung erforderlichen Maßnahmen. Die Sanktionen müssen wirksam, verhältnismäßig und abschreckend sein. Die Mitgliedstaaten melden der Kommission die zur Gewährleistung der Anwendung des Artikels 5a erlassenen Vorschriften und Maßnahmen bis zum 15. Mai 2019 und melden ihr spätere Änderungen unverzüglich.“",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. In Artikel 10 wird folgender Absatz angefügt: „(5) Die Geltungsdauer von Artikel 5a endet am 14. Mai 2024.“",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_51",
+   "kind": "article",
+   "number": "51",
+   "label": "Artikel 51",
+   "title": "Aufhebung",
+   "path": [
+    "KAPITEL X — SCHLUSSBESTIMMUNGEN"
+   ],
+   "blocks": [
+    {
+     "text": "Die Verordnung (EG) Nr. 1211/2009 wird aufgehoben.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Bezugnahmen auf die aufgehobene Verordnung gelten als Bezugnahmen auf die vorliegende Verordnung und sind nach Maßgabe der Entsprechungstabelle im Anhang zu lesen.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_52",
+   "kind": "article",
+   "number": "52",
+   "label": "Artikel 52",
+   "title": "Inkrafttreten",
+   "path": [
+    "KAPITEL X — SCHLUSSBESTIMMUNGEN"
+   ],
+   "blocks": [
+    {
+     "text": "Diese Verordnung tritt am dritten Tag nach ihrer Veröffentlichung im Amtsblatt der Europäischen Union in Kraft.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "anx_1",
+   "kind": "annex",
+   "number": "1",
+   "label": "ANHANG",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Entsprechungstabelle",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Verordnung (EG) Nr. 1211/2009 Vorliegende Verordnung Artikel 1 Absatz 1 Artikel 1 Artikel 1 Absatz 2 Artikel 3 Absatz 1 Artikel 1 Absatz 3 Artikel 3 Absätze 2 und 3 Artikel 1 Absatz 4 Artikel 3 Absatz 4 und Artikel 4 Absatz 1 Buchstaben a und b Artikel 2 Artikel 4 Artikel 3 Artikel 4 Artikel 4 Absatz 1 Artikel 6 Artikel 4 Absatz 2 Artikel 7 Absätze 1, 2 und 4, Artikel 8 Absätze 1 und 2 Artikel 4 Absatz 3 Artikel 11 Absätze 4 und 5 und Artikel 36 Artikel 4 Absatz 4 Artikel 10 Absätze 1, 2 und 3 Artikel 4 Absatz 5 Artikel 10 Absatz 4 Artikel 4 Absatz 6 Artikel 11 Artikel 4 Absatz 7 Artikel 13 Artikel 4 Absatz 8 Artikel 7 Absatz 4 Artikel 4 Absatz 9 Artikel 12 Absätze 1 und 2 Artikel 4 Absatz 10 Artikel 12 Absatz 3 Artikel 4 Absatz 11 Artikel 5 Artikel 5 Artikel 4 Artikel 6 Absatz 1 Artikel 2 Absatz 1 Artikel 6 Absatz 2 Artikel 5 Artikel 6 Absatz 3 Artikel 14 Absatz 1 Artikel 6 Absatz 4 Artikel 2 Absatz 2 Artikel 6 Absatz 5 Artikel 20 und 31 Artikel 7 Absatz 1 Artikel 15 Absatz 1 Artikel 7 Absatz 2 Artikel 32 Artikel 7 Absatz 3 Artikel 20 Absatz 6 Artikel 7 Absatz 4 Artikel 16 Absatz 1 Buchstabe k Artikel 7 Absatz 5 Artikel 13 Artikel 8 Artikel 32 Artikel 9 Artikel 20 Artikel 10 Absatz 1 Artikel 30 und 34 Artikel 10 Absatz 2 Artikel 16 Absatz 1 Buchstabe j Artikel 10 Absatz 3 Artikel 16 Absatz 2 Artikel 10 Absatz 4 Artikel 33 Artikel 11 Artikel 25 Artikel 12 Artikel 24 Artikel 13 Artikel 26 Artikel 14 — Artikel 15 Artikel 29 Artikel 16 Artikel 43 Artikel 17 Artikel 4 Absatz 5 Artikel 18 Artikel 37 Artikel 19 Artikel 39 und 40 Artikel 20 Artikel 38 Artikel 21 Artikel 42 Artikel 22 Artikel 36 Artikel 23 Artikel 34 Artikel 24 Artikel 44 Artikel 25 Artikel 48 Artikel 26 Artikel 52",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  }
+ ]
+}

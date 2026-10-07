@@ -1,0 +1,2822 @@
+{
+ "document": "berec",
+ "version": "original",
+ "lang": "ES",
+ "meta": {
+  "source": "eurlex",
+  "celex": "32018R1971",
+  "kind": "original",
+  "date": "2018-12-11",
+  "built_at": "2026-10-07T10:10:12+00:00",
+  "sources_sha256": {
+   "32018R1971": "0021b46be0d8b08451a13b5ba3a9912c0551fa188a0fb4b6fb9b2b84d0608566"
+  },
+  "counts": {
+   "article": 52,
+   "recital": 53,
+   "annex": 1
+  }
+ },
+ "provisions": [
+  {
+   "id": "rct_1",
+   "kind": "recital",
+   "number": "1",
+   "label": "(1)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "La Directiva (UE) 2018/1972 del Parlamento Europeo y del Consejo tiene por objeto crear un mercado interior de las comunicaciones electrónicas en la Unión, garantizando al mismo tiempo un nivel elevado de inversión, innovación y protección de los consumidores a través de una mayor competencia. Dicha Directiva también encomienda al Organismo de Reguladores Europeos de las Comunicaciones Electrónicas (en lo sucesivo, «ORECE») un número significativo de nuevos cometidos, como la formulación de directrices en diversos ámbitos, la presentación de informes sobre cuestiones técnicas, el mantenimiento de registros, listas o bases de datos y la elaboración de dictámenes sobre procedimientos del mercado interior para proyectos de medidas nacionales relativas a la regulación del mercado.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_2",
+   "kind": "recital",
+   "number": "2",
+   "label": "(2)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "El Reglamento (UE) n.o 531/2012 del Parlamento Europeo y del Consejo completa y apoya, por lo que respecta a la itinerancia en la Unión, las normas previstas en el marco regulador de las comunicaciones electrónicas y establece determinados cometidos del ORECE.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_3",
+   "kind": "recital",
+   "number": "3",
+   "label": "(3)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "El Reglamento (UE) 2015/2120 del Parlamento Europeo y del Consejo determina unos cometidos adicionales para el ORECE en relación con el acceso a una internet abierta. Además, las directrices del ORECE de 30 de agosto de 2016 sobre la aplicación por parte de los reguladores nacionales de las normas de neutralidad de la red europea han sido bien acogidas, en tanto valiosas aclaraciones para garantizar una internet sólida, libre y abierta que asegure la aplicación coherente de las normas que amparan el trato equitativo y no discriminatorio del tráfico en la prestación de servicios de acceso a internet y en los derechos conexos de los usuarios finales.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_4",
+   "kind": "recital",
+   "number": "4",
+   "label": "(4)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Habida cuenta de la necesidad de garantizar el desarrollo de unas prácticas reguladoras y una aplicación coherente del marco reglamentario de la Unión para comunicaciones electrónicas, la Comisión estableció, mediante la Decisión 2002/627/CE, el Grupo de entidades reguladoras europeas de las redes y los servicios de comunicaciones electrónicas (en lo sucesivo «GRE») para asesorarle y asistirle en la consolidación del mercado interior para redes y servicios de comunicaciones electrónicas y, en general, para servir de conexión entre las autoridades nacionales de reglamentación y la Comisión.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_5",
+   "kind": "recital",
+   "number": "5",
+   "label": "(5)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "El ORECE y la Oficina se establecieron mediante el Reglamento (CE) n.o 1211/2009 del Parlamento Europeo y del Consejo. El ORECE sustituyó al GRE, y su finalidad era contribuir, por una parte, al desarrollo y, por otra, a la mejora del funcionamiento del mercado interior de las redes y servicios de comunicaciones electrónicas, procurando velar por la aplicación coherente del marco reglamentario de las comunicaciones electrónicas. El ORECE actúa como un foro para la cooperación entre las autoridades nacionales de reglamentación, y entre las autoridades nacionales de reglamentación y la Comisión, en el ejercicio de todas sus responsabilidades con arreglo al marco regulador de la Unión. El ORECE fue creado para proporcionar conocimientos especializados y para actuar con independencia y transparencia.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_6",
+   "kind": "recital",
+   "number": "6",
+   "label": "(6)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "El ORECE sirve asimismo de órgano de reflexión, debate y asesoramiento en el ámbito de las comunicaciones electrónicas para el Parlamento Europeo, el Consejo y la Comisión.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_7",
+   "kind": "recital",
+   "number": "7",
+   "label": "(7)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "La Oficina se creó como un organismo de la Comunidad con personalidad jurídica para el desempeño de los cometidos previstos en el Reglamento (CE) n.o 1211/2009, en particular la prestación de servicios de asistencia profesional y administrativa al ORECE. Para poder apoyar de forma eficaz al ORECE, se dotó a la Oficina de autonomía jurídica, administrativa y financiera.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_8",
+   "kind": "recital",
+   "number": "8",
+   "label": "(8)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "En virtud de la Decisión 2010/349/UE, los representantes de los Gobiernos de los Estados miembros decidieron que la Oficina tuviera su sede en Riga. El acuerdo de sede entre el Gobierno de la República de Letonia y la Oficina entró en vigor el 5 de agosto de 2011.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_9",
+   "kind": "recital",
+   "number": "9",
+   "label": "(9)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "En su comunicación de 6 de mayo de 2015 titulada «Una estrategia para el mercado único digital de Europa», la Comisión preveía presentar propuestas en 2016 para una revisión ambiciosa del marco regulador de las comunicaciones electrónicas centrada, entre otros aspectos, en un marco regulador institucional más eficaz a fin de adaptar la normativa de comunicaciones electrónicas a los fines previstos en el marco de la creación de las condiciones apropiadas para el mercado único digital. Ello incluye el despliegue de redes de muy alta capacidad, una gestión más coordinada del espectro radioeléctrico para las redes inalámbricas y la creación de condiciones de competencia equitativas para las redes digitales avanzadas y los servicios innovadores. Dicha Comunicación señalaba que la evolución del mercado y el entorno tecnológico hacen necesario reforzar el marco institucional, consolidando el papel del ORECE.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_10",
+   "kind": "recital",
+   "number": "10",
+   "label": "(10)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "En su resolución de 19 de enero de 2016 titulada «Hacia un Acta del Mercado Único Digital», el Parlamento Europeo pidió a la Comisión que integrara en mayor medida el mercado único digital garantizando el establecimiento de un marco institucional más eficaz.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_11",
+   "kind": "recital",
+   "number": "11",
+   "label": "(11)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "El ORECE y la Oficina han contribuido favorablemente a la aplicación coherente del marco regulador de las comunicaciones electrónicas. No obstante, sigue habiendo importantes disparidades entre los Estados miembros en lo que se refiere a las prácticas reguladoras, lo que afecta a las empresas que realizan negocios transfronterizos o que están activas en un número importante de Estados miembros, en particular en aquellas zonas en las que las directrices del ORECE existen pero podrían desarrollarse en mayor medida. Para seguir contribuyendo al desarrollo del mercado interior de las comunicaciones electrónicas en el conjunto de la Unión, así como a la promoción del acceso a las redes de muy alta capacidad, y su adopción, a la competencia en el suministro de redes, servicios y recursos asociados de comunicaciones electrónicas y de los intereses de los ciudadanos de la Unión, el presente Reglamento tiene por objeto reforzar el papel del ORECE. Dicho papel reforzado completaría el mayor papel desempeñado por el ORECE después de la entrada en vigor de los Reglamentos (UE) n.o 531/2012 y (UE) 2015/2120 y la Directiva (UE) 2018/1972 .",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_12",
+   "kind": "recital",
+   "number": "12",
+   "label": "(12)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A la luz de la evolución de la tecnología y del mercado, que a menudo conlleva una mayor dimensión transfronteriza, y de la experiencia adquirida hasta la fecha a la hora de intentar garantizar la aplicación coherente en el ámbito de las comunicaciones electrónicas, es necesario basarse en los trabajos del ORECE y de la Oficina. Su gobernanza y actividades deben ser sencillas y adecuadas para desempeñar los cometidos que les hayan sido encomendados. Teniendo en cuenta los procedimientos establecidos y la serie de nuevos cometidos asignados al ORECE y a la Oficina y con vistas a reforzar su eficacia, es necesario prever un mayor grado de estabilidad en su gestión y simplificar el proceso de toma de decisiones.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_13",
+   "kind": "recital",
+   "number": "13",
+   "label": "(13)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "El ORECE debe actuar como punto de referencia y generar confianza en virtud de su independencia, la calidad de su asesoramiento e información, la transparencia de sus procedimientos y métodos de funcionamiento, y su diligencia en el desempeño de sus cometidos. La independencia del ORECE no debe ser obstáculo para que su Consejo de Reguladores delibere basándose en proyectos elaborados por los grupos de trabajo.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_14",
+   "kind": "recital",
+   "number": "14",
+   "label": "(14)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "El nuevo nombre oficial de la Oficina debe ser «Agencia de apoyo al ORECE» (en lo sucesivo, «Oficina del ORECE»). La denominación «Oficina del ORECE» debe utilizarse como nombre abreviado de la Agencia. La Oficina del ORECE debe disfrutar de autonomía jurídica, administrativa y financiera. A tal efecto, es necesario y conveniente que la Oficina del ORECE sea un organismo de la Unión dotado de personalidad jurídica, y que ejerza las competencias que le hayan sido conferidas. Como agencia descentralizada de la Unión, la Oficina del ORECE debe funcionar dentro de los límites de su mandato y del marco institucional existente. No debe considerarse que representa la posición de la Unión en el exterior ni que impone a la Unión obligaciones jurídicas.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_15",
+   "kind": "recital",
+   "number": "15",
+   "label": "(15)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Además, las normas por las que se rija y funcione la Oficina del ORECE deben ajustarse, en su caso, a los principios de la Declaración Conjunta del Parlamento Europeo, del Consejo y de la Comisión Europea, de 19 de julio de 2012, sobre las agencias descentralizadas.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_16",
+   "kind": "recital",
+   "number": "16",
+   "label": "(16)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Las instituciones de la Unión y las autoridades nacionales de reglamentación deben beneficiarse de la asistencia y el asesoramiento del ORECE, incluso sobre las correspondientes repercusiones reguladoras de cualquier cuestión relativa a la dinámica general de los mercados digitales o en lo que respecta a sus relaciones, debates e intercambios con terceros sobre las mejores prácticas en materia de regulación, y a la difusión de estas a terceros. Además de su contribución a la consulta pública de la Comisión, el ORECE debe asesorar a la Comisión, cuando así se le solicite, en la preparación de propuestas legislativas. El ORECE debe asimismo ser capaz de prestar asesoramiento al Parlamento Europeo y al Consejo a petición de estos o por propia iniciativa.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_17",
+   "kind": "recital",
+   "number": "17",
+   "label": "(17)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "El ORECE, como organismo técnico con conocimientos especializados en comunicaciones electrónicas y compuesto por representantes de las autoridades nacionales de reglamentación y de la Comisión, es el más indicado para desempeñar cometidos como, por ejemplo, contribuir a la eficacia de los procedimientos del mercado interior para proyectos de medidas nacionales por lo que respecta a la regulación del mercado, proporcionar a las autoridades nacionales de reglamentación y otras autoridades competentes las directrices necesarias para garantizar unos criterios comunes y un enfoque regulador coherente y mantener determinados registros, bases de datos y listas a escala de la Unión. Ello se entiende sin perjuicio de los cometidos definidos para las autoridades nacionales de reglamentación, que son las autoridades más cercanas a los mercados de las comunicaciones electrónicas y a las condiciones locales.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_18",
+   "kind": "recital",
+   "number": "18",
+   "label": "(18)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A fin de llevar a cabo sus cometidos, el ORECE debe seguir poniendo en común los conocimientos especializados de las autoridades nacionales de reglamentación. El ORECE debe tratar de garantizar la participación de todas las autoridades nacionales de reglamentación en el desempeño de sus cometidos reguladores y su funcionamiento. Para reforzar el ORECE, hacerlo más representativo, y salvaguardar sus conocimientos especializados, su experiencia y su competencia sobre la situación específica de la totalidad de los mercados nacionales, cada Estado miembro debe garantizar que su autoridad nacional de reglamentación disponga de recursos financieros y humanos suficientes para participar plenamente en los trabajos del ORECE.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_19",
+   "kind": "recital",
+   "number": "19",
+   "label": "(19)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A la luz de la convergencia creciente entre los sectores proveedores de servicios de comunicaciones electrónicas y de la dimensión horizontal de las cuestiones reglamentarias relacionadas con su desarrollo, el ORECE y la Oficina del ORECE deben poder cooperar, sin perjuicio del papel que desempeñen, con las autoridades nacionales de reglamentación, otros organismos, oficinas, agencias y grupos consultivos de la Unión, en particular el Grupo de política del espectro radioeléctrico, creado por la Decisión 2002/622/CE de la Comisión, el Supervisor Europeo de Protección de Datos, establecido por el Reglamento (UE) 2018/1725 del Parlamento Europeo y del Consejo, el Comité Europeo de Protección de Datos establecido por el Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, el Grupo de entidades reguladoras europeas para los servicios de comunicación audiovisual, establecido por la Directiva 2010/13/UE del Parlamento Europeo y del Consejo , la Agencia de Seguridad de las Redes de la Información de la Unión Europea, creada por el Reglamento (UE) n.o 526/2013 del Parlamento Europeo y del Consejo, la Agencia del GNSS Europeo creada por el Reglamento (UE) n.o 912/2010 del Parlamento Europeo y del Consejo, la Red de Cooperación para la Protección de los Consumidores, creada en virtud del Reglamento (CE) n.o 2006/2004 del Parlamento Europeo y del Consejo, la Red Europea de Competencia y organizaciones europeas de normalización, así como con los comités existentes (como el Comité de Comunicaciones y el Comité del Espectro Radioeléctrico). El ORECE y la Oficina del ORECE también deben ser capaces de cooperar con las autoridades competentes de los Estados miembros responsables de la competencia, la protección de los consumidores y la protección de datos, y con las autoridades competentes de terceros países, en particular con las autoridades reguladoras competentes en el ámbito de las comunicaciones electrónicas o con grupos de esas autoridades, así como con organizaciones internacionales cuando sea necesario para el desempeño de sus cometidos. El ORECE debe igualmente poder consultar a las partes interesadas mediante consulta pública.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_20",
+   "kind": "recital",
+   "number": "20",
+   "label": "(20)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "El ORECE debe tener derecho a establecer con organismos, oficinas, agencias y grupos consultivos competentes de la Unión, con autoridades competentes de terceros países y con organizaciones internacionales acuerdos de trabajo, que no deben crear obligaciones jurídicas. El objetivo de dichos acuerdos de trabajo podría ser, por ejemplo, desarrollar relaciones de cooperación o cambiar impresiones sobre cuestiones de regulación. La Comisión debe garantizar que los acuerdos de trabajo necesarios sean coherentes con la política y las prioridades de la Unión, y que el ORECE opere dentro del marco de su mandato y del marco institucional existente y no se considere que representa la posición de la Unión en el exterior o que impone a la Unión obligaciones internacionales.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_21",
+   "kind": "recital",
+   "number": "21",
+   "label": "(21)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "El ORECE debe estar compuesto por el Consejo de Reguladores y grupos de trabajo. La rotación del cargo de presidente del Consejo de Reguladores debe garantizar la continuidad de los trabajos del ORECE. Conviene igualmente fomentar una rotación de los papeles de vicepresidentes representantes de diversas autoridades nacionales de reglamentación.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_22",
+   "kind": "recital",
+   "number": "22",
+   "label": "(22)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "El ORECE debe poder actuar en interés de la Unión con independencia de toda intervención exterior, en particular de presiones políticas o injerencias comerciales. Por lo tanto, es importante garantizar que las personas nombradas en el Consejo de Reguladores gocen de las máximas garantías de independencia personal y funcional. El responsable de una autoridad nacional de reglamentación o un miembro de su órgano colegiado, o los suplentes de estos, deben gozar de ese mismo nivel de independencia personal y funcional. Concretamente, deben actuar con independencia y objetividad, no solicitar ni aceptar instrucciones en el ejercicio de sus funciones y estar protegidos contra el despido arbitrario. La función del suplente del Consejo de Reguladores también podrá desempeñarla el responsable de la autoridad nacional de reglamentación, un miembro de su órgano colegiado, el sustituto de estos o bien otro miembro del personal de la autoridad nacional de reglamentación, que actúe en nombre del miembro del Consejo de Reguladores sustituido y de conformidad con el ámbito de su mandato.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_23",
+   "kind": "recital",
+   "number": "23",
+   "label": "(23)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "La experiencia ha demostrado que la mayor parte de los cometidos del ORECE se ejecutan mejor mediante grupos de trabajo de expertos, que siempre deben garantizar el tratamiento equitativo de todas las opiniones y contribuciones de las autoridades nacionales de reglamentación. Por lo tanto, el Consejo de Reguladores debe encargarse de la constitución de los grupos de trabajo y del nombramiento de sus presidentes. Las autoridades nacionales de reglamentación deben responder con prontitud a las candidaturas para garantizar la rápida creación de determinados grupos de trabajo, en particular los relacionados con procedimientos que deban respetar plazos. En los grupos de trabajo deben poder participar expertos de la Comisión. El personal de la Oficina del ORECE debe proporcionar apoyo a los grupos de trabajo y contribuir a sus actividades.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_24",
+   "kind": "recital",
+   "number": "24",
+   "label": "(24)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "De ser necesario, y teniendo en cuenta las circunstancias de cada caso, el Consejo de Reguladores y el Consejo de Administración deben poder invitar a cualquier persona cuya opinión pueda ser de interés a participar, en calidad de observador, en sus reuniones y en las reuniones de los grupos de trabajo.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_25",
+   "kind": "recital",
+   "number": "25",
+   "label": "(25)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Cuando corresponda, y en función de la asignación de cometidos a las autoridades en cada Estado miembro, las opiniones de otras autoridades competentes deben tenerse en cuenta en el grupo de trabajo pertinente, por ejemplo mediante consultas a escala nacional o invitando a aquellas otras autoridades a las reuniones pertinentes en las que se requieran sus conocimientos. En cualquier caso, debe mantenerse la independencia del ORECE.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_26",
+   "kind": "recital",
+   "number": "26",
+   "label": "(26)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "El Consejo de Reguladores y el Consejo de Administración deben operar en paralelo; el primero decide principalmente sobre cuestiones normativas y el segundo sobre cuestiones administrativas, como el presupuesto, el personal y las auditorías. En principio, y además de los representantes de la Comisión, los representantes de las autoridades nacionales de reglamentación en el Consejo de Administración deben ser las mismas personas que las designadas para formar parte del Consejo de Reguladores, pero las autoridades nacionales de reglamentación deben poder designar a otros representantes que cumplan los mismos requisitos.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_27",
+   "kind": "recital",
+   "number": "27",
+   "label": "(27)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Las competencias de la autoridad facultada para proceder a los nombramientos eran ejercidas anteriormente por el vicepresidente del Comité de gestión de la Oficina. El presente Reglamento dispone que el Consejo de Administración delegue competencias de la autoridad facultada para proceder a los nombramientos en el director, que está autorizado a subdelegar esas competencias. Esto contribuirá a la gestión eficiente del personal de la Oficina del ORECE.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_28",
+   "kind": "recital",
+   "number": "28",
+   "label": "(28)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "El Consejo de Reguladores y el Consejo de Administración deben celebrar al menos dos reuniones ordinarias al año. Teniendo en cuenta la experiencia adquirida y el mayor papel del ORECE, el Consejo de Reguladores y el Consejo de Administración pueden tener que celebrar reuniones suplementarias.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_29",
+   "kind": "recital",
+   "number": "29",
+   "label": "(29)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "El director debe seguir siendo el representante de la Oficina del ORECE para las cuestiones de índole jurídica y administrativa. El Consejo de Administración debe nombrar al director, con arreglo a un procedimiento de selección abierto y transparente, a fin de garantizar una evaluación rigurosa de los candidatos y un nivel elevado de independencia. El mandato del director administrativo de la Oficina era anteriormente de tres años. Es necesario que el director tenga un mandato suficientemente largo para garantizar la estabilidad y la consecución de una estrategia a largo plazo para la Oficina del ORECE.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_30",
+   "kind": "recital",
+   "number": "30",
+   "label": "(30)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "El Reglamento Delegado (UE) n.o 1271/2013 de la Comisión debe aplicarse a la Oficina del ORECE.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_31",
+   "kind": "recital",
+   "number": "31",
+   "label": "(31)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "La Oficina del ORECE debe prestar toda la asistencia profesional y administrativa necesaria para el trabajo del ORECE, en particular apoyo financiero, organizativo y logístico, y debe contribuir a la labor normativa del ORECE.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_32",
+   "kind": "recital",
+   "number": "32",
+   "label": "(32)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Para garantizar la autonomía y la independencia de la Oficina del ORECE y respaldar el trabajo del ORECE, conviene dotar a la Oficina del ORECE de un presupuesto propio, la mayor parte del cual debe provenir de una contribución de la Unión. El presupuesto debe ser suficiente y debe reflejar los cometidos adicionales asignados y el papel reforzado del ORECE y de la Oficina del ORECE. La financiación de la Oficina del ORECE debe estar sujeta a un acuerdo de la autoridad presupuestaria, según se establece en el punto 31 del Acuerdo Interinstitucional de 2 de diciembre de 2013 entre el Parlamento Europeo, el Consejo y la Comisión sobre disciplina presupuestaria, cooperación en materia presupuestaria y buena gestión financiera.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_33",
+   "kind": "recital",
+   "number": "33",
+   "label": "(33)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "La Oficina del ORECE debe contar con personal suficiente para desempeñar sus funciones. Todos los cometidos asignados a la Oficina del ORECE, en particular los servicios de apoyo profesional y administrativo que respaldan al ORECE en el desempeño de sus cometidos reguladores, junto con el cumplimiento de los reglamentos financiero, de personal y demás normas aplicables, así como el peso creciente de los cometidos operativos que debe desempeñar la Oficina del ORECE frente a los administrativos, deben ser debidamente evaluados y quedar reflejados en la programación de los recursos.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_34",
+   "kind": "recital",
+   "number": "34",
+   "label": "(34)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "A fin de seguir ampliando la aplicación coherente del marco regulador de las comunicaciones electrónicas, el Consejo de Reguladores, los grupos de trabajo y el Consejo de Administración deben estar abiertos a la participación de las autoridades reguladoras de terceros países competentes en el ámbito de las comunicaciones electrónicas en los que esos terceros países hayan celebrado acuerdos con la Unión a tal efecto, como los Estados EEE AELC y los países candidatos.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_35",
+   "kind": "recital",
+   "number": "35",
+   "label": "(35)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "De conformidad con el principio de transparencia, el ORECE y la Oficina del ORECE deben publicar en su página web, cuando proceda, información sobre su trabajo. En particular, el ORECE debe hacer públicos todos los documentos finales expedidos en el desempeño de sus cometidos, como dictámenes, directrices, informes, recomendaciones, posiciones comunes y buenas prácticas, así como cualquier estudio que le sea encargado para respaldar sus cometidos. El ORECE y la Oficina del ORECE deben asimismo publicar listas actualizadas de sus cometidos y listas actualizadas de los miembros, suplentes y otros participantes en las reuniones de sus instancias organizativas y las declaraciones de intereses realizadas por los miembros del Consejo de Reguladores, los miembros del Consejo de Administración y el Director.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_36",
+   "kind": "recital",
+   "number": "36",
+   "label": "(36)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "El ORECE, con el respaldo de la Oficina del ORECE, debe poder participar en actividades de comunicación dentro de su ámbito de competencia, que no deben ir en detrimento de sus cometidos básicos. El contenido y la aplicación de la estrategia de comunicación del ORECE deben ser coherentes, objetivos, pertinentes y estar coordinados con las estrategias y actividades de la Comisión y de las demás instituciones, a fin de tener en cuenta la imagen global de la Unión. Las actividades de comunicación de la Oficina del ORECE deben llevarse a cabo de conformidad con los planes de comunicación y difusión adoptados por el Consejo de Administración.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_37",
+   "kind": "recital",
+   "number": "37",
+   "label": "(37)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Para desempeñar eficazmente sus cometidos, el ORECE y la Oficina del ORECE deben tener derecho a solicitar toda la información necesaria a la Comisión, a las autoridades nacionales de reglamentación y, en última instancia, a otras autoridades y empresas. Las solicitudes de información deben estar motivadas, ser proporcionadas y no suponer una carga excesiva para los destinatarios. Las autoridades nacionales de reglamentación deben cooperar con el ORECE y la Oficina del ORECE y deben proporcionarles información precisa y oportuna para que el ORECE y la Oficina del ORECE puedan cumplir sus cometidos. Además, en virtud del principio de cooperación leal, el ORECE y la Oficina del ORECE deben compartir toda la información necesaria con la Comisión, las autoridades nacionales de reglamentación y otras autoridades competentes. Cuando proceda, debe garantizarse la confidencialidad de la información. A la hora de evaluar si una solicitud está debidamente justificada, el ORECE debe tener en cuenta si la información solicitada está relacionada con el desempeño de cometidos que se atribuyen exclusivamente a las autoridades pertinentes.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_38",
+   "kind": "recital",
+   "number": "38",
+   "label": "(38)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "La Oficina del ORECE debe crear un sistema común de información y comunicación para evitar la duplicación de las solicitudes de información y facilitar la comunicación entre todas las autoridades interesadas.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_39",
+   "kind": "recital",
+   "number": "39",
+   "label": "(39)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Con el fin de garantizar un nivel alto de confidencialidad y evitar conflictos de intereses, las normas en esas materias que se apliquen a los miembros de las instancias organizativas del ORECE y de la Oficina del ORECE deben aplicarse a sus suplentes.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_40",
+   "kind": "recital",
+   "number": "40",
+   "label": "(40)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Dado que el presente Reglamento otorga nuevos cometidos al el ORECE y a la Oficina del ORECE y que otros actos jurídicos de la Unión pueden otorgarles cometidos adicionales, la Comisión debe llevar a cabo una evaluación periódica de la actividad del ORECE y de la Oficina del ORECE y de la eficacia de su estructura institucional en un entorno digital cambiante. Si, tras el resultado de dicha evaluación, la Comisión encuentra que la estructura institucional no es adecuada para desempeñar los cometidos del ORECE y de la Oficina del ORECE, y, en particular, para garantizar la aplicación coherente del marco regulador de las comunicaciones electrónicas, explorará todas las opciones posibles para mejorar dicha estructura.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_41",
+   "kind": "recital",
+   "number": "41",
+   "label": "(41)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "La Oficina del ORECE establecida por el presente Reglamento sucede a la Oficina que fue creada como un organismo comunitario con personalidad jurídica por el Reglamento (CE) n.o 1211/2009 en todo lo que se refiere a derechos de propiedad, acuerdos, entre ellos el acuerdo de sede, las obligaciones legales, los contratos de trabajo, y los compromisos y pasivos financieros. La Oficina del ORECE debe hacerse cargo del personal de la Oficina, cuyos derechos y obligaciones no deben verse afectados. Al objeto de garantizar la continuidad del trabajo del ORECE y la Oficina, sus representantes, a saber, el presidente y los vicepresidentes del Consejo de Reguladores, el Comité de Gestión y el director administrativo, deben seguir en el cargo hasta que finalice su mandato.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_42",
+   "kind": "recital",
+   "number": "42",
+   "label": "(42)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Un número importante de consumidores de la mayoría de los Estados miembros sigue recurriendo a las comunicaciones internacionales tradicionales, como por ejemplo las llamadas telefónicas y los mensajes SMS, a pesar de que un número cada vez mayor de consumidores tiene acceso a servicios de comunicación interpersonal independientes de los números para sus necesidades de llamadas internacionales, con costes inferiores a los de los servicios tradicionales o sin pago dinerario.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_43",
+   "kind": "recital",
+   "number": "43",
+   "label": "(43)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "En 2013, la Comisión propuso un reglamento con evaluación de impacto que incluía una disposición con medidas reglamentarias aplicables a las comunicaciones dentro de la Unión. El ORECE y la Comisión, por medio de un estudio de la Comisión y del Eurobarómetro, recopilaron de 2017 a 2018 nuevos datos sobre el mercado de las comunicaciones dentro de la Unión. Como muestra dicha información, sigue habiendo diferencias de precio importantes, tanto para las comunicaciones fijas como para las móviles, entre las comunicaciones vocales y de SMS nacionales y las que terminan en otro Estado miembro, en un contexto de variaciones de precios significativas de un país a otro y entre proveedores y paquetes de tarifas, así como entre comunicaciones vocales fijas y móviles. Con frecuencia los proveedores de servicios de comunicaciones interpersonales basadas en numeración disponibles al público cobran precios por consumo de comunicaciones dentro de la Unión que exceden con mucho los precios de las tarifas nacionales más costes adicionales. En promedio, el precio normal de una llamada fija o móvil dentro de la Unión tiende a triplicar el precio normal de una llamada nacional, y el precio normal de un mensaje SMS dentro de la Unión tiende a ser más del doble que el SMS nacional. Sin embargo, esas medias aritméticas ocultan diferencias significativas de un Estado miembro a otro. En algunos casos, el precio normal de una llamada dentro de la Unión puede llegar a multiplicar por ocho el precio normal de las llamadas nacionales. Como consecuencia de lo anterior, los clientes de varios Estados miembros se ven expuestos a unos precios muy elevados para las comunicaciones dentro de la Unión. Esos elevados precios afectan principalmente a los consumidores, y en particular a los que no realizan frecuentemente tales comunicaciones o tienen un volumen de consumo bajo, que constituyen la inmensa mayoría de los consumidores que efectúan comunicaciones dentro de la Unión. Al mismo tiempo, varios proveedores presentan ofertas particularmente atractivas a los clientes y clientes empresariales que tienen un consumo importante de comunicaciones dentro de la Unión. A menudo, dichas ofertas no se cobran con arreglo al consumo real sino que pueden consistir en un cierto número de minutos de llamada o mensajes SMS dentro de la Unión por una tarifa mensual fija (ofertas complementarias) o la inclusión de un cierto número de minutos de llamada o de mensajes SMS dentro de la Unión en la asignación mensual de minutos de llamada o mensajes SMS, bien sin recargo alguno o con un pequeño recargo. No obstante, las condiciones de esas ofertas a menudo carecen de atractivo para aquellos consumidores que utilizan un volumen ocasional, impredecible o relativamente bajo de comunicaciones dentro de la Unión. En consecuencia, dichos consumidores se arriesgan a pagar precios excesivos por sus comunicaciones dentro de la Unión, por lo que deben ser protegidos.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_44",
+   "kind": "recital",
+   "number": "44",
+   "label": "(44)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Además, los precios elevados de las comunicaciones dentro de la Unión suponen un obstáculo al funcionamiento del mercado interior por cuanto disuaden de la búsqueda y adquisición de bienes y servicios de un proveedor situado en otro Estado miembro. De ahí la necesidad de establecer unos límites específicos y proporcionados al precio que los proveedores de servicios de comunicaciones interpersonales basadas en numeración disponibles al público puedan cobrar a los consumidores por las comunicaciones dentro de la Unión, con el fin de eliminar estos precios elevados.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_45",
+   "kind": "recital",
+   "number": "45",
+   "label": "(45)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Cuando los proveedores de servicios de comunicaciones interpersonales basadas en números disponibles al público cobren a sus consumidores las comunicaciones dentro de la Unión con tarifas basadas total o parcialmente en el consumo de dichos servicios, incluso en los casos de deducción por consumo de una asignación mensual o de prepago para dichos servicios, esas tarifas no deben superar 0,19 EUR por minuto de llamada y 0,06 EUR por SMS. Esos límites corresponden a los precios máximos que se aplican en la actualidad, respectivamente, a las llamadas y mensajes SMS itinerantes regulados. En itinerancia dentro de la Unión, los consumidores gozan de la protección de la eurotarifa de llamadas vocales y de la eurotarifa SMS que han sido sustituidas gradualmente por la itinerancia «como en casa». Esos límites se consideran una referencia adecuada también para fijar la tarifa máxima de las comunicaciones dentro de la Unión reguladas (en lo sucesivo, «comunicaciones intracomunitarias reguladas») durante cinco años a partir del 15 de mayo de 2019. El nivel actual del límite representa una red de seguridad sencilla, transparente y comprobada de protección contra los precios elevados y es adecuado como límite para los precios al por menor de todas las comunicaciones intracomunitarias reguladas. Las llamadas itinerantes dentro de la Unión y las llamadas dentro de la Unión tienen la misma estructura de costes.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_46",
+   "kind": "recital",
+   "number": "46",
+   "label": "(46)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Los límites deben permitir a los proveedores de servicios de comunicaciones interpersonales basadas en numeración disponibles al público recuperar sus costes, lo que garantiza una intervención proporcionada tanto en el mercado de telefonía móvil como en el de telefonía fija. Los límites se aplicarán directamente solo a las tarifas basadas en el consumo real. Deben tener un efecto disciplinario también sobre las ofertas que incluyen un determinado volumen de comunicaciones dentro de la Unión sin cobrarlas por separado, pues los consumidores pueden optar por cambiar a una tarifa basada en el consumo para sus comunicaciones dentro de la Unión. A los volúmenes de comunicaciones dentro de la Unión que superen los incluidos en un paquete y se cobren por separado debe aplicárseles el límite. La medida debe garantizar, de modo proporcionado, que los consumidores con un bajo nivel de consumo de comunicaciones dentro de la Unión queden protegidos de los precios elevados y, al mismo tiempo debe tener solo una incidencia limitada sobre los proveedores.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_47",
+   "kind": "recital",
+   "number": "47",
+   "label": "(47)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Los proveedores de servicios de comunicaciones interpersonales basadas en numeración disponibles al público deben poder proponer a sus consumidores ofertas tarifarias alternativas para las comunicaciones internacionales con diferentes tarifas para las comunicaciones intracomunitarias reguladas, y los consumidores deben ser libres de optar explícitamente por dichas ofertas, y de retractarse en todo momento y gratuitamente, incluso para ofertas que los consumidores hubieran suscrito antes de la entrada en vigor de tales disposiciones. Solo las ofertas alternativas de comunicaciones internacionales, como por ejemplo las que abarcan a todos o parte de los terceros países, cuando son aceptadas por un consumidor, deben poder liberar a un proveedor de su obligación de no superar los precios límite para las comunicaciones intracomunitarias reguladas. Otras ventajas que ofrecen los proveedores a los consumidores, como las subvenciones a los equipos de terminales o los descuentos en otros servicios de comunicaciones electrónicas, forman parte de la interacción competitiva normal, por lo que no deben afectar a la aplicabilidad de los precios límite para las comunicaciones intracomunitarias reguladas.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_48",
+   "kind": "recital",
+   "number": "48",
+   "label": "(48)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Un precio límite para las comunicaciones intracomunitarias reguladas podrá afectar a algunos proveedores de servicios de comunicaciones interpersonales basadas en numeración disponibles al público significativamente más que a la mayoría de los demás proveedores de la Unión. Tal podría ser, en particular, el caso de aquellos proveedores que obtengan una parte significativa de sus ingresos o resultados de explotación con las comunicaciones dentro de la Unión o cuyos márgenes nacionales sean bajos en comparación con las referencias del sector. La compresión de sus márgenes por lo que respecta a las comunicaciones intracomunitarias reguladas podría impedir a un proveedor sostener su modelo de fijación de precios nacionales. Tales supuestos son altamente improbables por cuanto los precios máximos son claramente superiores a los costes de la prestación de comunicaciones dentro de la Unión. No obstante, con el fin de responder a dichos supuestos excepcionales de manera proporcionada, las autoridades nacionales de reglamentación deben estar capacitadas para conceder excepciones a instancias del proveedor, en casos justificados y excepcionales.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_49",
+   "kind": "recital",
+   "number": "49",
+   "label": "(49)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Las excepciones deben concederse solo si el proveedor puede demostrar, con respecto a una referencia pertinente establecida por el ORECE, que se ve significativamente más afectado que la mayoría de los demás proveedores de la Unión y que esa incidencia podría debilitar significativamente la capacidad del proveedor de mantener su modelo de cobro de las comunicaciones nacionales. Cuando una autoridad nacional de reglamentación conceda una excepción, debe determinar el nivel máximo de precios que el proveedor podrá aplicar a las comunicaciones intracomunitarias reguladas y que le permitirían mantener un nivel de precios competitivo para las comunicaciones nacionales. Cualquier excepción de este tipo debe limitarse a un año y prorrogarse si el proveedor demuestra que siguen cumpliéndose las condiciones de la excepción.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_50",
+   "kind": "recital",
+   "number": "50",
+   "label": "(50)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "En aras del principio de proporcionalidad, la aplicación del límite de precios para las comunicaciones intracomunitarias reguladas debe tener una limitación temporal y caducar a los cinco años de su entrada en vigor. Tal limitación de la vigencia debe permitir valorar adecuadamente los efectos de las medidas y evaluar hasta qué punto sigue siendo necesario proteger a los consumidores.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_51",
+   "kind": "recital",
+   "number": "51",
+   "label": "(51)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Con el fin de garantizar una protección constante, puntual y de la máxima eficacia en toda la Unión a los consumidores afectados negativamente por las importantes diferencias de precios de las comunicaciones dentro de la Unión, esas disposiciones deben ser directamente aplicables y consagradas en un reglamento. El reglamento más adecuado a tal fin debe ser el Reglamento (UE) 2015/2120, que fue adoptado tras una evaluación de impacto, que proponía, entre otras, una disposición relativa a las comunicaciones dentro de la Unión, por ser un medio necesario para completar el mercado interior de las comunicaciones electrónicas. Los impactos probables sobre los ingresos de los proveedores que genere la prestación de comunicaciones dentro de la Unión quedarán más limitados por la aplicación de la eurotarifa de llamadas vocales y de la eurotarifa SMS de itinerancia como límite tanto para las comunicaciones fijas como para las móviles, que sirve como mecanismo de seguridad; así como al quedar acreditado, en el análisis del ORECE de 2018, un considerable descenso de los correspondientes volúmenes de tráfico fijo afectados por la medida en el período intermedio. Por lo tanto, dichas disposiciones deben introducirse como modificación del Reglamento (UE) 2015/2120, que también debe adaptarse para garantizar que los Estados miembros adopten normas sobre las sanciones por infracción de dichas disposiciones.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_52",
+   "kind": "recital",
+   "number": "52",
+   "label": "(52)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Dado que los objetivos del presente Reglamento, a saber, garantizar la aplicación coherente del marco regulador de las comunicaciones electrónicas, en particular en relación con los aspectos transfronterizos y mediante procedimientos eficaces del mercado interior para proyectos de medidas nacionales, y garantizar que los consumidores no paguen precios excesivos por comunicaciones interpersonales basadas en numeración desde el Estado miembro del proveedor nacional del consumidor a cualquier número fijo o móvil de otro Estado miembro, no pueden ser alcanzados de manera suficiente por los Estados miembros, sino que, debido a la dimensión y a los efectos de la acción, pueden lograrse mejor a escala de la Unión, esta puede adoptar medidas, de acuerdo con el principio de subsidiariedad establecido en el artículo 5 del Tratado de la Unión Europea. De conformidad con el principio de proporcionalidad establecido en el mismo artículo, el presente Reglamento no excede de lo necesario para alcanzar dichos objetivos.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_53",
+   "kind": "recital",
+   "number": "53",
+   "label": "(53)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "El presente Reglamento modifica y extiende el ámbito de aplicación del Reglamento (CE) n.o 1211/2009. Dado que las modificaciones que deben hacerse son de naturaleza sustancial, conviene, en aras de la claridad, proceder a la derogación de dicho Reglamento. Las referencias al Reglamento derogado deben entenderse como hechas al presente Reglamento.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_1",
+   "kind": "article",
+   "number": "1",
+   "label": "Artículo 1",
+   "title": "Objeto y ámbito de aplicación",
+   "path": [
+    "CAPÍTULO I — OBJETO Y ÁMBITO DE APLICACIÓN"
+   ],
+   "blocks": [
+    {
+     "text": "1. El presente Reglamento establece el Organismo de Reguladores Europeos de las Comunicaciones Electrónicas (ORECE) y la Agencia de apoyo al ORECE (Oficina del ORECE).",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El ORECE y la Oficina del ORECE sustituirán y sucederán, respectivamente, al Organismo de Reguladores Europeos de las Comunicaciones Electrónicas y a la Oficina, tal como se establecieron por el Reglamento (CE) n.o 1211/2009.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_2",
+   "kind": "article",
+   "number": "2",
+   "label": "Artículo 2",
+   "title": "Personalidad jurídica de la Oficina del ORECE",
+   "path": [
+    "CAPÍTULO I — OBJETO Y ÁMBITO DE APLICACIÓN"
+   ],
+   "blocks": [
+    {
+     "text": "1. La Oficina del ORECE será un órgano de la Unión. Tendrá personalidad jurídica.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. En cada uno de los Estados miembros, la Oficina del ORECE gozará de la más amplia capacidad jurídica reconocida a las personas jurídicas por el Derecho nacional. En particular, deberá poder adquirir y enajenar bienes muebles e inmuebles y personarse en procedimientos judiciales.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. La Oficina del ORECE estará representada por su director.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. La Oficina del ORECE asumirá sola la responsabilidad de los cometidos que se le hayan asignado y de las competencias que se le hayan atribuido.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. La Oficina del ORECE tendrá su sede en Riga.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_3",
+   "kind": "article",
+   "number": "3",
+   "label": "Artículo 3",
+   "title": "Objetivos del ORECE",
+   "path": [
+    "CAPÍTULO II — OBJETIVOS Y COMETIDOS DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. El ORECE desarrollará su actividad dentro del ámbito de aplicación de los Reglamentos (CE) n.o 531/2012 y (UE) 2015/2120 y de la Directiva (UE) 2018/1972 .",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El ORECE perseguirá los objetivos enunciados en el artículo 3 de la Directiva (UE) 2018/1972. En particular, el objetivo del ORECE será garantizar una aplicación coherente del marco regulador de las comunicaciones electrónicas dentro del ámbito de aplicación a que se refiere el apartado 1 del presente artículo.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. El ORECE desempeñará sus cometidos de manera independiente, imparcial, transparente y oportuna.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. El ORECE se apoyará en la experiencia con que cuentan las autoridades nacionales de reglamentación.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. De conformidad con lo dispuesto en el artículo 9, apartado 3, de la Directiva (UE) 2018/1972 , cada Estado miembro deberá garantizar que su autoridad nacional de reglamentación pueda participar plenamente en los trabajos de las instancias organizativas del ORECE.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. En los Estados miembros en los que más de una autoridad nacional de reglamentación sea responsable en virtud de la Directiva(UE) 2018/1972, tales autoridades nacionales de reglamentación se coordinarán entre ellas en la medida de lo necesario.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_4",
+   "kind": "article",
+   "number": "4",
+   "label": "Artículo 4",
+   "title": "Cometidos reguladores del ORECE",
+   "path": [
+    "CAPÍTULO II — OBJETIVOS Y COMETIDOS DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. El ORECE tendrá los siguientes cometidos reguladores:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) asistir y asesorar a las autoridades nacionales de reglamentación, el Parlamento Europeo, el Consejo y la Comisión y cooperar con las autoridades nacionales de reglamentación y la Comisión, previa solicitud o por iniciativa propia, sobre cualquier cuestión técnica relativa a las comunicaciones electrónicas en el marco de sus competencias;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) asistir y asesorar a la Comisión, previa solicitud, respecto de la preparación de propuestas legislativas en el ámbito de las comunicaciones electrónicas, en particular sobre cualquier propuesta de modificación del presente Reglamento o de la Directiva (UE) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) emitir los dictámenes previstos en el Reglamento (UE) n.o 531/2012 y en la Directiva (UE) 2018/1972, en particular sobre: i) la resolución de litigios transfronterizos, de conformidad con lo dispuesto en el artículo 27 de la Directiva (UE) 2018/1972; ii) los proyectos de medidas nacionales relativas a los procedimientos del mercado interior para la regulación del mercado, de conformidad con lo dispuesto en los artículos 32, 33 y 68 de la Directiva (UE) 2018/1972; iii) los proyectos de decisiones y recomendaciones relativas a la armonización, de conformidad con lo dispuesto en los artículos 38 y 93 de la Directiva (UE) 2018/1972; iv) la conectividad de extremo a extremo entre los usuarios finales, de conformidad con lo dispuesto en el artículo 61, apartado 2, de la Directiva (UE) 2018/1972; v) la determinación de la tarifa única máxima de terminación de llamadas de voz en redes móviles en la Unión y de una tarifa única máxima de terminación de llamadas de voz en redes fijas en la Unión de conformidad con lo dispuesto en el artículo 75 de la Directiva (UE) 2018/1972; vi) el modelo de contrato resumido, de conformidad con lo dispuesto en el artículo 102 de la Directiva (UE) 2018/1972; vii) la aplicación y el funcionamiento nacionales de la autorización general y su repercusión en el funcionamiento del mercado interior, de conformidad con lo dispuesto en el artículo 122, apartado 3, de la Directiva (UE) 2018/1972; viii) cuando sea pertinente, el mercado y la evolución tecnológica en relación con los distintos tipos de servicios de comunicaciones electrónicas y su repercusión en la aplicación de la parte III, título III, de la Directiva (UE) 2018/1972 de conformidad con lo dispuesto en el artículo 123, apartado 1, de dicha Directiva;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) establecer directrices sobre la aplicación del marco regulador de la Unión para las comunicaciones electrónicas, como previsto en particular en los Reglamentos (UE) n.o 531/2012 y (UE) 2015/2120 y en la Directiva (UE) 2018/1972 sobre: i) la plantilla de notificación de conformidad con lo dispuesto en el artículo 12 de la Directiva (UE) 2018/1972; ii) la aplicación coherente de las obligaciones por lo que se refiere a las previsiones y estudios geográficos, de conformidad con lo dispuesto en el artículo 22 de la Directiva (UE) 2018/1972; iii) criterios pertinentes a fin de promover la aplicación coherente del artículo 61, apartado 3, de la Directiva (UE) 2018/1972; iv) enfoques comunes para la determinación del punto de terminación de la red en diferentes topologías de red, de conformidad con lo dispuesto en el artículo 61, apartado 7, de la Directiva (UE) 2018/1972; v) enfoques comunes para satisfacer la demanda transnacional de los usuarios finales, de conformidad con lo dispuesto en el artículo 66 de la Directiva (UE) 2018/1972; vi) los criterios mínimos de una oferta de referencia, de conformidad con lo dispuesto en el artículo 69 de la Directiva (UE) 2018/1972; vii) el fomento de la aplicación coherente por parte de las autoridades nacionales de reglamentación de las condiciones establecidos en el artículo 76, apartado 1, y de los criterios establecidos en el anexo IV de la Directiva (UE) 2018/1972; viii) los criterios que debe cumplir una red para ser considerada de muy alta capacidad, de conformidad con lo dispuesto en el artículo 82 de la Directiva (UE) 2018/1972; ix) los criterios comunes para la evaluación de la capacidad para administrar los recursos de numeración y el riesgo de agotamiento de los recursos de numeración, de conformidad con lo dispuesto en el artículo 93 de la Directiva (UE) 2018/1972; x) los parámetros de calidad del servicio pertinentes, los métodos de medición aplicables, el contenido y el formato de publicación de la información y los mecanismos de certificación de la calidad, de conformidad con lo dispuesto en el artículo 104 de la Directiva (UE) 2018/1972; xi) la manera de evaluar si la eficacia de los sistemas de alerta públicos a que se refiere el artículo 110, apartado 2, de la Directiva (UE) 2018/1972 es equivalente a la eficacia de los previstos en el apartado 1 de dicho artículo; xii) el acceso al por mayor a los servicios de itinerancia, de conformidad con lo dispuesto en el artículo 3, apartado 8, del Reglamento (UE) n.o 531/2012; xiii) la aplicación de las obligaciones de las autoridades nacionales de reglamentación por lo que se refiere al acceso a una internet abierta, de conformidad con lo dispuesto en el artículo 5, apartado 3, del Reglamento (UE) 2015/2120; xiv) los parámetros a tener en cuenta por las autoridades nacionales de reglamentación en su evaluación de la sostenibilidad de los modelos de tarificación nacional de conformidad con lo dispuesto en el artículo 5 bis, apartado 6, del Reglamento (UE) 2015/2120;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) publicar otras directrices que garanticen la aplicación coherente del marco regulador para las comunicaciones electrónicas y decisiones reguladoras coherentes por parte de las autoridades nacionales de reglamentación, por propia iniciativa o previa petición de una autoridad nacional de reglamentación, del Parlamento Europeo, del Consejo o de la Comisión, en particular para cuestiones reguladoras que afecten a un número importante de Estados miembros o que tengan una dimensión transfronteriza;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) cuando sea pertinente, participar en el foro de revisión por los pares sobre el proyecto de medidas relativas a los procedimientos de selección, de conformidad con lo dispuesto en el artículo 35 de la Directiva (UE) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) participar en asuntos relativos a sus competencias que se refieran a la regulación del mercado y a la competencia relacionados con el espectro radioeléctrico, de conformidad con lo dispuesto en el artículo 4 de la Directiva (UE) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) realizar análisis de los mercados transnacionales, de conformidad con lo dispuesto en el artículo 65 de la Directiva (UE) 2018/1972, y de la demanda transnacional de los usuarios finales, de conformidad con lo dispuesto en el artículo 66 de dicha Directiva;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) supervisar y recoger información y, cuando sea pertinente, hacer pública información actualizada sobre la aplicación del Reglamento (UE) n.o 531/2012, de conformidad con lo dispuesto en sus artículos 16 y 19;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) informar sobre cuestiones técnicas en el ámbito de su competencia, en particular sobre: i) la aplicación práctica de los dictámenes y directrices a que se refieren las letras c), d) y e); ii) las mejores prácticas de los Estados miembros para apoyar la determinación del servicio de acceso adecuado a internet de banda ancha, de conformidad con lo dispuesto en el artículo 84 de la Directiva (UE) 2018/1972; iii) la evolución de las pautas de precios y consumo tanto para los servicios nacionales como para los itinerantes, la evolución de las tasas efectivas al por mayor por itinerancia para el tráfico no equilibrado, la relación entre los precios al por menor, las tarifas mayoristas y los costes mayoristas de los servicios de itinerancia, así como sobre la transparencia y comparabilidad de las tarifas, de conformidad con lo dispuesto en el artículo 19 del Reglamento (UE) n.o 531/2012; iv) los resultados de los informes anuales facilitados por las autoridades nacionales de reglamentación, de conformidad con lo dispuesto en el artículo 5 del Reglamento (UE) 2015/2120, mediante la publicación de un informe de síntesis anual; v) la evolución del mercado en el sector de las comunicaciones electrónicas, anualmente;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) formular recomendaciones y posiciones comunes, y difundir las mejores prácticas en materia de regulación dirigidas a las autoridades nacionales de reglamentación a fin de promover la aplicación coherente y mejor del marco reglamentario de las comunicaciones electrónicas;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) crear y mantener una base de datos de: i) las notificaciones transmitidas a las autoridades competentes por las empresas que estén sujetas a una autorización general de conformidad con lo dispuesto en el artículo 12 de la Directiva (UE) 2018/1972; ii) los recursos de numeración con derecho de uso extraterritorial dentro de la Unión, de conformidad con lo dispuesto en el artículo 93, apartado 4, párrafo cuarto, de la Directiva (UE) 2018/1972; iii) cuando sea pertinente, los números E.164 de emergencia de los Estados miembros, de conformidad con lo dispuesto en el artículo 109, apartado 8, párrafo tercero, de la Directiva (UE) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) evaluar las necesidades de innovación en materia de regulación y coordinar acciones entre las autoridades nacionales de reglamentación para permitir el desarrollo de nuevas comunicaciones electrónicas innovadoras;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) promover la modernización, coordinación y normalización de la recogida de datos por las autoridades nacionales de reglamentación; esos datos se publicarán en un formato abierto, reutilizable y legible por máquina en el sitio web del ORECE y en el Portal Europeo de Datos, sin perjuicio de los derechos de propiedad intelectual, de las normas relativas a la protección de los datos personales y del nivel de confidencialidad necesario;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "o) desempeñar otros cometidos que le asignen los actos jurídicos de la Unión, en particular los Reglamentos (UE) n.o 531/2012 y (UE) 2015/2120 y la Directiva (UE) 2018/1972 .",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El ORECE hará públicos sus cometidos reguladores y actualizará dicha información cuando se le asignen nuevos cometidos.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. El ORECE hará públicos todos sus documentos finales: dictámenes, directrices, informes, recomendaciones, posiciones comunes, buenas prácticas y cualquier estudio que le sea encargado, así como los proyectos de documentos pertinentes a efectos de la consulta pública a que se refiere el apartado 5.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Sin perjuicio del cumplimiento del Derecho aplicable de la Unión, las autoridades nacionales de reglamentación y la Comisión tendrán en cuenta en la mayor medida posible las directrices, los dictámenes, las recomendaciones, las posiciones comunes, y las mejores prácticas adoptados por el ORECE para garantizar la aplicación coherente del marco regulador de las comunicaciones electrónicas dentro del ámbito de aplicación a que se refiere el artículo 3, apartado 1. Cuando una autoridad nacional de reglamentación se desvíe de las directrices a que se refiere el apartado 1, letra e), deberá indicar los motivos para ello.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. El ORECE consultará, si fuera necesario, a las partes interesadas y les dará la oportunidad de formular observaciones, en un período de tiempo razonable teniendo en cuenta la complejidad del asunto. Salvo en circunstancias excepcionales, dicho período no será inferior a treinta días. El ORECE, sin perjuicio de lo dispuesto en el artículo 38, hará públicos los resultados de dichas consultas públicas. Dichas consultas se celebrarán tan pronto como sea posible en el proceso de toma de decisiones.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Cuando proceda, el ORECE podrá consultar y cooperar con las autoridades nacionales pertinentes, como las que sean competentes en el ámbito de la competencia, la protección de los consumidores y la protección de los datos.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Cuando sea pertinente, el ORECE podrá cooperar con los organismos, oficinas, agencias y grupos consultivos competentes de la Unión, así como con autoridades competentes de terceros países y con organizaciones internacionales, de conformidad con lo dispuesto en el artículo 35, apartado 1.",
+     "para": "7",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_5",
+   "kind": "article",
+   "number": "5",
+   "label": "Artículo 5",
+   "title": "Cometidos de la Oficina del ORECE",
+   "path": [
+    "CAPÍTULO III — COMETIDOS DE LA OFICINA DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "La Oficina del ORECE desempeñará los siguientes cometidos:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) prestar al ORECE servicios de asistencia profesional y administrativa, en particular para el cumplimiento de sus cometidos reguladores en virtud del artículo 4;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) recoger información de las autoridades nacionales de reglamentación e intercambiar y transmitir información relacionada con los cometidos reguladores asignados al ORECE en virtud del artículo 4;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) elaborar, sobre la base de la información mencionada en la letra b), proyectos de informes periódicos sobre aspectos específicos de la evolución del mercado europeo de las comunicaciones electrónicas, tales como la itinerancia y los informes de evaluación comparativa, que deberán presentarse al ORECE;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) difundir las mejores prácticas en materia de reglamentación entre las autoridades nacionales de reglamentación, de conformidad con lo dispuesto en el artículo 4, apartado 1, letra k);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) asistir al ORECE en la creación y mantenimiento de los registros y las bases de datos de conformidad con lo dispuesto en el artículo 4, apartado 1, letra l).",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) asistir al ORECE para crear y administrar un sistema de información y comunicaciones, de conformidad con lo dispuesto en el artículo 41;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) asistir al ORECE para realizar consultas públicas, de conformidad con lo dispuesto en el artículo 4, apartado 5;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) ayudar en la preparación de los trabajos y proporcionar otro tipo de asistencia administrativa y en relación con el contenido para velar por el buen funcionamiento del Consejo de Reguladores;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) ayudar a constituir grupos de trabajo, previa solicitud del Consejo de Reguladores, contribuir a la labor reguladora y ofrecer apoyo administrativo para velar por el buen funcionamiento de dichos grupos;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) desempeñar los demás cometidos que le asignan el presente Reglamento u otros actos jurídicos de la Unión.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_6",
+   "kind": "article",
+   "number": "6",
+   "label": "Artículo 6",
+   "title": "Estructura organizativa del ORECE",
+   "path": [
+    "CAPÍTULO IV — ORGANIZACIÓN DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "El ORECE estará compuesto por:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) un Consejo de Reguladores;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) grupos de trabajo.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_7",
+   "kind": "article",
+   "number": "7",
+   "label": "Artículo 7",
+   "title": "Composición del Consejo de Reguladores",
+   "path": [
+    "CAPÍTULO IV — ORGANIZACIÓN DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. El Consejo de Reguladores estará compuesto por un miembro de cada Estado miembro. Cada miembro tendrá derecho a voto. Cada miembro será designado por las autoridades nacionales de reglamentación y tendrá como responsabilidad primordial supervisar el funcionamiento cotidiano de los mercados de redes y servicios de comunicaciones electrónicas en virtud de la Directiva (UE) 2018/1972 . El miembro será nombrado de entre el jefe de la autoridad nacional de reglamentación, un miembro de su órgano colegiado o el sustituto de uno de ellos.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Cada miembro del Consejo de Reguladores tendrá un suplente, designado por la autoridad nacional de reglamentación. El suplente representará al miembro en ausencia de este. El suplente será nombrado de entre el jefe de la autoridad nacional de reglamentación, un miembro de su órgano colegiado, o el sustituto de uno de ellos o un miembro del personal de la autoridad nacional de reglamentación.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Los miembros del Consejo de Reguladores y sus suplentes serán nombrados en función de sus conocimientos en el ámbito de las comunicaciones electrónicas, teniendo en cuenta las capacidades de gestión, administrativas y presupuestarias requeridas. A fin de garantizar la continuidad de los trabajos del Consejo de Reguladores, todas las autoridades nacionales de reglamentación que designen a los miembros procurarán limitar la rotación de sus miembros y, en la medida de lo posible, de sus suplentes y tratarán de lograr una representación equilibrada de hombres y mujeres.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. La Comisión participará, sin derecho a voto, en todas las deliberaciones del Consejo de Reguladores y estará representada a un nivel suficientemente elevado.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Se hará pública una lista actualizada de los miembros del Consejo de Reguladores y de sus suplentes, junto con sus declaraciones de interés.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_8",
+   "kind": "article",
+   "number": "8",
+   "label": "Artículo 8",
+   "title": "Independencia del Consejo de Reguladores",
+   "path": [
+    "CAPÍTULO IV — ORGANIZACIÓN DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. En el desempeño de los cometidos que le sean encomendadas, y sin perjuicio de que sus miembros actúen en nombre de sus respectivas autoridades nacionales de reglamentación, el Consejo de Reguladores actuará con independencia y objetividad en interés de la Unión, al margen de cualquier interés nacional o personal particular.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Sin perjuicio de la coordinación a que se refiere el artículo 3, apartado 6, los miembros del Consejo de Reguladores y sus suplentes no solicitarán ni aceptarán instrucciones de ningún gobierno, institución, persona u organismo.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_9",
+   "kind": "article",
+   "number": "9",
+   "label": "Artículo 9",
+   "title": "Cometidos del Consejo de Reguladores",
+   "path": [
+    "CAPÍTULO IV — ORGANIZACIÓN DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "El Consejo de Reguladores tendrá los siguientes cometidos:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) desempeñar los cometidos reguladores del ORECE establecidos en el artículo 4 y, por consiguiente, adoptar los dictámenes, directrices, informes, recomendaciones y posiciones comunes, y difundir buenas prácticas a que se refiere dicho artículo; podrá basarse para ello en los trabajos preparatorios realizados por los grupos de trabajo;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) adoptar las decisiones administrativas relativas a la organización de los trabajos del ORECE;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) adoptar el programa de trabajo anual del ORECE a que se refiere el artículo 21;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) adoptar el informe anual sobre las actividades del ORECE a que se refiere el artículo 22;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) adoptar las normas para la prevención y gestión de los conflictos de interés a que se refiere el artículo 42, así como por lo que respecta a los miembros de los grupos de trabajo;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) adoptar las normas detalladas sobre el derecho de acceso a los documentos en posesión del ORECE, de conformidad con lo dispuesto en el artículo 36;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) adoptar y actualizar periódicamente los planes de comunicación y difusión a que se refiere el artículo 37, apartado 2, basándose en un análisis de las necesidades;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) adoptar su reglamento interno por mayoría de dos tercios de sus miembros y hacerlo público;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) autorizar, conjuntamente con el director, la celebración de acuerdos de trabajo con organismos, oficinas, agencias y grupos consultivos competentes de la Unión, con autoridades competentes de terceros países y con organizaciones internacionales, de conformidad con lo dispuesto en el artículo 35;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) constituir grupos de trabajo y nombrar a sus presidentes;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "k) facilitar directrices al director de la Oficina del ORECE respecto del desempeño de los cometidos de la Oficina del ORECE.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_10",
+   "kind": "article",
+   "number": "10",
+   "label": "Artículo 10",
+   "title": "Presidente y vicepresidentes del Consejo de Reguladores",
+   "path": [
+    "CAPÍTULO IV — ORGANIZACIÓN DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. El Consejo de Reguladores nombrará, por mayoría de dos tercios de sus miembros, un presidente y al menos dos vicepresidentes de entre sus miembros.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Uno de los vicepresidentes asumirá automáticamente las tareas del presidente en caso de que este último no esté en condiciones de hacerlo.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. El mandato del presidente será de un año, renovable una sola vez. Para asegurar la continuidad del trabajo del ORECE, el presidente entrante ejercerá, cuando sea posible, un año como vicepresidente antes de su mandato como presidente. El reglamento interno establecerá un plazo más corto en caso de que al nuevo presidente no le resulte posible ejercer un año como vicepresidente antes de su mandato como presidente.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Sin perjuicio de la función del Consejo de Reguladores con respecto a los cometidos del presidente, este último no solicitará ni aceptará instrucciones de ningún gobierno, institución, persona u organismo.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. El presidente informará al Parlamento Europeo y al Consejo sobre el desempeño de los cometidos del ORECE cuando se le invite a hacerlo.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_11",
+   "kind": "article",
+   "number": "11",
+   "label": "Artículo 11",
+   "title": "Reuniones del Consejo de Reguladores",
+   "path": [
+    "CAPÍTULO IV — ORGANIZACIÓN DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. El presidente convocará las reuniones del Consejo de Reguladores y fijará el orden del día de dichas reuniones, que se hará público.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El Consejo de Reguladores celebrará al menos dos reuniones ordinarias al año. El presidente convocará reuniones extraordinarias por iniciativa propia, a petición de al menos tres de sus miembros o a petición de la Comisión.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. El director del ORECE participará en todas las deliberaciones, pero no tendrá derecho a voto.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. El Consejo de Reguladores podrá invitar a cualquier persona cuya opinión pueda ser de interés a que participe en sus reuniones en calidad de observador.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Los miembros y suplentes del Consejo de Reguladores podrán ser asistidos en las reuniones por sus asesores u otros expertos, con arreglo a su reglamento interno.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. La Oficina del ORECE se hará cargo de la secretaría del Consejo de Reguladores.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_12",
+   "kind": "article",
+   "number": "12",
+   "label": "Artículo 12",
+   "title": "Normas de votación del Consejo de Reguladores",
+   "path": [
+    "CAPÍTULO IV — ORGANIZACIÓN DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. El Consejo de Reguladores decidirá por mayoría simple de sus miembros, salvo que se prevea de otra manera en el presente Reglamento o en otro acto jurídico de la Unión. Para los dictámenes a que se refiere el artículo 4, apartado 1, letra c), incisos ii) y iv), y para las directrices a que se refiere el artículo 4, apartado 1, letra d), incisos de i) hasta iv), vi), vii) y xi), se requerirá una mayoría de dos tercios de los miembros del Consejo de Reguladores. No obstante lo dispuesto en el párrafo segundo del presente apartado, el Consejo de Reguladores podrá decidir por mayoría simple y caso por caso, adoptar por mayoría simple los dictámenes a que se refiere el artículo 4, apartado 1, letra c), inciso ii), del presente Reglamento sobre aquellos proyectos de medidas que entran en el ámbito de aplicación del artículo 76, apartado 2, de la Directiva (UE) 2018/1972 , que den lugar a la puesta en marcha del procedimiento previsto en el artículo 33, apartado 5, de dicha Directiva. Las decisiones del Consejo de Reguladores se harán públicas y en ellas se indicarán las reservas formuladas por cualquiera de sus miembros, previa petición de estos.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Cada miembro dispondrá de un voto. En ausencia de un miembro, el suplente podrá ejercer el derecho a voto de dicho miembro. En ausencia de un miembro y del suplente, el derecho a voto podrá delegarse en otro miembro. El presidente podrá delegar el derecho a voto en cualquier caso. El presidente participará en las votaciones, salvo que haya delegado el derecho a voto.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. El reglamento interno del Consejo de Reguladores establecerá detalladamente los mecanismos que rijan las votaciones, en particular las condiciones en las que un miembro puede actuar en nombre de otro, el quorum y los plazos de notificación de las reuniones. Además, garantizará que los miembros del Consejo de Reguladores reciban los órdenes del día y los proyectos de propuestas completos antes de cada reunión, para que puedan así proponer enmiendas antes de la votación. Entre otras cosas, el reglamento interno podrá establecer un procedimiento de votación para situaciones de urgencia, así como otras disposiciones prácticas para el funcionamiento del Consejo de Reguladores.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_13",
+   "kind": "article",
+   "number": "13",
+   "label": "Artículo 13",
+   "title": "Grupos de trabajo",
+   "path": [
+    "CAPÍTULO IV — ORGANIZACIÓN DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. En casos justificados, y en particular para ejecutar el programa de trabajo anual del ORECE, el Consejo de Reguladores podrá establecer grupos de trabajo.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El Consejo de Reguladores nombrará a los presidentes de los grupos de trabajo en representación, cuando sea posible, de distintas autoridades nacionales de reglamentación.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. En los grupos de trabajo podrán participar expertos de todas las autoridades nacionales de reglamentación que tomen parte en los trabajos del ORECE, así como la Comisión. En los grupos de trabajo podrá participar asimismo el personal de la Oficina del ORECE, que contribuirá a la labor reguladora de los grupos de trabajo y les ofrecerá apoyo administrativo. En los grupos de trabajo constituidos para desempeñar los cometidos a que se refiere el artículo 4, apartado 1, letra c), inciso ii), no participarán los expertos de la Comisión. En los grupos de trabajo que se constituyan para desempeñar los cometidos a que se refieren el artículo 4, apartado 1, letra c), incisos iv), vi), vii) y viii), letra d), incisos i), ii), ix), x) y xi), letra j), inciso ii), y letra l) del presente Reglamento, así como, cuando sea pertinente, su artículo 4, apartado 1, letra c), inciso iii) y letra j), inciso i),, se tendrán en cuenta las opiniones de los expertos de otras autoridades competentes pertinentes notificadas con arreglo al artículo 5, apartado 4, de la Directiva (UE) 2018/1972 . De ser necesario, y teniendo en cuenta las circunstancias de cada caso, el Consejo de Reguladores o los presidentes de los grupos de trabajo podrán invitar, a título Individual, a expertos de reconocida competencia en el ámbito de que se trate a participar en las reuniones de los grupos de trabajo.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. El Consejo de Reguladores adoptará un reglamento interno que establecerá disposiciones prácticas para el funcionamiento de los grupos de trabajo.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_14",
+   "kind": "article",
+   "number": "14",
+   "label": "Artículo 14",
+   "title": "Estructura organizativa de la Oficina del ORECE",
+   "path": [
+    "CAPÍTULO V — ORGANIZACIÓN DE LA OFICINA DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "La Oficina del ORECE estará compuesta por:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) un Consejo de Administración;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) un director.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_15",
+   "kind": "article",
+   "number": "15",
+   "label": "Artículo 15",
+   "title": "Composición del Consejo de Administración",
+   "path": [
+    "CAPÍTULO V — ORGANIZACIÓN DE LA OFICINA DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. El Consejo de Administración estará formado por las personas nombradas miembros del Consejo de Reguladores y un representante de alto nivel de la Comisión. Cada miembro del Consejo de Administración tendrá derecho a voto. Cada autoridad nacional de reglamentación facultada para proceder a los nombramientos a que se refiere el artículo 7, apartado 1, párrafo segundo, podrá designar miembro del Consejo de Administración a una persona distinta del miembro del Consejo de Reguladores. Esta será el jefe de la autoridad nacional de reglamentación, un miembro de su órgano colegiado o el sustituto de uno de ellos.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Cada miembro del Consejo de Administración tendrá un suplente que representará al miembro en su ausencia. Los suplentes de cada miembro serán las personas designadas suplentes de los miembros del Consejo de Reguladores. El representante de la Comisión también tendrá un suplente. Cada autoridad nacional de reglamentación facultada para proceder a los nombramientos, a que se refiere el artículo 7, apartado 1, párrafo segundo podrá designar a una persona distinta del suplente del miembro del Consejo de Reguladores como suplente del miembro del Consejo de Administración. Esta será el jefe de la autoridad nacional de reglamentación, un miembro de su órgano colegiado, el sustituto de uno de ellos o un miembro del personal de la autoridad nacional de reglamentación.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Los miembros del Consejo de Administración y sus suplentes no solicitarán ni aceptarán instrucciones de ningún gobierno, institución, persona u organismo.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Se hará pública una lista actualizada de los miembros del Consejo de Administración, y de sus suplentes, junto con sus declaraciones de interés.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_16",
+   "kind": "article",
+   "number": "16",
+   "label": "Artículo 16",
+   "title": "Funciones administrativas del Consejo de Administración",
+   "path": [
+    "CAPÍTULO V — ORGANIZACIÓN DE LA OFICINA DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. El Consejo de Administración tendrá las siguientes funciones administrativas:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) formular orientaciones generales para las actividades de la Oficina del ORECE y adoptar anualmente el documento único de programación de la Oficina del ORECE por mayoría de dos tercios de sus miembros, teniendo en cuenta el dictamen de la Comisión y de conformidad con lo dispuesto en el artículo 23;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) adoptar, por mayoría de dos tercios de sus miembros, el presupuesto anual de la Oficina del ORECE y ejercerá otras funciones relacionadas con el presupuesto de la Oficina del ORECE en virtud del capítulo VII;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) adoptar, hacer pública y proceder a una evaluación del informe anual consolidado sobre las actividades de la Oficina del ORECE a que se refiere el artículo 27 y, a más tardar el 1 de julio de cada año, remitir tanto el informe como su evaluación al Parlamento Europeo, al Consejo, a la Comisión y al Tribunal de Cuentas;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) adoptar las normas financieras aplicables a la Oficina del ORECE de conformidad con lo dispuesto en el artículo 29;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) adoptar una estrategia de lucha contra el fraude proporcional a los riesgos de fraude, teniendo en cuenta los costes y beneficios de las medidas que deban aplicarse;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) asegurar un seguimiento adecuado de las conclusiones y recomendaciones resultantes de los informes de auditoría y evaluaciones internas o externas, así como de las investigaciones de la Oficina Europea de Lucha contra el Fraude (OLAF);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) adoptar normas para la prevención y gestión de los conflictos de interés a que se refiere el artículo 42, apartado 3;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) adoptar y actualizar periódicamente los planes de comunicación y difusión a que se refiere el artículo 37, apartado 2, basándose en un análisis de las necesidades;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) adoptar su reglamento interno;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) adoptar normas de desarrollo para dar efecto al Estatuto de los funcionarios de la Unión Europea y al Régimen aplicable a los otros agentes de la Unión Europea, de conformidad con el artículo 110 del Estatuto de los funcionarios;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) no obstante lo dispuesto en la decisión a que se refiere el párrafo primero del apartado 2, ejercer respecto al personal de la Oficina del ORECE las competencias atribuidas por el Estatuto de los funcionarios a la autoridad facultada para proceder a los nombramientos y por el Régimen aplicable a los otros agentes a la autoridad facultada para proceder a la contratación (en lo sucesivo, «competencias de la autoridad facultada para proceder a los nombramientos»);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) designar al director y, cuando proceda, ampliar su mandato o cesarlo, de conformidad con lo dispuesto en el artículo 32;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) nombrar a un contable, sujeto al Estatuto de los funcionarios y al Régimen aplicable a los otros agentes, que gozará de plena independencia en el ejercicio de sus funciones.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) adoptar todas las decisiones sobre el establecimiento de las estructuras internas de la Oficina del ORECE y, cuando sea necesario, sobre su modificación, teniendo en cuenta las necesidades de la actividad de la Oficina del ORECE, así como la buena gestión financiera. Con respecto a la letra m) del párrafo primero, la Oficina del ORECE podrá nombrar al mismo contable que otro órgano o institución de la Unión. En particular, la Oficina del ORECE y la Comisión podrán acordar que el contable de la Comisión actúe asimismo como contable de la Oficina del ORECE.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El Consejo de Administración adoptará, de conformidad con el artículo 110 del Estatuto de los funcionarios, una decisión basada en el artículo 2, apartado 1, de dicho Estatuto y en el artículo 6 del Régimen aplicable a los otros agentes, por la que se deleguen en el director las competencias correspondientes de la Autoridad facultada para proceder a los nombramientos y se precisen las condiciones de suspensión de dicha delegación. El director estará autorizado a subdelegar esas competencias. Cuando así lo exijan circunstancias excepcionales, el Consejo de Administración podrá, mediante decisión, suspender temporalmente la delegación de las competencias de la Autoridad facultada para proceder a los nombramientos en el director y la subdelegación de competencias por parte de este último, y ejercer él mismo las competencias o delegarlas en uno de sus miembros o en un miembro del personal distinto del director.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_17",
+   "kind": "article",
+   "number": "17",
+   "label": "Artículo 17",
+   "title": "Presidente y vicepresidentes del Consejo de Administración",
+   "path": [
+    "CAPÍTULO V — ORGANIZACIÓN DE LA OFICINA DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. El presidente y los vicepresidentes del Consejo de Administración serán las personas designadas presidente y vicepresidentes del Consejo de Reguladores. La duración del mandato será la misma. No obstante lo dispuesto en el párrafo primero, el Consejo de Administración podrá elegir como presidente o vicepresidentes, de entre sus miembros representantes de los Estados miembros y por mayoría de dos tercios, a otros miembros del Consejo de Administración. Su mandato será el mismo que el del presidente y los vicepresidentes del Consejo de Reguladores.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Uno de los vicepresidentes asumirá automáticamente las funciones del presidente cuando este no esté en condiciones de hacerlo.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. El presidente del Consejo de Administración informará al Parlamento Europeo y al Consejo sobre el desempeño de los cometidos de la Oficina del ORECE cuando se le invite a hacerlo.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_18",
+   "kind": "article",
+   "number": "18",
+   "label": "Artículo 18",
+   "title": "Reuniones del Consejo de Administración",
+   "path": [
+    "CAPÍTULO V — ORGANIZACIÓN DE LA OFICINA DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. El presidente convocará las reuniones del Consejo de Administración.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El director participará en todas las deliberaciones de la Oficina del ORECE salvo las relacionadas con el artículo 32, pero no tendrá derecho a voto.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. El Consejo de Administración celebrará al menos dos reuniones ordinarias al año. Además, el presidente convocará reuniones extraordinarias por iniciativa propia, a petición de la Comisión o de al menos tres de sus miembros.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. El Consejo de Administración podrá invitar a cualquier persona cuya opinión pueda ser de interés a que asista a sus reuniones en calidad de observador.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Los miembros del Consejo de Administración y sus suplentes podrán ser asistidos en las reuniones por asesores o expertos, con arreglo a su reglamento interno.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. La Oficina del ORECE se hará cargo de la secretaría del Consejo de Administración.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_19",
+   "kind": "article",
+   "number": "19",
+   "label": "Artículo 19",
+   "title": "Votaciones en el Consejo de Administración",
+   "path": [
+    "CAPÍTULO V — ORGANIZACIÓN DE LA OFICINA DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. El Consejo de Administración tomará sus decisiones por mayoría simple de sus miembros, salvo disposición en contrario del presente Reglamento.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Cada miembro dispondrá de un voto. En ausencia de un miembro, el suplente podrá ejercer el derecho a voto. En ausencia de un miembro y del suplente, el derecho a voto podrá delegarse en otro miembro.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. El presidente podrá delegar el derecho a voto en cualquier caso. El presidente participará en las votaciones, salvo que haya delegado su derecho a voto.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. El reglamento interno del Consejo de Administración establecerá de manera más pormenorizada el régimen de votación, en particular el procedimiento de votación urgente y las circunstancias en las que un miembro puede actuar por cuenta de otro.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_20",
+   "kind": "article",
+   "number": "20",
+   "label": "Artículo 20",
+   "title": "Responsabilidades del director",
+   "path": [
+    "CAPÍTULO V — ORGANIZACIÓN DE LA OFICINA DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. El director se encargará de la gestión administrativa de la Oficina del ORECE. El director dará cuenta de su gestión al Consejo de Administración.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El director asistirá al presidente del Consejo de Reguladores y al presidente del Consejo de Administración en la preparación de las reuniones de sus órganos respectivos.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Sin perjuicio de las competencias respectivas del Consejo de Reguladores, del Consejo de Administración, y de la Comisión, el director será independiente en el ejercicio de sus funciones y no solicitará ni aceptará instrucciones de ningún Gobierno, institución, persona u organismo.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. El director informará al Parlamento Europeo y al Consejo sobre el ejercicio de sus funciones cuando se le invite a hacerlo.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. El director será el representante legal de la Oficina del ORECE.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. El director será responsable de la ejecución de los cometidos de la Oficina del ORECE con arreglo a las orientaciones del Consejo de Reguladores y del Consejo de Administración. El director se encargará, en particular, de lo siguiente:",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "a) administrar los asuntos corrientes de la Oficina del ORECE;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "b) ejecutar las decisiones administrativas adoptadas por el Consejo de Reguladores y el Consejo de Administración;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "c) preparar y presentar al Consejo de Administración el documento único de programación a que se refiere el artículo 23;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "d) asistir al Consejo de Reguladores en la elaboración del programa anual de actividades del ORECE a que se refiere el artículo 22;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "e) asistir al Consejo de Reguladores en la elaboración del programa de trabajo anual del ORECE a que se refiere el artículo 21;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "f) ejecutar el documento único de programación e informar sobre su ejecución al Consejo de Administración;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "g) elaborar el proyecto de informe anual consolidado sobre las actividades de la Oficina del ORECE a que se refiere el artículo 27 y presentarlo al Consejo de Administración para su evaluación y adopción;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "h) preparar un plan de acción en función de las conclusiones de los informes de auditoría internos o externos y de las evaluaciones, así como de las investigaciones llevadas a cabo por la OLAF, e informar al menos una vez al año al Consejo de Administración sobre los avances realizados;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "i) proteger los intereses financieros de la Unión mediante la aplicación de medidas preventivas contra el fraude, la corrupción y cualquier otra actividad ilegal mediante la realización de controles efectivos y, si se detectan irregularidades, la recuperación de las cantidades abonadas indebidamente y, en su caso, la imposición de medidas administrativas efectivas, proporcionadas y disuasorias, incluidas sanciones financieras;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "j) establecer una estrategia antifraude para la Oficina del ORECE y someterla a la aprobación del Consejo de Administración;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "k) elaborar un proyecto de normas financieras aplicables a la Oficina del ORECE;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "l) preparar el proyecto de estado de previsiones de ingresos y gastos de la Oficina del ORECE y ejecutar su presupuesto",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "m) autorizar, conjuntamente con el Consejo de Reguladores, la celebración de acuerdos de trabajo con organismos, oficinas, agencias y grupos consultivos competentes de la Unión, y con autoridades competentes de terceros países y con organizaciones internacionales, de conformidad con lo dispuesto en el artículo 35;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. El director, bajo la supervisión del Consejo de Administración, tomará las medidas necesarias, en particular con respecto a la adopción de instrucciones administrativas internas, para garantizar que el funcionamiento de la Oficina del ORECE se ajuste a lo dispuesto en el presente Reglamento.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. El director decidirá, sujeto al consentimiento previo de la Comisión, del Consejo de Administración y de los Estados miembros de que se trate, si es necesario, para que la Oficina del ORECE desempeñe sus cometidos de manera eficiente y eficaz, destacar un miembro o más del personal en uno o más Estados miembros. La decisión especificará el alcance de las actividades que deben llevarse a cabo, procurando evitar costes innecesarios y la duplicación de funciones administrativas de la Oficina del ORECE. Antes de que se tome dicha decisión, sus consecuencias en la asignación de personal y presupuestaria se expondrán en el programa de trabajo plurianual a que se refiere el artículo 23, apartado 4.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_21",
+   "kind": "article",
+   "number": "21",
+   "label": "Artículo 21",
+   "title": "Programa de trabajo anual del ORECE",
+   "path": [
+    "CAPÍTULO VI — PROGRAMACIÓN DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. El Consejo de Reguladores adoptará el programa de trabajo anual a más tardar el 31 de enero del año que antecede al año a que se refiere el programa de trabajo anual. Tras consultar al Parlamento Europeo, al Consejo y a la Comisión sobre sus prioridades, y a otras partes interesadas de conformidad con lo dispuesto en el artículo 4, apartado 5, el Consejo de Reguladores adoptará el programa de trabajo anual definitivo a más tardar el 31 de diciembre de dicho año.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El Consejo de Reguladores transmitirá el programa de trabajo anual al Parlamento Europeo, al Consejo y a la Comisión, tan pronto como haya sido adoptado.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_22",
+   "kind": "article",
+   "number": "22",
+   "label": "Artículo 22",
+   "title": "Informe anual de actividades del ORECE",
+   "path": [
+    "CAPÍTULO VI — PROGRAMACIÓN DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. El Consejo de Reguladores adoptará el informe anual de actividades del ORECE.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El Consejo de Reguladores transmitirá el informe anual de actividades del ORECE al Parlamento Europeo, al Consejo, a la Comisión y al Comité Económico y Social Europeo a más tardar el 15 de junio de cada año.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_23",
+   "kind": "article",
+   "number": "23",
+   "label": "Artículo 23",
+   "title": "Programación anual y plurianual",
+   "path": [
+    "CAPÍTULO VII — PRESUPUESTO Y PROGRAMACIÓN DE LA OFICINA DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Cada año, el director elaborará un proyecto de documento de programación que contenga una programación anual y plurianual (en lo sucesivo, «documento único de programación») de conformidad con el artículo 32 del Reglamento Delegado (UE) n.o 1271/2013, que tenga en cuenta las directrices establecidas por la Comisión. A más tardar el 31 de enero de cada año, el Consejo de Administración aprobará el proyecto de documento único de programación y lo transmitirá a la Comisión para que esta emita su dictamen. El proyecto de documento único de programación se presentará asimismo al Parlamento Europeo y al Consejo. El Consejo de Administración adoptará posteriormente el documento único de programación teniendo en cuenta el dictamen de la Comisión. Presentará el documento único de programación, así como las posteriores actualizaciones, al Parlamento Europeo, al Consejo y a la Comisión. El documento único de programación será definitivo tras la adopción del presupuesto general de la Unión y, en caso necesario, se adaptará en consecuencia.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El documento anual de programación incluirá objetivos detallados y resultados esperados, incluidos los indicadores de rendimiento. También constará de una descripción de las acciones que se vayan a financiar y de una indicación de los recursos financieros y humanos destinados a cada acción, de conformidad con los principios de un presupuesto y una gestión basadas en las actividades a que se refiere el artículo 31. El documento anual de programación será coherente con el proyecto de programa de trabajo anual del ORECE y el programa de trabajo anual definitivo a que se refiere el artículo 21, así como con el documento plurianual de programación de la Oficina del ORECE a que se refiere el apartado 4 del presente artículo. En él se indicarán claramente los cometidos que se hayan añadido, modificado o suprimido en relación con el ejercicio financiero anterior.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. En caso necesario, el Consejo de Administración modificará el documento anual de programación tras la aprobación del programa de trabajo anual definitivo del ORECE a que se refiere el artículo 21 y cuando se encomiende un nuevo cometido al ORECE o a la Oficina del ORECE. Cualquier modificación sustancial del documento anual de programación se adoptará con arreglo al mismo procedimiento que el utilizado para aprobar el documento anual de programación inicial. El Consejo de Administración podrá delegar en el director la competencia de adoptar modificaciones no sustanciales del documento anual de programación.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. El documento plurianual de programación fijará la programación estratégica general, incluidos los objetivos, los resultados esperados y los indicadores de rendimiento. Establecerá también la programación de los recursos, incluidas las necesidades plurianuales en materia de presupuesto y personal. La programación de los recursos se actualizará todos los años. La programación estratégica se actualizará cuando proceda y, en particular, para estudiar los resultados de la evaluación a que se hace referencia en el artículo 48.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. El documento único de programación de la Oficina del ORECE incluirá la ejecución de la estrategia del ORECE para las relaciones con los órganos, oficinas, agencias y grupos consultivos competentes de la Unión, con las autoridades competentes de terceros países y con las organizaciones internacionales a que se refiere el artículo 35, apartado 3, así como las actuaciones ligadas a esa estrategia, con indicación de los recursos asociados.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_24",
+   "kind": "article",
+   "number": "24",
+   "label": "Artículo 24",
+   "title": "Establecimiento del presupuesto",
+   "path": [
+    "CAPÍTULO VII — PRESUPUESTO Y PROGRAMACIÓN DE LA OFICINA DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Cada año, el director elaborará un proyecto provisional de previsiones de los ingresos y gastos de la Oficina del ORECE (en lo sucesivo, «proyecto de previsiones») para el ejercicio presupuestario siguiente, que incluirá la plantilla de personal, y lo presentará al Consejo de Administración. La información que figure en el proyecto de previsiones habrá de ser coherente con el proyecto de documento único de programación a que hace referencia el artículo 23, apartado 1.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El director presentará el proyecto de previsiones a la Comisión a más tardar el 31 de enero de cada año.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. La Comisión presentará el proyecto de previsiones a la autoridad presupuestaria junto con el proyecto de presupuesto general de la Unión Europea.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Sobre la base del proyecto de previsiones, la Comisión inscribirá en el proyecto de presupuesto general de la Unión Europea las previsiones que considere necesarias por lo que respecta a la plantilla de personal y al importe de la contribución con cargo al presupuesto general, y lo presentará a la autoridad presupuestaria de conformidad con lo dispuesto en los artículos 313 y 314 del Tratado de Funcionamiento de la Unión Europea (TFUE).",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. La autoridad presupuestaria autorizará los créditos necesarios para la contribución destinada a la Oficina del ORECE.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. La autoridad presupuestaria aprobará la plantilla de personal de la Oficina del ORECE.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. El Consejo de Administración aprobará el presupuesto de la Oficina del ORECE. El presupuesto se convertirá en definitivo tras la aprobación definitiva del presupuesto general de la Unión. Si fuese necesario, se adaptará en consecuencia.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. En cualquier proyecto inmobiliario que pueda tener repercusiones importantes para el presupuesto de la Oficina del ORECE, se aplicará el Reglamento Delegado (UE) n.o 1271/2013.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_25",
+   "kind": "article",
+   "number": "25",
+   "label": "Artículo 25",
+   "title": "Estructura del presupuesto",
+   "path": [
+    "CAPÍTULO VII — PRESUPUESTO Y PROGRAMACIÓN DE LA OFICINA DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Para cada ejercicio financiero, que coincidirá con el año civil, se elaborarán previsiones de todos los ingresos y gastos de la Oficina del ORECE que se consignarán en el presupuesto de la Oficina del ORECE.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El presupuesto de la Oficina del ORECE deberá estar equilibrado en cuanto a ingresos y gastos.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Sin perjuicio de otros recursos, los ingresos de la Oficina del ORECE incluirán: a) una contribución de la Unión; b) cualquier contribución financiera voluntaria de los Estados miembros o de las autoridades nacionales de reglamentación; c) las tarifas de publicaciones y cualesquiera servicios prestados por la Oficina del ORECE; d) cualquier contribución de terceros países o de las autoridades de reglamentación competentes en el ámbito de las comunicaciones electrónicas de terceros países que participen en los trabajos de la Oficina del ORECE, tal como prevé el artículo 35.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Los gastos de la Oficina del ORECE comprenderán los gastos de retribución del personal, los gastos administrativos y de infraestructura, así como los gastos de funcionamiento.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_26",
+   "kind": "article",
+   "number": "26",
+   "label": "Artículo 26",
+   "title": "Ejecución del presupuesto",
+   "path": [
+    "CAPÍTULO VII — PRESUPUESTO Y PROGRAMACIÓN DE LA OFICINA DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. El director ejecutará el presupuesto de la Oficina del ORECE.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El director presentará anualmente al Parlamento Europeo y al Consejo toda la información pertinente sobre las conclusiones de los procedimientos de evaluación.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_27",
+   "kind": "article",
+   "number": "27",
+   "label": "Artículo 27",
+   "title": "Informe anual de actividades consolidado",
+   "path": [
+    "CAPÍTULO VII — PRESUPUESTO Y PROGRAMACIÓN DE LA OFICINA DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "El Consejo de Administración adoptará informes anuales de actividades consolidados de conformidad con lo dispuesto en el artículo 47 del Reglamento Delegado (UE) n.o 1271/2013, teniendo en cuenta las directrices establecidas por la Comisión.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_28",
+   "kind": "article",
+   "number": "28",
+   "label": "Artículo 28",
+   "title": "Rendición de cuentas y aprobación de la gestión",
+   "path": [
+    "CAPÍTULO VII — PRESUPUESTO Y PROGRAMACIÓN DE LA OFICINA DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. El contable de la Oficina del ORECE presentará las cuentas provisionales del ejercicio presupuestario al contable de la Comisión y al Tribunal de Cuentas a más tardar el 1 de marzo del ejercicio presupuestario siguiente.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. La Oficina del ORECE presentará el informe sobre la gestión presupuestaria y financiera al Parlamento Europeo, al Consejo y al Tribunal de Cuentas a más tardar el 31 de marzo del ejercicio presupuestario siguiente.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Tras la recepción de las observaciones del Tribunal de Cuentas sobre las cuentas provisionales de la Oficina del ORECE, el contable de la Oficina del ORECE elaborará las cuentas definitivas de la Oficina del ORECE bajo su propia responsabilidad. El director las presentará al Consejo de Administración para que este emita dictamen al respecto.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. El Consejo de Administración emitirá un dictamen sobre las cuentas definitivas de la Oficina del ORECE.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. El director presentará las cuentas definitivas, junto con el dictamen del Consejo de Administración, al Parlamento Europeo, al Consejo, a la Comisión y al Tribunal de Cuentas a más tardar el 1 de julio de cada ejercicio presupuestario.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. La Oficina del ORECE publicará las cuentas definitivas en el Diario Oficial de la Unión Europea a más tardar el 15 de noviembre del año siguiente.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. El director presentará al Tribunal de Cuentas una respuesta a sus observaciones a más tardar el 30 de septiembre del año presupuestario siguiente. El director presentará asimismo esa respuesta al Consejo de Administración.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. El director presentará al Parlamento Europeo, previa solicitud de este, de conformidad con el artículo 165, apartado 3, del Reglamento (UE, Euratom) 2018/1046 del Parlamento Europeo y del Consejo, cualquier información necesaria para el correcto desarrollo del procedimiento de aprobación de la gestión presupuestaria del ejercicio de que se trate.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. El Parlamento Europeo, previa recomendación del Consejo por mayoría cualificada, aprobará, antes del 15 de mayo del año N+2, la gestión del director con respecto a la ejecución del presupuesto del ejercicio N.",
+     "para": "9",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_29",
+   "kind": "article",
+   "number": "29",
+   "label": "Artículo 29",
+   "title": "Normas financieras",
+   "path": [
+    "CAPÍTULO VII — PRESUPUESTO Y PROGRAMACIÓN DE LA OFICINA DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "El Consejo de Administración adoptará las normas financieras aplicables a la Oficina del ORECE, previa consulta a la Comisión. Estas normas financieras no podrán apartarse del Reglamento Delegado (UE) n.o 1271/2013, salvo si las exigencias de funcionamiento de la Oficina del ORECE lo requieren y la Comisión lo autoriza previamente.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_30",
+   "kind": "article",
+   "number": "30",
+   "label": "Artículo 30",
+   "title": "Disposición general",
+   "path": [
+    "CAPÍTULO VIII — PERSONAL DE LA OFICINA DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "Serán aplicables al personal de la Oficina del ORECE el Estatuto de los funcionarios de la Unión Europea y el régimen aplicable a los otros agentes de la Unión Europea así como las normas adoptadas de común acuerdo entre las instituciones de la Unión para dar efecto al Estatuto de los funcionarios de la Unión Europea y el régimen aplicable a los otros agentes de la Unión Europea.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_31",
+   "kind": "article",
+   "number": "31",
+   "label": "Artículo 31",
+   "title": "Número de miembros del personal de la Oficina del ORECE",
+   "path": [
+    "CAPÍTULO VIII — PERSONAL DE LA OFICINA DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. De conformidad con el principio de gestión por actividades de recursos humanos, la Oficina del ORECE se dotará del número de empleados necesario para desempeñar sus cometidos.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El número de miembros del personal y los recursos financieros correspondientes se propondrán de conformidad con lo dispuesto en el artículo 23, apartados 2 y 4, y el artículo 24, apartado 1, teniendo en cuenta el artículo 5, letra a), y todos los demás cometidos asignados a la Oficina del ORECE por el presente Reglamento o por otros actos jurídicos de la Unión, así como la necesidad de respetar las normativas aplicables a todas las agencias descentralizadas de la Unión.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_32",
+   "kind": "article",
+   "number": "32",
+   "label": "Artículo 32",
+   "title": "Nombramiento del director",
+   "path": [
+    "CAPÍTULO VIII — PERSONAL DE LA OFICINA DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. El director será contratado como agente temporal de la Oficina del ORECE de conformidad con lo dispuesto en el artículo 2, letra a), del Régimen aplicable a los otros agentes.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El director será nombrado por el Consejo de Administración tras un procedimiento de selección abierto y transparente, basándose en sus méritos, sus capacidades de gestión, administrativas y presupuestarias y su experiencia y conocimientos en materia de redes y servicios de comunicaciones electrónicas. La lista de candidatos no podrá ser propuesta únicamente por el presidente o por un vicepresidente. El reglamento interno del Consejo de Administración establecerá detalladamente los mecanismos que regulen el procedimiento de preselección de los candidatos idóneos y el procedimiento de votación.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. A efectos de la celebración del contrato con el director, la Oficina del ORECE estará representada por el presidente del Consejo de Administración.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Antes del nombramiento se invitará al candidato seleccionado por el Consejo de Administración a hacer una declaración ante la comisión competente del Parlamento Europeo y a responder a las preguntas formuladas por sus miembros.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. El mandato del director tendrá una duración de cinco años. Antes de que concluya ese período, el presidente del Consejo de Administración procederá a una evaluación en la que se analizarán la actuación del director y los cometidos y retos futuros de la Oficina del ORECE. Esa evaluación se presentará al Parlamento Europeo y al Consejo.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. El Consejo de Administración, teniendo en cuenta la evaluación contemplada en el apartado 5, podrá prorrogar el mandato del director una sola vez por un máximo de cinco años.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. El Consejo de Administración informará al Parlamento Europeo de su intención de prorrogar el mandato del director. En el mes que preceda a toda prórroga, podrá invitarse al director a hacer una declaración ante la comisión competente del Parlamento Europeo y a responder a las preguntas formuladas por sus miembros.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Un director cuyo mandato haya sido prorrogado no podrá participar, al término de dicha prórroga, en otro procedimiento de selección para el mismo puesto.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. En caso de no prorrogarse su mandato, el director, previa decisión del Consejo de Administración, seguirá en funciones, más allá de la expiración inicial de su mandato, hasta que sea nombrado su sucesor.",
+     "para": "9",
+     "point": ""
+    },
+    {
+     "text": "10. El director solo podrá ser destituido previa decisión del Consejo de Administración a propuesta de un miembro.",
+     "para": "10",
+     "point": ""
+    },
+    {
+     "text": "11. El Consejo de Administración se pronunciará sobre el nombramiento, la prórroga del mandato o el cese del director por mayoría de dos tercios de sus miembros.",
+     "para": "11",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_33",
+   "kind": "article",
+   "number": "33",
+   "label": "Artículo 33",
+   "title": "Expertos nacionales en comisión de servicios y otros agentes",
+   "path": [
+    "CAPÍTULO VIII — PERSONAL DE LA OFICINA DEL ORECE"
+   ],
+   "blocks": [
+    {
+     "text": "1. La Oficina del ORECE podrá recurrir a expertos nacionales en comisión de servicios o a otro personal no contratado por ella. El Estatuto de los funcionarios y el régimen aplicable a los otros agentes no serán de aplicación a este personal.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El Consejo de Administración adoptará una decisión relativa al establecimiento de normas sobre la comisión de servicios de expertos nacionales en la Oficina del ORECE.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_34",
+   "kind": "article",
+   "number": "34",
+   "label": "Artículo 34",
+   "title": "Privilegios e inmunidades",
+   "path": [
+    "CAPÍTULO IX — DISPOSICIONES GENERALES"
+   ],
+   "blocks": [
+    {
+     "text": "Será aplicable a la Oficina del ORECE y a su personal el Protocolo sobre los privilegios y las inmunidades de la Unión Europea.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_35",
+   "kind": "article",
+   "number": "35",
+   "label": "Artículo 35",
+   "title": "Cooperación con organismos de la Unión, terceros países y organizaciones internacionales",
+   "path": [
+    "CAPÍTULO IX — DISPOSICIONES GENERALES"
+   ],
+   "blocks": [
+    {
+     "text": "1. En la medida en que resulte necesario para el logro de los objetivos fijados en el presente Reglamento y para el desempeño de sus cometidos, y sin perjuicio de las competencias de los Estados miembros e instituciones de la Unión, el ORECE y la Oficina del ORECE podrán cooperar con los organismos, oficinas, agencias y grupos consultivos competentes de la Unión, con las autoridades competentes de terceros países y con organizaciones internacionales. Para ello, el ORECE y la Oficina del ORECE podrán establecer, previa aprobación de la Comisión, acuerdos de trabajo. Esos acuerdos no crearán obligaciones jurídicas.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El Consejo de Reguladores, los grupos de trabajo y el Consejo de Administración estarán abiertos a la participación de las autoridades reguladoras de terceros países prioritariamente competentes en el ámbito de las comunicaciones electrónicas, donde dichos terceros países hayan celebrado acuerdos con la Unión a tal efecto. Con arreglo a las disposiciones pertinentes de dichos acuerdos, se irán estableciendo normas de trabajo, en las que, entre otras cosas, se precisen el carácter, el alcance y las modalidades de la participación sin derecho a voto de dichas autoridades de reglamentación de los terceros países en cuestión en las labores del ORECE y la Oficina del ORECE, en particular las disposiciones sobre la participación en las iniciativas emprendidas por el ORECE, las contribuciones financieras y el personal de la Oficina del ORECE. Por lo que se refiere al personal, esas normas deberán cumplir, en cualquier caso, con lo dispuesto en el Estatuto de los funcionarios.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Como parte del programa de trabajo anual a que se refiere el artículo 21, el Consejo de Reguladores adoptará la estrategia del ORECE para las relaciones con organismos, oficinas, agencias y grupos consultivos competentes de la Unión, con las autoridades competentes de terceros países y con organizaciones internacionales en asuntos en los que sea competente el ORECE. La Comisión, el ORECE y la Oficina del ORECE celebrarán un acuerdo de trabajo pertinente destinado a garantizar que el ORECE y la Oficina del ORECE funcionen dentro de sus mandatos respectivos y del marco institucional existente.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_36",
+   "kind": "article",
+   "number": "36",
+   "label": "Artículo 36",
+   "title": "Acceso a documentos y protección de datos",
+   "path": [
+    "CAPÍTULO IX — DISPOSICIONES GENERALES"
+   ],
+   "blocks": [
+    {
+     "text": "1. El Reglamento (CE) n.o 1049/2001 del Parlamento Europeo y del Consejo se aplicará a los documentos en poder del ORECE y de la Oficina del ORECE.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El Consejo de Reguladores y el Consejo de Administración adoptarán normas concretas de aplicación del Reglamento (CE) n.o 1049/2001 a más tardar el 21 de junio de 2019.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. El tratamiento de datos personales por el ORECE y la Oficina del ORECE estará sujeto al Reglamento (UE) 2018/1725.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. El Consejo de Reguladores y el Consejo de Administración adoptarán, a más tardar el 21 de junio de 2019, medidas para la aplicación del Reglamento (UE) 2018/1725 por el ORECE y la Oficina del ORECE, en particular las relativas al nombramiento de un responsable de la protección de datos de la Oficina del ORECE. Estas medidas se aplicarán previa consulta con el Supervisor Europeo de Protección de Datos.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_37",
+   "kind": "article",
+   "number": "37",
+   "label": "Artículo 37",
+   "title": "Transparencia y comunicación",
+   "path": [
+    "CAPÍTULO IX — DISPOSICIONES GENERALES"
+   ],
+   "blocks": [
+    {
+     "text": "1. El ORECE y la Oficina del ORECE desempeñarán sus actividades con un nivel elevado de transparencia. El ORECE y la Oficina del ORECE velarán por que se facilite al público y a cualquier parte interesada una información apropiada, objetiva, fiable y fácilmente accesible, en particular por lo que se refiere a sus funciones y a los resultados de su labor.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El ORECE, apoyado por la Oficina del ORECE, podrá emprender actividades de comunicación por iniciativa propia dentro del ámbito de sus competencias, de conformidad con los planes de comunicación y difusión pertinentes adoptados por el Consejo de Reguladores. La asignación de recursos a este apoyo a las actividades de comunicación en el presupuesto de la Oficina del ORECE no redundará en perjuicio del ejercicio efectivo de los cometidos del ORECE a que se refiere el artículo 4 ni de los cometidos de la Oficina del ORECE a que se refiere el artículo 5. Las actividades de comunicación de la Oficina del ORECE se desempeñarán de conformidad con los planes de comunicación y difusión correspondientes adoptados por el Consejo de Administración.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_38",
+   "kind": "article",
+   "number": "38",
+   "label": "Artículo 38",
+   "title": "Confidencialidad",
+   "path": [
+    "CAPÍTULO IX — DISPOSICIONES GENERALES"
+   ],
+   "blocks": [
+    {
+     "text": "1. No obstante lo dispuesto en el artículo 36, apartado 1 y en el artículo 40, apartado 2, el ORECE y la Oficina del ORECE no revelarán a terceros la información que traten o reciban y para la cual se haya presentado una solicitud motivada de tratamiento confidencial, en su totalidad o en parte.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Los miembros del Consejo de Reguladores, del Consejo de Administración y de los grupos de trabajo, así como otros participantes en sus reuniones, el director, los expertos nacionales en comisión de servicios y otro personal no empleado por la Oficina del ORECE cumplirán los requisitos de confidencialidad contemplados en el artículo 339 del TFUE, incluso una vez que hayan cesado en sus funciones.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. El Consejo de Reguladores y el Consejo de Administración establecerán las disposiciones prácticas para la aplicación de las normas de confidencialidad a que se refieren los apartados 1 y 2.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_39",
+   "kind": "article",
+   "number": "39",
+   "label": "Artículo 39",
+   "title": "Normas de seguridad aplicables a la protección de la información clasificada y de la información sensible no clasificada",
+   "path": [
+    "CAPÍTULO IX — DISPOSICIONES GENERALES"
+   ],
+   "blocks": [
+    {
+     "text": "El ORECE y la Oficina del ORECE adoptarán sus propias normas de seguridad equivalentes a las normas de seguridad de la Comisión para la protección de la información clasificada de la Unión Europea y de la información sensible no clasificada, en particular disposiciones relativas al intercambio, el tratamiento y el almacenamiento de dicha información, con arreglo a lo dispuesto en las Decisiones (UE, Euratom) 2015/443 y (UE, Euratom) 2015/444 de la Comisión. De manera alternativa, el ORECE o la Oficina del ORECE podrán adoptar la decisión de aplicar, mutatis mutandis, las normas de la Comisión.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_40",
+   "kind": "article",
+   "number": "40",
+   "label": "Artículo 40",
+   "title": "Intercambio de información",
+   "path": [
+    "CAPÍTULO IX — DISPOSICIONES GENERALES"
+   ],
+   "blocks": [
+    {
+     "text": "1. Previa solicitud motivada del ORECE o de la Oficina del ORECE, la Comisión y las autoridades nacionales de reglamentación representadas en el Consejo de Reguladores y otras autoridades competentes facilitarán al ORECE o a la Oficina del ORECE, de forma oportuna y precisa, toda la información necesaria para desempeñar sus cometidos, siempre y cuando tengan acceso legal a la información pertinente y la solicitud de información sea necesaria respecto de la naturaleza del cometido de que se trate. El ORECE o la Oficina del ORECE podrán solicitar asimismo que dicha información se les transmita a intervalos regulares y en formatos específicos. Dichas solicitudes se efectuarán, siempre que sea posible, utilizando formatos comunes de información.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Previa solicitud motivada de la Comisión o de una autoridad nacional de reglamentación, el ORECE o la Oficina del ORECE facilitarán de forma oportuna y precisa toda la información necesaria para que la Comisión, la autoridad nacional de reglamentación u otra autoridad competente puedan llevar a cabo sus cometidos, conforme al principio de cooperación leal. Cuando el ORECE o la Oficina del ORECE consideren confidencial la información, la Comisión, la autoridad nacional de reglamentación o cualquier otra autoridad competente garantizarán dicha confidencialidad de conformidad con el Derecho de la Unión y el Derecho nacional, en particular con el Reglamento (CE) n.o 1049/2001. La confidencialidad comercial no debe impedir el intercambio oportuno de la información.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Antes de solicitar información de conformidad con el presente artículo, y con el fin de evitar la duplicación de las obligaciones de notificación, el ORECE o la Oficina del ORECE deberán tener en cuenta cualquier información pertinente existente accesible al público.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Cuando la autoridad nacional de reglamentación no haya facilitado la información de forma oportuna, el ORECE o la Oficina del ORECE podrán enviar una solicitud motivada a otras autoridad nacional de reglamentación o a otras autoridades competentes de los Estados miembros afectados, o directamente a las empresas pertinentes proveedoras de redes de comunicaciones electrónicas y de los servicios e instalaciones conexos. El ORECE o la Oficina del ORECE notificarán a las autoridad nacional de reglamentación que no hayan facilitado la información acerca de las solicitudes con arreglo al párrafo primero. A petición del ORECE o de la Oficina del ORECE, las autoridades nacionales de reglamentación asistirán al ORECE en la recogida de la información.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Los Estados miembros velarán por que las autoridades nacionales de reglamentación y otras autoridades competentes estén facultadas para requerir a otras autoridades nacionales o a las empresas proveedoras de redes y servicios de comunicaciones electrónicas y de recursos o servicios conexos que presenten toda la información necesaria para el desempeño de sus cometidos a que se refiere el presente artículo. Las otras autoridades nacionales competentes y las empresas a que se refiere el párrafo primero proporcionarán dicha información, previa solicitud, con celeridad y de conformidad con los plazos y el grado de detalle exigidos. Los Estados miembros velarán por que las autoridades nacionales de reglamentación y otras autoridades competentes estén facultadas para hacer cumplir tales solicitudes de información mediante la imposición de sanciones adecuadas, efectivas, proporcionadas y disuasorias.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_41",
+   "kind": "article",
+   "number": "41",
+   "label": "Artículo 41",
+   "title": "Sistema de información y comunicación",
+   "path": [
+    "CAPÍTULO IX — DISPOSICIONES GENERALES"
+   ],
+   "blocks": [
+    {
+     "text": "1. La Oficina del ORECE creará y administrará un sistema de información y comunicación que tenga, como mínimo, las siguientes funciones: a) una plataforma común de intercambio de información que proporcione al ORECE, a la Comisión y a las autoridades nacionales de reglamentación la información necesaria para la aplicación coherente del marco regulador de comunicaciones electrónicas de la Unión; b) una interfaz específica para solicitudes de información y notificación de aquellas solicitudes a que se refiere el artículo 40, para el acceso del ORECE, la Oficina del ORECE, la Comisión y las autoridades nacionales de reglamentación; c) una plataforma para la pronta identificación de las necesidades de coordinación entre las autoridades nacionales de reglamentación.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El Consejo de Administración adoptará las especificaciones técnicas y funcionales para la creación del sistema de información y comunicación a que se refiere el apartado 1. Ese sistema estará sujeto a los derechos de propiedad intelectual y del nivel necesario de confidencialidad.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. El sistema de información y comunicación será operativo a más tardar el 21 de junio de 2020.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_42",
+   "kind": "article",
+   "number": "42",
+   "label": "Artículo 42",
+   "title": "Declaraciones de interés",
+   "path": [
+    "CAPÍTULO IX — DISPOSICIONES GENERALES"
+   ],
+   "blocks": [
+    {
+     "text": "1. Los miembros del Consejo de Reguladores y del Consejo de Administración, el director, los funcionarios nacionales en comisión de servicios y otros miembros del personal no contratados por la Oficina del ORECE deberán formular sendas declaraciones escritas en las que indiquen su compromiso y si tienen o no intereses directos o indirectos que pudieran considerarse perjudiciales para su independencia. Dichas declaraciones se realizarán en cualquier momento para la asunción de responsabilidades, serán exactas y completas y se actualizarán siempre que haya riesgo de existencia de algún interés directo o indirecto que pudiera considerarse perjudicial para la independencia de la persona que haga la declaración. Las declaraciones formuladas por los miembros del Consejo de Reguladores, los miembros del Consejo de Administración y el director se harán públicas.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Los miembros del Consejo de Reguladores, del Consejo de Administración y de los grupos de trabajo, así como otros participantes en sus reuniones, el director, los funcionarios nacionales en comisión de servicios y otros miembros del personal no contratados por la Oficina del ORECE deberán declarar respectivamente, de forma exacta y completa y a más tardar al comienzo de cada reunión, cualquier interés que pudiera considerarse perjudicial para su independencia relacionado con los puntos del orden del día y deberán abstenerse de participar en los debates y en la votación sobre esos puntos.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. El Consejo de Reguladores y el Consejo de Administración establecerán las normas para la prevención y la gestión de los conflictos de interés y, en particular, para las modalidades prácticas de la aplicación de las disposiciones contempladas en los apartados 1 y 2.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_43",
+   "kind": "article",
+   "number": "43",
+   "label": "Artículo 43",
+   "title": "Lucha contra el fraude",
+   "path": [
+    "CAPÍTULO IX — DISPOSICIONES GENERALES"
+   ],
+   "blocks": [
+    {
+     "text": "1. Con el fin de facilitar la lucha contra el fraude, la corrupción y otras actividades ilícitas con arreglo al Reglamento (UE, Euratom) n.o 883/2013 del Parlamento Europeo y del Consejo, a más tardar el 21 de junio de 2019, la Oficina del ORECE se adherirá al Acuerdo Interinstitucional, de 25 de mayo de 1999, entre el Parlamento Europeo, el Consejo de la Unión Europea y la Comisión de las Comunidades Europeas relativo a las investigaciones internas efectuadas por la Oficina Europea de Lucha contra el Fraude (OLAF) y adoptará las disposiciones apropiadas aplicables a todo el personal de la Oficina del ORECE, utilizando el modelo que figura en el anexo de dicho Acuerdo.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El Tribunal de Cuentas estará facultado para auditar, sobre la base de documentos y de inspecciones sobre el terreno, a todos los beneficiarios de subvenciones, contratistas y subcontratistas que hayan recibido de la Oficina del ORECE fondos de la Unión.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. La OLAF podrá realizar investigaciones, en particular controles y verificaciones in situ, de conformidad con las disposiciones y los procedimientos previstos en el Reglamento (UE, Euratom) n.o 883/2013 del Parlamento Europeo y del Consejo, y en el Reglamento (Euratom, CE) n.o 2185/96 del Consejo, con vistas a establecer si ha habido fraude, corrupción u otra actividad ilegal que afecte a los intereses financieros de la Unión en relación con un convenio o decisión de subvención o con un contrato financiado por la Oficina del ORECE.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Sin perjuicio de lo dispuesto en los apartados 1, 2 y 3, los acuerdos de cooperación con terceros países y organizaciones internacionales, los contratos, los convenios de subvención y las decisiones de subvención incluirán disposiciones por las que se faculte expresamente al Tribunal de Cuentas y a la OLAF a llevar a cabo estas auditorías e investigaciones, con arreglo a sus respectivas competencias.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_44",
+   "kind": "article",
+   "number": "44",
+   "label": "Artículo 44",
+   "title": "Responsabilidad",
+   "path": [
+    "CAPÍTULO IX — DISPOSICIONES GENERALES"
+   ],
+   "blocks": [
+    {
+     "text": "1. La responsabilidad contractual de la Oficina del ORECE se regirá por la legislación aplicable al contrato de que se trate.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El Tribunal de Justicia de la Unión Europea (en lo sucesivo, «Tribunal de Justicia») será competente para pronunciarse en virtud de cualquier cláusula compromisoria contenida en un contrato celebrado por la Oficina del ORECE.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. En caso de responsabilidad extracontractual, la Oficina del ORECE, de conformidad con los principios generales comunes a los Derechos de los Estados miembros, reparará cualquier daño causado por sus servicios o por su personal en el ejercicio de sus funciones.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. El Tribunal de Justicia será competente para conocer de los litigios que se refieran a la compensación por daños a que se refiere el apartado 3.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. La responsabilidad personal de los agentes ante la Oficina del ORECE se regirá por lo dispuesto en el Estatuto de los funcionarios o en el régimen aplicable a los otros agentes que se les aplique.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_45",
+   "kind": "article",
+   "number": "45",
+   "label": "Artículo 45",
+   "title": "Investigaciones administrativas",
+   "path": [
+    "CAPÍTULO IX — DISPOSICIONES GENERALES"
+   ],
+   "blocks": [
+    {
+     "text": "Las actividades del ORECE y de la Oficina del ORECE estarán sujetas a las investigaciones del Defensor del Pueblo Europeo de conformidad con el artículo 228 del TFUE.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_46",
+   "kind": "article",
+   "number": "46",
+   "label": "Artículo 46",
+   "title": "Régimen lingüístico",
+   "path": [
+    "CAPÍTULO IX — DISPOSICIONES GENERALES"
+   ],
+   "blocks": [
+    {
+     "text": "1. El Reglamento n.o 1 será aplicable a la Oficina del ORECE.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El Centro de Traducción de los Órganos de la Unión Europea prestará los servicios de traducción necesarios para el funcionamiento de la Oficina del ORECE.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_47",
+   "kind": "article",
+   "number": "47",
+   "label": "Artículo 47",
+   "title": "Acuerdo relativo a la sede y condiciones de funcionamiento",
+   "path": [
+    "CAPÍTULO X — DISPOSICIONES FINALES"
+   ],
+   "blocks": [
+    {
+     "text": "1. Las disposiciones relativas a la instalación que se habilitará para la Oficina del ORECE en el Estado miembro de acogida y las instalaciones que debe poner a disposición dicho Estado miembro, así como las normas específicas aplicables en el Estado miembro de acogida al director, a los miembros del Consejo de Administración, al personal de la Oficina del ORECE y a los miembros de sus familias se fijarán en un acuerdo de sede celebrado entre la Oficina del ORECE y el Estado miembro de acogida, previa aprobación del Consejo de Administración y a más tardar el 21 de diciembre de 2020.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. El Estado miembro de acogida garantizará las mejores condiciones posibles para su funcionamiento ágil y eficiente, en particular una escolarización multilingüe y de vocación europea, así como las conexiones de transporte adecuadas.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_48",
+   "kind": "article",
+   "number": "48",
+   "label": "Artículo 48",
+   "title": "Evaluación",
+   "path": [
+    "CAPÍTULO X — DISPOSICIONES FINALES"
+   ],
+   "blocks": [
+    {
+     "text": "1. A más tardar el 21 de diciembre de 2023, y posteriormente cada cinco años, la Comisión realizará una evaluación, de conformidad con las directrices de la Comisión, que analice el grado de cumplimiento por el ORECE y por la Oficina del ORECE de sus objetivos, mandatos, cometidos y ubicación. En la evaluación se abordará, en particular, la posible necesidad de modificar la estructura o el mandato del ORECE y de la Oficina del ORECE, así como las implicaciones financieras de tal modificación.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Si la Comisión considerara que la continuidad del ORECE o de la Oficina del ORECE ha dejado de estar justificada con respecto a los objetivos, mandato y cometidos que le fueron fijados, podrá proponer que se modifique o se derogue el presente Reglamento en consecuencia.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. La Comisión comunicará al Parlamento Europeo, al Consejo y al Consejo de Administración los resultados de su evaluación y los hará públicos.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_49",
+   "kind": "article",
+   "number": "49",
+   "label": "Artículo 49",
+   "title": "Disposiciones transitorias",
+   "path": [
+    "CAPÍTULO X — DISPOSICIONES FINALES"
+   ],
+   "blocks": [
+    {
+     "text": "1. La Oficina del ORECE será la sucesora de la Oficina que fue establecida por el Reglamento (CE) n.o 1211/2009 en todo lo que se refiere a propiedad, acuerdos, obligaciones legales, contratos de trabajo, compromisos financieros y responsabilidades. En particular, el presente Reglamento no afectará a los derechos y obligaciones del personal de la Oficina. Sus contratos podrán renovarse con arreglo al presente Reglamento conforme al Estatuto de los funcionarios y el régimen aplicable a los otros agentes y de conformidad con los imperativos presupuestarios de la Oficina del ORECE.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Con efectos a partir del 20 de diciembre de 2018, el director administrativo nombrado en virtud del Reglamento (CE) n.o 1211/2009 actuará como director con las funciones establecidas en el presente Reglamento. Las demás condiciones del contrato del director administrativo no se modificarán.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. El Consejo de Administración podrá decidir renovar con otro mandato el mandato del director a que se refiere el apartado 2 del presente artículo. El artículo 32, apartados 5 y 6, se aplicará mutatis mutandis. El mandato acumulado del director no excederá de diez años.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. El Consejo de Reguladores y el Consejo de Administración a que se refieren los artículos 7 y 15 del presente Reglamento estarán compuestos por los miembros del Consejo de Reguladores y del Consejo de Administración a que se refieren los artículos 4 y 7 del Reglamento (CE) n.o 1211/2009, hasta que se nombre a nuevos representantes.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. El presidente y los vicepresidentes del Consejo de Reguladores y del Consejo de Administración que hayan sido nombrados con base en el Reglamento (CE) n.o 1211/2009 permanecerán en el cargo como presidente y vicepresidentes del Consejo de Reguladores mencionados en el artículo 10 del presente Reglamento y como presidente y vicepresidentes del Consejo de Administración mencionados en el artículo 17 del presente Reglamento hasta el término de su mandato de un año. Los nombramientos del presidente y los vicepresidentes del Consejo de Reguladores y del Comité de gestión con base en el Reglamento (CE) n.o 1211/2009, que estén efectuados antes del 20 de diciembre de 2018 pero prorrogados hasta después de esa fecha, serán respetados.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. El procedimiento para la aprobación de la gestión del presupuesto, aprobado con arreglo al artículo 11 del Reglamento (CEE) n.o 1211/2009, se llevará a cabo de conformidad con las normas establecidas en dicho Reglamento.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_50",
+   "kind": "article",
+   "number": "50",
+   "label": "Artículo 50",
+   "title": "Modificaciones del Reglamento (UE) n.o 2015/2120",
+   "path": [
+    "CAPÍTULO X — DISPOSICIONES FINALES"
+   ],
+   "blocks": [
+    {
+     "text": "El Reglamento (UE) n.o 2015/2120 se modifica como sigue:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "1) El título se sustituye por el texto siguiente: «Reglamento (UE) 2015/2120 del Parlamento Europeo y del Consejo de 25 de noviembre de 2015 por el que se establecen medidas en relación con el acceso a una internet abierta y tarifas al por menor para comunicaciones intracomunitarias reguladas y se modifican la Directiva 2002/22/CE y el Reglamento (UE) n.o 531/2012».",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "2) En el artículo, 1 se añade el apartado siguiente: «3. El presente Reglamento establece asimismo normas comunes destinadas a garantizar que los consumidores no paguen precios excesivos por servicios de comunicaciones interpersonales basadas en números originarias del Estado miembro del proveedor nacional del consumidor y que terminan en cualquier número fijo o móvil de otro Estado miembro.».",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "3) En el artículo 2, párrafo segundo, se añaden los puntos siguientes: «3) “comunicaciones intracomunitarias reguladas”, cualquier servicio de comunicaciones interpersonales basadas en números que tenga su origen en el Estado miembro del proveedor nacional del consumidor y que termine en cualquier número fijo o móvil del plan nacional de numeración de otro Estado miembro, y que se cobre total o parcialmente en función del consumo real. 4) “servicios de comunicaciones interpersonales basadas en numeración”, servicios de comunicaciones interpersonales basadas en numeración tal como se define en el artículo 2, punto 6, de la Directiva (UE) 2018/1972 del Parlamento Europeo y del Consejo. (*1) Directiva (UE) 2018/1972 del Parlamento Europeo y del Consejo, de 11 de diciembre de 2018, por la que se establece el Código Europeo de las Comunicaciones Electrónicas (DO L 321 de 17.12.2018, p. 36).».\"",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "4) Se añade el artículo siguiente: «Artículo 5 bis Tarifas al por menor para comunicaciones intracomunitarias reguladas 1. A partir del 15 de mayo de 2019, el precio al por menor (sin IVA) cobrado a los consumidores por las comunicaciones intracomunitarias reguladas no excederá de 0,19 euros por minuto para las llamadas y de 0,06 euros por mensaje SMS. 2. No obstante las obligaciones establecidas en el apartado 1, los proveedores de comunicaciones intracomunitarias reguladas podrán ofrecer además, y los consumidores podrán elegir explícitamente, una tarifa para las comunicaciones internacionales, incluidas las comunicaciones intracomunitarias reguladas distintas de las establecidas de conformidad con el apartado 1, en virtud de la cual los consumidores se beneficiarán de una tarifa para las comunicaciones intracomunitarias reguladas distinta de la que se les habría concedido en ausencia de tal elección. Antes de que los consumidores elijan una tarifa diferente, el proveedor de comunicaciones intracomunitarias reguladas les informará de la naturaleza de las ventajas que de ese modo no disfrutarían. 3. Cuando una tarifa de comunicaciones intracomunitarias reguladas a que se refiere el apartado 2 supere los límites establecidos en el apartado 1, a los consumidores que no hayan confirmado o expresado, en un plazo de dos meses a partir del 15 de mayo de 2019, su elección de una de las tarifas establecidas en el apartado 2, se les aplicarán automáticamente las tarifas previstas en el apartado 1. 4. En el plazo de un día hábil a partir de la recepción de la solicitud por el proveedor, los consumidores podrán pasar gratuitamente de una tarifa fijada de conformidad con el apartado 1 a otra, o volver a la misma, y los proveedores velarán por que dicha transición no implique condiciones o restricciones relativas a elementos de las suscripciones distintos de las comunicaciones intracomunitarias reguladas. 5. Cuando los precios máximos a que se refiere el apartado 1 se expresen en una divisa distinta del euro, los límites iniciales se determinarán en dichas divisas aplicando la media de los tipos de cambio de referencia publicados el 15 de enero, el 15 de febrero y el 15 de marzo de 2019 por el Banco Central Europeo en el Diario Oficial de la Unión Europea. Los límites en monedas distintas del euro se revisarán anualmente a partir de 2020. Los límites expresados en dichas divisas revisados anualmente se aplicarán a partir del 15 de mayo utilizando la media de los tipos de cambio de referencia publicados el 15 de enero, el 15 de febrero y el 15 de marzo del mismo año. 6. Las autoridades nacionales de reglamentación supervisarán la evolución del mercado y de los precios de las comunicaciones intracomunitarias reguladas e informarán a la Comisión. Cuando un proveedor de comunicaciones intracomunitarias reguladas demuestre que, debido a circunstancias específicas y excepcionales que lo distingan de la mayoría de los demás proveedores de la Unión, la aplicación del límite mencionado en el apartado 1 tendría un impacto significativo en su capacidad de proveedor de mantener sus precios actuales para las comunicaciones nacionales, una autoridad nacional de reglamentación podrá conceder, previa solicitud de dicho proveedor, una excepción a lo dispuesto en el apartado 1 únicamente en la medida en que sea necesario y por un período renovable de un año. La evaluación de la sostenibilidad del modelo de tarificación nacional deberá basarse en factores objetivos pertinentes específicos del proveedor de comunicaciones intracomunitarias reguladas, así como en el nivel de los precios e ingresos nacionales. Cuando el proveedor solicitante haya cumplido la carga probatoria aplicable, la autoridad nacional de reglamentación determinará el nivel máximo de precios que supere uno o ambos de los límites establecidos en el apartado 1, que sería indispensable para garantizar la sostenibilidad del modelo nacional de tarificación del proveedor. El ORECE publicará directrices sobre los parámetros que deben tener en cuenta las autoridades nacionales de reglamentación en su evaluación.»",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "5) En el artículo 6, se añade el apartado siguiente: «Los Estados miembros establecerán normas sobre las sanciones aplicables a las infracciones al artículo 5 bis y adoptarán todas las medidas necesarias para garantizar su aplicación. Las sanciones previstas deberán ser efectivas, proporcionadas y disuasorias. Los Estados miembros notificarán a la Comisión las normas y medidas establecidas para garantizar la aplicación del artículo 5 bis a más tardar el 15 de mayo de 2019 y le notificarán sin demora cualquier modificación posterior que les afecte.».",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "6) En el artículo 10, se añade el apartado siguiente: «5. El artículo 5 bis expirará el 14 de mayo de 2024.».",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_51",
+   "kind": "article",
+   "number": "51",
+   "label": "Artículo 51",
+   "title": "Derogación",
+   "path": [
+    "CAPÍTULO X — DISPOSICIONES FINALES"
+   ],
+   "blocks": [
+    {
+     "text": "Queda derogado el Reglamento (CE) n.o 1211/2009.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Las referencias al Reglamento derogado se entenderán hechas al presente Reglamento con arreglo a la tabla de correspondencias que figura en el anexo.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_52",
+   "kind": "article",
+   "number": "52",
+   "label": "Artículo 52",
+   "title": "Entrada en vigor",
+   "path": [
+    "CAPÍTULO X — DISPOSICIONES FINALES"
+   ],
+   "blocks": [
+    {
+     "text": "El presente Reglamento entrará en vigor a los tres días de su publicación en el Diario Oficial de la Unión Europea.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "anx_1",
+   "kind": "annex",
+   "number": "1",
+   "label": "ANEXO",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Cuadro de correspondencias",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Reglamento (CE) n.o 1211/2009 Presente Reglamento Artículo 1, apartado 1 Artículo 1 Artículo 1, apartado 2 Artículo 3, apartado 1 Artículo 1, apartado 3 Artículo 3, apartados 2 y 3 Artículo 1, apartado 4 Artículo 3, apartado 4, artículo 4, apartado 1, letras a) y b) Artículo 2 Artículo 4 Artículo 3 Artículo 4 Artículo 4, apartado 1 Artículo 6 Artículo 4, apartado 2 Artículo 7, apartados 1, 2 y 4, artículo 8, apartados 1 y 2 Artículo 4, apartado 3 Artículo 11, apartados 4 y 5 y artículo 36 Artículo 4, apartado 4 Artículo 10, apartados 1, 2 y 3 Artículo 4, apartado 5 Artículo 10, apartado 4 Artículo 4, apartado 6 Artículo 11 Artículo 4, apartado 7 Artículo 13 Artículo 4, apartado 8 Artículo 7, apartado 4 Artículo 4, apartado 9 Artículo 12, apartados 1 y 2 Artículo 4, apartado 10 Artículo 12, apartado 3 Artículo 4, apartado 11 Artículo 5 Artículo 5 Artículo 4 Artículo 6, apartado 1 Artículo 2, apartado 1 Artículo 6, apartado 2 Artículo 5 Artículo 6, apartado 3 Artículo 14, apartado 1 Artículo 6, apartado 4 Artículo 2, apartado 2 Artículo 6, apartado 5 Artículos 20 y 31 Artículo 7, apartado 1 Artículo 15, apartado 1 Artículo 7, apartado 2 Artículo 32 Artículo 7, apartado 3 Artículo 20, apartado 6 Artículo 7, apartado 4 Artículo 16, apartado 1, letra k) Artículo 7, apartado 5 Artículo 13 Artículo 8 Artículo 32 Artículo 9 Artículo 20 Artículo 10, apartado 1 Artículos 30 y 34 Artículo 10, apartado 2 Artículo 16, apartado 1, letra j) Artículo 10, apartado 3 Artículo 16, apartado 2 Artículo 10, apartado 4 Artículo 33 Artículo 11 Artículo 25 Artículo 12 Artículo 24 Artículo 13 Artículo 26 Artículo 14 — Artículo 15 Artículo 29 Artículo 16 Artículo 43 Artículo 17 Artículo 4, apartado 5 Artículo 18 Artículo 37 Artículo 19 Artículos 39 y 40 Artículo 20 Artículo 38 Artículo 21 Artículo 42 Artículo 22 Artículo 36 Artículo 23 Artículo 34 Artículo 24 Artículo 44 Artículo 25 Artículo 48 Artículo 26 Artículo 52",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  }
+ ]
+}

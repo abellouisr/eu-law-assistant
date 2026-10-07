@@ -1,0 +1,37 @@
+{
+  "id": "gdpr",
+  "short_name": "General Data Protection Regulation",
+  "title": "Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data (General Data Protection Regulation)",
+  "citation": "Regulation (EU) 2016/679",
+  "scope": "Protection of natural persons with regard to the processing of personal data: principles, lawful bases, consent, data subject rights, controllers and processors, security and breach notification, data protection impact assessments, data protection officers, transfers to third countries, supervisory authorities, cooperation and consistency, remedies, liability and administrative fines.",
+  "source": "eurlex",
+  "reference_language": "EN",
+  "active_version": "latest",
+  "recitals_from_original": true,
+  "examples": [
+    "When may a controller rely on legitimate interests as the lawful basis for processing, and how does that interact with the right to object?",
+    "What criteria must a supervisory authority consider when deciding whether to impose an administrative fine and setting its amount?"
+  ],
+  "versions": [
+    {
+      "id": "original",
+      "celex": "32016R0679",
+      "kind": "original",
+      "date": "2016-04-27",
+      "note": "Text as adopted on 2016-04-27 and published in the Official Journal.",
+      "url": "",
+      "path": "",
+      "format": ""
+    },
+    {
+      "id": "2016-05-04",
+      "celex": "02016R0679-20160504",
+      "kind": "consolidated",
+      "date": "2016-05-04",
+      "note": "Latest consolidated text on EUR-Lex when added.",
+      "url": "",
+      "path": "",
+      "format": ""
+    }
+  ]
+}

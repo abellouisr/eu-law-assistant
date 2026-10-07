@@ -1,0 +1,2822 @@
+{
+ "document": "berec",
+ "version": "original",
+ "lang": "HR",
+ "meta": {
+  "source": "eurlex",
+  "celex": "32018R1971",
+  "kind": "original",
+  "date": "2018-12-11",
+  "built_at": "2026-10-07T10:10:16+00:00",
+  "sources_sha256": {
+   "32018R1971": "5121c96d4d53c2ba3ae04daeb1b338bd19d32d7441744813ce020bf81009bd4b"
+  },
+  "counts": {
+   "article": 52,
+   "recital": 53,
+   "annex": 1
+  }
+ },
+ "provisions": [
+  {
+   "id": "rct_1",
+   "kind": "recital",
+   "number": "1",
+   "label": "(1)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Direktivom (EU) 2018/1972 Europskog parlamenta i Vijeća nastoji se stvoriti unutarnje tržište za elektroničke komunikacije unutar Unije, osiguravajući pritom visoku razinu ulaganja, inovacija i zaštite potrošača ojačanim tržišnim natjecanjem. Tom se direktivom također uspostavlja znatan broj novih zadaća za Tijelo europskih regulatora za elektroničke komunikacije („BEREC”) kao što su izdavanje smjernica u pogledu više tema, izvješćivanje o tehničkim pitanjima, vođenje registara, popisâ ili baza podataka te davanje mišljenja o postupcima unutarnjeg tržišta za izradu nacrta nacionalnih mjera za regulaciju tržišta.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_2",
+   "kind": "recital",
+   "number": "2",
+   "label": "(2)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Uredbom (EU) br. 531/2012 Europskog parlamenta i Vijeća, u pogledu roaminga unutar cijele Unije dopunjena su i podupiru se pravila predviđena regulatornim okvirom za elektroničke komunikacije te se utvrđuju određene zadaće BEREC-a.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_3",
+   "kind": "recital",
+   "number": "3",
+   "label": "(3)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Uredbom (EU) 2015/2120 Europskog parlamenta i Vijeća utvrđene su dodatne zadaće BEREC-a u vezi s pristupom otvorenom internetu. Nadalje, BEREC-ove smjernice za provedbu europskih pravila o mrežnoj neutralnosti od strane nacionalnih regulatornih tijela od 30. kolovoza 2016. pozdravljene su kao vrijedno pojašnjenje jamstva snažnog, slobodnog i otvorenog interneta osiguravanjem dosljedne primjene pravila za zaštitu jednakog i nediskriminirajućeg postupanja s prometom u pružanju usluga pristupa internetu i povezanih prava krajnjih korisnika.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_4",
+   "kind": "recital",
+   "number": "4",
+   "label": "(4)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "S obzirom na potrebu da se osigura razvoj dosljedne regulatorne prakse i dosljedna primjena regulatornog okvira Unije za elektroničke komunikacije, Komisija je Odlukom Komisije br. 2002/627/EZ osnovala Europsku skupinu regulatora za elektroničke komunikacijske mreže i usluge (ERG), čija je zadaća savjetovati Komisiju i pomagati joj u konsolidaciji unutarnjeg tržišta elektroničkih komunikacija i, općenitije, biti veza između nacionalnih regulatornih tijela i Komisije.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_5",
+   "kind": "recital",
+   "number": "5",
+   "label": "(5)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC i Ured osnovani su Uredbom (EZ) br. 1211/2009 Europskog parlamenta i Vijeća. BEREC, kojim je zamijenjen ERG, imao je za cilj doprinositi s jedne strane razvoju, a s druge strane boljem funkcioniranju unutarnjeg tržišta elektroničkih komunikacijskih mreža i usluga osiguravanjem dosljedne provedbe regulatornog okvira za elektroničke komunikacije. BEREC djeluje kao forum za suradnju među nacionalnim regulatornim tijelima te između nacionalnih regulatornih tijela i Komisije u ispunjavanju svih njihovih obveza na temelju regulatornog okvira Unije. BEREC je osnovan kako bi pružao stručno znanje i kako bi djelovao neovisno i transparentno.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_6",
+   "kind": "recital",
+   "number": "6",
+   "label": "(6)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC također služi Europskom parlamentu, Vijeću i Komisiji kao tijelo za razmatranje, raspravu i savjetovanje u području elektroničkih komunikacija.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_7",
+   "kind": "recital",
+   "number": "7",
+   "label": "(7)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ured je osnovan kao tijelo Zajednice s pravnom osobnošću za provedbu zadaća iz Uredbe (EZ) br. 1211/2009, osobito za pružanje usluga stručne i administrativne potpore BEREC-u. Kako bi mogao učinkovito podupirati BEREC, Ured je dobio pravnu, administrativnu i financijsku samostalnost.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_8",
+   "kind": "recital",
+   "number": "8",
+   "label": "(8)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Odlukom 2010/349/EU predstavnici vlada država članica odlučili su da će sjedište Ureda biti u Rigi. Sporazum o sjedištu između vlade Republike Latvije i Ureda stupio je na snagu 5. kolovoza 2011.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_9",
+   "kind": "recital",
+   "number": "9",
+   "label": "(9)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "U svojoj komunikaciji od 6. svibnja 2015. pod nazivom „Strategija jedinstvenog digitalnog tržišta za Europu” Komisija je za 2016. predvidjela predstavljanje prijedlogâ za ambicioznu reformu regulatornog okvira u području elektroničkih komunikacija, usmjerenih, među ostalim, na učinkovitiji regulatorni institucijski okvir kako bi se osigurala prikladnost pravila u području elektroničkih komunikacija, čime bi se doprinijelo stvaranju odgovarajućih uvjeta za jedinstveno digitalno tržište. To uključuje uvođenje mreža vrlo velikoga kapaciteta, veću razinu koordinacije upravljanja radiofrekvencijskim spektrom za bežične mreže i osiguravanje ravnopravnih uvjeta za napredne digitalne mreže i inovativne usluge. U toj se komunikaciji ističe da je zbog promjena na tržištu i tehnološkog okružja potrebno ojačati institucijski okvira jačanjem uloge BEREC-a.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_10",
+   "kind": "recital",
+   "number": "10",
+   "label": "(10)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "U svojoj rezoluciji od 19. siječnja 2016. pod nazivom „Prema jedinstvenom digitalnom tržištu” Europski parlament pozvao je Komisiju da dodatno integrira jedinstveno digitalno tržište osiguravanjem uspostave učinkovitijeg institucijskog okvira…",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_11",
+   "kind": "recital",
+   "number": "11",
+   "label": "(11)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC i Ured pozitivno su doprinijeli dosljednoj provedbi regulatornog okvira za elektroničke komunikacije. Međutim, i dalje postoje znatne razlike između država članica u pogledu regulatorne prakse, što utječe na poduzetnike koji posluju prekogranično ili su aktivni u velikom broju država članica, među ostalim i kada smjernice BEREC-a postoje, ali bi se mogle dodatno razviti. Kako bi se dodatno doprinijelo razvoju unutarnjeg tržišta elektroničkih komunikacija diljem Unije te promicanju pristupa mrežama vrlo velikoga kapaciteta te njihovoj upotrebi, promicanju tržišnog natjecanja u području pružanja elektroničkih komunikacijskih mreža, usluga i povezane opreme te promicanju interesa građana Unije, ovom se Uredbom nastoji ojačati uloga BEREC-a. Takva ojačana uloga odgovarala bi ojačanoj ulozi BEREC-a nakon donošenja uredaba (EU) br. 531/2012 i (EU) 2015/2120 te Direktive (EU) 2018/1972",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_12",
+   "kind": "recital",
+   "number": "12",
+   "label": "(12)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "S obzirom na tržišna i tehnološka kretanja, koja često uključuju povećanu prekograničnu dimenziju, te dosadašnje iskustvo u nastojanju da se osigura dosljedna provedba u području elektroničkih komunikacija, potrebno je nadovezati se na rad BEREC-a i Ureda. Upravljanje njima te njihove aktivnosti trebalo bi pojednostavniti i prilagoditi zadaćama koje trebaju obavljati. Uzimajući u obzir ustaljene postupke i novi niz zadaća povjerenih BEREC-u i Uredu te kako bi se ojačala njihova djelotvornost, trebalo bi predvidjeti dodatnu stabilnost za upravljanje Uredom BEREC-a, a postupak njihova odlučivanja trebalo bi pojednostavniti.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_13",
+   "kind": "recital",
+   "number": "13",
+   "label": "(13)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC bi trebao pružati stručno znanje i pridobiti povjerenje na temelju svoje neovisnosti, kvalitete svojih savjeta i informacija, transparentnosti svojih postupaka i metoda rada te svoje ustrajnosti u obavljanju svojih zadaća. Neovisnost BEREC-a ne bi smjela sprečavati njegov Odbor regulatora da raspravlja na temelju nacrta koje su pripremile radne skupine.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_14",
+   "kind": "recital",
+   "number": "14",
+   "label": "(14)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Novi službeni naziv Ureda trebao bi biti „Agencija za potporu BEREC-u („Ured BEREC-a”). Naziv „Ured BEREC-a” trebao bi se upotrebljavati kao skraćeni naziv te agencije. Ured BEREC-a trebao bi imati pravnu, administrativnu i financijsku samostalnost. U tu je svrhu potrebno i primjereno da se Ured BEREC-a uspostavi kao tijelo Unije s pravnom osobnošću koje izvršava dodijeljene ovlasti. Kao decentralizirana agencija Unije Ured BEREC-a trebao bi djelovati u okviru svojeg mandata i postojećeg institucijskog okvira. Ne bi se smjelo smatrati da BEREC zastupa stajalište Unije pred javnosti ili da preuzima pravne obveze u ime Unije.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_15",
+   "kind": "recital",
+   "number": "15",
+   "label": "(15)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Osim toga, pravila za upravljanje Uredom BEREC-a i za njegov rad trebala bi, ako je to primjereno, biti usklađena s načelima Zajedničke izjave Europskog parlamenta, Vijeća i Europske komisije od 19. srpnja 2012. o decentraliziranim agencijama.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_16",
+   "kind": "recital",
+   "number": "16",
+   "label": "(16)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Institucije Unije i nacionalna regulatorna tijela trebali bi imati koristi od pomoći i savjeta BEREC-a, među ostalim u vezi s relevantnim regulatornim učinkom svih pitanja povezanih s cjelokupnom dinamikom digitalnih tržišta ili s njihovim odnosima, raspravama i razmjenama s trećim stranama te širenjem regulatorne najbolje prakse prema trećim stranama. Uz svoj doprinos Komisijinom javnom savjetovanju, BEREC bi, na zahtjev, trebao savjetovati Komisiju u pripremama zakonodavnih prijedloga. BEREC bi trebao moći savjetovati i Europski parlament i Vijeće, na njihov zahtjev ili na vlastitu inicijativu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_17",
+   "kind": "recital",
+   "number": "17",
+   "label": "(17)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Budući da je BEREC stručno tijelo u području elektroničkih komunikacija sastavljeno od predstavnika nacionalnih regulatornih tijela i Komisije, najprimjerenije je njemu povjeriti zadaće kao što su doprinošenje učinkovitim postupcima unutarnjeg tržišta za izradu nacrta nacionalnih mjera u pogledu regulacije tržišta, pružanje potrebnih smjernica nacionalnim regulatornim tijelima i drugim nadležnim tijelima kako bi se osigurali zajednički kriteriji i dosljedan regulatorni pristup te vođenje određenih registara, baza podataka i popisa na razini Unije. Time se ne dovode u pitanje zadaće utvrđene za nacionalna regulatorna tijela, koja su najbliže upoznata s tržištima elektroničkih komunikacija i lokalnim uvjetima.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_18",
+   "kind": "recital",
+   "number": "18",
+   "label": "(18)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kako bi mogao obavljati svoje zadaće, BEREC bi trebao nastaviti s prikupljanjem stručnog znanja od nacionalnih regulatornih tijela. BEREC bi trebao nastojati osigurati sudjelovanje svih nacionalnih regulatornih tijela u ispunjavanju svojih regulatornih zadaća i u svojem funkcioniranju. Kako bi BEREC postao snažniji, reprezentativniji i kako bi se očuvalo njegovo stručno znanje, iskustvo i spoznaje o određenoj specifičnoj situaciji na cijelom nizu nacionalnih tržišta, svaka bi država članica trebala osigurati da njezino nacionalno regulatorno tijelo raspolaže odgovarajućim financijskim i ljudskim resursima potrebnima za puno sudjelovanje u radu BEREC-a.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_19",
+   "kind": "recital",
+   "number": "19",
+   "label": "(19)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "S obzirom na sve veću konvergenciju sektora koji pružaju elektroničke komunikacijske usluge i horizontalnu dimenziju regulatornih pitanja povezanih s njihovim razvojem, trebalo bi biti moguće da BEREC i Ured BEREC-a, ne dovodeći u pitanje njihove uloge, surađuju s nacionalnim regulatornim tijelima, drugim tijelima, uredima, agencijama i savjetodavnim skupinama Unije, a osobito sa Skupinom za politiku upravljanja radiofrekvencijskim spektrom, osnovanom Odlukom Komisije 2002/622/EZ, Europskim nadzornikom za zaštitu podataka, uspostavljenim Uredbom (EU) 2018/1725 Europskog parlamenta i Vijeća i Europskim odborom za zaštitu podataka, uspostavljenim Uredbom (EU) 2016/679 Europskog parlamenta i Vijeća, Skupinom europskih regulatora za audiovizualne medijske usluge, uspostavljenom Direktivom 2010/13/EU Europskog parlamenta i Vijeća, Agencijom Europske unije za mrežnu i informacijsku sigurnost, osnovanom Uredbom (EU) br. 526/2013 Europskog parlamenta i Vijeća, Agencijom za europski GNSS, osnovanom Uredbom (EU) br. 912/2010 Europskog parlamenta i Vijeća, mrežom suradnje u području zaštite potrošača, uspostavljenom na temelju Uredbe (EZ) br. 2006/2004 Europskog parlamenta i Vijeća, Europskom mrežom za tržišno natjecanje i europskim organizacijama za normizaciju, kao i s postojećim odborima (poput Odbora za komunikacije i Odbora za radiofrekvencijski spektar). BEREC i Ured BEREC-a trebali bi moći surađivati s relevantnim nadležnim tijelima država članica nadležnima za tržišno natjecanje, zaštitu potrošača i zaštitu podataka te s nadležnim tijelima trećih zemalja, osobito s regulatornim tijelima nadležnima za elektroničke komunikacije ili skupinama tih tijela, te s međunarodnim organizacijama, ako je ta suradnja potrebna za obavljanje njihovih zadaća. BEREC bi se također trebao moći savjetovati sa zainteresiranim stranama putem javnih savjetovanja.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_20",
+   "kind": "recital",
+   "number": "20",
+   "label": "(20)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC bi trebao imati pravo uspostavljati radne dogovore s nadležnim tijelima, uredima, agencijama i savjetodavnim skupinama Unije, nadležnim tijelima trećih zemalja i međunarodnim organizacijama, kojima se ne bi smjele stvarati pravne obveze. Cilj takvih radnih dogovora mogao bi biti, primjerice, razvoj suradničkih odnosa i razmjena mišljenja o regulatornim pitanjima. Komisija bi trebala osigurati usklađenost potrebnih radnih dogovora s politikom i prioritetima Unije, i da BEREC djeluje unutar svojeg mandata i postojećeg institucijskog okvira te da se ne smatra da predstavlja stajalište Unije prema vani niti da preuzima na Uniju međunarodne obveze.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_21",
+   "kind": "recital",
+   "number": "21",
+   "label": "(21)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC bi se trebao sastojati od Odbora regulatora i radnih skupina. Rotirajuća uloga predsjednika Odbora regulatora ima za cilj osigurati kontinuitet u radu BEREC-a. Osim toga, potiče se rotiranje uloga potpredsjednika koji predstavljaju različita nacionalna regulatorna tijela.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_22",
+   "kind": "recital",
+   "number": "22",
+   "label": "(22)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC bi trebao moći djelovati u interesu Unije, neovisno od svih vanjskih intervencija, uključujući politički pritisak ili komercijalno uplitanje. Stoga je važno osigurati da se članovima Odbora regulatora jamči najveća moguća osobna i funkcionalna neovisnost. Čelnik nacionalnog regulatornog tijela ili član njegova kolegijalnog tijela ili njihove zamjene uživaju takvu razinu osobne i funkcionalne neovisnosti. Točnije, trebali bi djelovati neovisno i objektivno i ne bi smjeli tražiti ni primati upute za izvršavanje svojih funkcija te bi trebali biti zaštićeni od proizvoljnog razrješenja. Funkciju zamjenika člana u Odbora regulatora u mogao bi obavljati čelnik nacionalnog regulatornog tijela, član njegova kolegijalnog tijela, njihov zamjenik ili drugi član osoblja nacionalnog regulatornog tijela, koji djeluje u ime člana Odbora regulatora i u okviru njegova mandata.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_23",
+   "kind": "recital",
+   "number": "23",
+   "label": "(23)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Iskustvo je pokazalo da se većina zadaća BEREC-a bolje obavlja putem radnih skupina, koje bi uvijek trebale osigurati jednako razmatranje mišljenja i doprinosa svih nacionalnih regulatornih tijela. Stoga bi Odbor regulatora trebao biti zadužen za osnivanje radnih skupina i imenovanje njihovih predsjednika. Nacionalna regulatorna tijela trebala bi odmah odgovoriti na zahtjev za imenovanje kako bi se osiguralo brzo osnivanje određenih radnih skupina, osobito onih povezanih s postupcima s rokovima. U radnim skupinama trebali bi moći sudjelovati stručnjaci iz Komisije. Osoblje Ureda BEREC-a trebalo bi pružati potporu radnim skupinama i doprinositi njihovim aktivnostima.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_24",
+   "kind": "recital",
+   "number": "24",
+   "label": "(24)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ako je to potrebno i ovisno o slučaju, Odbor regulatora i upravni odbor trebali bi moći pozvati bilo koju osobu čije bi mišljenje moglo biti od koristi da u svojstvu promatrača sudjeluje na njihovim sastancima.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_25",
+   "kind": "recital",
+   "number": "25",
+   "label": "(25)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ako je to primjereno i ovisno o dodjeli zadaća tijelima u svakoj državi članici, stajališta drugih nadležnih tijela trebalo bi uzeti u obzir u relevantnoj radnoj skupini, primjerice putem savjetovanja s tim stručnjacima na nacionalnoj razini ili pozivanjem tih drugih nadležnih tijela na relevantne sastanke ako je potrebno njihovo stručno znanje. U svakom slučaju trebalo bi očuvati neovisnost BEREC-a.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_26",
+   "kind": "recital",
+   "number": "26",
+   "label": "(26)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Odbor regulatora i upravni odbor trebali bi djelovati usporedno pri čemu Odbor regulatora odlučuje uglavnom o regulatornim pitanjima, a upravni odbor o administrativnim pitanjima poput pitanja povezanih s proračunom, osobljem i revizijama. U načelu i uz predstavnike Komisije, predstavnici nacionalnih regulatornih tijela u upravnom odboru trebali bi biti članovi Odbora regulatora, no nacionalna regulatorna tijela trebala bi moći imenovati druge predstavnike koji ispunjavaju iste zahtjeve.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_27",
+   "kind": "recital",
+   "number": "27",
+   "label": "(27)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "U prošlosti je ovlasti tijela za imenovanje imao potpredsjednik upravnog odbora Ureda. Ovom se Uredbom predviđa da upravni odbor delegira relevantne ovlasti tijela za imenovanje direktoru, koji je ovlašten dalje delegirati te ovlasti. Time se nastoji doprinijeti učinkovitom upravljanju osobljem Ureda.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_28",
+   "kind": "recital",
+   "number": "28",
+   "label": "(28)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Odbor regulatora i upravni odbor trebali bi održavati najmanje dva redovna sastanka godišnje. S obzirom na prethodna iskustva i na osnaženu ulogu BEREC-a, moglo bi biti potrebno da Odbor regulatora ili upravni odbor održe dodatne sastanke.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_29",
+   "kind": "recital",
+   "number": "29",
+   "label": "(29)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Direktor bi trebao i dalje zastupati Ured BEREC-a u pogledu pravnih i administrativnih pitanja. Upravni odbor trebao bi imenovati direktora na temelju otvorenog i transparentnog postupka odabira kako bi se zajamčila temeljita evaluacija kandidata i visoka razina neovisnosti. Mandat upravitelja Ureda prethodno je trajao tri godine. Potrebno je da da mandat direktora traje dovoljno dugo kako bi se osigurala stabilnost i provedba dugoročne strategije Ureda BEREC-a.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_30",
+   "kind": "recital",
+   "number": "30",
+   "label": "(30)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Delegirana uredba Komisije (EU) br. 1271/2013 trebala bi se primjenjivati na Ured BEREC-a.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_31",
+   "kind": "recital",
+   "number": "31",
+   "label": "(31)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ured BEREC-a trebao bi pružati svu potrebnu stručnu i administrativnu pomoć radu BEREC-a, uključujući financijsku, organizacijsku i logističku podršku, i trebao bi doprinositi regulatornom radu BEREC-a.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_32",
+   "kind": "recital",
+   "number": "32",
+   "label": "(32)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kako bi se zajamčila potpuna samostalnost i neovisnost Ureda BEREC-a, a BEREC-u pružila potpora u njegovu radu, Ured BEREC-a trebalo bi imati vlastiti proračun, čiji bi najveći dio prihoda trebao proizlaziti iz doprinosa Unije. Proračun bi trebao biti prikladan i odražavati povećanu ulogu BEREC-a i Ureda BEREC-a te dodatne zadaće koje su im povjerene. Financiranje Ureda BEREC-a trebalo bi podlijegati odobrenju proračunskog tijela kako je utvrđeno u točki 31. Međuinstitucionalnog sporazuma od 2. prosinca 2013. između Europskog parlamenta, Vijeća i Komisije o proračunskoj disciplini, suradnji u vezi s proračunskim pitanjima i dobrom financijskom upravljanju.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_33",
+   "kind": "recital",
+   "number": "33",
+   "label": "(33)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kako bi mogao obavljati svoje zadaće Ured BEREC-a trebao bi raspolagati odgovarajućim osobljem. Sve zadaće dodijeljene Uredu BEREC-a, uključujući stručne i administrativne usluge kojima se podupire BEREC u obavljanju njegovih regulatornih zadaća, zajedno s usklađenošću s pravilima povezanima s financijama i osobljem te drugim primjenjivim pravilima, te proširene operativne zadaće koje se traže od Ureda BEREC-a povezane s administrativnim zadaćama trebalo bi propisno ocijeniti i odraziti ih u planiranju resursa.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_34",
+   "kind": "recital",
+   "number": "34",
+   "label": "(34)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kako bi se dodatno proširila dosljedna provedba regulatornog okvira za elektroničke komunikacije Odbor regulatora, radne skupine i upravni odbor trebali bi biti otvoreni za sudjelovanje regulatornih tijela trećih zemalja nadležnih u području elektroničkih komunikacija kada su te treće zemlje u tu svrhu sklopile sporazume s Unijom kao što su države EFTA-e koje su članice EGP-a te zemlje kandidatkinje.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_35",
+   "kind": "recital",
+   "number": "35",
+   "label": "(35)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "U skladu s načelom transparentnosti BEREC i Ured BEREC-a trebali bi, ako je to relevantno, objavljivati informacije o svojem radu na svojim internetskim stranicama. Osobito, BEREC bi trebao objaviti sve konačne dokumente izdane tijekom obavljanja svojih zadaća, kao što su mišljenja, smjernice, izvješća, preporuke, zajednička stajališta i najbolje prakse, kao i sve studije koje su naručene za potporu njegovim zadaćama. BEREC i Ured BEREC-a također bi trebali objaviti ažurirane popise svojih zadaća i svojih članova, zamjenika članova i drugih sudionika na sastancima njihovih organizacijskih tijela i izjave o interesima članova Odbora regulatora, članova upravnog odbora i direktora.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_36",
+   "kind": "recital",
+   "number": "36",
+   "label": "(36)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC bi uz potporu Ureda BEREC-a trebao moći obavljati komunikacijske aktivnosti u okviru svojih nadležnosti, koje nemaju štetni utjecaj na obavljanje njegovih glavnih zadaća. Sadržaj i provedba komunikacijske strategije BEREC-a trebali bi biti dosljedni, objektivni, relevantni i usklađeni sa strategijama i aktivnostima Komisije i ostalih institucija kako bi se u obzir uzela opća slika Unije. Komunikacijske aktivnosti Ureda BEREC-a provode se u skladu s relevantnim komunikacijskim planovima i planovima širenja koje donosi upravni odbor.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_37",
+   "kind": "recital",
+   "number": "37",
+   "label": "(37)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kako bi mogli učinkovito obavljati svoje zadaće, BEREC i Ured BEREC-a trebali bi imati ovlasti da zatraže sve potrebne informacije od Komisije, nacionalnih regulatornih tijela i, kao krajnju mjeru, ostalih tijela i poduzetnika. Zahtjevi za dostavu informacija trebali bi biti obrazloženi, proporcionalni i ne bi smjeli nepotrebno opteretiti primatelje zahtjeva. Nacionalna regulatorna tijela trebala bi surađivati s BEREC-om i Uredom BEREC-a te im pravodobno dostavljati točne informacije kako bi BEREC i Ured BEREC-a mogli obavljati svoje zadaće. BEREC i Ured BEREC-a također bi trebali, na temelju načela lojalne suradnje, dijeliti sve potrebne informacije s Komisijom, nacionalnim regulatornim tijelima i drugim nadležnim tijelima. Ako je relevantno, trebalo bi osigurati povjerljivost informacija. Prilikom ocjenjivanja opravdanosti zahtjeva BEREC bi trebao uzeti u obzir jesu li zatražene informacije povezane s obavljanjem zadaća dodijeljenih isključivo relevantnim tijelima.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_38",
+   "kind": "recital",
+   "number": "38",
+   "label": "(38)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ured BEREC-a u tu bi svrhu trebao uspostaviti zajednički informacijski i komunikacijski sustav kako bi se izbjeglo dvostruko zahtijevanje informacija i kako bi se olakšala komunikacija među svim uključenim tijelima.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_39",
+   "kind": "recital",
+   "number": "39",
+   "label": "(39)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kako bi se osigurala visoka razina povjerljivosti i izbjegli sukobi interesa, pravila o tim pitanjima koja se primjenjuju na članove organizacijskih tijela BEREC-a i Ureda BEREC-a trebala bi se primjenjivati na njihove zamjenike.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_40",
+   "kind": "recital",
+   "number": "40",
+   "label": "(40)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Budući da se ovom Uredbom BEREC-u i Uredu BEREC-a dodjeljuju nove zadaće te se drugim pravnim aktima Unije mogu dodijeliti dodatne zadaće, Komisija bi trebala redovito obavljati evaluaciju djelovanja BEREC-a i Ureda BEREC-a te učinkovitosti njihove institucijske strukture u digitalnom okružju koje se mijenja. Ako iz te evaluacije Komisija zaključi da institucijska struktura nije prikladna za obavljanje zadaća BEREC-a i Ureda BEREC-a, a osobito kako bi se zajamčila dosljedna provedba regulatornog okvira za elektroničke komunikacije, trebala bi istražiti sve mogućnosti poboljšanja te strukture.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_41",
+   "kind": "recital",
+   "number": "41",
+   "label": "(41)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "U pogledu vlasništva, sporazuma, uključujući Sporazum o sjedištu, pravnih obveza, ugovora o radu, financijskih obveza i odgovornosti, Ured BEREC-a osnovan ovom Uredbom sljednik je Ureda koji je Uredbom (EZ) br. 1211/2009 osnovan kao tijelo Zajednice s pravnom osobnošću. Ured BEREC-a trebao bi preuzeti osoblje Ureda i time se ne bi smjelo utjecati na njihova prava i obveze. Kako bi se osigurao kontinuitet u radu BEREC-a i Ureda, njihovi predstavnici, to jest predsjednik i potpredsjednici Odbora regulatora, upravni odbor i upravitelj ureda, trebali bi obavljati svoje dužnosti do kraja njihova mandata.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_42",
+   "kind": "recital",
+   "number": "42",
+   "label": "(42)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Znatan broj potrošača u većini država članica i dalje se oslanja na tradicionalne međunarodne komunikacije, kao što su telefonski pozivi i SMS poruke, unatoč tome što ih sve više ima pristup brojevno neovisnim interpersonalnim komunikacijskima uslugama za svoje potrebe za međunarodnim pozivima uz niže naknade u odnosu na tradicionalne usluge ili bez novčanog plaćanja.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_43",
+   "kind": "recital",
+   "number": "43",
+   "label": "(43)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Komisija je 2013. predložila uredbu koja je bila predmet procjene učinka i koja je sadržavala odredbu s regulatornim mjerama primjenjivima na komunikacije unutar EU-a. BEREC i Komisija prikupili su dodatne podatke o tržištu komunikacija unutar EU-a od 2017. do 2018. putem studije Komisije i Eurobarometra. Iz tih je podataka vidljivo da i dalje prevladavaju znatne razlike u cijenama, što vrijedi za komunikacije i u nepokretnoj i u pokretnoj mreži, između domaćih glasovnih komunikacija i komunikacija SMS porukama te komunikacija prema drugim državama članicama u kontekstu znatnih razlika u cijenama među zemljama, pružateljima i tarifnim paketima te između glasovnih komunikacija u pokretnoj i nepokretnoj mreži. Pružatelji javno dostupnih brojevno utemeljenih interpersonalnih komunikacijskih usluga za komunikacije unutar EU-a često zaračunavaju cijene temeljene na potrošnji koje u velikoj mjeri premašuju cijene za domaće tarife te naplaćuju dodatne troškove. U prosjeku je standardna cijena poziva u nepokretnoj ili pokretnoj mreži unutar EU-a obično trostruko veća od standardne cijene domaćeg poziva, a standardna cijena SMS poruke unutar EU-a za više je nego dvostruko veća od domaće cijene. Međutim, te aritmetičke srednje vrijednosti skrivaju značajne razlike među državama članicama. U nekim slučajevima standardna cijena poziva unutar EU-a može biti do osam puta veća od standardne cijene za domaće pozive. Zbog toga su kupci u nekoliko država članica izloženi vrlo visokim cijenama za komunikacije unutar EU-a. Te visoke cijene uglavnom utječu na potrošače, posebno one koji se takvim komunikacijama rijetko koriste ili imaju nisku količinu potrošnje, a predstavljaju veliku većinu potrošača koji se koriste komunikacijama unutar EU-a. Usporedo s time nekoliko pružatelja usluga nudi posebne ponude posebno privlačne poslovnim kupcima i potrošačima sa znatnom potrošnjom komunikacija unutar EU-a. Takve se ponude često ne naplaćuju na temelju stvarne potrošnje i mogu se sastojati od određenog broja pozivnih minuta ili SMS poruka unutar EU-a za fiksnu mjesečnu naknadu (dodatne ponude) ili od uključivanja određenog broja pozivnih minuta ili SMS poruka unutar EU-a u mjesečnu naknadu za pozivne minute ili SMS-ove, ili bez ikakve dodatne naknade ili uz malu naknadu. Međutim, uvjeti iz tih ponuda često nisu privlačni potrošačima sa samo povremenom, nepredvidivom ili relativno malom količinom komunikacija unutar EU-a. Stoga su ti potrošači izloženi riziku od plaćanja pretjeranih cijena za svoje komunikacije unutar EU-a te bi ih trebalo zaštititi.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_44",
+   "kind": "recital",
+   "number": "44",
+   "label": "(44)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Osim toga, visoke cijene za komunikacije unutar EU-a predstavljaju prepreku funkcioniranju unutarnjeg tržišta jer odvraćaju od traženja te kupnje robe i usluga od pružatelja usluga koji se nalazi u drugoj državi članici. Stoga je potrebno odrediti posebna i razmjerna ograničenja cijene koju pružatelji javno dostupnih brojevno utemeljenih interpersonalnih komunikacijskih usluga mogu naplatiti potrošačima za komunikaciju unutar EU-a kako bi se otklonile takve visoke cijene.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_45",
+   "kind": "recital",
+   "number": "45",
+   "label": "(45)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kada pružatelji javno dostupnih brojevno utemeljenih interpersonalnih komunikacijskih usluga naplaćuju naknade svojim potrošačima za komunikacije unutar EU-a po cijenama koje se u cijelosti ili djelomično temelje na potrošnji takvih usluga, među ostalim u slučajevima odbitaka na temelju potrošnje od mjesečne ili unaprijed plaćene naknade za takve usluge, te cijene ne bi smjele iznositi više od 0,19 EUR po minuti za pozive i 0,06 EUR po SMS poruci. Navedene gornje granične vrijednosti odgovaraju maksimalnim cijenama koje se trenutačno primjenjuju na regulirane pozive odnosno SMS poruke u roamingu. Pri korištenju roamingom u Uniji potrošači ostvaruju koristi od zaštite eurotarife za glasovne pozive i eurotarife za SMS poruke koje su postupno zamijenjene roamingom „kao kod kuće”. Te se gornje granične vrijednosti smatraju i prikladnom referentnom vrijednošću za određivanje maksimalne cijene reguliranih komunikacija unutar EU-a za razdoblje od pet godina, počevši od 15. svibnja 2019. Trenutačna razina gornje granične vrijednosti predstavlja jednostavnu, transparentnu i dokazanu sigurnosnu mrežu za zaštitu od visokih cijena i pogodna je kao gornja granična vrijednost za maloprodajne cijene svih reguliranih komunikacija unutar EU-a. I pozivi u roamingu unutar Unije i pozivi unutar EU-a imaju sličnu strukturu troškova.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_46",
+   "kind": "recital",
+   "number": "46",
+   "label": "(46)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Gornjim graničnim vrijednostima pružateljima javno dostupnih brojevno utemeljenih interpersonalnih komunikacijskih usluga trebalo bi se omogućiti da nadoknade svoje troškove, čime se osigurava proporcionalna intervencija i na tržištu poziva u pokretnoj mreži i na tržištu poziva u nepokretnoj mreži. Gornje granične vrijednosti izravno će se primjenjivati samo na cijene koje se temelje na stvarnoj potrošnji. One bi trebale imati disciplinirajući učinak i na one ponude u kojima je uključena određena količina komunikacija unutar EU-a koja se zasebno ne naplaćuje jer potrošači za svoje komunikacije unutar EU-a imaju mogućnost prelaska na tarifu utemeljenu na potrošnji. Količine komunikacija unutar EU-a koje nadilaze one uključene u paketu i koje se zasebno naplaćuju trebale bi podlijegati gornjim graničnim vrijednostima. Tom bi se mjerom trebalo na razmjeran način osigurati da potrošači s niskom razinom potrošnje u području komunikacija unutar EU-a budu zaštićeni od visokih cijena, dok bi istodobno trebala imati samo umjeren učinak na pružatelje.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_47",
+   "kind": "recital",
+   "number": "47",
+   "label": "(47)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Pružatelji javno dostupnih brojevno utemeljenih interpersonalnih komunikacijskih usluga trebali bi moći predložiti svojim potrošačima alternativne tarifne ponude za međunarodne komunikacije s različitim cijenama za regulirane komunikacije unutar EU-a, a potrošači bi trebali imati mogućnost izričito se odlučiti za takve ponude, a potom se u svakom trenutku i bez naknade vratiti na prethodnu opciju, čak i u slučaju ponuda na koje su se potrošači prijavili prije stupanja takvih odredbi na snagu. Samo bi se alternativnim ponudama za međunarodne komunikacije, kao što su one koje obuhvaćaju sve ili neke treće zemlje, a koje je prihvatio potrošač, pružatelj usluga trebao moći osloboditi od svoje obveze da ne premaši gornje granične vrijednosti za regulirane komunikacije unutar EU-a. Ostale prednosti, poput subvencionirane terminalne opreme ili popusta na druge elektroničke komunikacijske usluge, koje pružatelji usluga nude potrošačima dio su uobičajene konkurentne interakcije i ne bi smjele utjecati na primjenjivost gornjih graničnih vrijednosti cijena za regulirane komunikacije unutar EU-a.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_48",
+   "kind": "recital",
+   "number": "48",
+   "label": "(48)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Gornja granična vrijednost cijena za regulirane komunikacije unutar EU-a može znatno više utjecati na neke pružatelje javno dostupnih brojevno utemeljenih interpersonalnih komunikacijskih usluga u odnosu na većinu drugih pružatelja usluga u Uniji. To bi posebno mogao biti slučaj kod onih pružatelja usluga koji ostvaruju iznimno visok udio svojih prihoda ili operativne dobiti na temelju komunikacija unutar EU-a ili čije su domaće marže niske u odnosu na referentne vrijednosti industrije. Zbog ograničenja marži u pogledu reguliranih komunikacija unutar EU-a pružatelj usluga možda neće moći zadržati svoj domaći model određivanja cijena. Vrlo je vjerojatno da se takvi scenariji neće pojaviti jer su maksimalne cijene očito iznad troškova pružanja komunikacija unutar EU-a. No ipak, kako bi se takvi iznimni scenariji uredili na razmjeran način, nacionalna regulatorna tijela trebala moći u opravdanim i iznimnim slučajevima odobriti odstupanje na zahtjev takvog pružatelja.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_49",
+   "kind": "recital",
+   "number": "49",
+   "label": "(49)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Svako odstupanje trebalo bi se odobriti samo ako pružatelj usluga može dokazati, u odnosu na relevantnu referentnu vrijednost koju je utvrdio BEREC, da se na njega utječe u znatno većoj mjeri u odnosu na druge pružatelje usluga u Uniji i ako bi taj učinak znatno oslabio kapacitet tog pružatelja da zadrži svoj model naplate za domaće komunikacije. Ako nacionalno regulatorno tijelo odobri odstupanje, trebalo bi odrediti maksimalnu razinu cijene koju bi pružatelj usluga mogao primijeniti na regulirane komunikacije unutar EU-a, a kojom bi mu se omogućilo zadržavanje konkurentne razine cijene za domaće komunikacije. Svako takvo odstupanje trebalo bi biti ograničeno na jednu godinu i obnovljivo ako pružatelj usluga dokaže da su uvjeti za odstupanje i dalje ispunjeni.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_50",
+   "kind": "recital",
+   "number": "50",
+   "label": "(50)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "S obzirom na načelo proporcionalnosti, primjenjivost gornjih graničnih vrijednosti cijena za regulirane komunikacije unutar EU-a trebalo bi vremenski ograničiti te bi trebala isteći pet godina nakon njezina stupanja na snagu. Takvim ograničenim trajanjem trebala bi se omogućiti odgovarajuća ocjena učinaka mjera i evaluacija u kojoj je mjeri potrošačima i dalje potrebna zaštita.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_51",
+   "kind": "recital",
+   "number": "51",
+   "label": "(51)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kako bi se na razini Unije osigurala dosljedna, pravodobna i najučinkovitija zaštita potrošača na koje negativno utječu znatne razlike u cijenama komunikacija unutar EU-a, takve bi odredbe trebale biti izravno primjenjive i utvrđene u uredbi. Najprikladnija uredba za tu svrhu jest Uredba (EU) 2015/2120, koja je donesena nakon procjene učinka kojom je, među ostalim, predložena odredba o komunikacijama unutar EU-a kao nužno sredstvo za dovršenje unutarnjeg tržišta elektroničkih komunikacija. Vjerojatni učinci na prihode pružatelja ostvareni pružanjem komunikacija unutar EU-a dodatno su ublaženi primjenom eurotarife za roaming za glasovne pozive i eurotarife za roaming za SMS poruke kao gornje granične vrijednosti za komunikacije i u nepokretnoj i u pokretnoj mreži, koje služe kao zaštitni mehanizam; kao i dokazima koje je pružila analiza BEREC-a iz 2018. o znatnom smanjenju relevantnih količina prometa komunikacija u nepokretnoj mreži na koje je u međuvremenu utjecala ta mjera. Te bi odredbe stoga trebalo uvesti kao izmjenu Uredbe (EU) 2015/2120, koju bi također trebalo prilagoditi kako bi se osiguralo da države članice donesu pravila o sankcijama za kršenje takvih odredaba.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_52",
+   "kind": "recital",
+   "number": "52",
+   "label": "(52)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "S obzirom na to da ciljeve ove Uredbe, odnosno osiguravanje dosljedne provedbe regulatornog okvira za elektroničke komunikacije, a osobito u pogledu prekograničnih pitanja i na temelju učinkovitih postupaka unutarnjeg tržišta za izradu nacrta nacionalnih mjera, i osiguravanje da se potrošačima ne naplaćuju prekomjerne cijene za služenje brojevno utemeljenim interpersonalnim komunikacijama iz države članice potrošačeva domaćeg pružatelja prema bilo kojem broju u nepokretnoj ili pokretnoj mreži u drugoj državi članici, ne mogu dostatno ostvariti države članice, nego se zbog opsega ili učinaka djelovanja oni na bolji način mogu ostvariti na razini Unije, Unija može donijeti mjere u skladu s načelom supsidijarnosti utvrđenim u članku 5. Ugovora o Europskog uniji. U skladu s načelom proporcionalnosti utvrđenim u tom članku, ova Uredba ne prelazi ono što je potrebno za ostvarivanje tih ciljeva.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_53",
+   "kind": "recital",
+   "number": "53",
+   "label": "(53)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ovom se Uredbom mijenja i proširuje područje primjene Uredbe (EZ) br. 1211/2009. S obzirom da su izmjene koje treba provesti značajne po prirodi, taj bi akt radi jasnoće trebalo staviti izvan snage. Upućivanja na uredbu stavljenu izvan snage trebalo bi smatrati upućivanjima na ovu Uredbu,",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_1",
+   "kind": "article",
+   "number": "1",
+   "label": "Članak 1.",
+   "title": "Predmet i područje primjene",
+   "path": [
+    "POGLAVLJE I. — PREDMET I PODRUČJE PRIMJENE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ovom Uredbom osniva se Tijelo europskih regulatora za elektroničke komunikacije („BEREC”) i Agencija za potporu BEREC-u („Ured BEREC-a”).",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC i Ured BEREC-a zamjenjuju te su sljednici Tijela europskih regulatora za elektroničke komunikacije odnosno Ureda, koji su osnovani Uredbom (EZ) br. 1211/2009.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_2",
+   "kind": "article",
+   "number": "2",
+   "label": "Članak 2.",
+   "title": "Pravna osobnost Ureda BEREC-a",
+   "path": [
+    "POGLAVLJE I. — PREDMET I PODRUČJE PRIMJENE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ured BEREC-a tijelo je Unije. On ima pravnu osobnost.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. U svakoj državi članici Ured BEREC-a ima najširu pravnu sposobnost koja prema nacionalnom pravu pripada pravnim osobama. Osobito, on ima sposobnost stjecanja i raspolaganja pokretnom i nepokretnom imovinom te biti stranka u sudskom postupku.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Ured BEREC-a zastupa njegov direktor.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Ured BEREC-a snosi isključivu odgovornost za zadaće i ovlasti koje su mu povjerene.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Sjedište Ureda BEREC-a nalazi se u Rigi.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_3",
+   "kind": "article",
+   "number": "3",
+   "label": "Članak 3.",
+   "title": "Ciljevi BEREC-a",
+   "path": [
+    "POGLAVLJE II. — CILJEVI I ZADAĆE BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC djeluje unutar područja primjene uredaba (EU) br. 531/2012 i (EU) 2015/2120 te Direktive (EU) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC nastoji ostvariti ciljeve utvrđene u članku 3. Direktive (EU) 2018/1972. Osobito, BEREC nastoji osigurati dosljednu provedbu regulatornog okvira za elektroničke komunikacije unutar područja primjene iz stavka 1. ovog članka.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC svoje zadaće obavlja neovisno, nepristrano, transparentno i pravodobno.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. BEREC se oslanja na stručno znanje kojim raspolažu nacionalna regulatorna tijela.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. U skladu s člankom 9. stavkom 3. Direktive (EU) 2018/1972 svaka država članica osigurava da njezino nacionalno regulatorno tijelo može u potpunosti sudjelovati u radu organizacijskih tijela BEREC-a.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. U državama članicama u kojima postoji više nacionalnih regulatornih tijela nadležnih na temelju Direktive (EU) 2018/1972 ta se nacionalna regulatorna tijela, prema potrebi, međusobno usklađuju.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_4",
+   "kind": "article",
+   "number": "4",
+   "label": "Članak 4.",
+   "title": "Regulatorne zadaće BEREC-a",
+   "path": [
+    "POGLAVLJE II. — CILJEVI I ZADAĆE BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Regulatorne zadaće BEREC-a jesu:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(a) pružanje pomoći i savjeta nacionalnim regulatornim tijelima, Europskom parlamentu, Vijeću i Komisiji, te suradnja s nacionalnim regulatornim tijelima i Komisijom, na zahtjev ili na vlastitu inicijativu, u vezi sa svim tehničkim pitanjima povezanima s elektroničkim komunikacijama unutar svojih nadležnosti;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(b) pružanje pomoći i savjeta Komisiji, na zahtjev, u vezi s pripremom zakonodavnih prijedloga u području elektroničkih komunikacija, među ostalim o svakoj predloženoj izmjeni ove Uredbe ili Direktive (EU) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(c) izdavanje mišljenja kako je navedeno u Uredbi (EU) br. 531/2012 i Direktivi (EU) 2018/1972, posebno o: i. rješavanju prekograničnih sporova u skladu s člankom 27. Direktive (EU) 2018/1972; ii. nacrtu nacionalnih mjera povezanih s postupcima unutarnjeg tržišta za regulaciju tržišta u skladu s člancima 32., 33. i 68. Direktive (EU) 2018/1972; iii. nacrtu odluka i preporuka o usklađivanju u skladu s člancima 38. i 93. Direktive (EU) 2018/1972; iv. povezivosti s kraja na kraj među krajnjim korisnicima u skladu s člankom 61. stavkom 2. Direktive (EU) 2018/1972; v. utvrđivanju jedinstvene maksimalne cijene završavanja glasovnih poziva u pokretnim mrežama u cijeloj Uniji i jedinstvene maksimalne cijene završavanja glasovnih poziva u nepokretnim mrežama u cijeloj Uniji u skladu s člankom 75. Direktive (EU) 2018/1972; vi. predlošku sažetka ugovora u skladu s člankom 102. Direktive (EU) 2018/1972; vii. nacionalnoj provedbi i funkcioniranju općeg ovlaštenja te njihovu učinku na funkcioniranje unutarnjeg tržišta u skladu s člankom 122. stavkom 3. Direktive (EU) 2018/1972; viii. prema potrebi, tržišnom i tehnološkom razvoju u pogledu različitih vrsta elektroničkih komunikacijskih usluga i njihova učinka na primjenu dijela III. glave III. Direktive (EU) 2018/1972 u skladu s člankom 123. stavkom 1. te direktive;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(d) davanje smjernica o provedbi regulatornog okvira Unije za elektroničke komunikacije, osobito kako je navedeno u uredbama (EU br. 531/2012 i Uredbi (EU) 2015/2120, te u Direktivi (EU) 2018/1972 o: i. obrascu za obavijest u skladu s člankom 12. Direktive (EU) 2018/1972; ii. dosljednoj provedbi obveza u pogledu geografskih pregleda i prognoza u skladu s člankom 22. Direktive (EU) 2018/1972; iii. relevantnim kriterijima za poticanje dosljedne primjene članka 61. stavka 3. Direktive (EU) 2018/1972; iv. o zajedničkim pristupima utvrđivanju završne točke mreže u različitim mrežnim topologijama u skladu s člankom 61. stavkom 7. Direktive (EU) 2018/1972; v. zajedničkim pristupima za zadovoljavanje transnacionalne potražnje krajnjih korisnika u skladu s člankom 66. Direktive (EU) 2018/1972; vi. minimalnim kriterijima za standardnu ponudu u skladu s člankom 69. Direktive (EU) 2018/1972; vii. poticanju, od strane nacionalnih regulatornih tijela, dosljedne primjene uvjeta utvrđenih u članku 76. stavku 1. Direktive (EU) 2018/1972 i kriterija utvrđenih u Prilogu IV. toj direktivi; viii. kriterijima za mrežu koju treba smatrati mrežom vrlo velikog kapaciteta u skladu s člankom 82. Direktive (EU) 2018/1972; ix. zajedničkim kriterijima za procjenu sposobnosti upravljanja brojevnim resursima i rizikom od njihova iscrpljivanja u skladu s člankom 93. Direktive (EU) 2018/1972; x. odgovarajućim pokazateljima kvalitete usluga, primjenjivim metodama mjerenja, sadržaju i formatu objavljivanja informacija te mehanizmima certificiranja kvalitete u skladu s člankom 104. Direktive (EU) 2018/1972; xi. načinima procjene toga je li učinkovitost sustavâ upozoravanja javnosti iz članka 110. stavka 2. Direktive (EU) 2018/1972 jednaka učinkovitosti onih iz stavka 1. tog članka; xii. veleprodajnom pristupu roamingu u skladu s člankom 3. stavkom 8. Uredbe (EU) br. 531/2012; xiii. provedbi obveza nacionalnih regulatornih tijela u pogledu pristupa otvorenom internetu u skladu s člankom 5. Uredbe (EU) br. 2015/2120; xiv. o kriterijima koje nacionalna regulatorna tijela trebaju uzeti u obzir pri procjeni održivosti domaćih modela naplate u skladu s člankom 5.a stavkom 6. Uredbe (EU) 2015/2120;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(e) davanje drugih smjernica za osiguravanje dosljedne provedbe regulatornog okvira za elektroničke komunikacije i dosljednih regulatornih odluka nacionalnih regulatornih tijela, na vlastitu inicijativu ili na zahtjev nacionalnog regulatornog tijela, Europskog parlamenta, Vijeća ili Komisije, osobito u vezi s regulatornim pitanjima koja utječu na velik broj država članica ili imaju prekogranični element;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(f) ako je primjenjivo, sudjelovanje u forumu za istorazinsku ocjenu u pogledu nacrta mjera za postupke odabira u skladu s člankom 35. Direktive (EU) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(g) sudjelovanje u pitanjima koja se odnose na njegovu nadležnost povezane s reguliranjem tržišta i tržišnim natjecanjem u pogledu radiofrekvencijskog spektra u skladu s člankom 4. Direktive (EU) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(h) provođenje analiza potencijalnih transnacionalnih tržišta u skladu s člankom 65. Direktive (EU) 2018/1972 i transnacionalne potražnje krajnjih korisnika u skladu s člankom 66. te direktive;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(i) praćenje i prikupljanje informacija te, prema potrebi, objavljivanje ažuriranih informacija o primjeni Uredbe (EU) br. 531/2012, u skladu s njezinim člancima 16. i 19.;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(j) podnošenje izvješća o tehničkim pitanjima u okviru svoje nadležnosti, a posebno o: i. praktičnoj primjeni mišljenja i smjernica iz točaka (c), (d) i (e); ii. najboljim praksama država članica u pogledu definiranja usluge odgovarajućeg širokopojasnog pristupa internetu u skladu s člankom 84. Direktive (EU) 2018/1972; iii. promjenama u cijenama i potrošačkim navikama i za domaće usluge i za usluge u roamingu, promjenama u trenutačnim veleprodajnim cijenama roaminga za neuravnotežen promet, odnosu između maloprodajnih cijena, veleprodajnih naknada i veleprodajnih troškova usluga roaminga te transparentnosti i usporedivosti tarifa u skladu s člankom 19. Uredbe (EU) br. 531/2012; iv. ishodima godišnjih izvješća koja podnose nacionalna regulatorna tijela u skladu s člankom 5. Uredbe (EU) 2015/2120 objavom godišnjeg objedinjenog izvješća; v. razvoju tržišta elektroničkih komunikacija, na godišnjoj osnovi;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(k) davanje preporuka i zajedničkih stajališta te širenje regulatorne najbolje prakse upućene nacionalnim regulatornim tijelima radi poticanja dosljedne i bolje provedbe regulatornog okvira za elektroničke komunikacije;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(l) uspostavljanje i vođenje baze podataka o: i. obavijestima koje su poduzetnici koji podliježu općem ovlaštenju u skladu s člankom 12. Direktive (EU) 2018/1972 dostavili nadležnim tijelima; ii. brojevnim resursima s pravom izvanteritorijalne upotrebe unutar Unije u skladu s člankom 93. stavkom 4. četvrtim podstavkom Direktive (EU) 2018/1972; iii. prema potrebi, brojevima hitnih službi država članica u formatu E.164 u skladu s člankom 109. stavkom 8. trećim podstavkom Direktive (EU) 2018/1972;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(m) evaluiranje potrebe za regulatornim inovacijama i koordiniranje djelovanja među nacionalnim regulatornim tijelima kako bi se omogućio razvoj novih inovativnih elektroničkih komunikacija;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(n) poticanje modernizacije, koordinacije i standardizacije prikupljanja podataka od strane nacionalnih regulatornih tijela, pri čemu se takvi podaci stavljaju se na raspolaganje javnosti u otvorenom, ponovno upotrebljivom i strojno čitljivom formatu na internetskim stranicama BEREC-a i na Europskom portalu podataka, ne dovodeći u pitanje prava intelektualnog vlasništva, pravila zaštite osobnih podataka i zahtijevanu razinu povjerljivosti;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(o) obavljanje ostalih zadaća koje su mu dodijeljene pravnim aktima Unije, uredbama (EZ) br. 531/2012 i (EU) 2015/2120 te Direktivom (EU) 2018/1972.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC objavljuje svoje regulatorne zadaće i te informacije ažurira kada mu se dodijele nove zadaće.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC objavljuje sva svoja konačna mišljenja, smjernice, izvješća, preporuke, zajednička stajališta i najbolje prakse te sve naručene studije, kao i relevantne nacrte dokumenata za svrhe javnih savjetovanja iz stavka 5.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Ne dovodeći u pitanje usklađenost s relevantnim pravom Unije, nacionalna regulatorna tijela i Komisija u najvećoj mogućoj mjeri uzimaju u obzir sve smjernice, mišljenja, preporuke, zajednička stajališta i najbolje prakse koje je BEREC donio u cilju osiguravanja dosljedne provedbe regulatornog okvira za elektroničke komunikacije unutar područja primjene iz članka 3. stavka 1. Ako neko nacionalno regulatorno tijelo odstupi od smjernica iz stavka 1. točke (e), za to mora dati obrazloženje.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. BEREC se, ako je to primjereno savjetuje sa zainteresiranim stranama i daje im mogućnost da dostave svoje komentare u razumnom roku, koji ovisi o složenosti predmeta. Osim u iznimnim okolnostima, taj rok ne smije biti kraći od 30 dana. Ne dovodeći u pitanje članak 38., BEREC objavljuje rezultate tih javnih savjetovanja. Ta se savjetovanja održavaju u što ranijoj fazi postupka odlučivanja.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. BEREC se, ako je to primjereno, može savjetovati s relevantnim nacionalnim tijelima, poput tijela nadležnih za tržišno natjecanje, zaštitu potrošača i zaštitu podataka, i surađivati s njima.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. BEREC može, ako je to primjereno, surađivati s nadležnim tijelima, uredima, agencijama i savjetodavnim skupinama Unije, kao i s nadležnim tijelima trećih zemalja i međunarodnim organizacijama u skladu s člankom 35. stavkom 1.",
+     "para": "7",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_5",
+   "kind": "article",
+   "number": "5",
+   "label": "Članak 5.",
+   "title": "Zadaće Ureda BEREC-a",
+   "path": [
+    "POGLAVLJE III. — ZADAĆE UREDA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "Ured BEREC-a ima sljedeće zadaće:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(a) pruža usluge profesionalne i administrativne podrške BEREC-u, osobito u obavljanju njegovih regulatornih zadaća na temelju članka 4.;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(b) prikuplja informacije od nacionalnih regulatornih tijela te razmjenjuje i prosljeđuje informacije povezane s regulatornim zadaćama BEREC-a na temelju članka 4.;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(c) na temelju informacija iz točke (b) redovito izrađuje nacrte izvješća o pojedinim aspektima razvoja europskog tržišta elektroničkih komunikacija, kao što su izvješća o roamingu i usporednoj analizi, te ih dostavlja BEREC-u;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(d) širi primjere najboljih regulatornih praksi među nacionalnim regulatornim tijelima u skladu s člankom 4. stavkom 1. točkom (c);",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(e) pomaže BEREC-u u uspostavljanju i vođenju registara i baza podataka, u skladu s člankom 4. stavkom 1. točkom (k).",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(f) pomaže BEREC-u u uspostavljanju informacijskog i komunikacijskog sustava i upravljanju njime, u skladu s člankom 41.;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(g) pomaže BEREC-u u provođenju javnih savjetovanja u skladu s člankom 4. stavkom 5.;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(h) pomaže u pripremi rada i pruža druge oblike administrativne potpore i potpore vezane uz sadržaj kako bi se osigurao neometan rad Odbora regulatora;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(i) pruža pomoć u osnivanju radnih skupina na zahtjev Odbora regulatora, doprinosi regulatornom radu i pruža administrativnu pomoć kako bi se osiguralo neometano funkcioniranje tih skupina;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(j) obavlja druge zadaće koje su mu dodijeljene ovom Uredbom ili drugim pravnim aktima Unije.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_6",
+   "kind": "article",
+   "number": "6",
+   "label": "Članak 6.",
+   "title": "Organizacijska struktura BEREC-a",
+   "path": [
+    "POGLAVLJE IV. — USTROJSTVO BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC se sastoji od:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(a) Odbora regulatora;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(b) radnih skupina.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_7",
+   "kind": "article",
+   "number": "7",
+   "label": "Članak 7.",
+   "title": "Sastav Odbora regulatora",
+   "path": [
+    "POGLAVLJE IV. — USTROJSTVO BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Odbor regulatora sastoji se od po jednog člana iz svake države članice. Svaki član ima pravo glasa. Svakog člana imenuje nacionalno regulatorno tijelo koje ima primarnu odgovornost za nadzor svakodnevnog rada tržištâ za elektroničke komunikacijske mreže i usluge na temelju Direktive (EU) 2018/1972. Članom se imenuje čelnik nacionalnog regulatornog tijela, član njegova kolegijalnog tijela ili zamjenik jednoga od njih.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Svaki član Odbora regulatora ima zamjenika kojeg imenuje nacionalno regulatorno tijelo. Zamjenik predstavlja člana u njegovoj odsutnosti. Zamjenikom se imenuje čelnik nacionalnog regulatornog tijela, član njegova kolegijalnog tijela, zamjenik jednoga od njih, ili netko od osoblja nacionalnog regulatornog tijela.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Članovi Odbora regulatora i njihovi zamjenici imenuju se s obzirom na njihovo znanje u području elektroničkih komunikacija te relevantne upravljačke i administrativne vještine te vještine upravljanja proračunom. Kako bi se osigurao kontinuitet rada Odbora regulatora sva nacionalna regulatorna tijela koja imenuju članove poduzimaju napore da ograniče mijenjanje svojih predstavnika i, kada je to moguće, i njihovih zamjenika te nastoje postići uravnoteženu zastupljenost muškaraca i žena.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Komisija sudjeluje u svim vijećanjima Odbora regulatora bez prava glasa i zastupljena je na odgovarajuće visokoj razini.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Ažurirani popis članova Odbora regulatora i njihovih zamjenika, zajedno s njihovim izjavama o interesima objavljuju se.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_8",
+   "kind": "article",
+   "number": "8",
+   "label": "Članak 8.",
+   "title": "Neovisnost Odbora regulatora",
+   "path": [
+    "POGLAVLJE IV. — USTROJSTVO BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Prilikom obavljanja zadaća koje su mu povjerene i ne dovodeći u pitanje svoje članove koji djeluju u ime svojih nacionalnih regulatornih tijela, Odbor regulatora djeluje neovisno i objektivno u interesu Unije, bez obzira na bilo kakve posebne nacionalne ili osobne interese.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Ne dovodeći u pitanje koordinaciju iz članka 4. stavka 6., članovi Odbora regulatora ni njihovi zamjenici ne smiju tražiti niti primati upute ni od koje vlade, institucije, osobe ili tijela.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_9",
+   "kind": "article",
+   "number": "9",
+   "label": "Članak 9.",
+   "title": "Dužnosti Odbora regulatora",
+   "path": [
+    "POGLAVLJE IV. — USTROJSTVO BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "Odbor regulatora ima sljedeće dužnosti:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(a) obavljati regulatorne zadaće BEREC-a navedene u članku 4. odnosno donositi mišljenja, smjernice, izvješća, preporuke, zajednička stajališta i širiti najbolje prakse iz tog članka; oslanjajući se pritom na pripremni rad obavljen u okviru radnih skupina;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(b) donositi administrativne odluke povezane s organizacijom rada BEREC-a;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(c) donositi godišnji program rada BEREC-a iz članka 21.;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(d) donositi godišnje izvješće o svojim aktivnostima BEREC-a iz članka 22.;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(e) donositi pravila o sprečavanju sukoba interesa iz članka 42. i upravljanju njima, kao i u pogledu članova radnih skupina;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(f) donositi detaljna pravila o pravu pristupa dokumentima BEREC-a, u skladu s člankom 36.;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(g) donositi i redovito ažurirati komunikacijske i promidžbene planove iz članka 37. stavka 2. na temelju analize potreba;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(h) donijeti, dvotrećinskom većinom glasova svojih članova, i objaviti svoj poslovnik;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(i) zajedno s direktorom odobravati sklapanje radnih dogovora s nadležnim tijelima, agencijama, uredima i savjetodavnim skupinama Unije; s nadležnim tijelima trećih zemalja i međunarodnim organizacijama u skladu s člankom 35.;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(j) osnivati radne skupine i imenovati njihove predsjednike;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(k) davati smjernice direktoru Ureda BEREC-a u vezi s obavljanjem zadaća Ureda BEREC-a.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_10",
+   "kind": "article",
+   "number": "10",
+   "label": "Članak 10.",
+   "title": "Predsjednik i potpredsjednici Odbora regulatora",
+   "path": [
+    "POGLAVLJE IV. — USTROJSTVO BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Odbor regulatora dvotrećinskom većinom glasova svojih članova imenuje predsjednika i barem dva potpredsjednika iz redova svojih članova.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Jedan od potpredsjednika automatski preuzima dužnosti predsjednika ako ih on nije u mogućnosti obavljati.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Mandat predsjednika traje jednu godinu i može se jednom obnoviti. Kako bi se osigurao kontinuitet rada BEREC-a, budući predsjednik, ako je to moguće, jednu godinu prije početka svojeg mandata predsjednika djeluje na mjestu potpredsjednika. Poslovnikom se predviđa kraći mandat ako budući predsjednik ne može godinu dana prije svojeg mandata predsjednika provesti na mjestu potpredsjednika.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Ne dovodeći u pitanje ulogu Odbora regulatora u vezi sa zadaćama predsjednika, predsjednik ne traži niti prima upute ni od koje vlade, institucije, osobe ili tijela.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Predsjednik na poziv izvješćuje Europski parlament i Vijeće o obavljanju zadaća BEREC-a.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_11",
+   "kind": "article",
+   "number": "11",
+   "label": "Članak 11.",
+   "title": "Sastanci Odbora regulatora",
+   "path": [
+    "POGLAVLJE IV. — USTROJSTVO BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Predsjednik saziva sastanke Odbora regulatora i utvrđuje dnevni red tih sastanaka, koji se objavljuje.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Odbor regulatora održava barem dva redovna sastanka godišnje. Izvanredni sastanci sazivaju se na inicijativu predsjednika, na zahtjev najmanje triju njegovih članova ili na zahtjev Komisije.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Direktor BEREC-a sudjeluje u raspravama, ali nema pravo glasa.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Odbor regulatora na sastanke može kao promatrača pozvati bilo koju osobu čije bi mišljenje moglo biti od koristi.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Članovima Odbora regulatora i njihovim zamjenicima, podložno njegovu poslovniku, na sastancima mogu pomagati njihovi savjetnici ili drugi stručnjaci.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Ured BEREC-a Odboru regulatora osigurava tajništvo.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_12",
+   "kind": "article",
+   "number": "12",
+   "label": "Članak 12.",
+   "title": "Pravila Odbora regulatora u pogledu glasovanja",
+   "path": [
+    "POGLAVLJE IV. — USTROJSTVO BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Odbor regulatora donosi odluke običnom većinom svojih članova osim ako to je drukčije utvrđeno ovom Uredbom ili nekim drugim pravnim aktom Unije. Za mišljenja iz članka 4. stavka 1. točke (c) podtočaka ii. i v. te smjernice iz članka 4. stavka 1. točke (d) podtočaka od i. do iv., vi., vii. i x. potrebna je dvotrećinska većina članova Odbora regulatora. Neovisno o drugom podstavku ovog stavka Odbor regulatora može običnom većinom i od slučaja do slučaja odlučiti donijeti mišljenja iz članka 4. stavka 1. točke (c) podtočke ii. ove Uredbe običnom većinom, u vezi s nacrtom mjera iz članka 76. stavka 2. Direktive (EU) 2018/1972, što dovodi do pokretanja postupka iz članka 33. stavka 5. te direktive. Odluke Odbora regulatora objavljuju se, a u njima se na zahtjev bilo kojeg člana navode njegove rezerve.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Svaki član ima jedan glas. U odsutnosti člana njegov zamjenik ima pravo iskoristiti pravo glasa tog člana. U odsutnosti člana i njegova zamjenika pravo glasa može se delegirati drugom članu. Predsjednik može delegirati pravo glasa u svakom slučaju. Predsjednik sudjeluje u glasovanju osim ako je svoje pravo glasa delegirao.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Poslovnikom Odbora regulatora utvrđuju se pojedinosti postupka glasovanja, uključujući uvjete pod kojima jedan član smije djelovati u ime drugog člana, kvorum te rokovi za slanje obavijesti o održavanju sastanaka. Osim toga, poslovnikom se predviđa da članovi Odbora regulatora prije svakog sastanka dobiju cjelovit dnevni red sastanka i nacrte prijedloga kako bi mogli predložiti izmjene prije glasovanja. Poslovnikom se, među ostalim, može utvrditi postupak glasovanja o hitnim pitanjima i drugi praktični postupci potrebni za rad Odbora regulatora.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_13",
+   "kind": "article",
+   "number": "13",
+   "label": "Članak 13.",
+   "title": "Radne skupine",
+   "path": [
+    "POGLAVLJE IV. — USTROJSTVO BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Odbor regulatora u opravdanim slučajevima može osnovati radne skupine, a osobito radi provedbe godišnjeg programa rada BEREC-a.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Odbor regulatora imenuje predsjednike radnih skupina koji predstavljaju, ako je to moguće, različita nacionalna regulatorna tijela.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Radne skupine otvorene su za sudjelovanje stručnjaka iz redova svih nacionalnih regulatornih tijela koja sudjeluju u radu BEREC-a te iz Komisije. Radne skupine otvorene su i za sudjelovanje osoblja Ureda BEREC-a, koje doprinosi njihovu regulatornom radu i pruža im administrativnu podršku. Stručnjaci iz Komisije ne sudjeluju u radnim skupinama osnovanima za obavljanje zadaća iz članka 4. stavka 1. točke (c) podtočke ii. U radnim skupinama uspostavljenima radi obavljanja zadaća iz članka 4. stavka 1. točke (c) podtočaka iv., vi. vii. i viii., točke (d) podtočaka i., ii., ix. x. i xi., točke (j) podtočke ii. i točke (l) ove Uredbe te, ako je to relevantno, njezina članka 4. stavka 1. točke (c) podtočke iii. i članka 4. stavka 1. točke (j) podtočke i., uzimaju se u obzir mišljenja stručnjaka iz drugih nadležnih tijela o kojima je dostavljena obavijesti na temelju članka 5. stavka 4. Direktive (EU) 2018/1972. Ako je to potrebno u pojedinačnim slučajevima, Odbor regulatora ili predsjednici radnih skupina mogu pozvati pojedinačne stručnjake priznate kao kompetentne u relevantnom području da sudjeluju na sastancima radnih skupina.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Odbor regulatora donosi poslovnik kojim se utvrđuju praktični mehanizmi rada radnih skupina.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_14",
+   "kind": "article",
+   "number": "14",
+   "label": "Članak 14.",
+   "title": "Organizacijska struktura Ureda BEREC-a",
+   "path": [
+    "POGLAVLJE V. — USTROJSTVO UREDA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "Ured BEREC-a sastoji se od:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(a) upravnog odbora;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "(b) direktora.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_15",
+   "kind": "article",
+   "number": "15",
+   "label": "Članak 15.",
+   "title": "Sastav upravnog odbora",
+   "path": [
+    "POGLAVLJE V. — USTROJSTVO UREDA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Upravni odbor sastoji se od osoba imenovanih članovima Odbora regulatora i jednog visokorangiranog predstavnika Komisije. Svaki član upravnog odbora ima pravo glasa. Svako nacionalno regulatorno tijelo za imenovanje, kako je navedeno u članku 7. stavku 1. drugom podstavku, kao člana upravnog odbora može imenovati osobu koja nije član Odbora regulatora. Ta osoba mora biti predsjednik nacionalnog regulatornog tijela, član njegova kolegijalnog tijela ili zamjenik jednoga od njih.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Svaki član upravnog odbora ima zamjenika, koji predstavlja člana u njegovoj odsutnosti. Zamjenici članova osobe su imenovane za zamjenike članova Odbora regulatora. Predstavnik Komisije također ima zamjenika. Svako nacionalno regulatorno tijelo za imenovanje, kako je navedeno u članku 7. stavku 1. drugom podstavku, kao zamjenika člana upravnog odbora može imenovati osobu koja nije zamjenik člana Odbora regulatora. Ta osoba mora biti predsjednik nacionalnog regulatornog tijela, član njegova kolegijalnog tijela, zamjenik jednoga od njih ili član osoblja nacionalnog regulatornog tijela.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Članovi upravnog odbora i njihovi zamjenici ne smiju tražiti niti primati upute ni od koje vlade, institucije, osobe ili tijela.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Ažurirani popis članova upravnog odbora i njihovih zamjenika, zajedno s njihovim izjavama o interesima objavljuju se.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_16",
+   "kind": "article",
+   "number": "16",
+   "label": "Članak 16.",
+   "title": "Administrativne funkcije upravnog odbora",
+   "path": [
+    "POGLAVLJE V. — USTROJSTVO UREDA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Upravni odbor ima sljedeće administrativne funkcije:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(a) daje opće smjernice za djelovanje Ureda BEREC-a te na godišnjoj osnovi dvotrećinskom većinom glasova svojih članova, uzimajući u obzir mišljenje Komisije i u skladu s člankom 23., donosi jedinstveni programski dokument Ureda BEREC-a;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(b) donosi, dvotrećinskom većinom glasova svojih članova, godišnji proračun Ureda BEREC-a i izvršava ostale funkcije u odnosu na proračun Ureda BEREC-a na temelju poglavlja VII.;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(c) donosi i objavljuje konsolidirano godišnje izvješće o aktivnostima Ureda BEREC-a iz članka 27. te ga ocjenjuje i najkasnije do 1. srpnja svake godine podnosi i izvješće i ocjenu Europskom parlamentu, Vijeću, Komisiji i Revizorskom sudu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(d) donosi financijska pravila koja se primjenjuju na Ured BEREC-a u skladu s člankom 29.;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(e) donosi strategiju za borbu protiv prijevara proporcionalnu rizicima od prijevara i uzimajući u obzir troškove i koristi mjera koje treba provesti;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(f) osigurava odgovarajuće naknadno postupanje na temelju nalaza i preporuka koji proizlaze iz izvješća i evaluacija unutarnje ili vanjske revizije te istraga Europskog ureda za borbu protiv prijevara (OLAF);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(g) donosi pravila o sprečavanju sukoba interesa i upravljanju njima iz članka 42. stavka 3.;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(h) donosi i redovito ažurira komunikacijske planove i planove širenja iz članka 37. stavka 2. na temelju analize potreba;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(i) donosi svoj poslovnik;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(j) donosi provedbena pravila za primjenu Pravilnika o osoblju i Uvjeta zaposlenja ostalih službenika Europske unije u skladu s člankom 110. Pravilnika o osoblju",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(k) ne dovodeći u pitanje odluku iz stavka 2. prvog podstavka, izvršava nad osobljem Ureda BEREC-a ovlasti koje su Pravilnikom o osoblju dodijeljene tijelu za imenovanje i ovlasti koju se Uvjetima zaposlenja ostalih službenika dodijeljene tijelu ovlaštenom za sklapanje ugovora o radu („ovlasti tijela za imenovanje”);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(l) imenuje direktora i, ako je to relevantno, produljuje njegov mandat ili ga razrješava dužnosti u skladu s člankom 32.;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(m) imenuje računovodstvenog službenika, na temelju Pravilnika o osoblju i Uvjeta zaposlenja ostalih službenika, koji je potpuno neovisan u obavljanju svojih dužnosti.;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "(m) donosi sve odluke o osnivanju unutarnjih struktura Ureda BEREC-a te, prema potrebi, njihovoj izmjeni, uzimajući u obzir potrebe Ureda BEREC-a u pogledu aktivnosti te dobro proračunsko upravljanje. U pogledu prvog podstavka točke (m), Ured BEREC-a može imenovati istog računovodstvenog službenika kojeg je imenovalo drugo tijelo ili institucija Unije. Ured BEREC-a i Komisija mogu se posebice dogovoriti da računovodstveni službenik Komisije djeluje i kao računovodstveni službenik Ureda BEREC-a",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Upravni odbor u skladu s člankom 110. Pravilnika o osoblju donosi odluku na temelju članka 2. stavka 1. Pravilnika o osoblju i članka 6. Uvjeta zaposlenja ostalih službenika kojom se relevantne ovlasti tijela za imenovanje delegiraju direktoru i kojom se utvrđuju uvjeti u skladu s kojima se to delegiranje ovlasti može suspendirati. Direktor je ovlašten dalje delegirati te ovlasti. Upravni odbor može zbog iznimnih okolnosti svojom odlukom privremeno suspendirati delegiranje ovlasti tijela za imenovanje direktoru i ovlasti koje je on dalje delegirao te ih izvršavati sam ili ih delegirati jednom od svojih članova ili članu osoblja koji nije direktor.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_17",
+   "kind": "article",
+   "number": "17",
+   "label": "Članak 17.",
+   "title": "Predsjednik i zamjenici predsjednika upravnog odbora",
+   "path": [
+    "POGLAVLJE V. — USTROJSTVO UREDA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Predsjednik i zamjenici predsjednika upravnog odbora osobe su imenovane za predsjednika i zamjenike predsjednika Odbora regulatora. Primjenjuje se isto trajanje mandata. Odstupajući od prvog podstavka, upravni odbor za predsjednika ili zamjenika odnosno zamjenike predsjednika može, dvotrećinskom većinom svojih članova, izabrati druge članove upravnog odbora iz redova svojih članova koji predstavljaju države članice. Trajanje njihova mandata jednako je trajanju mandata predsjednika i zamjenikâ predsjednika Odbora regulatora.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Jedan od zamjenika predsjednika automatski preuzima dužnosti predsjednika ako ih potonji nije u mogućnosti obavljati.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Predsjednik upravnog odbora na poziv izvješćuje Europski parlament i Vijeće o obavljanju zadaća Ureda BEREC-a.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_18",
+   "kind": "article",
+   "number": "18",
+   "label": "Članak 18.",
+   "title": "Sastanci upravnog odbora",
+   "path": [
+    "POGLAVLJE V. — USTROJSTVO UREDA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Predsjednik saziva sastanke upravnog odbora.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktor Ureda BEREC-a sudjeluje bez prava glasa u svim raspravama, uz iznimku onih koje se odnose na članak 32.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Upravni odbor održava najmanje dva redovna sastanka godišnje. Uz navedeno, predsjednik saziva izvanredne sastanke na vlastitu inicijativu, na zahtjev Komisije ili najmanje svojih triju članova.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Upravni odbor na sastanke može kao promatrača pozvati bilo koju osobu čije bi mišljenje moglo biti od koristi.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Članovima upravnog odbora i njihovim zamjenicima na sastancima mogu, u skladu s njegovim poslovnikom, pomagati savjetnici ili stručnjaci.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Ured BEREC-a osigurava tajništvo za upravni odbor.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_19",
+   "kind": "article",
+   "number": "19",
+   "label": "Članak 19.",
+   "title": "Pravila o glasovanju upravnog odbora",
+   "path": [
+    "POGLAVLJE V. — USTROJSTVO UREDA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Osim ako je drukčije predviđeno ovom Uredbom, upravni odbor donosi odluke običnom većinom glasova svojih članova.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Svaki član ima jedan glas. U odsutnosti člana, zamjenik ima pravo iskoristiti pravo glasa. U odsutnosti člana i njegova zamjenika pravo glasa može se delegirati drugom članu.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Predsjednik može delegirati pravo glasa u svakom slučaju. On može sudjelovati u glasovanju osim ako je pravo glasa delegirao.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Poslovnikom upravnog odbora utvrđuju se detaljnija pravila glasovanja, posebice postupak glasovanja o hitnim pitanjima i okolnosti u kojima jedan član može zastupati drugog člana.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_20",
+   "kind": "article",
+   "number": "20",
+   "label": "Članak 20.",
+   "title": "Odgovornosti direktora",
+   "path": [
+    "POGLAVLJE V. — USTROJSTVO UREDA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktor je nadležan za administrativno upravljanje Uredom BEREC-a. Direktor odgovara upravnom odboru.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktor pomaže predsjedniku Odbora regulatora i predsjedniku upravnog odbora u pripremi sastanaka navedenih odbora.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Ne dovodeći u pitanje ovlasti Odbora regulatora, upravnog odbora, i Komisije, direktor je neovisan u obavljanju svojih dužnosti te ne smije tražiti niti primati upute ni od koje vlade, institucije, osobe ili tijela.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Direktor na poziv izvješćuje Europski parlament i Vijeće o obavljanju svojih dužnosti.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Direktor je pravni zastupnik Ureda BEREC-a.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Direktor je odgovoran za provedbu zadaća Ureda BEREC-a te poštovanje smjernica Odbora regulatora i upravnog odbora. Direktor je posebice odgovoran za sljedeće:",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(a) svakodnevno upravljanje Uredom BEREC-a;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(b) provedbu administrativnih odluka koje donesu Odbor regulatora i upravni odbor;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(c) pripremu i podnošenje upravnom odboru jedinstvenog programskog dokumenta iz članka 23.;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(d) pomaganje Odboru regulatora pri pripremi godišnjeg izvješća o aktivnostima BEREC-a iz članka 22.;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(e) pomaganje Odboru regulatora pri pripremi godišnjeg programa rada BEREC-a iz članka 21.;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(f) provedbu jedinstvenog programskog dokumenta i izvješćivanje upravnog odbora o njegovoj provedbi;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(g) pripremu nacrta konsolidiranog godišnjeg izvješća o aktivnostima Ureda BEREC-a iz članka 27. i njegovo dostavljanje upravnom odboru na ocjenu i donošenje;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(h) pripremu plana djelovanja na temelju zaključaka izvješća i evaluacija unutarnje ili vanjske revizije, kao i istraga koje provodi OLAF te za redovito izvješćivanje upravnog odbora o napretku barem jedanput godišnje;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(i) zaštitu financijskih interesa Unije primjenom preventivnih mjera protiv prijevara, korupcije i drugih nezakonitih aktivnosti provedbom učinkovitih provjera i, ako su utvrđene nepravilnosti, povratom pogrešno isplaćenih iznosa te, ako je to primjereno, određivanjem učinkovitih, proporcionalnih i odvraćajućih administrativnih mjera, uključujući financijske sankcije;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(j) pripremu strategije Ureda BEREC-a za borbu protiv prijevara i njezino podnošenje upravnom odboru na odobrenje;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(k) pripremu nacrta financijskih pravila primjenjivih na Ured BEREC-a;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(l) pripremu nacrta izvješća Ureda BEREC-a o procjeni prihoda i rashoda i provedbu njegova proračuna.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "(m) odobravanje, zajedno s Odborom regulatora, sklapanja radnih dogovora s nadležnim tijelima, uredima, agencijama i savjetodavnim skupinama Unije i s nadležnim tijelima trećih zemalja i međunarodnim organizacijama u skladu s člankom 35.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Direktor pod nadzorom upravnog odbora poduzima sve potrebne mjere, posebno u pogledu usvajanja unutarnjih administrativnih smjernica i objavljivanja priopćenja, kako bi se osiguralo da Ured BEREC-a djeluje u skladu s ovom Uredbom.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Direktor, uz prethodnu suglasnost Komisije, upravnog odbora i dotične države članice ili dotičnih država članica, odlučuje je li, radi učinkovitog i djelotvornog obavljanja zadaća Ureda BEREC-a, potrebno jednog člana osoblja ili više njih smjestiti u jednu državu članicu ili više njih. U odluci se navodi opseg aktivnosti koje treba obaviti kako bi se izbjegli nepotrebni troškovi i udvostručavanje administrativnih funkcija Ureda BEREC-a. Prije donošenja takve odluke, u višegodišnjem programskom dokumentu iz članka 23. stavka 4. navodi se njezin učinak u pogledu dodjele osoblja i proračuna.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_21",
+   "kind": "article",
+   "number": "21",
+   "label": "Članak 21.",
+   "title": "Godišnji program rada BEREC-a",
+   "path": [
+    "POGLAVLJE VI. — IZRADA PROGRAMA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Odbor regulatora donosi nacrt godišnjeg programa rada do 31. siječnja godine koja prethodi godini na koju se odnosi program rada. Nakon savjetovanja s Europskim parlamentom, Vijećem i Komisijom o njihovim prioritetima te s drugim zainteresiranim stranama u skladu s člankom 4. stavkom 5., Odbor regulatora donosi konačan godišnji program rada do 31. prosinca te godine.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Odbor regulatora godišnji program rada šalje Europskom parlamentu, Vijeću i Komisiji čim ga donese.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_22",
+   "kind": "article",
+   "number": "22",
+   "label": "Članak 22.",
+   "title": "Godišnje izvješće o aktivnostima BEREC-a",
+   "path": [
+    "POGLAVLJE VI. — IZRADA PROGRAMA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Odbor regulatora donosi godišnje izvješće o aktivnostima BEREC-a.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Odbor regulatora svake godine najkasnije do 15. lipnja šalje godišnje izvješće o aktivnostima Europskom parlamentu, Vijeću, Komisiji i Europskom gospodarskom i socijalnom odboru.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_23",
+   "kind": "article",
+   "number": "23",
+   "label": "Članak 23.",
+   "title": "Izrada godišnjih i višegodišnjih programa",
+   "path": [
+    "POGLAVLJE VII — PRORAČUN I PROGRAM UREDA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktor svake godine sastavlja nacrt programskog dokumenta koji sadržava godišnje i višegodišnje programe („jedinstveni programski dokument”) u skladu s člankom 32. Delegirane uredbe (EU) br. 1271/2013, uzimajući u obzir smjernice koje je utvrdila Komisija. Upravni odbor donosi nacrt jedinstvenog programskog dokumenta do 31. siječnja svake godine i dostavlja ga Komisiji kako bi ona dala svoje mišljenje. Nacrt jedinstvenog programskog dokumenta dostavlja se i Europskom parlamentu i Vijeću. Upravni odbor potom donosi jedinstveni programski dokument uzimajući u obzir mišljenje Komisije. Upravni odbor dostavlja jedinstveni programski dokument i sve njegove naknadne ažurirane verzije Europskom parlamentu, Vijeću i Komisiji. Jedinstveni programski dokument postaje konačan nakon donošenja općeg proračuna Unije te mu se, ako je potrebno, prilagođava.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Godišnji programski dokument obuhvaća detaljne ciljeve i očekivane rezultate, uključujući pokazatelje uspješnosti. Sadržava i opis djelovanja koje se trebaju financirati i naznaku o financijskim i ljudskim resursima dodijeljenima za svako djelovanje, u skladu s načelima izrade proračuna i upravljanja njime po aktivnostima, kako je navedeno u članku 31. Godišnji programski dokument mora biti usklađen s BEREC-ovim nacrtom godišnjeg programa rada i s konačnim godišnjim programom rada, kako je naveden u članku 21. te s višegodišnjim programskim dokumentom Ureda BEREC-a iz stavka 4. ovog članka. U njemu su jasno navedene zadaće koje su dodane, promijenjene ili brisane u odnosu na prethodnu financijsku godinu.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Ako je to potrebno, upravni odbor mijenja godišnji programski dokument nakon donošenja BEREC-ova konačnog godišnjeg programa rada iz članka 21. te ako je nova zadaća dodijeljena BEREC-u ili Uredu BEREC-a. Svaka znatna izmjena godišnjeg programskog dokumenta donosi se istim postupkom koji se koristi za donošenje početnog godišnjeg programskog dokumenta. Upravni odbor ovlast za donošenje manjih izmjena godišnjeg programskog dokumenta može delegirati direktoru.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. U višegodišnjem programskom dokumentu navodi se opći strateški plan, uključujući ciljeve, očekivane rezultate i pokazatelje uspješnosti. On sadržava i strateški plan za resurse, uključujući višegodišnji proračun i osoblje. Strateški plan za resurse ažurira se svake godine. Strateški plan osobito se ažurira, ako je to primjereno, kako bi se uvažio ishod evaluacije iz članka 48.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Jedinstveni programski dokument Ureda BEREC-a uključuje provedbu BEREC-ove strategije za odnose s nadležnim tijelima, uredima, agencijama i savjetodavnim skupinama Unije, nadležnim tijelima trećih zemalja i međunarodnim organizacijama iz članka 35. stavka 3. te djelovanja povezana s tom strategijom i detaljan opis povezanih resursa.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_24",
+   "kind": "article",
+   "number": "24",
+   "label": "Članak 24.",
+   "title": "Utvrđivanje proračuna",
+   "path": [
+    "POGLAVLJE VII — PRORAČUN I PROGRAM UREDA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktor svake godine sastavlja privremeni nacrt procjene prihoda i rashoda Ureda BEREC-a („nacrt procjene”) za sljedeću financijsku godinu, u koji je uključen i plan radnih mjesta, te ga dostavlja upravnom odboru. Podaci u nacrtu procjene moraju biti usklađeni s nacrtom jedinstvenog programskog dokumenta iz članka 23. stavka 1.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktor Komisiji podnosi nacrt procjene do 31. siječnja svake godine.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Komisija podnosi nacrt procjene proračunskom tijelu zajedno s nacrtom općeg proračuna Unije.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Na temelju nacrta procjene Komisija u nacrt općeg proračuna Unije unosi procjene koje smatra potrebnima za plan radnih mjesta i za iznos doprinosa koji treba naplatiti iz općeg proračuna te ga podnosi proračunskom tijelu u skladu s člancima 313. i 314. Ugovora o funkcioniranju Europske unije (UFEU).",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Proračunsko tijelo odobrava sredstva za doprinos Uredu BEREC-a.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Proračunsko tijelo donosi plan radnih mjesta Ureda BEREC-a.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Upravni odbor donosi proračun Ureda BEREC-a. Proračun postaje konačan nakon konačnog donošenja općeg proračuna Unije. Ako je to potrebno, proračun se prilagođava na odgovarajući način.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Na svaki projekt u vezi s nekretninama koji bi mogao imati znatne posljedice za proračun Ureda BEREC-a primjenjuje se Delegirana uredba (EU) br. 1271/2013.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_25",
+   "kind": "article",
+   "number": "25",
+   "label": "Članak 25.",
+   "title": "Struktura proračuna",
+   "path": [
+    "POGLAVLJE VII — PRORAČUN I PROGRAM UREDA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Procjene svih prihoda i rashoda Ureda BEREC-a pripremaju se svake financijske godine, koja odgovara kalendarskoj godini i prikazuju se u proračunu Ureda BEREC-a.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Proračun Ureda BEREC-a mora biti uravnotežen u smislu prihoda i rashoda.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Ne dovodeći u pitanje ostale izvore, u prihode Ureda BEREC-a ubrajaju se: (a) doprinos Unije; (b) svi dobrovoljni financijski doprinosi država članica ili nacionalnih regulatornih tijela; (c) naknade za publikacije i bilo koje druge usluge koje pruža Ured BEREC-a; (d) svi doprinosi trećih zemalja ili regulatornih tijela nadležnih za elektroničke komunikacije trećih zemalja koji sudjeluju u radu Ureda BEREC-a kako je predviđeno člankom 35.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Rashodi Ureda BEREC-a uključuju primitke od rada za osoblje, administrativne i infrastrukturne troškove i rashode poslovanja.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_26",
+   "kind": "article",
+   "number": "26",
+   "label": "Članak 26.",
+   "title": "Izvršenje proračuna",
+   "path": [
+    "POGLAVLJE VII — PRORAČUN I PROGRAM UREDA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktor izvršava proračun Ureda BEREC-a.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktor svake godine dostavlja Europskom parlamentu i Vijeću sve informacije koje su relevantne za nalaze postupaka evaluacije.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_27",
+   "kind": "article",
+   "number": "27",
+   "label": "Članak 27.",
+   "title": "Konsolidirano godišnje izvješće o aktivnostima",
+   "path": [
+    "POGLAVLJE VII — PRORAČUN I PROGRAM UREDA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "Upravni odbor donosi konsolidirana godišnja izvješća o aktivnostima u skladu s člankom 47. Delegirane uredbe (EU) br. 1271/2013, uzimajući u obzir smjernice Komisije.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_28",
+   "kind": "article",
+   "number": "28",
+   "label": "Članak 28.",
+   "title": "Financijsko izvješćivanje i razrješnica",
+   "path": [
+    "POGLAVLJE VII — PRORAČUN I PROGRAM UREDA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Računovodstveni službenik Ureda BEREC-a dostavlja privremenu računovodstvenu dokumentaciju za financijsku godinu računovodstvenom službeniku Komisije i Revizorskom sudu do 1. ožujka sljedeće financijske godine.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Ured BEREC-a dostavlja izvješće o proračunskom i financijskom upravljanju Europskom parlamentu, Vijeću i Revizorskom sudu do 31. ožujka sljedeće financijske godine.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Po primitku primjedbi Revizorskog suda o privremenoj računovodstvenoj dokumentaciji Ureda BEREC-a, računovodstveni službenik Ureda BEREC-a sastavlja završnu računovodstvenu dokumentaciju Ureda BEREC-a na vlastitu odgovornost. Direktor podnosi završnu računovodstvenu dokumentaciju upravnom odboru radi dobivanja njegova mišljenja.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Upravni odbor daje mišljenje o završnoj računovodstvenoj dokumentaciji Ureda BEREC-a.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Direktor dostavlja završnu računovodstvenu dokumentaciju, zajedno s mišljenjem upravnog odbora, Europskom parlamentu, Vijeću, Komisiji i Revizorskom sudu do 1. srpnja nakon svake financijske godine.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Ured BEREC-a objavljuje završnu računovodstvenu dokumentaciju u Službenom listu Europske unije do 15. studenoga sljedeće godine.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Direktor dostavlja Revizorskom sudu odgovor na njegova opažanja do 30. rujna sljedeće financijske godine. Direktor taj odgovor šalje i upravnom odboru.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Direktor Europskom parlamentu, na njegov zahtjev, podnosi sve informacije potrebne za nesmetanu primjenu postupka davanja razrješnice za dotičnu financijsku godinu u skladu s člankom 165. stavkom 3. Uredbe (EU, Euratom) 2018/1046 Europskog parlamenta i Vijeća.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Na temelju preporuke Vijeća koje odlučuje kvalificiranom većinom, Europski parlament prije 15. svibnja godine N + 2 daje razrješnicu direktoru s obzirom na izvršenje proračuna za godinu N.",
+     "para": "9",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_29",
+   "kind": "article",
+   "number": "29",
+   "label": "Članak 29.",
+   "title": "Financijska pravila",
+   "path": [
+    "POGLAVLJE VII — PRORAČUN I PROGRAM UREDA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "Financijska pravila koja se primjenjuju na Ured BEREC-a donosi upravni odbor nakon savjetovanja s Komisijom. Ona ne smiju odstupati od Delegirane uredbe (EU) br. 1271/2013, osim ako se to odstupanje posebno zahtijeva za rad Ureda BEREC-a i ako je Komisija prethodno dala suglasnost.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_30",
+   "kind": "article",
+   "number": "30",
+   "label": "Članak 30.",
+   "title": "Opće odredbe",
+   "path": [
+    "POGLAVLJE VIII. — OSOBLJE UREDA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "Na osoblje Ureda BEREC-a primjenjuju se Pravilnik o osoblju i Uvjeti zaposlenja ostalih službenika te pravila koja su zajednički donijele institucije Unije za primjenu Pravilnika o osoblju i Uvjeta zaposlenja ostalih službenika.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_31",
+   "kind": "article",
+   "number": "31",
+   "label": "Članak 31.",
+   "title": "Broj osoblja Ureda BEREC-a",
+   "path": [
+    "POGLAVLJE VIII. — OSOBLJE UREDA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. U skladu s načelom upravljanja ljudskim resursima na temelju aktivnosti, Ured BEREC-a ima osoblje koje mu je potrebno za obavljanje svojih dužnosti.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Broj članova osoblja i odgovarajuća financijska sredstva predlažu se u skladu s člankom 23. stavcima 2. i 4. i člankom 24. stavkom 1., uzimajući u obzir članak 5. točku (a) te sve druge zadaće povjerene Uredu BEREC-a ovom Uredbom ili drugim pravnim aktima Unije, kao i potrebu za usklađenošću s propisima primjenjivim na sve decentralizirane agencije Unije.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_32",
+   "kind": "article",
+   "number": "32",
+   "label": "Članak 32.",
+   "title": "Imenovanje direktora",
+   "path": [
+    "POGLAVLJE VIII. — OSOBLJE UREDA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktor je zaposlen kao član privremenog osoblja Ureda BEREC-a u skladu s člankom 2. točkom (a) Uvjeta zaposlenja ostalih službenika.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Nakon otvorenog i transparentnog postupka odabira direktora imenuje upravni odbor na temelju zasluga, upravljačkih i administrativnih vještina i vještina upravljanja proračunom te vještina i iskustva relevantnih za elektroničke komunikacijske mreže i usluge. Popis kandidata ne smije predložiti samo predsjednik ili zamjenik predsjednika. Poslovnikom upravnog odbora detaljno se utvrđuju mehanizmi postupka sastavljanja užeg popisa prihvatljivih kandidata i postupka glasovanja.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Predsjednik upravnog odbora zastupa Ured BEREC-a za potrebe sklapanja ugovora s direktorom.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Prije imenovanja, kandidata kojeg je odabrao upravni odbor poziva se da pred nadležnim odborom Europskog parlamenta dâ izjavu i odgovori na pitanja njegovih članova.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Mandat direktora traje pet godina. Prije isteka tog razdoblja predsjednik upravnog odbora provodi ocjenjivanje u kojem uzima u obzir evaluaciju rada direktora te zadaće i izazove Ureda BEREC-a. Ta se ocjena dostavlja Europskom parlamentu i Vijeću.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Uzimajući u obzir ocjenu iz stavka 5., upravni odbor može jedanput produljiti mandat direktora i to za najviše pet godina.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. U slučaju da namjerava produljiti mandat direktora, upravni odbor o tome obavješćuje Europski parlament. U roku od mjesec dana prije svakog takvog produljenja direktor može biti pozvan da dâ izjavu pred nadležnim odborom Europskog parlamenta i da odgovori na sva pitanja njegovih članova.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Direktor kojem je produljen mandat po isteku ukupnog mandata ne smije sudjelovati u drugom postupku odabira za isto radno mjesto.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Ako mu se ne produlji mandat, direktor slijedom odluke upravnog odbora nastavlja obavljati svoju dužnost nakon isteka izvornog mandata do imenovanja njegova nasljednika.",
+     "para": "9",
+     "point": ""
+    },
+    {
+     "text": "10. Direktor može biti razriješen dužnosti isključivo na temelju odluke upravnog odbora donesene na prijedlog bilo kojeg člana.",
+     "para": "10",
+     "point": ""
+    },
+    {
+     "text": "11. Upravni odbor odluke o imenovanju, produljenju mandata ili razrješenju dužnosti direktora donosi dvotrećinskom većinom glasova članova.",
+     "para": "11",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_33",
+   "kind": "article",
+   "number": "33",
+   "label": "Članak 33.",
+   "title": "Upućeni nacionalni stručnjaci i ostalo osoblje",
+   "path": [
+    "POGLAVLJE VIII. — OSOBLJE UREDA BEREC-a"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ured BEREC-a može se koristiti upućenim nacionalnim stručnjacima i ostalim osobljem koje u njemu nije zaposleno. Na to se osoblje ne primjenjuju Pravilnik o osoblju i Uvjeti zaposlenja ostalih službenika.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Upravni odbor donosi odluku kojom utvrđuje pravila o upućivanju nacionalnih stručnjaka u Ured BEREC-a.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_34",
+   "kind": "article",
+   "number": "34",
+   "label": "Članak 34.",
+   "title": "Povlastice i imuniteti",
+   "path": [
+    "POGLAVLJE IX. — OPĆE ODREDBE"
+   ],
+   "blocks": [
+    {
+     "text": "Protokol o povlasticama i imunitetima Europske unije primjenjuje se na Ured BEREC-a i njegovo osoblje.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_35",
+   "kind": "article",
+   "number": "35",
+   "label": "Članak 35.",
+   "title": "Suradnja s tijelima Unije, trećim zemljama i međunarodnim organizacijama",
+   "path": [
+    "POGLAVLJE IX. — OPĆE ODREDBE"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC i Ured BEREC-a mogu surađivati s nadležnim tijelima, uredima, agencijama i savjetodavnim skupinama Unije, nadležnim tijelima trećih zemalja i međunarodnim organizacijama u mjeri u kojoj je to nužno za postizanje ciljeva utvrđenih ovom Uredbom i obavljanje zadaća te bez dovođenja u pitanje nadležnosti država članica i institucija Unije. U tu svrhu BEREC i Ured BEREC-a, uz prethodno odobrenje Komisije, mogu sklapati radne dogovore. Tim se dogovorima ne stvaraju pravne obveze.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Odbor regulatora, radne skupine i upravni odbor otvoreni su za sudjelovanje regulatornih tijela trećih zemalja s primarnom odgovornošću u području elektroničkih komunikacija, ako su te treće zemlje sklopile sporazume s Unijom u tu svrhu. U skladu s relevantnim odredbama tih sporazuma postižu se radni dogovori u kojima se posebno navodi narav, opseg i način na koji će navedena regulatorna tijela dotičnih trećih zemalja sudjelovati bez prava glasa u radu BEREC-a i Ureda BEREC-a, uključujući odredbe o sudjelovanju u inicijativama BEREC-a, financijskim doprinosima i osoblju za Ured BEREC-a. U pogledu pitanja koja se odnose na osoblje ti dogovori uvijek moraju biti u skladu s Pravilnikom o osoblju.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Kao dio godišnjeg programa rada iz članka 21. Odbor regulatora donosi strategiju BEREC-a za odnose s nadležnim tijelima, uredima, agencijama i savjetodavnim skupinama Unije, nadležnim tijelima trećih zemalja i međunarodnim organizacijama u vezi s pitanjima u nadležnosti BEREC-a. Komisija, BEREC i Ured BEREC-a sklapaju odgovarajući radni dogovor kako bi se osiguralo da BEREC i Ured BEREC-a djeluju u skladu sa svojim mandatom i postojećim institucijskim okvirom.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_36",
+   "kind": "article",
+   "number": "36",
+   "label": "Članak 36.",
+   "title": "Pristup dokumentima i zaštita podataka",
+   "path": [
+    "POGLAVLJE IX. — OPĆE ODREDBE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Uredba (EZ) br. 1049/2001 Europskog parlamenta i Vijeća primjenjuje se na dokumente u posjedu BEREC-a i Ureda BEREC-a.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Odbor regulatora i upravni odbor do 21. lipnja 2019. donose detaljna pravila za primjenu Uredbe (EZ) br. 1049/2001.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Obrada osobnih podataka koju obavljaju BEREC i Ured BEREC-a podliježe primjeni Uredbe (EU) 2018/1725.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Odbor regulatora i upravni odbor do 21. lipnja 2019. donose mjere s pomoću kojih BEREC i Ured BEREC-a primjenjuje Uredbu (EU) 2018/1725, uključujući one o imenovanju službenika za zaštitu podataka Ureda BEREC-a. Te se mjere utvrđuju nakon savjetovanja s Europskim nadzornikom za zaštitu podataka.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_37",
+   "kind": "article",
+   "number": "37",
+   "label": "Članak 37.",
+   "title": "Transparentnost i komunikacija",
+   "path": [
+    "POGLAVLJE IX. — OPĆE ODREDBE"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC i Ured BEREC-a obavljaju svoje aktivnosti uz visoku razinu transparentnosti. BEREC i Ured BEREC-a osiguravaju da se javnosti i svim zainteresiranim stranama pružaju primjerene, objektivne, pouzdane i lako dostupne informacije, posebice u vezi s njihovim zadaćama i rezultatima njihova rada.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC, uz potporu Ureda BEREC-a, može na vlastitu inicijativu sudjelovati u komunikacijskim aktivnostima u području svoje nadležnosti u skladu s relevantnim komunikacijskim planovima i planovima širenja koje je donio Odbor regulatora. Dodjelom resursa za takvu potporu komunikacijskim aktivnostima u okviru proračuna Ureda BEREC-a ne smije se ugrožavati učinkovito izvršavanje zadaća BEREC-a kako su navedene u članku 4. i zadaća Ureda BEREC-a kako se navedene u članku 5. Ostale komunikacijske aktivnosti Ureda BEREC-a obavljaju se u skladu s relevantnim komunikacijskim planovima i planovima širenja koje donosi upravni odbor.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_38",
+   "kind": "article",
+   "number": "38",
+   "label": "Članak 38.",
+   "title": "Povjerljivost",
+   "path": [
+    "POGLAVLJE IX. — OPĆE ODREDBE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ne dovodeći u pitanje članak 36. stavak 1. i članak 40. stavak 2. BEREC i Ured BEREC-a ne smiju otkrivati trećim stranama informacije koje obrađuju ili primaju, a u pogledu kojih je podnesen obrazložen zahtjev za povjerljivo postupanje u cijelosti ili djelomično.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Članovi i drugi sudionici sastanaka Odbora regulatora, upravnog odbora, i radnih skupina, direktor, upućeni nacionalni stručnjaci i drugo osoblje koje nije zaposleno u Uredu BEREC-a i nakon prestanka svojih dužnosti moraju poštovati zahtjeve u pogledu povjerljivosti iz članka 339. UFEU-a.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Odbor regulatora i upravni odbor utvrđuju praktične dogovore za provedbu pravila o povjerljivosti iz stavaka 1. i 2.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_39",
+   "kind": "article",
+   "number": "39",
+   "label": "Članak 39.",
+   "title": "Sigurnosna pravila za zaštitu klasificiranih i osjetljivih neklasificiranih podataka",
+   "path": [
+    "POGLAVLJE IX. — OPĆE ODREDBE"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC i Ured BEREC-a donose vlastite sigurnosne propise koji su jednakovrijedni sigurnosnim propisima Komisije za zaštitu klasificiranih podataka Europske unije i osjetljivih neklasificiranih podataka, među ostalim odredbe o razmjeni, obradi i pohrani takvih podataka, kako je utvrđeno u odlukama Komisije (EU, Euratom) 2015/443 i (EU, Euratom) 2015/444. U protivnom BEREC ili Ured BEREC-a mogu donijeti odluku o primjeni propisa Komisije mutatis mutandis.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_40",
+   "kind": "article",
+   "number": "40",
+   "label": "Članak 40.",
+   "title": "Razmjena informacija",
+   "path": [
+    "POGLAVLJE IX. — OPĆE ODREDBE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Na obrazložen zahtjev BEREC-a ili Ureda BEREC-a Komisija i nacionalna regulatorna tijela zastupljena u Odboru regulatora i druga nadležna tijela pravodobno i točno dostavljaju BEREC-u ili Uredu BEREC-a sve informacije potrebne za izvršavanje svojih zadaća, uz uvjet da imaju zakonit pristup relevantnim informacijama te da je zahtjev za dostavu informacija nužan zbog naravi dotične zadaće. BEREC ili Ured BEREC-a mogu ujedno zahtijevati da im se takve informacije dostavljaju redovito i u specificiranim formatima. Za podnošenje takvih zahtjeva upotrebljavaju se, ako je to moguće, zajednički formati za izvješćivanje.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Na temelju načela lojalne suradnje BEREC ili Ured BEREC-a na obrazložen zahtjev Komisije ili nacionalnog regulatornog tijela pravodobno i točno dostavljaju sve informacije koje su potrebne kako bi Komisija, nacionalno regulatorno tijelo ili drugo nadležno tijelo mogli izvršavati svoje zadaće. U slučaju informacija koje BEREC ili Ured BEREC-a smatraju povjerljivima, Komisija, nacionalno regulatorno tijelo ili drugo nadležno tijelo osiguravaju takvu povjerljivost u skladu s pravom Unije i nacionalnim pravom, među ostalim Uredbom (EZ) br. 1049/2001. Povjerljivošću poslovnih podataka ne sprečava se pravodobna razmjena informacija.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Prije podnošenja zahtjeva za dostavu informacija u skladu s ovim člankom te radi izbjegavanja udvostručavanja obveza u smislu izvješćivanja, BEREC ili Ured BEREC-a uzimaju u obzir sve postojeće relevantne javno dostupne informacije.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Ako nacionalna regulatorna tijela nisu pravodobno dostavila informacije, BEREC ili Ured BEREC-a mogu uputiti obrazložen zahtjev ili drugim nacionalnim regulatornim tijelima i drugim nadležnim tijelima dotične države članice ili izravno relevantnim poduzetnicima koji pružaju elektroničke komunikacijske mreže, usluge i povezanu opremu. BEREC ili Ured BEREC-a o zahtjevima u skladu s prvim podstavkom obavješćuju relevantna nacionalna regulatorna tijela koja nisu dostavila informacije. Na zahtjev BEREC-a ili Ureda BEREC-a nacionalna regulatorna tijela pomažu BEREC-u u prikupljanju informacija.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Države članice osiguravaju da nacionalna regulatorna tijela i druga nadležna tijela imaju ovlast zahtijevati od drugih odgovornih nacionalnih tijela ili poduzetnika koji pružaju elektroničke komunikacijske mreže i usluge, povezanu opremu ili povezane usluge da podnesu sve informacije potrebne za obavljanje svojih zadaća iz ovog članka. Druga odgovorna nacionalna tijela ili poduzetnici iz prvog podstavka na zahtjev dostavljaju takve informacije bez odgode te u skladu sa zahtijevanim rokovima i zahtijevanom razinom detalja. Države članice osiguravaju da nacionalna regulatorna tijela i ostala nadležna tijela imaju ovlast izvršavati takve zahtjeve za informacije izricianjem primjerenih, učinkovitih, proporcionalnih i odvraćajućih sankcija.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_41",
+   "kind": "article",
+   "number": "41",
+   "label": "Članak 41.",
+   "title": "Informacijski i komunikacijski sustav",
+   "path": [
+    "POGLAVLJE IX. — OPĆE ODREDBE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ured BEREC-a uspostavlja informacijski i komunikacijski sustav i upravlja njime te taj sustav ima barem sljedeće funkcije: (a) zajedničku platformu za razmjenu informacija zahvaljujući kojoj će BEREC, Komisija i nacionalna regulatorna tijela imati pristup informacijama potrebnima za dosljednu provedbu regulatornog okvira Unije za elektroničke komunikacije; (b) namjensko sučelje za pristup BEREC-a, Ureda BEREC-a, Komisije i nacionalnih regulatornih tijela za zahtjeve za informacije i obavješćivanje o tim zahtjevima kako je navedeno u članku 40.; (c) platformu za rano utvrđivanje potrebe za koordinacijom među nacionalnim regulatornim tijelima.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Upravni odbor donosi tehničke i funkcionalne specifikacije i plan u svrhu uspostave informacijskog i komunikacijskog sustava iz stavka 1. Taj sustav podliježe pravima intelektualnog vlasništva i potrebnoj razini povjerljivosti.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Informacijski i komunikacijski sustav mora biti spreman za uporabu do 21. lipnja 2020.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_42",
+   "kind": "article",
+   "number": "42",
+   "label": "Članak 42.",
+   "title": "Izjave o interesima",
+   "path": [
+    "POGLAVLJE IX. — OPĆE ODREDBE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Članovi Odbora regulatora i upravnog odbora, direktor, upućeni nacionalni stručnjaci i ostalo osoblje koje nije zaposleno u Uredu BEREC-a daju pojedinačnu pisanu izjavu o svojim obvezama te o nepostojanju ili postojanju izravnih ili neizravnih interesa za koje bi se moglo smatrati da dovode u pitanje njihovu neovisnost. Davanje takvih izjava obvezno je pri preuzimanju odgovornosti, one moraju biti točne i potpune te se moraju ažurirati ako postoji rizik od postojanja izravnog ili neizravnog interesa za koji bi se moglo smatrati da dovodi u pitanje neovisnost osobe koja daje izjavu. Izjave koje su dali članovi Odbora regulatora, članovi upravnog odbora i direktor objavljuju se.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Članovi Odbora regulatora, upravnog odbora i radnih skupina te drugi sudionici njihovih sastanaka, direktor, upućeni nacionalni stručnjaci i ostalo osoblje koje nije zaposleno u Uredu BEREC-a najkasnije na početku svakog sastanka daju točne i cjelovite pojedinačne izjave o svakom interesu za koji bi se moglo smatrati da bi moglo dovesti u pitanje njihovu neovisnost u odnosu na točke dnevnog reda te ne sudjeluju u raspravi i glasovanju o tim točkama.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Odbor regulatora i upravni odbor utvrđuju pravila o sprečavanju sukoba interesa i upravljanju njima, a posebno o praktičnim dogovorima za primjenu odredaba iz stavaka 1. i 2.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_43",
+   "kind": "article",
+   "number": "43",
+   "label": "Članak 43.",
+   "title": "Borba protiv prijevara",
+   "path": [
+    "POGLAVLJE IX. — OPĆE ODREDBE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Radi olakšavanja borbe protiv prijevara, korupcije i ostalih nezakonitih aktivnosti na temelju Uredbe (EU, Euratom) br. 883/2013 Europskog parlamenta i Vijeća, Ured BEREC-a do 21. lipnja 2019. pristupa Međuinstitucionalnom sporazumu od 25. svibnja 1999. između Europskog parlamenta, Vijeća Europske unije i Komisije Europskih zajednica u vezi s internim istragama koje provodi Europski ured za borbu protiv prijevara (OLAF) te donosi odgovarajuće odredbe koje se primjenjuju na sve članove osoblja Ureda BEREC-a, pri čemu se koristi predloškom iz Priloga navedenom Sporazumu.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Revizorski sud ovlašten je za provedbu revizija, na temelju dokumenata i inspekcija na terenu, svih korisnika bespovratnih sredstava, ugovaratelja i podugovaratelja koji su od Ureda BEREC-a primili sredstva Unije.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. OLAF može provoditi istrage, uključujući provjere i inspekcije na terenu, u skladu s odredbama i postupcima utvrđenima u Uredbi (EU, Euratom) br. 883/2013 i Uredbi Vijeća (Euratom, EZ) br. 2185/96 radi utvrđivanja toga je li došlo do prijevare, korupcije ili bilo koje druge nezakonite aktivnosti koja utječe na financijske interese Unije u vezi sa sporazumom o dodjeli bespovratnih sredstava ili odlukom o dodjeli bespovratnih sredstava ili ugovorom koje financira Ured BEREC-a.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Ne dovodeći u pitanje stavke 1., 2. i 3., sporazumi o suradnji s trećim zemljama i međunarodnim organizacijama, ugovori, sporazumi o dodjeli bespovratnih sredstava i odluke o dodjeli bespovratnih sredstava sadržavaju odredbe kojima se Revizorskom sudu i OLAF-u daje izričita ovlast za provedbu navedenih revizija i istraga u skladu s njihovim odgovarajućim nadležnostima.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_44",
+   "kind": "article",
+   "number": "44",
+   "label": "Članak 44.",
+   "title": "Odgovornost",
+   "path": [
+    "POGLAVLJE IX. — OPĆE ODREDBE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ugovorna odgovornost Ureda BEREC-a uređena je pravom koje se primjenjuje na dotični ugovor.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Sud Europske unije (Sud) nadležan je za donošenje presuda na temelju bilo koje odredbe o arbitraži sadržane u ugovoru koji je sklopio Ured BEREC-a.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. U slučaju neugovorne odgovornosti, Ured BEREC-a, u skladu s općim načelima zajedničkima pravima država članica, nadoknađuje svu štetu koju u obavljanju svojih dužnosti prouzroče njegove službe ili osoblje.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Sud je nadležan u sporovima za naknadu štete iz stavka 3.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Osobna odgovornost osoblja prema Uredu BEREC-a uređena je odredbama Pravilnika o osoblju ili Uvjeta zaposlenja ostalih službenika, koje se na njih primjenjuju.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_45",
+   "kind": "article",
+   "number": "45",
+   "label": "Članak 45.",
+   "title": "Administrativne istrage",
+   "path": [
+    "POGLAVLJE IX. — OPĆE ODREDBE"
+   ],
+   "blocks": [
+    {
+     "text": "Aktivnosti BEREC-a i Ureda BEREC-a podliježu istragama Europskog ombudsmana u skladu s člankom 228. UFEU-a.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_46",
+   "kind": "article",
+   "number": "46",
+   "label": "Članak 46.",
+   "title": "Pravila o jezicima",
+   "path": [
+    "POGLAVLJE IX. — OPĆE ODREDBE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Na Ured BEREC-a primjenjuje se Uredba br. 1.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Prevoditeljski centar za tijela Europske unije pruža prevoditeljske usluge potrebne za funkcioniranje Ureda BEREC-a.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_47",
+   "kind": "article",
+   "number": "47",
+   "label": "Članak 47.",
+   "title": "Sporazum o sjedištu i uvjeti djelovanja",
+   "path": [
+    "POGLAVLJE X. — ZAVRŠNE ODREDBE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Dogovori o smještaju koji treba osigurati za Ured BEREC-a u državi članici domaćinu i objektima koje ta država članica daje na raspolaganje i posebna pravila koja se u državi članici domaćinu primjenjuju na direktora, članove upravnog odbora, osoblje Ureda BEREC-a i članove njihovih obitelji utvrđuju se Sporazumom o sjedištu između Ureda BEREC-a i države članice domaćina koji se sklapa nakon dobivanja odobrenja upravnog odbora i najkasnije do 21. prosinca 2020.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Država članica domaćin osigurava potrebne uvjete za neometan i učinkovit rad Ureda BEREC-a, uključujući višejezično, europski usmjereno školovanje te primjerenu prometnu povezanost.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_48",
+   "kind": "article",
+   "number": "48",
+   "label": "Članak 48.",
+   "title": "Evaluacija",
+   "path": [
+    "POGLAVLJE X. — ZAVRŠNE ODREDBE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Do 21. prosinca 2023. te svakih pet godina nakon toga Komisija obavlja evaluaciju u skladu sa svojim smjernicama kako bi ocijenila uspješnost rada BEREC-a i Ureda BEREC-a u odnosu na njihove ciljeve, mandat, zadaće i lokaciju. Evaluacija je posebno usmjerena na moguću potrebu za izmjenom strukture ili mandata BEREC-a i Ureda BEREC-a te na financijske učinke takve izmjene.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Ako smatra da daljnje djelovanje BEREC-a ili Ureda BEREC-a više nije opravdano s obzirom na ciljeve, mandat i zadaće koji su im dodijeljeni, Komisija može predložiti da se ova Uredba u skladu s tim izmijeni ili stavi izvan snage.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Komisija izvješćuje Europski parlament, Vijeće i upravni odbor o nalazima svoje evaluacije te ih objavljuje.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_49",
+   "kind": "article",
+   "number": "49",
+   "label": "Članak 49.",
+   "title": "Prijelazne odredbe",
+   "path": [
+    "POGLAVLJE X. — ZAVRŠNE ODREDBE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ured BEREC-a sljednik je Ureda osnovanoga Uredbom (EZ) br. 1211/2009 u smislu cjelokupnog vlasništva, sporazuma, pravnih obveza, ugovora o radu, financijskih obveza i odgovornosti. Ovom Uredbom posebice se ne utječe na prava i obveze osoblja Ureda. Njihovi ugovori mogu se na temelju ove Uredbe obnoviti u skladu s Pravilnikom o osoblju i Uvjetima zaposlenja ostalih službenika te u skladu s proračunskim ograničenjima Ureda BEREC-a.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. S učinkom od 20. prosinca 2018. upravitelj ureda imenovan na temelju Uredbe (EZ) br. 1211/2009 djeluje kao direktor i obavlja funkcije predviđene ovom Uredbom. Preostali uvjeti ugovora upravitelja ureda ostaju nepromijenjeni.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Upravni odbor može odlučiti obnoviti mandat direktora iz stavka 2. ovog članka za dodatni mandat. U tom se slučaju članak 32. stavci 5. i 6. primjenjuju mutatis mutandis. Ukupni mandat direktora ne smije prijeći razdoblje od deset godina.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Do imenovanja novih predstavnika Odbor regulatora i upravni odbor iz članaka 7. i 15. ove Uredbe sastoje se od članova Odbora regulatora i upravnog odbora iz članaka 4. i 7. Uredbe (EZ) br. 1211/2009.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Predsjednici i potpredsjednici Odbora regulatora i upravnog odbora koji su imenovani na temelju Uredbe (EZ) br. 1211/2009 ostaju na dužnosti predsjednika i potpredsjednikâ Odbora regulatora kako je navedeno u članku 10. ove Uredbe, te na dužnosti predsjednika i zamjenika predsjednika upravnog odbora kako je navedeno u članku 17. ove Uredbe do isteka njihova jednogodišnjeg mandata. Odluke o imenovanjima predsjednikâ i potpredsjednikâ Odbora regulatora te upravnog odbora na temelju Uredbe (EZ) br. 1211/2009 donesene prije 20. prosinca 2018., a koje prelaze taj datum, moraju se poštovati.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Postupak davanja razrješnice u pogledu proračuna odobrenoga na temelju članka 11. Uredbe (EZ) br. 1211/2009 provodi se u skladu s pravilima utvrđenima u toj uredbi.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_50",
+   "kind": "article",
+   "number": "50",
+   "label": "Članak 50.",
+   "title": "Izmjene Uredbe (EU) 2015/2120",
+   "path": [
+    "POGLAVLJE X. — ZAVRŠNE ODREDBE"
+   ],
+   "blocks": [
+    {
+     "text": "Uredba (EU) 2015/2120 mijenja se kako slijedi:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "1. Naslov se zamjenjuje sljedećim: „Uredba (EU) 2015/2120 Europskog parlamenta i Vijeća od 25. studenoga 2015. o utvrđivanju mjera u vezi s pristupom otvorenom internetu i maloprodajnim naknadama za regulirane komunikacije unutar EU-a te o izmjeni Direktive 2002/22/EZ i Uredbe (EU) br. 531/2012”.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. U članku 1. dodaje se sljedeći stavak: „3. Ovom Uredbom ujedno se utvrđuju zajednička pravila kako bi se osiguralo da se potrošačima ne naplaćuju prekomjerne cijene za brojevno utemeljene interpersonalne komunikacije iz države članice potrošačeva domaćeg pružatelja usluga prema bilo kojem broju u nepokretnoj ili pokretnoj mreži u drugoj državi članici.”.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. U članku 2. drugom stavku dodaju se sljedeće točke: „3. „regulirana komunikacija unutar EU-a” znači svaka brojevno utemeljena interpersonalna komunikacijska usluga iz države članice potrošačeva domaćeg pružatelja prema bilo kojem broju u nepokretnoj ili pokretnoj mreži iz nacionalnog plana numeriranja u drugoj državi članici te koja se u cijelosti ili djelomično naplaćuje na temelju stvarne potrošnje; 4. „brojevno utemeljena interpersonalna komunikacijska usluga” znači brojevno utemeljena interpersonalna komunikacijska usluga kako je definirana u članku 2. točki 6. Direktive (EU) 2018/1972 Europskog parlamenta i Vijeća. (*1) Direktiva (EU) 2018/1972 Europskog parlamenta i Vijeća od 11. prosinca 2018. o Europskom zakoniku elektroničkih komunikacija (SL L 321, 17.12.2018., str. 36).”.\"",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Umeće se sljedeći članak: „Članak 5.a Maloprodajne naknade za regulirane komunikacije unutar EU-a 1. Od 15. svibnja 2019. svaka maloprodajna cijena (bez PDV-a) koja se potrošačima naplaćuje za regulirane komunikacije unutar EU-a ne smije premašiti 0,19 EUR po minuti za pozive i 0,06 EUR po SMS poruci. 2. Neovisno o obvezama utvrđenim u stavku 1., pružatelji reguliranih komunikacija unutar EU-a mogu dodatno ponuditi, a potrošači izričito odabrati, tarifu za međunarodne komunikacije, uključujući regulirane komunikacije unutar EU-a, različitu od one utvrđene u skladu sa stavkom 1., na temelju koje potrošači imaju koristi od tarife za regulirane komunikacije unutar EU-a koja s razlikuje od one koja bi im bila dodijeljena u nedostatku takvog izbora. Prije nego što potrošači izaberu tu različitu tarifu, pružatelj reguliranih komunikacija unutar EU-a dužan ih je obavijestiti o naravi prednosti koje bi time izgubili. 3. Ako tarifa za regulirane komunikacije unutar EU-a kako je navedena u stavku 2. premašuje gornje granične vrijednosti utvrđene u stavku 1., potrošači koji u roku od dva mjeseca od 15. svibnja 2019. ne potvrde odnosno ne odaberu bilo koju od tarifa kako je navedeno u stavku 2. automatski dobivaju tarifu utvrđenu u stavku 1. 4. Potrošači mogu prijeći s tarifa utvrđenih u stavku 1. ili se vratiti na njih besplatno i u roku od jednog radnog dana od primitka zahtjeva te pružatelji moraju osigurati da takav prelazak ne uključuje uvjete ili ograničenja koji se odnose na elemente pretplata koji nisu komunikacije unutar EU-a. 5. Ako su maksimalne cijene iz stavka 1. izražene u valutama koje nisu euro, početna se ograničenja u tim valutama određuju primjenom prosjeka referentnih deviznih tečajeva koje je Europska središnja banka objavila u Službenom listu Europske unije 15. siječnja, 15. veljače i 15. ožujka 2019. Ograničenja u valutama koje nisu euro revidiraju se svake godine od 2020. Ograničenja u tim valutama, koja se svake godine revidiraju, primjenjuju se od 15. svibnja, pri čemu se upotrebljava prosjek referentnih deviznih tečajeva objavljenih 15. siječnja, 15. veljače i 15. ožujka iste godine. 6. Nacionalna regulatorna tijela prate razvoj tržišta i cijena za regulirane komunikacije unutar EU-a i izvješćuju o tome Komisiju. Ako pružatelj reguliranih komunikacija unutar EU-a utvrdi da bi zbog posebnih i iznimnih okolnosti na temelju kojih se razlikuje od većine drugih pružatelja u Uniji, primjena gornje granične vrijednosti iz stavka 1. imala znatan utjecaj na njegovu sposobnost održavanja postojećih cijena za domaće komunikacije, nacionalno regulatorno tijelo može na zahtjev tog pružatelja odobriti odstupanje od stavka 1. isključivo u onoj mjeri u kojoj je to potrebno te na obnovljivo razdoblje od jedne godine. Ocjena održivosti domaćeg modela naplate temelji se na relevantnim objektivnim čimbenicima koji su svojstveni pružatelju regulirane komunikacije unutar EU-a, kao i na razini domaćih cijena i prihoda. Ako je pružatelj usluga koji je podnio zahtjev dostavio sve potrebne dokaze, nacionalno regulatorno tijelo utvrđuje razinu maksimalne cijene, koja premašuje jednu ili obje gornje granične vrijednosti iz stavka 1., koja bi bila neophodna kako bi se osigurala održivost pružateljeva domaćeg modela naplate. BEREC objavljuje smjernice o parametrima koje nacionalna regulatorna tijela trebaju uzeti u obzir pri svojim ocjenama.”.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. U članku 6. dodaje se sljedeći stavak: „Države članice utvrđuju pravila o sankcijama koje se primjenjuju na kršenja članka 5.a i poduzimaju sve potrebne mjere radi osiguravanja njihove provedbe. Predviđene sankcije moraju biti učinkovite, proporcionalne i odvraćajuće. Države članice do 15. svibnja 2019. obavješćuju Komisiju o pravilima i mjerama utvrđenima radi osiguravanja provedbe članka 5.a te bez odgode obavješćuju Komisiju o svim naknadnim izmjenama koje na njih utječu.”.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. U članku 10. dodaje se sljedeći stavak: „5. Članak 5.a prestaje važiti 14. svibnja 2024.”.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_51",
+   "kind": "article",
+   "number": "51",
+   "label": "Članak 51.",
+   "title": "Stavljanje izvan snage",
+   "path": [
+    "POGLAVLJE X. — ZAVRŠNE ODREDBE"
+   ],
+   "blocks": [
+    {
+     "text": "Uredba (EZ) br. 1211/2009 stavlja se izvan snage.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Upućivanja na uredbu stavljenu izvan snage smatraju se upućivanjima na ovu Uredbu i čitaju se u skladu s korelacijskom tablicom iz Priloga.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_52",
+   "kind": "article",
+   "number": "52",
+   "label": "Članak 52.",
+   "title": "Stupanje na snagu",
+   "path": [
+    "POGLAVLJE X. — ZAVRŠNE ODREDBE"
+   ],
+   "blocks": [
+    {
+     "text": "Ova Uredba stupa na snagu trećeg dana od dana objave u Službenom listu Europske unije.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "anx_1",
+   "kind": "annex",
+   "number": "1",
+   "label": "PRILOG",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Korelacijska tablica",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Uredba (EZ) br. 1211/2009 Ova Uredba Članak 1. stavak 1. Članak 1. Članak 1. stavak 2. Članak 3. stavak 1. Članak 1. stavak 3. Članak 3. stavci 2. i 3. Članak 1. stavak 4. Članak 3. stavak 4. i članak 4. stavak 1. točke (a) i (b) Članak 2. Članak 4. Članak 3. Članak 4. Članak 4. stavak 1. Članak 6. Članak 4 stavak 2. Članak 7. stavci 1., 2. i 4. i članak 8. stavci 1. i 2. Članak 4. stavak 3. Članak 11. stavci 4. i 5. i članak 36. Članak 4. stavak 4. Članak 10. stavci 1., 2. i 3. Članak 4. stavak 5. Članak 10. stavak 4. Članak 4. stavak 6. Članak 11. Članak 4. stavak 7. Članak 13. Članak 4. stavak 8. Članak 7. stavak 4. Članak 4. stavak 9. Članak 12. stavci 1. i 2. Članak 4. stavak 10. Članak 12. stavak 3. Članak 4. stavak 11. Članak 5. Članak 5. Članak 4. Članak 6. stavak 1. Članak 2. stavak 1. Članak 6. stavak 2. Članak 5. Članak 6 stavak 3. Članak 14. stavak 1. Članak 6. stavak 4. Članak 2. stavak 2. Članak 6. stavak 5. Članci 20. i 31. Članak 7. stavak 1. Članak 15. stavak 1. Članak 7. stavak 2. Članak 32. Članak 7. stavak 3. Članak 20. stavak 6. Članak 7. stavak 4. Članak 16. stavak 1. točka (k) Članak 7. stavak 5. Članak 13. Članak 8. Članak 32. Članak 9. Članak 20. Članak 10. stavak 1. Članci 30. i 34. Članak 10. stavak 2. Članak 16. stavak 1. točka (j) Članak 10. stavak 3. Članak 16. stavak 2. Članak 10. stavak 4. Članak 33. Članak 11. Članak 25. Članak 12. Članak 24. Članak 13. Članak 26. Članak 14. — Članak 15. Članak 29. Članak 16. Članak 43. Članak 17. Članak 4. stavak 5. Članak 18. Članak 37. Članak 19. Članak 39., članak 40. Članak 20. Članak 38. Članak 21. Članak 42. Članak 22. Članak 36. Članak 23. Članak 34. Članak 24. Članak 44. Članak 25. Članak 48. Članak 26. Članak 52.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  }
+ ]
+}

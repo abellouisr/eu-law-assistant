@@ -1,0 +1,2822 @@
+{
+ "document": "berec",
+ "version": "original",
+ "lang": "ET",
+ "meta": {
+  "source": "eurlex",
+  "celex": "32018R1971",
+  "kind": "original",
+  "date": "2018-12-11",
+  "built_at": "2026-10-07T10:10:13+00:00",
+  "sources_sha256": {
+   "32018R1971": "315d2442fcfe9180841724c3f365382362f45dd023bb5030b43556a1bcc2b37f"
+  },
+  "counts": {
+   "article": 52,
+   "recital": 53,
+   "annex": 1
+  }
+ },
+ "provisions": [
+  {
+   "id": "rct_1",
+   "kind": "recital",
+   "number": "1",
+   "label": "(1)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Euroopa Parlamendi ja nõukogu direktiivi (EL) 2018/1972 eesmärk on luua liidus elektroonilise side siseturg, kus suurema konkurentsi kaudu tagatakse investeeringute, innovatsiooni ja tarbijakaitse kõrge tase. Kõnealuse direktiiviga kehtestatakse elektroonilise side Euroopa reguleerivate asutuste ametile („BEREC“, Body of European Regulators for Electronic Communications) palju uusi ülesandeid, milleks muu hulgas on mitmesuguseid teemasid käsitlevate suuniste esitamine, tehniliste küsimustega seotud aruandlus, registrite, nimekirjade või andmebaaside pidamine ning arvamuste esitamine turu reguleerimise riigisiseste meetmete kavandeid käsitlevate siseturu menetluste kohta.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_2",
+   "kind": "recital",
+   "number": "2",
+   "label": "(2)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kogu liitu hõlmava rändluse osas täiendab Euroopa Parlamendi ja nõukogu määrus (EL) nr 531/2012 elektroonilise side reguleeriva raamistikuga ette nähtud õigusnorme ja toetab nende rakendamist ning sätestab BERECile teatavad ülesanded.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_3",
+   "kind": "recital",
+   "number": "3",
+   "label": "(3)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Euroopa Parlamendi ja nõukogu määrusega (EL) 2015/2120 sätestati BERECile lisaülesanded seoses avatud internetiühendusega. Lisaks on BERECi 30. augusti 2016. aasta augusti suunised Euroopa võrgu neutraalsuse eeskirjade rakendamise kohta riigi reguleerivate asutuste poolt olnud väärtuslikud selgitused tugeva, vaba ja avatud interneti kindlustamiseks, tagades õigusnormide järjepideva kohaldamise andmeliikluse võrdseks ja mittediskrimineerivaks käsitlemiseks internetiühenduse teenuste pakkumisel ning sellega kaasnevate lõppkasutajate õiguste tagamiseks.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_4",
+   "kind": "recital",
+   "number": "4",
+   "label": "(4)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Võttes arvesse vajadust tagada järjepidevate reguleerimistavade areng ja liidu elektroonilise side reguleeriva õigusraamistiku järjepidev kohaldamine, asutas komisjon oma otsusega 2002/627/EÜ elektrooniliste sidevõrkude ja -teenuste Euroopa reguleerivate organite töörühma (ERG), kes nõustab ja abistab komisjoni elektroonilise side võrkude ja teenuste siseturu konsolideerimisel ja üldisemalt kujutab endast ühenduslüli riigi reguleerivate asutuste ja komisjoni vahel.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_5",
+   "kind": "recital",
+   "number": "5",
+   "label": "(5)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC ja selle büroo loodi Euroopa Parlamendi ja nõukogu määrusega (EÜ) nr 1211/2009. ERG asendati BERECiga, kelle ülesanne oli ühelt poolt aidata kaasa elektroonilise side võrkude ja teenuste siseturu arendamisele ja teiselt poolt selle paremale toimimisele, seades eesmärgiks tagada elektroonilise side reguleeriva raamistiku järjepidev rakendamine. BEREC toimib riigi reguleerivate asutuste vahelise ning riigi reguleerivate asutuste ja komisjoni vahelise koostööfoorumina nende liidu õigusraamistikust tulenevate kõikide ülesannete täitmisel. BEREC asutati selleks, et see esitaks eksperdiarvamusi ning tegutseks sõltumatult ja läbipaistvalt.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_6",
+   "kind": "recital",
+   "number": "6",
+   "label": "(6)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC toimib ka asutusena, kes analüüsis ja arutas elektroonilise side valdkonna küsimusi ning andis nende kohta nõu Euroopa Parlamendile, nõukogule ja komisjonile.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_7",
+   "kind": "recital",
+   "number": "7",
+   "label": "(7)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Büroo asutati juriidilise isiku staatusega ühenduse asutusena, mis täidab määruses (EÜ) nr 1211/2009 sätestatud ülesandeid, eelkõige pakub BERECile professionaalseid ja haldusalaseid tugiteenuseid. BERECile tõhusa toe pakkumiseks oli büroo õiguslikult, halduslikult ja majanduslikult sõltumatu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_8",
+   "kind": "recital",
+   "number": "8",
+   "label": "(8)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Liikmesriikide valitsuste esindajad määrasid otsusega 2010/349/EL büroo asukohaks Riia. Läti Vabariigi valitsuse ja büroo vahel sõlmitud asukohaleping jõustus 5. augustil 2011.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_9",
+   "kind": "recital",
+   "number": "9",
+   "label": "(9)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Komisjon nägi oma 6. mai 2015. aasta teatisega „Euroopa digitaalse ühtse turu strateegia“ ette 2016. aastal ettepanekute esitamise elektroonilise side reguleeriva raamistiku ulatuslikuks ümberkorraldamiseks, keskendudes muu hulgas tulemuslikuma reguleeriva institutsioonilise raamistiku kujundamisele, et muuta osana digitaalse ühtse turu jaoks õigete tingimuste loomisest elektroonilise side suhtes kohaldatavad normid eesmärgipäraseks. Need tingimused hõlmavad väga suure läbilaskevõimega võrkude kasutuselevõttu, raadiospektri traadita võrkude koordineeritumat juhtimist ning võrdsete võimaluste loomist täiustatud digitaalvõrkude ja innovaatiliste teenuste jaoks. Selles teatises rõhutati, et turu ja tehnoloogilise keskkonna muutumisest tulenevalt on vaja tugevdada institutsioonilist raamistikku BERECi rolli suurendamise kaudu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_10",
+   "kind": "recital",
+   "number": "10",
+   "label": "(10)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Oma 19. jaanuari 2016. aasta resolutsioonis „Ettevalmistused digitaalse ühtse turu aktiks“ kutsus Euroopa Parlament komisjoni üles digitaalset ühtset turgu paremini integreerima, tagades tõhusama institutsioonilise raamistiku kehtestamise.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_11",
+   "kind": "recital",
+   "number": "11",
+   "label": "(11)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC ja büroo on andnud positiivse panuse elektroonilise side reguleeriva raamistiku järjepideva rakendamise suunas. Liikmesriigiti esineb siiski endiselt suuri erinevusi reguleerimistavade osas, mis mõjutab piiriülese äritegevusega seotud või mitmes liikmesriigis tegutsevaid ettevõtjaid, sealhulgas siis, kui BERECi suunised on küll olemas, kuid neid võiks arendada edasi. Selleks et aidata veelgi enam kaasa elektroonilise side siseturu arengule kogu liidus, edendada väga suure läbilaskevõimega andmesidele juurdepääsu ja selle kasutuselevõttu, konkurentsi elektroonilise side võrkude, teenuste ja seotud vahendite pakkumisel ning liidu kodanike huve, on käesoleva määruse eesmärk suurendada BERECi rolli. Selline rolli tähtsustumine tugevdaks BERECi oluliselt suurenenud rolli pärast määruste (EL) nr 531/2012 ja (EL) 2015/2120 ja direktiivi (EL) 2018/1972 vastuvõtmist.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_12",
+   "kind": "recital",
+   "number": "12",
+   "label": "(12)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Arvestades turu- ja tehnoloogilisi suundumusi, millega sageli kaasneb ulatuslikum piiriülene mõõde, ning seniseid kogemusi elektroonilise side valdkonna reguleeriva raamistiku järjepideva rakendamise tagamises, on vaja lähtuda BERECi ja büroo senisest tööst. Nende juhtimine ja tegevus peaksid olema ühtlustatud ja kohandatud neile antud ülesannete täitmiseks. Väljakujunenud menetlusi ning BERECile ja büroole antud uusi ülesandeid arvesse võttes ning selleks, et nende tulemuslikkust suurendada, tuleks ette näha täiendav stabiilsus nende juhtimiseks ja lihtsustada otsustamisprotsessi.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_13",
+   "kind": "recital",
+   "number": "13",
+   "label": "(13)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC peaks esitama eksperdiarvamusi ja tekitama usalduse tänu oma sõltumatusele, nõuannete ja teabe kvaliteedile, menetluste ja töömeetodite läbipaistvusele ning ülesannete hoolikale täitmisele. BERECi sõltumatus ei tohiks takistada reguleerivate asutuste nõukogul pidamast arutelusid töörühmade poolt koostatud kavandite alusel.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_14",
+   "kind": "recital",
+   "number": "14",
+   "label": "(14)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Büroo uus ametlik nimi peaks olema „BERECi tugiamet“ („BERECi büroo“). Ameti lühinimena tuleks kasutada nimetust „BERECi büroo“. BERECi büroo peaks olema õiguslikult, halduslikult ja majanduslikult sõltumatu. Selleks on vajalik ja asjakohane, et BERECi büroo oleks liidu asutus, kes on juriidiline isik ja kes teostab talle antud volitusi. Liidu detsentraliseeritud asutusena peaks BERECi büroo tegutsema oma volituste ja kehtiva institutsioonilise raamistiku piires. BERECi bürood ei tohiks käsitada välismaailmale liidu seisukoha edastajana ega liidu nimel õiguslike kohustuste võtjana.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_15",
+   "kind": "recital",
+   "number": "15",
+   "label": "(15)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Lisaks tuleks BERECi büroo juhtimist ja toimimist reguleerivad õigusnormid viia vajaduse korral vastavusse põhimõtetega, mis sätestati Euroopa Parlamendi, nõukogu ja Euroopa Komisjoni 19. juuli 2012. aasta ühisavalduses detsentraliseeritud asutuste kohta.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_16",
+   "kind": "recital",
+   "number": "16",
+   "label": "(16)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC peaks abistama ja nõustama liidu institutsioone ja riigi reguleerivaid asutusi, sealhulgas seoses digitaalsete turgude üldist dünaamikat puudutavate küsimuste asjaomase regulatiivse mõjuga või nende suhetes, aruteludes ja teabevahetuses kolmandate isikutega ning parimate reguleerimistavade levitamisel kolmandatele isikutele. Lisaks oma panusele komisjoni avalikku konsulteerimisse peaks BEREC andma komisjonile taotluse korral nõu seadusandlike ettepanekute koostamisel. Lisaks peaks BEREC olema võimeline andma nõu Euroopa Parlamendile ja nõukogule nende taotluse korral või omal algatusel.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_17",
+   "kind": "recital",
+   "number": "17",
+   "label": "(17)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BERECil kui riigi reguleerivate asutuste ja komisjoni esindajatest koosneval tehnilisel asutusel, kellel on eriteadmised elektroonilise side alal, on parim positsioon selleks, et talle saaks anda ülesandeid, mis hõlmavad panustamist turu reguleerimise riigisiseste meetmete kavandeid käsitlevatesse tõhusatesse siseturu menetlustesse, vajalike suuniste andmist riigi reguleerivatele asutustele ja muudele pädevatele asutustele ühiste kriteeriumide ja järjepideva regulatiivse lähenemisviisi tagamiseks ning teatavate registrite, andmebaaside ja nimekirjade pidamist liidu tasandil. See ei piira nende ülesannete täitmist, mis on antud riigi reguleerivatele asutustele, kes on elektroonilise side turgudele ja nende kohalikele tingimustele kõige lähemal.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_18",
+   "kind": "recital",
+   "number": "18",
+   "label": "(18)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Oma ülesannete täitmiseks peaks BEREC jätkama riigi reguleerivate asutuste eksperdiarvamuste koondamist. BEREC peaks püüdma tagada kõigi riigi reguleerivate asutuste osalemise tema reguleerimisülesannete täitmises ja toimimises. Selleks, et BERECit tugevdada ja esinduslikumaks muuta ning et säilitada eksperdiarvamusi, kogemusi ja teadmisi kõigi riiklike turgude konkreetse olukorra kohta, peaks iga liikmesriik tagama oma riigi reguleerivale asutusele piisavad rahalised vahendid ja inimressursid, mis on nõutavad BERECi töös täiel määral osalemiseks.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_19",
+   "kind": "recital",
+   "number": "19",
+   "label": "(19)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Võttes arvesse elektroonilise side teenuseid pakkuvate sektorite üha suurenevat lähenemist ja nende sektorite arenguga seotud õigusküsimuste horisontaalset mõõdet, peaks BERECil ja BERECi bürool olema lubatud teha koostööd riigi reguleerivate asutuste, muude liidu organite, asutuste ja nõuanderühmadega, eelkõige komisjoni otsusega 2002/622/EÜ loodud raadiospektripoliitika töörühmaga, Euroopa Parlamendi ja nõukogu määrusega (EL) 2018/1972 loodud Euroopa Andmekaitseinspektoriga, Euroopa Parlamendi ja nõukogu määrusega (EL) 2016/679 loodud Euroopa Andmekaitsenõukoguga, Euroopa Parlamendi ja nõukogu direktiiviga 2010/13/EL loodud Euroopa audiovisuaalmeedia teenuseid reguleerivate asutuste töörühmaga, Euroopa Parlamendi ja nõukogu määrusega (EL) nr 526/2013 loodud Euroopa Liidu Võrgu- ja Infoturbeametiga, Euroopa Parlamendi ja nõukogu määrusega (EL) nr 912/2010 loodud Euroopa GNSSi Agentuuriga, Euroopa Parlamendi ja nõukogu määrusega (EÜ) nr 2006/2004 loodud tarbijakaitsealase koostöö võrgustikuga, Euroopa konkurentsiasutuste võrgustikuga ning Euroopa standardiorganisatsioonidega, ilma et see piiraks nimetatud asutuste ja ametite rolli, samuti olemasolevate komiteedega (nt sidekomitee ja raadiospektrikomitee). Ka peaks BERECil ja BERECi bürool olema õigus teha koostööd liikmesriikide asjaomaste pädevate asutustega konkurentsi, tarbijakaitse ja andmekaitse valdkonnas ning kolmandate riikide pädevate asutustega, eelkõige reguleerivate asutustega, kes on pädevad elektroonilise side valdkonnas, ja/või nendest asutustest koosnevate rühmadega ning rahvusvaheliste organisatsioonidega, kui see on vajalik nende ülesannete täitmiseks. BERECil peaks olema õigus pidada avalikke konsultatsioone huvitatud isikutega.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_20",
+   "kind": "recital",
+   "number": "20",
+   "label": "(20)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BERECil peaks olema õigus sõlmida pädevate liidu organite, asutuste ja nõuanderühmadega, kolmandate riikide pädevate asutuste ja rahvusvaheliste organisatsioonidega koostöökokkuleppeid, millega ei tohiks luua õiguslikke kohustusi. Selliste kokkulepete eesmärk võiks olla näiteks koostöösuhete arendamine ja õigusküsimustes arvamuste vahetamine. Komisjon peaks tagama, et vajalikud koostöökokkulepped on kooskõlas liidu poliitika ja prioriteetidega, et BEREC tegutseb oma volituste ja kehtiva institutsioonilise raamistiku piires ning et teda ei käsitata välismaailmale liidu seisukoha esitajana ega liidule rahvusvaheliste kohustuste võtjana.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_21",
+   "kind": "recital",
+   "number": "21",
+   "label": "(21)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC peaks koosnema reguleerivate asutuste nõukogust ja töörühmadest. Reguleerivate asutuste nõukogu esimehe rolli roteerumine peaks tagama BERECi töö järjepidevuse. Lisaks tuleks soodustada mitmesuguseid riigi reguleerivaid asutusi esindavate aseesimeeste rollide roteerumist.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_22",
+   "kind": "recital",
+   "number": "22",
+   "label": "(22)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC peaks olema suuteline tegutsema liidu huvides, sõltumata igasugusest välisest sekkumisest, sealhulgas poliitilisest survest või ärilisest sekkumisest. Seetõttu on oluline tagada, et reguleerivate asutuste nõukogu liikmeteks nimetatud isikutel on võimalikult suur isiklik ja funktsionaalne sõltumatus. Sellisel tasemel isiklik ja funktsionaalne sõltumatus on riigi reguleeriva asutuse juhil või selle kollegiaalse kogu liikmel või nende asendajatel. Täpsemalt peaksid nad oma ülesannete täitmisel olema sõltumatud ja objektiivsed, ei peaks taotlema ega võtma vastu juhiseid ning nad peaksid olema kaitstud meelevaldse ametist vabastamise eest. Riigi reguleeriva asutuse asendusliikme ülesandeid võib täita ka riigi reguleeriva asutuse juht, kollegiaalse kogu liige, nende kummagi asendaja või riigi reguleeriva asutuse muu esindaja, kes tegutseb reguleerivate asutuste nõukogu asendatava liikme nimel ja tema volituste piires.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_23",
+   "kind": "recital",
+   "number": "23",
+   "label": "(23)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kogemused on näidanud, et enamikku BERECi ülesandeid saab paremini täita töörühmade kaudu, mis peaksid alati tagama kõigi riigi reguleerivate asutuste seisukohtade ja panuste võrdse arvessevõtmise. Töörühmade loomise ja nende esimeeste nimetamise eest peaks seetõttu vastutama reguleerivate asutuste nõukogu. Riigi reguleerivad asutused peaksid ametisse nimetamise taotlusele kiiresti reageerima, et tagada töörühmade kiire loomine, seda eelkõige töörühmade puhul, mis on seotud tähtajaliste menetlustega. Töörühmades peaks olema võimalik osaleda komisjoni ekspertidel. BERECi büroo töötajad peaksid töörühmade tegevust toetama ja sellesse panustama.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_24",
+   "kind": "recital",
+   "number": "24",
+   "label": "(24)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Vajaduse korral ja igat üksikjuhtu eraldi käsitledes peaks reguleerivate asutuste nõukogul ja haldusnõukogul olema võimalik kutsuda iga isikut, kelle arvamus võiks olla huvipakkuv, oma koosolekutele ja töörühmade koosolekutele vaatlejana osalema.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_25",
+   "kind": "recital",
+   "number": "25",
+   "label": "(25)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kui see on asjakohane ja sõltuvalt ülesannete jaotusest igas liikmesriigis tuleks asjaomases töörühmas võtta arvesse muude pädevate asutuste arvamusi, näiteks konsulteerides riigi tasandil või kutsudes muude pädevate asutuste eksperdid asjaomastele koosolekutele, kus nende arvamused on vajalikud. Igal juhul tuleks säilitada BERECi sõltumatus.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_26",
+   "kind": "recital",
+   "number": "26",
+   "label": "(26)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Reguleerivate asutuste nõukogu ja haldusnõukogu peaksid toimima paralleelselt ning esimene neist peaks tegema otsuseid peamiselt regulatiivsetes küsimustes ja teine sellistes haldusküsimustes nagu eelarve, personal ja audit. Reeglina ja lisaks komisjoni esindajatele peaksid riigi reguleerivate asutuste esindajad haldusnõukogus olema samaaegselt ka reguleerivate asutuste nõukogu liikmed, kusjuures riigi reguleerivatel asutustel peaks olema võimalik määrata muid esindajaid, kes vastavad samadele nõutele.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_27",
+   "kind": "recital",
+   "number": "27",
+   "label": "(27)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Varem teostas ametisse nimetava asutuse volitusi büroo juhtkomitee aseesimees. Käesolevas määruses sätestatakse, et haldusnõukogu delegeerib asjakohased ametisse nimetava asutuse volitused direktorile, kellel on õigus need volitused edasi delegeerida. See aitaks kaasa BERECi büroo personali tõhusale juhtimisele.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_28",
+   "kind": "recital",
+   "number": "28",
+   "label": "(28)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Reguleerivate asutuste nõukogul ja haldusnõukogul peaks olema vähemalt kaks korralist koosolekut aastas. Arvestades varasemaid kogemusi ja BERECi suuremat rolli võib reguleerivate asutuste nõukogu või haldusnõukogu vajada täiendavaid koosolekuid.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_29",
+   "kind": "recital",
+   "number": "29",
+   "label": "(29)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Direktor peaks jääma BERECi büroo esindajaks õigus- ja haldusküsimustes. Haldusnõukogu peaks direktori ametisse nimetama avatud ja läbipaistva valikumenetluse tulemusena, et tagada kandidaatide range hindamine ja kõrge sõltumatuse tase. Varem oli büroo haldusdirektori ametiaeg kolm aastat. Direktori volituste kehtivus peab olema piisavalt pikk, et tagada BERECi büroo stabiilsus ja pikaajalise strateegia elluviimine.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_30",
+   "kind": "recital",
+   "number": "30",
+   "label": "(30)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BERECi büroo suhtes tuleks kohaldada komisjoni delegeeritud määrust (EL) nr 1271/2013.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_31",
+   "kind": "recital",
+   "number": "31",
+   "label": "(31)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BERECi büroo peaks andma BERECi töö jaoks kogu vajaliku professionaalse ja haldusalase toe, sealhulgas finants-, organisatsioonilise ja logistilise toe ning panustama BERECi regulatiivsesse töösse.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_32",
+   "kind": "recital",
+   "number": "32",
+   "label": "(32)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Et tagada BERECi büroo sõltumatus ja iseseisvus ning toetada BERECi tööd, peaks BERECi bürool olema oma eelarve, mille vahendid peaksid pärinema peamiselt liidu rahalisest toetusest. See eelarve peaks olema piisav ja kajastama BERECi ja BERECi büroo lisaülesandeid ja suurenenud rolli. BERECi büroo rahastamine peaks toimuma vastavalt eelarvepädevate institutsioonide kokkuleppele, nagu on sätestatud Euroopa Parlamendi, nõukogu ja komisjoni 2. detsembri 2013. aasta institutsioonidevahelise kokkuleppe (eelarvedistsipliini, eelarvealase koostöö ja usaldusväärse finantsjuhtimise kohta) punktis 31.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_33",
+   "kind": "recital",
+   "number": "33",
+   "label": "(33)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BERECi bürool peaks olema oma ülesannete täitmiseks piisavalt töötajaid. Kõiki BERECi büroole antud ülesandeid, sealhulgas BERECile professionaalsete ja haldusalaste tugiteenuste pakkumist tema regulatiivsete ülesannete täitmisel kooskõlas finants-, personali- ja muude kohaldatavate normidega, ning BERECi büroolt nõutavate operatiivülesannete suuremat osakaalu tema haldusülesannetega võrreldes tuleks vahendite eraldamise programmis nõuetekohaselt hinnata ja kajastada.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_34",
+   "kind": "recital",
+   "number": "34",
+   "label": "(34)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Selleks, et veelgi laiendada elektroonilise side reguleeriva raamistiku järjepidevat rakendamist, peaksid reguleerivate asutuste nõukogu, töörühmad ja haldusnõukogu olema avatud selliste kolmandate riikide elektroonilise side valdkonnas pädevate reguleerivate asutuste osalusele, kui kolmandad riigid on sõlminud liiduga asjaomase kokkuleppe, nagu EMP EFTA riigid ja kandidaatriigid.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_35",
+   "kind": "recital",
+   "number": "35",
+   "label": "(35)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kooskõlas läbipaistvuse põhimõttega peaksid BEREC ja BERECi büroo vajaduse korral avaldama oma veebilehel teavet oma töö kohta. Eelkõige peaks BEREC avalikustama kõik oma ülesannete täitmisel väljastatud lõplikud dokumendid, nagu arvamused, suunised, aruanded, soovitused, ühised seisukohad ja parimad tavad ning samuti kõik uuringud, mis on tema tegevuse toetuseks tellitud. BEREC ja BERECi büroo peaksid samuti avalikustama oma ülesannete ajakohastatud nimekirjad ning liikmete, asendusliikmete ja muude korraldusorganite koosolekutel osalejate ajakohastatud nimekirjad ning reguleerivate asutuste nõukogu liikmete, haldusnõukogu liikmete ja direktori huvide deklaratsioonid.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_36",
+   "kind": "recital",
+   "number": "36",
+   "label": "(36)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BEREC, keda toetab BERECi büroo, peaks olema võimeline tegelema oma pädevuse piires teavitustegevusega, mis ei tohiks kahjustada BERECi põhiülesannete täitmist. BERECi teavitusstrateegia sisu ja rakendamine peaks olema järjepidev, objektiivne, asjakohane ja kooskõlas komisjoni ning muude institutsioonide strateegiate ja tegevusega, et võtta arvesse liidu laiemat kuvandit. BERECi büroo teavitustegevus peaks toimuma kooskõlas asjaomaste teavitamis- ja levitamiskavadega, mille on vastu võtnud haldusnõukogu.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_37",
+   "kind": "recital",
+   "number": "37",
+   "label": "(37)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Oma ülesannete tulemuslikuks täitmiseks peaks BERECil ja BERECi bürool olema õigus nõuda kogu vajalikku teavet komisjonilt, riigi reguleerivatelt asutustelt ning viimase abinõuna muudelt asutustelt ja ettevõtjatelt. Teabenõuded peaksid olema põhjendatud, taotletava eesmärgiga proportsionaalsed ega tohiks adressaate liigselt koormata. Riigi reguleerivad asutused peaksid tegema BERECi ja BERECi bürooga koostööd ning andma õigeaegselt täpset teavet tagamaks, et BERECil ja BERECi bürool on võimalik oma ülesandeid täita. BEREC ja BERECi büroo peaksid samuti jagama kogu vajalikku teavet komisjoni, riigi reguleerivate asutuste ja muude pädevate asutustega vastavalt lojaalse koostöö põhimõttele. Asjakohastel juhtudel tuleks tagada teabe konfidentsiaalsus. Taotluse piisava põhjendatuse hindamisel peaks BEREC kaaluma, kas taotletud teave on seotud üksnes asjaomastele asutustele ette nähtud ülesannete täitmisega.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_38",
+   "kind": "recital",
+   "number": "38",
+   "label": "(38)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "BERECi büroo peaks looma ühise teabe- ja sidesüsteemi, et vältida teabetaotluste dubleerimist ning lihtsustada kõigi asjaomaste asutuste omavahelist suhtlemist.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_39",
+   "kind": "recital",
+   "number": "39",
+   "label": "(39)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Et tagada konfidentsiaalsuse kõrge tase ja hoida ära huvide konflikte, tuleks reegleid, mida neis küsimustes kohaldatakse BERECi ja BERECi büroo korraldusorganite liikmete suhtes, kohaldada ka nende asendusliikmete suhtes.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_40",
+   "kind": "recital",
+   "number": "40",
+   "label": "(40)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kuna käesoleva määrusega antakse BERECile ja BERECi büroole uusi ülesandeid ja muude liidu õigusaktidega võidakse talle anda lisaülesandeid, peaks komisjon regulaarselt hindama BERECi ja BERECi büroo tegevust ning nende institutsioonilise struktuuri tõhusust muutuvas digitaalses keskkonnas. Kui komisjon leiab selle hindamise tulemusel, et kõnealune institutsiooniline struktuur ei sobi BERECi ja BERECi büroo ülesannete täitmiseks ja eelkõige selleks, et tagada elektroonilise side reguleeriva raamistiku järjepidev rakendamine, peaks komisjon uurima kõiki võimalikke variante selle struktuuri parandamiseks.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_41",
+   "kind": "recital",
+   "number": "41",
+   "label": "(41)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Käesoleva määrusega asutatud BERECi büroo asendab büroo, mis asutati määruse (EÜ) nr 1211/2009 alusel juriidilise isiku staatusega ühenduse asutusena, ning on seoses kõigi omandiõiguste, lepingute, sealhulgas asukohalepingu, õiguslike kohustuste, töölepingute, finants- ja muude kohustustega selle õigusjärglane. BERECi büroo peaks üle võtma selle büroo töötajad, kelle õigusi ja kohustusi see ei tohiks mõjutada. BERECi ja büroo töö järjepidevuse tagamiseks peaksid nende esindajad, st reguleerivate asutuste nõukogu ja juhtkomitee esimees ja aseesimehed ning haldusdirektor jääma ametisse oma ametiaja lõpuni.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_42",
+   "kind": "recital",
+   "number": "42",
+   "label": "(42)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Enamikes liikmesriikides tugineb märkimisväärne hulk tarbijaid endiselt traditsioonilistele rahvusvahelise side teenustele nagu telefonikõned ja lühisõnumid, vaatamata sellele, et järjest enamatele tarbijatele on kättesaadavad numbrivaba isikutevahelise side teenused, mis võimaldavad rahvusvahelisi kõnesid teha traditsiooniliste teenustega võrreldes oluliselt madalama tasu eest või hoopis rahalist makset sooritamata.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_43",
+   "kind": "recital",
+   "number": "43",
+   "label": "(43)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "2013. aastal esitas komisjon mõjuhinnangul põhineva määruse, mis sisaldas sätet ELi-sisesele sidele kohaldatavate regulatiivsete meetmete kohta. BEREC ja komisjon kogusid ELi-sisese side turu kohta täiendavaid andmeid 2017.–2018. aastal komisjoni uuringu ja Eurobaromeetri kaudu. Nende andmete põhjal selgus, et nii püsivõrgu kui ka mobiilside puhul eksisteerivad jätkuvalt olulised hinnaerinevused riigisiseste ning teises liikmesriigis lõppevate kõnede ja lühisõnumite vahel, kus hinnad erinevad oluliselt sõltuvalt riigist, operaatorist ja tariifipaketist, ning püsivõrgu ja mobiilsete kõnesideteenuste vahel. Üldkasutatavate numbripõhiste isikutevahelise side teenuste pakkujad küsivad sageli tarbimispõhist ELi-sisese side hinda, mis on oluliselt kallim kui riigisisesed tariifid ja millele lisanduvad täiendavad kulud. ELi-sisese püsivõrgu või mobiilikõne hind on riigisisese kõne standardhinnast keskmiselt kolm korda kõrgem ja ELi-sisese lühisõnumi standardhind on kaks korda kallim riigisisese lühisõnumi hinnast. Kuid need aritmeetilised keskmised varjavad olulisi erinevusi liikmesriikide vahel. Mõnel juhul on ELi-sisese kõne standardhind kuni kaheksa korda kõrgem kui riigisisese kõne standardhind. Selle tulemusel seisavad kliendid mitmes liikmesriigis silmitsi väga kõrgete ELi-sisese side hindadega. Nimetatud kõrged hinnad mõjutavad eeskätt tarbijaid, eriti neid, kes ei kasuta selliseid sideteenuseid sageli või kelle tarbimismaht on väike ehk siis suuremat osa ELi-sisese side teenuseid kasutavatest tarbijatest. Samal ajal teevad mitmed teenusepakkujad eripakkumisi, mis on eriti atraktiivsed äriklientidele ja tarbijatele, kes tarbivad märkimisväärsel hulgal ELi-sisese side teenuseid. Selliste pakkumiste eest ei küsita tavaliselt tegeliku tarbimise hinda ja need võivad sisaldada teataval hulgal ELi-siseseid kõneminuteid või lühisõnumeid igakuise püsitasu eest (täiendav pakkumine) või sisaldada teataval hulgal ELi-siseseid kõneminuteid või lühisõnumeid igakuises kõneminutite või lühisõnumite mahupaketis, kas ilma lisatasuta või väikese lisatasu eest. Nende pakkumiste tingimused ei ole sageli atraktiivsed tarbijatele, kes kasutavad ELi-sisese side teenuseid üksnes harva, prognoosimatul või võrdlemisi väikesel hulgal. Seega on oht, et nimetatud tarbijad maksavad ELi-sisese side eest ülemäära kõrget hinda ja neid tuleks kaitsta.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_44",
+   "kind": "recital",
+   "number": "44",
+   "label": "(44)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "ELi-sisese side kõrge hind takistab siseturu toimimist, kuna heidutab otsimast ja ostmast kaupu ja teenuseid teises liikmesriigis asuvalt teenusepakkujalt. Seetõttu on vaja seada konkreetsed ja proportsionaalsed piirangud hinnale, mida avalikult kättesaadavate numbripõhiste isikutevahelise side teenuste pakkujad võivad tarbijatelt ELi-sisese side eest küsida, et kõrvaldada nimetatud kõrged hinnad.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_45",
+   "kind": "recital",
+   "number": "45",
+   "label": "(45)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kui avalikult kättesaadavate numbripõhiste isikutevahelise side teenuste pakkujad küsivad oma tarbijatelt ELi-sisese side eest tasu, mis täielikult või osaliselt põhineb sellise teenuse tarbimisel, sealhulgas juhtudel kui tehakse tarbimispõhine mahaarvamine selliste teenuste kuutasudelt või ettemaksudelt, ei tohi selline tasu ületada 0,19 eurot kõneminuti eest ja 0,06 eurot lühisõnumi eest. Need ülempiirid vastavad maksimaalsele hinnale, mida praegu kohaldatakse reguleeritud rändluskõnede ja lühisõnumite suhtes. Liidusisese rändluse puhul kaitsevad tarbijaid kõneteenuse eurotariif ja SMSi eurotariif, mis on järkjärgult asendatud kontseptsiooniga „rändle nagu kodus“. Neid ülempiire peetakse ka sobivaks võrdlusaluseks, et kehtestada reguleeritud ELi-sisese side maksimummäär viieks aastaks alates 15. maist 2019. Praeguse ülempiiri näol on tegu lihtsa, läbipaistva ja järeleproovitud abinõuga, mis kaitseb kõrgete hindade eest ja sobib ülemmääraks kogu reguleeritud ELi-sisese piiriülese side jaehindadele. Nii liidu piires tehtud rändluskõned kui ka ELi-sisesed kõned on sarnase kulustruktuuriga.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_46",
+   "kind": "recital",
+   "number": "46",
+   "label": "(46)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Ülempiirid peaks võimaldama avalikult kättesaadavate numbripõhiste isikutevahelise side teenuste pakkujatel saada tagasi nende kulud, tagades seega proportsionaalse sekkumise nii mobiili- kui ka püsivõrgu kõnede turul. Ülempiire kohaldatakse otseselt üksnes nendele määradele, mis põhinevad tegelikul tarbimisel. Neil peaks olema distsiplineeriv mõju ka sellistele pakkumistele, mille puhul teatav hulk ELi-sisest sidet on hinna sees, ilma et selle eest küsitaks eraldi tasu, kuna tarbijatel on võimalik ELi-sisese side puhul minna üle tariifipõhisele tarbimisele. ELi-sisese side mahtude suhtes, mis ületavad paketis sisalduvat mahtu ja mille eest küsitakse eraldi tasu, tuleks kohaldada ülempiiri. Meede peaks proportsionaalsel viisil tagama, et neid tarbijaid, kelle ELi-sisese side tarbimismaht on väike, kaitstakse kõrgete hindade eest ning samal ajal peaks see avaldama teenusepakkujatele üksnes mõõdukat mõju.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_47",
+   "kind": "recital",
+   "number": "47",
+   "label": "(47)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Avalikult kättesaadavate numbripõhiste isikutevahelise side teenuste pakkujad peaksid olema võimelised pakkuma oma tarbijatele alternatiivseid rahvusvahelise side tariife, mille määrad erinevad reguleeritud ELi-sisese side määradest, ja tarbijatel peaks olema võimalik selgesõnaliselt väljendada oma otsust sellise pakkumise kasuks teadlikult ning pöörduda eelmise valiku juurde tagasi igal ajal ja tasuta, isegi pakkumiste puhul, millega tarbijad liitusid enne sellise sätte jõustumist. Üksnes rahvusvahelise side alternatiivsed pakkumised, näiteks pakkumised, mis hõlmavad kõiki kolmandaid riike või mõnda nendest, millega tarbija on nõustunud, vabastaks teenusepakkujad nende kohustusest mitte ületada reguleeritud ELi-sisese side hinna ülempiiri. Muud eelised, näiteks subsideeritud lõppseade või allahindlused muudele elektroonilise side teenustele, mida teenusepakkujad tarbijatele pakuvad, on tavapärane osa omavahelisest konkurentsist ja ei tohiks mõjutada hinna ülempiiri kohaldatavust reguleeritud ELi-sisese side puhul.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_48",
+   "kind": "recital",
+   "number": "48",
+   "label": "(48)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Reguleeritud ELi-sisesele sidele hinna ülempiiri kehtestamine võib mõnda avalikult kättesaadavate numbripõhiste isikutevahelise side teenuste pakkujat mõjutada märkimisväärselt rohkem kui enamikku teistest teenusepakkujatest liidus. Ennekõike võiks see paika pidada nende teenusepakkujate puhul, kes saavad eriti suure osa oma tulust või tegevuskasumist ELi-sisesest sidest või kelle riigisisene marginaal on sektori võrdlusnäitajatega võrreldes madal. Reguleeritud ELi-sisese side marginaali vähenemise tulemusel ei pruugi teenusepakkuja olla suuteline säilitama riigisisest hinnamudelit. Selline stsenaarium on väga ebatõenäoline, kuna maksimumhinnad on selgelt kõrgemad kui ELi-sisese side pakkumise kulud. Selliste väga erandlike stsenaariumide proportsionaalsel viisil lahendamiseks peaksid riigi reguleerivatel asutustel olema võimalik teha erand sellise teenusepakkuja palvel põhjendatud erandjuhtudel.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_49",
+   "kind": "recital",
+   "number": "49",
+   "label": "(49)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Igasugune erand tuleks teha üksnes juhul, kui teenusepakkuja suudab tõendada, BERECi poolt kehtestatud asjakohase võrdlusnäitajaga võrreldes, et teda mõjutab see olukord rohkem kui teisi liidu teenusepakkujaid, ja kui selline mõju võiks märkimisväärselt nõrgestada kõnealuse teenusepakkuja suutlikkust säilitada riigisisese side hinnamudel. Kui riigi reguleeriv asutus teeb erandi, peaks ta kindlaks määrama maksimaalse hinnataseme, mida teenusepakkuja võiks kohaldada reguleeritud ELi-sisese side puhul ja mis võimaldaks tal säilitada riigisisese side puhul konkurentsivõimelise hinnataseme. Kõik erandid kehtivad maksimaalselt aasta ja erandit on võimalik pikendada, kui teenusepakkuja tõendab, et erandi saamiseks vajalikud tingimused on jätkuvalt täidetud.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_50",
+   "kind": "recital",
+   "number": "50",
+   "label": "(50)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Pidades silmas proportsionaalsuse põhimõtet, peaks reguleeritud ELi-sisese side hindade ülempiiride kohaldatavus olema ajaliselt piiratud ning kaotama kehtivuse viis aastat pärast selle jõustumist. Selline piiratud kestus peaks võimaldama nõuetekohaselt hinnata meetmete mõju ja otsustada, millisel määral on vaja tarbijaid jätkuvalt kaitsta.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_51",
+   "kind": "recital",
+   "number": "51",
+   "label": "(51)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Et tagada kogu liidus selliste tarbijate, keda mõjutavad ELi-sisese side märkimisväärsed hinnaerinevused negatiivselt, järjepidev, õigeaegne ja kõige tõhusam kaitse, peaksid kõnealused sätted olema vahetult kohaldatavad ja määruses sätestatud. Kõige sobivam määrus nimetatud eesmärgil oleks määrus (EL) 2015/2120, mis võeti vastu pärast mõjuhinnangut, mis muu hulgas hõlmas ettepanekut ELi-sisese side kui vajaliku vahendi kohta, mille abil viia lõpuni elektroonilise side siseturu väljakujundamine. Tõenäolist mõju teenusepakkujate ELi-sisese side pakkumisest saadavale tulule on veelgi leevendanud rändluse eurotariifi kohaldamine ülempiirina nii püsivõrgu- kui ka mobiilside puhul, mille eesmärk on pakkuda suuremat kindlust; ja BERECi 2018. aasta analüüsiga on tõendatud, et sekkumisperioodil meetme poolt mõjutatud püsivõrguside mahud on märkimisväärselt vähenenud. Seetõttu tuleks nimetatud sätted kehtestada määruse (EL) 2015/2120 muudatusena, mida tuleks samuti kohandada selle tagamiseks, et liikmesriigid võtavad vastu õigusnormid karistuste kohta, mida kohaldatakse kõnealuse õigusnormi rikkumise korral.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_52",
+   "kind": "recital",
+   "number": "52",
+   "label": "(52)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Kuna käesoleva määruse eesmärke, nimelt tagada elektroonilise side reguleeriva raamistiku järjepidev rakendamine kindlaksmääratud ulatuses, eelkõige seoses piiriüleste aspektidega ning riigisiseste meetmete kavandeid käsitlevate tõhusate siseturu menetluste kaudu, ning tagada, et tarbijatelt ei küsita liiga kõrget hinda numbripõhiste isikutevahelise side teenuste kasutamise eest, mis algavad tarbija teenusepakkuja liikmesriigis ja lõppevad mis tahes püsivõrgu- või mobiiltelefoni numbril teises liikmesriigis, ei suuda liikmesriigid piisavalt saavutada, küll aga saab neid meetme ulatuse ja toime tõttu paremini saavutada liidu tasandil, võib liit võtta meetmeid kooskõlas Euroopa Liidu lepingu artiklis 5 sätestatud subsidiaarsuse põhimõttega. Kõnealuses artiklis sätestatud proportsionaalsuse põhimõtte kohaselt ei lähe käesolev määrus nimetatud eesmärkide saavutamiseks vajalikust kaugemale.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "rct_53",
+   "kind": "recital",
+   "number": "53",
+   "label": "(53)",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Käesolev määrus muudab ja laiendab määruse (EÜ) nr 1211/2009 kohaldamisala. Kuna tehtavad muudatused on laadilt olulised, tuleks see õigusakt selguse huvides kehtetuks tunnistada. Viiteid kehtetuks tunnistatud määrusele tuleks käsitada viidetena käesolevale määrusele,",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_1",
+   "kind": "article",
+   "number": "1",
+   "label": "Artikkel 1",
+   "title": "Reguleerimisese ja kohaldamisala",
+   "path": [
+    "I PEATÜKK — REGULEERIMISESE JA KOHALDAMISALA"
+   ],
+   "blocks": [
+    {
+     "text": "1. Käesoleva määrusega asutatakse elektroonilise side Euroopa reguleerivate asutuste amet (BEREC) ja BERECi tugiamet (BERECi büroo).",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC ja BERECi büroo asendavad määrusega (EÜ) nr 1211/2009 loodud elektroonilise side Euroopa reguleerivate asutuste ühendatud ameti ja büroo ning on nende õigusjärglased.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_2",
+   "kind": "article",
+   "number": "2",
+   "label": "Artikkel 2",
+   "title": "BERECi büroo juriidilise isiku staatus",
+   "path": [
+    "I PEATÜKK — REGULEERIMISESE JA KOHALDAMISALA"
+   ],
+   "blocks": [
+    {
+     "text": "1. BERECi büroo on liidu amet. Ta on juriidiline isik.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BERECi bürool on igas liikmesriigis kõige ulatuslikum õigus- ja teovõime, mis vastavalt liikmesriigi õigusele on omistatud juriidilistele isikutele. Eelkõige võib ta omandada ja võõrandada vallas- ja kinnisvara ning olla kohtus hagejaks või kostjaks.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BERECi bürood esindab tema direktor.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. BERECi büroo on ainuvastutav talle määratud ülesannete ja antud volituste täitmise eest.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. BERECi büroo asukoht on Riias.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_3",
+   "kind": "article",
+   "number": "3",
+   "label": "Artikkel 3",
+   "title": "BERECi eesmärgid",
+   "path": [
+    "II PEATÜKK — BERECi EESMÄRGID JA ÜLESANDED"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC tegutseb määruste (EL) nr 531/2012 ja (EL) 2015/2120 ning direktiivi (EL) 2018/1972 kohaldamisala piires.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC järgib direktiivi (EL) 2018/1972 artiklis 3 sätestatud eesmärke. Eelkõige on BERECi eesmärk tagada elektroonilise side reguleeriva raamistiku järjepidev rakendamine käesoleva artikli lõikes 1 osutatud kohaldamisala piires.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC täidab oma ülesandeid sõltumatult, erapooletult, läbipaistvalt ja õigeaegselt.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. BEREC tugineb riigi reguleerivate asutuste käsutuses olevatele eksperdiarvamustele.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Kooskõlas direktiivi (EL) 2018/1972 artikli 9 lõikega 3 peab iga liikmesriik tagama, et tema riigi reguleerivad asutused saavad täiel määral osaleda BERECi korraldusorganite töös.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Liikmesriikides, kus direktiivi (EL) 2018/1972 kohaselt vastutab rohkem kui üks riigi reguleeriv asutus, tagavad need asutused vajaduse korral üksteisega kooskõlastamise.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_4",
+   "kind": "article",
+   "number": "4",
+   "label": "Artikkel 4",
+   "title": "BERECi reguleerimisülesanded",
+   "path": [
+    "II PEATÜKK — BERECi EESMÄRGID JA ÜLESANDED"
+   ],
+   "blocks": [
+    {
+     "text": "1. BERECil on järgmised reguleerimisülesanded:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) riigi reguleerivate asutuste, Euroopa Parlamendi, nõukogu ja komisjoni abistamine ja nõustamine ning koostöö tegemine riigi reguleerivate asutuste ja komisjoniga nende taotluse korral või omal algatusel enda pädevusvaldkonda kuuluvas mis tahes tehnilises küsimuses seoses elektroonilise sidega;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) taotluse korral komisjoni abistamine ja nõustamine elektroonilise side valdkonnas seadusandlike ettepanekute koostamisel, sealhulgas kõikide käesoleva määruse või direktiivi (EL) 2018/1972 muutmiseks tehtud ettepanekute puhul;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) Määruses (EL) nr 531/2012 ja direktiivis (EL) 2018/1972 osutatud arvamuste esitamine, eelkõige seoses järgmisega: i) piiriüleste vaidlusküsimuste lahendamine vastavalt direktiivi (EL) 2018/1972 artiklile 27; ii) turu reguleerimist käsitlevate siseturu menetlustega seotud riigisiseste meetmete kavandid vastavalt direktiivi (EL) 2018/1972 artiklitele 32, 33 ja 68; iii) ühtlustamist käsitlevate otsuste või soovituste eelnõud vastavalt direktiivi (EL) 2018/1972 artiklitele 38 ja 93; vi) lõppkasutajate vaheline läbivühenduvus vastavalt direktiivi (EL) 2018/1972 artikli 61 lõikele 2; v) üleliidulise mobiilikõnede lõpetamise ühtse maksimummäära ja üleliidulise püsivõrgukõnede lõpetamise ühtse maksimummäära kindlaksmääramine vastavalt direktiivi (EL) 2018/1972 artiklile 75; vi) Direktiivi (EL) 2018/1972 artikli 102 kohane lepingu kokkuvõtlik vorm; vii) üldloa riiklik rakendamine ja toimimine ning selle mõju siseturu toimimisele vastavalt direktiivi (EL) 2018/1972 artikli 122 lõikele 3; viii) vajaduse korral turu- ja tehnoloogia suundumuste jälgimine seoses elektroonilise side eri liiki teenustega ja nende mõjuga direktiivi (EL) 2018/1972 III jao III jaotise kohaldamisele vastavalt selle direktiivi artikli 123 lõikele 1;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) Liidu elektroonilise side reguleeriva raamistiku, eelkõige määrustes (EL) nr 531/2012 ja (EL) 2015/2120 ning direktiivis (EL) 2018/1972 sätestatu rakendamist käsitlevate suuniste esitamine seoses järgmisega: i) Direktiivi (EL) 2018/1972 artikli 12 kohane teavitamisvorm; ii) kohustuste järjepidev täitmine seoses geograafilise ülevaadete ja prognoosidega vastavalt direktiivi (EL) 2018/1972 artiklile 22; iii) asjakohased kriteeriumid, et edendada direktiivi (EL) 2018/1972 artikli 61 lõike 3 järjepidevat kohaldamist; iv) ühise lähenemisviisi kohaldamine võrgu lõpp-punktide tuvastamise suhtes erinevates võrgu topoloogiates vastavalt direktiivi (EL) 2018/1972 artikli 61 lõikele 7; v) ühised lähenemisviisid, mida kohaldatakse lõppkasutajate piiriülese nõudluse rahuldamisel vastavalt direktiivi (EL) 2018/1972 artiklile 66; vi) standardpakkumise miinimumnõuded vastavalt direktiivi (EL) 2018/1972 artiklile 69; vii) direktiivi (EL) 2018/1972 artikli 76 lõikes 1 ja IV lisas sätestatud tingimuste riigi reguleerivate asutuste poolse järjepideva kohaldamise edendamine; viii) kriteeriumid, millele võrk peab vastama, et seda saaks käsitada väga suure läbilaskevõimega võrguna vastavalt direktiivi (EL) 2018/1972 artiklile 82; ix) numeratsiooniressursside haldamissuutlikkuse ja numeratsiooniressursside ammendumise ohu hindamise ühised kriteeriumid vastavalt direktiivi (EL) 2018/1972 artiklile 93; x) asjakohased teenusekvaliteedi parameetrid, kohaldatavad mõõtmismeetodid, avaldatava teabe sisu ja vorm ning kvaliteedi sertifitseerimise mehhanismid vastavalt direktiivi (EL) 2018/1972 artiklile 104; xi) selle hindamine, kas direktiivi (EL) 2018/1972 artikli 110 lõike 2 kohaselt üldsusele antavate hoiatuste süsteemi tõhusus on samaväärne kõnealuse artikli lõike 1 alusel antavate hoiatuste tõhususega; xii) juurdepääs rändlusteenuste hulgiturule vastavalt määruse (EL) nr 531/2012 artikli 3 lõikele 8; xiii) riigi reguleerivate asutuste kohustuste täitmine seoses avatud internetiühendusega vastavalt määruse (EL) 2015/2120 artikli 5 lõikele 3; xiv) parameetrid, millega riigi reguleerivad asutused peavad riigisisese hinnamudeli jätkusuutlikkuse hindamisel arvestama vastavalt määruse (EL) 2015/2120 artikli 5a lõikele 6;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) omal algatusel või mõne riigi reguleeriva asutuse, Euroopa Parlamendi, nõukogu või komisjoni taotlusel muude suuniste esitamine, et tagada elektroonilise side õigusraamistiku järjepidev rakendamine ja riigi reguleerivate asutuste järjepidevad regulatiivsed otsused, eelkõige suuniste esitamine õigusküsimustes, mis mõjutavad paljusid liikmesriike või millel on piiriülene mõõde;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) kui see on asjakohane, osalemine vastastikuse hindamise foorumil valikumenetlusi käsitlevate meetmete kavandite küsimuses vastavalt direktiivi (EL) 2018/1972 artiklile 35;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) osalemine töös, mis aitab lahendada küsimusi, mis puudutavad tema pädevusvaldkondi seoses raadiospektrialase turu reguleerimise ja konkurentsiga vastavalt direktiivi (EL) 2018/1972 artiklile 4;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) potentsiaalsete riikidevaheliste turgude analüüsi läbiviimine vastavalt direktiivi (EL) 2018/1972 artiklile 65 ja lõppkasutajate piiriülese nõudluse analüüsi läbiviimine vastavalt kõnealuse direktiivi artiklile 66;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) teabe kogumise jälgimine ja asjakohasel juhul määruse (EL) nr 531/2012 kohaldamist käsitleva ajakohastatud teabe üldsusele kättesaadavaks tegemine vastavalt selle määruse artiklitele 16 ja 19;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) aruandlus ameti pädevusvaldkonda kuuluvate tehniliste küsimuste kohta, eelkõige seoses järgmisega: i) punktides c, d ja e osutatud arvamuste ja suuniste praktiline kohaldamine; ii) liikmesriikide parimad tavad piisava internetiühenduse lairibateenusele kättesaadavuse kindlaksmääramise toetamisel vastavalt direktiivi (EL) 2018/1972 artiklile 84; iii) hinnakujunduse ja tarbimisharjumuste areng nii riigisiseste kui ka rändlusteenuste puhul, rändlusteenuse tegelike hulgihindade areng tasakaalustamata liikluse puhul, seosed rändlusteenuste jaehindade, hulgihindade ning hulgimüügikulude vahel ning tariifide läbipaistvus ja võrreldavus vastavalt määruse (EL) nr 531/2012 artiklile 19; iv) määruse (EL) 2015/2120 artikli 5 kohaselt riigi reguleerivate asutuste esitatavate aastaaruannete tulemused, mis avaldatakse iga-aastases koondaruandes; v) kord aastas elektroonilise side sektori turuarengud;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) riigi reguleerivatele asutustele soovituste ja ühiste seisukohtade andmine ja parimate reguleerimistavade levitamine, et ergutada elektroonilise side reguleeriva raamistiku järjepidevat ja paremat rakendamist;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) järgmiste andmebaaside loomine ja tööshoidmine: i) pädevatele asutustele üldloa alusel tegutsevate ettevõtjate poolt edastatud teavituste andmebaas vastavalt direktiivi (EL) 2018/1972 artiklile 12; ii) liidus territooriumivälise kasutusõigusega numeratsiooniressursside andmebaas vastavalt direktiivi (EL) 2018/1972 artikli 93 lõike 4 neljandale lõigule; iii) asjakohasel juhul liikmesriikide hädaabiteenistuste E.164 numbrite andmebaas vastavalt direktiivi (EL) 2018/1972 artikli 109 lõike 8 kolmandale lõigule;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) regulatiivsete uuenduste vajaduse hindamine ning riigi reguleerivate asutuste tegevuse kooskõlastamine, et võimaldada uue innovaatilise elektroonilise side väljatöötamist;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) riigi reguleerivate asutuste andmekogumise ajakohastamine, koordineerimine ja standardimine. Need andmed tuleks teha BERECi veebisaidil ja Euroopa andmeportaalis avatud, taaskasutataval ja masinloetaval kujul üldsusele kättesaadavaks, ilma et see piiraks intellektuaalomandi õigusi, isikuandmete kaitset käsitlevaid õigusnorme ja nõutavat konfidentsiaalsustaset;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "o) muude ametile liidu õigusaktidega, eelkõige määrustega (EL) nr 531/2012 ja (EL) 2015/2120 ning direktiiviga (EL) 2018/1972 antud ülesannete täitmine.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC avalikustab oma reguleerimisülesanded ja ajakohastab uute ülesannete saamisel seda teavet",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BEREC avalikustab lõikes 5 osutatud avaliku konsulteerimise eesmärgil kõik lõplikud arvamused, suunised, aruanded, soovitused, ühised seisukohad, parimad tavad ning kõik tellitud uuringud, nagu ka asjakohased dokumendikavandid.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Ilma et see piiraks asjaomase liidu õiguse järgimist, võtavad riigi reguleerivad asutused ja komisjon täiel määral arvesse kõiki suuniseid, arvamusi, soovitusi, ühiseid seisukohti ja parimaid tavasid, mille BEREC on vastu võtnud, et tagada elektroonilise side reguleeriva raamistiku järjepidev rakendamine artikli 3 lõikes 1 osutatud kohaldamisala piires. Kui riigi reguleeriv asutus kaldub kõrvale lõike 1 punktis e osutatud suunistest, esitab ta kõrvalekaldumise põhjused.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. BEREC konsulteerib vajaduse korral huvitatud isikutega ja annab neile võimaluse esitada märkusi mõistliku ajavahemiku jooksul, mille pikkus oleneb küsimuse keerukusest. Ajavahemik ei tohi olla lühem kui 30 päeva, välja arvatud erandolukorras. Ilma et see piiraks artikli 38 kohaldamist, teeb BEREC selliste avalike konsultatsioonide tulemused üldsusele kättesaadavaks. Sellised konsultatsioonid toimuvad otsustusprotsessis võimalikult varakult.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. BEREC võib vajaduse korral konsulteerida ja teha koostööd asjaomaste riiklike asutustega, kes on pädevad konkurentsi, tarbijakaitse ja andmekaitse valdkonnas.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. BEREC võib vajaduse korral teha koostööd pädevate liidu organite, asutuste ja nõuanderühmadega ning samuti kolmandate riikide pädevate asutuste ja rahvusvaheliste organisatsioonidega vastavalt artikli 35 lõikele 1.",
+     "para": "7",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_5",
+   "kind": "article",
+   "number": "5",
+   "label": "Artikkel 5",
+   "title": "BERECi büroo ülesanded",
+   "path": [
+    "III PEATÜKK — BERECi BÜROO ÜLESANDED"
+   ],
+   "blocks": [
+    {
+     "text": "BERECi bürool on järgmised ülesanded:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) pakkuda BERECile professionaalseid ja haldusalaseid tugiteenuseid, eeskätt tema reguleerimisülesannete täitmisel vastavalt artiklile 4;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) koguda riigi reguleerivatelt asutustelt teavet ning vahetada ja edasi anda teavet seoses artikli 4 alusel BERECile antud reguleerimisülesannetega;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) punktis b osutatud teabe põhjal koostada BERECile esitamiseks regulaarseid esialgseid aruandeid Euroopa elektroonilise side turu arengu konkreetsete aspektide kohta, nagu rändlusteenuste ja võrdleva hindamise aruanded;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) levitada riigi reguleerivates asutustes head reguleerimistava vastavalt artikli 4 lõike 1 punktile k;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) abistada BERECit registrite ja andmebaaside loomisel ja tööshoidmisel vastavalt artikli 4 lõike 1 punktile l;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) abistada BERECit teabe- ja sidesüsteemi loomisel ja haldamisel vastavalt artiklile 41;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) abistada BERECit avalike konsultatsioonide läbiviimisel vastavalt artikli 4 lõikele 5;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) abistada töö ettevalmistamisel ning pakkuda muud haldusalast ja sisulist tuge, et tagada reguleerivate asutuste nõukogu tõrgeteta toimimine;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) abistada reguleerivate asutuste nõukogu taotlusel töörühmade loomisel, panustada regulatiivsesse töösse ning pakkuda nende rühmade sujuva toimimise tagamiseks haldusalast tuge;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) täita muid talle käesoleva määruse või muude liidu õigusaktidega antud ülesandeid.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_6",
+   "kind": "article",
+   "number": "6",
+   "label": "Artikkel 6",
+   "title": "BERECi struktuur",
+   "path": [
+    "IV PEATÜKK — BERECi STRUKTUUR"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC koosneb:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) reguleerivate asutuste nõukogust;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) töörühmadest.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_7",
+   "kind": "article",
+   "number": "7",
+   "label": "Artikkel 7",
+   "title": "Reguleerivate asutuste nõukogu koosseis",
+   "path": [
+    "IV PEATÜKK — BERECi STRUKTUUR"
+   ],
+   "blocks": [
+    {
+     "text": "1. Reguleerivate asutuste nõukokku kuulub üks liige igast liikmesriigist. Igal liikmel on hääleõigus. Liikme nimetab ametisse riigi reguleeriv asutus, kellel on esmane vastutus jälgida elektroonilise side võrkude ja teenuste turgude igapäevast toimimist direktiivi (EL) 2018/1972 kohaselt. Liige nimetatakse riigi reguleeriva asutuse juhi, selle kollegiaalse kogu liikme või nende asendajate hulgast.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Igal reguleerivate asutuste nõukogu liikmel on asendusliige, kelle nimetab ametisse riigi reguleeriv asutus. Asendusliige esindab liiget viimase puudumise korral. Asendusliige nimetatakse ametisse riigi reguleeriva asutuse juhi, riigi reguleeriva asutuse kollegiaalse kogu liikme, nende asendajate või riigi reguleeriva asutuse töötajate seast.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Reguleerivate asutuste nõukogu liikmed ja asendusliikmed nimetatakse ametisse vastavalt nende teadmistele elektroonilise side valdkonnas, võttes arvesse asjakohaseid juhtimis-, haldus- ja eelarvealaseid oskusi. Tagamaks reguleerivate asutuste nõukogu töö järjepidevust, teevad kõik ametisse nimetavad riigi reguleerivad asutused jõupingutusi, et piirata oma liikmete ja kui võimalik, siis ka asendusliikmete vahetumist, ning püüavad saavutada nõukogus meeste ja naiste tasakaalustatud esindatuse.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Komisjon osaleb hääleõigust omamata kõigis reguleerivate asutuste nõukogu aruteludes ning on esindatud asjakohaselt kõrgel tasandil.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Reguleerivate asutuste nõukogu liikmete, ja asendusliikmete ajakohastatud nimekiri koos huvide deklaratsioonidega tehakse avalikuks.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_8",
+   "kind": "article",
+   "number": "8",
+   "label": "Artikkel 8",
+   "title": "Reguleerivate asutuste nõukogu sõltumatus",
+   "path": [
+    "IV PEATÜKK — BERECi STRUKTUUR"
+   ],
+   "blocks": [
+    {
+     "text": "1. Reguleerivate asutuste nõukogu tegutseb talle antud ülesandeid täites ja ilma et see piiraks selle liikmete tegevust oma asjaomase riigi reguleeriva asutuse nimel, sõltumatult ja objektiivselt liidu huvides, sõltumata mingitest konkreetsetest riiklikest või isiklikest huvidest.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Ilma et see piiraks artikli 3 lõikes 6 osutatud koordineerimist, ei küsi reguleerivate asutuste nõukogu liikmed ja nende asendusliikmed juhiseid üheltki valitsuselt, institutsioonilt, isikult ega asutuselt ega võta selliseid juhiseid ka vastu.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_9",
+   "kind": "article",
+   "number": "9",
+   "label": "Artikkel 9",
+   "title": "Reguleerivate asutuste nõukogu ülesanded",
+   "path": [
+    "IV PEATÜKK — BERECi STRUKTUUR"
+   ],
+   "blocks": [
+    {
+     "text": "Reguleerivate asutuste nõukogu täidab järgmisi ülesandeid:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) artiklis 4 sätestatud BERECi reguleerimisülesandeid, nimelt võtab vastu selles artiklis osutatud arvamusi, suuniseid, aruandeid, soovitusi ja ühiseid seisukohti ning levitab häid reguleerimistavasid, tuginedes seejuures reguleerivate asutuste nõukogu töörühmade ettevalmistavale tööle;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) võtab vastu BERECi töökorraldusega seotud haldusotsuseid;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "c) võtab vastu artiklis 21 osutatud BERECi iga-aastase tööprogrammi;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "d) võtab vastu artiklis 22 osutatud BERECi iga-aastase aruande omategevuse kohta;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "e) võtab vastu artiklis 42 osutatud eeskirjad huvide konfliktide ärahoidmiseks ja lahendamiseks ning töörühmade liikmete kohta;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "f) võtab vastavalt artiklile 36 vastu üksikasjalikud eeskirjad BERECi valduses olevatele dokumentidele juurdepääsu õiguse kohta;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "g) võtab vajaduste analüüsi põhjal vastu artikli 37 lõikes 2 osutatud teavitamis- ja levitamiskavad ning ajakohastab neid korrapäraselt;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "h) võtab oma liikmete kahekolmandikulise häälteenamusega vastu oma töökorra ja avalikustab selle;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "i) annab koos direktoriga loa kokku leppida koostöökorrad pädevate liidu organite, asutuste ja nõuanderühmadega, kolmandate riikide pädevate asutuste ja rahvusvaheliste organisatsioonidega vastavalt artiklile 35;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "j) loob töörühmi ja nimetab ametisse nende esimehed;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "k) annab suuniseid BERECi büroo direktorile seoses BERECi büroo ülesannete täitmisega.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_10",
+   "kind": "article",
+   "number": "10",
+   "label": "Artikkel 10",
+   "title": "Reguleerivate asutuste nõukogu esimees ja aseesimehed",
+   "path": [
+    "IV PEATÜKK — BERECi STRUKTUUR"
+   ],
+   "blocks": [
+    {
+     "text": "1. Reguleerivate asutuste nõukogu nimetab oma liikmete kahekolmandikulise häälteenamusega oma liikmete hulgast ametisse esimehe ja vähemalt kaks aseesimeest.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Üks aseesimeestest asendab automaatselt esimeest, kui viimane ei saa oma ülesandeid täita.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Esimehe ametiaeg kestab üks aasta ja seda võib pikendada ühe korra. BERECi töö järjepidevuse tagamiseks tegutseb tulevane esimees asjakohasel juhul enne oma ametiaja algust ühe aasta aseesimehena. Kodukorras nähakse ette lühem periood, kui tulevasel esimehel ei ole võimalik üks aasta enne oma ametiaja algust aseesimehe ülesandeid täita.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Ilma et see piiraks reguleerivate asutuste nõukogu rolli seoses esimehe ülesannetega, ei küsi esimees juhiseid üheltki valitsuselt, institutsioonilt, isikult või organilt ega võta selliseid juhiseid ka vastu.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Esimees annab Euroopa Parlamendile ja nõukogule vastava taotluse korral aru BERECi ülesannete täitmise kohta.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_11",
+   "kind": "article",
+   "number": "11",
+   "label": "Artikkel 11",
+   "title": "Reguleerivate asutuste nõukogu koosolekud",
+   "path": [
+    "IV PEATÜKK — BERECi STRUKTUUR"
+   ],
+   "blocks": [
+    {
+     "text": "1. Esimees kutsub kokku reguleerivate asutuste nõukogu koosolekud ja paneb paika nende päevakorra, mis avalikustatakse.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Reguleerivate asutuste nõukogul on vähemalt kaks korralist koosolekut aastas. Erakorralised koosolekud kutsutakse kokku kas esimehe algatusel või vähemalt kolme liikme või komisjoni taotlusel.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BERECi büroo direktor osaleb kõikides aruteludes hääleõiguseta.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Reguleerivate asutuste nõukogu võib kutsuda oma koosolekutele vaatlejatena osalema isikuid, kelle seisukoht võib olla talle huvipakkuv.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Reguleerivate asutuste nõukogu liikmed ja asendusliikmed võivad vastavalt töökorrale kasutada oma nõustajate või muude ekspertide abi.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Sekretariaaditeenust pakub reguleerivate asutuste nõukogule BERECi büroo.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_12",
+   "kind": "article",
+   "number": "12",
+   "label": "Artikkel 12",
+   "title": "Reguleerivate asutuste nõukogu hääletuskord",
+   "path": [
+    "IV PEATÜKK — BERECi STRUKTUUR"
+   ],
+   "blocks": [
+    {
+     "text": "1. Reguleerivate asutuste nõukogu võtab otsused vastu oma liikmete lihthäälteenamusega, kui käesolevas määruses või muus liidu õigusaktis ei ole teisiti sätestatud. Reguleerivate asutuste nõukogu liikmete kahekolmandikuline häälteenamus on nõutav arvamuste puhul, millele on osutatud artikli 4 lõike 1 punkti c alapunktides ii ja v, ning suuniste puhul, millele on osutatud artikli 4 lõike 1 punkti d alapunktides i – iv, vi, vii ja x. Olenemata käesoleva lõike teisest lõigust võib reguleerivate asutuste nõukogu otsustada lihthäälteenamusega ja igal üksikjuhul eraldi, et võtab lihthäälteenamusega vastu käesoleva määruse artikli 4 lõike 1 punkti c alapunktis ii osutatud arvamused, mis on seotud direktiivi (EL) 2018/1972 artikli 76 lõike 2 kohaldamisalasse kuuluvate kavandatavate meetmetega, mille tulemusel algatatakse menetlus kõnealuse direktiivi artikli 33 lõike 5 põhjal. Reguleerivate asutuste nõukogu otsused avalikustatakse ja liikme taotlusel tuuakse neis ära tema reservatsioonid.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Igal liikmel on üks hääl. Liikme puudumise korral võib tema eest hääletada asendusliige. Liikme või asendusliikme puudumise korral võib hääleõiguse delegeerida teisele liikmele. Esimees võib oma hääleõiguse igal ajal delegeerida. Esimees osaleb hääletamisel, välja arvatud siis, kui ta on oma hääleõiguse delegeerinud.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Reguleerivate asutuste nõukogu töökorras sätestatakse üksikasjalik hääletuskord, sealhulgas tingimused, mille alusel üks liige võib teist esindada, kvoorum ja koosolekutest teatamise tähtajad. Lisaks tagatakse töökorraga, et reguleerivate asutuste nõukogu liikmetele esitatakse enne iga koosolekut täielikud päevakorrad ja kavandatavad ettepanekud, et neil oleks võimalik enne hääletust muudatusettepanekuid esitada. Töökorras võib muu hulgas sätestada kiireloomulises asjades hääletamise korra ja muud reguleerivate asutuste nõukogu töö praktilised üksikasjad.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_13",
+   "kind": "article",
+   "number": "13",
+   "label": "Artikkel 13",
+   "title": "Töörühmad",
+   "path": [
+    "IV PEATÜKK — BERECi STRUKTUUR"
+   ],
+   "blocks": [
+    {
+     "text": "1. Reguleerivate asutuste nõukogu võib moodustada töörühmad, kui see on põhjendatud ja eelkõige, kui see on vajalik BERECi iga-aastase tööprogrammi rakendamiseks.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Reguleerivate asutuste nõukogu nimetab ametisse töörühmade esimehed, kes esindavad võimaluse korral erinevaid riigi reguleerivaid asutusi.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Töörühmades võivad osaleda eksperdid kõikidest BERECi töös osalevatest riigi reguleerivatest asutustest ja komisjonist. Töörühmades võivad osaleda BERECi büroo töötajad, kes panustavad töörühmade regulatiivsesse töösse ning pakuvad töörühmadele haldusalast tuge. Artikli 4 lõike 1 punkti c alapunktis ii osutatud ülesannete täitmiseks moodustatud töörühmade töös komisjoni eksperdid ei osale. Käesoleva määruse artikli 4 lõike 1 punkti c alapunktides iv, vi, vii ja viii, punkti d alapunktides i, ii, ix, x ja xi, punkti j alapunktis ii, punktis l ja asjakohastel juhtudel artikli 4 lõike 1 punkti c alapunktis iii ja punkti j alapunktis i osutatud ülesannete täitmiseks moodustatud töörühmades võetakse arvesse direktiivi (EL) 2018/1972 artikli 5 lõike 4 kohaselt teavitatud muude pädevate asutuste ekspertide arvamusi. Reguleerivate asutuste nõukogu või töörühmade esimehed võivad vajaduse korral igal üksikjuhul eraldi otsustades kutsuda töörühmade koosolekutele osalema üksikuid asjaomase valdkonna tunnustatud eksperte.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Reguleerivate asutuste nõukogu võtab vastu kodukorra, millega nähakse ette töörühmade töö praktiline kord.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_14",
+   "kind": "article",
+   "number": "14",
+   "label": "Artikkel 14",
+   "title": "BERECi büroo organisatsiooniline struktuur",
+   "path": [
+    "V PEATÜKK — BERECi BÜROO STRUKTUUR"
+   ],
+   "blocks": [
+    {
+     "text": "BERECi büroo koosneb:",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "a) haldusnõukogust;",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "b) direktorist.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_15",
+   "kind": "article",
+   "number": "15",
+   "label": "Artikkel 15",
+   "title": "Haldusnõukogu koosseis",
+   "path": [
+    "V PEATÜKK — BERECi BÜROO STRUKTUUR"
+   ],
+   "blocks": [
+    {
+     "text": "1. Haldusnõukogusse kuuluvad isikud, kes on nimetatud reguleerivate asutuste nõukogu liikmeteks, ja üks komisjoni kõrgetasemeline esindaja. Igal haldusnõukogu liikmel on hääleõigus. Artikli 7 lõike 1 teises lõigus osutatud ametisse nimetav riigi reguleeriv asutus võib nimetada haldusnõukogu liikmeks isiku, kes ei ole reguleerivate asutuste nõukogu liige. See isik peab olema riigi reguleeriva asutuse juht, selle kollegiaalse kogu liige või nende asendaja.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Igal haldusnõukogu liikmel on asendusliige, kes esindab liiget selle puudumise korral. Liikmete asendusliikmeteks on isikud, kes on nimetatud reguleerivate asutuste nõukogu liikmete asendusliikmeteks. Ka komisjoni esindajal on asendaja. Artikli 7 lõike 1 teises lõigus osutatud ametisse nimetav riigi reguleeriv asutus võib nimetada haldusnõukogu asendusliikmeks isiku, kes ei ole reguleerivate asutuste nõukogu asendusliige. See isik peab olema riigi reguleeriva asutuse juht, selle kollegiaalse kogu liige, nende kummagi asendaja või riigi reguleeriva asutuse töötaja.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Haldusnõukogu liikmed ja nende asendusliikmed ei küsi juhiseid üheltki valitsuselt, institutsioonilt, isikult või asutuselt ega võta selliseid juhiseid ka vastu.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Haldusnõukogu liikmete, sealhulgas nende asendusliikmete ajakohastatud nimekiri koos nende huvide deklaratsioonidega avalikustatakse.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_16",
+   "kind": "article",
+   "number": "16",
+   "label": "Artikkel 16",
+   "title": "Haldusnõukogu haldusülesanded",
+   "path": [
+    "V PEATÜKK — BERECi BÜROO STRUKTUUR"
+   ],
+   "blocks": [
+    {
+     "text": "1. Haldusnõukogu täidab järgmisi haldusülesandeid:",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "a) määrab kindlaks BERECi büroo üldised tegevussuunad ning võtab igal aastal oma liikmete kahekolmandikulise häälteenamusega vastavalt artiklile 23 ja komisjoni seisukohta arvesse võttes vastu BERECi büroo ühtse programmdokumendi;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "b) võtab oma liikmete kahekolmandikulise häälteenamusega vastu BERECi büroo aastaeelarve ja täidab muid BERECi büroo eelarvega seotud ülesandeid kooskõlas VII peatükiga;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "c) võtab vastu ja avalikustab BERECi büroo iga-aastase konsolideeritud tegevusaruande, millele on osutatud artiklis 27, ja hindab seda ning esitab nii aruande kui ka oma hinnangu hiljemalt iga aasta 1. juuliks Euroopa Parlamendile, nõukogule, komisjonile ja kontrollikojale;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "d) võtab kooskõlas artikliga 29 vastu BERECi büroo suhtes kohaldatavad finantseeskirjad;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "e) võtab vastu pettustevastase strateegia, mis on rakendatavate meetmete kulusid ja kasu arvesse võttes proportsionaalne pettuste ohuga;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "f) tagab asjakohaste järelmeetmete võtmise sise- ja välisauditi aruannetest ja hinnangutest, samuti Euroopa Pettustevastase Ameti (OLAF) juurdlustest tulenevate järelduste ja soovituste suhtes;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "g) võtab vastu artikli 42 lõike 3 kohased huvide konfliktide ärahoidmise ja lahendamise eeskirjad;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "h) võtab vajaduste analüüsi põhjal vastu artikli 37 lõikes 2 osutatud teavitamis- ja levitamiskavad ning ajakohastab neid korrapäraselt;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "i) võtab vastu oma töökorra;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "j) võtab vastu rakendusnormid, et jõustada Euroopa Liidu ametnike personalieeskirjad ja muude teenistujate teenistustingimused vastavalt personalieeskirjade artiklile 110;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "k) ilma et see mõjutaks lõike 2 esimeses lõigus osutatud otsuseid, rakendab BERECi büroo töötajate suhtes volitusi, mis on antud ametisse nimetavale asutusele ametnike personalieeskirjadega ning teenistuslepingute sõlmimise pädevust omavale asutusele muude teenistujate teenistustingimustega („ametisse nimetava asutuse volitused“);",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "l) nimetab ametisse direktori ja asjakohasel juhul pikendab tema ametiaega või tagandab ta ametist kooskõlas artikliga 32;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "m) nimetab vastavalt ametnike personalieeskirjadele ja muude teenistujate teenistustingimustele ametisse peaarvepidaja, kes on oma ülesannete täitmisel täiesti sõltumatu;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "n) teeb kõik otsused BERECi büroo sisestruktuuride loomise ja vajaduse korral nende muutmise kohta, võttes arvesse BERECi büroo tegevusega seonduvaid vajadusi ja lähtudes eelarve usaldusväärsest haldamisest. Esimese lõigu punkti m rakendamisel võib BERECi büroo ametisse nimetada sama peaarvepidaja kui muu liidu organ või institutsioon. Eelkõige võivad BERECi büroo ja komisjon kokku leppida, et komisjoni peaarvepidaja tegutseb ka BERECi büroo peaarvepidajana;",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Haldusnõukogu võtab kooskõlas personalieeskirjade artikliga 110 vastu personalieeskirjade artikli 2 lõikel 1 ja muude teenistujate teenistustingimuste artiklil 6 põhineva otsuse, millega delegeeritakse asjakohased ametisse nimetava asutuse volitused direktorile ja täpsustatakse tingimused, mille alusel võib volituste delegeerimise peatada. Direktoril on õigus need volitused edasi delegeerida. Erandlike asjaolude korral võib haldusnõukogu teha otsuse direktorile delegeeritud ja tema poolt edasi delegeeritud ametisse nimetava asutuse volitused ajutiselt peatada ning täita kõnealuseid volitusi ise või delegeerida need ühele oma liikmetest või mõnele töötajale, välja arvatud direktorile.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_17",
+   "kind": "article",
+   "number": "17",
+   "label": "Artikkel 17",
+   "title": "Haldusnõukogu esimees ja aseesimehed",
+   "path": [
+    "V PEATÜKK — BERECi BÜROO STRUKTUUR"
+   ],
+   "blocks": [
+    {
+     "text": "1. Haldusnõukogu esimees ja aseesimehed on isikud, kes on nimetatud reguleerivate asutuste nõukogu esimeheks ja aseesimeesteks. Ametiaja pikkus on sama. Erandina esimesest lõigust võib haldusnõukogu oma liikmete kahekolmandikulise häälteenamusega valida esimeheks või aseesimeheks (aseesimeesteks) mõned teised haldusnõukogu liikmed, kes esindavad liikmesriike. Nende ametiaeg on sama pikk kui reguleerivate asutuste nõukogu esimehel ja aseesimeestel.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Kui esimees ei saa oma ülesandeid täita, asendab teda automaatselt üks aseesimeestest.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Haldusnõukogu esimees annab Euroopa Parlamendile ja nõukogule vastava taotluse korral aru BERECi büroo ülesannete täitmise kohta.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_18",
+   "kind": "article",
+   "number": "18",
+   "label": "Artikkel 18",
+   "title": "Haldusnõukogu koosolekud",
+   "path": [
+    "V PEATÜKK — BERECi BÜROO STRUKTUUR"
+   ],
+   "blocks": [
+    {
+     "text": "1. Haldusnõukogu koosolekud kutsub kokku esimees.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BERECi büroo direktor osaleb hääleõiguseta kõikides aruteludes, välja arvatud artikliga 32 seotud aruteludes.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Haldusnõukogul on vähemalt kaks korralist koosolekut aastas. Lisaks kutsub esimees komisjoni taotlusel või vähemalt kolme liikme taotlusel kokku erakorralisi koosolekuid omal algatusel.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Haldusnõukogu võib kutsuda oma koosolekutele vaatlejatena osalema isikuid, kelle seisukoht võib olla huvipakkuv.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Haldusnõukogu liikmed ja nende asendusliikmed võivad vastavalt haldusnõukogu töökorrale kasutada nõustajate või ekspertide abi.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Sekretariaaditeenust pakub haldusnõukogule BERECi büroo.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_19",
+   "kind": "article",
+   "number": "19",
+   "label": "Artikkel 19",
+   "title": "Haldusnõukogu hääletuskord",
+   "path": [
+    "V PEATÜKK — BERECi BÜROO STRUKTUUR"
+   ],
+   "blocks": [
+    {
+     "text": "1. Haldusnõukogu teeb otsused oma liikmete lihthäälteenamuse alusel, kui käesolevas määruses ei ole sätestatud teisiti.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Igal liikmel on üks hääl. Liikme puudumise korral võib tema eest hääletada tema asendusliige. Liikme või tema asendusliikme puudumise korral võib hääleõiguse delegeerida teisele liikmele.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Esimees osaleb hääletamisel liikme rollis, välja arvatud siis, kui tema hääleõigust ei ole delegeeritud.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Haldusnõukogu kodukorraga kehtestatakse üksikasjalikum hääletuskord, eelkõige kiireloomulistel juhtudel kohaldatav hääletuskord ja tingimused, mille korral üks liige võib tegutseda teise liikme nimel.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_20",
+   "kind": "article",
+   "number": "20",
+   "label": "Artikkel 20",
+   "title": "Direktori kohustused",
+   "path": [
+    "V PEATÜKK — BERECi BÜROO STRUKTUUR"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktor vastutab BERECi büroo haldusjuhtimise eest. Direktor annab aru haldusnõukogule.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktor abistab reguleerivate asutuste nõukogu esimeest ja haldusnõukogu esimeest nende vastavate organite koosolekute ettevalmistamisel.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Ilma et see piiraks reguleerivate asutuste nõukogu, haldusnõukogu ja komisjoni volitusi, on direktor oma ülesannete täitmisel sõltumatu ning ta ei küsi juhiseid üheltki valitsuselt, institutsioonilt, isikult või asutuselt ega võta selliseid juhiseid ka vastu.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Direktor annab Euroopa Parlamendile ja nõukogule vastava taotluse korral aru oma ülesannete täitmise kohta.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Direktor on BERECi büroo seaduslik esindaja.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Direktor vastutab BERECi büroo ülesannete täitmise eest ning järgib reguleerivate asutuste nõukogu ja haldusnõukogu esitatud suuniseid. Eelkõige vastutab direktor järgmise eest:",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "a) BERECi büroo igapäevase juhtimise korraldamine;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "b) reguleerivate asutuste nõukogu ja haldusnõukogu haldusotsuste rakendamine;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "c) artiklis 23 osutatud ühtse programmdokumendi koostamine ja selle esitamine haldusnõukogule;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "d) reguleerivate asutuste nõukogu aitamine artiklis 22 osutatud BERECi iga-aastase tegevusaruande koostamisel;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "e) reguleerivate asutuste nõukogu aitamine artiklis 21 osutatud BERECi iga-aastase tööprogrammi koostamisel;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "f) ühtse programmdokumendi rakendamine ning haldusnõukogule selle rakendamist käsitleva aruande esitamine;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "g) artiklis 27 osutatud BERECi büroo iga-aastase konsolideeritud tegevusaruande kavandi koostamine ja selle esitamine haldusnõukogule hindamiseks ja vastuvõtmiseks;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "h) auditeerimise sise- ja välisaruannetest ja -hinnangutest ning Euroopa Pettustevastase Ameti juurdlustest tulenevate järelduste põhjal tegevuskava koostamine ning tegevuskava täitmist käsitlevate aruannete esitamine haldusnõukogule vähemalt üks kord aastas;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "i) liidu finantshuvide kaitsmine, kohaldades selleks ennetusmeetmeid pettuse, korruptsiooni ja muu ebaseadusliku tegevuse vastu võitlemiseks, tehes tulemuslikke kontrolle, nõudes eeskirjade eiramise avastamise korral tagasi valesti makstud summad ning kohaldades vajaduse korral tulemuslikke, proportsionaalseid ja hoiatavaid haldusmeetmeid, sealhulgas finantskaristusi;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "j) BERECi büroo pettusevastase võitluse strateegia koostamine ja selle esitamine haldusnõukogule heakskiitmiseks;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "k) BERECi büroo suhtes kohaldatavate finantseeskirjade kavandi koostamine;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "l) BERECi büroo eelarveaasta tulude ja kulude eelarvestuse projekti koostamine ja BERECi eelarve täitmine;",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "m) koos reguleerivate asutuste nõukoguga loa andmine sõlmida koostöökorrad pädevate liidu organite, asutuste ja nõuanderühmadega, kolmandate riikide pädevate asutuste ja rahvusvaheliste organisatsioonidega vastavalt artiklile 35.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Direktor võtab haldusnõukogu järelevalve all vajalikud meetmed, võttes eelkõige vastu sisemised haldusjuhendid ja avaldades teatisi, et tagada käesoleva määruse kohaselt BERECi büroo toimimine.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Direktor otsustab komisjoni, haldusnõukogu ja asjaomaste liikmesriikide eelneval nõusolekul selle üle, kas BERECi büroo ülesannete tõhusaks ja tulemuslikuks täitmiseks on vaja paigutada ühte või mitmesse liikmesriiki töötaja või mitu töötajat. Otsuses määratakse täpselt kindlaks tegevuse ulatus, et vältida tarbetuid kulusid ja BERECi büroo haldusülesannete dubleerimist. Enne sellise otsuse tegemist märgitakse selle mõju personali ja eelarve eraldamisele artikli 23 lõikes 4 osutatud mitmeaastases programmdokumendis.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_21",
+   "kind": "article",
+   "number": "21",
+   "label": "Artikkel 21",
+   "title": "BERECi iga-aastane tööprogramm",
+   "path": [
+    "VI PEATÜKK — BERECi TÖÖPROGRAMMI KOOSTAMINE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Reguleerivate asutuste nõukogu võtab vastu iga-aastase tööprogrammi kavandi tööprogrammi kehtivuse aastale eelneva aasta 31. jaanuariks. Pärast konsulteerimist Euroopa Parlamendi, nõukogu ja komisjoniga nende prioriteetide teemal ning pärast konsulteerimist muude huvitatud isikutega kooskõlas artikli 4 lõikega 5 võtab reguleerivate asutuste nõukogu lõpliku iga-aastase tööprogrammi vastu kõnealuse aasta 31. detsembriks.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Reguleerivate asutuste nõukogu edastab iga-aastase tööprogrammi Euroopa Parlamendile, nõukogule ja komisjonile niipea, kui see on vastu võetud.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_22",
+   "kind": "article",
+   "number": "22",
+   "label": "Artikkel 22",
+   "title": "BERECi iga-aastane tegevusaruanne",
+   "path": [
+    "VI PEATÜKK — BERECi TÖÖPROGRAMMI KOOSTAMINE"
+   ],
+   "blocks": [
+    {
+     "text": "1. Reguleerivate asutuste nõukogu võtab vastu iga-aastase aruande BERECi tegevuse kohta.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Reguleerivate asutuste nõukogu edastab iga-aastase tegevusaruande Euroopa Parlamendile, nõukogule, komisjonile ning Euroopa Majandus- ja Sotsiaalkomiteele iga aasta 15. juuniks.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_23",
+   "kind": "article",
+   "number": "23",
+   "label": "Artikkel 23",
+   "title": "Iga- ja mitmeaastased programmid",
+   "path": [
+    "VII PEATÜKK — BERECi BÜROO EELARVE JA PROGRAMM"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktor koostab igal aastal vastavalt delegeeritud määruse (EL) nr 1271/2013 artiklile 32 programmdokumendi kavandi, mis sisaldab iga- ja mitmeaastaseid programme („ühtne programmdokument“), milles võetakse arvesse komisjoni kehtestatud suuniseid. Haldusnõukogu võtab iga aasta 31. jaanuariks vastu ühtse programmdokumendi kavandi ja edastab selle komisjonile, et see esitaks dokumendi kohta oma arvamuse. Ühtse programmdokumendi kavand esitatakse ka Euroopa Parlamendile ja nõukogule. Haldusnõukogu võtab seejärel ühtse programmdokumendi vastu, võttes arvesse komisjoni arvamust. Ta esitab ühtse programmidokumendi koos kõigi hilisemate lisadega Euroopa Parlamendile, nõukogule ja komisjonile. Ühtne programmdokument jõustub pärast liidu üldeelarve kinnitamist ja vajaduse korral kohandatakse seda vastavalt eelarvele.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Iga-aastane programmdokument sisaldab üksikasjalikke eesmärke ja oodatavaid tulemusi, sealhulgas tulemusnäitajaid. Samuti sisaldab see rahastatavate meetmete kirjeldust koos igale meetmele eraldatavate rahaliste vahendite ja inimressurssidega vastavalt tegevuspõhise eelarvestamise ja juhtimise põhimõtetele, nagu on osutatud artiklis 31. Iga-aastane programmdokument peab olema kooskõlas BERECi iga-aastase tööprogrammi kavandiga, artiklis 21 osutatud lõpliku iga-aastase tööprogrammiga ning BERECi büroo mitmeaastase programmdokumendiga, millele on osutatud käesoleva artikli lõikes 4. Iga-aastases tööprogrammis osutatakse selgelt ülesannetele, mis võrreldes eelmise eelarveaastaga on lisatud või kustutatud või mida on muudetud.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Haldusnõukogu muudab vajaduse korral iga-aastast programmdokumenti pärast artiklis 21 osutatud BERECi iga-aastase lõpliku tööprogrammi vastuvõtmist ning iga kord siis, kui BERECile või BERECi büroole antakse uus ülesanne. Kõik iga-aastase programmdokumendi olulised muudatused võetakse vastu sama korra kohaselt kui algne iga-aastane programmdokument. Haldusnõukogu võib delegeerida direktorile õiguse teha iga-aastases programmdokumendis mitteolulisi muudatusi.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Mitmeaastases programmdokumendis esitatakse üldine strateegiline programm, sealhulgas eesmärgid, oodatavad tulemused ja tulemusnäitajad. Selles esitatakse ka vahendite eraldamise programm, sealhulgas mitmeaastase eelarve ja personali jaoks. Vahendite eraldamise programmi ajakohastatakse igal aastal. Strateegilist programmi ajakohastatakse, kui selle järele on vajadus ja eriti artiklis 48 osutatud hindamise tulemuste arvesse võtmiseks.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. BERECi büroo ühtses programmdokumendis käsitletakse BERECi sellise strateegia rakendamist, mis käsitleb artikli 35 lõikes 3 osutatud suhteid pädevate liidu organite, asutuste ja nõuanderühmadega, kolmandate riikide pädevate asutustega ja rahvusvaheliste organisatsioonidega ning strateegiaga seotud meetmeid ja täpsustatakse strateegiaga seotud vahendid.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_24",
+   "kind": "article",
+   "number": "24",
+   "label": "Artikkel 24",
+   "title": "Eelarve koostamine",
+   "path": [
+    "VII PEATÜKK — BERECi BÜROO EELARVE JA PROGRAMM"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktor koostab igal aastal BERECi büroo järgmise eelarveaasta tulude ja kulude esialgse eelarvestuse projekti („eelarvestuse projekt“), mis sisaldab ametikohtade loetelu, ning esitab selle haldusnõukogule. Eelarvestuse projektis esitatud teave peab olema kooskõlas artikli 23 lõikes 1 osutatud ühtse programmdokumendi kavandiga.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktor esitab eelarvestuse projekti iga aasta 31. jaanuariks komisjonile.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Komisjon esitab eelarvestuse projekti eelarvepädevatele institutsioonidele koos liidu üldeelarve projektiga.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Eelarvestuse projekti alusel kannab komisjon liidu üldeelarve projekti arvestuslikud summad, mida ta peab ametikohtade loetelu jaoks vajalikuks, ja üldeelarvest makstava rahalise toetuse suuruse ning esitab need kooskõlas Euroopa Liidu toimimise lepingu (ELi toimimise leping) artiklitega 313 ja 314 eelarvepädevatele institutsioonidele.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Eelarvepädevad institutsioonid kinnitavad BERECi büroo toetuseks eraldatavad assigneeringud.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Eelarvepädevad institutsioonid võtavad vastu BERECi büroo ametikohtade loetelu.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Haldusnõukogu võtab vastu BERECi büroo eelarve. Eelarve on lõplik pärast liidu üldeelarve vastuvõtmist. Vajaduse korral tehakse selles kohandused.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Kõikide hoonetega seotud projektide suhtes, mis tõenäoliselt avaldavad BERECi büroo eelarvele olulist mõju, kohaldatakse delegeeritud määrust (EL) nr 1271/2013.",
+     "para": "8",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_25",
+   "kind": "article",
+   "number": "25",
+   "label": "Artikkel 25",
+   "title": "Eelarve struktuur",
+   "path": [
+    "VII PEATÜKK — BERECi BÜROO EELARVE JA PROGRAMM"
+   ],
+   "blocks": [
+    {
+     "text": "1. Igaks eelarveaastaks, mis ühtib kalendriaastaga, koostatakse BERECi büroo kõikide tulude ja kulude eelarvestus, mis esitatakse BERECi büroo eelarves.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BERECi büroo eelarve tulud ja kulud peavad olema tasakaalus.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Ilma et see piiraks muid sissetulekuallikaid, koosnevad BERECi büroo tulud järgmisest: a) liidu rahaline toetus; b) liikmesriikide või riigi reguleerivate asutuste võimalik vabatahtlik rahaline toetus; c) tasud väljaannete ja muude BERECi büroo pakutavate teenuste eest; d) kolmandate riikide või BERECi büroo töös osalevate kolmandate riikide elektroonilise side valdkonnas pädevate reguleerivate asutuste rahaline panus, nagu on sätestatud artiklis 35.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. BERECi büroo kulud hõlmavad personali töötasu, haldus- ja taristukulusid ning tegevuskulusid.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_26",
+   "kind": "article",
+   "number": "26",
+   "label": "Artikkel 26",
+   "title": "Eelarve täitmine",
+   "path": [
+    "VII PEATÜKK — BERECi BÜROO EELARVE JA PROGRAMM"
+   ],
+   "blocks": [
+    {
+     "text": "1. BERECi büroo eelarvet täidab direktor.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktor esitab igal aastal Euroopa Parlamendile ja nõukogule kogu hindamismenetluse tulemuste seisukohast asjakohase teabe.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_27",
+   "kind": "article",
+   "number": "27",
+   "label": "Artikkel 27",
+   "title": "Iga-aastane konsolideeritud tegevusaruanne",
+   "path": [
+    "VII PEATÜKK — BERECi BÜROO EELARVE JA PROGRAMM"
+   ],
+   "blocks": [
+    {
+     "text": "Haldusnõukogu võtab vastavalt delegeeritud määruse (EL) nr 1271/2013 artiklile 47 vastu iga-aastase konsolideeritud tegevusaruande, võttes arvesse komisjoni kehtestatud suuniseid.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_28",
+   "kind": "article",
+   "number": "28",
+   "label": "Artikkel 28",
+   "title": "Raamatupidamisaruanded ja eelarve täitmisele heakskiidu andmine",
+   "path": [
+    "VII PEATÜKK — BERECi BÜROO EELARVE JA PROGRAMM"
+   ],
+   "blocks": [
+    {
+     "text": "1. BERECi büroo peaarvepidaja esitab järgmise eelarveaasta 1. märtsiks komisjoni peaarvepidajale ja kontrollikojale lõppenud eelarveaasta esialgse raamatupidamisaruande.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BERECi büroo esitab eelarvehalduse ja finantsjuhtimise aruande Euroopa Parlamendile, nõukogule ja kontrollikojale lõppenud eelarveaastale järgneva eelarveaasta 31. märtsiks.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Olles kätte saanud kontrollikoja märkused BERECi büroo esialgse raamatupidamisaruande kohta, koostab BERECi büroo peaarvepidaja omal vastutusel BERECi büroo lõpliku raamatupidamisaruande. Direktor esitab lõpliku raamatupidamisaruande arvamuse saamiseks haldusnõukogule.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Haldusnõukogu esitab BERECi büroo lõpliku raamatupidamisaruande kohta arvamuse.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Direktor esitab lõpliku raamatupidamisaruande koos haldusnõukogu arvamusega Euroopa Parlamendile, nõukogule, komisjonile ja kontrollikojale lõppenud eelarveaastale järgneva aasta 1. juuliks.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. BERECi büroo avaldab lõpliku raamatupidamisaruande Euroopa Liidu Teatajas järgmise aasta 15. novembriks.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Direktor esitab järgneva eelarveaasta 30. septembriks kontrollikojale selle tähelepanekute kohta vastuse. Direktor esitab kõnealuse vastuse ka haldusnõukogule.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Euroopa Parlamendi taotluse korral esitab direktor talle kooskõlas Euroopa Parlamendi ja nõukogu määruse (EL, Euratom) 2018/1046 artikli 165 lõikega 3 kogu teabe, mida on vaja kõnealust eelarveaastat käsitleva eelarve täitmisele heakskiidu andmise menetluse tõrgeteta sujumiseks.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Kvalifitseeritud häälteenamusega tehtud nõukogu soovituse põhjal annab Euroopa Parlament enne N + 2 aasta 15. maid heakskiidu direktori tegevusele N aasta eelarve täitmisel.",
+     "para": "9",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_29",
+   "kind": "article",
+   "number": "29",
+   "label": "Artikkel 29",
+   "title": "Finantsreeglid",
+   "path": [
+    "VII PEATÜKK — BERECi BÜROO EELARVE JA PROGRAMM"
+   ],
+   "blocks": [
+    {
+     "text": "Haldusnõukogu võtab pärast komisjoniga konsulteerimist vastu BERECi büroo suhtes kohaldatavad finantseeskirjad. Need ei lahkne delegeeritud määrusest (EL) nr 1271/2013, välja arvatud juhul, kui see on vajalik BERECi büroo toimimiseks ja komisjon on selleks eelnevalt nõusoleku andnud.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_30",
+   "kind": "article",
+   "number": "30",
+   "label": "Artikkel 30",
+   "title": "Üldsäte",
+   "path": [
+    "VIII PEATÜKK — BERECi BÜROO TÖÖTAJAD"
+   ],
+   "blocks": [
+    {
+     "text": "BERECi büroo töötajate suhtes kohaldatakse Euroopa Liidu ametnike personalieeskirju ja Euroopa Liidu muude teenistujate teenistustingimusi ning nende personalieeskirjade ja muude teenistujate teenistustingimuste jõustamiseks liidu institutsioonide kokkuleppel vastu võetud norme.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_31",
+   "kind": "article",
+   "number": "31",
+   "label": "Artikkel 31",
+   "title": "BERECi büroo töötajate arv",
+   "path": [
+    "VIII PEATÜKK — BERECi BÜROO TÖÖTAJAD"
+   ],
+   "blocks": [
+    {
+     "text": "1. Vastavalt inimressursside tegevuspõhise juhtimise põhimõttele on BERECi büroos büroo kohustuste täitmiseks vajalik arv töötajaid.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Töötajate arv ja vastavad rahalised vahendid kavandatakse vastavalt artikli 23 lõigetele 2 ja 4 ning artikli 24 lõikele 1, võttes arvesse artikli 5 punkti a ja kõiki teisi ülesandeid, mis BERECi büroole on seatud käesoleva määruse või liidu muude õigusaktidega, samuti vajadust järgida norme, mida kohaldatakse kõigi liidu detsentraliseeritud asutuste suhtes.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_32",
+   "kind": "article",
+   "number": "32",
+   "label": "Artikkel 32",
+   "title": "Direktori ametissenimetamine",
+   "path": [
+    "VIII PEATÜKK — BERECi BÜROO TÖÖTAJAD"
+   ],
+   "blocks": [
+    {
+     "text": "1. Direktor võetakse tööle BERECi büroo ajutise teenistujana vastavalt muude teenistujate teenistustingimuste artikli 2 punktile a.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Direktori nimetab ametisse haldusnõukogu pärast avatud ja läbipaistvat valikumenetlust pädevuse, juhtimis-, haldus- ja eelarvealaste oskuste ning elektrooniliste sidevõrkude ja -teenuste alaste oskuste ja kogemuste põhjal. Kandidaatide nimekirja ei või esitada esimees või aseesimees üksinda. Haldusnõukogu töökorras sätestatakse üksikasjalikult kord, mis reguleerib menetlust kõige sobivamate osalemistingimusi täitvate kandidaatide nimekirja koostamiseks ja hääletuskord.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Direktoriga lepingu sõlmimisel on BERECi büroo esindajaks haldusnõukogu esimees.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Enne haldusnõukogu valitud kandidaadi ametisse nimetamist palutakse tal esineda Euroopa Parlamendi pädeva komisjoni ees, et vastata selle liikmete küsimustele.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Direktori ametiaeg on viis aastat. Selle aja lõpus viib haldusnõukogu esimees läbi hindamise, milles võetakse arvesse direktori tegevust ning BERECi büroo ülesandeid ja probleeme. Kõnealuse hindamise tulemused esitatakse Euroopa Parlamendile ja nõukogule.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Võttes arvesse lõikes 5 osutatud hindamise tulemusi, võib haldusnõukogu pikendada direktori ametiaega ühel korral kuni viie aasta võrra.",
+     "para": "6",
+     "point": ""
+    },
+    {
+     "text": "7. Haldusnõukogu teatab Euroopa Parlamendile oma kavatsusest pikendada direktori ametiaega. Ühe kuu jooksul enne sellist pikendamist võidakse direktor kutsuda avaldusega esinema Euroopa Parlamendi pädeva komisjoni ette, et vastata selle liikmete küsimustele.",
+     "para": "7",
+     "point": ""
+    },
+    {
+     "text": "8. Direktor, kelle ametiaega on pikendatud, ei või pärast pikendatud ametiaja lõppu osaleda sama ametikoha tulevastes valikumenetlustes.",
+     "para": "8",
+     "point": ""
+    },
+    {
+     "text": "9. Kui ametiaega ei pikendata, jääb direktor haldusnõukogu otsusel ametisse ka pärast oma esialgse ametiaja lõppemist, kuni uue direktori ametisse nimetamiseni.",
+     "para": "9",
+     "point": ""
+    },
+    {
+     "text": "10. Direktori võib ametist tagandada üksnes otsusega, mille teeb haldusnõukogu liikme ettepaneku alusel.",
+     "para": "10",
+     "point": ""
+    },
+    {
+     "text": "11. Direktori ametisse nimetamise, ametiaja pikendamise ja ametist tagandamise otsused teeb haldusnõukogu oma liikmete kahekolmandikulise häälteenamusega.",
+     "para": "11",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_33",
+   "kind": "article",
+   "number": "33",
+   "label": "Artikkel 33",
+   "title": "Lähetatud riiklikud eksperdid ja muud töötajad",
+   "path": [
+    "VIII PEATÜKK — BERECi BÜROO TÖÖTAJAD"
+   ],
+   "blocks": [
+    {
+     "text": "1. BERECi büroo võib kasutada lähetatud riiklikke eksperte või muid töötajaid, kelle tööandja ta ei ole. Sellise personali suhtes ei kohaldata personalieeskirju ega muude teenistujate teenistustingimusi.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Haldusnõukogu võtab vastu otsuse, milles sätestatakse eeskirjad riiklike ekspertide BERECi büroosse lähetamise kohta.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_34",
+   "kind": "article",
+   "number": "34",
+   "label": "Artikkel 34",
+   "title": "Privileegid ja immuniteedid",
+   "path": [
+    "IX PEATÜKK — ÜLDSÄTTED"
+   ],
+   "blocks": [
+    {
+     "text": "BERECi büroo ja selle töötajate suhtes kohaldatakse Euroopa Liidu privileegide ja immuniteetide protokolli.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_35",
+   "kind": "article",
+   "number": "35",
+   "label": "Artikkel 35",
+   "title": "Koostöö liidu asutuste, kolmandate riikide ja rahvusvaheliste organisatsioonidega",
+   "path": [
+    "IX PEATÜKK — ÜLDSÄTTED"
+   ],
+   "blocks": [
+    {
+     "text": "1. Niivõrd kui see on vajalik käesolevas määruses sätestatud eesmärkide saavutamiseks ja BERECi ülesannete täitmiseks ning ilma et see piiraks liikmesriikide ja liidu institutsioonide pädevust, võivad BEREC ja BERECi büroo teha koostööd pädevate liidu organite, asutuste ja nõuanderühmadega, kolmandate riikide pädevate asutustega ja rahvusvaheliste organisatsioonidega. Selleks võivad BEREC ja BERECi büroo komisjoni eelneval nõusolekul leppida kokku koostöökorra. Kõnealused kokkulepped ei too kaasa õiguslikke kohustusi.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Reguleerivate asutuste nõukogu, töörühmade ja haldusnõukogu tegevuses võivad osaleda kolmandate riikide reguleerivad asutused, kelle peamiseks vastutusalaks on elektroonilise side valdkond, kui need kolmandad isikud on sõlminud sel eesmärgil liiduga lepingu. Kõnealuste lepingute asjakohaste sätete alusel töötatakse välja töökord, millega täpsustatakse eelkõige asjaomaste kolmandate riikide reguleerivate asutuste BERECi ja BERECi büroo töös hääleõiguseta osalemise laad, ulatus ja viis, kaasa arvatud sätted, mis käsitlevad BERECi algatustes osalemist, rahalisi makseid ja BERECi büroo töötajaid. Personaliküsimustes peab kõnealune kord olema igal juhul kooskõlas personalieeskirjadega.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Reguleerivate asutuste nõukogu võtab artiklis 21 osutatud iga-aastase tööprogrammi osana vastu BERECi strateegia, mis käsitleb suhteid pädevate liidu organite, asutuste ja nõuanderühmade, kolmandate riikide pädevate asutuste ja rahvusvaheliste organisatsioonidega küsimustes, mis kuuluvad BERECi pädevusvaldkonda. Komisjon, BEREC ja BERECi büroo lepivad kokku nõuetekohase töökorra, millega tagatakse, et BEREC ja BERECi büroo tegutsevad oma volituste piires ja olemasolevas institutsioonilises raamistikus.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_36",
+   "kind": "article",
+   "number": "36",
+   "label": "Artikkel 36",
+   "title": "Juurdepääs dokumentidele ja andmekaitse",
+   "path": [
+    "IX PEATÜKK — ÜLDSÄTTED"
+   ],
+   "blocks": [
+    {
+     "text": "1. BERECi ja BERECi büroo valduses olevate dokumentide suhtes kohaldatakse Euroopa Parlamendi ja nõukogu määrust (EÜ) nr 1049/2001.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Reguleerivate asutuste nõukogu ja haldusnõukogu võtavad hiljemalt 21. juuniks 2019 vastu üksikasjalikud eeskirjad määruse (EÜ) nr 1049/2001 kohaldamise kohta.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. BERECis ja BERECi büroos toimuva isikuandmete töötlemise suhtes kohaldatakse määrust (EL) 2018/1725.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Reguleerivate asutuste nõukogu ja haldusnõukogu kehtestavad hiljemalt 21. juuniks 2019 meetmed, mida BEREC ja BERECi büroo võtavad määruse (EL) 2018/1725 kohaldamiseks, sealhulgas meetmed, mis käsitlevad BERECi büroo andmekaitseametniku ametisse nimetamist. Meetmed kehtestatakse pärast konsulteerimist Euroopa Andmekaitseinspektoriga.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_37",
+   "kind": "article",
+   "number": "37",
+   "label": "Artikkel 37",
+   "title": "Läbipaistvus ja teavitamine",
+   "path": [
+    "IX PEATÜKK — ÜLDSÄTTED"
+   ],
+   "blocks": [
+    {
+     "text": "1. BEREC ja BERECi büroo tegutsevad võimalikult läbipaistvalt. BEREC ja BERECi büroo tagavad, et avalikkusele ja kõigile huvitatud isikutele antakse asjakohast, objektiivset, usaldusväärset ja hõlpsasti kättesaadavat teavet, eelkõige nende ülesannete ja töö tulemuste kohta.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BEREC, mida toetab BERECi büroo, võib tegeleda teavitustegevusega omal algatusel ja oma pädevuse ulatuses, tehes seda vastavalt asjakohastele teavitamis- ja levitamiskavadele, mille on vastu võtnud reguleerivate asutuste nõukogu. Teavitustegevuse sellise toetamise jaoks vahendite eraldamine BERECi büroo eelarves ei tohi kahjustada artiklis 4 osutatud BERECi ülesannete või artiklis 5 osutatud BERECi büroo ülesannete tulemuslikku täitmist. BERECi büroo teavitustegevus on kooskõlas haldusnõukogus vastu võetud asjakohaste teavitamis- ja levitamiskavadega.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_38",
+   "kind": "article",
+   "number": "38",
+   "label": "Artikkel 38",
+   "title": "Konfidentsiaalsus",
+   "path": [
+    "IX PEATÜKK — ÜLDSÄTTED"
+   ],
+   "blocks": [
+    {
+     "text": "1. Ilma et see piiraks artikli 36 lõike 1 ja artikli 40 lõike 2 kohaldamist, ei avalda BEREC ja BERECi büroo kolmandatele isikutele teavet, mida nad töötlevad või saavad ning mille puhul on esitatud põhjendatud taotlus teabe käsitlemiseks täielikult või osaliselt konfidentsiaalsena.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Reguleerivate asutuste nõukogu, haldusnõukogu ja töörühmade liikmed ning teised nende koosolekutel osalejad, direktor, lähetatud riiklikud eksperdid ja muud töötajad, kes ei kuulu BERECi büroo personali hulka, järgivad ELi toimimise lepingu artikli 339 kohaseid konfidentsiaalsusnõudeid ja seda ka pärast oma ametikohustuste lõppemist.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Reguleerivate asutuste nõukogu ja haldusnõukogu kehtestavad lõigetes 1 ja 2 osutatud konfidentsiaalsuseeskirjade rakendamiseks praktilise korra.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_39",
+   "kind": "article",
+   "number": "39",
+   "label": "Artikkel 39",
+   "title": "Salastatud teabe ja salastamata tundliku teabe kaitset käsitlevad julgeolekunormid",
+   "path": [
+    "IX PEATÜKK — ÜLDSÄTTED"
+   ],
+   "blocks": [
+    {
+     "text": "BEREC ja BERECi büroo võtavad vastu oma julgeolekunormid, mis on samaväärsed komisjoni julgeolekunormidega, mis käsitlevad Euroopa Liidu salastatud teabe ja salastamata tundliku teabe kaitset, muu hulgas sätted sellise teabe vahetamise, töötlemise ja säilitamise kohta, nagu on sätestatud komisjoni otsustes (EL, Euratom) 2015/443 ja (EL, Euratom) 2015/444. BEREC või BERECi büroo võivad samuti otsustada kohaldada komisjoni julgeolekunorme mutatis mutandis.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_40",
+   "kind": "article",
+   "number": "40",
+   "label": "Artikkel 40",
+   "title": "Teabevahetus",
+   "path": [
+    "IX PEATÜKK — ÜLDSÄTTED"
+   ],
+   "blocks": [
+    {
+     "text": "1. BERECi või BERECi büroo põhjendatud taotluse korral esitavad komisjon ja reguleerivate asutuste nõukogus esindatud riigi reguleerivad asutused ja muud pädevad asutused BERECile või BERECi büroole õigeaegselt ja täpselt kogu teabe, mis on vajalik nende ülesannete täitmiseks, eeldusel et asjaomane teave on neile seaduslikult kättesaadav ja teabetaotlus on kõnealuse ülesande laadi silmas pidades vajalik. BEREC või BERECi büroo võivad ka taotleda, et sellist teavet esitatakse korrapäraste ajavahemike järel ja kindlas vormis. Võimaluse korral kasutatakse kõnealuste teabenõuete puhul ühtseid aruandevorme.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Komisjoni või riigi reguleeriva asutuse põhjendatud taotluse korral esitab BEREC või BERECi büroo komisjonile, riigi reguleerivale asutusele või muule pädevale asutusele õigeaegselt ja täpselt teabe, mis on neile oma ülesannete täitmiseks vajalik, vastavalt lojaalse koostöö põhimõttele. Kui BEREC või BERECi büroo peab teavet konfidentsiaalseks, siis komisjon, riigi reguleeriv asutus ja asjaomane muu pädev asutus peavad tagama liidu ja riigi õiguse, sealhulgas määruse (EÜ) nr 1049/2001 kohaselt selle teabe konfidentsiaalsuse. Ärisaladus ei takista teabe õigeaegset jagamist.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Enne käesoleva artikli kohast teabe taotlemist ning selleks, et vältida topeltaruandlust, võtab BEREC või BERECi büroo arvesse olemasoleva asjakohase teabe, mis on avalikult kättesaadav.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Kui riigi reguleerivad asutused ei ole teavet õigeaegselt kättesaadavaks teinud, võib BEREC või BERECi büroo esitada põhjendatud taotluse kas teistele riigi reguleerivatele asutustele ja asjaomase liikmesriigi teistele pädevatele asutustele või otse asjaomastele elektroonilise side võrke, teenuseid ning seotud vahendeid pakkuvatele ettevõtjatele. BEREC või BERECi büroo teavitab esimese lõigu kohastest taotlustest riigi reguleerivaid asutusi, kes ei ole nõutud teavet esitanud. BERECi või BERECi büroo taotluse korral abistavad riigi reguleerivad asutused BERECit teabe kogumisel.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Liikmesriigid tagavad, et riigi reguleerivatel asutustel ja teistel pädevatel asutustel on volitused nõuda, et teine vastutavad riiklikud ametiasutused või elektroonilise side võrke ja teenuseid, seotud vahendeid või seotud teenuseid pakkuvad ettevõtjad esitaksid kogu teabe, mis on vajalik nende käesolevas artiklis osutatud ülesannete täitmiseks. Teised vastutavad riiklikud ametiasutused või esimeses lõigus osutatud ettevõtjad esitavad sellise teabe taotluse korral viivitamata ning vastavalt nõutavale ajakavale ja täpsusastmele. Liikmesriigid tagavad, et riigi reguleerivatel asutustel ja teistel pädevatel asutustel on volitused jõustada selliseid teabetaotlusi, kehtestades karistusi, mis on asjakohased, tulemuslikud, proportsionaalsed ja hoiatavad.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_41",
+   "kind": "article",
+   "number": "41",
+   "label": "Artikkel 41",
+   "title": "Info- ja teavitussüsteem",
+   "path": [
+    "IX PEATÜKK — ÜLDSÄTTED"
+   ],
+   "blocks": [
+    {
+     "text": "1. BERECi büroo loob ja haldab info- ja teavitussüsteemi, millel on vähemalt järgmised funktsioonid: a) ühine teabevahetusplatvorm, mille kaudu tagatakse BERECile, komisjonile ja riigi reguleerivatele asutustele vajalik teave elektroonilist sidet käsitleva liidu reguleeriva raamistiku järjepidevaks rakendamiseks; b) eriotstarbeline liides BERECi, BERECi büroo, komisjoni ja riigi reguleerivate asutuste juurdepääsu jaoks seoses artiklis 40 osutatud teabetaotluste ja taotlustest teatamisega; c) platvorm riigi reguleerivate asutuste koordineerimisvajaduste varajaseks kindlakstegemiseks.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Haldusnõukogu võtab vastu tehnilised ja funktsionaalsed kirjeldused lõikes 1 osutatud info- ja teavitussüsteemi loomiseks. Nimetatud süsteemi suhtes kohaldatakse intellektuaalomandi õigusi ja nõutud konfidentsiaalsustaset.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Info- ja teavitussüsteem peab olema töövalmis hiljemalt 21. juuniks 2020.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_42",
+   "kind": "article",
+   "number": "42",
+   "label": "Artikkel 42",
+   "title": "Huvide deklaratsioon",
+   "path": [
+    "IX PEATÜKK — ÜLDSÄTTED"
+   ],
+   "blocks": [
+    {
+     "text": "1. Reguleerivate asutuste nõukogu ja haldusnõukogu liikmed, direktor, lähetatud riiklikud eksperdid ja muud töötajad, kes ei kuulu BERECi büroo personali hulka, esitavad kirjaliku deklaratsiooni, milles kinnitavad oma kohustusi ning seda, et neil puudub või on olemas otsene või kaudne huvi, mida võib pidada nende sõltumatust kahjustavaks. Deklaratsioon esitatakse ülesandeid täitma asudes, see peab olema täpne ja täielik ning seda ajakohastatakse, kui on oht, et on olemas otsene või kaudne huvi, mida võib pidada deklaratsiooni esitava isiku sõltumatust kahjustavaks. Reguleerivate asutuste nõukogu ja haldusnõukogu liikmete ning direktori deklaratsioonid avalikustatakse.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Reguleerivate asutuste nõukogu, haldusnõukogu ja töörühmade liikmed ning muud nende organite koosolekutel osalevad isikud, direktor, riikide lähetatud eksperdid ja muud töötajad, kes ei kuulu BERECi büroo personali hulka, esitavad hiljemalt iga koosoleku alguses täpse ja täieliku deklaratsiooni oma huvide kohta, mida võib pidada päevakorraküsimustega seoses nende sõltumatust kahjustavaks ning nad ei võta osa selliste küsimuste arutamisest ja hääletusest.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Reguleerivate asutuste nõukogu ja haldusnõukogu kehtestavad eeskirjad huvide konfliktide ärahoidmise ja lahendamise kohta ning eelkõige lõigete 1 ja 2 kohaldamisega seotud praktilist korda käsitlevad eeskirjad.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_43",
+   "kind": "article",
+   "number": "43",
+   "label": "Artikkel 43",
+   "title": "Pettuse tõkestamine",
+   "path": [
+    "IX PEATÜKK — ÜLDSÄTTED"
+   ],
+   "blocks": [
+    {
+     "text": "1. Selleks et lihtsustada võitlust pettuse, korruptsiooni ja muu ebaseadusliku tegevuse vastu vastavalt Euroopa Parlamendi ja nõukogu määrusele (EL, Euratom) nr 883/2013, ühineb BERECi büroo hiljemalt 21. juuniks 2019 Euroopa Parlamendi, Euroopa Liidu Nõukogu ja Euroopa Ühenduste Komisjoni 25. mai 1999. aasta institutsioonidevahelise kokkuleppega, mis käsitleb Euroopa Pettustevastase Ameti (OLAF) sisejuurdlust, ja võtab vastu kõikide BERECi büroo töötajate suhtes kohaldatavad asjakohased sätted, kasutades kõnealuse kokkuleppe lisas esitatud vormi.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Kontrollikojal on õigus auditeerida nii dokumentide alusel kui ka kontrollida kohapeal kõiki toetusesaajaid, töövõtjaid ja alltöövõtjaid, keda BERECi büroo on liidu vahenditest rahastanud.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. OLAF võib korraldada uurimis, sealhulgas kohapealseid kontrolle ja inspekteerimisi vastavalt määruses (EL, Euratom) nr 883/2013 ja nõukogu määruses (Euratom, EÜ) nr 2185/96 sätetele ja neis määrustes sätestatud korras, et teha kindlaks, kas seoses BERECi büroo rahastatud toetustoetuse andmise otsuse või lepinguga on esinenud pettust, korruptsiooni või muud liidu finantshuve kahjustavat ebaseaduslikku tegevust.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Ilma et see piiraks lõigete 1, 2 ja 3 kohaldamist, sisaldavad kolmandate riikidega ja rahvusvaheliste organisatsioonidega sõlmitud koostöölepingud ning lepingud, toetuslepingud ja toetuse andmise otsused sätteid, mis annavad kontrollikojale ja OLAFile sõnaselgelt õiguse korraldada oma vastava pädevuse piires sellist auditeerimist ja uurimist.",
+     "para": "4",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_44",
+   "kind": "article",
+   "number": "44",
+   "label": "Artikkel 44",
+   "title": "Vastutus",
+   "path": [
+    "IX PEATÜKK — ÜLDSÄTTED"
+   ],
+   "blocks": [
+    {
+     "text": "1. BERECi büroo lepinguline vastutus on reguleeritud asjaomase lepingu suhtes kohaldatava õigusega.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Otsuste tegemine vastavalt BERECi büroo sõlmitud lepingus sisalduvale vahekohtuklauslile kuulub Euroopa Liidu Kohtu (Euroopa Kohus) pädevusse.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Lepinguvälise vastutuse korral hüvitab BERECi büroo liikmesriikide õiguse ühiste üldpõhimõtete kohaselt mis tahes kahju, mida büroo talitused või personal on tekitanud oma kohustuste täitmisel.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Lõikes 3 osutatud kahju hüvitamisega seotud vaidlusküsimuste lahendamine kuulub Euroopa Kohtu pädevusse.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Töötajate isiklik vastutus BERECi büroo ees on reguleeritud nende suhtes kohaldatavate personalieeskirjade või muude teenistujate teenistustingimustega.",
+     "para": "5",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_45",
+   "kind": "article",
+   "number": "45",
+   "label": "Artikkel 45",
+   "title": "Haldusuurimine",
+   "path": [
+    "IX PEATÜKK — ÜLDSÄTTED"
+   ],
+   "blocks": [
+    {
+     "text": "BERECi ja BERECi büroo tegevust uurib Euroopa Ombudsman vastavalt ELi toimimise lepingu artiklile 228.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_46",
+   "kind": "article",
+   "number": "46",
+   "label": "Artikkel 46",
+   "title": "Keeltekasutuse kord",
+   "path": [
+    "IX PEATÜKK — ÜLDSÄTTED"
+   ],
+   "blocks": [
+    {
+     "text": "1. BERECi büroo suhtes kohaldatakse määrust nr 1.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. BERECi büroo tööks vajalikke tõlketeenuseid pakub Euroopa Liidu Asutuste Tõlkekeskus.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_47",
+   "kind": "article",
+   "number": "47",
+   "label": "Artikkel 47",
+   "title": "Peakorterileping ja tegutsemistingimused",
+   "path": [
+    "X PEATÜKK — LÕPPSÄTTED"
+   ],
+   "blocks": [
+    {
+     "text": "1. Kokkulepped, milles käsitletakse BERECi büroole vastuvõtvas liikmesriigis antavaid ruume ja selle liikmesriigi pakutavaid vahendeid ning vastuvõtvas liikmesriigis direktori, haldusnõukogu liikmete, BERECi büroo töötajate ja nende perekonnaliikmete suhtes kohaldatavaid erieeskirju, sätestatakse BERECi büroo ja vastuvõtva liikmesriigi vahelises peakorterilepingus, mis sõlmitakse pärast haldusnõukogu heakskiidu saamist ja hiljemalt 21. detsembril 2020.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Vastuvõttev liikmesriik tagab BERECi büroo sujuvaks ja tõhusaks toimimiseks vajalikud tingimused, sealhulgas mitmekeelse ja Euroopale orienteeritud koolihariduse ning asjakohase transpordiühenduse.",
+     "para": "2",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_48",
+   "kind": "article",
+   "number": "48",
+   "label": "Artikkel 48",
+   "title": "Hindamine",
+   "path": [
+    "X PEATÜKK — LÕPPSÄTTED"
+   ],
+   "blocks": [
+    {
+     "text": "1. Komisjon koostab 21. detsembriks 2023 ja seejärel iga viie aasta järel komisjoni suunistele vastava hinnangu, et hinnata BERECi ja BERECi büroo tulemuslikkust seoses nende eesmärkide, volituste, ülesannete ja asukohaga. Hinnangu eesmärk on eelkõige välja selgitada võimalik vajadus muuta BERECi ja BERECi büroo struktuuri või volitusi ja selliste muudatuste finantsmõju.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Kui komisjon leiab, et BERECi või BERECi büroo töö jätkamine ei ole talle seatud eesmärkide, volituste ja ülesannete seisukohast enam põhjendatud, võib komisjon teha ettepaneku käesolevat määrust vastavalt muuta või see kehtetuks tunnistada.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Komisjon esitab hindamistulemuste kohta aruande Euroopa Parlamendile, nõukogule ja haldusnõukogule ning avalikustab need.",
+     "para": "3",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_49",
+   "kind": "article",
+   "number": "49",
+   "label": "Artikkel 49",
+   "title": "Üleminekusätted",
+   "path": [
+    "X PEATÜKK — LÕPPSÄTTED"
+   ],
+   "blocks": [
+    {
+     "text": "1. BERECi büroo on määrusega (EÜ) nr 1211/2009 asutatud büroo õiglusjärglane kõigi omandiõiguste, lepingute, õiguslike kohustuste, töölepingute, finants- ja muude kohustuste osas. Eelkõige ei mõjuta käesolev määrus büroo töötajate õigusi ja kohustusi. Töötajate töölepinguid võib pikendada käesoleva määruse alusel kooskõlas personalieeskirjade ja muude teenistujate teenistustingimustega ning BERECi büroo eelarvepiirangutega.",
+     "para": "1",
+     "point": ""
+    },
+    {
+     "text": "2. Alates 20. detsembrist 2018 tegutseb määruse (EÜ) nr 1211/2009 alusel ametisse nimetatud haldusdirektor direktorina, täites käesoleva määrusega ette nähtud ülesandeid. Haldusdirektori muud lepingutingimused ei muutu.",
+     "para": "2",
+     "point": ""
+    },
+    {
+     "text": "3. Haldusnõukogu võib pikendada käesoleva artikli lõikes 2 osutatud direktori ametiaega ühe ametiaja võrra. Artikli 32 lõikeid 5 ja 6 kohaldatakse mutatis mutandis. Direktori ametiaeg kokku ei tohi ületada kümmet aastat.",
+     "para": "3",
+     "point": ""
+    },
+    {
+     "text": "4. Käesoleva määruse artiklites 7 ja 15 osutatud reguleerivate asutuste nõukogu ja haldusnõukogu moodustatakse kuni uute esindajate ametisse nimetamiseni määruse (EÜ) nr 1211/2009 artiklites 4 ja 7 osutatud reguleerivate asutuste nõukogu ja juhtkomitee liikmetest.",
+     "para": "4",
+     "point": ""
+    },
+    {
+     "text": "5. Reguleerivate asutuste nõukogu ja haldusnõukogu esimees ja aseesimehed, kes on ametisse nimetatud määruse (EÜ) nr 1211/2009 alusel, jäävad käesoleva määruse artiklis 10 osutatud reguleerivate asutuste nõukogu esimehe ja aseesimeestena ning käesoleva määruse artiklis 17 osutatud haldusnõukogu esimehe ja aseesimeestena ametisse oma üheaastase ametiaja ülejäänud ajaks. Määruse (EÜ) nr 1211/2009 alusel toimunud reguleerivate asutuste nõukogu ja haldusnõukogu esimehe ja aseesimeeste ametisse nimetamised, mis on toimunud enne 20. detsembrit 2018 ja mille kehtivusaeg jätkub pärast nimetatud kuupäeva, jäävad jõusse.",
+     "para": "5",
+     "point": ""
+    },
+    {
+     "text": "6. Määruse (EÜ) nr 1211/2009 artikli 11 alusel heaks kiidetud eelarve täitmisele heakskiidu andmise menetlust rakendatakse kooskõlas kõnealuses määruses kehtestatud reeglitega.",
+     "para": "6",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_50",
+   "kind": "article",
+   "number": "50",
+   "label": "Artikkel 50",
+   "title": "Määruse (EL) 2015/2120 muutmine",
+   "path": [
+    "X PEATÜKK — LÕPPSÄTTED"
+   ],
+   "blocks": [
+    {
+     "text": "Määrust (EL) 2015/2120 muudetakse järgmiselt.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "1) Pealkiri asendatakse järgmisega: „Euroopa Parlamendi ja nõukogu määrus (EL) 2015/2120, 25. november 2015, millega nähakse ette avatud internetiühendust käsitlevad meetmed ja reguleeritud ELi-sisese side jaehinnad, ning millega muudetakse direktiivi 2002/22/EÜ ning määrust (EL) nr 531/2012“.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "2) Artiklisse 1 lisatakse järgmine lõige: „3. Käesoleva määrusega sätestatakse samuti ühised õigusnormid, mis tagavad, et tarbijatelt ei küsita liiga kõrget hinda numbripõhiste isikutevahelise side teenuste kasutamise eest, mis algavad tarbija teenusepakkuja liikmesriigis ja lõppevad mis tahes püsivõrgu või mobiiltelefoni numbril teises liikmesriigis.“",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "3) Artikli 2 teise lõiku lisatakse järgmised punktid: „3) „reguleeritud ELi-sisene side“ – numbripõhine isikutevahelise side teenus, mis algab tarbija omamaise teenusepakkuja liikmesriigis ja lõppeb teise liikmesriigi numeratsiooniplaanile vastaval püsivõrgu või mobiiltelefoni numbril ja mille eest küsitakse täielikult või osaliselt tasu tegeliku tarbimise põhjal; 4) „numbripõhine isikutevahelise side teenus“ – Euroopa Parlamendi ja nõukogu direktiivi (EL) 2018/1972 artikli 2 punktis 6 määratletud numbripõhine isikutevahelise side teenus. (*1) Euroopa Parlamendi ja nõukogu 11. detsembri 2018 aasta direktiiv (EL) 2018/1972, millega kehtestatakse Euroopa elektroonilise side seadustik (ELT L 321, 17.12.2018, lk 36).“ \"",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "4) Lisatakse järgmine artikkel: „Artikkel 5a Reguleeritud ELi-sisese side jaehinnad 1. Alates 15. maist 2019 ei ületa reguleeritud ELi-sisese side eest tarbijatelt võetav tasu (ilma käibemaksuta) 0,19 eurot kõneminuti kohta ja 0,06 eurot lühisõnumi kohta. 2. Olenemata lõike 1 sätestatud kohustustest võivad reguleeritud ELi-sisese sideteenuse pakkujad pakkuda lisaks – ja tarbijad võivad selgesõnaliselt väljendada oma otsust selle kasuks – reguleeritud ELi-sisese side teenuseid hõlmava rahvusvahelise side tariifi, mis erineb lõike 1 kohasest tariifist, misläbi tarbijad saavad reguleeritud ELi-sisese side puhul kasutada teistsugust tariifi kui nad oleksid nõus olnud sellise valiku puudumisel. Enne kui tarbijad valivad sellise teistsuguse tariifi, teavitavad reguleeritud ELi-sisese sideteenuse pakkujad kõnealuseid tarbijaid nendest eelistest, mis nad loobumisega kaotavad. 3. Kui lõikes 2 osutatud reguleeritud ELi-sisese sideteenuse tariif ületab lõikes 1 sätestatud ülempiire, kohaldatakse tarbijate suhtes, kes ei ole kahe kuu jooksul alates 15. maist 2019 kinnitanud ühtegi lõikes 2 osutatud tariifi ega nende kasuks otsustanud, automaatselt lõikes 1 sätestatud tariife. 4. Tarbijad võivad loobuda lõikes 1 sätestatud tariifist või valida selle uuesti ning üleminek toimub tasuta ühe tööpäeva jooksul hetkest, mil teenusepakkuja taotluse kätte saab, ning teenusepakkujad tagavad, et sellega ei kaasne tingimusi või piiranguid, mis on seotud lepingu muude kui ELi-sisese sideteenuse pakkumisega seotud osadega. 5. Kui lõikes 1 osutatud maksimumhinnad on väljendatud muudes vääringutes kui euro, määratakse algsed piirmäärad kindlaks nendes vääringutes, kohaldades 2019. aasta 15. jaanuaril, 15. veebruaril ja 15. märtsil Euroopa Keskpanga poolt Euroopa Liidu Teatajas avaldatud viitekursside keskmist. Muudes vääringutes kui euro väljendatud maksimumhinnad vaadatakse alates 2020. aastast läbi kord aastas. Nendes vääringutes iga-aastaselt läbivaadatud piirmäärasid kohaldatakse alates 15. maist, kasutades sama aasta 15. jaanuaril, 15. veebruaril ja 15. märtsil avaldatud viitekursside keskmist. 6. Riigi reguleerivad asutused jälgivad reguleeritud ELi-sisese sideteenuse turgu ja hinnaarengut ning annavad sellest aru komisjonile. Kui reguleeritud ELi-sisese sideteenuse pakkuja tõendab, et eriomaste ja erandlike asjaolude tõttu, mis eristavad teda teistest liidu teenusepakkujatest, avaldaks lõike 1 kohaldamine märkimisväärset mõju tema suutlikkusele säilitada riigisisese side puhul kehtivad hinnad, võib riiklik reguleeriv asutus teha teenusepakkuja taotluse korral erandi lõike 1 kohaldamisest üksnes sellises ulatuses, mis on vajalik, ja üheaastaseks ajavahemikuks, mida saab pikendada. Riigisisese hinnamudeli jätkusuutlikkuse hindamine põhineb asjakohastel, reguleeritud ELi-sisese sideteenuse pakkujale eriomastel objektiivsetel teguritel ning riigisiseste hindade ja tulu tasemel. Kui taotlev teenusepakkuja on täitnud kohaldatava tõendamiskohustuse, teeb riigi reguleeriv asutus kindlaks selle ülempiiri, mis ületab ühte või mõlemat maksimaalset hinnataset, mis on sätestatud lõikes 1, mis oleks vajalik teenusepakkuja riigisisese hinnamudeli jätkusuutlikkuse tagamiseks. BEREC avaldab suunised parameetrite kohta, millega riigi reguleerivad asutused peavad hindamisel arvestama.“",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "5) Artiklisse 6 lisatakse järgmine lõige: „Liikmesriigid kehtestavad karistusnormid, mida kohaldatakse artikli 5a rikkumise korral, ning võtavad kõik vajalikud meetmed, et tagada kõnealuste normide rakendamine. Kehtestatud karistused peavad olema tõhusad, proportsionaalsed ja hoiatavad. Liikmesriigid teavitavad komisjoni hiljemalt 15. mail 2019 artikli 5a rakendamise tagamiseks kehtestatud normidest ja meetmetest ning teavitavad teda viivitamata nende hilisematest muudatustest.“",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "6) Artiklisse 10 lisatakse järgmine lõige: „5. Artikkel 5a kaotab kehtivuse 14. mail 2024. aastal.“",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_51",
+   "kind": "article",
+   "number": "51",
+   "label": "Artikkel 51",
+   "title": "Kehtetuks tunnistamine",
+   "path": [
+    "X PEATÜKK — LÕPPSÄTTED"
+   ],
+   "blocks": [
+    {
+     "text": "Määrus (EÜ) nr 1211/2009 tunnistatakse kehtetuks.",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Viiteid kehtetuks tunnistatud määrusele käsitletakse viidetena käesolevale määrusele ja neid loetakse vastavalt lisas esitatud vastavustabelile.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "art_52",
+   "kind": "article",
+   "number": "52",
+   "label": "Artikkel 52",
+   "title": "Jõustumine",
+   "path": [
+    "X PEATÜKK — LÕPPSÄTTED"
+   ],
+   "blocks": [
+    {
+     "text": "Käesolev määrus jõustub kolmandal päeval pärast selle avaldamist Euroopa Liidu Teatajas.",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  },
+  {
+   "id": "anx_1",
+   "kind": "annex",
+   "number": "1",
+   "label": "LISA",
+   "title": "",
+   "path": [],
+   "blocks": [
+    {
+     "text": "Vastavustabel",
+     "para": "",
+     "point": ""
+    },
+    {
+     "text": "Määrus (EÜ) nr 1211/2009 Käesolev määrus Artikli 1 lõige 1 Artikkel 1 Artikli 1 lõige 2 Artikli 3 lõige 1 Artikli 1 lõige 3 Artikli 3 lõiked 2 ja 3 Artikli 1 lõige 4 Artikli 3 lõige 4, ja artikli 4 lõike 1 punktid a ja b Artikkel 2 Artikkel 4 Artikkel 3 Artikkel 4 Artikli 4 lõige 1 Artikkel 6 Artikli 4 lõige 2 Artikli 7 lõiked 1, 2 ja 4, artikli 8 lõiked 1, 2 Artikli 4 lõige 3 Artikli 11 lõiked 4 ja 5 ning artikkel 36 Artikli 4 lõige 4 Artikli 10 lõiked 1, 2 ja 3 Artikli 4 lõige 5 Artikli 10 lõige 4 Artikli 4 lõige 6 Artikkel 11 Artikli 4 lõige 7 Artikkel 13 Artikli 4 lõige 8 Artikli 7 lõige 4 Artikli 4 lõige 9 Artikli 12 lõiked 1 ja 2 Artikli 4 lõige 10 Artikli 12 lõige 3 Artikli 4 lõige 11 Artikkel 5 Artikkel 5 Artikkel 4 Artikli 6 lõige 1 Artikli 2 lõige 1 Artikli 6 lõige 2 Artikkel 5 Artikli 6 lõige 3 Artikli 14 lõige 1 Artikli 6 lõige 4 Artikli 2 lõige 2 Artikli 6 lõige 5 Artiklid 20 ja 31 Artikli 7 lõige 1 Artikli 15 lõige 1 Artikli 7 lõige 2 Artikkel 32 Artikli 7 lõige 3 Artikli 20 lõige 6 Artikli 7 lõige 4 Artikli 16 lõike 1 punkt k Artikli 7 lõige 5 Artikkel 13 Artikkel 8 Artikkel 32 Artikkel 9 Artikkel 20 Artikli 10 lõige 1 Artikkel 30, artikkel 34 Artikli 10 lõige 2 Artikli 16 lõike 1 punkt j Artikli 10 lõige 3 Artikli 16 lõige 2 Artikli 10 lõige 4 Artikkel 33 Artikkel 11 Artikkel 25 Artikkel 12 Artikkel 24 Artikkel 13 Artikkel 26 Artikkel 14 — Artikkel 15 Artikkel 29 Artikkel 16 Artikkel 43 Artikkel 17 Artikli 4 lõige 5 Artikkel 18 Artikkel 37 Artikkel 19 Artiklid 39 ja 40 Artikkel 20 Artikkel 38 Artikkel 21 Artikkel 42 Artikkel 22 Artikkel 36 Artikkel 23 Artikkel 34 Artikkel 24 Artikkel 44 Artikkel 25 Artikkel 48 Artikkel 26 Artikkel 52",
+     "para": "",
+     "point": ""
+    }
+   ],
+   "source_celex": "32018R1971"
+  }
+ ]
+}
