@@ -193,7 +193,7 @@ class EngineTests(TempData):
         self.assertTrue(quote.url.endswith("?uri=CELEX:02018L1972-20241018#art_1"))
         self.assertIn(f"“{quote.text}”", reply.text)
         self.assertNotIn("free access to all networks", reply.text)
-        self.assertIn(i18n.STRINGS["situation_invite"], reply.text)
+        self.assertNotIn(i18n.STRINGS["situation_invite"], reply.text)  # no set phrase
         self.assertIn("consolidated text of 18.10.2024", reply.text)
         self.assertNotIn("32018L1972", reply.text)  # no link to the 2018 text
         self.assert_disclaimer(reply)
@@ -246,22 +246,25 @@ class EngineTests(TempData):
         self.assertEqual(first.kind, "answer")
         self.assertIn("which I cannot review: Estonian rules on early-termination fees",
                       first.text)
-        self.assertIn(i18n.STRINGS["situation_invite"], first.text)
         self.assertIn("Under the European Electronic Communications Code",
                       llm.calls[1]["system"])
         stored = feedback.read_all()
         self.assertEqual(stored[0]["reason"], "partly_outside")
         self.assertEqual(stored[0]["topics"], [national])
 
-    def test_answer_without_outside_topics_keeps_the_usual_offer(self) -> None:
+    def test_the_models_followup_offer_is_shown_and_read_with_the_next_message(self) -> None:
+        offer = "If you tell me which service you offer, I can check which of these apply."
         answer = {"status": "answered", "answer": "Under the Code, ...", "outside_topics": [],
-                  "quotes": [{"passage_id": "P1", "text": ART1_P1}]}
-        turns = iter([analysis(), answer])
-        engine, _ = self.engine(lambda name, system, user: next(turns))
+                  "followup": offer, "quotes": [{"passage_id": "P1", "text": ART1_P1}]}
+        turns = iter([analysis(), answer, analysis(intent="greeting")])
+        engine, llm = self.engine(lambda name, system, user: next(turns))
         session = Session()
         reply = engine.respond("What is this directive about?", session)
-        self.assertIn(i18n.STRINGS["situation_invite"], reply.text)
+        self.assertEqual(reply.followup, offer)
+        self.assertIn(offer, reply.text)
         self.assertEqual(feedback.read_all(), [])  # nothing outside the act to record
+        engine.respond("Yes, please", session)
+        self.assertIn(offer, llm.calls[-1]["system"])  # the intake step knows what was offered
 
     def test_saved_translation_is_refreshed_only_where_the_english_changed(self) -> None:
         stale = {k: f"[et] {v}" for k, v in i18n.STRINGS.items()}
@@ -306,8 +309,6 @@ class EngineTests(TempData):
         reply = engine.respond("We run a small network and ...", Session())
         self.assertEqual(reply.kind, "situation")
         self.assertIn("The user has described a situation", llm.calls[-1]["system"])
-        self.assertIn(i18n.STRINGS["situation_followup"], reply.text)
-        self.assertNotIn(i18n.STRINGS["situation_invite"], reply.text)
         self.assert_disclaimer(reply)
 
     def test_yes_to_the_invitation_asks_for_the_situation(self) -> None:
@@ -384,7 +385,7 @@ class EngineTests(TempData):
         engine, _ = self.engine(lambda name, system, user: next(turns))
         shown = []
         engine.respond("Question?", Session(), on_progress=shown.append)
-        self.assertEqual(shown[-1], "**Yes.**\n\nUnder the Code, ...")
+        self.assertEqual(shown[-1], "Yes.\n\nUnder the Code, ...")
 
     def test_partial_json_fields_are_read_while_arriving(self) -> None:
         from eu_law_nli.engine import partial_field

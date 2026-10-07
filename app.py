@@ -12,6 +12,7 @@ in the terminal:
 from __future__ import annotations
 
 import hmac
+import html
 import logging
 import os
 import time
@@ -47,6 +48,40 @@ from eu_law_nli.registry import list_documents, load_document  # noqa: E402
 
 st.set_page_config(page_title="EU LexRef", page_icon="⚖️")
 
+ASSETS = os.path.join(os.path.dirname(os.path.abspath(__file__)), "assets")
+# Navy for the assistant, a light slate blue for the user: told apart at a
+# glance, and no red or orange, which read as alerts.
+AVATARS = {"user": os.path.join(ASSETS, "avatar_user.svg"),
+           "assistant": os.path.join(ASSETS, "avatar_assistant.svg")}
+
+# Layout touches the theme settings cannot express: a slim header, the summary
+# as a key-finding box and the cited articles as small linked labels.
+st.markdown("""<style>
+[data-testid="stMainBlockContainer"] { padding-top: 4rem; }
+.lexref-brand { display: flex; align-items: center; gap: .65rem; margin: 0 0 .75rem; }
+.lexref-mark { flex: none; width: 2.1rem; height: 2.1rem; border-radius: 6px;
+  background: #1f3a5f; color: #fff; display: flex; align-items: center;
+  justify-content: center; font: 700 1.3rem Georgia, "Times New Roman", serif; }
+.lexref-name { font-size: 1.45rem; font-weight: 700; color: #1f3a5f; line-height: 1.1; }
+.lexref-tagline { font-size: .9rem; color: #5b6573; line-height: 1.2; }
+.lexref-summary { border-left: 3px solid #1f3a5f; background: #eef2f7;
+  padding: .6rem .9rem; border-radius: 0 6px 6px 0; margin: 0 0 .8rem; }
+.lexref-cites { display: flex; flex-wrap: wrap; gap: .4rem; margin: .1rem 0 .6rem; }
+.lexref-cite { font-size: .8rem; padding: .12rem .6rem; border: 1px solid #c5d0de;
+  border-radius: 999px; background: #f3f6fa; color: #1f3a5f !important;
+  text-decoration: none !important; white-space: nowrap; }
+.lexref-cite:hover { background: #e3eaf3; border-color: #1f3a5f; }
+</style>""", unsafe_allow_html=True)
+
+
+def brand_header(t: dict) -> None:
+    """The product name and tagline in one slim line."""
+    st.markdown(
+        f'<div class="lexref-brand"><div class="lexref-mark">§</div><div>'
+        f'<div class="lexref-name">{html.escape(t["page_title"])}</div>'
+        f'<div class="lexref-tagline">{html.escape(t["page_subtitle"])}</div></div></div>',
+        unsafe_allow_html=True)
+
 
 def password_gate() -> None:
     """Ask for the shared test password when NLI_APP_PASSWORD is set (on
@@ -57,8 +92,7 @@ def password_gate() -> None:
         return
     # In the browser's language, from the saved translations (no model call here).
     t = Localiser(None).strings((st.context.locale or "en").split("-")[0].lower())
-    st.title(t["page_title"])
-    st.markdown(f"**{t['page_subtitle']}**")
+    brand_header(t)
     st.write(t["login_intro"])
     with st.form("login", border=True, enter_to_submit=True):
         # "current-password" tells browsers this is an existing password, so phones
@@ -147,6 +181,10 @@ for stale in [k for k in st.session_state if str(k).startswith("doc_select_")
     del st.session_state[stale]  # an earlier language's dropdown may hold an old choice
 
 with st.sidebar:
+    if st.button(ui["new_conversation"], icon=":material/add:", use_container_width=True):
+        for key in ("session", "shown", "queued"):
+            st.session_state.pop(key, None)
+        st.rerun()
     # Shown even with one act, so more acts can be added to documents/ later.
     current = st.session_state.get("document", default_id)
     doc_id = st.selectbox(ui["legal_act_label"], documents, key=select_key(page_language),
@@ -199,9 +237,13 @@ def show_reply(reply: Reply, latest: bool) -> None:
     collapsed, then notes, a suggested act and the small print (the
     disclaimer on the first reply only)."""
     if reply.summary:
-        st.markdown(f"**{reply.summary}**")
+        st.markdown(f'<div class="lexref-summary">{html.escape(reply.summary)}</div>',
+                    unsafe_allow_html=True)
     if reply.details:
         st.markdown(reply.details)
+    cited = citation_labels(reply)
+    if cited:
+        st.markdown(f'<div class="lexref-cites">{cited}</div>', unsafe_allow_html=True)
     if reply.wording:
         label = strings["show_wording"] if reply.quotes else strings["closest_heading"]
         with st.expander(label):
@@ -218,6 +260,20 @@ def show_reply(reply: Reply, latest: bool) -> None:
     st.caption("  \n".join(x for x in (reply.disclaimer, reply.source) if x))
 
 
+def citation_labels(reply: Reply) -> str:
+    """The articles an answer quotes, once each, as labels linking to EUR-Lex."""
+    labels: dict[str, str] = {}
+    for quote in getattr(reply, "quotes", []):
+        if quote.reference in labels:
+            continue
+        text = html.escape(quote.reference)
+        labels[quote.reference] = (
+            f'<a class="lexref-cite" href="{html.escape(quote.url, quote=True)}" '
+            f'target="_blank" rel="noopener">{text}</a>' if quote.url
+            else f'<span class="lexref-cite">{text}</span>')
+    return "".join(labels.values())
+
+
 def _ask(text: str) -> None:
     st.session_state["queued"] = text
 
@@ -230,9 +286,9 @@ def _switch(document: str, question: str) -> None:
     st.session_state["carry_shown"] = "switched_to"
 
 
-with st.sidebar:
+with st.sidebar, st.container(border=True):  # the text in use, grouped
     version = engine.version
-    st.caption(engine.doc.citation)
+    st.markdown(f"**{engine.doc.citation}**")
     version_text = strings.get(f"version_line_{version.kind}",
                                strings["version_line_document"]).format(
         date=format_date(version.date))
@@ -240,26 +296,22 @@ with st.sidebar:
     if config.LIVE_CHECK and state.get("ok") and state.get("version") == version.id:
         version_text += ", " + strings["latest_note"].format(
             checked=format_date(state.get("last_ok_at") or state["checked_at"]))
-    st.write(version_text)
+    st.caption(version_text)
     lang = session.language.upper() if session.language.upper() in engine.corpora \
         else engine.reference.lang
     official = sources.link(engine.doc, version, lang)
     if official:
-        st.link_button(strings["open_eurlex"], official)
-    if st.button(strings["new_conversation"]):
-        for key in ("session", "shown", "queued"):
-            st.session_state.pop(key, None)
-        st.rerun()
+        st.link_button(strings["open_eurlex"], official, icon=":material/open_in_new:",
+                       use_container_width=True)
 
-st.title(strings["page_title"])
-st.markdown(f"**{strings['page_subtitle']}**")
+brand_header(strings)
 intro = strings["page_intro"]
 if config.USAGE_LOG:
     intro += " " + strings["audit_notice"].format(days=config.USAGE_RETENTION_DAYS)
-st.caption(intro)
-
-# Neutral icons instead of Streamlit's red and orange defaults, which read as alerts.
-AVATARS = {"user": ":material/person:", "assistant": ":material/balance:"}
+if shown:  # once the conversation starts, the introduction moves to the sidebar
+    st.sidebar.caption(intro)
+else:
+    st.caption(intro)
 
 for index, (role, item) in enumerate(shown):
     if role == "notice":

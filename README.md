@@ -72,7 +72,9 @@ Behaviour to expect:
   language, for the 24 EU languages). The empty page offers two example
   questions. Errors are explained in plain words; the technical detail goes
   to the usage log only.
-- **Situations.** Answers offer to compare a situation. When the user
+- **Follow-ups and situations.** The model ends an answer with at most one
+  natural offer of a next step for that question (never repeated), and leaves it
+  out when nothing would help. Users can also describe a situation. When the user
   describes one, the reply lists the relevant provisions, how they may apply,
   and which facts are missing. It does not give a conclusion.
 - **Disclaimer.** Users accept it with a checkbox when they log in, and the

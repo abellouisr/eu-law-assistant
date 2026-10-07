@@ -89,6 +89,7 @@ class Session:
     language_name: str = "English"
     document_name: str = ""  # the act's name in the user's language
     disclaimer_shown: bool = False  # the disclaimer comes with the first reply only
+    last_offer: str = ""  # the follow-up offer in the last reply, so a "yes" can be read
     id: str = field(default_factory=lambda: uuid.uuid4().hex[:12])  # random, for the usage log
     interface: str = ""  # "web" or "cli", for the usage log
 
@@ -312,8 +313,8 @@ class Engine:
         suggestion = self._suggest(analysis, message, question_en, True, session)
         if suggestion:
             notes.append(self._suggestion_note(suggestion, strings))
-        followup = (strings["situation_followup"] if mode == "situation"
-                    else strings["situation_invite"])
+        # Written by the model for this question, and left out when nothing would help.
+        followup = str(answer.get("followup") or "").strip()
         reply = self._finish(
             strings, session, mode if mode == "situation" else "answer",
             summary=(answer.get("summary") or "").strip(), details=answer["answer"].strip(),
@@ -341,7 +342,7 @@ class Engine:
         return "\n".join(f"{role.upper()}: {text[:1500]}" for role, text in turns)
 
     def _analyse(self, message: str, session: Session) -> dict:
-        pending = "an invitation to share a situation, if one was made"
+        pending = f'"{session.last_offer}"' if session.last_offer else "none was made"
         system = prompts.ANALYSE_SYSTEM.format(
             title=self.doc.title, scope=self.doc.scope, outline=self._outline,
             previous_language=f"{session.language_name} ({session.language})", pending=pending,
@@ -434,7 +435,7 @@ class Engine:
                     return
                 summary, details = partial_field(raw, "summary"), partial_field(raw, "answer")
                 if summary or details:
-                    on_progress(f"**{summary}**\n\n{details}" if details else f"**{summary}**")
+                    on_progress(f"{summary}\n\n{details}" if details else summary)
         return self.llm.json(system, user, prompts.ANSWER_SCHEMA, "write_answer", on_text=stream)
 
     def _verify(self, raw_quotes: list[dict], passages: list[Passage],
@@ -611,6 +612,7 @@ class Engine:
         checked = self._live_note(strings)
         source = f"{source} · {checked}." if checked else f"{source}."
         notes = notes or []
+        session.last_offer = followup
         disclaimer = ""
         if not session.disclaimer_shown and kind != "error":
             disclaimer, session.disclaimer_shown = strings["disclaimer"], True

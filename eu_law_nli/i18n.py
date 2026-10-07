@@ -30,9 +30,6 @@ STRINGS: dict[str, str] = {
         "Please describe the situation: who is involved, what has happened, and what you "
         "would like to know. Leave out names and other personal details."
     ),
-    "situation_followup": (
-        "If you can add detail on the points above, I can refine this comparison."
-    ),
     "out_of_scope": (
         "Your question concerns the following subject: {topics}. As of {date}, the selected "
         "act ({document}) does not deal with it, and I cannot review national laws or acts "
