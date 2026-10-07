@@ -10,3 +10,7 @@ gatherUsageStats = false
 font = "-apple-system, BlinkMacSystemFont, Inter:https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap"
 headingFont = "-apple-system, BlinkMacSystemFont, Inter:https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap"
 headingFontWeights = [700, 600, 600, 600, 500, 500]
+# Visible outlines on input fields (password, chat box, dropdown): a grey with
+# at least 3:1 contrast against white, as accessibility guidelines ask.
+showWidgetBorder = true
+borderColor = "#858f9e"
