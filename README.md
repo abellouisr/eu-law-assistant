@@ -1,5 +1,31 @@
 # EU LexRef — EU law reference assistant (prototype)
 
+## For reviewers: run it on your computer
+
+Everything needed is in this folder, including the stored law texts (no
+downloads, no building). Run these commands in this folder:
+
+1. **Install Python 3.10 or later** (https://www.python.org/downloads/).
+2. **Install the packages**, including Jupyter for the notebook:
+   ```
+   pip install -r requirements.txt
+   ```
+3. **Add your own Anthropic API key**: copy `.env.example` to `.env`
+   (`copy .env.example .env` on Windows, `cp .env.example .env` on macOS or
+   Linux), open `.env` and paste your key after `ANTHROPIC_API_KEY=`.
+   Keys come from https://console.anthropic.com/ (API keys). The tests in
+   step 4 do not need a key.
+4. **Run it**, in any of three ways:
+   - the step-by-step walkthrough: `jupyter notebook EU_LexRef_demo.ipynb`,
+     then Run All (about ten questions, a few cents of API use);
+   - the web app: `streamlit run app.py` (opens in your browser);
+   - the automated tests: `python -m unittest tests.test_prototype` (about
+     5 seconds, no API key needed).
+
+The rest of this file describes how the assistant works and how to extend it.
+
+---
+
 A natural language interface for a library of EU acts and other reference
 material: currently the European Electronic Communications Code (Directive
 (EU) 2018/1972), the General Data Protection Regulation and the BEREC

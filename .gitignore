@@ -14,3 +14,6 @@ data/live/
 __pycache__/
 *.pyc
 .claude/
+
+# Packages made for sending the project
+*.zip

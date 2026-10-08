@@ -3,3 +3,4 @@ beautifulsoup4>=4.12
 lxml>=5.0
 requests>=2.31
 streamlit>=1.65
+notebook>=7.0   # Jupyter, for EU_LexRef_demo.ipynb
