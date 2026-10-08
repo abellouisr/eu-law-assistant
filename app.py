@@ -72,6 +72,9 @@ st.markdown("""<style>
   border-radius: 999px; background: #f3f6fa; color: #1f3a5f !important;
   text-decoration: none !important; white-space: nowrap; }
 .lexref-cite:hover { background: #e3eaf3; border-color: #1f3a5f; }
+/* Section titles in the sidebar ("Legal act", "Recent conversations"): one style. */
+.lexref-section { font-size: .78rem; font-weight: 600; text-transform: uppercase;
+  letter-spacing: .05em; color: #5b6573; margin: .6rem 0 .3rem; }
 /* Recent conversations: a left-aligned list; the open one in navy, not greyed out. */
 [data-testid="stSidebar"] [data-testid="stBaseButton-tertiary"] { justify-content: flex-start;
   text-align: left; width: 100%; padding: .15rem .25rem; }
@@ -79,6 +82,12 @@ st.markdown("""<style>
 [data-testid="stSidebar"] [data-testid="stBaseButton-tertiary"]:disabled { color: #1f3a5f;
   font-weight: 600; opacity: 1; }
 </style>""", unsafe_allow_html=True)
+
+
+def section_title(text: str) -> None:
+    """A sidebar section heading, styled the same everywhere."""
+    st.markdown(f'<div class="lexref-section">{html.escape(text)}</div>',
+                unsafe_allow_html=True)
 
 
 def brand_header(t: dict) -> None:
@@ -208,8 +217,10 @@ with st.sidebar:
               on_click=_new_conversation)
     # Shown even with one act, so more acts can be added to documents/ later.
     current = st.session_state.get("document", default_id)
+    section_title(ui["legal_act_label"])
+    # The visible heading is the section title above; the label stays for screen readers.
     doc_id = st.selectbox(ui["legal_act_label"], documents, key=select_key(page_language),
-                          index=documents.index(current),
+                          index=documents.index(current), label_visibility="collapsed",
                           format_func=lambda d: ui.get(f"{d}.name", d))
 
 try:
@@ -353,7 +364,7 @@ with st.sidebar:
         conversations, key=lambda c: conversations[c]["updated"], reverse=True)
         if conversation_title(conversations[c]["shown"])]
     if listed:
-        st.caption(f"**{strings['recent_conversations']}**")
+        section_title(strings["recent_conversations"])
         for cid, saved in listed:
             current_one = cid == conv_id
             st.button(conversation_title(saved["shown"]), key=f"conv_{cid}", type="tertiary",
