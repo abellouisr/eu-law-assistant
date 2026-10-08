@@ -1,0 +1,40 @@
+# Keeps the hosted test app awake: Streamlit Community Cloud puts apps to sleep
+# after about 12 hours without visitors. This visits it every 6 hours and wakes
+# it if needed. Run it by hand from the Actions tab with "Run workflow".
+#
+# Note: GitHub pauses scheduled workflows in a repository with no commits for
+# 60 days; re-enable it from the Actions tab if that happens.
+name: Keep the app awake
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"  # 00:17, 06:17, 12:17 and 18:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  visit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install a headless browser
+        run: |
+          pip install "playwright>=1.47,<2"
+          python -m playwright install --with-deps chromium
+      - name: Visit the app
+        env:
+          APP_URL: https://eu-law-assistant.streamlit.app/
+        run: python .github/scripts/keep_awake.py
+      - name: Keep a screenshot if the visit failed
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: keep-awake-failure
+          path: keep-awake-failure.png
+          if-no-files-found: ignore
