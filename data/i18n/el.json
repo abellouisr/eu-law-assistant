@@ -115,7 +115,8 @@
     "login_error": "That password is not correct. Please check it and try again.",
     "page_subtitle": "EU law reference assistant",
     "login_acknowledge": "I understand that EU LexRef is a reference assistant, not a legal advisor, and that I am responsible for reviewing its answers before relying on them or sharing them.",
-    "login_acknowledge_missing": "Please tick the box above to confirm before logging in."
+    "login_acknowledge_missing": "Please tick the box above to confirm before logging in.",
+    "recent_conversations": "Recent conversations"
   },
   "out_of_scope_library": "Η επιλεγμένη πράξη ({document}) δεν πραγματεύεται το ερώτημα αυτό, αλλά το πραγματεύεται άλλη πράξη της παρούσας βιβλιοθήκης.",
   "suggest_act": "Πιθανώς καλύπτεται με μεγαλύτερη λεπτομέρεια από άλλη πράξη της παρούσας βιβλιοθήκης: {document} (για παράδειγμα {provisions}).",
@@ -144,5 +145,6 @@
   "login_error": "Ο κωδικός πρόσβασης δεν είναι σωστός. Παρακαλούμε ελέγξτε τον και δοκιμάστε ξανά.",
   "page_subtitle": "Βοηθός αναφοράς για το δίκαιο της ΕΕ",
   "login_acknowledge": "Κατανοώ ότι το EU LexRef είναι βοηθός αναφοράς και όχι νομικός σύμβουλος, και ότι είμαι υπεύθυνος/η για τον έλεγχο των απαντήσεών του πριν στηριχθώ σε αυτές ή τις κοινοποιήσω.",
-  "login_acknowledge_missing": "Επιλέξτε το πλαίσιο παραπάνω για να επιβεβαιώσετε πριν συνδεθείτε."
+  "login_acknowledge_missing": "Επιλέξτε το πλαίσιο παραπάνω για να επιβεβαιώσετε πριν συνδεθείτε.",
+  "recent_conversations": "Πρόσφατες συνομιλίες"
 }

@@ -115,7 +115,8 @@
     "login_error": "That password is not correct. Please check it and try again.",
     "page_subtitle": "EU law reference assistant",
     "login_acknowledge": "I understand that EU LexRef is a reference assistant, not a legal advisor, and that I am responsible for reviewing its answers before relying on them or sharing them.",
-    "login_acknowledge_missing": "Please tick the box above to confirm before logging in."
+    "login_acknowledge_missing": "Please tick the box above to confirm before logging in.",
+    "recent_conversations": "Recent conversations"
   },
   "out_of_scope_library": "Pasirinktas aktas ({document}) šio klausimo nereglamentuoja, tačiau jį reglamentuoja kitas šios bibliotekos aktas.",
   "suggest_act": "Tikėtina, kad išsamiau reglamentuojama kitame šios bibliotekos akte: {document} (pavyzdžiui, {provisions}).",
@@ -144,5 +145,6 @@
   "login_error": "Šis slaptažodis yra neteisingas. Patikrinkite jį ir bandykite dar kartą.",
   "page_subtitle": "ES teisės informacinis asistentas",
   "login_acknowledge": "Suprantu, kad „EU LexRef“ yra informacinis pagalbinis įrankis, o ne teisės patarėjas, ir kad esu atsakingas (-a) už jo atsakymų peržiūrą prieš jais remiantis ar jais dalijantis.",
-  "login_acknowledge_missing": "Prieš prisijungdami, pažymėkite aukščiau esantį langelį ir tai patvirtinkite."
+  "login_acknowledge_missing": "Prieš prisijungdami, pažymėkite aukščiau esantį langelį ir tai patvirtinkite.",
+  "recent_conversations": "Naujausi pokalbiai"
 }

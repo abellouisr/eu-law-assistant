@@ -115,7 +115,8 @@
     "login_error": "That password is not correct. Please check it and try again.",
     "page_subtitle": "EU law reference assistant",
     "login_acknowledge": "I understand that EU LexRef is a reference assistant, not a legal advisor, and that I am responsible for reviewing its answers before relying on them or sharing them.",
-    "login_acknowledge_missing": "Please tick the box above to confirm before logging in."
+    "login_acknowledge_missing": "Please tick the box above to confirm before logging in.",
+    "recent_conversations": "Recent conversations"
   },
   "out_of_scope_library": "Избраният акт ({document}) не урежда този въпрос, но друг акт в тази библиотека го урежда.",
   "suggest_act": "Вероятно е уредено по-подробно в друг акт в тази библиотека: {document} (например {provisions}).",
@@ -144,5 +145,6 @@
   "login_error": "Тази парола не е правилна. Моля, проверете я и опитайте отново.",
   "page_subtitle": "Помощник за справки по правото на ЕС",
   "login_acknowledge": "Разбирам, че EU LexRef е справочен асистент, а не правен съветник, и че нося отговорност да прегледам отговорите му, преди да разчитам на тях или да ги споделям.",
-  "login_acknowledge_missing": "Моля, отбележете квадратчето по-горе, за да потвърдите, преди да влезете."
+  "login_acknowledge_missing": "Моля, отбележете квадратчето по-горе, за да потвърдите, преди да влезете.",
+  "recent_conversations": "Скорошни разговори"
 }

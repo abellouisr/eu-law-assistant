@@ -115,7 +115,8 @@
     "login_error": "That password is not correct. Please check it and try again.",
     "page_subtitle": "EU law reference assistant",
     "login_acknowledge": "I understand that EU LexRef is a reference assistant, not a legal advisor, and that I am responsible for reviewing its answers before relying on them or sharing them.",
-    "login_acknowledge_missing": "Please tick the box above to confirm before logging in."
+    "login_acknowledge_missing": "Please tick the box above to confirm before logging in.",
+    "recent_conversations": "Recent conversations"
   },
   "out_of_scope_library": "Ní dhéileálann an gníomh roghnaithe ({document}) leis an gceist seo, ach déileálann gníomh eile sa leabharlann seo léi.",
   "suggest_act": "Is dócha go gcumhdaítear é níos mine in acht eile sa leabharlann seo: {document} (mar shampla {provisions}).",
@@ -144,5 +145,6 @@
   "login_error": "Níl an pasfhocal sin ceart. Seiceáil é le do thoil agus bain triail eile as.",
   "page_subtitle": "Cúntóir tagartha um dhlí an Aontais Eorpaigh",
   "login_acknowledge": "Tuigim gur cúntóir tagartha é EU LexRef, nach comhairleoir dlí é, agus go bhfuil an fhreagracht orm athbhreithniú a dhéanamh ar a chuid freagraí sula mbraithim orthu nó sula roinnim iad.",
-  "login_acknowledge_missing": "Cuir tic sa bhosca thuas le deimhniú sular logáil tú isteach."
+  "login_acknowledge_missing": "Cuir tic sa bhosca thuas le deimhniú sular logáil tú isteach.",
+  "recent_conversations": "Comhráite le déanaí"
 }

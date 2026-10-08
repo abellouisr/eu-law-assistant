@@ -23,6 +23,9 @@ streamlit run app.py            # web chat
 python cli.py                   # or chat in the terminal
 ```
 
+`EU_LexRef_demo.ipynb` walks through the same assistant step by step in a
+notebook; open it from this folder.
+
 The ingest step downloads each act and stores it in `data/`. With
 `--lang ALL` every official EU language is built (or name some:
 `--lang EN ET FR DE`). A question asked in one of those languages is answered
@@ -72,6 +75,10 @@ Behaviour to expect:
   language, for the 24 EU languages). The empty page offers two example
   questions. Errors are explained in plain words; the technical detail goes
   to the usage log only.
+- **Recent conversations.** The sidebar lists the conversations of the current
+  visit (up to 10, named by their first question); a click reopens one with its
+  act and language. They are kept in the browser session's memory only and go
+  when the page is closed.
 - **Follow-ups and situations.** The model ends an answer with at most one
   natural offer of a next step for that question (never repeated), and leaves it
   out when nothing would help. Users can also describe a situation. When the user

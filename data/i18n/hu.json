@@ -115,7 +115,8 @@
     "login_error": "That password is not correct. Please check it and try again.",
     "page_subtitle": "EU law reference assistant",
     "login_acknowledge": "I understand that EU LexRef is a reference assistant, not a legal advisor, and that I am responsible for reviewing its answers before relying on them or sharing them.",
-    "login_acknowledge_missing": "Please tick the box above to confirm before logging in."
+    "login_acknowledge_missing": "Please tick the box above to confirm before logging in.",
+    "recent_conversations": "Recent conversations"
   },
   "out_of_scope_library": "A kiválasztott jogi aktus ({document}) nem foglalkozik ezzel a kérdéssel, de a könyvtár egy másik jogi aktusa igen.",
   "suggest_act": "Valószínűleg részletesebben szabályozza a könyvtár egy másik jogszabálya: {document} (például {provisions}).",
@@ -144,5 +145,6 @@
   "login_error": "Ez a jelszó nem helyes. Kérjük, ellenőrizze, és próbálja meg újra.",
   "page_subtitle": "Uniós jogi referenciaasszisztens",
   "login_acknowledge": "Tudomásul veszem, hogy az EU LexRef referenciaasszisztens, nem jogi tanácsadó, és hogy én felelek azért, hogy a válaszait felülvizsgáljam, mielőtt támaszkodom rájuk vagy megosztom őket.",
-  "login_acknowledge_missing": "A bejelentkezés előtt kérjük, jelölje be a fenti jelölőnégyzetet a megerősítéshez."
+  "login_acknowledge_missing": "A bejelentkezés előtt kérjük, jelölje be a fenti jelölőnégyzetet a megerősítéshez.",
+  "recent_conversations": "Legutóbbi beszélgetések"
 }

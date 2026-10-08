@@ -115,7 +115,8 @@
     "login_error": "That password is not correct. Please check it and try again.",
     "page_subtitle": "EU law reference assistant",
     "login_acknowledge": "I understand that EU LexRef is a reference assistant, not a legal advisor, and that I am responsible for reviewing its answers before relying on them or sharing them.",
-    "login_acknowledge_missing": "Please tick the box above to confirm before logging in."
+    "login_acknowledge_missing": "Please tick the box above to confirm before logging in.",
+    "recent_conversations": "Recent conversations"
   },
   "out_of_scope_library": "Der ausgewählte Rechtsakt ({document}) behandelt diese Frage nicht, wohl aber ein anderer Rechtsakt in dieser Bibliothek.",
   "suggest_act": "Wahrscheinlich ausführlicher in einem anderen Gesetz dieser Bibliothek geregelt: {document} (zum Beispiel {provisions}).",
@@ -144,5 +145,6 @@
   "login_error": "Dieses Passwort ist nicht korrekt. Bitte überprüfen Sie es und versuchen Sie es erneut.",
   "page_subtitle": "Assistent für Referenzen zum EU-Recht",
   "login_acknowledge": "Ich verstehe, dass EU LexRef ein Recherche-Assistent und kein Rechtsberater ist und dass ich selbst dafür verantwortlich bin, seine Antworten zu prüfen, bevor ich mich auf sie verlasse oder sie weitergebe.",
-  "login_acknowledge_missing": "Bitte setzen Sie oben das Häkchen, um dies zu bestätigen, bevor Sie sich anmelden."
+  "login_acknowledge_missing": "Bitte setzen Sie oben das Häkchen, um dies zu bestätigen, bevor Sie sich anmelden.",
+  "recent_conversations": "Letzte Gespräche"
 }

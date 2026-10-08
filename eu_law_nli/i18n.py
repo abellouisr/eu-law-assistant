@@ -103,6 +103,7 @@ STRINGS: dict[str, str] = {
     ),
     "switch_button": "Switch to {document} and ask there",
     "new_conversation": "New conversation",
+    "recent_conversations": "Recent conversations",
     "legal_act_label": "Legal act",
     "version_line_consolidated": "Consolidated version of {date}",
     "version_line_original": "Official Journal version of {date}",

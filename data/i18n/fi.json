@@ -115,7 +115,8 @@
     "login_error": "That password is not correct. Please check it and try again.",
     "page_subtitle": "EU law reference assistant",
     "login_acknowledge": "I understand that EU LexRef is a reference assistant, not a legal advisor, and that I am responsible for reviewing its answers before relying on them or sharing them.",
-    "login_acknowledge_missing": "Please tick the box above to confirm before logging in."
+    "login_acknowledge_missing": "Please tick the box above to confirm before logging in.",
+    "recent_conversations": "Recent conversations"
   },
   "out_of_scope_library": "Valittu säädös ({document}) ei käsittele tätä kysymystä, mutta toinen tämän kirjaston säädös käsittelee.",
   "suggest_act": "Asiaa käsitellään todennäköisesti yksityiskohtaisemmin toisessa tämän kirjaston säädöksessä: {document} (esimerkiksi {provisions}).",
@@ -144,5 +145,6 @@
   "login_error": "Salasana ei ole oikein. Tarkista se ja yritä uudelleen.",
   "page_subtitle": "EU-oikeuden hakuapuri",
   "login_acknowledge": "Ymmärrän, että EU LexRef on viiteapuri eikä oikeudellinen neuvonantaja ja että olen itse vastuussa sen vastausten tarkistamisesta ennen kuin luotan niihin tai jaan niitä edelleen.",
-  "login_acknowledge_missing": "Vahvista valitsemalla yllä oleva ruutu ennen kirjautumista."
+  "login_acknowledge_missing": "Vahvista valitsemalla yllä oleva ruutu ennen kirjautumista.",
+  "recent_conversations": "Viimeaikaiset keskustelut"
 }

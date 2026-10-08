@@ -16,6 +16,7 @@ import html
 import logging
 import os
 import time
+import uuid
 
 import streamlit as st
 
@@ -71,6 +72,12 @@ st.markdown("""<style>
   border-radius: 999px; background: #f3f6fa; color: #1f3a5f !important;
   text-decoration: none !important; white-space: nowrap; }
 .lexref-cite:hover { background: #e3eaf3; border-color: #1f3a5f; }
+/* Recent conversations: a left-aligned list; the open one in navy, not greyed out. */
+[data-testid="stSidebar"] [data-testid="stBaseButton-tertiary"] { justify-content: flex-start;
+  text-align: left; width: 100%; padding: .15rem .25rem; }
+[data-testid="stSidebar"] [data-testid="stBaseButton-tertiary"] p { text-align: left; }
+[data-testid="stSidebar"] [data-testid="stBaseButton-tertiary"]:disabled { color: #1f3a5f;
+  font-weight: 600; opacity: 1; }
 </style>""", unsafe_allow_html=True)
 
 
@@ -180,11 +187,25 @@ for stale in [k for k in st.session_state if str(k).startswith("doc_select_")
               and k != select_key(page_language)]:
     del st.session_state[stale]  # an earlier language's dropdown may hold an old choice
 
+def _new_conversation() -> None:
+    for key in ("session", "shown", "queued"):
+        st.session_state.pop(key, None)
+    st.session_state["conv_id"] = uuid.uuid4().hex  # the old one stays in the list
+
+
+def _open_conversation(conv_id: str) -> None:
+    """Bring back an earlier conversation from this visit, with its act and language."""
+    saved = st.session_state["conversations"][conv_id]
+    for key in ("queued", "go_home", "carry_session", "carry_shown", "act_notice"):
+        st.session_state.pop(key, None)
+    st.session_state.update(conv_id=conv_id, session=saved["session"], shown=saved["shown"],
+                            document=saved["document"])
+    st.session_state[select_key(saved["session"].language)] = saved["document"]
+
+
 with st.sidebar:
-    if st.button(ui["new_conversation"], icon=":material/add:", use_container_width=True):
-        for key in ("session", "shown", "queued"):
-            st.session_state.pop(key, None)
-        st.rerun()
+    st.button(ui["new_conversation"], icon=":material/add:", use_container_width=True,
+              on_click=_new_conversation)
     # Shown even with one act, so more acts can be added to documents/ later.
     current = st.session_state.get("document", default_id)
     doc_id = st.selectbox(ui["legal_act_label"], documents, key=select_key(page_language),
@@ -221,6 +242,7 @@ if st.session_state.get("document") != doc_id or "session" not in st.session_sta
         st.session_state["act_notice"] = carried_notice
     else:
         st.session_state["shown"] = []
+        st.session_state["conv_id"] = uuid.uuid4().hex  # a fresh conversation
 session: Session = st.session_state["session"]
 shown: list[tuple[str, object]] = st.session_state.setdefault("shown", [])
 # English as a fallback: after an update without a restart, a cached engine may
@@ -230,6 +252,28 @@ notice = st.session_state.pop("act_notice", None)
 if notice:
     shown.append(("notice", strings.get(notice, i18n.STRINGS.get(notice, "{document}")).format(
         document=strings.get(f"{doc_id}.name", engine.doc.short_name))))
+
+# Recent conversations of this visit, for the sidebar. Kept in the browser
+# session's memory only: they go when the page is closed, and are not logged.
+# The stored "shown" is the same list the page appends to, so it stays current.
+MAX_CONVERSATIONS = 10
+conversations: dict[str, dict] = st.session_state.setdefault("conversations", {})
+conv_id = st.session_state.setdefault("conv_id", uuid.uuid4().hex)
+saved = conversations.get(conv_id)
+if saved is None or saved["shown"] is not shown or len(shown) != saved["length"]:
+    conversations[conv_id] = {"session": session, "shown": shown, "document": doc_id,
+                              "length": len(shown), "updated": time.time()}
+else:  # the act may have changed, with a new session object
+    saved.update(session=session, document=doc_id)
+for old in sorted(conversations, key=lambda c: conversations[c]["updated"])[:-MAX_CONVERSATIONS]:
+    del conversations[old]
+
+
+def conversation_title(entries: list) -> str:
+    """The first question asked, shortened: the conversation's name in the list."""
+    first = next((item for role, item in entries if role == "user"), "")
+    first = " ".join(str(first).split())
+    return first if len(first) <= 42 else first[:40].rstrip() + "…"
 
 
 def show_reply(reply: Reply, latest: bool) -> None:
@@ -303,6 +347,19 @@ with st.sidebar, st.container(border=True):  # the text in use, grouped
     if official:
         st.link_button(strings["open_eurlex"], official, icon=":material/open_in_new:",
                        use_container_width=True)
+
+with st.sidebar:
+    listed = [(c, conversations[c]) for c in sorted(
+        conversations, key=lambda c: conversations[c]["updated"], reverse=True)
+        if conversation_title(conversations[c]["shown"])]
+    if listed:
+        st.caption(f"**{strings['recent_conversations']}**")
+        for cid, saved in listed:
+            current_one = cid == conv_id
+            st.button(conversation_title(saved["shown"]), key=f"conv_{cid}", type="tertiary",
+                      icon=":material/chat:" if current_one else ":material/history:",
+                      disabled=current_one, on_click=_open_conversation, args=(cid,),
+                      help=strings.get(f"{saved['document']}.name"))
 
 brand_header(strings)
 intro = strings["page_intro"]

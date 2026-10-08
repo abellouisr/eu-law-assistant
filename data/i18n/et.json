@@ -115,7 +115,8 @@
     "login_error": "That password is not correct. Please check it and try again.",
     "page_subtitle": "EU law reference assistant",
     "login_acknowledge": "I understand that EU LexRef is a reference assistant, not a legal advisor, and that I am responsible for reviewing its answers before relying on them or sharing them.",
-    "login_acknowledge_missing": "Please tick the box above to confirm before logging in."
+    "login_acknowledge_missing": "Please tick the box above to confirm before logging in.",
+    "recent_conversations": "Recent conversations"
   },
   "suggest_act": "Tõenäoliselt on seda põhjalikumalt käsitletud selles raamatukogus oleva teises õigusaktis: {document} (näiteks {provisions}).",
   "switch_button": "Vaheta aktile {document} ja küsi seal",
@@ -144,5 +145,6 @@
   "login_error": "See parool ei ole õige. Palun kontrollige seda ja proovige uuesti.",
   "page_subtitle": "ELi õiguse teatmeassistent",
   "login_acknowledge": "Saan aru, et EU LexRef on teatmeabiline, mitte õigusnõustaja, ning et vastutan ise selle vastuste läbivaatamise eest enne, kui toetun neile või jagan neid.",
-  "login_acknowledge_missing": "Palun kinnitage enne sisselogimist ülaltoodud ruudu märkimisega."
+  "login_acknowledge_missing": "Palun kinnitage enne sisselogimist ülaltoodud ruudu märkimisega.",
+  "recent_conversations": "Hiljutised vestlused"
 }

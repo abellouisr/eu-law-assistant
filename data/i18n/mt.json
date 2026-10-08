@@ -115,7 +115,8 @@
     "login_error": "That password is not correct. Please check it and try again.",
     "page_subtitle": "EU law reference assistant",
     "login_acknowledge": "I understand that EU LexRef is a reference assistant, not a legal advisor, and that I am responsible for reviewing its answers before relying on them or sharing them.",
-    "login_acknowledge_missing": "Please tick the box above to confirm before logging in."
+    "login_acknowledge_missing": "Please tick the box above to confirm before logging in.",
+    "recent_conversations": "Recent conversations"
   },
   "out_of_scope_library": "L-att magħżul ({document}) ma jittrattax din il-mistoqsija, iżda att ieħor f'din il-librerija jittratta.",
   "suggest_act": "Probabbilment koperta bi aktar dettall minn att ieħor f'din il-librerija: {document} (pereżempju {provisions}).",
@@ -144,5 +145,6 @@
   "login_error": "Din il-password mhijiex korretta. Jekk jogħġbok iċċekkjaha u erġa' pprova.",
   "page_subtitle": "Assistent ta' referenza dwar il-liġi tal-UE",
   "login_acknowledge": "Nifhem li EU LexRef huwa assistent ta' referenza, mhux konsulent legali, u li jien responsabbli li reviżjona t-tweġibiet tiegħu qabel ma nistrieħ fuqhom jew naqsamhom ma' oħrajn.",
-  "login_acknowledge_missing": "Jekk jogħġbok immarka l-kaxxa hawn fuq biex tikkonferma qabel ma tidħol."
+  "login_acknowledge_missing": "Jekk jogħġbok immarka l-kaxxa hawn fuq biex tikkonferma qabel ma tidħol.",
+  "recent_conversations": "Konversazzjonijiet reċenti"
 }

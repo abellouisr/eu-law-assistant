@@ -115,7 +115,8 @@
     "login_error": "That password is not correct. Please check it and try again.",
     "page_subtitle": "EU law reference assistant",
     "login_acknowledge": "I understand that EU LexRef is a reference assistant, not a legal advisor, and that I am responsible for reviewing its answers before relying on them or sharing them.",
-    "login_acknowledge_missing": "Please tick the box above to confirm before logging in."
+    "login_acknowledge_missing": "Please tick the box above to confirm before logging in.",
+    "recent_conversations": "Recent conversations"
   },
   "out_of_scope_library": "Izvēlētais tiesību akts ({document}) šo jautājumu neregulē, taču cits šīs bibliotēkas tiesību akts to regulē.",
   "suggest_act": "Iespējams, sīkāk reglamentēts citā šīs bibliotēkas tiesību aktā: {document} (piemēram, {provisions}).",
@@ -144,5 +145,6 @@
   "login_error": "Šī parole nav pareiza. Lūdzu, pārbaudiet to un mēģiniet vēlreiz.",
   "page_subtitle": "ES tiesību uzziņu asistents",
   "login_acknowledge": "Es saprotu, ka EU LexRef ir uzziņu asistents, nevis juridiskais padomdevējs, un ka es esmu atbildīgs(-a) par tā sniegto atbilžu pārbaudi, pirms uz tām paļauties vai tās kopīgot.",
-  "login_acknowledge_missing": "Lūdzu, pirms pieteikšanās atzīmējiet iepriekš redzamo izvēles rūtiņu, lai apstiprinātu."
+  "login_acknowledge_missing": "Lūdzu, pirms pieteikšanās atzīmējiet iepriekš redzamo izvēles rūtiņu, lai apstiprinātu.",
+  "recent_conversations": "Nesenās sarunas"
 }
