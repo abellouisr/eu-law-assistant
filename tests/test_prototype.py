@@ -14,7 +14,7 @@ import unittest
 from datetime import date, datetime, timezone
 from pathlib import Path
 
-from eu_law_nli import config, feedback, i18n, ingest, live, usage
+from eu_law_nli import config, feedback, i18n, ingest, live, sheets, usage
 from eu_law_nli.corpus import Corpus, chunk_provision, reference
 from eu_law_nli.engine import Engine, Session, locate
 from eu_law_nli.ingest import build_corpus, raw_path
@@ -37,7 +37,8 @@ class TempData(unittest.TestCase):
         self.tmp = Path(tempfile.mkdtemp())
         self._saved = {k: getattr(config, k) for k in
                        ("DATA_DIR", "RAW_DIR", "CORPUS_DIR", "I18N_DIR", "FEEDBACK_FILE",
-                        "USAGE_FILE", "USAGE_LOG", "LIVE_DIR", "LIVE_CHECK", "DOCUMENTS_DIR")}
+                        "USAGE_FILE", "USAGE_LOG", "LIVE_DIR", "LIVE_CHECK", "DOCUMENTS_DIR",
+                        "GSHEET_ID")}
         config.DATA_DIR = self.tmp
         config.RAW_DIR = self.tmp / "raw"
         config.CORPUS_DIR = self.tmp / "corpus"
@@ -47,6 +48,7 @@ class TempData(unittest.TestCase):
         config.USAGE_LOG = True
         config.LIVE_DIR = self.tmp / "live"
         config.LIVE_CHECK = False  # no network in tests; LiveTests switch it on with fakes
+        config.GSHEET_ID = ""  # never write to a real Google Sheet from the tests
         config.DOCUMENTS_DIR = self.tmp / "documents"
         shutil.copytree(self._saved["DOCUMENTS_DIR"], config.DOCUMENTS_DIR)
         config.RAW_DIR.mkdir(parents=True)
@@ -811,6 +813,92 @@ class LibraryTests(TempData):
         self.assertEqual(other["disclaimer"], "[et] " + i18n.STRINGS["disclaimer"])
         saved = json.loads((config.I18N_DIR / "et.json").read_text(encoding="utf-8"))
         self.assertEqual(saved["guide.name"], "[et] Traffic data guidelines")
+
+
+class FakeWorksheet:
+    def __init__(self) -> None:
+        self.rows: list[list] = []
+
+    def append_row(self, values, value_input_option=None) -> None:
+        self.rows.append(list(values))
+
+    def col_values(self, column: int) -> list:
+        return [row[column - 1] for row in self.rows]
+
+    def delete_rows(self, start: int, end: int) -> None:
+        del self.rows[start - 1:end]
+
+
+class FakeSpreadsheet:
+    def __init__(self) -> None:
+        self.tabs: dict[str, FakeWorksheet] = {}
+
+    def worksheet(self, title: str) -> FakeWorksheet:
+        return self.tabs[title]  # KeyError when missing, like gspread's own error
+
+    def add_worksheet(self, title: str, rows: int, cols: int) -> FakeWorksheet:
+        self.tabs[title] = FakeWorksheet()
+        return self.tabs[title]
+
+
+class SheetsTests(TempData):
+    """The copy of the logs in a Google Sheet, against a fake spreadsheet."""
+
+    def setUp(self) -> None:
+        super().setUp()
+        config.GSHEET_ID = "test-sheet"
+        self.sheet = FakeSpreadsheet()
+        self._open = sheets._open
+        sheets._spreadsheet, sheets._tabs, sheets._last_purge = self.sheet, {}, {}
+
+    def tearDown(self) -> None:
+        sheets.wait()
+        sheets._open = self._open
+        sheets._spreadsheet, sheets._tabs, sheets._last_purge = None, {}, {}
+        super().tearDown()
+
+    def row(self, tab: str, index: int = 1) -> dict:
+        rows = self.sheet.tabs[tab].rows
+        return dict(zip(rows[0], rows[index]))
+
+    def test_usage_and_topics_are_copied_to_the_sheet(self) -> None:
+        usage.record({"session": "abc", "question": "Can I keep my number?",
+                      "articles": ["art_106", "art_105"], "seconds": 1.5})
+        feedback.record("eecc", "2024-10-18", "en", "What VAT applies?",
+                        topics=[{"topic_en": "VAT on phone contracts", "source": "national_law"}])
+        sheets.wait()
+        self.assertEqual(self.sheet.tabs["Usage"].rows[0], sheets.USAGE_COLUMNS)  # header
+        used = self.row("Usage")
+        self.assertEqual(used["question"], "Can I keep my number?")
+        self.assertEqual(used["articles"], "art_106, art_105")
+        self.assertEqual(used["seconds"], 1.5)
+        self.assertEqual(used["error"], "")
+        self.assertEqual(self.row("Topics")["topics"], "VAT on phone contracts (national law)")
+
+    def test_rows_past_the_retention_period_are_deleted(self) -> None:
+        tab = self.sheet.add_worksheet("Usage", 1, 1)
+        tab.append_row(sheets.USAGE_COLUMNS)
+        tab.append_row(["2020-01-01T00:00:00+00:00"] + [""] * (len(sheets.USAGE_COLUMNS) - 1))
+        usage.record({"question": "A new question?"})
+        sheets.wait()
+        self.assertEqual(len(tab.rows), 2)  # header and the new row
+        self.assertEqual(self.row("Usage")["question"], "A new question?")
+
+    def test_a_failing_sheet_never_affects_the_app(self) -> None:
+        def no_access():
+            raise RuntimeError("no access")
+        sheets._spreadsheet, sheets._open = None, no_access
+        with self.assertLogs("eu_law_nli", level="WARNING") as logged:
+            usage.record({"question": "Still logged locally?"})
+            sheets.wait()
+        self.assertIn("no access", logged.output[0])
+        self.assertEqual(usage.read_all()[-1]["question"], "Still logged locally?")
+
+    def test_nothing_is_sent_without_a_sheet_id(self) -> None:
+        config.GSHEET_ID = ""
+        usage.record({"question": "Local only?"})
+        sheets.wait()
+        self.assertEqual(self.sheet.tabs, {})
 
 
 class ProviderTests(unittest.TestCase):

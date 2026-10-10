@@ -17,7 +17,7 @@ import json
 import threading
 from datetime import datetime, timedelta, timezone
 
-from . import config
+from . import config, sheets
 
 _lock = threading.Lock()
 
@@ -42,6 +42,7 @@ def record(document: str, version: str, language: str, question: str,
         with config.FEEDBACK_FILE.open("a", encoding="utf-8") as fh:
             fh.write(json.dumps(entry, ensure_ascii=False) + "\n")
         purge()
+    sheets.add_topic(entry)  # a copy in the Google Sheet, if one is set up
     return entry
 
 

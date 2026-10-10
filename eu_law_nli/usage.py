@@ -23,7 +23,7 @@ import threading
 from collections import Counter
 from datetime import datetime, timedelta, timezone
 
-from . import config
+from . import config, sheets
 
 _lock = threading.Lock()
 
@@ -46,6 +46,7 @@ def record(entry: dict) -> None:
         with config.USAGE_FILE.open("a", encoding="utf-8") as fh:
             fh.write(json.dumps(entry, ensure_ascii=False) + "\n")
         _purge_if_due()
+    sheets.add_usage(entry)  # a copy in the Google Sheet, if one is set up
 
 
 def purge(now: datetime | None = None) -> int:

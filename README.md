@@ -316,6 +316,32 @@ notice. Before wider use, name a controller and a purpose in a privacy notice,
 keep `data/` out of version control (it is in `.gitignore`) and limit who can
 read the folder.
 
+## Usage log in a Google Sheet
+
+A hosted copy loses its local files at every restart, and on Streamlit
+Community Cloud they cannot be opened. With a Google Sheet set up, every usage
+entry is also added as a row to the sheet's **Usage** tab and every recorded
+topic to its **Topics** tab (created on first use). Rows are sent in the
+background, so answers never wait, and rows older than 90 days are deleted
+from the sheet as well. Keep the sheet private: it holds the questions.
+
+1. In https://console.cloud.google.com create a project, enable the **Google
+   Sheets API**, then under IAM & Admin > Service Accounts create a service
+   account (no roles needed) and add a **JSON key**; a key file downloads.
+2. Share the Google Sheet with the service account's address (`client_email`
+   in the key file) as **Editor**.
+3. Locally: save the key as `.secrets/gcp-service-account.json` (ignored by
+   Git) and add to `.env`:
+   `NLI_GSHEET_ID=<the long id in the sheet's address>` and
+   `NLI_GSHEET_CREDENTIALS_FILE=.secrets/gcp-service-account.json`.
+4. On Streamlit Community Cloud (Manage app > Settings > Secrets) add
+   `NLI_GSHEET_ID = "<id>"` and the whole key file as
+   `GCP_SERVICE_ACCOUNT_JSON = '''<paste the JSON here>'''`, then reboot.
+
+Without these settings nothing is sent anywhere. Failures (for example a sheet
+not shared with the service account) are written to the server log and never
+affect the answers.
+
 ## Tests
 
 ```

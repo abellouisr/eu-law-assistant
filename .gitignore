@@ -17,3 +17,5 @@ __pycache__/
 
 # Packages made for sending the project
 *.zip
+.venv/
+.secrets/

@@ -39,6 +39,12 @@ LIVE_CHECK_HOURS = float(os.environ.get("NLI_LIVE_CHECK_HOURS", "24"))
 USAGE_LOG = os.environ.get("NLI_USAGE_LOG", "on").lower() not in {"off", "0", "false", "no"}
 USAGE_FILE = DATA_DIR / "usage" / "usage.jsonl"
 USAGE_RETENTION_DAYS = int(os.environ.get("NLI_USAGE_RETENTION_DAYS", "90"))
+# A private Google Sheet that also receives the usage and topics logs, so they
+# survive restarts of a hosted copy (see sheets.py). Off unless an id is set.
+# Credentials: GCP_SERVICE_ACCOUNT_JSON (the key's JSON text, e.g. in Streamlit
+# Secrets) or NLI_GSHEET_CREDENTIALS_FILE (a path to the key file).
+GSHEET_ID = os.environ.get("NLI_GSHEET_ID", "").strip()
+GSHEET_CREDENTIALS_FILE = os.environ.get("NLI_GSHEET_CREDENTIALS_FILE", "").strip()
 # USD per million input / output tokens, for the cost estimate in the summary.
 PRICES = {"claude-sonnet-5-5": (2.00, 10.00), "claude-opus-5-5": (4.00, 20.00),
           "claude-haiku-4-5": (1.00, 5.00)}
